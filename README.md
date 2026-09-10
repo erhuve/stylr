@@ -1,71 +1,65 @@
 # Stylr
 
-An illustrated personal-style discovery app: adjust a figure, react to outfits, and collect a tentative portrait of what catches your eye. Built for personal use on a Zo Computer, with no account, uploads, AI service, or shopping inventory required.
+A personal-style discovery app built around real people in real clothing. Public: https://stylr-hatsunemiku.zocomputer.io/ · GitHub: https://github.com/erhuve/stylr.
 
-## Project Notes
+## Current product
 
-- Canonical project: `Sites/stylr`; GitHub: https://github.com/erhuve/stylr. The earlier `Sites/style-study` prototype is separate and must not be edited as part of this app.
-- Three screens: **Your figure → Explore → Your portrait**. There are 24 curated looks, four in each of six directions. An early portrait is available after six reactions; completion occurs at 24. Changing figure settings never restricts styles.
-- `FashionModel.tsx` is the single renderer: deterministic SVG geometry for shoulders, chest, waist, hips, and torso/leg balance, six skin tones and three hairstyles. Body and clothing change together; this is illustration, not sizing or virtual try-on. Skin values from the earlier prototype remain readable.
-- Illustration provenance: model faces, bodies, garment silhouettes, patterns and accessories are drawn programmatically as SVG paths and shapes in `FashionModel.tsx`. The 24 authored outfit descriptions, garment types and palettes are in `looks.ts`; these are not model photos, scraped retailer imagery, image-generation outputs or a product inventory.
-- Visual direction: warm paper, olive ink, Instrument Serif and DM Sans. Fonts are self-hosted with OFL licenses in `public/fonts`. `src/theme.json` is the palette source of truth; `zo-theme.ts` generates variables. Do not reintroduce duplicate palette values in `styles.css`—they override the theme in development.
-- No login, server-side personal database, cross-device sync, photo processing or generative outfit model. Personal state stays in browser localStorage. Different preview/published origins have separate storage.
+The homepage is a color-photography study: **Your starting point → Explore → Your portrait**. It includes 42 curated references, 14 independently tagged clothing details, a browsable collection, four reactions, explicit more/less feedback, notes, favorites and portable exports. Ten references are additions beyond the prior research shortlist; visible-logo/graphic holds and grayscale candidates were excluded.
 
-## Behavior and inference
+- Optional self-reported sex is independent of clothing range (women/men/all). It does not control scoring or clothing eligibility. Optional smaller/mid/fuller body reference gently affects ordering, not filtering or fit prediction. These are broad editorial silhouette references, not inferred measurements, sex or identity.
+- The catalog has 23 women's and 19 men's clothing references; broad frame counts are women 13 smaller/6 mid/4 fuller and men 6 smaller/11 mid/2 fuller. Representation is incomplete, especially fuller-bodied full-outfit menswear. The UI discloses this rather than claiming balanced coverage.
+- The first 16 observations prioritize breadth across clothing families, ranges, frames, contributors and feature exposure. Later affinity is bounded so exploration continues. Photos are pinned through draft editing and reload; stale/duplicate votes are rejected.
+- Scores average outfit reactions within contributor groups, then across groups, with shrinkage and stronger explicit feedback. A contributor is a conservative shoot proxy, not an assertion that all photos are one shoot. Wear and admire counts are distinct; unsure adds no inferred positive/negative preference. Notes are stored, not interpreted by AI. Correlated tags, pose, setting and model remain confounds; no causal inference, confidence percentage or definitive type is claimed.
+- Explicit exclusions filter references and favorites. Hidden footwear/bottoms fail closed when the related exclusion matters. Detail references are visibly labeled and only visible garments are tagged. Admired-only looks never become wear favorites. Suggested unvoted references are labeled as untested, not purchasable products.
+- Real photographs never reshape. There is no virtual try-on, fabric simulation, retailer scraping, exact SKU matching or image generation.
 
-Wear, admire, pass and unsure are separate reactions. Admiration contributes to inspiration but never shopping recommendations. The first six cards cover all directions, followed by deterministic trait affinity with exploration every third reaction. Cards never repeat except when explicitly undoing.
+## Compatibility and data
 
-Scores use integer weights before normalization: wear +100, admire +65, pass −55, unsure 0; explicit more +150 and less −180. This avoids reaction-order-dependent floating-point ties. The portrait reports evidence, treats broad ties as ambiguous and does not invent positive preferences from all-pass/unsure sessions. It remains a small curated experiment, not a definitive classification.
+The original 24-look SVG app remains at `/illustrated`, using its unchanged `style-study:v1` storage. Photo sessions use `stylr:photos:v2`. Old reactions are never reassigned to different images or silently migrated. Original figures, budget-based search links and original downloads remain available there.
 
-Freeform notes (600 characters) are saved as text, not interpreted by AI or converted into hidden restrictions. More/less chips guide future cards; the same trait cannot be in both lists. Four explicit exclusions apply only to shopping: heels, skirts, shorts and boots. Suggestions must be looks marked wear and permitted by every exclusion. Budget adds a per-piece search hint to Google Shopping, not a verified price filter. No affiliates or automatic purchases. Existing clothes are encouraged first.
+Both apps are account-free and keep personal data in browser localStorage. Different origins have separate storage. No analytics, server-side profiles or AI calls are part of the app. External source/license links open only on request; images/fonts are served from the app's own origin.
 
-## Data safety
+Drafts save with notes and detail feedback. Undo and filter changes that would replace a nonempty draft require confirmation. Web Locks serialize cross-tab saves; conflicts pause writing. Invalid/future versions remain protected, even after transient read failures. Reloading missing/unreadable storage never discards open work. Clear is serialized, blocks modal cancellation while pending, verifies deletion and detects competing changes. Failed writes/clear are reported, not silently called successful. Environments without Web Locks remain volatile and cannot safely clear through the app.
 
-- Session schema version 1, key `style-study:v1`; missing legacy exclusions default to empty. Validation rejects duplicate votes, invalid IDs/traits, invalid body values, oversized text and unknown structure. Impossible screen states and stale drafts normalize safely.
-- Draft changes save as you type. Revisiting the figure and reloading retain the current card and draft. Undo restores the previous card with its feedback; a nonempty current draft requires explicit discard confirmation, with a download option.
-- Reads and writes are compared inside origin-wide Web Locks. Cross-tab differences pause saving; neither version is silently chosen. In environments without Web Locks, exploration remains available in memory with a warning instead of unsafe writes.
-- Corrupt/unsupported saved data is not silently replaced. Failed reload preserves current work. Failed clear retains both visible and saved data, reports the failure and permits retry. Clear/reset always requires confirmation.
-- Export Markdown includes all reactions, traits, notes, figure settings, exclusions and the unfinished draft, with untrusted markup escaped. Session JSON export preserves machine-readable data. JSON import is not implemented. Browser-data deletion loses the saved study; exports are the portable copy.
-- Async save status is visible. A lock still pending when a tab is forcibly closed can lose unsaved work; use the save indicator and download important notes. Coordination is between this app’s tabs, not arbitrary same-origin software that ignores its lock.
+Markdown and JSON downloads are available; JSON includes optional sex and all settings. Markdown describes clothing/body choices but omits the sex value. JSON import is not implemented. In-app navigation protects pending or blocked saves; browser navigation has a before-unload warning. Force-closing a browser can still lose unsaved work; use the saving indicator and export important work. The lock coordinates this app, not arbitrary same-origin software ignoring that lock.
 
-## Code map
+## Photo sources and licenses
 
-| Path | Responsibility |
-| --- | --- |
-| `src/pages/style-study.tsx` | Screen flow, native dialogs, keyboard/touch interactions, exports |
-| `src/components/FashionModel.tsx` | Parametric SVG figure and garments |
-| `src/lib/looks.ts` | Curated look catalog, trait and direction copy |
-| `src/lib/style-types.ts` | Domain and persisted session types |
-| `src/lib/style-engine.ts` | Validation, reversible voting, scoring, selection, recommendations, export |
-| `src/lib/use-study.ts` | Browser persistence, Web Locks, conflict and failure handling |
-| `src/study.css`, `src/styles.css`, `src/theme.json` | Responsive/editorial styling and theme |
-| `tests/engine.test.ts` | Deterministic engine and hostile-input unit tests |
-| `tests/browser/` | Production-bundle browser, accessibility, fault, touch and SVG tests |
-| `docs/verification/` | Browser screenshots and review resolution evidence |
-| `server.ts` | Bun + Hono, Vite middleware in development, static build in production |
+`src/lib/photo-catalog.ts` contains creator credits, original source and license links, visible feature metadata and conservative garment-visibility flags. `scripts/photo-assets.json` contains the original download URLs. Copyright licenses are Pexels/Unsplash; these are not blanket verification of model/property releases or endorsement. See `docs/photo-sources.md` before changing how the images are used.
 
-## Validation
+Licensed photos and photo-containing screenshots are not committed as a redistributable stock-image library. They are fetched locally into ignored `public/photos/` and served as part of the app. No stock-photo download, bulk export or image resale feature is provided. Credits accompany every displayed image. Source availability can change; the production build has its local copies, but fresh installs require the sources to remain reachable.
 
-Install dependencies with `bun install --frozen-lockfile`. Run:
+## Development and verification
 
-- `bun run typecheck`
-- `bun test tests/engine.test.ts`
-- `bun run build`
-- `bunx playwright install chromium` (once on a new machine)
-- `bun run test:browser`
+Canonical workspace: `Sites/stylr`. The earlier `Sites/style-study` prototype is separate. Read `docs/plans/photo-study.md` for current scope; `docs/plans/stylr-completion.md` describes the original illustration release, not the current homepage.
 
-`CHROMIUM_PATH` optionally selects an installed Chromium executable. By default Playwright fulfills `https://stylr.test` requests from the actual `dist` files—real React, JavaScript, CSS, fonts, browser storage and interactions, no development server required. This does **not** verify hosting/proxy behavior. Set `TEST_BASE_URL` to an already-running site to test that deployment; the fixture then disables interception. Tests never start or restart the managed app.
+Install and verify:
 
-The browser suite checks 320/390/768/1440 layouts, axe WCAG A/AA rules, safe downloads, draft resume, exhaustion, repeated input, native dialogs, synthetic/CDP touch events, blocked/corrupt storage, cross-tab contention and all 32 slider-extreme combinations across 24 outfits plus a neutral figure (800 renders). Desktop/mobile screenshots are generated into `docs/verification`. Actual screen-reader and physical-device testing remain manual; automated checks are not a claim of full accessibility certification.
+```sh
+bun install --frozen-lockfile
+python -m pip install Pillow
+python scripts/fetch-photos.py
+bun run typecheck
+bun run test
+bunx playwright install chromium
+bun run test:browser
+```
 
-## Hosting
+`CHROMIUM_PATH` optionally selects installed Chromium. By default browser tests serve actual production assets from `dist` via Playwright interception at `https://stylr.test`; no manual dev server is needed. Set `TEST_BASE_URL=https://stylr-hatsunemiku.zocomputer.io` to exercise the real public deployment with interception disabled. Both homepage and legacy route are covered. Tests include 320/390/768/1440 layouts, axe accessibility, photo loads, preserved original proportions, filters, drafts, gestures/repeated activation, missing/corrupt storage, conflicts, reset races and the original 800 SVG-render cases. Automated checks are not physical-device or screen-reader certification.
 
-This is a Zo Site: Bun + Hono + React 19 + Vite + TypeScript, with React Compiler enabled. `src/App.tsx` directly renders the study at the SPA entry point. No custom backend data endpoint is needed.
+Photo screenshots are generated locally under `docs/verification/photos-*.png` (ignored); text evidence is in `docs/verification/photo-review.md`.
 
-Zo manages development and publishing processes. Never start/restart them manually or edit system fields in `zosite.json` (ports, entrypoints, publish label/type). Publish only when explicitly requested; pushing this repo does not publish the site.
+## Architecture
 
-Public deployment (published September 9, 2026, America/New_York): https://stylr-hatsunemiku.zocomputer.io/
+Bun + Hono server; Vite + React 19 + TypeScript, React Compiler. `src/App.tsx` chooses the homepage photo study or `/illustrated`. No custom personal-data backend endpoint.
 
-All 26 browser tests passed against this HTTPS deployment with `TEST_BASE_URL` and no request interception, including 800 figure renders. Public GET `/` and a self-hosted font returned 200. HEAD `/` currently returns 404 from the inherited server template; browser GET navigation works. Separate private development preview: https://zite-53955-hatsunemiku.zo.computer/ (not required by the public production service). Browser-local studies are separate for each origin; preview data does not automatically migrate to the public URL.
+- `src/lib/photo-types.ts`: photo and session contract
+- `src/lib/photo-catalog.ts`: curated metadata, no private measurements
+- `src/lib/photo-session.ts`: validation, selection, scoring, undo and notes
+- `src/lib/use-photo-state.ts`: browser persistence and recovery
+- `src/pages/photo-study.tsx`, `src/photo-study.css`: photo UI
+- `src/pages/style-study.tsx`, `src/lib/style-engine.ts`, `src/lib/use-study.ts`, `src/components/FashionModel.tsx`: retained original app
+- `src/theme.json`: palette source of truth; `zo-theme.ts` generates variables; don't duplicate palette values in global CSS
+- `public/fonts/`: self-hosted Instrument Serif/DM Sans and their OFL licenses
 
-Completion scope and review resolutions: `docs/plans/stylr-completion.md` and `docs/verification/review.md`.
+Zo manages all development/publishing processes. Never manually start/restart the site or edit ports/entrypoints in `zosite.json`. Publishing is explicit via `publish_site`; GitHub pushes alone do not deploy. Private dev preview: https://zite-53955-hatsunemiku.zo.computer/ (not required for production).

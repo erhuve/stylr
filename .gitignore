@@ -5,3 +5,5 @@ playwright-report/
 .env
 .env.*
 !.env.example
+public/photos/
+docs/verification/photos-*.png

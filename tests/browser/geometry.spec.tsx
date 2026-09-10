@@ -19,7 +19,7 @@ async function geometry(page: Page, selector: string) {
 }
 
 test('800 illustrations: all slider extremes and looks stay in bounds with unique complete SVG definitions', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('/illustrated');
   let checked = 0;
   for (let bits = 0; bits < 32; bits++) {
     const body: Body = { ...freshSession().body, skin: SKINS[bits % SKINS.length], hair: (['crop', 'bob', 'long'] as const)[bits % 3] };
@@ -39,7 +39,7 @@ test('800 illustrations: all slider extremes and looks stay in bounds with uniqu
 });
 
 test('each proportion alters body and garment paths independently', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('/illustrated');
   await expect(page.locator('.main-figure')).toBeVisible();
   const paths = () => page.evaluate(() => ['.main-figure', '.preview-strip svg[role="img"]'].map(selector => Array.from(document.querySelector(selector)!.querySelectorAll('path')).map(path => path.getAttribute('d')).join('|')));
   for (const key of measures) {

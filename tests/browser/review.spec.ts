@@ -3,7 +3,7 @@ import { freshSession, STORAGE_KEY } from '../../src/lib/style-engine';
 import { LOOKS } from '../../src/lib/looks';
 
 async function start(page: Page) {
-  await page.goto('/');
+  await page.goto('/illustrated');
   await page.getByRole('button', { name: 'Find what feels like you' }).click();
 }
 async function settled(page: Page) {
@@ -60,7 +60,7 @@ test('failed clear keeps data, shows failure and can be retried', async ({ page 
 test('failed reload preserves this tab’s only unsaved notes', async ({ page, context }) => {
   await start(page);
   const other = await context.newPage();
-  await other.goto('/');
+  await other.goto('/illustrated');
   await wear(other);
   await expect(page.getByRole('alert')).toContainText('Another tab');
   await page.locator('summary').click();
@@ -73,11 +73,11 @@ test('failed reload preserves this tab’s only unsaved notes', async ({ page, c
 });
 
 test('origin-wide lock prevents competing tabs overwriting a winning save', async ({ page, context }) => {
-  await page.goto('/');
+  await page.goto('/illustrated');
   await page.getByRole('slider', { name: 'Waist', exact: true }).fill('41');
   await settled(page);
   const other = await context.newPage();
-  await other.goto('/');
+  await other.goto('/illustrated');
   await page.evaluate(key => {
     (window as any).gate = new Promise<void>(resolve => {
       navigator.locks.request(key, async () => {
@@ -148,7 +148,7 @@ test('all render variants have unique SVG ids, finite geometry, and no missing d
     key: STORAGE_KEY,
     session: { ...freshSession(), step: 'portrait', votes: LOOKS.map(look => ({ lookId: look.id, reaction: 'wear', note: '', more: [], less: [] })) },
   });
-  await page.goto('/');
+  await page.goto('/illustrated');
   await expect(page.locator('.mood-tile')).toHaveCount(24);
   const result = await page.evaluate(() => {
     const ids = Array.from(document.querySelectorAll('[id]')).map(el => el.id);

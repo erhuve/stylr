@@ -12,7 +12,7 @@ async function seed(page: Page, session: Session | string) {
   await page.addInitScript(({ key, raw }) => localStorage.setItem(key, raw), { key: STORAGE_KEY, raw: typeof session === 'string' ? session : JSON.stringify(session) });
 }
 async function ready(page: Page) {
-  await page.goto('/');
+  await page.goto('/illustrated');
   await expect(page.locator('h1')).toBeVisible();
   await page.evaluate(() => document.fonts.ready);
 }

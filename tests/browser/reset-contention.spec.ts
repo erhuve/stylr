@@ -12,7 +12,7 @@ async function hold(page: import('./fixture').Page) {
 }
 
 test('pending clear cannot be dismissed or revive old snapshots after deletion', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('/illustrated');
   await page.getByRole('button', { name: 'Find what feels like you' }).click();
   await page.locator('summary').click();
   await page.getByLabel('In your own words').fill('Private note before clear');
@@ -38,7 +38,7 @@ test('pending clear cannot be dismissed or revive old snapshots after deletion',
 
 test('slow double Undo removes only one reaction at either entry point', async ({ page }) => {
   const initial = { ...freshSession(), step: 'discover', votes: LOOKS.slice(0, 7).map(look => ({ lookId: look.id, reaction: 'wear', note: '', more: [], less: [] })) };
-  await page.goto('/');
+  await page.goto('/illustrated');
   await page.evaluate(({ key, session }) => localStorage.setItem(key, JSON.stringify(session)), { key: STORAGE_KEY, session: initial });
   await page.reload();
   await page.getByRole('button', { name: 'Undo last reaction' }).dblclick({ delay: 450 });
