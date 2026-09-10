@@ -47,3 +47,7 @@ Tests are `tests/photo-session.test.ts`, `tests/photo-review.test.ts` and `tests
 Browser testing is not certification on physical devices or real screen readers. A forced browser shutdown can still lose pending work. Web Locks coordinate cooperating tabs only; unsupported browsers operate in memory and display a warning. No JSON import yet. Free copyright licensing does not establish individually verified publicity/property releases. Photo tags and broad body groupings are editorial judgments; pose/background/contributor effects remain confounds. The portrait describes provisional associations, not a validated psychological or causal preference model.
 
 See `docs/photo-sources.md`, `scripts/photo-assets.json`, and `src/lib/photo-catalog.ts` for provenance and excluded images.
+
+## Public deployment verified
+
+Republished at https://stylr-hatsunemiku.zocomputer.io/ on 2026-09-10 UTC. All 49 Chromium browser tests passed again with TEST_BASE_URL pointing at that public URL and production-asset interception disabled (1.4 minutes). This includes all 42 same-origin photo assets, photo setup/discovery/portrait at four viewport widths, storage recovery and legacy /illustrated behavior. The 800 illustration geometry cases still render the locally compiled unchanged component inside the live page; they are not 800 separate server requests. A clean-directory source provisioning test fetched all 42 credited images successfully. No personal browser sessions were used; tests ran in isolated contexts.
