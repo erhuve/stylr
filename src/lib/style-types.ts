@@ -1,0 +1,14 @@
+export type Direction = 'soft' | 'minimal' | 'tailored' | 'expressive' | 'utility' | 'vintage';
+export type Trait = 'relaxed' | 'fitted' | 'layers' | 'texture' | 'neutral' | 'color' | 'detail' | 'structure';
+export type Constraint = 'no-heels' | 'no-skirts' | 'no-shorts' | 'no-boots';
+export type Body = { shoulders: number; chest: number; waist: number; hips: number; torso: number; skin: string; hair: 'bob' | 'long' | 'crop' };
+export type Look = { id: string; name: string; caption: string; direction: Direction; top: 'blouse' | 'tank' | 'tee' | 'shirt' | 'knit' | 'blazer' | 'jacket' | 'vest' | 'hoodie'; bottom: 'skirt' | 'pleated' | 'wide' | 'straight' | 'shorts' | 'flare'; shoes: 'flats' | 'loafers' | 'sneakers' | 'boots' | 'heels'; pattern: 'plain' | 'floral' | 'stripe' | 'check'; accessory: 'bag' | 'belt' | 'necklace' | 'tie' | 'scarf' | 'none'; colors: [string, string, string, string]; background: string; traits: Trait[]; pieces: [string, string, string] };
+export type Reaction = 'wear' | 'admire' | 'pass' | 'unsure';
+export type Vote = { lookId: string; reaction: Reaction; note: string; more: Trait[]; less: Trait[] };
+export type Draft = Pick<Vote, 'lookId' | 'note' | 'more' | 'less'>;
+export type Session = { version: 1; body: Body; votes: Vote[]; step: 'model' | 'discover' | 'portrait'; budget: 'any' | '50' | '100' | '200'; exclusions: Constraint[]; draft?: Draft };
+export type SessionIssue = null | 'invalid' | 'unsupported';
+export type SessionLoadResult = { session: Session; issue: SessionIssue };
+export type DirectionScore = { direction: Direction; liked: number; seen: number; score: number };
+export type FavoriteLook = { look: Look; vote: Vote };
+export type StylePortrait = { heading: string; summary: string; traits: Trait[]; ranked: DirectionScore[]; favorite: FavoriteLook[]; wearable: FavoriteLook[]; formulas: string[]; provisional: boolean };

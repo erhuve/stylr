@@ -1,12 +1,15 @@
 {
-  "name": "zo-site",
+  "name": "stylr",
   "type": "module",
   "scripts": {
     "clear-cache": "rm -rf node_modules/.vite",
     "dev": "bun run clear-cache && NODE_ENV=development bun run --hot server.ts",
     "build": "bun run clear-cache && vite build",
     "prod": "bun run build && NODE_ENV=production bun run server.ts",
-    "preview": "bun run vite preview"
+    "preview": "bun run vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "bun test tests/*.test.ts tests/*.test.tsx",
+    "test:browser": "bun run build && playwright test"
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",
@@ -41,6 +44,8 @@
     "zod": "^4.1.13"
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.62.1",
     "@types/bun": "1.2.21",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
