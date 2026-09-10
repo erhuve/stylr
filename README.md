@@ -7,6 +7,7 @@ An illustrated personal-style discovery app: adjust a figure, react to outfits, 
 - Canonical project: `Sites/stylr`; GitHub: https://github.com/erhuve/stylr. The earlier `Sites/style-study` prototype is separate and must not be edited as part of this app.
 - Three screens: **Your figure → Explore → Your portrait**. There are 24 curated looks, four in each of six directions. An early portrait is available after six reactions; completion occurs at 24. Changing figure settings never restricts styles.
 - `FashionModel.tsx` is the single renderer: deterministic SVG geometry for shoulders, chest, waist, hips, and torso/leg balance, six skin tones and three hairstyles. Body and clothing change together; this is illustration, not sizing or virtual try-on. Skin values from the earlier prototype remain readable.
+- Illustration provenance: model faces, bodies, garment silhouettes, patterns and accessories are drawn programmatically as SVG paths and shapes in `FashionModel.tsx`. The 24 authored outfit descriptions, garment types and palettes are in `looks.ts`; these are not model photos, scraped retailer imagery, image-generation outputs or a product inventory.
 - Visual direction: warm paper, olive ink, Instrument Serif and DM Sans. Fonts are self-hosted with OFL licenses in `public/fonts`. `src/theme.json` is the palette source of truth; `zo-theme.ts` generates variables. Do not reintroduce duplicate palette values in `styles.css`—they override the theme in development.
 - No login, server-side personal database, cross-device sync, photo processing or generative outfit model. Personal state stays in browser localStorage. Different preview/published origins have separate storage.
 
@@ -61,8 +62,10 @@ The browser suite checks 320/390/768/1440 layouts, axe WCAG A/AA rules, safe dow
 
 This is a Zo Site: Bun + Hono + React 19 + Vite + TypeScript, with React Compiler enabled. `src/App.tsx` directly renders the study at the SPA entry point. No custom backend data endpoint is needed.
 
-Zo manages development and publishing processes. Never start/restart them manually or edit system fields in `zosite.json` (ports, entrypoints, publish label/type). Publish only when explicitly requested; pushing this repo does not publish the site. Current intended state is an authenticated private preview, not a public deployment.
+Zo manages development and publishing processes. Never start/restart them manually or edit system fields in `zosite.json` (ports, entrypoints, publish label/type). Publish only when explicitly requested; pushing this repo does not publish the site.
 
-Private preview: https://zite-53955-hatsunemiku.zo.computer/
+Public deployment (published September 9, 2026, America/New_York): https://stylr-hatsunemiku.zocomputer.io/
+
+All 26 browser tests passed against this HTTPS deployment with `TEST_BASE_URL` and no request interception, including 800 figure renders. Public GET `/` and a self-hosted font returned 200. HEAD `/` currently returns 404 from the inherited server template; browser GET navigation works. Separate private development preview: https://zite-53955-hatsunemiku.zo.computer/ (not required by the public production service). Browser-local studies are separate for each origin; preview data does not automatically migrate to the public URL.
 
 Completion scope and review resolutions: `docs/plans/stylr-completion.md` and `docs/verification/review.md`.

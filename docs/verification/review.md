@@ -27,9 +27,13 @@ A separate read-only reviewer examined the engine, persistence hook, UI and test
 | Follow-up: pending clear can survive dismissal or revive queued private data | Clear is now an exclusive transition: disable dismissal/re-entry/editing, invalidate snapshots before and after deletion. Real held-lock regression confirms Escape cannot cancel a committed pending clear and the data stays deleted after reload. |
 | Follow-up: slow double Undo removes two reactions | Both Undo entry points reject duplicate click detail. Browser regression uses a 450 ms double-click and asserts exactly one removal. |
 
+## Live deployment verification — September 9, 2026, America/New_York
+
+Miku explicitly requested public deployment. Published https://stylr-hatsunemiku.zocomputer.io/ using Zo Sites from app commit `418a172`. Public browser navigation and GET `/` return the app without sign-in; GET `/` and the self-hosted DM Sans font return 200. All 26 Chromium browser tests passed in 1 minute with `TEST_BASE_URL` set to the public HTTPS URL, disabling request fulfillment. This includes 800 figure renders, desktop/mobile flows, accessibility checks, storage faults and cross-tab regressions. The resulting screenshots match the committed fixture screenshots; mobile discovery and desktop figure screenshots were visually checked again. No personal user storage was touched: tests used isolated browser contexts.
+
 ## Remaining limitations
 
-- The managed development process stopped responding during verification. No server was started/restarted manually and no public deployment was requested. Browser tests load the actual dist assets through Playwright request fulfillment at a test origin; they verify the application, not the Zo hosting/proxy layer. The private preview URL is documented but is not claimed reachable at handoff.
+- The inherited server currently returns 404 for HEAD `/`, although GET `/`, assets, fonts and full browser flows work. HEAD-only uptime checks will need a different probe until this template behavior is changed. The earlier private development process was unavailable; the separately managed public production service is now verified as described above.
 - Physical phones and actual assistive-technology sessions were not tested. Automated accessibility checks and synthetic/CDP input are narrower evidence.
 - Browser-local persistence only. There is no cloud sync or JSON import. Browsers without Web Locks can explore/export but do not save automatically. A tab forcibly closed while a save waits for a lock can lose its pending changes; the save indicator distinguishes pending work.
 - The catalog is deliberately small; figures are illustrations, not fit predictions. Shopping links are unverified external searches, not live prices, stock or purchase recommendations for admired-only looks.
