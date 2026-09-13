@@ -6,6 +6,7 @@ import { usePhotoStudy } from '../lib/use-photo-state';
 import type { Feature, Photo, PhotoReaction, PhotoSession } from '../lib/photo-types';
 import '../study.css';
 import '../photo-study.css';
+import PhotoMoodboard from '../components/PhotoMoodboard';
 
 const ranges = { all: 'All looks', women: 'Women’s looks', men: 'Men’s looks' };
 const frames = { all: 'All body references', smaller: 'Smaller frame', mid: 'Mid frame', fuller: 'Fuller frame' };
@@ -46,6 +47,8 @@ export default function PhotoStudy() {
   const admired = session.votes.filter(v => v.reaction === 'admire').length;
   const eligibleIds = new Set(eligible.map(p => p.id));
   const favorites = PHOTOS.filter(p => favoriteIds.has(p.id) && eligibleIds.has(p.id));
+  const admiredIds = new Set(session.votes.filter(v => v.reaction === 'admire').map(v => v.photoId));
+  const admiredPhotos = PHOTOS.filter(p => admiredIds.has(p.id) && eligibleIds.has(p.id));
   const suggestions = availableMatches.filter(p => !favoriteIds.has(p.id));
   const catalogPhotos = eligible.filter(p => feature === 'all' || p.features.includes(feature));
   const imageReady = current?.id === imageState.id && imageState.ok;
@@ -65,7 +68,11 @@ export default function PhotoStudy() {
   useEffect(() => { heading.current?.focus({ preventScroll: true }); }, [session.step, catalog]);
   useEffect(() => {
     const el = dialogRef.current;
-    if (dialog && el && !el.open) { focusReturn.current = document.activeElement as HTMLElement; el.showModal(); }
+    if (dialog && el && !el.open) {
+      focusReturn.current = document.activeElement as HTMLElement;
+      el.showModal();
+      el.querySelector<HTMLButtonElement>(dialog === 'about' ? '.primary-button' : '.outline-button')?.focus();
+    }
     if (!dialog && el?.open) { el.close(); focusReturn.current?.focus(); }
   }, [dialog]);
 
@@ -162,7 +169,7 @@ export default function PhotoStudy() {
           </div><aside className="photo-details"><p className="eyebrow">The reference</p><h2>{current.title}</h2><p>{current.description}</p>{current.view === 'detail' && <p className="field-note">A detail view: hidden shoes and garments are not treated as known.</p>}<label className="note-label" htmlFor="photo-note">What catches your eye?<textarea id="photo-note" value={draft?.note || ''} maxLength={600} placeholder="The sleeves, not the color…" onChange={e => { const note = e.target.value; setSession(s => ({ ...s, draft: { ...(s.draft?.photoId === current.id ? s.draft : emptyDraft(current.id)), note } })); }} /></label><p className="field-note">Notes save with this reaction. Only the explicit detail buttons below affect scores.</p><details><summary>More / less of a detail</summary>{(['more', 'less'] as const).map(kind => <fieldset key={kind}><legend>{kind === 'more' ? 'More of' : 'Less of'}</legend><div className="photo-tags">{featureKeys.map(f => <button key={f} aria-pressed={draft?.[kind].includes(f) || false} onClick={() => feedback(kind, f)}>{FEATURE_LABELS[f]}</button>)}</div></fieldset>)}</details></aside>
         </div> : <div className="photo-empty"><button className="text-button photo-undo" disabled={!canUndo || lock || busy} onClick={() => undo()}><RotateCcw size={15} />Undo last reaction</button><h2>{eligible.length ? 'You’ve explored this selection.' : 'No references match these boundaries.'}</h2><p>{eligible.length ? 'Keep your portrait or change your starting point to explore other clothing.' : 'Try changing your clothing range or exclusions. Your existing reactions are safe.'}</p><button className="primary-button" onClick={() => navigate('portrait')}>View my portrait<ArrowRight size={16} /></button><button className="text-button" onClick={() => navigate('setup')}>Change starting point</button></div>}
       </section>
-      : <section className="page-container photo-portrait"><p className="eyebrow">A portrait, not a label</p><h1 ref={heading} tabIndex={-1}>{session.votes.length ? 'Your inclinations, taking shape.' : 'A blank page is a good start.'}</h1><p className="photo-intro">{session.votes.length} observations · {favoriteIds.size} you’d wear · {admired} you admire. {session.votes.length < 12 ? 'Early signals only—keep exploring before drawing conclusions.' : 'These are provisional patterns from this collection, not a definitive style classification.'}</p><div className="portrait-actions"><button className="primary-button" onClick={() => navigate('discover')}>Keep exploring<ArrowRight size={16} /></button><button className="outline-button" onClick={() => saveFile()}><Download size={15} />Download style notes</button><button className="text-button" onClick={() => saveFile(true)}>Export session JSON</button><button className="text-button photo-undo" disabled={!canUndo || lock || busy} onClick={() => undo()}><RotateCcw size={15} />Undo last reaction</button></div><section className="evidence-section"><h2>What your reactions suggest</h2><p className="field-note">Each detail is normalized by exposure. Admiration is separate from wearability; a photo can contain several details, so correlation is not a controlled test.</p><div className="evidence-grid">{evidence.filter(e => e.seen || e.explicit).map(e => <div className="evidence-item" key={e.feature}><div><span>{FEATURE_LABELS[e.feature]}</span><span>{e.score > 0 ? 'Leaning toward' : e.score < 0 ? 'Leaning away' : 'Still open'}</span></div><p>{e.seen} seen · {e.wear} wear · {e.admire} admire · {e.pass} pass{e.explicit ? ` · ${e.explicit} explicit signals` : ''}</p></div>)}</div>{!session.votes.length && <p>No reactions yet. Explore a few different outfits first.</p>}</section><section className="saved-photos"><h2>Looks you would wear</h2><p className="field-note">Your actual wear reactions within the current clothing range and boundaries. Admired-only looks are not added here.</p>{favorites.length ? <div className="photo-grid">{tiles(favorites)}</div> : <p>No wear favorites match your current filters yet.</p>}</section>{suggestions.length > 0 && <section className="saved-photos"><h2>Other details to explore</h2><p className="field-note">Untested suggestions from the visible clothing tags—not exact products, fits or guarantees.</p><div className="photo-grid">{tiles(suggestions.slice(0, 6), true)}</div></section>}<button className="text-button" onClick={() => setCatalog(true)}>Browse all eligible references<ArrowRight size={15} /></button></section>}
+      : <PhotoMoodboard favorites={favorites} admiredPhotos={admiredPhotos} suggestions={suggestions} evidence={evidence} observations={session.votes.length} totalSaved={favoriteIds.size + admired} headingRef={heading} onExplore={() => navigate('discover')} onSettings={() => navigate('setup')} onDownload={saveFile} onBrowse={() => setCatalog(true)} onUndo={() => undo()} undoDisabled={!canUndo || lock || busy} />}
     </main>
     <footer className="site-footer"><span>{saving ? 'Saving…' : problem ? 'Saving needs attention' : 'Saved on this browser'} · No account or analytics</span><a href="/illustrated" onClick={e => { if (saving || problem) { e.preventDefault(); setNotice('Your latest changes are not safely saved. Wait or download your session before leaving.'); } }}>Open original illustrated study</a><button onClick={() => setDialog('reset')}>Clear photo study</button><a href="https://zo.computer" target="_blank" rel="noreferrer">Built on Zo ↗</a></footer>
     <dialog ref={dialogRef} className="study-dialog" aria-labelledby="photo-dialog-title" onCancel={e => { e.preventDefault(); if (!busy) { pendingPreferences.current = null; setDialog(null); } }}>

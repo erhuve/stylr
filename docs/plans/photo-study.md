@@ -14,6 +14,12 @@ Active implementation plan, 2026-09-09 America/New_York. Supersedes the illustra
 
 Unit tests: schema, deterministic votes/ordering, exposure-normalized evidence, filters, sex invariance, draft safety. Browser: desktop/mobile accessibility, image loads/failures, real setup/filter/portrait/undo/export/reset, legacy preservation, keyboard repeated activations. Separate read-only adversarial review with regression tests. Fetch origin immediately before committing/pushing. Public deploy via publish_site; verify actual public images and core flow. Retain live URL and old route for reversibility.
 
+## Photo-first result layout
+
+The result is a Pinterest-like moodboard above the fold, not a report above a gallery. This implements Miku's standing design principle: prioritize the most useful content first and minimize unnecessary scrolling without hiding essential controls or compromising accessibility.
+
+Actual wear/admire picks remain distinguishable, with untried suggestions in their own view. Keep the complete evidence, exports, undo and catalog access behind a Style notes control. Preserve all current persistence, exclusions, scoring and legacy behavior. Check above-fold photos at phone/tablet/desktop sizes and test dialog focus, honest empty states and failed-image recovery. See `docs/verification/moodboard-review.md` for the review and verification scope.
+
 ## Known limits to report
 
 Free sources skew toward slim models. Improve clothing-range counts but do not claim population-representative or perfectly balanced body coverage. Body selection is a soft preference while sourcing improves. Larger-bodied menswear/full-outfit/sport examples remain a gap. No asserted shopping SKU, cloth composition, age, biological sex, or precise body dimensions from photography.

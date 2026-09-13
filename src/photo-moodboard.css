@@ -1,0 +1,80 @@
+.photo-app .moodboard-portrait { max-width: 1440px; padding: 20px 4% 44px; }
+.photo-app:has(.moodboard-portrait) .site-header { min-height: 82px; }
+.board-heading { display: flex; align-items: center; justify-content: space-between; gap: 18px; }
+.photo-app .board-heading h1 { font-size: clamp(34px, 3.6vw, 48px); margin: 8px 0; line-height: 1.05; }
+.board-heading .eyebrow { font-size: 9px; }
+.board-subtitle { color: var(--muted-foreground); font-size: 12px; line-height: 1.5; }
+.board-actions { display: flex; flex-shrink: 0; gap: 10px; }
+.board-actions button { min-height: 44px; padding: 11px 16px; font-size: 11px; }
+.board-toolbar { display: flex; gap: 7px; flex-wrap: wrap; margin: 22px 0 9px; }
+.board-toolbar button { border: 1px solid transparent; background: transparent; color: var(--muted-foreground); min-height: 42px; padding: 9px 14px; display: inline-flex; align-items: center; justify-content: center; gap: 9px; border-radius: 24px; font-size: 12px; }
+.board-toolbar button span { font-size: 10px; }
+.board-toolbar button[aria-pressed="true"] { background: var(--foreground); color: var(--background); }
+.board-toolbar button:hover:not([aria-pressed="true"]) { background: var(--secondary); color: var(--foreground); }
+.photo-app .board-context { margin: 0 0 16px; color: var(--muted-foreground); font-size: 11px; line-height: 1.6; }
+.board-context button { display: inline; border: 0; padding: 3px; color: var(--foreground); background: transparent; text-decoration: underline; text-underline-offset: 3px; }
+.board-masonry { columns: 5; column-gap: 16px; }
+.board-card { display: inline-block; vertical-align: top; width: 100%; break-inside: avoid; margin: 0 0 20px !important; }
+.board-image { position: relative; overflow: hidden; border-radius: 10px; background: var(--secondary); }
+.board-image img { width: 100%; height: auto; display: block; object-fit: contain; }
+.board-status { position: absolute; bottom: 9px; left: 9px; max-width: calc(100% - 18px); padding: 5px 9px; border-radius: 16px; background: var(--background); color: var(--foreground); font-size: 10px; line-height: 1.3; box-shadow: 0 1px 4px #0002; }
+.board-status-wear { background: var(--primary); color: var(--primary-foreground); }
+.board-caption { padding: 9px 3px 0; }
+.photo-app .board-caption h2 { font-family: 'DM Sans', sans-serif; font-weight: 500; font-size: 12px; line-height: 1.5; }
+.board-caption p { margin-top: 4px !important; font-size: 10px; line-height: 1.6; color: var(--muted-foreground); overflow-wrap: anywhere; }
+.board-caption a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+.board-image-failed { min-height: 190px; padding: 25px 16px 52px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; gap: 12px; font-size: 12px; }
+.board-image-failed button { min-height: 44px; background: var(--background); border: 1px solid var(--border); border-radius: 4px; padding: 8px; color: var(--foreground); }
+.board-empty { border: 1px solid var(--border); border-radius: 12px; background: var(--secondary); padding: 32px; max-width: 640px; }
+.board-empty > span { font-size: 26px; color: var(--primary); }
+.board-empty h2 { font-size: 32px; margin: 12px 0 !important; }
+.board-empty p { color: var(--muted-foreground); font-size: 13px; line-height: 1.75; }
+.board-empty > button { margin-top: 22px; }
+.board-notes { width: min(720px, calc(100vw - 32px)); max-height: calc(100dvh - 32px); padding: 28px; color: var(--foreground); background: var(--background); border: 1px solid var(--border); border-radius: 12px; overflow-y: auto; overscroll-behavior: contain; }
+.board-notes::backdrop { background: #0007; }
+.board-notes-header { display: flex; justify-content: space-between; gap: 20px; align-items: start; }
+.board-notes h2 { font-size: 36px; margin: 9px 0 16px !important; }
+.board-notes h3 { font-size: 27px; margin-bottom: 14px !important; }
+.board-notes > p { font-size: 13px; line-height: 1.75; }
+.board-close { display: grid; place-items: center; min-width: 44px; min-height: 44px; background: transparent; border: 1px solid var(--border); color: var(--foreground); border-radius: 50%; }
+.board-notes .evidence-section { margin: 26px 0; }
+.board-notes .evidence-grid { gap: 0 28px; margin-top: 15px; }
+.board-notes .evidence-item { padding: 13px 0; }
+.board-notes .evidence-item > div { flex-wrap: wrap; }
+.board-downloads { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; margin: 25px 0 10px; }
+.board-downloads button { min-height: 44px; }
+@media (max-width: 1100px) {
+  .board-masonry { columns: 4; column-gap: 14px; }
+}
+@media (max-width: 900px) {
+  .board-masonry { columns: 3; }
+}
+@media (max-width: 760px) {
+  .photo-app .moodboard-portrait { padding: 18px 18px 32px; }
+  .photo-app:has(.moodboard-portrait) .site-header { min-height: 86px; gap: 4px 12px; padding-top: 8px; padding-bottom: 4px; }
+  .photo-app:has(.moodboard-portrait) .wordmark { font-size: 32px; }
+  .photo-app:has(.moodboard-portrait) .step-nav button { min-height: 40px; }
+  .board-heading { flex-wrap: wrap; gap: 13px; }
+  .photo-app .board-heading h1 { font-size: 37px; margin: 5px 0; }
+  .board-actions { width: 100%; gap: 9px; }
+  .board-actions button { padding: 10px 14px; }
+  .board-toolbar { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 16px 0 8px; gap: 4px; }
+  .board-toolbar button { min-height: 44px; padding: 5px 3px; gap: 2px; font-size: 11px; flex-direction: column; border-radius: 12px; }
+  .board-masonry { columns: 2; column-gap: 12px; }
+  .board-caption h2 { font-size: 11px; }
+  .board-status { left: 6px; bottom: 6px; padding: 4px 7px; font-size: 9px; }
+  .board-notes { padding: 20px; }
+  .board-notes .evidence-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 380px) {
+  .photo-app .moodboard-portrait { padding: 14px 12px 26px; }
+  .board-subtitle { font-size: 11px; }
+  .board-toolbar { gap: 3px; }
+  .board-toolbar button { font-size: 10px; padding: 5px 2px; gap: 2px; }
+  .board-masonry { column-gap: 10px; }
+  .board-caption p { font-size: 9px; }
+}
+@media print {
+  .board-actions, .board-toolbar, .board-notes, .board-context button { display: none; }
+  .board-masonry { columns: 3; }
+}
