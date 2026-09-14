@@ -1,8 +1,8 @@
 # Stylr — personal discovery expansion
 
-Status: implementation committed and pushed; local verification complete, 2026-09-14 (America/New_York). Live private preview still needs managed-runtime recovery after host restarts: reopen the Site in Zo, then verify it. Active private iteration: `Sites/stylr-personal`, branch `personal-discovery`. Results and limitations: `docs/verification/personal-discovery.md`.
+Status: implemented, verified and privately deployed with approval, 2026-09-14 (America/New_York). Owner-only URL: https://stylr-personal-hatsunemiku.zo.computer/. Six live-production smoke tests passed. Active iteration: `Sites/stylr-personal`, branch `personal-discovery`. Results and limitations: `docs/verification/personal-discovery.md`.
 
-This is the active plan for the personal-use expansion. It supersedes the sourcing constraints and discovery UX in `photo-study.md`, not its persistence/accessibility safeguards. The previous public release has been restored and is isolated in `Sites/stylr`; this work is for the unpublished, owner-only development preview in `Sites/stylr-personal`. No publishing or new accounts, analytics, questionnaire, shopping, licensing workflow, or definitive style classification.
+This is the active plan for the personal-use expansion. It supersedes the sourcing constraints and discovery UX in `photo-study.md`, not its persistence/accessibility safeguards. The previous public release remains isolated and unchanged in `Sites/stylr`; the personal iteration is now privately published from `Sites/stylr-personal` after the user's explicit deployment request. No new accounts, analytics, questionnaire, shopping, licensing workflow, or definitive style classification.
 
 ## Outcome
 
@@ -25,8 +25,8 @@ Existing Photo fields and the v2 reaction/feedback schema retain their meaning. 
 - Comfort represented by observable cues such as room through the body, exposed adjustable closures, flat footwear; performance unknown unless sourced. No comfort questionnaire.
 - Fast first-card start and stable touch/keyboard/button behavior with reload, undo, failed-image recovery and existing localStorage protection intact.
 - Legacy `/illustrated` and photo-first moodboard preserved.
-- Private development preview verified; public deployment unchanged.
+- Verified private production deployment; public deployment unchanged.
 
-## Finalization blocker
+## Completion
 
-The implementation passed 119 unit tests, 82 browser tests and asset checks. Subsequent live-preview verification was blocked by the managed dev runtime failing to serve after a host restart/recovery. The sandbox shut down again during finalization; terminal calls remained pinned to the terminated container. Source, manifests, review evidence and screenshots are saved in this private Site, but the final commit/push and live-preview recheck are still pending. The original public working tree was restored to its previous release and its baseline bundle was verified before the restart. Do not mark the live preview or final commit complete without rechecking.
+The implementation is committed and pushed on `personal-discovery`, with 119 unit tests, 82 browser tests and asset checks passing. The former development-runtime blocker is resolved for personal use by the approved private production deployment: six live-production checks passed, and unauthenticated requests redirect to Zo sign-in. The previous public release remains separate and unchanged. No deployment blocker remains; coverage limitations and the separation of browser storage across origins remain documented in README.md and the verification report.

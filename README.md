@@ -2,13 +2,13 @@
 
 A personal-style discovery experiment: real outfit photos, one at a time, with quick swiping and no required questionnaire.
 
-**Active workspace:** `Sites/stylr-personal`, branch `personal-discovery`, https://github.com/erhuve/stylr. Open this Site in Zo for its owner-only development preview. It is not published. `Sites/stylr` is the separate working directory for the previous public release; do not use it for this iteration or run test builds there.
+**Active workspace:** `Sites/stylr-personal`, branch `personal-discovery`, https://github.com/erhuve/stylr. Privately published at https://stylr-personal-hatsunemiku.zo.computer/; owner sign-in is required. The production service is independent of the development preview. `Sites/stylr` is the separate working directory for the previous public release; do not use it for this iteration or run test builds there.
 
 Read `docs/plans/personal-discovery.md` for the active scope and `docs/verification/personal-discovery.md` for verification and coverage. Earlier plans describe earlier iterations, not additional requirements for this experiment.
 
 ## Trying it
 
-Preview status (2026-09-14): the implementation and saved production build are verified, committed and pushed. The managed dev runtime stopped during host restarts; reopen this Site in Zo and verify the live page. See the verification report for the exact checks and remaining runtime step. Do not manually start a server or overwrite the project to recover it.
+Deployment status (2026-09-14): privately published with approval. Six smoke tests passed against the live production server: four viewport checks plus real mouse and touch gestures. Unauthenticated requests to the homepage, illustrated route and a photo asset redirect to Zo sign-in. Use the published URL instead of depending on development-preview recovery; do not manually start a server or overwrite the project.
 
 Click **Start with real outfits**. Swipe right to wear, left to pass; buttons also support **Admire, not for me**, **Not sure**, and undo. Keyboard alternatives are available. Notes, explicit more/less feedback and settings are optional disclosures. Essential photo controls fit at 320×640 and larger tested viewports.
 
@@ -30,7 +30,7 @@ Most new references have **unclassified clothing range** and **unknown body refe
 
 Photo sessions retain `stylr:photos:v2`; the original illustrated application remains at `/illustrated` with its unchanged `style-study:v1` storage. All 42 original IDs still identify their original photographs. Draft identity, notes, feedback, undo, exclusions and existing history are preserved by the new implementation.
 
-Both applications use browser localStorage, with no accounts, analytics, AI calls or personal-data backend. **Origins have separate storage:** this private preview does not automatically copy a session from the public site. JSON import is not implemented. JSON downloads include optional profile choices and notes; Markdown omits the optional sex value.
+Both applications use browser localStorage, with no accounts, analytics, AI calls or personal-data backend. **Origins have separate storage:** the privately published URL does not automatically copy sessions from the development preview or the old public site. JSON import is not implemented. JSON downloads include optional profile choices and notes; Markdown omits the optional sex value.
 
 Optional self-reported sex never changes photo eligibility or scores. Body reference only gently affects order. Exclusions fail closed when the relevant shoes or lower garments cannot be seen. Filters and undo ask before replacing a nonempty draft.
 
@@ -64,7 +64,7 @@ bunx playwright install chromium
 bun run test:browser
 ```
 
-`CHROMIUM_PATH` can select installed Chromium. Browser tests intercept the built files from `dist` at `https://stylr.test`; no manually started server is needed. Run them in this private Site, not the published working directory. `TEST_BASE_URL` disables that interception for deliberate endpoint checks; do not point the suite at a shared browser session containing personal data.
+`CHROMIUM_PATH` can select installed Chromium. Browser tests intercept the built files from `dist` at `https://stylr.test`; no manually started server is needed. This directory now backs the private production service: rebuilding `dist` changes its served assets. For future pre-release changes, build and test in an isolated checkout; do not use `Sites/stylr`, which backs the separate public release. `TEST_BASE_URL` disables interception for deliberate endpoint checks; use isolated browser contexts, not a shared session containing personal data.
 
 Automated coverage includes responsive geometry, accessibility checks, actual mouse/touch gestures, keyboard/reduced-motion behavior, chorded buttons and cancellation, failed/late image loads, bounded preloading, duplicate input, exact legacy identity, storage failures/conflicts, draft protection, long selection sequences and the original illustrated application. These checks are not physical-device or screen-reader certification.
 
