@@ -1,4 +1,8 @@
-# Stylr — personal discovery
+# Stylr — real-photo body-reference labeling
+
+This isolated branch (`body-reference-labeling`, `Code/stylr-body-labels`) labels the existing real-photo library for richer, front-and-center body preferences and future strict matching. It does not change or deploy the app. Generated augmentation is deferred. Read `docs/plans/personal-discovery.md` and `docs/body-references/annotation-protocol.md` for the current scope; the optional-frame behavior below describes the deployed baseline, not the latest intended body-selection experience.
+
+## Deployed baseline: personal discovery
 
 A personal-style discovery experiment: real outfit photos, one at a time, with quick swiping and no required questionnaire.
 

@@ -1,4 +1,10 @@
-# Stylr personal discovery
+# Stylr body-reference labeling worktree
+
+**This is an isolated checkout at `Code/stylr-body-labels`, branch `body-reference-labeling`. It does not back a service. Do not publish it, start an entrypoint, or modify either live Site directory. Its photo assets and node_modules are read-only links to the active personal Site; this labeling pass needs no browser build or dependency changes.**
+
+Latest direction (2026-09-14): Miku wants body shape/size preferences front and center before swiping, richer than the existing frame categories, with strict matching rather than a gentle ordering hint. The current authorized step is to label the existing **real** photographs; generated augmentation and the body-control UI are deferred. Missing or garment-obscured body traits remain unknown and must not silently pass future filters. Earlier optional-body-setup guidance below describes the deployed UI, not the new intended behavior.
+
+The following retained project guidance describes the deployed baseline at `Sites/stylr-personal`, not this isolated worktree:
 
 - This is the active personal-use iteration of Stylr, on `personal-discovery` in `erhuve/stylr`. Read README.md and docs/plans/personal-discovery.md first.
 - Privately published at https://stylr-personal-hatsunemiku.zo.computer/ with owner sign-in required. Production is independent of the development preview. This working directory now backs a live service: rebuilding `dist` changes served assets. Use an isolated checkout for future pre-release builds, and deploy deliberately through `publish_site`.

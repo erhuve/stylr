@@ -1,0 +1,107 @@
+{
+  "total": 385,
+  "usability": {
+    "complete": 0,
+    "partial": 42,
+    "unavailable": 343
+  },
+  "axes": {
+    "build": {
+      "supported": 39,
+      "unknown": 346,
+      "highConfidence": 0,
+      "supportedRanges": {
+        "0–1": 8,
+        "1–1": 1,
+        "1–2": 22,
+        "2–3": 5,
+        "3–3": 1,
+        "3–4": 2
+      }
+    },
+    "shoulderHip": {
+      "supported": 10,
+      "unknown": 375,
+      "highConfidence": 0,
+      "supportedRanges": {
+        "1–2": 1,
+        "2–3": 9
+      }
+    },
+    "waist": {
+      "supported": 6,
+      "unknown": 379,
+      "highConfidence": 0,
+      "supportedRanges": {
+        "1–2": 6
+      }
+    },
+    "legs": {
+      "supported": 0,
+      "unknown": 385,
+      "highConfidence": 0,
+      "supportedRanges": {}
+    }
+  },
+  "selectedAxisCoverage": [
+    {
+      "axes": [
+        "build",
+        "shoulderHip"
+      ],
+      "photos": 7
+    },
+    {
+      "axes": [
+        "build",
+        "waist"
+      ],
+      "photos": 6
+    },
+    {
+      "axes": [
+        "build",
+        "legs"
+      ],
+      "photos": 0
+    },
+    {
+      "axes": [
+        "shoulderHip",
+        "waist"
+      ],
+      "photos": 3
+    },
+    {
+      "axes": [
+        "shoulderHip",
+        "legs"
+      ],
+      "photos": 0
+    },
+    {
+      "axes": [
+        "waist",
+        "legs"
+      ],
+      "photos": 0
+    }
+  ],
+  "blockers": {
+    "loose-clothing": 264,
+    "structured-clothing": 192,
+    "layered-clothing": 185,
+    "waist-obscured": 365,
+    "hips-obscured": 324,
+    "shoulders-obscured": 155,
+    "cropped": 24,
+    "turned-pose": 94,
+    "seated-pose": 4,
+    "bent-pose": 263,
+    "heels-platforms": 223,
+    "camera-perspective": 37,
+    "occlusion": 126,
+    "multiple-people": 1,
+    "low-resolution": 0
+  }
+}

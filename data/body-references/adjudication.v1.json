@@ -1,0 +1,2114 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-14",
+  "reviewedIds": [
+    "archive-10000",
+    "archive-10116",
+    "archive-10222",
+    "archive-10265",
+    "archive-10324",
+    "archive-10404",
+    "archive-10678",
+    "archive-10691",
+    "archive-10716",
+    "archive-10808",
+    "archive-10871",
+    "archive-10912",
+    "archive-10959",
+    "archive-11013",
+    "archive-11227",
+    "archive-11298",
+    "archive-11340",
+    "archive-11437",
+    "archive-11451",
+    "archive-11467",
+    "archive-11469",
+    "archive-11530",
+    "archive-11532",
+    "archive-11593",
+    "archive-11658",
+    "archive-11717",
+    "archive-11775",
+    "archive-11849",
+    "archive-11893",
+    "archive-11925",
+    "archive-11985",
+    "archive-12000",
+    "archive-12128",
+    "archive-12165",
+    "archive-12183",
+    "archive-12257",
+    "archive-12286",
+    "archive-12360",
+    "archive-12423",
+    "archive-12478",
+    "archive-12546",
+    "archive-12704",
+    "archive-12770",
+    "archive-12776",
+    "archive-12785",
+    "archive-12791",
+    "archive-12798",
+    "archive-12842",
+    "archive-12903",
+    "archive-12948",
+    "archive-13037",
+    "archive-13077",
+    "archive-13162",
+    "archive-13256",
+    "archive-13257",
+    "archive-13291",
+    "archive-13365",
+    "archive-13395",
+    "archive-13470",
+    "archive-13477",
+    "archive-13483",
+    "archive-13507",
+    "archive-13581",
+    "archive-14102",
+    "archive-14522",
+    "archive-15069",
+    "archive-15106",
+    "archive-15108",
+    "archive-15187",
+    "archive-15229",
+    "archive-15255",
+    "archive-15276",
+    "archive-15387",
+    "archive-15407",
+    "archive-15418",
+    "archive-15474",
+    "archive-15528",
+    "archive-15530",
+    "archive-15531",
+    "archive-15593",
+    "archive-15661",
+    "archive-15703",
+    "archive-15729",
+    "archive-15758",
+    "archive-15770",
+    "archive-15781",
+    "archive-15840",
+    "archive-15843",
+    "archive-15890",
+    "archive-15901",
+    "archive-15920",
+    "archive-15967",
+    "archive-15978",
+    "archive-16105",
+    "archive-16110",
+    "archive-16160",
+    "archive-16187",
+    "archive-16212",
+    "archive-16219",
+    "archive-16231",
+    "archive-16249",
+    "archive-16427",
+    "archive-16437",
+    "archive-16455",
+    "archive-16456",
+    "archive-16478",
+    "archive-16488",
+    "archive-16497",
+    "archive-16521",
+    "archive-16566",
+    "archive-16586",
+    "archive-16599",
+    "archive-16651",
+    "archive-16687",
+    "archive-16722",
+    "archive-16806",
+    "archive-16857",
+    "archive-17050",
+    "archive-17091",
+    "archive-17121",
+    "archive-17128",
+    "archive-17163",
+    "archive-17183",
+    "archive-17195",
+    "archive-17198",
+    "archive-17204",
+    "archive-17228",
+    "archive-17229",
+    "archive-17240",
+    "archive-17285",
+    "archive-17370",
+    "archive-17419",
+    "archive-17443",
+    "archive-17449",
+    "archive-17517",
+    "archive-17557",
+    "archive-17655",
+    "archive-17687",
+    "archive-17710",
+    "archive-17764",
+    "archive-17769",
+    "archive-17791",
+    "archive-17811",
+    "archive-17861",
+    "archive-17880",
+    "archive-18008",
+    "archive-18033",
+    "archive-18038",
+    "archive-18165",
+    "archive-18212",
+    "archive-18247",
+    "archive-18319",
+    "archive-18352",
+    "archive-18369",
+    "archive-18376",
+    "archive-18395",
+    "archive-18461",
+    "archive-18509",
+    "archive-18568",
+    "archive-18652",
+    "archive-18703",
+    "archive-18745",
+    "archive-18791",
+    "archive-18895",
+    "archive-18987",
+    "archive-18991",
+    "archive-19097",
+    "archive-19120",
+    "archive-19157",
+    "archive-19179",
+    "archive-19247",
+    "archive-19391",
+    "archive-19413",
+    "archive-19418",
+    "archive-19441",
+    "archive-19461",
+    "archive-19471",
+    "archive-19484",
+    "archive-19498",
+    "archive-19506",
+    "archive-19587",
+    "archive-19602",
+    "archive-19618",
+    "archive-19641",
+    "archive-19670",
+    "archive-19681",
+    "archive-19762",
+    "archive-19794",
+    "archive-19795",
+    "archive-19811",
+    "archive-19817",
+    "archive-19826",
+    "archive-19873",
+    "archive-19927",
+    "archive-20052",
+    "archive-20066",
+    "archive-20081",
+    "archive-20159",
+    "archive-20199",
+    "archive-20202",
+    "archive-20214",
+    "archive-20238",
+    "archive-20246",
+    "archive-20250",
+    "archive-20273",
+    "archive-20291",
+    "archive-20465",
+    "archive-20499",
+    "archive-20506",
+    "archive-20511",
+    "archive-20531",
+    "archive-20583",
+    "archive-20712",
+    "archive-23337",
+    "archive-23348",
+    "archive-6410",
+    "archive-8875",
+    "archive-8950",
+    "archive-9083",
+    "archive-9141",
+    "archive-9151",
+    "archive-9204",
+    "archive-9210",
+    "archive-9266",
+    "archive-9406",
+    "archive-9411",
+    "archive-9541",
+    "archive-9591",
+    "archive-9656",
+    "archive-9709",
+    "archive-9810",
+    "archive-9845",
+    "archive-9850",
+    "archive-9895",
+    "archive-9922",
+    "archive-9988",
+    "archive-9992",
+    "pexels-11133705",
+    "pexels-12056633",
+    "pexels-12310745",
+    "pexels-14196423",
+    "pexels-15098646",
+    "pexels-15345393",
+    "pexels-15799200",
+    "pexels-16476878",
+    "pexels-16564555",
+    "pexels-16751012",
+    "pexels-17170910",
+    "pexels-17490329",
+    "pexels-17872897",
+    "pexels-18000572",
+    "pexels-19141846",
+    "pexels-19193498",
+    "pexels-19392464",
+    "pexels-19437591",
+    "pexels-20479953",
+    "pexels-20481212",
+    "pexels-24779116",
+    "pexels-26712038",
+    "pexels-27442874",
+    "pexels-28168152",
+    "pexels-28222986",
+    "pexels-5254744",
+    "pexels-5712104",
+    "pexels-6975392",
+    "pexels-7237068",
+    "pexels-7240000",
+    "pexels-7240123",
+    "pexels-7327283",
+    "pexels-7782016",
+    "pexels-8948833",
+    "pexels-8951115",
+    "pexels-9145975",
+    "pexels-9741969",
+    "pexels-982585",
+    "pexels-9876019",
+    "pexels-9968456",
+    "street-tokyo-184144",
+    "street-tokyo-184770",
+    "street-tokyo-185102",
+    "street-tokyo-186678",
+    "street-tokyo-187094",
+    "street-tokyo-187181",
+    "street-tokyo-187558",
+    "street-tokyo-187581",
+    "street-tokyo-187592",
+    "street-tokyo-187607",
+    "street-tokyo-187618",
+    "street-tokyo-187632",
+    "street-tokyo-187651",
+    "street-tokyo-187675",
+    "street-tokyo-187736",
+    "street-tokyo-187784",
+    "street-tokyo-187991",
+    "street-tokyo-188082",
+    "street-tokyo-188247",
+    "street-tokyo-188619",
+    "street-tokyo-188775",
+    "street-tokyo-188933",
+    "street-tokyo-189186",
+    "street-tokyo-189333",
+    "street-tokyo-190044",
+    "street-tokyo-190786",
+    "street-tokyo-191460",
+    "street-tokyo-191707",
+    "street-tokyo-191823",
+    "street-tokyo-193556",
+    "street-tokyo-193655",
+    "street-tokyo-195901",
+    "street-tokyo-195968",
+    "street-tokyo-196068",
+    "street-tokyo-197289",
+    "street-tokyo-197348",
+    "street-tokyo-197391",
+    "street-tokyo-197415",
+    "street-tokyo-197450",
+    "street-tokyo-197466",
+    "street-tokyo-197488",
+    "street-tokyo-197576",
+    "street-tokyo-197589",
+    "street-tokyo-197600",
+    "street-tokyo-197686",
+    "street-tokyo-197708",
+    "street-tokyo-197719",
+    "street-tokyo-197968",
+    "street-tokyo-198350",
+    "street-tokyo-198370",
+    "street-tokyo-198404",
+    "street-tokyo-198431",
+    "street-tokyo-198474",
+    "street-tokyo-198495",
+    "street-tokyo-198516",
+    "street-tokyo-198616",
+    "street-tokyo-198673",
+    "street-tokyo-198963",
+    "street-tokyo-199115",
+    "street-tokyo-199426",
+    "street-tokyo-199491",
+    "street-tokyo-199759",
+    "street-tokyo-199776",
+    "street-tokyo-200037",
+    "street-tokyo-200062",
+    "street-tokyo-200101",
+    "street-tokyo-200165",
+    "street-tokyo-200186",
+    "street-tokyo-200241",
+    "street-tokyo-200323",
+    "street-tokyo-200374",
+    "street-tokyo-200430",
+    "street-tokyo-200452",
+    "street-tokyo-200466",
+    "street-tokyo-200487",
+    "street-tokyo-200509",
+    "street-tokyo-200532",
+    "street-tokyo-200577",
+    "street-tokyo-200600",
+    "street-tokyo-200627",
+    "street-tokyo-200649",
+    "street-tokyo-200733",
+    "street-tokyo-200772",
+    "street-tokyo-200825",
+    "street-tokyo-200941",
+    "street-tokyo-200970",
+    "street-tokyo-200991",
+    "street-tokyo-201014",
+    "street-tokyo-201033",
+    "street-tokyo-201063",
+    "street-tokyo-201106",
+    "street-tokyo-201126",
+    "street-tokyo-201146",
+    "street-tokyo-201163",
+    "street-tokyo-201180",
+    "street-tokyo-201258",
+    "street-tokyo-201307",
+    "street-tokyo-201328",
+    "street-tokyo-201350",
+    "street-tokyo-201374",
+    "street-tokyo-201426",
+    "street-tokyo-201492",
+    "street-tokyo-201514",
+    "street-tokyo-201541",
+    "street-tokyo-201596",
+    "street-tokyo-201612",
+    "unsplash-Ld9fQtZl_pc",
+    "unsplash-OTf3wEvxAfE"
+  ],
+  "supportedSnapshotIds": [
+    "archive-10116",
+    "archive-11593",
+    "archive-11985",
+    "archive-13077",
+    "archive-14102",
+    "archive-15890",
+    "archive-16497",
+    "archive-16599",
+    "archive-18509",
+    "archive-18745",
+    "archive-19120",
+    "archive-20238",
+    "archive-9988",
+    "pexels-15098646",
+    "pexels-17872897",
+    "pexels-7240123",
+    "street-tokyo-191460",
+    "street-tokyo-195901",
+    "street-tokyo-199115"
+  ],
+  "reviews": [
+    {
+      "review": "audit-unknown",
+      "reviewedIds": [
+        "archive-18212",
+        "archive-16566",
+        "archive-9850",
+        "pexels-14196423",
+        "pexels-7240000",
+        "unsplash-OTf3wEvxAfE",
+        "unsplash-Ld9fQtZl_pc",
+        "pexels-6975392",
+        "archive-16160",
+        "archive-17121",
+        "archive-16249",
+        "street-tokyo-184144",
+        "archive-17198",
+        "archive-17557",
+        "street-tokyo-188619",
+        "archive-19587",
+        "pexels-16564555",
+        "archive-9656",
+        "archive-12704",
+        "archive-12000",
+        "archive-10265",
+        "archive-11227",
+        "street-tokyo-198474",
+        "archive-17204",
+        "street-tokyo-201350",
+        "archive-9709",
+        "archive-12791",
+        "archive-16437",
+        "street-tokyo-197450",
+        "pexels-19193498",
+        "archive-17163",
+        "archive-9266",
+        "archive-11532",
+        "archive-19602",
+        "street-tokyo-187991",
+        "archive-19618",
+        "archive-19097",
+        "archive-10716",
+        "archive-20511",
+        "archive-14522",
+        "archive-13395",
+        "street-tokyo-197415",
+        "street-tokyo-187607",
+        "archive-19413",
+        "archive-15531",
+        "archive-15781",
+        "pexels-27442874",
+        "street-tokyo-200165",
+        "archive-10222",
+        "archive-13507",
+        "archive-9151",
+        "archive-18352",
+        "pexels-5254744",
+        "street-tokyo-200991",
+        "street-tokyo-201612",
+        "street-tokyo-201514",
+        "street-tokyo-200825",
+        "street-tokyo-201307",
+        "street-tokyo-200452",
+        "street-tokyo-201014",
+        "pexels-7327283",
+        "pexels-28168152",
+        "pexels-19437591",
+        "pexels-28222986",
+        "archive-12785",
+        "archive-19826",
+        "archive-13581",
+        "archive-9992",
+        "archive-9083",
+        "archive-15474",
+        "archive-17370",
+        "street-tokyo-199426"
+      ],
+      "proposedCorrections": 10
+    },
+    {
+      "review": "audit-remaining-1",
+      "reviewedIds": [
+        "pexels-15345393",
+        "pexels-17170910",
+        "archive-18895",
+        "archive-16187",
+        "archive-17091",
+        "archive-11849",
+        "archive-16478",
+        "archive-19670",
+        "archive-15661",
+        "archive-16219",
+        "archive-17285",
+        "archive-15729",
+        "archive-23337",
+        "archive-12776",
+        "street-tokyo-201596",
+        "street-tokyo-201063",
+        "street-tokyo-200487",
+        "street-tokyo-199491",
+        "street-tokyo-191707",
+        "street-tokyo-197348",
+        "street-tokyo-187675",
+        "pexels-11133705",
+        "pexels-18000572",
+        "archive-15255",
+        "archive-18008",
+        "archive-18568",
+        "archive-20273",
+        "archive-19817",
+        "archive-17861",
+        "archive-15843",
+        "archive-15840",
+        "archive-9406",
+        "archive-20199",
+        "archive-12770",
+        "street-tokyo-201033",
+        "street-tokyo-200241",
+        "street-tokyo-198370",
+        "street-tokyo-197686",
+        "street-tokyo-191823",
+        "street-tokyo-187618",
+        "pexels-9741969",
+        "archive-10691",
+        "archive-16687",
+        "archive-15528",
+        "archive-10678",
+        "archive-8950",
+        "archive-12183",
+        "archive-19762",
+        "archive-17710",
+        "archive-10324",
+        "archive-19681",
+        "archive-13470",
+        "archive-20712",
+        "street-tokyo-201328",
+        "street-tokyo-200577",
+        "street-tokyo-198495",
+        "street-tokyo-197589",
+        "street-tokyo-187094",
+        "pexels-24779116",
+        "pexels-12310745",
+        "archive-15967",
+        "archive-18369",
+        "archive-15593",
+        "archive-10959",
+        "archive-20214",
+        "archive-12257",
+        "archive-17791",
+        "archive-16212",
+        "archive-9141",
+        "archive-20531",
+        "archive-19811",
+        "archive-11775",
+        "archive-18703",
+        "archive-11717",
+        "street-tokyo-201126",
+        "street-tokyo-200430",
+        "street-tokyo-197708",
+        "street-tokyo-195968",
+        "street-tokyo-187736",
+        "pexels-7237068",
+        "archive-20159",
+        "archive-9411",
+        "archive-18652",
+        "archive-12842",
+        "archive-10912",
+        "archive-19641",
+        "archive-17687",
+        "archive-9810",
+        "archive-19795",
+        "archive-19391",
+        "archive-11530",
+        "archive-18165",
+        "street-tokyo-201258",
+        "street-tokyo-200649",
+        "street-tokyo-200101",
+        "street-tokyo-198431",
+        "street-tokyo-197488",
+        "street-tokyo-184770"
+      ],
+      "proposedCorrections": 5
+    },
+    {
+      "review": "audit-remaining-2",
+      "reviewedIds": [
+        "pexels-5712104",
+        "pexels-9968456",
+        "archive-16456",
+        "archive-16651",
+        "archive-17655",
+        "archive-16806",
+        "archive-9591",
+        "archive-19179",
+        "archive-17240",
+        "archive-15108",
+        "archive-18987",
+        "archive-16488",
+        "archive-15758",
+        "archive-17449",
+        "street-tokyo-201374",
+        "street-tokyo-200941",
+        "street-tokyo-200323",
+        "street-tokyo-198616",
+        "street-tokyo-197466",
+        "street-tokyo-188775",
+        "pexels-12056633",
+        "pexels-16751012",
+        "pexels-8948833",
+        "archive-18033",
+        "archive-6410",
+        "archive-11437",
+        "archive-17769",
+        "archive-12948",
+        "archive-11469",
+        "archive-18991",
+        "archive-16455",
+        "archive-15106",
+        "archive-11298",
+        "street-tokyo-201541",
+        "street-tokyo-200600",
+        "street-tokyo-200037",
+        "street-tokyo-197391",
+        "street-tokyo-196068",
+        "street-tokyo-193556",
+        "pexels-15799200",
+        "pexels-19141846",
+        "archive-15770",
+        "archive-9845",
+        "archive-18395",
+        "archive-12286",
+        "archive-20506",
+        "archive-16586",
+        "archive-16231",
+        "archive-17419",
+        "archive-15407",
+        "archive-12360",
+        "archive-9541",
+        "archive-12478",
+        "street-tokyo-201146",
+        "street-tokyo-200186",
+        "street-tokyo-198350",
+        "street-tokyo-188933",
+        "street-tokyo-187632",
+        "pexels-982585",
+        "pexels-8951115",
+        "archive-18376",
+        "archive-9895",
+        "archive-9922",
+        "archive-23348",
+        "archive-15703",
+        "archive-20246",
+        "archive-20081",
+        "archive-19441",
+        "archive-19506",
+        "archive-10871",
+        "archive-19873",
+        "archive-17229",
+        "archive-19418",
+        "archive-10000",
+        "street-tokyo-200733",
+        "street-tokyo-199759",
+        "street-tokyo-193655",
+        "street-tokyo-189333",
+        "street-tokyo-187581",
+        "pexels-20481212",
+        "archive-16722",
+        "archive-15276",
+        "archive-13365",
+        "archive-11467",
+        "archive-15530",
+        "archive-11013",
+        "archive-20291",
+        "archive-12128",
+        "archive-17517",
+        "archive-20499",
+        "archive-20202",
+        "archive-9204",
+        "street-tokyo-201106",
+        "street-tokyo-200509",
+        "street-tokyo-198963",
+        "street-tokyo-197968",
+        "street-tokyo-190786",
+        "street-tokyo-187651"
+      ],
+      "proposedCorrections": 6
+    },
+    {
+      "review": "audit-remaining-3",
+      "reviewedIds": [
+        "pexels-26712038",
+        "archive-15901",
+        "archive-12798",
+        "archive-15187",
+        "archive-18791",
+        "archive-11893",
+        "archive-16427",
+        "archive-20583",
+        "archive-15418",
+        "archive-12903",
+        "archive-16105",
+        "archive-18038",
+        "archive-20250",
+        "archive-19794",
+        "street-tokyo-201180",
+        "street-tokyo-200627",
+        "street-tokyo-200062",
+        "street-tokyo-198404",
+        "street-tokyo-197719",
+        "street-tokyo-188247",
+        "pexels-7782016",
+        "pexels-20479953",
+        "archive-13257",
+        "archive-20066",
+        "archive-18319",
+        "archive-11340",
+        "archive-19927",
+        "archive-17128",
+        "archive-13291",
+        "archive-17443",
+        "archive-18461",
+        "archive-19484",
+        "archive-19471",
+        "street-tokyo-201163",
+        "street-tokyo-200466",
+        "street-tokyo-198516",
+        "street-tokyo-197289",
+        "street-tokyo-189186",
+        "street-tokyo-185102",
+        "pexels-17490329",
+        "archive-20465",
+        "archive-8875",
+        "archive-16110",
+        "archive-15069",
+        "archive-19498",
+        "archive-20052",
+        "archive-9210",
+        "archive-13477",
+        "archive-10808",
+        "archive-17183",
+        "archive-13037",
+        "archive-11925",
+        "archive-11658",
+        "street-tokyo-200772",
+        "street-tokyo-199776",
+        "street-tokyo-197600",
+        "street-tokyo-187784",
+        "street-tokyo-187592",
+        "pexels-19392464",
+        "pexels-16476878",
+        "archive-17195",
+        "archive-13256",
+        "archive-16521",
+        "archive-11451",
+        "archive-15229",
+        "archive-10404",
+        "archive-19461",
+        "archive-15920",
+        "archive-12546",
+        "archive-15978",
+        "archive-19157",
+        "archive-18247"
+      ],
+      "proposedCorrections": 4
+    },
+    {
+      "review": "parent-recovered-last-26",
+      "reviewedIds": [
+        "archive-17880",
+        "street-tokyo-201492",
+        "street-tokyo-200532",
+        "street-tokyo-187181",
+        "street-tokyo-190044",
+        "street-tokyo-186678",
+        "pexels-9145975",
+        "pexels-9876019",
+        "archive-15387",
+        "archive-17764",
+        "archive-17050",
+        "archive-19247",
+        "archive-12165",
+        "archive-12423",
+        "archive-13483",
+        "archive-13162",
+        "archive-17228",
+        "archive-16857",
+        "archive-17811",
+        "street-tokyo-201426",
+        "street-tokyo-200970",
+        "street-tokyo-200374",
+        "street-tokyo-198673",
+        "street-tokyo-197576",
+        "street-tokyo-188082",
+        "street-tokyo-187558"
+      ],
+      "proposedCorrections": 0,
+      "sheetsViewed": 5,
+      "originalsInspected": [
+        "archive-16857",
+        "archive-17811"
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "photoId": "archive-16566",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "archive-16566",
+        "pose": "three-quarter",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "waist-obscured",
+          "hips-obscured",
+          "turned-pose",
+          "bent-pose",
+          "heels-platforms",
+          "camera-perspective"
+        ],
+        "evidence": "The fitted patterned dress has constructed shoulder edges and a garment-defined torso silhouette, viewed from an oblique low angle. Hip boundaries are not independently clear. The stepping stance and heels further prevent a reliable standing leg comparison."
+      },
+      "after": {
+        "photoId": "archive-16566",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "heels-platforms",
+          "bent-pose"
+        ],
+        "evidence": "The dress follows the torso and hips closely, supporting narrow-to-intermediate build and slight-to-moderate waist indentation along the side contours. Shaped shoulder caps prevent a reliable shoulder/hip comparison. The skirt conceals the leg origin, and heels plus the stepping pose prevent a leg-proportion judgment."
+      }
+    },
+    {
+      "photoId": "pexels-7240000",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "pexels-7240000",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "shoulders-obscured",
+          "waist-obscured",
+          "occlusion",
+          "heels-platforms"
+        ],
+        "evidence": "Close-fitting jeans reveal lower-body contours, but the draped wrap top and broad flutter sleeves conceal the trunk and shoulder boundaries. Hands cover the waist sides. The exposed midriff alone is insufficient, and high heels confound relative leg length."
+      },
+      "after": {
+        "photoId": "pexels-7240000",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              3,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "shoulders-obscured",
+          "waist-obscured",
+          "occlusion",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The close torso portion of the top and fitted jeans reveal a fuller build across the torso, hips and thighs. Flutter sleeves obscure shoulder extent. Hands and the wrapped lower edge of the top interrupt the waist relationship. The shifted stance and high heels prevent judging leg proportions."
+      }
+    },
+    {
+      "photoId": "pexels-6975392",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "pexels-6975392",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "cropped",
+          "hips-obscured",
+          "waist-obscured",
+          "occlusion",
+          "shoulders-obscured"
+        ],
+        "evidence": "Close-fitting fabric shows the upper torso, but the crop truncates the hip region and excludes the legs. One arm overlaps a lateral hip boundary, hair covers parts of the shoulders, and a hand and folded waistband obscure the waist relationship. Upper-torso visibility alone does not establish overall build."
+      },
+      "after": {
+        "photoId": "pexels-6975392",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              3,
+              4
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "cropped",
+          "occlusion",
+          "waist-obscured",
+          "hips-obscured"
+        ],
+        "evidence": "Close-fitting clothing shows the torso and enough upper-hip contour to support fuller-to-substantially-fuller build. The lowered arm and crop leave hip extents incomplete for shoulder/hip comparison. The hand and broad waistband obscure waist indentation. The lower legs and feet are outside the frame."
+      }
+    },
+    {
+      "photoId": "archive-17121",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "archive-17121",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "turned-pose",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "Individual inspection shows the top folding loosely across the torso and waist above more closely fitting trousers. The stepping pose shifts and angles the hips relative to the shoulders; heels and the non-neutral stance also prevent reliable leg proportions."
+      },
+      "after": {
+        "photoId": "archive-17121",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The small sleeves leave shoulder extents readable, and fitted trousers reveal the hip outline in a near-frontal view: shoulders appear comparable to somewhat broader. The loose top conceals trunk and waist contours, leaving build and waist unknown. The stepping pose and heels prevent judging leg proportions."
+      }
+    },
+    {
+      "photoId": "archive-17557",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "archive-17557",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "hips-obscured",
+          "waist-obscured",
+          "occlusion",
+          "turned-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The cropped top and exposed midriff provide some torso detail, but a hand covers one waist side and the long skirt drapes across the hips and thighs. Angled hips, concealed leg landmarks and heels prevent the remaining comparisons."
+      },
+      "after": {
+        "photoId": "archive-17557",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "occlusion",
+          "shoulders-obscured",
+          "waist-obscured",
+          "heels-platforms"
+        ],
+        "evidence": "The close top, exposed midriff and fitted upper-hip section of the skirt support narrow-to-intermediate build. The hand interrupts the waist contour; hair, the bag and raised arm limit shoulder/hip comparison. The long skirt hides the anatomical leg transition, and heels further prevent judging leg proportions."
+      }
+    },
+    {
+      "photoId": "pexels-16564555",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "pexels-16564555",
+        "pose": "three-quarter",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "turned-pose",
+          "cropped",
+          "occlusion"
+        ],
+        "evidence": "The torso is turned and the nearer arm overlaps the side of the waist and hip. The denim skirt holds an outward shape; cropped lower legs and an incomplete frontal outline leave all axes uncertain."
+      },
+      "after": {
+        "photoId": "pexels-16564555",
+        "pose": "three-quarter",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "turned-pose",
+          "cropped",
+          "occlusion",
+          "waist-obscured"
+        ],
+        "evidence": "The fitted torso, exposed midriff and close upper-hip portion of the skirt support narrow-to-intermediate visible build. The turned view prevents shoulder/hip width comparison, while the arm covers part of the waist-to-hip contour. Cropping excludes the lower legs and feet."
+      }
+    },
+    {
+      "photoId": "archive-11227",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "archive-11227",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "waist-obscured",
+          "hips-obscured",
+          "occlusion",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "Large ruffles conceal the shoulder boundaries, and the dress has gathered fabric across the trunk and hips. A hand presses at the waist while a clutch covers the opposite hip edge. These occlusions, together with heels and a concealed leg transition, leave all axes unknown."
+      },
+      "after": {
+        "photoId": "archive-11227",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "waist-obscured",
+          "occlusion",
+          "heels-platforms"
+        ],
+        "evidence": "The close dress reveals torso and hip contours sufficient for narrow-to-intermediate build. Large shoulder ruffles prevent shoulder/hip comparison. The hand and gathered fabric interrupt the waist relationship. The skirt conceals the leg origin, and heels prevent judging leg proportions."
+      }
+    },
+    {
+      "photoId": "archive-16437",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "archive-16437",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "bent-pose"
+        ],
+        "evidence": "The sleeveless top hangs away from the waist and extends over the upper hips. Fitted trousers reveal lower contours but cannot establish the concealed trunk or maximum hip boundary. The overlapping hem and forward step prevent a dependable leg-to-torso judgment."
+      },
+      "after": {
+        "photoId": "archive-16437",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "bent-pose"
+        ],
+        "evidence": "Bare shoulder contours and the fitted trouser outline at the hips support comparable-to-somewhat-broader shoulders in this near-frontal view. The tank hangs away from the trunk and waist, leaving build and waist unknown. A bent, lifted leg and the hem-covered leg transition prevent judging leg proportions."
+      }
+    },
+    {
+      "photoId": "pexels-27442874",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "pexels-27442874",
+        "pose": "three-quarter",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "turned-pose",
+          "bent-pose",
+          "cropped"
+        ],
+        "evidence": "The shirt overlaps the shorts and masks the waist-to-hip transition. Shorts stand away from the upper legs, one knee is bent, and the lower legs are cropped; garment widths cannot establish body widths."
+      },
+      "after": {
+        "photoId": "pexels-27442874",
+        "pose": "three-quarter",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "turned-pose",
+          "bent-pose",
+          "cropped",
+          "occlusion"
+        ],
+        "evidence": "The shirt follows the upper torso, and the visible hip-to-thigh outline supports narrow-to-intermediate build without treating the shorts' folds as body contour. Turning and the pocketed hand limit shoulder/hip comparison. Shirt folds and the overlapping hem obscure waist indentation. Bent legs and cropping prevent judging leg proportions."
+      }
+    },
+    {
+      "photoId": "archive-9992",
+      "review": "audit-unknown",
+      "before": {
+        "photoId": "archive-9992",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "heels-platforms"
+        ],
+        "evidence": "The printed sleeveless top falls loosely over a gathered waistband, and the shorts balloon around the hips. Bare shoulders and lower legs do not establish the concealed trunk or waist relationship. High heels further confound relative leg proportions."
+      },
+      "after": {
+        "photoId": "archive-9992",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "heels-platforms"
+        ],
+        "evidence": "Bare shoulder contours and the upper-hip outline support comparable-to-somewhat-broader shoulders in a near-frontal view; mild shorts gathering limits precision. The top hangs away from the trunk and waist, so build and waist remain unknown. High heels prevent judging leg proportions."
+      }
+    },
+    {
+      "photoId": "archive-11849",
+      "review": "audit-remaining-1",
+      "before": {
+        "photoId": "archive-11849",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "shoulders-obscured",
+          "low-resolution",
+          "heels-platforms",
+          "bent-pose"
+        ],
+        "evidence": "The leggings reveal the hip and thigh outline, but the sweatshirt hangs away from the torso and obscures the waist. Soft image detail does not securely separate shoulder contours from sleeves. A stepping pose and heeled boots prevent a leg-proportion judgment."
+      },
+      "after": {
+        "photoId": "archive-11849",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              0,
+              1
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "heels-platforms",
+          "bent-pose"
+        ],
+        "evidence": "The lightly skimming upper torso and close-fitting hip and thigh contours support a very narrow-to-narrow visible build. Unpadded shoulder outlines appear comparable to somewhat broader than the hips. The bloused top conceals waist indentation; heeled boots and the walking stance prevent leg-proportion labeling."
+      }
+    },
+    {
+      "photoId": "archive-20273",
+      "review": "audit-remaining-1",
+      "before": {
+        "photoId": "archive-20273",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "hips-obscured",
+          "waist-obscured",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The dark dress follows parts of the upper torso but forms diagonal folds and hangs away from portions of the hips. Its asymmetric drape prevents a dependable full torso-and-hip comparison. The long skirt hides the leg transition, and the feet are in heels."
+      },
+      "after": {
+        "photoId": "archive-20273",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "waist": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "legs": null
+        },
+        "blockers": [
+          "heels-platforms",
+          "bent-pose"
+        ],
+        "evidence": "The unbelted dress follows the torso and hips, supporting a narrow-to-intermediate build and slight-to-moderate waist indentation. Natural shoulder outlines appear comparable to somewhat broader than the hip contour. The long skirt hides the hip/leg transition, while heels and a walking stance confound leg proportions."
+      }
+    },
+    {
+      "photoId": "archive-19817",
+      "review": "audit-remaining-1",
+      "before": {
+        "photoId": "archive-19817",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "waist-obscured",
+          "hips-obscured",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The patterned dress has projecting shoulder points and a structured, folded torso-and-hip silhouette. Those edges cannot be treated as underlying body contours. Crossed walking legs and high heels, together with a hidden hip transition, prevent the leg comparison."
+      },
+      "after": {
+        "photoId": "archive-19817",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "turned-pose",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "Close-fitting fabric along the torso and hips supports a narrow-to-intermediate visible build without using the projecting shoulder tips. Those extensions block shoulder comparison; bodice shaping and asymmetric hip placement confound waist indentation. The skirt, crossed walking legs and high heels prevent leg-proportion labeling."
+      }
+    },
+    {
+      "photoId": "archive-11717",
+      "review": "audit-remaining-1",
+      "before": {
+        "photoId": "archive-11717",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "waist-obscured",
+          "hips-obscured",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The dense patterned upper garment and expanded sleeve caps create a constructed torso outline. Fabric folds and overlapping lower panels obscure the hip and leg transition; the crossing stride and heels prevent separating garment shape from supported body proportions."
+      },
+      "after": {
+        "photoId": "archive-11717",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              0,
+              1
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "heels-platforms",
+          "bent-pose"
+        ],
+        "evidence": "The close-fitting central bodice and hip contour support a very narrow-to-narrow visible build and slight-to-moderate inward waist contour. Bulky projecting sleeves prevent assessment of shoulder extent and are excluded from build evidence. The long skirt, stepping legs and high heels block leg-proportion assessment."
+      }
+    },
+    {
+      "photoId": "street-tokyo-200101",
+      "review": "audit-remaining-1",
+      "before": {
+        "photoId": "street-tokyo-200101",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "bent-pose",
+          "camera-perspective"
+        ],
+        "evidence": "The pink top drapes and bunches at the waistband, while high-waisted trousers have fabric ease across the hips. These clothing landmarks do not establish a waist relationship or anatomical leg transition. An offset stance with a bent knee further confounds the full-body view."
+      },
+      "after": {
+        "photoId": "street-tokyo-200101",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              0,
+              1
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "shoulders-obscured",
+          "turned-pose",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The upper torso outline together with close-fitting hips and thighs supports a very narrow-to-narrow visible build, excluding the flared trouser hems. Draped and gathered fabric blocks waist assessment. Asymmetric shoulder coverage and angled hips prevent shoulder comparison; a bent leg and thick platform soles prevent leg-proportion assessment."
+      }
+    },
+    {
+      "photoId": "archive-15108",
+      "review": "audit-remaining-2",
+      "before": {
+        "photoId": "archive-15108",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "heels-platforms",
+          "bent-pose"
+        ],
+        "evidence": "The tailored one-piece garment shapes the shoulders, waist, and upper hips; its outline is not independent evidence of body proportions. The short lower section still conceals the anatomical hip transition. A crossing stride and heels rule out leg-to-torso comparison."
+      },
+      "after": {
+        "photoId": "archive-15108",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The close-fitting romper shows a narrow-to-intermediate trunk and hip outline, but tailoring and fabric tension limit precision. Structured shoulders prevent shoulder-to-hip comparison; the crossed step and heels prevent leg proportions. The waist remains garment-shaped."
+      }
+    },
+    {
+      "photoId": "archive-15758",
+      "review": "audit-remaining-2",
+      "before": {
+        "photoId": "archive-15758",
+        "pose": "three-quarter",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "structured-clothing",
+          "waist-obscured",
+          "turned-pose",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The shirt folds into high-waisted shorts rather than tracing the natural waist indentation. Angled shoulders and hips prevent a frontal breadth comparison, and the shorts partly shape the hip outline. The bent-knee stance and thick raised soles prevent reliable leg proportions."
+      },
+      "after": {
+        "photoId": "archive-15758",
+        "pose": "three-quarter",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "turned-pose",
+          "bent-pose",
+          "waist-obscured",
+          "heels-platforms"
+        ],
+        "evidence": "The relatively close shirt and fitted shorts show the torso and hip-to-thigh outline together, supporting narrow-to-intermediate visible build. Rotation prevents shoulder-to-hip comparison; the tucked, high waistband does not establish natural waist indentation. A bent knee and raised footwear prevent leg-proportion labeling."
+      }
+    },
+    {
+      "photoId": "archive-12948",
+      "review": "audit-remaining-2",
+      "before": {
+        "photoId": "archive-12948",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "loose-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The sleeveless dress reveals shoulder edges, but a side fastening gathers fabric across the waist and hips. The draped skirt does not show their independent boundaries. Walking legs, heels and the concealed leg transition prevent a torso-to-leg assessment."
+      },
+      "after": {
+        "photoId": "archive-12948",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "waist-obscured",
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The sleeveless dress follows the torso and hips closely enough for narrow-to-intermediate visible build. Exposed shoulder edges appear comparable to somewhat broader than the hip outline. The side fastening gathers the waist, so indentation stays unknown; the crossing stride, skirt and heels prevent leg-proportion assessment."
+      }
+    },
+    {
+      "photoId": "archive-18395",
+      "review": "audit-remaining-2",
+      "before": {
+        "photoId": "archive-18395",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "structured-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "occlusion",
+          "turned-pose",
+          "bent-pose"
+        ],
+        "evidence": "The romper blouses above a wide belt and gathers across the hips, so its silhouette cannot establish torso volume or waist indentation. A hand interrupts one hip boundary. The shifted pelvis and bent knee also prevent a neutral leg comparison."
+      },
+      "after": {
+        "photoId": "archive-18395",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "waist-obscured",
+          "bent-pose",
+          "occlusion",
+          "loose-clothing"
+        ],
+        "evidence": "The sleeveless romper sits close over the upper torso and hips, with the upper-thigh outline also visible, supporting intermediate-to-fuller build. Its belt and blousing obscure the waist. Leaning and a hand at one hip compromise shoulder comparison; uneven knees and the angled stance prevent leg-proportion assessment."
+      }
+    },
+    {
+      "photoId": "archive-10871",
+      "review": "audit-remaining-2",
+      "before": {
+        "photoId": "archive-10871",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "camera-perspective",
+          "heels-platforms"
+        ],
+        "evidence": "Individual inspection shows the dress draping away from the torso with a loose hanging side panel across the hip. Bare shoulders do not recover hidden waist and hip contours, while the low camera angle and thick platforms distort leg presentation."
+      },
+      "after": {
+        "photoId": "archive-10871",
+        "pose": "three-quarter",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "waist-obscured",
+          "turned-pose",
+          "camera-perspective",
+          "heels-platforms"
+        ],
+        "evidence": "The central dress follows the torso and upper hips sufficiently for a broad narrow-to-intermediate build observation; the hanging side panel is not counted as body width. Draping and the oblique view obscure independent shoulder-to-hip and waist comparisons. The skirt, elevated footwear and low viewpoint prevent leg-proportion assessment."
+      }
+    },
+    {
+      "photoId": "archive-20202",
+      "review": "audit-remaining-2",
+      "before": {
+        "photoId": "archive-20202",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "structured-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "bent-pose",
+          "heels-platforms",
+          "camera-perspective"
+        ],
+        "evidence": "Diagonal gathers and an asymmetrical hanging panel reshape the torso and hip silhouette. The waist and hip boundaries cannot be separated reliably from the drapery. The offset stance, low runway perspective and high heels prevent a valid leg-to-torso comparison."
+      },
+      "after": {
+        "photoId": "archive-20202",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              1
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "waist-obscured",
+          "shoulders-obscured",
+          "camera-perspective",
+          "heels-platforms"
+        ],
+        "evidence": "The underlying dress lies close across the torso and upper hips, showing a narrow visible build independently of the hanging side drape. That drape and the gathered waist prevent dependable width and indentation comparisons. The low camera viewpoint, wide stance, hidden hip transition and heels leave legs unknown."
+      }
+    },
+    {
+      "photoId": "pexels-26712038",
+      "review": "audit-remaining-3",
+      "before": {
+        "photoId": "pexels-26712038",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "loose-clothing",
+          "shoulders-obscured",
+          "waist-obscured",
+          "hips-obscured",
+          "cropped"
+        ],
+        "evidence": "The fitted vest has shaped panels, while the light lower garment drapes over the hip area. One arm is lifted and hair overlaps the shoulders. These outlines do not securely establish body proportions, and the crop excludes the lower legs and feet."
+      },
+      "after": {
+        "photoId": "pexels-26712038",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "bent-pose",
+          "cropped"
+        ],
+        "evidence": "The close-fitting torso garment and smooth skirt across the visible hips jointly support an intermediate-to-fuller visible build. The tailored vest cannot establish waist indentation. A raised arm and hair compromise shoulder comparison, while the cropped lower body prevents a leg-to-torso judgment."
+      }
+    },
+    {
+      "photoId": "archive-15418",
+      "review": "audit-remaining-3",
+      "before": {
+        "photoId": "archive-15418",
+        "pose": "three-quarter",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "hips-obscured",
+          "waist-obscured",
+          "turned-pose",
+          "bent-pose"
+        ],
+        "evidence": "The tank shows part of the torso, but its long hem overlaps a pleated skirt and conceals the waist-to-hip transition. The body is angled with one knee bent. The skirt volume and rotated stance prevent shoulder, hip, build, and leg comparisons."
+      },
+      "after": {
+        "photoId": "archive-15418",
+        "pose": "three-quarter",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "turned-pose",
+          "bent-pose",
+          "waist-obscured",
+          "loose-clothing"
+        ],
+        "evidence": "The fitted sleeveless top follows the torso into the upper hips, supporting a narrow-to-intermediate visible build without using the skirt's flared hem. Rotation prevents a reliable shoulder-to-hip comparison. The overlapping top and pleated skirt obscure the waist relationship; the bent stance prevents leg-proportion labeling."
+      }
+    },
+    {
+      "photoId": "street-tokyo-200466",
+      "review": "audit-remaining-3",
+      "before": {
+        "photoId": "street-tokyo-200466",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "loose-clothing",
+          "structured-clothing",
+          "waist-obscured",
+          "hips-obscured",
+          "bent-pose"
+        ],
+        "evidence": "The patterned knit top shows some torso contour, but it gathers into belted trousers that stand away from the hips and widen over the feet. The natural waist and hip-to-leg junction remain unclear. An offset stance adds uncertainty rather than resolving those landmarks."
+      },
+      "after": {
+        "photoId": "street-tokyo-200466",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "waist-obscured",
+          "shoulders-obscured",
+          "bent-pose",
+          "occlusion"
+        ],
+        "evidence": "The relatively close-fitting knit torso and trousers across the hips support a narrow-to-intermediate visible build. Sleeve contours do not isolate shoulder endpoints reliably enough for comparison. The belt and tucked hem obscure the waist relationship; the angled stance and trouser-covered feet leave leg proportions unsupported."
+      }
+    },
+    {
+      "photoId": "pexels-17490329",
+      "review": "audit-remaining-3",
+      "before": {
+        "photoId": "pexels-17490329",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "shoulders-obscured",
+          "waist-obscured",
+          "occlusion",
+          "turned-pose",
+          "heels-platforms"
+        ],
+        "evidence": "Puffed shoulders and overlapping arms conceal the upper-body outline and waist. The shifted hip and diagonally stretched skirt prevent a dependable lower-body comparison. The asymmetric hem hides leg landmarks, and the boots have substantial platforms."
+      },
+      "after": {
+        "photoId": "pexels-17490329",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "structured-clothing",
+          "waist-obscured",
+          "bent-pose",
+          "heels-platforms",
+          "camera-perspective",
+          "occlusion"
+        ],
+        "evidence": "The close-fitting dress traces the torso and hips sufficiently for a narrow-to-intermediate visible build. Enlarged shoulder fabric is not shoulder anatomy, and crossed arms interrupt the waist contour. The wide posed stance, high platform boots and low viewpoint prevent a supported leg-to-torso judgment."
+      }
+    },
+    {
+      "photoId": "street-tokyo-195901",
+      "review": "parent-supported-label-audit",
+      "before": {
+        "photoId": "street-tokyo-195901",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          }
+        },
+        "blockers": [
+          "loose-clothing",
+          "shoulders-obscured",
+          "waist-obscured"
+        ],
+        "evidence": "The full standing figure, fitted trousers' hip/leg junction and both feet in low-heeled boots support intermediate-to-somewhat-longer relative legs. The loose top masks trunk and waist contours and extends over the shoulders, preventing the other body comparisons."
+      },
+      "after": {
+        "photoId": "street-tokyo-195901",
+        "pose": "front",
+        "axes": {
+          "build": null,
+          "shoulderHip": null,
+          "waist": null,
+          "legs": null
+        },
+        "blockers": [
+          "bent-pose",
+          "loose-clothing",
+          "shoulders-obscured",
+          "turned-pose",
+          "waist-obscured"
+        ],
+        "evidence": "The loose tank obscures the trunk and waist; the trousers wrinkle and hang below the anatomical hip-to-leg transition. The leaning stance and tall boots further limit leg assessment. Garment seams do not provide a dependable torso-to-leg landmark."
+      }
+    },
+    {
+      "photoId": "archive-19120",
+      "review": "parent-supported-label-audit",
+      "before": {
+        "photoId": "archive-19120",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "waist": {
+            "range": [
+              0,
+              1
+            ],
+            "confidence": "medium"
+          },
+          "legs": null
+        },
+        "blockers": [
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "The close-fitting sleeveless dress shows a narrow-to-intermediate torso and lateral hip outline without a belt or flared skirt. Exposed shoulder edges appear comparable to somewhat broader than the hips, with little-to-slight waist indentation. The anatomical leg transition remains covered, and walking in heels blocks the leg axis."
+      },
+      "after": {
+        "photoId": "archive-19120",
+        "pose": "front",
+        "axes": {
+          "build": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "shoulderHip": {
+            "range": [
+              2,
+              3
+            ],
+            "confidence": "medium"
+          },
+          "waist": {
+            "range": [
+              1,
+              2
+            ],
+            "confidence": "medium"
+          },
+          "legs": null
+        },
+        "blockers": [
+          "bent-pose",
+          "heels-platforms"
+        ],
+        "evidence": "Close-fitting sleeveless fabric shows the shoulder, torso and hip outline with slight-to-moderate waist indentation. Fabric wrinkles limit precision, so the waist range is broad rather than near-absent. The hem, crossed walking step and heels prevent leg proportions."
+      }
+    }
+  ]
+}
