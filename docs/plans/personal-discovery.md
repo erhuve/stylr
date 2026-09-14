@@ -1,6 +1,6 @@
 # Stylr — personal discovery expansion
 
-Status: implementation and local verification complete, 2026-09-14 (America/New_York). Active private iteration: `Sites/stylr-personal`, branch `personal-discovery`. Results and limitations: `docs/verification/personal-discovery.md`.
+Status: implementation committed and pushed; local verification complete, 2026-09-14 (America/New_York). Live private preview still needs managed-runtime recovery after host restarts: reopen the Site in Zo, then verify it. Active private iteration: `Sites/stylr-personal`, branch `personal-discovery`. Results and limitations: `docs/verification/personal-discovery.md`.
 
 This is the active plan for the personal-use expansion. It supersedes the sourcing constraints and discovery UX in `photo-study.md`, not its persistence/accessibility safeguards. The previous public release has been restored and is isolated in `Sites/stylr`; this work is for the unpublished, owner-only development preview in `Sites/stylr-personal`. No publishing or new accounts, analytics, questionnaire, shopping, licensing workflow, or definitive style classification.
 

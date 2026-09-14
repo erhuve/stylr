@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Preview status (2026-09-14): the implementation and saved production build are verified, committed and pushed. The managed dev runtime stopped during host restarts; reopen this Site in Zo and verify the live page. See the verification report for the exact checks and remaining runtime step. Do not manually start a server or overwrite the project to recover it.
+
 Click **Start with real outfits**. Swipe right to wear, left to pass; buttons also support **Admire, not for me**, **Not sure**, and undo. Keyboard alternatives are available. Notes, explicit more/less feedback and settings are optional disclosures. Essential photo controls fit at 320×640 and larger tested viewports.
 
 The library contains **385 color references**: the original 42 unchanged photographs, 237 reviewed Fashionpedia archive references, and 106 TokyoFashion street-style outfits. There are 366 full-outfit images and 19 labeled detail views. The source assets occupy 37.4 MB locally; the interface preloads only the current and two upcoming images.
