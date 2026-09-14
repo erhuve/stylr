@@ -1,12 +1,12 @@
 {
-  "name": "stylr",
-  "local_port": 53955,
+  "name": "stylr-personal",
+  "local_port": 50720,
   "entrypoint": "bun run dev",
   "publish": {
-    "label": "stylr",
+    "label": "stylr-personal",
     "type": "http",
     "entrypoint": "bun run prod",
-    "published_port": 52672,
+    "published_port": 58475,
     "env": {
       "NODE_ENV": "production",
       "ZO_CLIENT_IDENTITY_TOKEN": "none"

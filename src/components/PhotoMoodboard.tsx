@@ -20,7 +20,7 @@ function BoardPhoto({ photo, kind }: BoardItem) {
       <img key={attempt} src={photo.src} alt={photo.description} loading="eager" style={failed ? { display: 'none' } : undefined} onError={() => { setFailed(true); setRetrying(false); }} onLoad={() => { if (document.activeElement === retryRef.current) cardRef.current?.focus({ preventScroll: true }); setFailed(false); setRetrying(false); }} />
       <span className={`board-status board-status-${kind}`}>{statuses[kind]}</span>
     </div>
-    <figcaption className="board-caption"><h2>{photo.title}</h2><p>{photo.view === 'detail' && <span>Detail · </span>}<a href={photo.sourceUrl} target="_blank" rel="noreferrer" aria-label={`Photo by ${photo.creator}: ${photo.title}`}>{photo.creator}</a><span> / </span><a href={photo.licenseUrl} target="_blank" rel="noreferrer">{photo.licenseUrl.includes('pexels') ? 'Pexels' : 'Unsplash'}</a></p></figcaption>
+    <figcaption className="board-caption"><h2>{photo.title}</h2><p>{photo.view === 'detail' && <span>Detail · </span>}<a href={photo.sourceUrl} target="_blank" rel="noreferrer" aria-label={`Photo by ${photo.creator}: ${photo.title}`}>{photo.creator}</a><span> / </span><a href={photo.licenseUrl} target="_blank" rel="noreferrer">{photo.sourceLabel || (photo.licenseUrl.includes('pexels') ? 'Pexels' : photo.licenseUrl.includes('unsplash') ? 'Unsplash' : 'Source')}</a></p></figcaption>
   </figure>;
 }
 

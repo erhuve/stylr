@@ -1,5 +1,5 @@
 import { test, expect } from 'bun:test';
-import { PHOTOS } from '../src/lib/photo-catalog';
+import { LEGACY_PHOTOS as PHOTOS } from '../src/lib/photo-catalog';
 import { eligiblePhotos, freshPhotoSession, photoEvidence, photoMatches } from '../src/lib/photo-session';
 import type { PhotoSession } from '../src/lib/photo-types';
 

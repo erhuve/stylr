@@ -1,9 +1,12 @@
 export type Feature = 'relaxed' | 'fitted' | 'layered' | 'minimal' | 'pattern' | 'texture' | 'bright' | 'muted' | 'tailored' | 'sporty' | 'utility' | 'romantic' | 'edgy' | 'vintage';
 export type Collection = 'women' | 'men';
 export type Frame = 'smaller' | 'mid' | 'fuller';
+export type DimensionKey = 'silhouette' | 'surface' | 'palette' | 'styling' | 'references' | 'context' | 'function' | 'comfort';
+export type PhotoDimensions = Partial<Record<DimensionKey, string[]>>;
 export type Photo = {
   id: string; title: string; description: string; src: string; sourceUrl: string; creator: string; creatorUrl: string; licenseUrl: string;
-  collection: Collection; frame: Frame; features: Feature[]; family: 'everyday' | 'tailoring' | 'sport' | 'utility' | 'expressive' | 'soft';
+  collection: Collection | 'unclassified'; frame: Frame | 'unknown'; features: Feature[]; family: 'everyday' | 'tailoring' | 'sport' | 'utility' | 'expressive' | 'soft';
+  dimensions?: PhotoDimensions; sourceLabel?: string; metadataBasis?: 'visual-review' | 'source-description' | 'legacy-tags';
   shoot: string; view: 'full' | 'detail'; garments: ('skirt' | 'shorts' | 'heels' | 'boots')[]; shoesKnown: boolean; bottomKnown: boolean;
 };
 export type PhotoReaction = 'wear' | 'admire' | 'pass' | 'unsure';

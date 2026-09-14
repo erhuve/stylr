@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "step": "discover",
+  "sex": "unspecified",
+  "collection": "all",
+  "frame": "all",
+  "votes": [
+    {
+      "photoId": "pexels-15345393",
+      "reaction": "wear",
+      "note": "Sleeves — keep exactly.\nTwo lines.",
+      "more": [
+        "relaxed"
+      ],
+      "less": [
+        "bright"
+      ]
+    },
+    {
+      "photoId": "pexels-15799200",
+      "reaction": "admire",
+      "note": "Only the layering.",
+      "more": [
+        "layered"
+      ],
+      "less": []
+    }
+  ],
+  "draft": {
+    "photoId": "pexels-12056633",
+    "note": "An unfinished thought… 🎀",
+    "more": [
+      "texture"
+    ],
+    "less": [
+      "pattern"
+    ]
+  },
+  "exclusions": []
+}

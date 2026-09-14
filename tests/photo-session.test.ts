@@ -13,7 +13,7 @@ describe('color photo catalog and engine', () => {
     for (const p of PHOTOS) {
       expect(p.src.startsWith('/photos/')).toBe(true);
       expect(await Bun.file(`public${p.src}`).exists()).toBe(true);
-      expect(p.sourceUrl).toMatch(/^https:\/\/(www\.pexels\.com|unsplash\.com)\//);
+      expect(new URL(p.sourceUrl).protocol).toBe('https:');
       expect(p.creator.length).toBeGreaterThan(0);
       expect(p.features.length).toBeGreaterThan(0);
       expect(new Set(p.features).size).toBe(p.features.length);
@@ -50,7 +50,7 @@ describe('color photo catalog and engine', () => {
     expect(new Set(selected.slice(0, 12).map(p => p.family)).size).toBe(6);
     const women = selected.slice(0, 12).filter(p => p.collection === 'women').length;
     expect(women).toBeGreaterThanOrEqual(4); expect(women).toBeLessThanOrEqual(8);
-    expect(new Set(selected.slice(0, 12).map(p => p.frame)).size).toBe(3);
+    expect(new Set(selected.slice(0, 12).map(p => p.frame))).toEqual(new Set(PHOTOS.map(p => p.frame)));
   });
   test('sex never determines selection or style; body preference does not exclude', () => {
     const s = react(react(empty()));

@@ -60,6 +60,7 @@ test('sex and body inputs persist independently from clothing range and legacy d
   const legacy=JSON.stringify(freshSession());
   await page.addInitScript(({k,v})=>localStorage.setItem(k,v), {k:STORAGE_KEY,v:legacy});
   await page.goto('/');
+  await page.locator('.photo-settings > summary').click();
   await page.getByLabel('Sex', { exact: false }).selectOption('female');
   await page.getByLabel('Body reference', { exact: false }).selectOption('fuller');
   await page.getByRole('button', { name: 'Men’s looks', exact: true }).click();
@@ -73,13 +74,20 @@ test('sex and body inputs persist independently from clothing range and legacy d
 });
 test('notes persist, profile changes confirm before losing draft, cancellation is lossless', async ({page})=>{
   await start(page);const id=await page.locator('.photo-current').getAttribute('data-photo-id');
+  await page.locator('.photo-details > summary').click();
   await page.getByLabel('What catches your eye?').fill('Keep this exact unfinished thought');await stored(page);await page.reload();
   await expect(page.getByLabel('What catches your eye?')).toHaveValue('Keep this exact unfinished thought');
-  await page.getByRole('button',{name:'Change starting point'}).click();
+  await page.getByRole('button',{name:'Settings',exact:true}).click();
+  await page.locator('.photo-settings > summary').click();
   const other=PHOTOS.find(p=>p.id===id)?.collection==='men'?'Women’s looks':'Men’s looks';
   await page.getByRole('button',{name:other,exact:true}).click();await expect(page.getByRole('dialog')).toBeVisible();
   await page.getByRole('button',{name:'Keep editing',exact:true}).click();
   expect((await stored(page)).draft?.photoId).toBe(id);
+  await page.getByRole('button',{name:'Continue my photo study',exact:true}).click();
+  await expect(page.locator('.photo-current')).toHaveAttribute('data-photo-id',id!);
+  await expect(page.getByLabel('What catches your eye?')).toHaveValue('Keep this exact unfinished thought');
+  await page.getByRole('button',{name:'Settings',exact:true}).click();
+  await page.locator('.photo-settings > summary').click();
   await page.getByRole('button',{name:other,exact:true}).click();
   await page.getByRole('button',{name:'Discard draft and change'}).click();
   expect((await stored(page)).draft).toBeUndefined();await page.reload();
@@ -87,6 +95,7 @@ test('notes persist, profile changes confirm before losing draft, cancellation i
 });
 test('double click and held Enter produce one reaction, unsure is neutral, undo restores exact card',async({page})=>{
   await start(page);const id=await page.locator('.photo-current').getAttribute('data-photo-id');
+  await page.locator('.photo-details > summary').click();
   await page.getByLabel('What catches your eye?').fill('Sleeves');
   await page.getByRole('button',{name:'I’d wear this',exact:true}).dblclick({delay:120});
   await expect.poll(async()=> (await stored(page)).votes.length).toBe(1);
@@ -110,6 +119,7 @@ async function startWithoutImage(page:Page){await page.goto('/');await page.getB
 test('unknown stored version remains untouched until explicit clear; legacy untouched',async({page})=>{
   await page.addInitScript(({k,l})=>{localStorage.setItem(k,'{"version":999}');localStorage.setItem(l,'legacy-data')},{k:PHOTO_KEY,l:STORAGE_KEY});
   await page.goto('/');await expect(page.getByRole('alert')).toContainText('cannot be read');
+  await page.locator('.photo-settings > summary').click();
   await page.getByRole('button',{name:'Men’s looks',exact:true}).click();
   expect(await page.evaluate(k=>localStorage.getItem(k),PHOTO_KEY)).toBe('{"version":999}');
   await page.getByRole('button',{name:'Clear photo study',exact:true}).click();

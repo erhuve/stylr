@@ -5,6 +5,7 @@ async function start(page: Page) {
   await page.goto('/');
   await page.getByRole('button', { name: 'Start with real outfits' }).click();
   await expect(page.getByRole('button', { name: 'I’d wear this', exact: true })).toBeEnabled();
+  await page.locator('.photo-details > summary').click();
   await page.getByLabel('What catches your eye?').fill('keep this note');
   await expect(page.locator('.site-footer')).not.toContainText('Saving…');
 }
@@ -18,6 +19,7 @@ test('photo invalid storage stays protected after transient read failure', async
     document.dispatchEvent(new Event('visibilitychange'));
     Storage.prototype.getItem = get;
   });
+  await page.locator('.photo-settings > summary').click();
   await page.getByLabel('Sex').selectOption('female');
   await page.waitForTimeout(100);
   expect(await page.evaluate(k => localStorage.getItem(k), PHOTO_KEY)).toBe('{"version":999}');
@@ -51,6 +53,7 @@ test('failed photo clear does not report success or lose state', async ({ page }
 test('photo writes fail visibly when storage silently does nothing', async ({ page }) => {
   await page.addInitScript(() => { Storage.prototype.setItem = () => {}; });
   await page.goto('/');
+  await page.locator('.photo-settings > summary').click();
   await page.getByLabel('Sex').selectOption('female');
   await expect(page.getByRole('alert')).toContainText('storage is unavailable');
   await expect(page.getByLabel('Sex')).toHaveValue('female');
@@ -79,6 +82,7 @@ test('photo cross-tab locks choose one write and pause the other', async ({ page
   await page.goto('/');
   const other = await context.newPage();
   await other.goto('/');
+  await Promise.all([page.locator('.photo-settings > summary').click(), other.locator('.photo-settings > summary').click()]);
   await Promise.all([page.getByLabel('Sex').selectOption('female'), other.getByLabel('Sex').selectOption('male')]);
   await expect.poll(async () => (await page.getByRole('alert').count()) + (await other.getByRole('alert').count())).toBeGreaterThan(0);
   const raw = await page.evaluate(k => JSON.parse(localStorage.getItem(k) || '{}'), PHOTO_KEY);
@@ -91,6 +95,7 @@ test('photo cross-tab locks choose one write and pause the other', async ({ page
 test('photo no-Web-Locks mode is explicitly volatile', async ({ page }) => {
   await page.addInitScript(() => Object.defineProperty(navigator, 'locks', { value: undefined }));
   await page.goto('/');
+  await page.locator('.photo-settings > summary').click();
   await page.getByLabel('Sex').selectOption('female');
   await expect(page.getByRole('alert')).toContainText('storage is unavailable');
   expect(await page.evaluate(k => localStorage.getItem(k), PHOTO_KEY)).toBeNull();

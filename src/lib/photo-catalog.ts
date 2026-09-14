@@ -1,5 +1,8 @@
 import type { Photo } from './photo-types';
-export const PHOTOS: Photo[] = [
+import archivePhotos from '../../scripts/fashionpedia-photos.json' with { type: 'json' };
+import streetPhotos from '../../scripts/streetstyle-photos.json' with { type: 'json' };
+
+export const LEGACY_PHOTOS: Photo[] = [
   {
     "id": "pexels-15345393",
     "title": "Color, with structure",
@@ -1032,3 +1035,16 @@ export const PHOTOS: Photo[] = [
     "bottomKnown": true
   }
 ];
+
+export const PHOTOS: Photo[] = [...LEGACY_PHOTOS, ...archivePhotos as Photo[], ...streetPhotos as Photo[]];
+
+for (const photo of PHOTOS) {
+  Object.freeze(photo.features);
+  Object.freeze(photo.garments);
+  if (photo.dimensions) {
+    for (const values of Object.values(photo.dimensions)) Object.freeze(values);
+    Object.freeze(photo.dimensions);
+  }
+  Object.freeze(photo);
+}
+Object.freeze(PHOTOS);

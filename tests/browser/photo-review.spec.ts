@@ -4,6 +4,7 @@ import { freshPhotoSession, nextPhoto, PHOTO_KEY, votePhoto } from '../../src/li
 
 test('setup mosaic respects clothing range and exclusions', async ({ page }) => {
   await page.goto('/');
+  await page.locator('.photo-settings > summary').click();
   await page.getByRole('button', { name: 'Men’s looks', exact: true }).click();
   const allowed = PHOTOS.filter(p => p.collection === 'men').map(p => p.src);
   const sources = await page.locator('.photo-mosaic img').evaluateAll(nodes => nodes.map(n => n.getAttribute('src')));
@@ -25,7 +26,8 @@ test('the last reaction is undoable after catalog exhaustion', async ({ page }) 
 test('skip explains that explicit negative detail feedback is retained', async ({ page }) => {
   await page.goto('/');
   await page.getByRole('button', { name: 'Start with real outfits' }).click();
-  await page.locator('.photo-details summary').click();
+  await page.locator('.photo-details > summary').click();
+  await page.locator('.photo-details details > summary').click();
   await page.getByRole('group', { name: 'Less of', exact: true }).getByRole('button', { name: 'Brighter colors', exact: true }).click();
   await page.getByRole('button', { name: 'Not sure / skip', exact: true }).click();
   await expect(page.locator('.sr-only[role=status]')).toContainText('explicit detail choices were saved');
@@ -33,6 +35,7 @@ test('skip explains that explicit negative detail feedback is retained', async (
 
 test('explicit reset recovers after another tab has already cleared storage', async ({ page }) => {
   await page.goto('/');
+  await page.locator('.photo-settings > summary').click();
   await page.getByLabel('Sex').selectOption('female');
   await expect(page.locator('.site-footer')).not.toContainText('Saving…');
   await page.evaluate(key => {
@@ -58,6 +61,7 @@ test('internal navigation protects queued photo notes', async ({ page }) => {
     void navigator.locks.request(key, async () => { acquired(); await release; });
     await held;
   }, PHOTO_KEY);
+  await page.locator('.photo-details > summary').click();
   await page.getByLabel('What catches your eye?').fill('pending and important');
   await expect(page.locator('.site-footer')).toContainText('Saving…');
   await page.getByRole('link', { name: 'Open original illustrated study' }).click();
