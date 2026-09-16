@@ -1,0 +1,2274 @@
+[
+  {
+    "id": "shinybynature-8987984822488-image-48452820009176",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/autumn-corduroy-dress-acorn",
+    "localPath": "images/shinybynature-8987984822488-image-48452820009176.webp",
+    "sha256": "41857df4dd58931ae446f139c0bce15012e2e162c03956d28bb3f5f915bdb2ec",
+    "ordinal": 0,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown pinafore over fitted sleeves; visible arms support build, flared skirt conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8987984822488-image-48452820074712",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/autumn-corduroy-dress-acorn",
+    "localPath": "images/shinybynature-8987984822488-image-48452820074712.webp",
+    "sha256": "019a4cbdff61e9eb0bd30263a4b2e0ca4a50cf5a55fa0796b2352d0635dee37c",
+    "ordinal": 1,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Standing pinafore outfit shows legs and torso; dress construction obscures shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8525974733016-image-47500353110232",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/plaid-mini-skirt-black-white",
+    "localPath": "images/shinybynature-8525974733016-image-47500353110232.webp",
+    "sha256": "1cf3170d6ffccab32e3dd0fe5933f90b4285888b2446f4466ec64ef3ff685b42",
+    "ordinal": 2,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "White fitted top shows moderate torso taper; flared checked skirt hides hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8525974733016-image-47500353175768",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/plaid-mini-skirt-black-white",
+    "localPath": "images/shinybynature-8525974733016-image-47500353175768.webp",
+    "sha256": "0ec60bbd1be72d133f27c85ba7dd68431aea4fa56852c28baed5f61694d0379a",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side pose repeats checked-skirt outfit without clear frontal contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8851286950104-image-46296440045784",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/academy-maxi-dress-black",
+    "localPath": "images/shinybynature-8851286950104-image-46296440045784.webp",
+    "sha256": "cc073fd4cb0adefd25b5d1ab6e0e791668383af7eaeabfa6c904b219fe46ba7e",
+    "ordinal": 4,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Long black pinafore with visible arms; loose long skirt hides lower torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8851286950104-image-46296440013016",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/academy-maxi-dress-black",
+    "localPath": "images/shinybynature-8851286950104-image-46296440013016.webp",
+    "sha256": "761074a1f01dd81b7e7807a63223c4333585a74374f8c75d021f3932eca4a56c",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer repeat of long black pinafore already retained.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8832335479000-image-45553855430872",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/academy-mini-dress-black",
+    "localPath": "images/shinybynature-8832335479000-image-45553855430872.webp",
+    "sha256": "33b01f6c58b0e84c6a2c73aada9faa9fdbce35f5d57135661c8811efbb8d516d",
+    "ordinal": 6,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Short black pinafore with hands on hips; visible arms support build, dress obscures shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8832335479000-image-45553855529176",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/academy-mini-dress-black",
+    "localPath": "images/shinybynature-8832335479000-image-45553855529176.webp",
+    "sha256": "940a77c4add982feb26996917d9e5e5185cfc6430c13e845fcd7fbb4c2e708f4",
+    "ordinal": 7,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Full short-pinafore outfit retained for footwear; flared skirt conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8893528998104-image-48226382840024",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/linen-overalls-black",
+    "localPath": "images/shinybynature-8893528998104-image-48226382840024.webp",
+    "sha256": "8357fd6bd7d9cdfb0e4e8b7c434eac64901ddb5c96fa0549fb2c2804ead3041c",
+    "ordinal": 8,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black dungarees with visible arms; roomy bib and trousers hide waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8893528998104-image-48226382905560",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/linen-overalls-black",
+    "localPath": "images/shinybynature-8893528998104-image-48226382905560.webp",
+    "sha256": "25f52995bbed3f426b23b305df7967de3bad08585a334ca92df5157e06343d94",
+    "ordinal": 9,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of black dungarees with no additional contour evidence.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8861929144536-image-47258484998360",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/linen-overalls-canyon",
+    "localPath": "images/shinybynature-8861929144536-image-47258484998360.webp",
+    "sha256": "52710c249c5590117b32c195f9d9d6725b349d5edd0de91b7772041b60b1c080",
+    "ordinal": 10,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Orange dungaree bib and bare arms; loose garment conceals waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8861929144536-image-47258484736216",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/linen-overalls-canyon",
+    "localPath": "images/shinybynature-8861929144536-image-47258484736216.webp",
+    "sha256": "a925efe07958ff588718f10158ed1250185efbb6509fd9a35f1b7b1281f9c93a",
+    "ordinal": 11,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side orange dungarees retained for complete outfit; frontal axes unavailable.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8435992985816-image-41636067442904",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/halter-tank-top-lavender",
+    "localPath": "images/shinybynature-8435992985816-image-41636067442904.webp",
+    "sha256": "d70913dc57ac41f2b316c849a16e181d8cb19746f02d9e05ecea7b467ac6d41a",
+    "ordinal": 12,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Lavender fitted halter shows arms and moderate waist taper; gathered skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8435992985816-image-41636067541208",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/halter-tank-top-lavender",
+    "localPath": "images/shinybynature-8435992985816-image-41636067541208.webp",
+    "sha256": "43e205416acbcac9a9bc19570bfb3b00f12a23fe16687f793b7b64b7ccaecc07",
+    "ordinal": 13,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Near-identical halter crop with head turned; duplicate outfit evidence.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8205968081112-image-41631918063832",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/gingham-dress-black",
+    "localPath": "images/shinybynature-8205968081112-image-41631918063832.webp",
+    "sha256": "c60814c0b1d0be4f018afd9d4aa9d2c2d8d331dc8105c9228073b17130ba17ce",
+    "ordinal": 14,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled checked dress shows limbs; pose and skirt prevent frontal shape judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-8205968081112-image-41631918031064",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/gingham-dress-black",
+    "localPath": "images/shinybynature-8205968081112-image-41631918031064.webp",
+    "sha256": "d1de0ae23606976eba7e106ef8e75f2b2402bcac67a22190d47c19c3e5a67f70",
+    "ordinal": 15,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear checked-dress view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-9255298269400-image-50352465117400",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/denim-overall-dress-light-wash-with-bees",
+    "localPath": "images/shinybynature-9255298269400-image-50352465117400.webp",
+    "sha256": "2a0fd0e74fb85617d17cd56aa9e65e3e0c9db4a0ac5ae212ef2bfa747e174266",
+    "ordinal": 16,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Denim pinafore and visible upper arms support build; stiff bib hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-9255298269400-image-50352464888024",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/denim-overall-dress-light-wash-with-bees",
+    "localPath": "images/shinybynature-9255298269400-image-50352464888024.webp",
+    "sha256": "8a4367d642190ef4a06c3926d45b3794c58e423f5461345a93617cf1b69f4842",
+    "ordinal": 17,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Embroidered bib close-up with no body outline.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-9255300301016-image-50355730088152",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/denim-overall-shorts-light-wash-with-daisies",
+    "localPath": "images/shinybynature-9255300301016-image-50355730088152.webp",
+    "sha256": "9de106ccc3a654c3a71cd1521cd98d4f092ccff3cae2e4a8ebf6003e1b5ff2f0",
+    "ordinal": 18,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Denim short overalls with visible limbs; bib and bent-leg stance obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "shinybynature-9255300301016-image-50355730284760",
+    "source": "shinybynature",
+    "sourceUrl": "https://shinybynature.com/products/denim-overall-shorts-light-wash-with-daisies",
+    "localPath": "images/shinybynature-9255300301016-image-50355730284760.webp",
+    "sha256": "0e23c3536273a8485d817cb2031986fb05b48fdea943cd98f0ad946cd13956aa",
+    "ordinal": 19,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Denim bib embroidery detail only.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8710019449024-image-58233218728128",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/henrietta-gown",
+    "localPath": "images/foxblood-8710019449024-image-58233218728128.webp",
+    "sha256": "e67efff2ea7bcb33ce3704d975a157e3bdc2f74bad711fb59353ddf2899f943e",
+    "ordinal": 20,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and broad torso support build; puff sleeves and held-out tiered skirt obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8710019449024-image-58233218695360",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/henrietta-gown",
+    "localPath": "images/foxblood-8710019449024-image-58233218695360.webp",
+    "sha256": "6611230e2f3ab6a44652a303878ef48c422115c5a6653572ffba7679671a01a5",
+    "ordinal": 21,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Raised-arm repeat of striped tiered dress.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8593385521344-image-57467281637568",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/emily-jacket-black",
+    "localPath": "images/foxblood-8593385521344-image-57467281637568.webp",
+    "sha256": "d021f27187694fbb100ae45b2712dcad7f185b78119e1c38dca90fcb51f57d96",
+    "ordinal": 22,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow visible legs and torso support build; structured puff-sleeve jacket obscures natural shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8593385521344-image-58315405492416",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/emily-jacket-black",
+    "localPath": "images/foxblood-8593385521344-image-58315405492416.webp",
+    "sha256": "4e766b27f8ea73f1094f66289e3df93bc5c2fb2b4ba4bfc8998693db72607a0b",
+    "ordinal": 23,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black structured jacket and short skirt; slim legs visible, corseted waist not anatomical evidence.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8623780987072-image-58364115157184",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/maisie-underbust",
+    "localPath": "images/foxblood-8623780987072-image-58364115157184.webp",
+    "sha256": "c3d698f84813bfa762f4861699f96e70e77d33316f12127036c274bbda2df91f",
+    "ordinal": 24,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Exposed thigh and narrow torso support build; corset and bloused sleeves conceal shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8623780987072-image-58312647868608",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/maisie-underbust",
+    "localPath": "images/foxblood-8623780987072-image-58312647868608.webp",
+    "sha256": "22f9c541f479add6384a3f99fdca4ad09b72b1cb37dd277bc829017c28c9d816",
+    "ordinal": 25,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Product-only striped corset.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8593385750720-image-58315149443264",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/emily-jacket-striped",
+    "localPath": "images/foxblood-8593385750720-image-58315149443264.webp",
+    "sha256": "29996b8145faf45c35f3eed4d8ace8f9253096331cc31ea5afc3a07d4ffc9984",
+    "ordinal": 26,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped fitted jacket on narrow frame; puff shoulders and shaped bodice prevent shape labels.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8593385750720-image-57468810920128",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/emily-jacket-striped",
+    "localPath": "images/foxblood-8593385750720-image-57468810920128.webp",
+    "sha256": "a9b043e1b86985f9b3244f184c811d916d737e2cf95ca3c4c14401a20e2527e2",
+    "ordinal": 27,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped jacket with shorts and visible slim legs; structured garment obscures shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8624626794688-image-57710630568128",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/jovie-sweater",
+    "localPath": "images/foxblood-8624626794688-image-57710630568128.webp",
+    "sha256": "f7e3309cdf3dd6223903d78d91b5cb419baab74c9e770a1933732438ed57ab57",
+    "ordinal": 28,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bulky cardigan covers arms and torso; dark layers do not establish build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8624626794688-image-57710630600896",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/jovie-sweater",
+    "localPath": "images/foxblood-8624626794688-image-57710630600896.webp",
+    "sha256": "095df74dda7a0dd901ca0853467460a59c34b62f376b994588ad2c90d5e035ba",
+    "ordinal": 29,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Second cardigan pose repeats retained outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8618323607744-image-57511156547776",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/long-sleeve-khloe-babydoll-dress",
+    "localPath": "images/foxblood-8618323607744-image-57511156547776.webp",
+    "sha256": "f3fecc404248610fae0e104dcadbe56f373be6084adf4610c649b1894c30102c",
+    "ordinal": 30,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible thighs support approximate build; loose gathered sweatshirt hides torso shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8618323607744-image-57511156613312",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/long-sleeve-khloe-babydoll-dress",
+    "localPath": "images/foxblood-8618323607744-image-57511156613312.webp",
+    "sha256": "7d978b5788b9d0cdc081006c98b6220882f6c7ac89789e5269fa3e1f1ffa9563",
+    "ordinal": 31,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled repeat of gathered sweatshirt outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8682488103104-image-58016932921536",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/signature-handkerchief-skirt",
+    "localPath": "images/foxblood-8682488103104-image-58016932921536.webp",
+    "sha256": "3fb7c6885be146485db288ad20795076199f98915a88019040b37e95949adfdf",
+    "ordinal": 32,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Bare arms and fitted tank show slim build and moderate taper; skirt hides hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8682488103104-image-58016932954304",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/signature-handkerchief-skirt",
+    "localPath": "images/foxblood-8682488103104-image-58016932954304.webp",
+    "sha256": "d61915d6a0b12eac36a2d3acc06a0eb7eaa51038fccf7831edc0c61134f50b84",
+    "ordinal": 33,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Near-repeat of tank and asymmetrical skirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8305147740352-image-48379782004928",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/london-coat",
+    "localPath": "images/foxblood-8305147740352-image-48379782004928.webp",
+    "sha256": "eb2c0cb93d7e3e3780fb484b7a1f66dbacf14f12562b243c50315c8917f686f3",
+    "ordinal": 34,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Oversized faux-fur coat hides torso and arms; limited exposed legs insufficient for build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8305147740352-image-48523517821120",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/london-coat",
+    "localPath": "images/foxblood-8305147740352-image-48523517821120.webp",
+    "sha256": "fe348d29f3a77d0cb73d16342d792b82399cf1049e617635bcfb00e9b05baf6c",
+    "ordinal": 35,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bulky spotted coat covers upper body; shape and build remain unknown.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8667360624832-image-57748429668544",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/long-line-tank-top",
+    "localPath": "images/foxblood-8667360624832-image-57748429668544.webp",
+    "sha256": "b1a6406511b36f7fe022ca239c33ca44dc74ddbaac3d12a93d574e4d3c902621",
+    "ordinal": 36,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Fitted black tank and trousers show similar shoulder and hip spans with moderate waist taper.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8667360624832-image-57747442073792",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/long-line-tank-top",
+    "localPath": "images/foxblood-8667360624832-image-57747442073792.webp",
+    "sha256": "489943ddeeabd1be5f7665c1cc6f06058a467d7d7f175cbe361d2e398ce71230",
+    "ordinal": 37,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear tank-and-shorts view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8688805478592-image-57718435053760",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/signature-mesh-mock-neck-longsleeve",
+    "localPath": "images/foxblood-8688805478592-image-57718435053760.webp",
+    "sha256": "06ed6cb5dde591ae0f762574b532827d04b4ac005f74931d139ec8927096f102",
+    "ordinal": 38,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Sheer sleeves and fitted torso show broad build and moderate taper; ruffled shorts conceal hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8688805478592-image-57718435020992",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/signature-mesh-mock-neck-longsleeve",
+    "localPath": "images/foxblood-8688805478592-image-57718435020992.webp",
+    "sha256": "f98e81acb640c7b4efd21c8c59289826523ed4995b31632f8f60c55dafcdf7e1",
+    "ordinal": 39,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Second mesh-top pose repeats retained outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776524865578-image-30569611198506",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-skirt-black",
+    "localPath": "images/snag-6776524865578-image-30569611198506.webp",
+    "sha256": "b3ad40e92247ed2d5381956a1a07829452e5ee44e1451584983548d281b9e0ee",
+    "ordinal": 40,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible legs and fitted skirt support build; bulky yellow sweatshirt obscures shoulders and waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776524865578-image-30569610477610",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-skirt-black",
+    "localPath": "images/snag-6776524865578-image-30569610477610.webp",
+    "sha256": "34acc525bde467c2a5a25caf642cf9f9ece16cadd245cc195086803f1e8f0a2b",
+    "ordinal": 41,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Enlarged reread: fitted top and skirt show moderate taper; asymmetric pose and cardigan obscure shoulder comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776525062186-image-30569612967978",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-skirt-navy",
+    "localPath": "images/snag-6776525062186-image-30569612967978.webp",
+    "sha256": "c224120cc3c972aa8dc2b1427dbce1f9388a9b4ae7116d56c82416dd9211f976",
+    "ordinal": 42,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Fitted blue separates and exposed middle show broad build and moderate taper; high camera angle obscures balance.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776525062186-image-30569612836906",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-skirt-navy",
+    "localPath": "images/snag-6776525062186-image-30569612836906.webp",
+    "sha256": "135db3141e7d7df2a822b2deb7386f044933e3c20067f1585d3df88642997dd3",
+    "ordinal": 43,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Sleeveless fitted blue outfit shows broadly similar shoulder and hip width with moderate waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6884351868970-image-30569683320874",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/acotar-sweatshirt-velaris",
+    "localPath": "images/snag-6884351868970-image-30569683320874.webp",
+    "sha256": "7bb570e0f6dc5b76c9dfc57f89ef9a7fa4b245a8123c6d862750c64c969d95c5",
+    "ordinal": 44,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Two-person promotional image lacks a single body-reference subject.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6884351868970-image-30569683517482",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/acotar-sweatshirt-velaris",
+    "localPath": "images/snag-6884351868970-image-30569683517482.webp",
+    "sha256": "da00fd2daf4a0eb07491f4f8403fb7695939aa20783f3e99f7bb58dc26db1c8f",
+    "ordinal": 45,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Group promotional scene excluded from single-outfit references.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776525881386-image-30569617162282",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/pencil-skirt-midnight-blue",
+    "localPath": "images/snag-6776525881386-image-30569617162282.webp",
+    "sha256": "d2c2e49cf6da83a657b5be3d1627ae022c1b04cd93bd7ed6e7a405404f1caeb8",
+    "ordinal": 46,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear three-quarter skirt view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776525881386-image-30569616637994",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/pencil-skirt-midnight-blue",
+    "localPath": "images/snag-6776525881386-image-30569616637994.webp",
+    "sha256": "6d0593e7a7b7c8a70e2f7bd65a66647bf90968351724a54388dd1d7f59f7f37a",
+    "ordinal": 47,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": -1.0,
+      "waist": 1.0
+    },
+    "evidence": "Front blue pencil skirt and white top show wider hips than shoulders and moderate waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776525127722-image-30569612640298",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-skirt-figgy-pudding",
+    "localPath": "images/snag-6776525127722-image-30569612640298.webp",
+    "sha256": "358250b816f1ff9033af0c09a08d2362ec9ee90e9169d0a8bf673604a160b887",
+    "ordinal": 48,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": -1.0,
+      "waist": 1.0
+    },
+    "evidence": "Fitted purple skirt and tied blouse show hips wider than shoulders with moderate waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776525127722-image-30569613000746",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-skirt-figgy-pudding",
+    "localPath": "images/snag-6776525127722-image-30569613000746.webp",
+    "sha256": "28adb8e2a3eb2a671217e0c027705a6c6abc6de79b222f78b0c6422b6cf35ece",
+    "ordinal": 49,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear three-quarter purple-skirt pose excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6884351967274-image-30569683288106",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/acotar-hoodie-illyrian",
+    "localPath": "images/snag-6884351967274-image-30569683288106.webp",
+    "sha256": "bd8951df3213fe25ae832cf92e622afb66069117777141631d414bddcc06eec1",
+    "ordinal": 50,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear crouched hoodie view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6884351967274-image-30569684434986",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/acotar-hoodie-illyrian",
+    "localPath": "images/snag-6884351967274-image-30569684434986.webp",
+    "sha256": "0257eff3d064242b461959c27986b3c9a58acdb4b2eac040aca77ac8d658997b",
+    "ordinal": 51,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lunging hoodie outfit shows legs; bent pose and loose top prevent frontal shape labels.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6551429939242-image-30622249779242",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/classic-tee-white",
+    "localPath": "images/snag-6551429939242-image-30622249779242.webp",
+    "sha256": "a012da3296bd6e504356af999e6e82a77582c480a0eb98c6eba0299b9632aa1f",
+    "ordinal": 52,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and narrow outline support build; loose tee and draped trousers obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6551429939242-image-30622249713706",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/classic-tee-white",
+    "localPath": "images/snag-6551429939242-image-30622249713706.webp",
+    "sha256": "a80eb457ac0dccf8931a4956d05bcdc004e1fca0ab8393e344f2354cc533c936",
+    "ordinal": 53,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": 0.0,
+      "waist": null
+    },
+    "evidence": "Narrow arms and fitted jeans show similar shoulder and hip spans; loose tee conceals waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7596387270698-image-36452225318954",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/pleated-skort-black",
+    "localPath": "images/snag-7596387270698-image-36452225318954.webp",
+    "sha256": "e7b518f087a28d97781b6d0e002bd7fb0d2005ccc7dc030075f0e1141fa95ec9",
+    "ordinal": 54,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Bare arms and fitted white top show build and moderate taper; flared skirt hides hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7596387270698-image-36452225384490",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/pleated-skort-black",
+    "localPath": "images/snag-7596387270698-image-36452225384490.webp",
+    "sha256": "7d18aad46c6983ef7286435dca5ff5481c4f580ab3c03c5acc6f24faca61c77c",
+    "ordinal": 55,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare legs and visible torso support broad build; elevated angled photo obscures frontal shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7371407556650-image-34252317655082",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/crochet-midi-dress-tabacco",
+    "localPath": "images/snag-7371407556650-image-34252317655082.webp",
+    "sha256": "6751e12862176c6b3cc391cf579240d293ee9fb7a40885b0d1658caa51ca6e91",
+    "ordinal": 56,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and thigh support broad build; raised arms and side stance distort waist and shoulder span.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7371407556650-image-34252317818922",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/crochet-midi-dress-tabacco",
+    "localPath": "images/snag-7371407556650-image-34252317818922.webp",
+    "sha256": "6b88bc068ee4cd0d2c157a79b527d7b6f068e6ff7a2cb350c49f49da118ae7a5",
+    "ordinal": 57,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Front sleeveless black dress shows similar shoulder and hip widths with moderate waist taper.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6550937600042-image-30569498968106",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/short-leggings-black",
+    "localPath": "images/snag-6550937600042-image-30569498968106.webp",
+    "sha256": "d4aff64a0bccb26e7e1a2dd17bb4fd11f77a2de17e95a966a8d1a1c5c2588124",
+    "ordinal": 58,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear stair pose excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6550937600042-image-30569499328554",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/short-leggings-black",
+    "localPath": "images/snag-6550937600042-image-30569499328554.webp",
+    "sha256": "af0131621e5d034fa6e260c3b7a6764a36d4944747bcc8206b398df31c886bf1",
+    "ordinal": 59,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lower-body trouser pocket detail; shoulders absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562903900341-image-76419770777781",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-wrap-skirt",
+    "localPath": "images/wildfang-10562903900341-image-76419770777781.webp",
+    "sha256": "6ccbd564555e5276b2551526134f87db615395ac8dda5df75cbdabadb9b1a8c2",
+    "ordinal": 60,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Slim arms and tucked polo show moderate taper; wrap skirt hides exact hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562903900341-image-76419770810549",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-wrap-skirt",
+    "localPath": "images/wildfang-10562903900341-image-76419770810549.webp",
+    "sha256": "9a3b8cc8c252b182e43b8611f0be9ca3b2fe42991f9f08285ed6d57dcff8f699",
+    "ordinal": 61,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of polo and wrap skirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562878865589-image-76419966927029",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-quarter-zip-sweatshirt-1",
+    "localPath": "images/wildfang-10562878865589-image-76419966927029.webp",
+    "sha256": "15c8cf50f55ac4972451353ac906c8facd843d56d47266d344bd8fe5a83c1985",
+    "ordinal": 62,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Roomy cream sweatshirt conceals arms and torso; cropped lower body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562878865589-image-76419966959797",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-quarter-zip-sweatshirt-1",
+    "localPath": "images/wildfang-10562878865589-image-76419966959797.webp",
+    "sha256": "f065dcf9e56688738da659234f1ee23bc42f5843407418d2865c27f268c5cbcd",
+    "ordinal": 63,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of roomy cream sweatshirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562876637365-image-76419933110453",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-quarter-zip-mock-neck-tee-1",
+    "localPath": "images/wildfang-10562876637365-image-76419933110453.webp",
+    "sha256": "47987d830d5ddbdb657f0907a57c49ae909d2083e07fdef3f7ff68779c654ba6",
+    "ordinal": 64,
+    "view": "partial",
+    "body": {
+      "build": 1.0,
+      "shoulderHip": 0.0,
+      "waist": null
+    },
+    "evidence": "Slim bare forearms and straight trousers show similar shoulder and hip widths; shirt conceals waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562876637365-image-76419932815541",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-quarter-zip-mock-neck-tee-1",
+    "localPath": "images/wildfang-10562876637365-image-76419932815541.webp",
+    "sha256": "e69731c6425748be3756b7db22c28c0dc1aed8f4c8b718f76e99d0309f1a7975",
+    "ordinal": 65,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of plum polo.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562875719861-image-76422307643573",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-quarter-zip-mock-neck-tee",
+    "localPath": "images/wildfang-10562875719861-image-76422307643573.webp",
+    "sha256": "4549d139cb861a7bfbf36dbe82cee1e8261698ea293387087516951850a1ffea",
+    "ordinal": 66,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Visible arms and fitted black top support build and moderate taper; pocket pose distorts hip width.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562875719861-image-76419923181749",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-quarter-zip-mock-neck-tee",
+    "localPath": "images/wildfang-10562875719861-image-76419923181749.webp",
+    "sha256": "0651f6ea4c865ca69b307a1332c28c95c1a52766a3926b588fb0f29e04b655db",
+    "ordinal": 67,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of black polo with patterned trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562874900661-image-76419923411125",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-quarter-zip-sweatshirt",
+    "localPath": "images/wildfang-10562874900661-image-76419923411125.webp",
+    "sha256": "1a4915e56111ec5a47a36286d1d573d1992d689df28388e7d6314279ba1ab69a",
+    "ordinal": 68,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose black sweatshirt covers torso and arms; build unsupported.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562874900661-image-76419952246965",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-quarter-zip-sweatshirt",
+    "localPath": "images/wildfang-10562874900661-image-76419952246965.webp",
+    "sha256": "08d4039d7cd9cf62671d1617fe3ab32d6e4ce652a01ffd48c72fff015383c148",
+    "ordinal": 69,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of black sweatshirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562873458869-image-76419801645237",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-cargo-sweatshirt",
+    "localPath": "images/wildfang-10562873458869-image-76419801645237.webp",
+    "sha256": "1e5023b73a5d3a9ff2f4d71a73a7d54af1999d1097b339191f15fdff4a356b96",
+    "ordinal": 70,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose green sweatshirt hides body contours; hands in pockets distort hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562873458869-image-76419801678005",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-cargo-sweatshirt",
+    "localPath": "images/wildfang-10562873458869-image-76419801678005.webp",
+    "sha256": "955da75f2bb83624dac144b2c0bccb7d3951057b4dd9b633547953e6b8771ad5",
+    "ordinal": 71,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of green sweatshirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562869199029-image-76419870294197",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-pocket-tee-4",
+    "localPath": "images/wildfang-10562869199029-image-76419870294197.webp",
+    "sha256": "d0883cb4e277a746899a3d8ac4b75b61042df7b0432afc9fb29a711c18485c39",
+    "ordinal": 72,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible narrow arms support build; untucked brown tee obscures waist and hip boundaries.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562869199029-image-76419870359733",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-pocket-tee-4",
+    "localPath": "images/wildfang-10562869199029-image-76419870359733.webp",
+    "sha256": "81c5063cb1a97c2a1dc416ce2c9451a2cecf2c0069cc417a66be50dbb9a39b3f",
+    "ordinal": 73,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear brown-tee view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562867888309-image-76419877535925",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-pocket-tee-3",
+    "localPath": "images/wildfang-10562867888309-image-76419877535925.webp",
+    "sha256": "625460f1783fe22f9e6730d3e46c05cd88c505fc04d47cba9d9c369b973b7636",
+    "ordinal": 74,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Slim arms visible beside cream tee; relaxed top and pocket pose obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562867888309-image-76419877568693",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-pocket-tee-3",
+    "localPath": "images/wildfang-10562867888309-image-76419877568693.webp",
+    "sha256": "6b8bfa3ba1d3bab3c68222a0172a36e72a4df424c70a228d36bb682b984a565c",
+    "ordinal": 75,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of cream tee.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562866315445-image-76419883794613",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-tee",
+    "localPath": "images/wildfang-10562866315445-image-76419883794613.webp",
+    "sha256": "ce75b673875913c47d56fe48f71763fd8f73bf4537f4d7e29088603a4fdf8a38",
+    "ordinal": 76,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms support build; baggy patterned tee and pocket pose obscure torso proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562866315445-image-76419883860149",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-tee",
+    "localPath": "images/wildfang-10562866315445-image-76419883860149.webp",
+    "sha256": "81283f0daa10abf7055ab69e5cdda8353fa5187953a0c235d55ac6969123ce4a",
+    "ordinal": 77,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of patterned tee.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562855665845-image-76419671359669",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-button-up-20",
+    "localPath": "images/wildfang-10562855665845-image-76419671359669.webp",
+    "sha256": "ed86af9421093102f4886a550a9b04f5bbe481912b01a61147923c1505f60c74",
+    "ordinal": 78,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow exposed arms support build; tied shirt and loose trousers obscure natural waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10562855665845-image-76419671425205",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-button-up-20",
+    "localPath": "images/wildfang-10562855665845-image-76419671425205.webp",
+    "sha256": "82ccde10917de0bfdc017540b3a008531aba23655f4cc7e5da3a10c8c4cac25f",
+    "ordinal": 79,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of floral tied shirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041080246465-image-50868050493633",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-tank-top-evergreen",
+    "localPath": "images/bigbudpress-11041080246465-image-50868050493633.webp",
+    "sha256": "664e2b2331bb15046d7772a2be120216ec3354a81292ab4aa140aaa7fc602040",
+    "ordinal": 80,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Fitted green tank shows slim arms and moderate taper; drawstring trousers conceal hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041080246465-image-50868050559169",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-tank-top-evergreen",
+    "localPath": "images/bigbudpress-11041080246465-image-50868050559169.webp",
+    "sha256": "52e1431b0f11a655285bc91c0dac3fbbd5e916598fed4b30bb9be1b7fb704fa1",
+    "ordinal": 81,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Upper-tank close-up omits lower torso and outfit context.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10663006896321-image-50875006419137",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-washed-grey",
+    "localPath": "images/bigbudpress-10663006896321-image-50875006419137.webp",
+    "sha256": "063d9b3d060df84b3efafacb3c4c4502bcf033c024e8a19e192fa05380235199",
+    "ordinal": 82,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and broad seated torso support build; stool pose obscures standing proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10663006896321-image-50875006451905",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-washed-grey",
+    "localPath": "images/bigbudpress-10663006896321-image-50875006451905.webp",
+    "sha256": "7f19c776b22b6db733a4d2f969eaea71902f0345d98619ff253648c5720057ac",
+    "ordinal": 83,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": 0.0,
+      "waist": null
+    },
+    "evidence": "Enlarged reread: standing gray tee and jeans show similar shoulder and hip spans; shirt drape obscures waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10593147027649-image-50874909753537",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-royal-blue",
+    "localPath": "images/bigbudpress-10593147027649-image-50874909753537.webp",
+    "sha256": "2f522279aef2e2fa319a5b81219887018c12f0961887624cac309e9c299b9a10",
+    "ordinal": 84,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Slim bare arms visible beside blue tee; pulled hem obscures waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10593147027649-image-50874909786305",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-royal-blue",
+    "localPath": "images/bigbudpress-10593147027649-image-50874909786305.webp",
+    "sha256": "60ef8ef349f51236ce30e201367c44976eb8d8e97002bce23346f3511747ad50",
+    "ordinal": 85,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeat of blue tee with hands in pockets.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11047995801793-image-50874826817729",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-hot-pink",
+    "localPath": "images/bigbudpress-11047995801793-image-50874826817729.webp",
+    "sha256": "7cdc6325cb41239ce6f8c52fca85c5d70f054dc5f7422be47782615159439615",
+    "ordinal": 86,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad exposed arms and torso support build; reclining folded-leg pose prevents shape labels.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11047995801793-image-50874826850497",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-hot-pink",
+    "localPath": "images/bigbudpress-11047995801793-image-50874826850497.webp",
+    "sha256": "f1e68e3ad14e458e830059dbcb92fe5ed6ce8631821640cf20130b111bea37eb",
+    "ordinal": 87,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad arms and red tee support build; cropped roomy jeans leave hip extent unclear.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041132085441-image-50831939928257",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/fruit-fantasy-pantry-button-up",
+    "localPath": "images/bigbudpress-11041132085441-image-50831939928257.webp",
+    "sha256": "91dc38a6db5b22a7267ca4145faaf896c6743844e3e036f5e4742f2e1c359db5",
+    "ordinal": 88,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Slim arms and exposed middle support build; open shirt and roomy trousers obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041132085441-image-50831939993793",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/fruit-fantasy-pantry-button-up",
+    "localPath": "images/bigbudpress-11041132085441-image-50831939993793.webp",
+    "sha256": "02d63c8d86eac077cc3728908f1ad03a34494fc08ec22b6e91651fd865eaabf4",
+    "ordinal": 89,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Full printed-shirt outfit adds footwear context; loose trousers hide hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041130217665-image-50832119726273",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/racerback-tank-fruit-fantasy",
+    "localPath": "images/bigbudpress-11041130217665-image-50832119726273.webp",
+    "sha256": "da293c2a15d6dc41d4dfc307deab9bee0e27dd0ff0cbd21a74e1186cfbd44e6c",
+    "ordinal": 90,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Reclining fruit-print tank with visible arms; rotated torso prevents standing shape labels.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041130217665-image-50832119791809",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/racerback-tank-fruit-fantasy",
+    "localPath": "images/bigbudpress-11041130217665-image-50832119791809.webp",
+    "sha256": "326af1a480546287725900414e0e049b80c02f62a3dcb4b2cb7782791dc11379",
+    "ordinal": 91,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": 1.0,
+      "waist": 1.0
+    },
+    "evidence": "Bare shoulders visibly wider than fitted trouser hips; tank shows moderate waist taper.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041128775873-image-50832034758849",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-tank-fruit-fantasy",
+    "localPath": "images/bigbudpress-11041128775873-image-50832034758849.webp",
+    "sha256": "6a96c38f051c749d797b092705e3ef01480479fc681b840325709fa0451a12f8",
+    "ordinal": 92,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tank neckline and torso close-up cuts off shoulders and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041128775873-image-50832034824385",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-tank-fruit-fantasy",
+    "localPath": "images/bigbudpress-11041128775873-image-50832034824385.webp",
+    "sha256": "21f156e33efa239f6285f12e8cd226efbc6c2d5ab7face6c8bb1df14d96709cc",
+    "ordinal": 93,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Enlarged reread: fitted fruit tank shows broad build and moderate taper; roomy jeans and pocket flare obscure hip span.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041118421185-image-50833819074753",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/veggie-village-pantry-button-up",
+    "localPath": "images/bigbudpress-11041118421185-image-50833819074753.webp",
+    "sha256": "af93393367f4f28d9db20b965afab300903b125c338122ef6b879ce181f6f0e0",
+    "ordinal": 94,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible narrow limbs support build; raised knee and loose shirt prevent shape labels.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041118421185-image-50833819140289",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/veggie-village-pantry-button-up",
+    "localPath": "images/bigbudpress-11041118421185-image-50833819140289.webp",
+    "sha256": "ff246a5940ca57356236310b1bf9f2fb29c339ad3c99d0206c6dbeb824bf042c",
+    "ordinal": 95,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Slim arms visible with loose button-up; shirt hides waist and upper hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041116553409-image-50833812390081",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/veggie-village-cropped-baby-tee",
+    "localPath": "images/bigbudpress-11041116553409-image-50833812390081.webp",
+    "sha256": "dc47304404e3803bb63c3ece7116c29ec0ec65f3c5988116d534638a5dd63e3a",
+    "ordinal": 96,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close repeat of fruit tee and shorts; fuller standing view retained.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041116553409-image-50833812455617",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/veggie-village-cropped-baby-tee",
+    "localPath": "images/bigbudpress-11041116553409-image-50833812455617.webp",
+    "sha256": "fc6553373eb5dc7b5aa80fcaeb94e47be43b07c203301f13f0dd5b5901e953ca",
+    "ordinal": 97,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Standing fitted crop tee and denim shorts show similar shoulders and hips with moderate waist taper.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041137328321-image-50832977166529",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-grape",
+    "localPath": "images/bigbudpress-11041137328321-image-50832977166529.webp",
+    "sha256": "c22920b21ad069bf2f440afb8524c94b0e110a882c5dad024489733ebbe6b470",
+    "ordinal": 98,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Product-only hanging raglan shirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11041137328321-image-50832977232065",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-grape",
+    "localPath": "images/bigbudpress-11041137328321-image-50832977232065.webp",
+    "sha256": "d8ffb2ab6b620e266357c63691374984f59c467187c6fbc3f0d9608c26f77705",
+    "ordinal": 99,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad exposed arms and torso support build; loose shirt and roomy shorts obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kirrinfinch-7324739240007-image-33417432137799",
+    "source": "kirrinfinch",
+    "sourceUrl": "https://kirrinfinch.com/products/kirrin-tuxedo-suit-blazer",
+    "localPath": "images/kirrinfinch-7324739240007-image-33417432137799.webp",
+    "sha256": "9c1ce2224a65e74aadad7a5e44d4918b818c21da044a7cc9b514cd4c69f9ca90",
+    "ordinal": 100,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped formal jacket portrait; tailoring hides build and lower torso is absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kirrinfinch-7324739240007-image-30597781422151",
+    "source": "kirrinfinch",
+    "sourceUrl": "https://kirrinfinch.com/products/kirrin-tuxedo-suit-blazer",
+    "localPath": "images/kirrinfinch-7324739240007-image-30597781422151.webp",
+    "sha256": "bc45f1bcd58fcdea139faa9f06bd13834872b6663bc85e2c0d775e3bcf5d8531",
+    "ordinal": 101,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad torso visible in white shirt; open structured jacket prevents shoulder comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9960681701623-image-63761793646839",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/aurora-peignoir-blue",
+    "localPath": "images/myviolet-9960681701623-image-63761793646839.webp",
+    "sha256": "2d2aa5ebd54c1c448c46be250269c768fc411cb1852d7412755f4f4a71500e15",
+    "ordinal": 102,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible slim legs support build; tiered puff-sleeve dress conceals torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9960681701623-image-63730208833783",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/aurora-peignoir-blue",
+    "localPath": "images/myviolet-9960681701623-image-63730208833783.webp",
+    "sha256": "1822f7e10b780a1473249e65541ef3d21fc81d26b1ceea7ca70b34d208cfb5ac",
+    "ordinal": 103,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear blue tiered-dress view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9960932081911-image-63446320578807",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/aurora-peignoir-pink",
+    "localPath": "images/myviolet-9960932081911-image-63446320578807.webp",
+    "sha256": "3b654f2bb16648e7a349887439c264d2c7429ae818241aafb40341761b757d54",
+    "ordinal": 104,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible limbs and broad torso support build; voluminous pink dress hides shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9960932081911-image-63761906303223",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/aurora-peignoir-pink",
+    "localPath": "images/myviolet-9960932081911-image-63761906303223.webp",
+    "sha256": "2f20ff9d439df816121a5b30405bd9bfa7beb13b2eb0a315aca6539417109e1a",
+    "ordinal": 105,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear pink tiered-dress view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9960928182519-image-63768182128887",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/mila-heart-dress-rainbow",
+    "localPath": "images/myviolet-9960928182519-image-63768182128887.webp",
+    "sha256": "0a0caec34d9dced7f470ecbdda416d65b1724e31d34cfff31fb28badd4957fdc",
+    "ordinal": 106,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Bare narrow arms and fitted pink bodice show moderate taper; layered skirt conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9960928182519-image-63730423922935",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/mila-heart-dress-rainbow",
+    "localPath": "images/myviolet-9960928182519-image-63730423922935.webp",
+    "sha256": "97ad52c51e855d86014d80ed5dc20ba9e4a31407d24797237b9785a6b52be7f5",
+    "ordinal": 107,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear pink top and skirt view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969679335671-image-63705138561271",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-cutout-cutsew-pink",
+    "localPath": "images/myviolet-9969679335671-image-63705138561271.webp",
+    "sha256": "fc9b18be21ad3ad3e2cf342bd896dc85994e10a2ce3eb4fe876e4a56af0642eb",
+    "ordinal": 108,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Fitted pink heart tee shows narrow arms and moderate taper; puff sleeves and ruffles obscure balance.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969679335671-image-63708270952695",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-cutout-cutsew-pink",
+    "localPath": "images/myviolet-9969679335671-image-63708270952695.webp",
+    "sha256": "65783f6ffb46d7939eb308ffebca980c16cd1d1ba2a60d4a9b088a55e19aca8b",
+    "ordinal": 109,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear pink-heart outfit excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969680253175-image-63708270919927",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-ruffle-skort-pink",
+    "localPath": "images/myviolet-9969680253175-image-63708270919927.webp",
+    "sha256": "238eb61d83b8d6af15c1a201466909f1ce8d2aa2421f1c3b38ca0623f38b537b",
+    "ordinal": 110,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad visible arms and thighs support build; shoulder crop and ruffled skort obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969680253175-image-63704950964471",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-ruffle-skort-pink",
+    "localPath": "images/myviolet-9969680253175-image-63704950964471.webp",
+    "sha256": "cc07cae390b69125597f096d4b358a11262d2bbf4483bc7b006f5d52700748d0",
+    "ordinal": 111,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped rear pink-heart outfit excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969680122103-image-63705528893687",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-cutout-cutsew-black",
+    "localPath": "images/myviolet-9969680122103-image-63705528893687.webp",
+    "sha256": "079a82763b10db165d106b949a443cf7c0cb3c1348f4b858340018804dd0027e",
+    "ordinal": 112,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad arms and torso visible; bent arms cover shoulders and peplum hides waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969680122103-image-63705396871415",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-cutout-cutsew-black",
+    "localPath": "images/myviolet-9969680122103-image-63705396871415.webp",
+    "sha256": "cd1fd20343987eae75afecf635830b648f4b2f4cc1e16a62e8d3b311b4e6fd24",
+    "ordinal": 113,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear black-heart outfit excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969680351479-image-63705426723063",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-ruffle-skort-lavender",
+    "localPath": "images/myviolet-9969680351479-image-63705426723063.webp",
+    "sha256": "42d75d363e4385a4a3991c137e5b51b87edec8c9e0e41084bb96cf36c8f3b650",
+    "ordinal": 114,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Lavender fitted top shows narrow arms and moderate taper; neckline crop and skirt ruffles hide balance.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969680351479-image-63705426755831",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-ruffle-skort-lavender",
+    "localPath": "images/myviolet-9969680351479-image-63705426755831.webp",
+    "sha256": "109d325b6f556307aad91e31299133e9ab6ea13476f7df0f4bcc14204e402eb3",
+    "ordinal": 115,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side detail repeats lavender outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969680449783-image-63705482264823",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-ruffle-skort-black",
+    "localPath": "images/myviolet-9969680449783-image-63705482264823.webp",
+    "sha256": "2c6d8b4cc84f55b7cd3ffa05fce528286dff2e3fab9ec3e0bbdd6c9045de2393",
+    "ordinal": 116,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad arms and visible thighs support build; shoulders cropped and ruffled peplum hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9969680449783-image-63705482297591",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/sabrina-ruffle-skort-black",
+    "localPath": "images/myviolet-9969680449783-image-63705482297591.webp",
+    "sha256": "3103784dce04a0a8ee1dd39ba2cf8fc9f0aa7e3593d89bb0d8494bdfb892fbae",
+    "ordinal": 117,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of black-heart peplum outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9985819476215-image-63729471586551",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/chromatic-kitty-tee",
+    "localPath": "images/myviolet-9985819476215-image-63729471586551.webp",
+    "sha256": "7ccac973083259bfd40b56a5999c7e2b28f3155baac04d63026f4de8e256c384",
+    "ordinal": 118,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Narrow arms and fitted blue tee show moderate taper; ruffled skirt conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9985819476215-image-63173008883959",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/chromatic-kitty-tee",
+    "localPath": "images/myviolet-9985819476215-image-63173008883959.webp",
+    "sha256": "3468cf9be6304cfb294a0aa1bd1ea7ecd2d6aabd6bc929e18b8fb58dee4b8682",
+    "ordinal": 119,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and torso support build; raised-arm lean and pleated skirt prevent shape labels.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9978860667127-image-63611471790327",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/april-tiered-ruffle-skort-pink",
+    "localPath": "images/myviolet-9978860667127-image-63611471790327.webp",
+    "sha256": "a889e2b0bc28f5a2ade4df773634e39297ff3f286d4e71ad0c67562d35ecdada",
+    "ordinal": 120,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Fitted pink bodice and visible arm support build and moderate taper; puff sleeves and skirt hide balance.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "myviolet-9978860667127-image-63610942390519",
+    "source": "myviolet",
+    "sourceUrl": "https://shopmyviolet.com/products/april-tiered-ruffle-skort-pink",
+    "localPath": "images/myviolet-9978860667127-image-63610942390519.webp",
+    "sha256": "c21d141c519ede4c2d60465bdd6b3662c2524921b39e50c142969bf84d9fb1a4",
+    "ordinal": 121,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Skirt and undershort detail with shoulders absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-9636914954495-image-49448304083199",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/fleur-skirt-in-brown-plaid",
+    "localPath": "images/mochipan-9636914954495-image-49448304083199.webp",
+    "sha256": "d614fa6c500c245f445238d603b00c98eacbe57ef72ed91b3a8275f792b4a9f9",
+    "ordinal": 122,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Sheer sleeves and fitted black top support build and moderate taper; held-out skirt conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-9636914954495-image-49448303952127",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/fleur-skirt-in-brown-plaid",
+    "localPath": "images/mochipan-9636914954495-image-49448303952127.webp",
+    "sha256": "d072b808f8e92470075040aa83a1d8ab29e5489216581fffc2efb96766d6e20b",
+    "ordinal": 123,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Near-repeat of held-out plaid skirt outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-9636940120319-image-49448702869759",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/fleur-bloomers-in-chestnut-bloom",
+    "localPath": "images/mochipan-9636940120319-image-49448702869759.webp",
+    "sha256": "1a99e921129dc516138b310e7cd31c25b6a940b410fb3941b5be909252a223ad",
+    "ordinal": 124,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Black fitted top shows moderate waist taper; layered plaid shorts conceal hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-9636940120319-image-49448702935295",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/fleur-bloomers-in-chestnut-bloom",
+    "localPath": "images/mochipan-9636940120319-image-49448702935295.webp",
+    "sha256": "65b8f485eb9badd1bbc4bf5cb8f6b8077408c6c67c959ca3015fd3c5996febc7",
+    "ordinal": 125,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Waist and shorts close-up without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-9398233727231-image-48243349324031",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/obsidian-rose-fleur-skirt",
+    "localPath": "images/mochipan-9398233727231-image-48243349324031.webp",
+    "sha256": "99f05f09660b7e7d4a19d2ebeceaaba7c52e5da9b328641d2cd3385f8acdadca",
+    "ordinal": 126,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible slim legs support build; loose blouse and tiered skirt obscure torso shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-9398233727231-image-48243349160191",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/obsidian-rose-fleur-skirt",
+    "localPath": "images/mochipan-9398233727231-image-48243349160191.webp",
+    "sha256": "472449e296a485f508c1cf73e69034f909edea57dafa456e8f39f1a6f551ed02",
+    "ordinal": 127,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer repeat of white blouse and black skirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8821686075647-image-45932988170495",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/luna-moth-cardigan",
+    "localPath": "images/mochipan-8821686075647-image-45932988170495.webp",
+    "sha256": "9c7c4631720088a4db6e16fa1e7ab2e017a6e5a2f4ffc5405b4871e5a4d14a12",
+    "ordinal": 128,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Wide moth cardigan and long skirt conceal body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8821686075647-image-45932988137727",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/luna-moth-cardigan",
+    "localPath": "images/mochipan-8821686075647-image-45932988137727.webp",
+    "sha256": "c31037b5dbc126a1dbcd1dd93048953cdb8c47d4e71da1b3163282b3d7dab91f",
+    "ordinal": 129,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cardigan fastening close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8835058106623-image-44552874000639",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/smoky-emperor-moth-cardigan",
+    "localPath": "images/mochipan-8835058106623-image-44552874000639.webp",
+    "sha256": "285b0ddc487fec31e8c0a6cb32a11b7a1d3aabd7e81d71e39c3e6578fdbf5d2b",
+    "ordinal": 130,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible legs and fitted inner top support build; wide outstretched cardigan hides shoulder span.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8835058106623-image-44552873869567",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/smoky-emperor-moth-cardigan",
+    "localPath": "images/mochipan-8835058106623-image-44552873869567.webp",
+    "sha256": "d5c6aa0e1cf1b22182cf56c90563508473a31c7718d9ed38163fdc3f9c1a41c9",
+    "ordinal": 131,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear cardigan promotional view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8834296086783-image-44535046668543",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/leopard-moth-cardigan",
+    "localPath": "images/mochipan-8834296086783-image-44535046668543.webp",
+    "sha256": "670274a0f66670c907fa30679ec306c592408a493bc1e1f7b08b1c9c3fa3b7eb",
+    "ordinal": 132,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible legs and inner top support build; extended cardigan obscures shoulder contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8834296086783-image-44535046832383",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/leopard-moth-cardigan",
+    "localPath": "images/mochipan-8834296086783-image-44535046832383.webp",
+    "sha256": "0e7c57897d5523545b404035621ac6afebb10cc10eeb8d9713cc7515ecacaaa2",
+    "ordinal": 133,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear white-cardigan promotional view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8851980058879-image-44959750422783",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/spanish-moon-moth-cardigan",
+    "localPath": "images/mochipan-8851980058879-image-44959750422783.webp",
+    "sha256": "f9686cab5248554e3f9ea112bdebf46b9d5b435b1787f770ce4b4eb4cb6de6e1",
+    "ordinal": 134,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear cardigan collage excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8851980058879-image-44959344656639",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/spanish-moon-moth-cardigan",
+    "localPath": "images/mochipan-8851980058879-image-44959344656639.webp",
+    "sha256": "67e3bb20b91f8f824273b1c5f3910b43d8587f7c0175f3458c5497beb0b973d4",
+    "ordinal": 135,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closed loose cardigan and wide black trousers obscure build and shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8833202553087-image-44545826849023",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/pandora-sphinx-moth-cardigan",
+    "localPath": "images/mochipan-8833202553087-image-44545826849023.webp",
+    "sha256": "8f7e2a0b00ee419ba6118f3e0571673b5efa92723574c498146e8d515c9a7bbe",
+    "ordinal": 136,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear green-cardigan promotional view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8833202553087-image-44545826488575",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/pandora-sphinx-moth-cardigan",
+    "localPath": "images/mochipan-8833202553087-image-44545826488575.webp",
+    "sha256": "81e4648d4234fee32e57fd347e913a960163214b1ddd6e4c13c0fd8cbc88ce0c",
+    "ordinal": 137,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible legs and inner top support build; dropped cardigan sleeves obscure shoulders and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8632518410495-image-48496274702591",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/honey-bee-summer-gown",
+    "localPath": "images/mochipan-8632518410495-image-48496274702591.webp",
+    "sha256": "df706f84e2e617f2ad01e493e244c6f987a557e472d8f838883e6418c414fbf5",
+    "ordinal": 138,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Bare arms and fitted halter bodice show moderate taper; held-out skirt conceals hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-8632518410495-image-48496274669823",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/honey-bee-summer-gown",
+    "localPath": "images/mochipan-8632518410495-image-48496274669823.webp",
+    "sha256": "598a3582e428204896ace2312cd1e6352d8d06071d5df5e61242eb822e4015ff",
+    "ordinal": 139,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer repeat of yellow halter dress.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-9316324049151-image-47421159211263",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/tea-roses-layered-skirt",
+    "localPath": "images/mochipan-9316324049151-image-47421159211263.webp",
+    "sha256": "ca792e19c9637d49eaa3b45076c6285ddf03d85f43f1928e567c25e0dbc46e44",
+    "ordinal": 140,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose layered blouse and long tiered skirt conceal body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mochipan-9316324049151-image-47421166878975",
+    "source": "mochipan",
+    "sourceUrl": "https://mochipan.com/products/tea-roses-layered-skirt",
+    "localPath": "images/mochipan-9316324049151-image-47421166878975.webp",
+    "sha256": "d3bf3bd8fd881ed9cc377af8a8b04ced09f754b4b8f05577b5ff14bbbbd24c48",
+    "ordinal": 141,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Promotional repeat of pink layered outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

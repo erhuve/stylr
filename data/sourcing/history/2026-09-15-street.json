@@ -1,0 +1,46 @@
+{
+  "retrievedAt": "2026-09-15T21:17:13.286698+00:00",
+  "scope": "Eight keyword queries, first twelve posts each, first two linked photo assets per post; overlapping results deduplicated by source image URL. No person identity transfer.",
+  "sources": [
+    {
+      "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=12&search=decora",
+      "posts": 12,
+      "newImages": 24
+    },
+    {
+      "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=12&search=punk",
+      "posts": 12,
+      "newImages": 24
+    },
+    {
+      "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=12&search=gothic",
+      "posts": 12,
+      "newImages": 22
+    },
+    {
+      "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=12&search=kimono",
+      "posts": 12,
+      "newImages": 18
+    },
+    {
+      "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=12&search=vintage",
+      "posts": 12,
+      "newImages": 22
+    },
+    {
+      "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=12&search=minimalist",
+      "posts": 12,
+      "newImages": 22
+    },
+    {
+      "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=12&search=genderless",
+      "posts": 4,
+      "newImages": 8
+    },
+    {
+      "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=12&search=cyber",
+      "posts": 12,
+      "newImages": 22
+    }
+  ]
+}

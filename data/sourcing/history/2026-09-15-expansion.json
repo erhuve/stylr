@@ -1,0 +1,251 @@
+{
+  "retrievedAt": "2026-09-15T21:14:49.651893+00:00",
+  "scope": "Up to two public product pages per source, 250 products/page. Category round robin over deterministic product hashes; up to two title-family variants, first unused and mid-gallery image. Product/source direction is not a reviewed style/body label.",
+  "sources": [
+    {
+      "source": "foxblood",
+      "pages": [
+        {
+          "url": "https://foxblood.com/products.json?limit=250&page=1",
+          "records": 250,
+          "newProducts": 250
+        },
+        {
+          "url": "https://foxblood.com/products.json?limit=250&page=2",
+          "records": 79,
+          "newProducts": 79
+        }
+      ],
+      "errors": [],
+      "productsFetched": 329,
+      "productsSelected": 36,
+      "candidates": 72,
+      "direction": "Dark everyday / draped layers"
+    },
+    {
+      "source": "forestink",
+      "pages": [
+        {
+          "url": "https://forestinkclothing.com/products.json?limit=250&page=1",
+          "records": 149,
+          "newProducts": 149
+        }
+      ],
+      "errors": [],
+      "productsFetched": 149,
+      "productsSelected": 36,
+      "candidates": 71,
+      "direction": "Goth / punk / dark romantic"
+    },
+    {
+      "source": "trippnyc",
+      "pages": [
+        {
+          "url": "https://trippnyc.com/products.json?limit=250&page=1",
+          "records": 250,
+          "newProducts": 250
+        },
+        {
+          "url": "https://trippnyc.com/products.json?limit=250&page=2",
+          "records": 250,
+          "newProducts": 250
+        }
+      ],
+      "errors": [],
+      "productsFetched": 500,
+      "productsSelected": 36,
+      "candidates": 72,
+      "direction": "Punk / industrial / wide silhouettes"
+    },
+    {
+      "source": "punkrave",
+      "pages": [
+        {
+          "url": "https://punkrave.ch/products.json?limit=250&page=1",
+          "records": 250,
+          "newProducts": 250
+        },
+        {
+          "url": "https://punkrave.ch/products.json?limit=250&page=2",
+          "records": 250,
+          "newProducts": 250
+        }
+      ],
+      "errors": [],
+      "productsFetched": 500,
+      "productsSelected": 36,
+      "candidates": 72,
+      "direction": "Gothic tailoring / experimental layers"
+    },
+    {
+      "source": "acdcrag",
+      "pages": [
+        {
+          "url": "https://acdcrag.com/products.json?limit=250&page=1",
+          "records": 250,
+          "newProducts": 250
+        },
+        {
+          "url": "https://acdcrag.com/products.json?limit=250&page=2",
+          "records": 250,
+          "newProducts": 250
+        }
+      ],
+      "errors": [],
+      "productsFetched": 500,
+      "productsSelected": 36,
+      "candidates": 71,
+      "direction": "Colorful Japanese streetwear / punk"
+    },
+    {
+      "source": "shinybynature",
+      "pages": [
+        {
+          "url": "https://shinybynature.com/products.json?limit=250&page=1",
+          "records": 94,
+          "newProducts": 94
+        }
+      ],
+      "errors": [],
+      "productsFetched": 94,
+      "productsSelected": 36,
+      "candidates": 72,
+      "direction": "Colorful casual / broader-build source"
+    },
+    {
+      "source": "wildfang",
+      "pages": [
+        {
+          "url": "https://www.wildfang.com/products.json?limit=250&page=1",
+          "records": 222,
+          "newProducts": 222
+        }
+      ],
+      "errors": [],
+      "productsFetched": 222,
+      "productsSelected": 36,
+      "candidates": 72,
+      "direction": "Tailoring / workwear / printed suits"
+    },
+    {
+      "source": "snag",
+      "pages": [
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=1",
+          "records": 250,
+          "newProducts": 250
+        },
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=2",
+          "records": 250,
+          "newProducts": 250
+        }
+      ],
+      "errors": [],
+      "productsFetched": 500,
+      "productsSelected": 36,
+      "candidates": 72,
+      "direction": "Broader-build casual / dark and colorful"
+    },
+    {
+      "source": "morningwitch",
+      "pages": [
+        {
+          "url": "https://www.morningwitch.com/products.json?limit=250&page=1",
+          "records": 207,
+          "newProducts": 207
+        }
+      ],
+      "errors": [],
+      "productsFetched": 207,
+      "productsSelected": 36,
+      "candidates": 72,
+      "direction": "Botanical prints / colorful layers"
+    },
+    {
+      "source": "pettilia",
+      "pages": [
+        {
+          "url": "https://pettilia.com/products.json?limit=250&page=1",
+          "records": 9,
+          "newProducts": 9
+        }
+      ],
+      "errors": [],
+      "productsFetched": 9,
+      "productsSelected": 8,
+      "candidates": 16,
+      "direction": "Extended-size Lolita source"
+    },
+    {
+      "source": "myviolet",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://shopmyviolet.com/products.json?limit=250&page=1",
+          "error": "429 Client Error: Too Many Requests for url: https://shopmyviolet.com/products.json?limit=250&page=1"
+        }
+      ],
+      "productsFetched": 0,
+      "productsSelected": 0,
+      "candidates": 0,
+      "direction": "Pastel / playful layering"
+    },
+    {
+      "source": "mochipan",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://mochipan.com/products.json?limit=250&page=1",
+          "error": "429 Client Error: Too Many Requests for url: https://mochipan.com/products.json?limit=250&page=1"
+        }
+      ],
+      "productsFetched": 0,
+      "productsSelected": 0,
+      "candidates": 0,
+      "direction": "Whimsical / romantic / illustrated"
+    },
+    {
+      "source": "midnighthour",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://www.midnighthour.com/products.json?limit=250&page=1",
+          "error": "429 Client Error: Too Many Requests for url: https://www.midnighthour.com/products.json?limit=250&page=1"
+        }
+      ],
+      "productsFetched": 0,
+      "productsSelected": 0,
+      "candidates": 0,
+      "direction": "Dark romantic / gothic"
+    },
+    {
+      "source": "bigbudpress",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://bigbudpress.com/products.json?limit=250&page=1",
+          "error": "429 Client Error: Too Many Requests for url: https://bigbudpress.com/products.json?limit=250&page=1"
+        }
+      ],
+      "productsFetched": 0,
+      "productsSelected": 0,
+      "candidates": 0,
+      "direction": "Colorful workwear / broader-build source"
+    },
+    {
+      "source": "kirrinfinch",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://kirrinfinch.com/products.json?limit=250&page=1",
+          "error": "429 Client Error: Too Many Requests for url: https://kirrinfinch.com/products.json?limit=250&page=1"
+        }
+      ],
+      "productsFetched": 0,
+      "productsSelected": 0,
+      "candidates": 0,
+      "direction": "Tailoring / formal and everyday"
+    }
+  ]
+}

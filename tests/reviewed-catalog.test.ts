@@ -8,8 +8,8 @@ import summary from '../data/catalog-review/admission-summary.json';
 test('admission replays reviewed data and exact original image bindings', () => {
   const result = Bun.spawnSync(['python', 'scripts/import-reviewed-catalog.py', '--check']);
   expect(result.exitCode, new TextDecoder().decode(result.stderr)).toBe(0);
-  expect(assets.length).toBe(1183);
-  expect(summary.completeReferences).toBe(141);
+  expect(assets.length).toBe(1322);
+  expect(summary.completeReferences).toBe(153);
   const rejected = new Set(summary.excluded.map(row => row.id));
   expect(PHOTOS.some(photo => rejected.has(photo.id))).toBe(false);
   for (const reference of references) {
@@ -33,10 +33,15 @@ test('gallery views share source-page grouping without invented person or clothi
     if (grouped.has(photo.sourceUrl)) expect(photo.shoot).toBe(grouped.get(photo.sourceUrl)!);
     grouped.set(photo.sourceUrl, photo.shoot);
   }
-  expect(new Set(grouped.values()).size).toBe(777);
+  expect(new Set(grouped.values()).size).toBe(889);
 });
 
 test('additional review batches reject incomplete, reused and invalid observations', () => {
   const result = Bun.spawnSync(['python', 'tests/catalog-batches.py']);
+  expect(result.exitCode, new TextDecoder().decode(result.stderr)).toBe(0);
+});
+
+test('sourcing preserves committed history, deferred pages, duplicates and failures', () => {
+  const result = Bun.spawnSync(['python', 'tests/catalog-sourcing.py']);
   expect(result.exitCode, new TextDecoder().decode(result.stderr)).toBe(0);
 });

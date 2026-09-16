@@ -4,6 +4,8 @@
 
 ## From sources to the application
 
+Continuation, September 16: two further batches directly review 260 candidates, admitting 139 photos from 112 new pages and 12 complete references. The resulting catalog has 1,707 photos, 195 complete references and 33 matches for build 3 / shoulder balance 0 / waist 1. The prior 1,568 entries retain their exact metadata, image bytes, labels and ordering. `data/sourcing/` now records all provably sampled pages, historical search scope, per-source yields and 1,117 observed deferred URLs. Every newly inspected listing product has an explicit decision; older unrecorded decisions remain unknown. See `data/sourcing/README.md` for the ongoing workflow and source priorities.
+
 Latest targeted intake: 178 new candidates from Forest Ink, Snag, Shiny by Nature, Foxblood and Midnight Hour were inspected directly, with 21 enlarged rereads. Admission adds 108 photos across 79 previously unseen source pages; 70 back/detail/promotional/repetitive views are excluded. Total: 1,568 photos, 183 complete references, and 30 matches for build 3 / shoulder balance 0 / waist 1 (previously 26). No matching tolerance changed. The historical first-pass counts below remain its audit trail.
 
 `research/catalog/expand_targeted.py` sources bounded new product-page batches and produces image-bound contact sheets. `compile_targeted.py` validates authored TSV observations against the exact corpus bytes and emits labels. `data/catalog-review/batches/` commits intake URLs, digests, source retrieval scope, observations and labels. The importer rejects missing/duplicate observations, reused prior source pages, invalid axes and changed image bindings before admission.

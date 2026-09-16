@@ -4,6 +4,8 @@ Migrated 2026-09-16. These offline experiments share a repository with the app s
 
 ## Catalog sourcing and review
 
+`data/sourcing/README.md` is the continuation workflow. `catalog/source_inventory.py` compiles sampled-page provenance, per-source yields, historical retrieval logs and the exact deferred-page queue. New collections record every listing decision, image outcome and raw snapshot hash. The collector checks committed batch history as well as the external corpus, so a fresh checkout cannot accidentally reuse earlier sampled pages.
+
 New targeted batches use `catalog/expand_targeted.py` for bounded source discovery, downloads and sheets, then `catalog/compile_targeted.py` for authored observation validation. See `data/catalog-review/batches/README.md`. All live admission still goes through `scripts/import-reviewed-catalog.py`.
 
 `catalog/` contains the original bounded retailer and street-style intake, contact-sheet generation and authored-review validation scripts. Set `STYLR_INTAKE_ROOT` to an external corpus directory before running them. On the current Zo this is `/home/workspace/Documents/stylr-catalog-pilot`.

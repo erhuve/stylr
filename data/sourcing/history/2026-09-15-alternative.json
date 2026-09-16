@@ -1,0 +1,45 @@
+{
+  "retrievedAt": "2026-09-15T21:01:36.384371+00:00",
+  "sources": [
+    {
+      "source": "midnighthour",
+      "url": "https://www.midnighthour.com/products.json?limit=250",
+      "productsFetched": 250,
+      "productsSelected": 24,
+      "direction": "Dark romantic / gothic",
+      "scope": "First page only; category round robin; first two gallery images. Source direction is a sourcing hypothesis, not an image label."
+    },
+    {
+      "source": "myviolet",
+      "url": "https://shopmyviolet.com/products.json?limit=250",
+      "productsFetched": 190,
+      "productsSelected": 24,
+      "direction": "Pastel / playful layering",
+      "scope": "First page only; category round robin; first two gallery images. Source direction is a sourcing hypothesis, not an image label."
+    },
+    {
+      "source": "mochipan",
+      "url": "https://mochipan.com/products.json?limit=250",
+      "productsFetched": 250,
+      "productsSelected": 24,
+      "direction": "Whimsical / illustrated knitwear",
+      "scope": "First page only; category round robin; first two gallery images. Source direction is a sourcing hypothesis, not an image label."
+    },
+    {
+      "source": "disturbia",
+      "url": "https://www.disturbia.co.uk/products.json?limit=250",
+      "productsFetched": 250,
+      "productsSelected": 24,
+      "direction": "Dark everyday / punk-inspired",
+      "scope": "First page only; category round robin; first two gallery images. Source direction is a sourcing hypothesis, not an image label."
+    },
+    {
+      "source": "lucyandyak",
+      "url": "https://www.lucyandyak.com/products.json?limit=250",
+      "productsFetched": 250,
+      "productsSelected": 24,
+      "direction": "Colorful / print / workwear",
+      "scope": "First page only; category round robin; first two gallery images. Source direction is a sourcing hypothesis, not an image label."
+    }
+  ]
+}

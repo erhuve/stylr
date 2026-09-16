@@ -1,0 +1,32 @@
+{
+  "retrievedAt": "2026-09-15T20:46:02.301610+00:00",
+  "sources": [
+    {
+      "source": "universalstandard",
+      "status": "ok",
+      "productsFetched": 250,
+      "candidates": 60,
+      "scope": "First public products page, 250 limit; first image per product; product-type round robin; at most three title-family variants."
+    },
+    {
+      "source": "bigbudpress",
+      "status": "ok",
+      "productsFetched": 250,
+      "candidates": 60,
+      "scope": "First public products page, 250 limit; first image per product; product-type round robin; at most three title-family variants."
+    },
+    {
+      "source": "kirrinfinch",
+      "status": "ok",
+      "productsFetched": 75,
+      "candidates": 60,
+      "scope": "First public products page, 250 limit; first image per product; product-type round robin; at most three title-family variants."
+    },
+    {
+      "source": "wear",
+      "status": "ok",
+      "candidates": 60,
+      "scope": "First coordinate listing page; account links preserved. No height or account category converted into body labels."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "source": "myviolet",
+    "sourceSnapshot": "/home/workspace/Documents/stylr-catalog-pilot/raw/alt-myviolet.json",
+    "sourceSnapshotMtime": "2026-09-15T21:01:33.076670+00:00",
+    "newImages": 71,
+    "productsInSnapshot": 190,
+    "scope": "Previously saved first page only; no network retry after rate limit; later unused gallery views included. Further pages not fetched."
+  },
+  {
+    "source": "mochipan",
+    "sourceSnapshot": "/home/workspace/Documents/stylr-catalog-pilot/raw/alt-mochipan.json",
+    "sourceSnapshotMtime": "2026-09-15T21:01:33.948671+00:00",
+    "newImages": 72,
+    "productsInSnapshot": 250,
+    "scope": "Previously saved first page only; no network retry after rate limit; later unused gallery views included. Further pages not fetched."
+  },
+  {
+    "source": "midnighthour",
+    "sourceSnapshot": "/home/workspace/Documents/stylr-catalog-pilot/raw/alt-midnighthour.json",
+    "sourceSnapshotMtime": "2026-09-15T21:01:32.388670+00:00",
+    "newImages": 72,
+    "productsInSnapshot": 250,
+    "scope": "Previously saved first page only; no network retry after rate limit; later unused gallery views included. Further pages not fetched."
+  },
+  {
+    "source": "bigbudpress",
+    "sourceSnapshot": "/home/workspace/Documents/stylr-catalog-pilot/raw/bigbudpress.json",
+    "sourceSnapshotMtime": "2026-09-15T20:46:00.811644+00:00",
+    "newImages": 72,
+    "productsInSnapshot": 250,
+    "scope": "Previously saved first page only; no network retry after rate limit; later unused gallery views included. Further pages not fetched."
+  },
+  {
+    "source": "kirrinfinch",
+    "sourceSnapshot": "/home/workspace/Documents/stylr-catalog-pilot/raw/kirrinfinch.json",
+    "sourceSnapshotMtime": "2026-09-15T20:46:01.594645+00:00",
+    "newImages": 72,
+    "productsInSnapshot": 75,
+    "scope": "Previously saved first page only; no network retry after rate limit; later unused gallery views included. Further pages not fetched."
+  }
+]
