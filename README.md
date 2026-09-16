@@ -8,7 +8,7 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
-Catalog deployment (2026-09-16): privately republished with 1,460 photos and 174 complete three-axis references. All 124 unit tests, 86 pre-release browser tests and eight live checks pass; every newly served image digest matches its reviewed original. See `docs/verification/catalog-expansion.md`. Offline sourcing and clustering code, environment records and evaluation artifacts now live in `research/`; see `research/README.md`.
+Catalog deployment (2026-09-16): privately republished with 1,568 photos and 183 complete three-axis references. All 125 unit tests, 86 pre-release browser tests and eight live checks pass; every newly served image digest matches its reviewed original. See `docs/verification/targeted-expansion.md`. Offline sourcing and clustering code, environment records and evaluation artifacts are committed in `research/`; see `research/README.md`.
 
 Deployment status (2026-09-14): privately published with approval. Six smoke tests passed against the live production server: four viewport checks plus real mouse and touch gestures. Unauthenticated requests to the homepage, illustrated route and a photo asset redirect to Zo sign-in. Use the published URL instead of depending on development-preview recovery; do not manually start a server or overwrite the project.
 
