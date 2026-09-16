@@ -1,6 +1,20 @@
 # Afternoon sourcing, September 16, 2026
 
-## 4 p.m. scheduled run: current handoff
+## Interactive menswear continuation: current handoff
+
+Started from `6e9271e` after fetching origin; current origin/main is included. No overlapping collector/import work was active. Used the isolated catalog checkout and left production unchanged.
+
+Batch `2026-09-16T2045-menswear` directly reviews 153 candidates on 13 numbered, hash-bound sheets with seven original-image enlargements. It admits 40 photos across 39 source pages: 15 ONE BONE, eight Tombolo and 17 Universal Works. There are 34 new build observations and no complete references. Current repository totals: **1,970 photos, 1,729 body-review records, 1,485 build observations, 200 complete references and 38 example matches**. Production remains **1,707 photos, 195 complete references and 33 example matches**.
+
+All three new sources were selected to improve masculine coverage. Actual presentation additions are **26 masculine and 14 neutral/unclear**, with no feminine/mixed additions and no changes to prior coverage. Masculine additions span 26 source pages and three new hosts; their build scores are 23 at 1.5 and three at 3. Neutral additions span 13 pages; eight have build 3 and six are unknown. Current total presentation counts are **275/1,091/30/574**, with zero unreviewed. Faces, retailer departments and body shape did not supply presentation labels; basic tees remain neutral. Loose hems and structured layers kept all new waist and shoulder/hip traits unknown.
+
+Three bounded first-page listings yielded 691 product decisions and 60 selected pages. The first 120 candidates were followed by 40 recorded alternate-gallery probes on those same selected pages, yielding 33 extra images and seven no-match outcomes. FullBody/_FL_/model_1 filename hints selected candidates for visual inspection only. Original ordinals were preserved; the 33 extras were appended. Initial flat/back views, close crops, repeated poses/colorways, group and swimwear promotions account for 113 exclusions. All three snapshot hashes, 153 candidate hashes, selected original image URLs, gallery positions and outcomes are preserved. No download failures or exact duplicate downloads occurred. Current inventory: **1,632 sampled pages and 1,671 deferred URLs**.
+
+All preceding 1,930 photo IDs, metadata, ordering, asset records, body labels and presentation rows remain unchanged against `6e9271e`. All 1,970 local asset hashes and 42 original-photo visual identities pass. Admission replay, complete presentation audit, typechecking, all 129 unit tests and all 86 browser tests pass. Browser verification includes every image loading with original colors and aspect ratio, strict matching, storage protection, accessibility and swipe gestures. Only exact release-count assertions changed. Origin was fetched again before commit/push with no concurrent updates.
+
+Next runs: consult the batch review before resampling these sources. Universal Works full-length gallery hints outperform its first/third flat and rear images. ONE BONE full views improve broader-build outfit coverage, but repeated colorways and loose hems limit further gains. Tombolo supplies useful cabana/suit ensembles mixed with products, groups and swimwear. Seek new outfit constructions and fitted full views across builds, retaining feminine coverage as well. `gallery-searches.json` is part of the acquisition provenance. No automation, deployment or messaging changes were made.
+
+## 4 p.m. scheduled run: historical handoff
 
 September 16, 2026, America/New_York. The checkout was clean and no overlapping sourcing/import/browser work was active. Fetched origin; starting revision `97014d3` matched origin/personal-discovery and already included origin/main. The checkout remains detached because the personal-discovery branch belongs to another worktree; only HEAD is pushed to the remote personal-discovery branch. No new branch, automation, child session or external message was created.
 

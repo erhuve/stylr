@@ -118,6 +118,15 @@
       "deferredPages": 55
     },
     {
+      "source": "onebone",
+      "sampledPages": 20,
+      "candidateImages": 56,
+      "reviewedExpansionCandidates": 56,
+      "admittedExpansionPhotos": 15,
+      "completeExpansionReferences": 0,
+      "deferredPages": 164
+    },
+    {
       "source": "pettilia",
       "sampledPages": 8,
       "candidateImages": 16,
@@ -172,6 +181,15 @@
       "deferredPages": 0
     },
     {
+      "source": "tombolo",
+      "sampledPages": 20,
+      "candidateImages": 40,
+      "reviewedExpansionCandidates": 40,
+      "admittedExpansionPhotos": 8,
+      "completeExpansionReferences": 0,
+      "deferredPages": 53
+    },
+    {
       "source": "trippnyc",
       "sampledPages": 48,
       "candidateImages": 96,
@@ -188,6 +206,15 @@
       "admittedExpansionPhotos": 52,
       "completeExpansionReferences": 1,
       "deferredPages": 0
+    },
+    {
+      "source": "universalworks",
+      "sampledPages": 20,
+      "candidateImages": 57,
+      "reviewedExpansionCandidates": 57,
+      "admittedExpansionPhotos": 17,
+      "completeExpansionReferences": 0,
+      "deferredPages": 205
     },
     {
       "source": "unsplash.com",
@@ -6629,6 +6656,1162 @@
             }
           ],
           "downloadedUnique": 30
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-16T2045-menswear/sources.json",
+      "retrievedAt": "2026-09-16T20:42:40.622367+00:00",
+      "scope": "3 sources, at most three pages of 250 products each and 20 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels. Follow-up: existing ONE BONE and Universal Works selected pages probed once for filename-indicated full views; exact decisions in gallery-searches.json. Initial 120 ordinals preserved.",
+      "sources": [
+        {
+          "source": "onebone",
+          "pages": [
+            {
+              "url": "https://onebonebrand.com/products.json?limit=250&page=1",
+              "products": 191,
+              "retrievedAt": "2026-09-16T20:42:22.638466+00:00",
+              "snapshotSha256": "69044c7747cf83009a8be88d23c790d839ac6df18bad4d1844a9554f2ea9fcd0"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "onebone-9710458110271-image-53959471497535",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-DeepGreen-Peter-WebUse-Lifestyle1_8b5d4016-d0db-4ada-9257-4825356e64a8.jpg?v=1787236668",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tee-deep-green",
+              "sha256": "7350a1eefb77742fc4a6be09c8cdbdd52f9c8e8d9e12322c75897990a43f2c75",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-9710458110271-image-53959471563071",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-DeepGreen-Peter-WebUse-Lifestyle3_fcde4e9e-0249-4779-b075-d4b4d9b37b99.jpg?v=1787236668",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tee-deep-green",
+              "sha256": "14331a24cc0960e7038ea5a7f143c1712edfeaa26518e762bb276519f3c972d3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477722894655-image-53959447085375",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB110-V-Neck-Pine-Nick-WebUse-Detail4.jpg?v=1787236451",
+              "sourceUrl": "https://onebonebrand.com/products/v-neck-pine",
+              "sha256": "1a7909e308beb6bed2f8f3772c8377b284d8878116a1f133a43ce5d86b933c1b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477722894655-image-53959447216447",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB110-V-Neck-Pine-Nick-WebUse-MediumShot1.jpg?v=1787236451",
+              "sourceUrl": "https://onebonebrand.com/products/v-neck-pine",
+              "sha256": "81edaf4fd36383ea0c8bf60e3de02e3f4dea29820c7973b8ecf4cf932281775d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477718569279-image-53959481229631",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB107-L_SSplitHemTee-BlueHaze-Tom-WebUse-Lifestyle1_70388b13-cfc4-4ca2-b83d-ee57f6c38c08.jpg?v=1787236982",
+              "sourceUrl": "https://onebonebrand.com/products/l-s-split-hem-cotton-95-5-blue-haze",
+              "sha256": "345833cec86ecca2e47ddca23d922b5bf0b8ab38f62f72487820781909e51e79",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477718569279-image-53959477821759",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB107-L_SSplitHemTee-BlueHaze-Tom-WebUse-MediumShot1.jpg?v=1787236852",
+              "sourceUrl": "https://onebonebrand.com/products/l-s-split-hem-cotton-95-5-blue-haze",
+              "sha256": "2327d6cda8feb22ca5d435e48ec9cb666a5da482fa89f2d34ba53f2d41a960e4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477714440511-image-53955712418111",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-Pine-Q-WebUse-MediumShot1.jpg?v=1787162262",
+              "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-pine",
+              "sha256": "1f66067684d1fa32f4b6de4a580a55f62fe91cbe1d557cae6062d940fc3aeb07",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477714440511-image-53955712287039",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-Pine-Q-WebUse-Detail4.jpg?v=1787162262",
+              "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-pine",
+              "sha256": "e3178cd68d293a9a6e6aae6fda6e6e0c368421c3aed881208795c707abd95f14",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477710999871-image-53955685286207",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-BlueHaze-Q-WebUse-Lifestyle2.jpg?v=1787161946",
+              "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-blue-haze",
+              "sha256": "d3950ef21f7223af07e4c05685250a67835dd4b955463a8c579270d173d23505",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477710999871-image-53955685318975",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-BlueHaze-Q-WebUse-MediumShot1.jpg?v=1787161946",
+              "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-blue-haze",
+              "sha256": "bfc8db729d96753cc92b57329eb351c9caffeb8b8d0caba26c5c6b56dc79e3e6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477707559231-image-53955701899583",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-CrimsonRed-Q-WebUse-Lifestyle1.jpg?v=1787162130",
+              "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-crimson-red",
+              "sha256": "74367cac06ab60bd8ae90023c8cd895071c90a628e72922a228ad6a93a03e23d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477707559231-image-53955701965119",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-CrimsonRed-Q-WebUse-MediumShot1.jpg?v=1787162130",
+              "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-crimson-red",
+              "sha256": "d85bc23be80ce04640cd0fa5af8d06bdb6fc75024dda91f42abf69d7eaf2dd38",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477706740031-image-53959440924991",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-DeepGreen-Peter-WebUse-Lifestyle1_02706423-7c7a-4d5a-9e5d-49f5c72efa9b.jpg?v=1787236225",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-burgundy-copy",
+              "sha256": "72f81bfafb9b391b1e3abd01a7d143ba7dd2134ed11c6819c962d4609da7d9bc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477706740031-image-53959440957759",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-DeepGreen-Peter-WebUse-MediumShot1_d978fd9b-d9cf-413c-86e5-d130beb34d77.jpg?v=1787236225",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-burgundy-copy",
+              "sha256": "6085343fc9cb1a7ab4b5a76730442fddc3f075d9d3286e24f27ba54530055e5d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477703004479-image-53955731259711",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-Burgundy-Q-WebUse-Lifestyle1.jpg?v=1787162935",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-burgundy",
+              "sha256": "605017050707ba2e9f8d12fd6f6a7ffef22ad8d6a8453ccf2b42e95bf70277bd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477703004479-image-53955731358015",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-Burgundy-Q-WebUse-MediumShot1.jpg?v=1787162935",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-burgundy",
+              "sha256": "228e9c0ae238f4c14d17e0bc5f9467c6c31f96529ac9729dfe9289333e9ae953",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477702414655-image-53959444103487",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBullet-EiffelBlue-Peter-WebUse-Lifestyle2.jpg?v=1787236326",
+              "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-eiffel-blue",
+              "sha256": "9ed31429e93b561bbcbe36ddc42d8f64bfa47f1854f0950bd706cafe8df84997",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477702414655-image-53959444136255",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBullet-EiffelBlue-Peter-WebUse-MediumShot1.jpg?v=1787236326",
+              "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-eiffel-blue",
+              "sha256": "a33912808e9c6dec89ba1964777f33d11575b4b7257f1bf256eb6a7be4a29ae0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477688979775-image-53955717726527",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-EiffelBlue-Q-WebUse-Lifestyle2.jpg?v=1787162442",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tee-eiffel-blue",
+              "sha256": "c4b1d1e2c87280207fd4a44d63d7d8efd157e37f6b4f06aceeaab0863d424fa7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477688979775-image-53955717759295",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-EiffelBlue-Q-WebUse-Lifestyle3.jpg?v=1787162443",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tee-eiffel-blue",
+              "sha256": "4af64808e99e820bb6f49371b0930647537ef4619669014ed4b3364965b5d2e6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477688815935-image-53955740533055",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-Burgundy-Peter-WebUse-Lifestyle2.jpg?v=1787163204",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tee-burgundy",
+              "sha256": "5d985d2a368f0a96bf444f29d88535f520b1b90d49f2d185b8b37fedc1eeb2dd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10477688815935-image-53955740565823",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-Burgundy-Peter-WebUse-MediumShot1.jpg?v=1787163204",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tee-burgundy",
+              "sha256": "a810b7f53fb09dce05d790bb6b81f21d17bb199b2c53073879eb5fb385aaee9f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10417577787711-image-53959483588927",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB258-ShortSleeveHoodie-ArmyGreen-Peter-WebUse-Lifestyle1.jpg?v=1787237036",
+              "sourceUrl": "https://onebonebrand.com/products/short-sleeve-hoodie-army-green-1",
+              "sha256": "73acfecaed47ec4a2dbac98c115c7ab15bdd249d719742d14ae1ef4bb83cff73",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10417577787711-image-53959483621695",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB258-ShortSleeveHoodie-ArmyGreen-Peter-WebUse-MediumShot1.jpg?v=1787237036",
+              "sourceUrl": "https://onebonebrand.com/products/short-sleeve-hoodie-army-green-1",
+              "sha256": "be73ffed0e2fe27b711b3db1408400ca3778e54bf4a381fd48feaf6e1940d647",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-9988815257919-image-53959558529343",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB258-ShortSleeveHoodie-Black-Q-WebUse-Lifestyle2.jpg?v=1787237325",
+              "sourceUrl": "https://onebonebrand.com/products/short-sleeve-hoodie-black",
+              "sha256": "b2726a0a3b40b55ee6d871f5acbdd337e94df33865df0d3e15d1d3d07be2e24e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-9988815257919-image-53959558496575",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB258-ShortSleeveHoodie-Black-Q-WebUse-Lifestyle1.jpg?v=1787237325",
+              "sourceUrl": "https://onebonebrand.com/products/short-sleeve-hoodie-black",
+              "sha256": "95b2b407fb3471f4489d4ae608814e5e60bef548fe233ef1fb07669af75abba0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278582321471-image-53191230030143",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPant-LightNavy-Dimitri-WebUse-MediumShot1.jpg?v=1778524881",
+              "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-navy-blazer",
+              "sha256": "c77b7fefe53d243884832d8dee4b24cc899fcd674c08f2ebcf766b4d23e8616c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278582321471-image-53191229997375",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPant-LightNavy-Dimitri-WebUse-Lifestyle1.jpg?v=1778524881",
+              "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-navy-blazer",
+              "sha256": "56aa139bf37243aedd14f3cfc2072cf27cc8f267f334a136c38825678d272ffb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278752911679-image-53468130935103",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB285-NewAthleticShort-Black-Dimitri-WebUse-MediumShot1_a2fa0508-8874-4fa9-91b7-94de07c5a5d6.jpg?v=1781193808",
+              "sourceUrl": "https://onebonebrand.com/products/the-motion-short",
+              "sha256": "3b4c0f2b896c642cb40aa04dff5f8df1fdbecbe8678f842d571ee54aa6b426d6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278752911679-image-53468130771263",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB285-NewAthleticShort-Black-Dimitri-WebUse-Detail1_28c9561e-b07b-4b8b-bfab-75353a4d6ce7.jpg?v=1781193808",
+              "sourceUrl": "https://onebonebrand.com/products/the-motion-short",
+              "sha256": "9b778a76f2ba8c1c31eac08bbd161963e1605f9c432e27bd362be9fa54fe723b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278589563199-image-53191270531391",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB283-GolfShort-Khaki-Dimitri-WebUse-MediumShot1.jpg?v=1778525173",
+              "sourceUrl": "https://onebonebrand.com/products/daily-short-khaki",
+              "sha256": "4c0224a3168c97ecc2803afdc3fac15261b5eca507648187fdf9818424f92ad0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278589563199-image-53191270334783",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB283-GolfShort-Khaki-Dimitri-WebUse-Detail2.jpg?v=1778525172",
+              "sourceUrl": "https://onebonebrand.com/products/daily-short-khaki",
+              "sha256": "3a2f177fba9cc3a4bf5a390720382fdea6b7e26d1421761a64d73ec917e6cc8c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278584189247-image-53191239303487",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB283-GolfShort-Black-Dimitri-WebUse-MediumShot1.jpg?v=1778525064",
+              "sourceUrl": "https://onebonebrand.com/products/daily-short-black",
+              "sha256": "6880f16a295310783ef4f60228fe185c8416740bcfb4b3f667b0e54bf3381e69",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278584189247-image-53191239336255",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB283-GolfShort-Black-Dimitri-WebUse-MediumShot2.jpg?v=1778525064",
+              "sourceUrl": "https://onebonebrand.com/products/daily-short-black",
+              "sha256": "f5bc44678d5bf0d619bb916fbbf8d821d41e54b565e854d2161a307e5de064b0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278594511167-image-53191283540287",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB281-JohnnyCollarPolo-Cream_Black-Dimitri-WebUse-Lifestyle4_8afef449-32be-4d7f-82b3-25b2bc2c4e6b.jpg?v=1778525333",
+              "sourceUrl": "https://onebonebrand.com/products/chino-pant-bone",
+              "sha256": "6e894ec9c004909a84443eafd17d3ac92ca3d198613593388fc3b5df0e555c1d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278594511167-image-53191280427327",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB215-ChinoPant-Bone-Dimitri-WebUse-MediumShot1.jpg?v=1778525260",
+              "sourceUrl": "https://onebonebrand.com/products/chino-pant-bone",
+              "sha256": "4671ed7b28087fde53c3eed08ed979e3fdd7fcac486253811cacda3f666c81aa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278760907071-image-53191210271039",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB211A-YachtShirt-Taupe-Q-WEBUSE-Lifestyle2.jpg?v=1778524364",
+              "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-taupe",
+              "sha256": "e0202424d42a42ce4e739616b94e8510e6ab08065465b779f0b6803198e6e94b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278760907071-image-53191210533183",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB211A-YachtShirt-Taupe-Tom-WEBUSE-Lifestyle1.jpg?v=1778524364",
+              "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-taupe",
+              "sha256": "7fbdf9ac6ccf22f29890ed95795fc83229fe7260238ffb85b719f4075db8fbdd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278757925183-image-53191219904831",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB211A-YachtShirt-Chive-Q-WEBUSE-Lifestyle3.jpg?v=1778524564",
+              "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-chive",
+              "sha256": "ecc0c773961dd3b0bdfba1479e203ff7f66eb0082bc30c1e8a154dffeb190a8d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278757925183-image-53191220166975",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB211A-YachtShirt-Chive-Tom-WEBUSE-Lifestyle2.jpg?v=1778524564",
+              "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-chive",
+              "sha256": "ded2d00dfc18274044d76aba083c87ade7c27200ea46289f720bffaba2bb32a9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-9710458110271-image-53959471464767",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-DeepGreen-Peter-WebUse-FullBody1_2a7d0b78-8737-49a3-b0e1-be5d0150592c.jpg?v=1787236668",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tee-deep-green",
+              "sha256": "c0693f74443015184311289c44626775104fde32aec6100944b846341aea9ab0",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477722894655-image-53959447118143",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB110-V-Neck-Pine-Nick-WebUse-FullBody.jpg?v=1787236450",
+              "sourceUrl": "https://onebonebrand.com/products/v-neck-pine",
+              "sha256": "c44b37f0080d7ddb6828e14e8cc843097a036ebf8c2a50ee7d5cb790ce26dbfd",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477718569279-image-53959477723455",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB107-L_SSplitHemTee-BlueHaze-Tom-WebUse-FullBody.jpg?v=1787236853",
+              "sourceUrl": "https://onebonebrand.com/products/l-s-split-hem-cotton-95-5-blue-haze",
+              "sha256": "fa4c2807e321c8000b10366ef17953cfcf1396021ef70fe965e2e6c78780bd5f",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477714440511-image-53955712319807",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-Pine-Q-WebUse-FullBody1.jpg?v=1787162262",
+              "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-pine",
+              "sha256": "0573ea5cab6c4bf2f2a673f5cb3403aeef9f08271c8f047dcaba545cd8b2ebdf",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477710999871-image-53955685220671",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-BlueHaze-Q-WebUse-FullBody1.jpg?v=1787161947",
+              "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-blue-haze",
+              "sha256": "aaa460aff775f152ec9c076946e61019d356a5890df62261fdb77d7a3b859896",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477707559231-image-53955701866815",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-CrimsonRed-Q-WebUse-FullBodyjpg.jpg?v=1787162131",
+              "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-crimson-red",
+              "sha256": "3aaf88b4c15d027728533b2e64f4ccce700ebff2b0e5fb946ed720bf22141258",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477706740031-image-53959440892223",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-DeepGreen-Peter-WebUse-FullBody1_8fc39404-d98a-4a8f-b163-d981aaac0c16.jpg?v=1787236225",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-burgundy-copy",
+              "sha256": "d484211f0fb1ea28c16f425e9beb242dc1227c3bf3846a3b7be7e016c38c5c04",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477703004479-image-53955731226943",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-Burgundy-Q-WebUse-FullBody.jpg?v=1787162935",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-burgundy",
+              "sha256": "39cb1480dc634ccd5e26544e376fe0fdab9125624370abacb50f68db9a6b7ad5",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477702414655-image-53959444037951",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBullet-EiffelBlue-Peter-WebUse-FullBody1.jpg?v=1787236326",
+              "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-eiffel-blue",
+              "sha256": "2d8b16dabaafd1115b8298cbfa9de86d07e12141eaa9beb5c4945d67c1c6ceb6",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477688979775-image-53955717660991",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-EiffelBlue-Q-WebUse-FullBody2.jpg?v=1787162442",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tee-eiffel-blue",
+              "sha256": "098d4a5510ce80630ffc02eb84b6d4a1ce45bd00cc16a7c36a8c194bb62d74d2",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10477688815935-image-53955740467519",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-Burgundy-Peter-WebUse-FullBody1.jpg?v=1787163204",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tee-burgundy",
+              "sha256": "4751e632929751e2e566b5179a61b610ab03722205143c6e4302404d0ac279af",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10417577787711-image-53959483556159",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB258-ShortSleeveHoodie-ArmyGreen-Peter-WebUse-FullBody1.jpg?v=1787237036",
+              "sourceUrl": "https://onebonebrand.com/products/short-sleeve-hoodie-army-green-1",
+              "sha256": "346bb907c623dbb6fc510f7eab488a5e19b00e2a32d51bcfeca048d6d2d2bc5e",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-9988815257919-image-53959558463807",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB258-ShortSleeveHoodie-Black-Q-WebUse-FullBody.jpg?v=1787237325",
+              "sourceUrl": "https://onebonebrand.com/products/short-sleeve-hoodie-black",
+              "sha256": "fdc3e95b4d73b228ecdf5c08fa1283bdfe7aa8b123c4072b9ca5d4c65020eba4",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10278582321471-image-53191237796159",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB280-ThermalTee-White-Dimitri-WebUse-FullBody1_9c07bb55-d159-4c6d-a7a0-e7a8716cd45f.jpg?v=1778525038",
+              "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-navy-blazer",
+              "sha256": "ef4033faaf175154b7fbc24badbcaac4eb0c9b59b61f7fb8fb5c6567e58351eb",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10278760907071-image-53191210500415",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB211A-YachtShirt-Taupe-Tom-WEBUSE-FullBody1.jpg?v=1778524364",
+              "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-taupe",
+              "sha256": "cb4ad5640c3393acb662a94698c103606334a44d65d7eeb700c0357bf3ed6f7b",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "onebone-10278757925183-image-53191219806527",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB211A-YachtShirt-Chive-Q-WEBUSE-FullBody1.jpg?v=1778524564",
+              "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-chive",
+              "sha256": "4d8a78571d20b265ffb89c823219ea68438466f4633863802571418a65d47b41",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            }
+          ],
+          "downloadedUnique": 56
+        },
+        {
+          "source": "tombolo",
+          "pages": [
+            {
+              "url": "https://tombolocompany.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-16T20:42:27.838737+00:00",
+              "snapshotSha256": "ce3778709d4340b7679f32f5c73f6ee9f0af0ec44031d2a527031e9754c64680"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "tombolo-9056531677244-image-48319128600636",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/MulliganShorts-Front.jpg?v=1783452072",
+              "sourceUrl": "https://tombolocompany.com/products/mulligan-golf-cabana-shorts-archive",
+              "sha256": "8981a462e78c5b1deec8d2a1b327704db2d39e06699f63b760f8e39e56330c3b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056531677244-image-31706893090876",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/products/Untitled-1_dd5148c4-4cb1-4fef-8b05-4e239eefaaa2.jpg?v=1670441628",
+              "sourceUrl": "https://tombolocompany.com/products/mulligan-golf-cabana-shorts-archive",
+              "sha256": "f6d17dd4c1ef324f7f5fab39475acfcd4b03882ba7cc0f2ce12739a030bf34c0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9073372168252-image-48319010537532",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/CrouchingTiger-ShortsFront.jpg?v=1783451256",
+              "sourceUrl": "https://tombolocompany.com/products/crouching-tiger-hidden-beverage-cabana-shorts-archive",
+              "sha256": "b7e78a909b35c77512a3c3fd7f50b406acd5871efcfab9fdedebb7b672fe8d76",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9073372168252-image-32016982736956",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/products/000110420033copy2_c1e1909a-0627-4d4d-91f2-ec8711bdb94e.jpg?v=1678981483",
+              "sourceUrl": "https://tombolocompany.com/products/crouching-tiger-hidden-beverage-cabana-shorts-archive",
+              "sha256": "bca817fc56847e21a44cd124d43301276a70faacfb88a7af4582e0362ffff2cc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056530595900-image-36624470048828",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Product_Big_Brut_Cabana.jpg?v=1747168817",
+              "sourceUrl": "https://tombolocompany.com/products/big-brut-cabana-archive",
+              "sha256": "3c693a51d2d33479a643948ee193b1f8ef8a3507300bfabdb39035d383d1ff0c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056530595900-image-38211031793724",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/00042473001133.jpg?v=1730215322",
+              "sourceUrl": "https://tombolocompany.com/products/big-brut-cabana-archive",
+              "sha256": "c10f45e987504fc1cefe64c9a8a5b84462f448efedf62898095d68bad486f39c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527122492-image-43438738931772",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/BWCardigan.jpg?v=1751473787",
+              "sourceUrl": "https://tombolocompany.com/products/boston-whaler-cardigan-archive",
+              "sha256": "4cbbe5c793773330cb5bcc19e34e982567a944cbd7e203beb8750332f4bd9321",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527122492-image-43593405923388",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/c1.jpg?v=1752095641",
+              "sourceUrl": "https://tombolocompany.com/products/boston-whaler-cardigan-archive",
+              "sha256": "ac79490787fdd936d4c302738c2ae2bf3f588af1a65d178d7a312643fe65288c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056524763196-image-46558074601532",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/260115_Tombolo_0021.jpg?v=1769552495",
+              "sourceUrl": "https://tombolocompany.com/products/le-sirenuse-75th-anniversary-terry-tee-archive",
+              "sha256": "8fdbeb079ede890ab964894603b972118d6c2583168c1ef69484fbf02c0dcfeb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056524763196-image-47603566706748",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/000860600030.jpg?v=1778011361",
+              "sourceUrl": "https://tombolocompany.com/products/le-sirenuse-75th-anniversary-terry-tee-archive",
+              "sha256": "dc34ff0d9e88d9fb886c616443913be96058ea4a90bbfc834003e1894600cf8a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056525353020-image-47773407281212",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/260428_Tombolo_0041.jpg?v=1779384714",
+              "sourceUrl": "https://tombolocompany.com/products/fifa-world-cup-2026\u2122-lady-liberty-souvenir-jacket-archive",
+              "sha256": "e29f34a78b88a93a3fe9f2f67ed7735f7d32ea91de1c2992e69998a17fe85841",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056525353020-image-47895296114748",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/000891220022_1.jpg?v=1780521999",
+              "sourceUrl": "https://tombolocompany.com/products/fifa-world-cup-2026\u2122-lady-liberty-souvenir-jacket-archive",
+              "sha256": "1ab0a13bbfe67b1069dfd0b9e55dba652d5faf725c56b67dd15a2ec1ad0ae77f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056525385788-image-48125321314364",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/lady_liberty_long_sleeve_frontandback.jpg?v=1782321041",
+              "sourceUrl": "https://tombolocompany.com/products/fifa-world-cup-2026\u2122-lady-liberty-cabana-long-sleeve-archive",
+              "sha256": "786967dcd14776a0c92ea10bc05041ba7b85a78f883d914b00857119f198c03e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056525385788-image-46773803647036",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/LadyLibertyLongSleeve-Detail1_596fd278-9684-4937-94f8-84a75df60045.jpg?v=1773174455",
+              "sourceUrl": "https://tombolocompany.com/products/fifa-world-cup-2026\u2122-lady-liberty-cabana-long-sleeve-archive",
+              "sha256": "b56708888de9ae056abacf43d476e6b717eae0bd20c95b439799c8378cf9c7d4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526467132-image-42304768540732",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/BostonWhalerBoardShortsNavy_1-EDIT.jpg?v=1748538384",
+              "sourceUrl": "https://tombolocompany.com/products/boston-whaler-board-shorts-navy-archive",
+              "sha256": "9ad11b675408b525d784e8a28e975362dfba56fc07c9f82ad31b741a5cf79b1e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526467132-image-43266233106492",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/6441-16.jpg?v=1750806882",
+              "sourceUrl": "https://tombolocompany.com/products/boston-whaler-board-shorts-navy-archive",
+              "sha256": "2e936463b67ffd5219279c6ef468c32584520bc4309d5b04943ee152208f02dd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526499900-image-42304761692220",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/BostonWhalerBoardShortsWhite_1-EDIT.jpg?v=1748538340",
+              "sourceUrl": "https://tombolocompany.com/products/boston-whaler-board-shorts-white-archive",
+              "sha256": "e1e564d39c32684bed930fba4d51444fc0ca1fa8b0258c87f4cc13c2c6aa6c29",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526499900-image-43266324955196",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/6448-02.jpg?v=1750807002",
+              "sourceUrl": "https://tombolocompany.com/products/boston-whaler-board-shorts-white-archive",
+              "sha256": "01ee8ab8c35c4421093acf3dbb621887e2f8a5c1d245a15ba24870621bfbeadb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526630972-image-42265255313468",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/BostonWhalerDoublePleatedShorts_1-EDIT.jpg?v=1748373745",
+              "sourceUrl": "https://tombolocompany.com/products/boston-whaler-double-pleated-shorts-archive",
+              "sha256": "4afd9014057c8ef17cefbb9ecda9875f2776dc44a7d6502fa150a11aec1c7d85",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526630972-image-43266805989436",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/6431-03.jpg?v=1750807831",
+              "sourceUrl": "https://tombolocompany.com/products/boston-whaler-double-pleated-shorts-archive",
+              "sha256": "49cd70063a1acaff402efc723f320ef1b3266b5110303b72fb6c78ad816d6daa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526598204-image-46467181051964",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/260115_Tombolo_0018.jpg?v=1769098640",
+              "sourceUrl": "https://tombolocompany.com/products/snl-souvenir-terry-tee-archive",
+              "sha256": "0bae1143b34fb2ff3350bf1b9ff2446974525517f5b315dadf2b223984a7d01a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526598204-image-46247640367164",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/DSCF0044.jpg?v=1769098640",
+              "sourceUrl": "https://tombolocompany.com/products/snl-souvenir-terry-tee-archive",
+              "sha256": "40b4f9722ae08d9de5eb6348d1d5249a519084e72b82133d1d4f06927b869936",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526762044-image-42847979536444",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/TomboloSpring254733-Beige_Fringe-ADJUST-1.jpg?v=1749840463",
+              "sourceUrl": "https://tombolocompany.com/products/featherweight-resort-shirt-archive",
+              "sha256": "dc6f685adf99b73a15aea343d0879b723a84561fc31e30f6fd7c04cd8ecfd928",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056526762044-image-42846656102460",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/000573770023.jpg?v=1749840463",
+              "sourceUrl": "https://tombolocompany.com/products/featherweight-resort-shirt-archive",
+              "sha256": "46050a34b79e9b2a9f336f16953e281d2105b32d97993c83f653e67b70c48974",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527253564-image-40850017878076",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/TUX_JACKET_1_1.jpg?v=1742829172",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-tuxedo-jacket-black-linen-archive",
+              "sha256": "8169eeb8e9d4a115080a364cfc4e16edf4ae7068da44a0577eefdc63fc1d3364",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527253564-image-40850018009148",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/TUX_JACKET_4.jpg?v=1742829172",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-tuxedo-jacket-black-linen-archive",
+              "sha256": "621cc72e7814cc1767e9c9a15fb9979e4da234c5cf91dde4dd688cea6d25288b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527351868-image-40851389874236",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Navy_Linen_Shorts.jpg?v=1742834786",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-shorts-navy-linen-archive",
+              "sha256": "b3ce798029b778288804996160c7052ccddd97eccf5e4929e5f0127b7aee9157",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527351868-image-40755580371004",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/000573650002.jpg?v=1742834854",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-shorts-navy-linen-archive",
+              "sha256": "ac97df9cb247b4b4589469d618ae48ff1c9ebaa8a3b1d1abd78c8bf0c137b437",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527712316-image-39832190517308",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/SNLxTombolo-SouvenirJacket-1.jpg?v=1742006822",
+              "sourceUrl": "https://tombolocompany.com/products/snl-souvenir-jacket-archive",
+              "sha256": "3fbd8276abe94b13e38dd7874680409496437128494d4442ba4a68e61cc9a310",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527712316-image-46247681327164",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/DSCF0155.jpg?v=1767891264",
+              "sourceUrl": "https://tombolocompany.com/products/snl-souvenir-jacket-archive",
+              "sha256": "bf943bf4a97e81a978ee719aefe9f2b96c9c8736230e10e22d859decded3bf1e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527777852-image-44071680245820",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/SNLxTombolo-1976Shirt-3_88d7d6ac-c7d7-47ee-8055-6f47805b36c4.jpg?v=1753908088",
+              "sourceUrl": "https://tombolocompany.com/products/snl-1976-shirt-public-archive",
+              "sha256": "9269b14ab5a56b355d3352aea319a74e1d1268e1220e430c12935616d67f4419",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527777852-image-46258866847804",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/SNLxTombolo-1976Image_b182a92d-d8f4-4897-88a9-dff6ba1f1acd.jpg?v=1768237613",
+              "sourceUrl": "https://tombolocompany.com/products/snl-1976-shirt-public-archive",
+              "sha256": "a7aeb5fe53f8eeac3646a03deba1530cef01502924bad4f8e75a130cc792bb58",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527908924-image-38061395116092",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Easy-GoingPants1.jpg?v=1729180074",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-brown-corduroy-archive",
+              "sha256": "adbe682cc3c8099f33992973c189a4095f0a4dc0deeb395fb450ad9bcb18de17",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527908924-image-38025630777404",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/DSCF5454.jpg?v=1728921001",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-brown-corduroy-archive",
+              "sha256": "81905da4f0ed40c15f42c896d465b13c7a146f01912c3cf22ac8193af5bac918",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527941692-image-37872938713148",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Easy-GoingPantsNavy_3_6a306491-3ea1-409f-9492-94c03cee3c03.jpg?v=1727809438",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-navy-corduroy-archive",
+              "sha256": "5e5d6c82c8d2abdfa7d703f364f72e12f7c9a0d823855b8e9f393f372cac7c5a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056527941692-image-38025666887740",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/DSCF4815.jpg?v=1728921252",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-navy-corduroy-archive",
+              "sha256": "c87174a80656cdeea3b4ac33cf4924bee80af78bf77a5ef4ee3635cb7936a9aa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528072764-image-38061382729788",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Easy-GoingJacketBrown_3_1copy.jpg?v=1729179952",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-brown-corduroy-archive",
+              "sha256": "7bd6c70e4d7e04a9edb367e5a3df0403877eeeaf3104c0af94ad943797b22b28",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528072764-image-38041226739772",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/DSCF5451_e604295e-c335-4e33-bfbd-fa69a10046d9.jpg?v=1729015553",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-brown-corduroy-archive",
+              "sha256": "eeb6e1ddcc94d296c1421b9afe529109d5027f6a1c22f6e8b036678fda6eff2b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528007228-image-37872956047420",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Easy-GoingPantsYellow_3_1da35509-3291-49b4-a771-cb2de3eceff1.jpg?v=1727809530",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-saffron-corduroy-archive",
+              "sha256": "ae5713968cbcb227d530fc5d73e93f0550dc9abe60bfce3cfbc65a359e611485",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528007228-image-38025730719804",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/DSCF5133_ff39ee02-db0c-412a-9869-471a42ab9c37.jpg?v=1728921815",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-saffron-corduroy-archive",
+              "sha256": "4ebbd319b7b4045ad8b90db524f1c671b355fc98119563d17feb939b50232257",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 40
+        },
+        {
+          "source": "universalworks",
+          "pages": [
+            {
+              "url": "https://universalworks.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-16T20:42:35.137724+00:00",
+              "snapshotSha256": "fb007168e46b32a02c6d1d73a6ef3c76f5b72382e58fe8a63bcbb0df5cf7c0ab"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "universalworks-14867351994744-image-73696981942648",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/p32000_linen-slub-weave-navy_1.jpg?v=1753712316",
+              "sourceUrl": "https://universalworks.com/products/universal-works-bakers-jacket-in-navy-linen-slub-weave",
+              "sha256": "16554e56ff2a28a9d08d88fe51bd67c201802cb8e7c226165becf7aeac98afc4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14867351994744-image-73696981909880",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/p32000_linen-slub-weave-navy_2.jpg?v=1753712316",
+              "sourceUrl": "https://universalworks.com/products/universal-works-bakers-jacket-in-navy-linen-slub-weave",
+              "sha256": "31580b980def88adfeacd0cf1329b53d46b60c3a7faa2f32e51297241f4b0054",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979266576760-image-75451674657144",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34112_RECYCLED_POLY_TECH_OLIVE_1.jpg?v=1771931222",
+              "sourceUrl": "https://universalworks.com/products/olive-recycled-poly-tech-jungle-jacket",
+              "sha256": "3d638d1e8f80a1efe0d1bf45c045ab1613cc847d3d86b80d79c3dfeb5a219d6e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979266576760-image-75532779782520",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34112_Recycled-Poly-Tech-Olive_Model_2.jpg?v=1773333149",
+              "sourceUrl": "https://universalworks.com/products/olive-recycled-poly-tech-jungle-jacket",
+              "sha256": "67b695ea02ae8a22fc626b5a06c0b9ad9cb2248c2e77aaea0a4782296d058ac2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979265921400-image-75417399656824",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34106_kennedy-stripe-navy_1_1b94552b-f480-40bf-9c84-639ad9ba7b2c.jpg?v=1771258364",
+              "sourceUrl": "https://universalworks.com/products/navy-kennedy-stripe-boston-blazer",
+              "sha256": "65e5983b47682055172f157f9b6a00553c4b1172702dd72f7bed779632d51d16",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979265921400-image-75492742267256",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34106_Kennedy-Stripe-Navy_Model_2.jpg?v=1772618080",
+              "sourceUrl": "https://universalworks.com/products/navy-kennedy-stripe-boston-blazer",
+              "sha256": "21b0a409f5806ad4c853f6776797dbfd68f9256537da5864d9ce752a599aba3f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979268608376-image-75417386090872",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34130_kennedy-stripe-brown_1_149a392f-e219-410d-9c5a-041996d10aef.jpg?v=1771258104",
+              "sourceUrl": "https://universalworks.com/products/brown-kennedy-stripe-duke-pant",
+              "sha256": "6903f0cb0a6390f577b1f45d039c0ed95228b84ef92b1ef804313edae9c34ece",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979268608376-image-75492900569464",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34130_Kennedy-stripe-brown_model_2.jpg?v=1772619303",
+              "sourceUrl": "https://universalworks.com/products/brown-kennedy-stripe-duke-pant",
+              "sha256": "bcb630720d338259a6dd362adf033dc23d01163923228d0ca543ef3392b33f46",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979287613816-image-75326579474808",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34228_peached-poplin-brown_1_657abca1-7fe9-494c-9c7c-2adc5753148d.jpg?v=1769764839",
+              "sourceUrl": "https://universalworks.com/products/brown-peached-poplin-franck-jacket",
+              "sha256": "2fc991ccf5213d437a2739ade6abcb2daf279f354c82fe8f5810e709043d8354",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979287613816-image-75493245124984",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34228_Peached-Poplin-Brown_model_2.jpg?v=1772624092",
+              "sourceUrl": "https://universalworks.com/products/brown-peached-poplin-franck-jacket",
+              "sha256": "4e833f923241821f6a366aa858f88b9170d030f7e207c117e1b7cb9fe9a794e2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979287187832-image-75549816881528",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34628_herringbone-rec-washed-indigo_1.jpg?v=1773674047",
+              "sourceUrl": "https://universalworks.com/products/washed-indigo-recycled-herringbone-bakers-overshirt",
+              "sha256": "1da5693f3b89884b0fbddc21869f8c912f0ab3c07e2e02d2b62b6a58c2386942",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979287187832-image-75768141775224",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34628_Herringbone-Rec-Washed-Indigo_2_aa4bb93f-5a51-4227-bd0f-fc601bfec3b0.jpg?v=1777300049",
+              "sourceUrl": "https://universalworks.com/products/washed-indigo-recycled-herringbone-bakers-overshirt",
+              "sha256": "43dc29076eec8c9c5307acad75324b6ab1cfa3170a0e996fa7938e08d9f3c5e7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979285221752-image-75447628661112",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34706_LYO-LINEN-MIX_LICORICE_1.jpg?v=1771849419",
+              "sourceUrl": "https://universalworks.com/products/licorice-lyo-linen-mix-coverall-jacket",
+              "sha256": "2db95395875918f4a4d86d7f4db6a5d23b019f8c80276251ff8b8a410a7a7521",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979285221752-image-75537006592376",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34706_Lyo-Linen_Mix-Licrorice_Model_2.jpg?v=1773399939",
+              "sourceUrl": "https://universalworks.com/products/licorice-lyo-linen-mix-coverall-jacket",
+              "sha256": "a3fc15452b4ca41d3dd8126181b82b62ac89a0dc290788474022777776a938e4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979285123448-image-75350974955896",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34702_kelly-cotton-black_1.jpg?v=1770114800",
+              "sourceUrl": "https://universalworks.com/products/black-kelly-cotton-glider-jacket",
+              "sha256": "9a8c1efc37b95fe00b83d6606e08a2ddcd9a8cf08487e25b7c1fd4fef961ae97",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979285123448-image-75495851819384",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34702_Kelly-cotton-black-model_2.jpg?v=1772639928",
+              "sourceUrl": "https://universalworks.com/products/black-kelly-cotton-glider-jacket",
+              "sha256": "e1b99cc21177310d46c6dd189213ccdb205adabbd55928586a3b82e09c1cbdff",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979284042104-image-75537775264120",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34657_herringbone-rec-washed-indigo_1.jpg?v=1773409417",
+              "sourceUrl": "https://universalworks.com/products/washed-indigo-recycled-herringbone-kyoto-work-jacket",
+              "sha256": "792c9858b329752e13f86fc4890dbb3af3e7186e6791ce5011e8d78451db4ce0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979284042104-image-75768249549176",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34657_Herringbone-Rec_Washed_Indigo_Model_2.jpg?v=1777301747",
+              "sourceUrl": "https://universalworks.com/products/washed-indigo-recycled-herringbone-kyoto-work-jacket",
+              "sha256": "076800036e0c419741d044a980f42a175d435a33b0f0afc0cad56defdbfb98d4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14997434433912-image-75537345806712",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/p34017_linen-slub-weave-navy_1.jpg?v=1773404320",
+              "sourceUrl": "https://universalworks.com/products/navy-linen-slub-weave-franck-jacket",
+              "sha256": "ccad1efd2315f16c90e1eff129653f2084c87b03b8708750c22b0fa0f9989431",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14997434433912-image-75768307089784",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/P34017_Linen-Slub-Weave-Navy_2_9f12dbaf-b7a6-4406-8038-0e6a231c28d7.jpg?v=1777302713",
+              "sourceUrl": "https://universalworks.com/products/navy-linen-slub-weave-franck-jacket",
+              "sha256": "589925110d10d656034e43801f1d5605e188b71f0587838831bc08617965d3a0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979269984632-image-75352468881784",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34702_kelly-cotton-olive_1.jpg?v=1770131914",
+              "sourceUrl": "https://universalworks.com/products/olive-kelly-cotton-glider-jacket",
+              "sha256": "29995f0241635acb6e1273eb61345680afa844a8316dfcb6d59c4480231842af",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979269984632-image-75536969073016",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34702_Kelly-Cotton-Olive_Model_2.jpg?v=1773399823",
+              "sourceUrl": "https://universalworks.com/products/olive-kelly-cotton-glider-jacket",
+              "sha256": "c1b22c13d3928ffd5222dd40c5b313143304be0a798013eb691d1a842676b3c7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979267133816-image-75429873025400",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34115_ospina-cotton-dark-navy_1.jpg?v=1771493281",
+              "sourceUrl": "https://universalworks.com/products/dark-navy-ospina-cotton-labour-jacket",
+              "sha256": "0e75eeeaf928ca96d7a056b4339962ea1b049c09537df5ec1059a471fcc6ae37",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979267133816-image-75429873058168",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34115_ospina-cotton-dark-navy_2.jpg?v=1773333232",
+              "sourceUrl": "https://universalworks.com/products/dark-navy-ospina-cotton-labour-jacket",
+              "sha256": "d3d963c9714ffacd82a893899691739951f69f4b05e5b190122b2772490cd26d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979266740600-image-75417401459064",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34114_kennedy-stripe-navy_1_101e87d0-64c9-47e2-b4ae-c2dfca061033.jpg?v=1771258394",
+              "sourceUrl": "https://universalworks.com/products/navy-kennedy-stripe-labour-jacket",
+              "sha256": "3aa6dfea9cb47240db9f32bc5ec999897be9c1f7ed7984c6c99020d80ce0e310",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979266740600-image-75492812718456",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34114_kennedy-stripe-navy_model_2.jpg?v=1772618298",
+              "sourceUrl": "https://universalworks.com/products/navy-kennedy-stripe-labour-jacket",
+              "sha256": "32356051f2a3ab85e3862923a83c8a2974391cd577f598fd9f5f9db8323a82a8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979266478456-image-75390232920440",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34110_ospina-cotton-dark-navy_1_6299679b-6eff-41a1-a3f1-8b667d3989bd.jpg?v=1770741049",
+              "sourceUrl": "https://universalworks.com/products/dark-navy-ospina-cotton-duty-jacket",
+              "sha256": "b6120e410c5057f787aad04f466822af8931556c971e7cd480015194b813a525",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979266478456-image-75532775883128",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34110_Ospina-Cotton-Dark-Navy_Model_2.jpg?v=1773333093",
+              "sourceUrl": "https://universalworks.com/products/dark-navy-ospina-cotton-duty-jacket",
+              "sha256": "8e38db71b20a5b333f0b9ec3cc3eeb52e82e1a3c2e312b32df5a7faa374079ae",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979266347384-image-75390220960120",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34109_organic-fine-cord-aqua_1_aaeb4dbc-7879-458a-8976-5fec0a092c06.jpg?v=1770740872",
+              "sourceUrl": "https://universalworks.com/products/aqua-organic-fine-cord-duty-jacket",
+              "sha256": "dc0899cfd0ab35cbfcbd961ca9b31d5b71b828549706b9d77042632e52aee2d8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979266347384-image-75532768477560",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34109_Organic-Fine-Cord-Aqua_Model_2.jpg?v=1773333010",
+              "sourceUrl": "https://universalworks.com/products/aqua-organic-fine-cord-duty-jacket",
+              "sha256": "fcfa0ffd4feffbf818aa9b8403df6edb80434e7f754b3c2dca3e207c8efda02e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979265855864-image-75460984471928",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34105_3D-flower-ecru_1_911f28d2-b509-48b7-a714-97ee220fd7f3.jpg?v=1772097206",
+              "sourceUrl": "https://universalworks.com/products/ecru-3d-flower-ns-bomber-jacket",
+              "sha256": "3c8d3ae12600c6d358c6f87503b4dbc8732b66c24969a5ef5c8a505bc369a420",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979265855864-image-75492736926072",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34105_3D-Flower_Ecru_Model_2.jpg?v=1772617982",
+              "sourceUrl": "https://universalworks.com/products/ecru-3d-flower-ns-bomber-jacket",
+              "sha256": "703265def2e7f74e96d52bcaa81e38ea561b8f670aede09dad312ce7a14ff17a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979315958136-image-75389429154168",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34514_summer-canvas-licorice_1_a5b6aa39-ffd0-4353-be4b-47c094d752c3.jpg?v=1770733324",
+              "sourceUrl": "https://universalworks.com/products/licorice-summer-canvas-manor-jacket",
+              "sha256": "65d29383abdca11a424eed1684f19a10489758cd20a262744b0fe6421da3bd5e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979315958136-image-75495573782904",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34514_Summer-Canvas_Licorice_Model_2.jpg?v=1772635482",
+              "sourceUrl": "https://universalworks.com/products/licorice-summer-canvas-manor-jacket",
+              "sha256": "6cf0c03b77c1148f1d75a5156aca6564f38cab427651e29ff256c02efdefdb78",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979274506616-image-75430141133176",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34527_SUMMER-CANVAS_LICORICE_1.jpg?v=1771497443",
+              "sourceUrl": "https://universalworks.com/products/licorice-summer-canvas-two-button-jacket",
+              "sha256": "c27686a26b8b3b27f625828938afdde10fd1ab24c1d34bd945c05a09085b98a3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979274506616-image-75495632765304",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34527_summer-canvas-two-button-jacket_model_2.jpg?v=1772636331",
+              "sourceUrl": "https://universalworks.com/products/licorice-summer-canvas-two-button-jacket",
+              "sha256": "05e75276a1fa944d31e5f371887cf059cdb62424cbcb4e24281e489169cdd6f6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979265724792-image-75366430998904",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34104_organic-poplin-brown_1.jpg?v=1770298443",
+              "sourceUrl": "https://universalworks.com/products/brown-peached-poplin-ns-bomber-jacket",
+              "sha256": "53889d058e5ca23677b4d6e8d481f5964b754c9aa9d7deb6e44814a8a2b4a484",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979265724792-image-75492734927224",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34104_Peached-Poplin_Brown_Model_2.jpg?v=1772617952",
+              "sourceUrl": "https://universalworks.com/products/brown-peached-poplin-ns-bomber-jacket",
+              "sha256": "3c1605175dfc5377091b31ef070ffd537d7bde69d8104e1c6b9e2e8ed1bf2e19",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-15021882769784-image-75817593602424",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34246_classic-nipon-stripe-navy_1.jpg?v=1778082033",
+              "sourceUrl": "https://universalworks.com/products/navy-classic-nipon-stripe-pyjama-pant",
+              "sha256": "5c2f7cba230300449cd92f6aac8eabd04f029f06c7833ae2cbc958d72c412537",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-15021882769784-image-75817593635192",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34246_classic-nipon-stripe-navy_2.jpg?v=1778082032",
+              "sourceUrl": "https://universalworks.com/products/navy-classic-nipon-stripe-pyjama-pant",
+              "sha256": "b81b7f1307a5bcf24d62b8e544be589a9758fc73be1189a9902a06332583faf5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalworks-14979266576760-image-75532779716984",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34112_Recycled-Poly-Tech-Olive_FL_1jpg.jpg?v=1773333149",
+              "sourceUrl": "https://universalworks.com/products/olive-recycled-poly-tech-jungle-jacket",
+              "sha256": "add507c39daa46fbfaaae144362ed5f93709e646dd7004efd4caddcdf760d079",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979265921400-image-75499387158904",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34106_Kennedy-Stripe-Navy_FL_1.jpg?v=1772713343",
+              "sourceUrl": "https://universalworks.com/products/navy-kennedy-stripe-boston-blazer",
+              "sha256": "3b01e5ca46cd6fcf87194078cc86ec2e7dcfdd38912e037b16f51cb29aaf599d",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979268608376-image-75492900536696",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34130_Kennedy-stripe-brown_model_1.jpg?v=1772619303",
+              "sourceUrl": "https://universalworks.com/products/brown-kennedy-stripe-duke-pant",
+              "sha256": "ce0a8f8558c5571b837ce4bc70e8816fd3501fff88720d4984980b4e53049571",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979287613816-image-75499474059640",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34228_Peached-Poplin-Brown_FL_1.jpg?v=1772714732",
+              "sourceUrl": "https://universalworks.com/products/brown-peached-poplin-franck-jacket",
+              "sha256": "c6b0316fdcdafae63ccc0b1de3cf71a93131247350842349a1777dd62ec97bf3",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979287187832-image-75768141807992",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34628_Herringbone-Rec-Washed-Indigo_FL_1.jpg?v=1777300048",
+              "sourceUrl": "https://universalworks.com/products/washed-indigo-recycled-herringbone-bakers-overshirt",
+              "sha256": "bf9a1bb19ee103028d94929af29af72757f52e67eae5772bf753aed3308b09bd",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979285221752-image-75537006526840",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34706_Lyo-Linen_Mix-Licrorice_FL_1.jpg?v=1773399939",
+              "sourceUrl": "https://universalworks.com/products/licorice-lyo-linen-mix-coverall-jacket",
+              "sha256": "6cdef26298daea032c662df5581be5cd96887bea2c8ec88f80c35b05b7195959",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979285123448-image-75495851786616",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34702_Kelly-cotton-black-model_1.jpg?v=1772639928",
+              "sourceUrl": "https://universalworks.com/products/black-kelly-cotton-glider-jacket",
+              "sha256": "d600100c3f954cc59692d5c5f76c776b9d6c7d300559186ca1f0b1ad09e8ef55",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979284042104-image-75768249483640",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34657_Herringbone-Rec_Washed_Indigo_FL_1.jpg?v=1777301747",
+              "sourceUrl": "https://universalworks.com/products/washed-indigo-recycled-herringbone-kyoto-work-jacket",
+              "sha256": "1ad35c0873f80e84922f2f9e9a1f7dc10520063ed454ba8a8f44b942da0b2f37",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14997434433912-image-75768307122552",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/P34017_Linen-Slub-Weave-Navy_FL_1.jpg?v=1777302712",
+              "sourceUrl": "https://universalworks.com/products/navy-linen-slub-weave-franck-jacket",
+              "sha256": "006ade0b4eab7cb69bdbaae55bb546c767af9e363ba53bdb43d23447663a0baa",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979269984632-image-75536969007480",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34702_Kelly-Cotton-Olive_FL_1.jpg?v=1773399823",
+              "sourceUrl": "https://universalworks.com/products/olive-kelly-cotton-glider-jacket",
+              "sha256": "ce02fccc59591073e05f12989a8b0cde382bcf0777e51ae630563e7b3f5e9fb1",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979266740600-image-75492812685688",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34114_kennedy-stripe-navy_model_1.jpg?v=1772618298",
+              "sourceUrl": "https://universalworks.com/products/navy-kennedy-stripe-labour-jacket",
+              "sha256": "b5f4ec380fbba690dd49c2f2f6add884e1dadd1f6b473f9e0573c7a6a729ea6b",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979266478456-image-75532775817592",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34110_Ospina-Cotton-Dark-Navy_FL_1.jpg?v=1773333093",
+              "sourceUrl": "https://universalworks.com/products/dark-navy-ospina-cotton-duty-jacket",
+              "sha256": "844c7b7aa908b93cc504dc53522f7e7ba0d8d591ef8d31ed989067af6af1ceec",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979266347384-image-75532768412024",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34109_Organic-Fine-Cord-Aqua_FL_1.jpg?v=1773333010",
+              "sourceUrl": "https://universalworks.com/products/aqua-organic-fine-cord-duty-jacket",
+              "sha256": "021cb327c7c7d509221c75f6cc47426e3b550b07dca83f2c59fdd3265901f3f4",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979265855864-image-75499384865144",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34105_3D-Flower_Ecru_Model_FL_1.jpg?v=1772713308",
+              "sourceUrl": "https://universalworks.com/products/ecru-3d-flower-ns-bomber-jacket",
+              "sha256": "ed68d64d157dbf05dd159db53464fb4ca03fab0f477595b891abbc5c9323334d",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979315958136-image-75495573750136",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34514_Summer-Canvas_Licorice_Model_1.jpg?v=1772635482",
+              "sourceUrl": "https://universalworks.com/products/licorice-summer-canvas-manor-jacket",
+              "sha256": "f8d04fe18ae590249b1f66d80c67020a3dd5e304895fa2f09e1ec3c61d22162e",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979274506616-image-75499928846712",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34527_summer-canvas-two-button-jacket_FL_1.jpg?v=1772718942",
+              "sourceUrl": "https://universalworks.com/products/licorice-summer-canvas-two-button-jacket",
+              "sha256": "5c7b003e39b915ab73ef9f0cde9bf33bf534559ed82054f9081eda8dee9200b9",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            },
+            {
+              "id": "universalworks-14979265724792-image-75499382964600",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/34104_Peached-Poplin_Brown_Model_FL_1.jpg?v=1772713266",
+              "sourceUrl": "https://universalworks.com/products/brown-peached-poplin-ns-bomber-jacket",
+              "sha256": "a2483bdf84c63b66207f4ddf3d146ed7b5b05ceb3c89aeb840f019784e3df215",
+              "outcome": "downloaded-unique",
+              "selectionPass": "alternate-gallery"
+            }
+          ],
+          "downloadedUnique": 57
         }
       ]
     }

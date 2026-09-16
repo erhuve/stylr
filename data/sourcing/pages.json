@@ -6961,6 +6961,302 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-chive",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278757925183-image-53191219806527",
+      "onebone-10278757925183-image-53191219904831",
+      "onebone-10278757925183-image-53191220166975"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-taupe",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278760907071-image-53191210271039",
+      "onebone-10278760907071-image-53191210500415",
+      "onebone-10278760907071-image-53191210533183"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-burgundy",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477703004479-image-53955731226943",
+      "onebone-10477703004479-image-53955731259711",
+      "onebone-10477703004479-image-53955731358015"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-burgundy-copy",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477706740031-image-53959440892223",
+      "onebone-10477706740031-image-53959440924991",
+      "onebone-10477706740031-image-53959440957759"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/bullet-tee-burgundy",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477688815935-image-53955740467519",
+      "onebone-10477688815935-image-53955740533055",
+      "onebone-10477688815935-image-53955740565823"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/bullet-tee-deep-green",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-9710458110271-image-53959471464767",
+      "onebone-9710458110271-image-53959471497535",
+      "onebone-9710458110271-image-53959471563071"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/bullet-tee-eiffel-blue",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477688979775-image-53955717660991",
+      "onebone-10477688979775-image-53955717726527",
+      "onebone-10477688979775-image-53955717759295"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/chino-pant-bone",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278594511167-image-53191280427327",
+      "onebone-10278594511167-image-53191283540287"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/daily-short-black",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278584189247-image-53191239303487",
+      "onebone-10278584189247-image-53191239336255"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/daily-short-khaki",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278589563199-image-53191270334783",
+      "onebone-10278589563199-image-53191270531391"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/l-s-split-hem-cotton-95-5-blue-haze",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477718569279-image-53959477723455",
+      "onebone-10477718569279-image-53959477821759",
+      "onebone-10477718569279-image-53959481229631"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-navy-blazer",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278582321471-image-53191229997375",
+      "onebone-10278582321471-image-53191230030143",
+      "onebone-10278582321471-image-53191237796159"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-blue-haze",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477710999871-image-53955685220671",
+      "onebone-10477710999871-image-53955685286207",
+      "onebone-10477710999871-image-53955685318975"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-crimson-red",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477707559231-image-53955701866815",
+      "onebone-10477707559231-image-53955701899583",
+      "onebone-10477707559231-image-53955701965119"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-pine",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477714440511-image-53955712287039",
+      "onebone-10477714440511-image-53955712319807",
+      "onebone-10477714440511-image-53955712418111"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/short-sleeve-hoodie-army-green-1",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10417577787711-image-53959483556159",
+      "onebone-10417577787711-image-53959483588927",
+      "onebone-10417577787711-image-53959483621695"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/short-sleeve-hoodie-black",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-9988815257919-image-53959558463807",
+      "onebone-9988815257919-image-53959558496575",
+      "onebone-9988815257919-image-53959558529343"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-eiffel-blue",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477702414655-image-53959444037951",
+      "onebone-10477702414655-image-53959444103487",
+      "onebone-10477702414655-image-53959444136255"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/the-motion-short",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278752911679-image-53468130771263",
+      "onebone-10278752911679-image-53468130935103"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/v-neck-pine",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10477722894655-image-53959447085375",
+      "onebone-10477722894655-image-53959447118143",
+      "onebone-10477722894655-image-53959447216447"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://pettilia.com/products/cotton-plus-size-lolita-blouse-peter-pan-collar",
     "source": "pettilia",
     "candidateIds": [
@@ -13987,6 +14283,286 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://tombolocompany.com/products/big-brut-cabana-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056530595900-image-36624470048828",
+      "tombolo-9056530595900-image-38211031793724"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/boston-whaler-board-shorts-navy-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056526467132-image-42304768540732",
+      "tombolo-9056526467132-image-43266233106492"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/boston-whaler-board-shorts-white-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056526499900-image-42304761692220",
+      "tombolo-9056526499900-image-43266324955196"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/boston-whaler-cardigan-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056527122492-image-43438738931772",
+      "tombolo-9056527122492-image-43593405923388"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/boston-whaler-double-pleated-shorts-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056526630972-image-42265255313468",
+      "tombolo-9056526630972-image-43266805989436"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/crouching-tiger-hidden-beverage-cabana-shorts-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9073372168252-image-32016982736956",
+      "tombolo-9073372168252-image-48319010537532"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-brown-corduroy-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056528072764-image-38041226739772",
+      "tombolo-9056528072764-image-38061382729788"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-brown-corduroy-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056527908924-image-38025630777404",
+      "tombolo-9056527908924-image-38061395116092"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-navy-corduroy-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056527941692-image-37872938713148",
+      "tombolo-9056527941692-image-38025666887740"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-saffron-corduroy-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056528007228-image-37872956047420",
+      "tombolo-9056528007228-image-38025730719804"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-shorts-navy-linen-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056527351868-image-40755580371004",
+      "tombolo-9056527351868-image-40851389874236"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-tuxedo-jacket-black-linen-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056527253564-image-40850017878076",
+      "tombolo-9056527253564-image-40850018009148"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/featherweight-resort-shirt-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056526762044-image-42846656102460",
+      "tombolo-9056526762044-image-42847979536444"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/fifa-world-cup-2026\u2122-lady-liberty-cabana-long-sleeve-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056525385788-image-46773803647036",
+      "tombolo-9056525385788-image-48125321314364"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/fifa-world-cup-2026\u2122-lady-liberty-souvenir-jacket-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056525353020-image-47773407281212",
+      "tombolo-9056525353020-image-47895296114748"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/le-sirenuse-75th-anniversary-terry-tee-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056524763196-image-46558074601532",
+      "tombolo-9056524763196-image-47603566706748"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/mulligan-golf-cabana-shorts-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056531677244-image-31706893090876",
+      "tombolo-9056531677244-image-48319128600636"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/snl-1976-shirt-public-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056527777852-image-44071680245820",
+      "tombolo-9056527777852-image-46258866847804"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/snl-souvenir-jacket-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056527712316-image-39832190517308",
+      "tombolo-9056527712316-image-46247681327164"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/snl-souvenir-terry-tee-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056526598204-image-46247640367164",
+      "tombolo-9056526598204-image-46467181051964"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://trippnyc.com/products/baby-tee-fishnet",
     "source": "trippnyc",
     "candidateIds": [
@@ -14656,6 +15232,303 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/aqua-organic-fine-cord-duty-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979266347384-image-75390220960120",
+      "universalworks-14979266347384-image-75532768412024",
+      "universalworks-14979266347384-image-75532768477560"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/black-kelly-cotton-glider-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979285123448-image-75350974955896",
+      "universalworks-14979285123448-image-75495851786616",
+      "universalworks-14979285123448-image-75495851819384"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/brown-kennedy-stripe-duke-pant",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979268608376-image-75417386090872",
+      "universalworks-14979268608376-image-75492900536696",
+      "universalworks-14979268608376-image-75492900569464"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/brown-peached-poplin-franck-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979287613816-image-75326579474808",
+      "universalworks-14979287613816-image-75493245124984",
+      "universalworks-14979287613816-image-75499474059640"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/brown-peached-poplin-ns-bomber-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979265724792-image-75366430998904",
+      "universalworks-14979265724792-image-75492734927224",
+      "universalworks-14979265724792-image-75499382964600"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/dark-navy-ospina-cotton-duty-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979266478456-image-75390232920440",
+      "universalworks-14979266478456-image-75532775817592",
+      "universalworks-14979266478456-image-75532775883128"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/dark-navy-ospina-cotton-labour-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979267133816-image-75429873025400",
+      "universalworks-14979267133816-image-75429873058168"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/ecru-3d-flower-ns-bomber-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979265855864-image-75460984471928",
+      "universalworks-14979265855864-image-75492736926072",
+      "universalworks-14979265855864-image-75499384865144"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/licorice-lyo-linen-mix-coverall-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979285221752-image-75447628661112",
+      "universalworks-14979285221752-image-75537006526840",
+      "universalworks-14979285221752-image-75537006592376"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/licorice-summer-canvas-manor-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979315958136-image-75389429154168",
+      "universalworks-14979315958136-image-75495573750136",
+      "universalworks-14979315958136-image-75495573782904"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/licorice-summer-canvas-two-button-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979274506616-image-75430141133176",
+      "universalworks-14979274506616-image-75495632765304",
+      "universalworks-14979274506616-image-75499928846712"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/navy-classic-nipon-stripe-pyjama-pant",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-15021882769784-image-75817593602424",
+      "universalworks-15021882769784-image-75817593635192"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/navy-kennedy-stripe-boston-blazer",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979265921400-image-75417399656824",
+      "universalworks-14979265921400-image-75492742267256",
+      "universalworks-14979265921400-image-75499387158904"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/navy-kennedy-stripe-labour-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979266740600-image-75417401459064",
+      "universalworks-14979266740600-image-75492812685688",
+      "universalworks-14979266740600-image-75492812718456"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/navy-linen-slub-weave-franck-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14997434433912-image-75537345806712",
+      "universalworks-14997434433912-image-75768307089784",
+      "universalworks-14997434433912-image-75768307122552"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/olive-kelly-cotton-glider-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979269984632-image-75352468881784",
+      "universalworks-14979269984632-image-75536969007480",
+      "universalworks-14979269984632-image-75536969073016"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/olive-recycled-poly-tech-jungle-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979266576760-image-75451674657144",
+      "universalworks-14979266576760-image-75532779716984",
+      "universalworks-14979266576760-image-75532779782520"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/universal-works-bakers-jacket-in-navy-linen-slub-weave",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14867351994744-image-73696981909880",
+      "universalworks-14867351994744-image-73696981942648"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/washed-indigo-recycled-herringbone-bakers-overshirt",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979287187832-image-75549816881528",
+      "universalworks-14979287187832-image-75768141775224",
+      "universalworks-14979287187832-image-75768141807992"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/washed-indigo-recycled-herringbone-kyoto-work-jacket",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14979284042104-image-75537775264120",
+      "universalworks-14979284042104-image-75768249483640",
+      "universalworks-14979284042104-image-75768249549176"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {

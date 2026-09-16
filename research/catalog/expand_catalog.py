@@ -21,6 +21,9 @@ import os
 ROOT = Path(os.environ['STYLR_INTAKE_ROOT']).resolve()
 BATCH = ROOT / 'expansion-2026-09-15'
 SOURCES = {
+    'onebone': ('onebonebrand.com', 'Casual layers / broader-build source'),
+    'tombolo': ('tombolocompany.com', 'Cabana ensembles / patterned resortwear'),
+    'universalworks': ('universalworks.com', 'Workwear / casual tailoring'),
     'foxblood': ('foxblood.com', 'Dark everyday / draped layers'),
     'forestink': ('forestinkclothing.com', 'Goth / punk / dark romantic'),
     'trippnyc': ('trippnyc.com', 'Punk / industrial / wide silhouettes'),

@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 2130,
-  "admittedPhotos": 1545,
-  "totalPhotos": 1930,
+  "reviewedCandidates": 2283,
+  "admittedPhotos": 1585,
+  "totalPhotos": 1970,
   "axisSupport": {
-    "build": 1327,
+    "build": 1361,
     "shoulderHip": 201,
     "waist": 370
   },
   "completeReferences": 158,
-  "sourcePages": 1083,
+  "sourcePages": 1122,
   "excludedReasons": {
-    "non-outfit-view": 527,
+    "non-outfit-view": 640,
     "existing-source-page": 58
   },
   "excluded": [
@@ -2352,6 +2352,458 @@
     },
     {
       "id": "snag-7833245876266-image-36287730876458",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9710458110271-image-53959471497535",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9710458110271-image-53959471563071",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477722894655-image-53959447085375",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477722894655-image-53959447216447",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477718569279-image-53959481229631",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477718569279-image-53959477821759",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477714440511-image-53955712418111",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477714440511-image-53955712287039",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477710999871-image-53955685286207",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477710999871-image-53955685318975",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477707559231-image-53955701899583",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477707559231-image-53955701965119",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477706740031-image-53959440924991",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477706740031-image-53959440957759",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477703004479-image-53955731259711",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477703004479-image-53955731358015",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477702414655-image-53959444103487",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477702414655-image-53959444136255",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477688979775-image-53955717726527",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477688979775-image-53955717759295",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477688815935-image-53955740533055",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477688815935-image-53955740565823",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10417577787711-image-53959483588927",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10417577787711-image-53959483621695",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9988815257919-image-53959558529343",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9988815257919-image-53959558496575",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10278582321471-image-53191230030143",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10278582321471-image-53191229997375",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10278752911679-image-53468130771263",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10278589563199-image-53191270334783",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10278584189247-image-53191239336255",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10278760907071-image-53191210271039",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10278760907071-image-53191210533183",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10278757925183-image-53191219904831",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10278757925183-image-53191220166975",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056531677244-image-48319128600636",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9073372168252-image-48319010537532",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056530595900-image-36624470048828",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527122492-image-43438738931772",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056524763196-image-46558074601532",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056524763196-image-47603566706748",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056525353020-image-47773407281212",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056525385788-image-48125321314364",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056525385788-image-46773803647036",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526467132-image-42304768540732",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526467132-image-43266233106492",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526499900-image-42304761692220",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526499900-image-43266324955196",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526630972-image-42265255313468",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526630972-image-43266805989436",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526598204-image-46467181051964",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526598204-image-46247640367164",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526762044-image-42847979536444",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056526762044-image-42846656102460",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527253564-image-40850017878076",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527253564-image-40850018009148",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527351868-image-40851389874236",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527712316-image-39832190517308",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527712316-image-46247681327164",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527777852-image-44071680245820",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527777852-image-46258866847804",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527908924-image-38061395116092",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527908924-image-38025630777404",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056527941692-image-37872938713148",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056528072764-image-38061382729788",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056528007228-image-37872956047420",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tombolo-9056528007228-image-38025730719804",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14867351994744-image-73696981942648",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14867351994744-image-73696981909880",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979266576760-image-75451674657144",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979266576760-image-75532779782520",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979265921400-image-75417399656824",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979265921400-image-75492742267256",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979268608376-image-75417386090872",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979268608376-image-75492900569464",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979287613816-image-75326579474808",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979287613816-image-75493245124984",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979287187832-image-75549816881528",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979287187832-image-75768141775224",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979285221752-image-75447628661112",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979285221752-image-75537006592376",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979285123448-image-75350974955896",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979285123448-image-75495851819384",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979284042104-image-75537775264120",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979284042104-image-75768249549176",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14997434433912-image-75537345806712",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14997434433912-image-75768307089784",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979269984632-image-75352468881784",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979269984632-image-75536969073016",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979267133816-image-75429873025400",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979267133816-image-75429873058168",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979266740600-image-75417401459064",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979266740600-image-75492812718456",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979266478456-image-75390232920440",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979266478456-image-75532775883128",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979266347384-image-75390220960120",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979266347384-image-75532768477560",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979265855864-image-75460984471928",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979265855864-image-75492736926072",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979315958136-image-75389429154168",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979315958136-image-75495573782904",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979274506616-image-75430141133176",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979274506616-image-75495632765304",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979265724792-image-75366430998904",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979265724792-image-75492734927224",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-15021882769784-image-75817593602424",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-15021882769784-image-75817593635192",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477710999871-image-53955685220671",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477707559231-image-53955701866815",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477703004479-image-53955731226943",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477702414655-image-53959444037951",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477688979775-image-53955717660991",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10477688815935-image-53955740467519",
       "reason": "non-outfit-view"
     }
   ]

@@ -1,24 +1,24 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 1930,
-  "reviewedPhotos": 1930,
+  "catalogPhotos": 1970,
+  "reviewedPhotos": 1970,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 249,
-      "percent": 12.9,
-      "sourcePages": 190,
-      "sourceHosts": 17,
+      "photos": 275,
+      "percent": 14,
+      "sourcePages": 216,
+      "sourceHosts": 20,
       "completeReferences": 24,
       "byBuild": {
         "1": 3,
         "2": 27,
-        "3": 33,
+        "3": 36,
         "unknown": 67,
         "2.5": 24,
-        "1.5": 95
+        "1.5": 118
       },
       "completeByBuild": {
         "1": 1,
@@ -31,7 +31,7 @@
     {
       "presentation": "feminine",
       "photos": 1091,
-      "percent": 56.5,
+      "percent": 55.4,
       "sourcePages": 698,
       "sourceHosts": 21,
       "completeReferences": 106,
@@ -54,7 +54,7 @@
     {
       "presentation": "mixed-androgynous",
       "photos": 30,
-      "percent": 1.6,
+      "percent": 1.5,
       "sourcePages": 23,
       "sourceHosts": 9,
       "completeReferences": 2,
@@ -70,17 +70,17 @@
     },
     {
       "presentation": "unclear",
-      "photos": 560,
-      "percent": 29,
-      "sourcePages": 464,
-      "sourceHosts": 23,
+      "photos": 574,
+      "percent": 29.1,
+      "sourcePages": 477,
+      "sourceHosts": 25,
       "completeReferences": 68,
       "byBuild": {
         "1": 7,
         "2": 42,
-        "3": 104,
+        "3": 112,
         "1.5": 182,
-        "unknown": 174,
+        "unknown": 180,
         "2.5": 51
       },
       "completeByBuild": {
@@ -971,6 +971,66 @@
       ]
     },
     {
+      "host": "onebonebrand.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 2,
+          "percent": 13.3,
+          "sourcePages": 2,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "3": 2
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 13,
+          "percent": 86.7,
+          "sourcePages": 12,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "3": 8,
+            "unknown": 5
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
       "host": "pettilia.com",
       "categories": [
         {
@@ -1477,6 +1537,64 @@
       ]
     },
     {
+      "host": "tombolocompany.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 8,
+          "percent": 100,
+          "sourcePages": 8,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "3": 1,
+            "1.5": 7
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
       "host": "trippnyc.com",
       "categories": [
         {
@@ -1603,6 +1721,65 @@
             "unknown": 8,
             "1.5": 4,
             "2.5": 5
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "universalworks.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 16,
+          "percent": 94.1,
+          "sourcePages": 16,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 16
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 1,
+          "percent": 5.9,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "unknown": 1
           },
           "completeByBuild": {}
         },
