@@ -12,4 +12,6 @@ Five bounded listing snapshots cover 1,162 product rows and at most 15 newly sel
 
 ## Validation status
 
-Admission replay, presentation bindings with zero missing reviews, original-photo identity and prior-record preservation pass. Typecheck, all 130 unit tests and all 86 browser checks pass. Release-count assertions were updated without removing validation. The 53-photo continuation is ready for private deployment.
+Admission replay, presentation bindings with zero missing reviews, original-photo identity and prior-record preservation pass. Typecheck, all 130 unit tests and all 86 browser checks pass. Release-count assertions were updated without removing validation.
+
+The continuation data release `fdc3fee` is pushed to `personal-discovery` and privately deployed. Production now contains all 3,139 photos. All eight live-production browser checks pass again, all 2,754 expansion assets served by production match their reviewed hashes, and production HTML matches the isolated verified build. The external site still redirects unauthenticated requests to owner sign-in. The original 385 assets are unchanged and passed the isolated full asset checks; the served-hash sweep specifically covers the 2,754 expansion assets. No new complete body references were claimed or matching tolerances changed.
