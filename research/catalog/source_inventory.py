@@ -1,4 +1,5 @@
 import json
+import subprocess
 from collections import defaultdict
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -19,6 +20,7 @@ def key(url):
 
 
 def inventory():
+    subprocess.run(['bun', str(REPO / 'scripts/audit-presentation.ts')], cwd=REPO, check=True)
     manifests = [DATA / 'baseline.json', DATA / 'intake.json']
     manifests += sorted((DATA / 'batches').glob('*/intake.json'))
     source_names = {urlsplit(row['sourceUrl']).netloc.removeprefix('www.'): row['source'] for manifest in manifests for row in read(manifest) if row.get('source')}
@@ -69,6 +71,7 @@ def inventory():
     lines = ['# Sourcing coverage', '', 'Generated from committed manifests by `research/catalog/source_inventory.py`.', '', 'Counts are photographs and source pages, not distinct people. Review/admission yields cover the expansion only; the 385 baseline photos have separate historical annotation formats. Deferred pages were text-eligible in the recorded snapshot, not visually reviewed or guaranteed still available. A short response is not proof a retailer is exhausted.', '', '| Source | Sampled pages | Candidate images | Reviewed expansion | Admitted expansion | Complete expansion | Deferred pages |', '| --- | ---: | ---: | ---: | ---: | ---: | ---: |']
     for row in summaries:
         lines.append('| ' + ' | '.join(str(value) for value in row.values()) + ' |')
+    lines += ['', '## Presentation coverage', '', 'The image-bound presentation audit is refreshed with this inventory. Read `../presentation/coverage.md` for admitted photos, source breadth and complete body references by visible styling and build. Extensive masculine and feminine coverage matters; exact parity is not required. Prioritize the current masculine full-outfit gap. Missing reviews remain explicit; run `bun scripts/audit-presentation.ts --check --require-complete` before completing a batch.']
     lines += ['', '## Next sourcing pass', '', 'Start with `next-pages.json`: exact source URLs, listing URLs and the manifest that observed them. Prioritize sources with useful complete-reference yield and gaps in style coverage. Use the collector again to refresh listings and skip every committed sampled page, including rejected views. Failed downloads are retry candidates recorded in sources.json; they are not successful samples.', '', 'Historical runs retain their original scope. Older runs did not record every skipped product; their absent decisions remain unknown. `pages.json` backfills only provably sampled pages, with links to the manifests containing each image ID. Raw provider responses remain in the external corpus; new run pages include snapshot hashes.']
     (OUTPUT / 'coverage.md').write_text('\n'.join(lines) + '\n')
     print(json.dumps({'sampledPages': len(pages), 'deferredPages': len(deferred), 'sources': len(summaries), 'recordedRuns': len(runs)}))

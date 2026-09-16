@@ -21,6 +21,12 @@ Latest targeted intake: 178 new candidates from Forest Ink, Snag, Shiny by Natur
 
 Images are copied byte-for-byte, not regenerated. Photo assets and contact sheets remain outside Git. Generated asset records retain original download URLs and image digests. `licenseUrl` for new records links to the source page for inspection and makes no independent permission claim. Clothing range, frame, footwear and bottom annotations remain unknown where not explicitly reviewed. Empty feature arrays are intentional. The coarse `family` field is explicitly `unknown` for additions; reviewed style information lives in dimensions. Retailer/product text does not become body or comfort labels.
 
+## Presentation coverage
+
+The September 16 audit directly inspected all 1,872 repository photos and bound visible outfit-presentation observations to exact image IDs/digests in `data/presentation/review.json`. The rubric, rereview history, source/build cross-tabs and limitations live alongside it. Counts are 233 masculine, 1,071 feminine, 29 mixed/androgynous and 539 unclear; complete body references are 24/106/2/67. These are subjective styling observations, not inferred gender identity or unique models.
+
+The user clarified that extensive coverage of both presentations matters, not exact parity. Future sourcing prioritizes masculine full-outfit references across builds while retaining feminine, mixed and unclear looks. `source_inventory.py` refreshes the presentation report; `bun scripts/audit-presentation.ts --check --require-complete` validates image bindings, report freshness and complete review coverage before a batch is marked complete. The audit does not change body labels, matching rules, clustering or the app UI.
+
 ## Where clustering fits
 
 The earlier `Documents/stylr-shape-clustering` experiment tried pose landmarks and silhouette ratios. Clothing and pose made those unreliable for body ordering. Its second iteration used MediaPipe segmentation, head-blanked grayscale crops and CLIP image embeddings, then calibrated an apparent-build ranking against 96 directly reviewed calibration images. A separate 48-image confirmation set tested the ranking. It ordered 99/125 clearly separated pairs correctly (79.2%), but did not establish reliable absolute sizing or person-independent generalization.

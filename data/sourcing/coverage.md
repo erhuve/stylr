@@ -31,6 +31,10 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | wear | 60 | 60 | 60 | 60 | 0 | 0 |
 | wildfang | 66 | 132 | 105 | 75 | 13 | 121 |
 
+## Presentation coverage
+
+The image-bound presentation audit is refreshed with this inventory. Read `../presentation/coverage.md` for admitted photos, source breadth and complete body references by visible styling and build. Extensive masculine and feminine coverage matters; exact parity is not required. Prioritize the current masculine full-outfit gap. Missing reviews remain explicit; run `bun scripts/audit-presentation.ts --check --require-complete` before completing a batch.
+
 ## Next sourcing pass
 
 Start with `next-pages.json`: exact source URLs, listing URLs and the manifest that observed them. Prioritize sources with useful complete-reference yield and gaps in style coverage. Use the collector again to refresh listings and skip every committed sampled page, including rejected views. Failed downloads are retry candidates recorded in sources.json; they are not successful samples.

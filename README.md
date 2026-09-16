@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Presentation audit: all 1,872 repository images reviewed; 233 masculine, 1,071 feminine, 29 mixed/androgynous and 539 unclear outfits. `data/presentation/coverage.md` records source/build coverage and complete references. These are styling observations, not gender or unique-model counts. Future sourcing prioritizes extensive coverage of both presentations, with masculine full-outfit references the current gap; exact parity is not required.
+
 Current catalog (2026-09-16 afternoon): 1,872 photos and 199 complete three-axis references. Three new batches review 380 candidates and add 165 photographs; the broader-build example has 37 matches. These additions are not deployed; the private site remains at 1,707 photos and 33 example matches. `data/sourcing/README.md` documents sampled and deferred pages, provenance and source yields. See `docs/verification/afternoon-sourcing.md` for the latest verification and scheduled continuation, and `docs/verification/sourcing-continuation.md` for the previous deployment. Offline sourcing and clustering code lives in `research/`; see `research/README.md`.
 
 Deployment status (2026-09-14): privately published with approval. Six smoke tests passed against the live production server: four viewport checks plus real mouse and touch gestures. Unauthenticated requests to the homepage, illustrated route and a photo asset redirect to Zo sign-in. Use the published URL instead of depending on development-preview recovery; do not manually start a server or overwrite the project.
