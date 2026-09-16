@@ -1,0 +1,61 @@
+{
+  "retrievedAt": "2026-09-16T17:19:08.666249+00:00",
+  "scope": "Five sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "forestink",
+      "pages": [
+        {
+          "url": "https://forestinkclothing.com/products.json?limit=250&page=1",
+          "products": 149
+        }
+      ],
+      "errors": [],
+      "downloadedUnique": 24
+    },
+    {
+      "source": "snag",
+      "pages": [
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=1",
+          "products": 250
+        }
+      ],
+      "errors": [],
+      "downloadedUnique": 24
+    },
+    {
+      "source": "shinybynature",
+      "pages": [
+        {
+          "url": "https://shinybynature.com/products.json?limit=250&page=1",
+          "products": 100
+        }
+      ],
+      "errors": [],
+      "downloadedUnique": 24
+    },
+    {
+      "source": "foxblood",
+      "pages": [
+        {
+          "url": "https://foxblood.com/products.json?limit=250&page=1",
+          "products": 250
+        }
+      ],
+      "errors": [],
+      "downloadedUnique": 24
+    },
+    {
+      "source": "midnighthour",
+      "pages": [
+        {
+          "url": "https://www.midnighthour.com/products.json?limit=250&page=1",
+          "products": 250
+        }
+      ],
+      "errors": [],
+      "downloadedUnique": 22
+    }
+  ]
+}

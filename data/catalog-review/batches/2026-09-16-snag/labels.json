@@ -1,0 +1,962 @@
+[
+  {
+    "id": "snag-7480973819946-image-33016943050794",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/pj-t-shirt-polar-bears",
+    "localPath": "images/snag-7480973819946-image-33016943050794.webp",
+    "sha256": "08afd214feb519b61a2e5e25b5eb1ad9c514143cf93c0522f258884395d1b9f1",
+    "ordinal": 0,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad arms and torso visible in polar-bear pajamas; loose fabric hides shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7480973819946-image-33016942919722",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/pj-t-shirt-polar-bears",
+    "localPath": "images/snag-7480973819946-image-33016942919722.webp",
+    "sha256": "9bccb7124afd3d47edc0750f90ab0e8f9517ec86e61fa7829662fe72b02c45fd",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated raised-arm variant of admitted pajama outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833250103338-image-36704054771754",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/midaxi-mesh-skirt-lavender-fields",
+    "localPath": "images/snag-7833250103338-image-36704054771754.webp",
+    "sha256": "676c57157ba82a8bdc7edb5a10390da3d186c5a2579ef5880a98ba6d244f60fa",
+    "ordinal": 2,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Broad arms and fitted lavender top show moderate waist; tulle skirt obscures hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833250103338-image-36287734317098",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/midaxi-mesh-skirt-lavender-fields",
+    "localPath": "images/snag-7833250103338-image-36287734317098.webp",
+    "sha256": "89b1cb40b2b1f6b432e1f7b1127f54ddf5c8b87ab7a0dc7de57f8164de97f3fd",
+    "ordinal": 3,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tulle skirt product crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7762289885226-image-35739775139882",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/wrap-around-dress-nebula-blue-gold",
+    "localPath": "images/snag-7762289885226-image-35739775139882.webp",
+    "sha256": "19d67c063d48497ff7a8849f1039ff69b5ff789c8ccfd222c6811a3c6cae6623",
+    "ordinal": 4,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Fitted galaxy wrap bodice supports build and moderate waist; flared skirt and bag obscure hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7762289885226-image-35490385362986",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/wrap-around-dress-nebula-blue-gold",
+    "localPath": "images/snag-7762289885226-image-35490385362986.webp",
+    "sha256": "d2c35f7aaa05f2c1a005d5365915bacc8697dc180bd47afb21a4628403aafdc3",
+    "ordinal": 5,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Upper torso supports fuller-intermediate build; empire wrap and skirt hide natural waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7716172103722-image-35080727265322",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/dress-mini-bell-sleeve-corra-foliage",
+    "localPath": "images/snag-7716172103722-image-35080727265322.webp",
+    "sha256": "34b93b52499c519393d100c29b260e6e7913be8ba692c38c4ddf250cf94309f7",
+    "ordinal": 6,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible torso and upper arms support build; belt and flared printed dress shape contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7716172103722-image-35080727363626",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/dress-mini-bell-sleeve-corra-foliage",
+    "localPath": "images/snag-7716172103722-image-35080727363626.webp",
+    "sha256": "76f867c4c74c5608837fc1ce90af406a6308de55d991d8b2282a41596d707458",
+    "ordinal": 7,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close belt and dress print detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7716171907114-image-35080725987370",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mesh-top-corra-black",
+    "localPath": "images/snag-7716171907114-image-35080725987370.webp",
+    "sha256": "8a40d26925e728850b83975b607ba52b308bf1579c02626de8106d05d19c62be",
+    "ordinal": 8,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow torso and arms; crossed arms and cropped hips prevent shape observation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7716171907114-image-35080726052906",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mesh-top-corra-black",
+    "localPath": "images/snag-7716171907114-image-35080726052906.webp",
+    "sha256": "a123511cac4ab96b7ab76a7481b5e3bf59088c6bae607790853b3c2bcb5a4c24",
+    "ordinal": 9,
+    "view": "seated",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Upper torso and arm support build; seated skirt distorts hips and waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7287552770090-image-35319974985770",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/high-lady-acotar-t-shirt",
+    "localPath": "images/snag-7287552770090-image-35319974985770.webp",
+    "sha256": "21b674d4e98b629f914ea8087487992298d5f1321540557eef159bb37aaa6cd7",
+    "ordinal": 10,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear graphic shirt view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7287552770090-image-31761169186858",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/high-lady-acotar-t-shirt",
+    "localPath": "images/snag-7287552770090-image-31761169186858.webp",
+    "sha256": "c669dc9715cda17b05d16a5eb90575dd0909b7447b81a6953505a9fbc0272e52",
+    "ordinal": 11,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear overhead seated shirt view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986849513514-image-37407424315434",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/6-pack-neutral-essentials-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986849513514-image-37407424315434.webp",
+    "sha256": "8a310e103a2a785d97bd37e525dc980fd7e4b345f2a9ad73e6e8b3d6347bb081",
+    "ordinal": 12,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multi-image promotional collage, not single outfit reference.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986849513514-image-37394611961898",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/6-pack-neutral-essentials-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986849513514-image-37394611961898.webp",
+    "sha256": "e94607e9683e9a1d4778dd4db5c712698876849d0fe808cab3145dba5de94736",
+    "ordinal": 13,
+    "view": "seated",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Exposed legs and torso support build; structured plaid dress and seated pose obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986849349674-image-37394606850090",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-pastel-bundle-stay-cool-chub-rub-shorts-1",
+    "localPath": "images/snag-7986849349674-image-37394606850090.webp",
+    "sha256": "58a25d5bbf21e011eea0fe89707cd1a9ed817b60d205325aba8a8b2ed6dcaee3",
+    "ordinal": 14,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Promotional collage of cropped garments.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986849349674-image-37394606915626",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-pastel-bundle-stay-cool-chub-rub-shorts-1",
+    "localPath": "images/snag-7986849349674-image-37394606915626.webp",
+    "sha256": "45cbd881bcccf578b09b3244fc89b190bfb82a9cd423d1573b97329acd8775a6",
+    "ordinal": 15,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and legs support narrow-intermediate build; walking pose and loose pink layers hide shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986849251370-image-37529926762538",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-colourful-vibes-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986849251370-image-37529926762538.webp",
+    "sha256": "db2eebd5f24a94313037298dd1f09473a08c202478089503f954dbc2ee7ee12a",
+    "ordinal": 16,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multi-outfit promotional collage.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986849251370-image-37394605473834",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-colourful-vibes-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986849251370-image-37394605473834.webp",
+    "sha256": "4e7ffba4b2a4509cb0fc9d1c596dc558c7a371b80186accb6d73f2cacc3c669d",
+    "ordinal": 17,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and legs support build; open leopard dress held outward hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986849120298-image-37529929318442",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-gothic-vibes-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986849120298-image-37529929318442.webp",
+    "sha256": "52be34c6044b2296ebb6595a2422952bbedcc5b1bdf24fed4cf7fb1f4fb8ae50",
+    "ordinal": 18,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multi-outfit promotional collage.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986849120298-image-36452220272682",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-gothic-vibes-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986849120298-image-36452220272682.webp",
+    "sha256": "26f650f58fb8726c44bb005c0ea0582e931026244990796d27a51d9ddf167812",
+    "ordinal": 19,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad arms and legs visible; loose belted pink shirt hides natural torso shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986848890922-image-37529932365866",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-preppy-vibes-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986848890922-image-37529932365866.webp",
+    "sha256": "06a04d0f56d649d41098771bf4495108382bae82d927135533e380817be6ba6b",
+    "ordinal": 20,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Promotional multi-image collage.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986848890922-image-37407423889450",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-preppy-vibes-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986848890922-image-37407423889450.webp",
+    "sha256": "ef79aba2e6a85c041537f6b0378950f1a372632c2f1dc3505e1053b7fde725c7",
+    "ordinal": 21,
+    "view": "seated",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Arms and upper torso support build; seated navy dress hides shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986848759850-image-37394609045546",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/6-pack-original-black-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986848759850-image-37394609045546.webp",
+    "sha256": "184c4f1eedc32b9c2286b857226d1c8a8fb38ad50701b79be814d4cd5363a97c",
+    "ordinal": 22,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated multi-image promotional collage.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986848759850-image-37394609111082",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/6-pack-original-black-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986848759850-image-37394609111082.webp",
+    "sha256": "b6c42fa1640ba21f4c1b6148b0f6a5e40bdbd0aad44ec73432cde48056a370e9",
+    "ordinal": 23,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and legs support build; reclined seated posture prevents shape judgments.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986848530474-image-37394579357738",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-original-black-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986848530474-image-37394579357738.webp",
+    "sha256": "e705bf814b6a1ef3bf691aa4d3b0a31bfee84bfe71ea89cf2a3c5a1991f48b84",
+    "ordinal": 24,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multi-image product advertisement.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986848530474-image-37394579423274",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-original-black-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986848530474-image-37394579423274.webp",
+    "sha256": "70a73a82e4495adce03f86b5cde01b2bc387a8f34078f42d4474c3a1f790e9e4",
+    "ordinal": 25,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Infographic and inset product advertisement.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986848432170-image-37394577981482",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-classic-black-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986848432170-image-37394577981482.webp",
+    "sha256": "fc6ce8416fa2587ca08b7aa54431b6e8ad923548b7ad5c057a6b08bfd3995fb8",
+    "ordinal": 26,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multi-image lower-body product collage.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7986848432170-image-37394578047018",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/3-pack-classic-black-bundle-stay-cool-chub-rub-shorts",
+    "localPath": "images/snag-7986848432170-image-37394578047018.webp",
+    "sha256": "c23d3d3a38d44b2ef371aa5a188bd632f73be66cb4a02545e781d770d6ce600a",
+    "ordinal": 27,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Two-person cropped garment image; no single reference.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7956146061354-image-37188388225066",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-short-sleeve-wrap-top-cream",
+    "localPath": "images/snag-7956146061354-image-37188388225066.webp",
+    "sha256": "e8dd7ce6ea4923108ec41b81c9525ffc685a13f4659decb1e5747f1be6ca7e5d",
+    "ordinal": 28,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad upper arms and torso; wrap construction, raised arm and gathering obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7956146061354-image-37188388290602",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-short-sleeve-wrap-top-cream",
+    "localPath": "images/snag-7956146061354-image-37188388290602.webp",
+    "sha256": "bd11af2a3d0130fa59e29b4d3a98cf5ed613e54d7661ab5fa7be0f59a7468421",
+    "ordinal": 29,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow exposed arms; loose cream wrap top and wide trousers hide shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7790971387946-image-35827182567466",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/plaid-flare-skirt-cairn-v2",
+    "localPath": "images/snag-7790971387946-image-35827182567466.webp",
+    "sha256": "6944a44808b2b294515d98f92693fcddf017af536f7c9bbf36cc342cfc2f9acb",
+    "ordinal": 30,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible upper body supports build; scarf and flared plaid skirt obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7790971387946-image-35827182633002",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/plaid-flare-skirt-cairn-v2",
+    "localPath": "images/snag-7790971387946-image-35827182633002.webp",
+    "sha256": "83cac3162f05889acf759d43f378b37eb466af7a9a99bd8fe065c21e817157e7",
+    "ordinal": 31,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow legs and upper torso; raised arms, jacket and flared plaid skirt obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7918609268778-image-36983706124330",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/jersey-short-sleeve-mini-shirred-dress-pink-strawberries",
+    "localPath": "images/snag-7918609268778-image-36983706124330.webp",
+    "sha256": "35bfa71a5f0662c087aebeebbdf17ec452d85a81e15450dc329436626b0dab91",
+    "ordinal": 32,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and legs support build; puff sleeves and flared strawberry dress hide shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7918609268778-image-36986841792554",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/jersey-short-sleeve-mini-shirred-dress-pink-strawberries",
+    "localPath": "images/snag-7918609268778-image-36986841792554.webp",
+    "sha256": "e8266f741c395a0d598e46f625e2cafc2bd8ba98a7dfb3623cb2732cc9ed8704",
+    "ordinal": 33,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Exposed forearms and torso support build; belt and puff sleeves shape contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7660895174698-image-36452238000170",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/bamboo-lounge-vest",
+    "localPath": "images/snag-7660895174698-image-36452238000170.webp",
+    "sha256": "dd2b294e818972c2bf5370f6a1b168309988f10ca721c4f7bb4d7b43c2a93386",
+    "ordinal": 34,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and legs support build; draped black top hides waist and upper hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7660895174698-image-36452238065706",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/bamboo-lounge-vest",
+    "localPath": "images/snag-7660895174698-image-36452238065706.webp",
+    "sha256": "f480002c0c41fc3822ed85adfda6d0e715f3d9b2bea46ae3967c1c202d1d3ad6",
+    "ordinal": 35,
+    "view": "seated",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Exposed arms and thighs support build; seated pose and loose top obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7956146225194-image-37188392288298",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-shirred-trousers-black",
+    "localPath": "images/snag-7956146225194-image-37188392288298.webp",
+    "sha256": "d45e66e0b4e8ac952e9296e45221577110e8ef4f860c22783933bc26fc6c72e1",
+    "ordinal": 36,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow exposed arms; loose black top and trousers hide shape axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7956146225194-image-37188392353834",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-shirred-trousers-black",
+    "localPath": "images/snag-7956146225194-image-37188392353834.webp",
+    "sha256": "e5dba282c7de3bcd5e038df878e6254e36a7f83b1c0adf6cf4ae8d2bd598c2a8",
+    "ordinal": 37,
+    "view": "seated",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side reclined seated pose with loose layers prevents reliable build judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7129161007146-image-33856054493226",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-pink-lady",
+    "localPath": "images/snag-7129161007146-image-33856054493226.webp",
+    "sha256": "80caf877aefe977e20890269a4af9489b3cd2c6d39aabea9a7ec38aee785888c",
+    "ordinal": 38,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Exposed arms and legs support intermediate build; loose pink shirt and raised leg obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7129161007146-image-33856054394922",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-pink-lady",
+    "localPath": "images/snag-7129161007146-image-33856054394922.webp",
+    "sha256": "18056a0105aa01f1820e0d3208d0849947300c3ada126a3262532b4fbff09140",
+    "ordinal": 39,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Exposed arms and legs support build; gathered pink top conceals waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7716171972650-image-35080727855146",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/dress-mini-bell-sleeve-danu-blood-red",
+    "localPath": "images/snag-7716171972650-image-35080727855146.webp",
+    "sha256": "175d824f9db6651b3b1dc5677be644270aeb08443a0dacd39d01c2115783be2f",
+    "ordinal": 40,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Fitted burgundy bodice shows moderate waist; flared skirt obscures hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7716171972650-image-35080727920682",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/dress-mini-bell-sleeve-danu-blood-red",
+    "localPath": "images/snag-7716171972650-image-35080727920682.webp",
+    "sha256": "8e235940c3e295268e26183f9b55afc361c98aafdf2bf19ef5192ac89b20ca3d",
+    "ordinal": 41,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Upper torso and forearm support build; raised arm and flared dress obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7716172005418-image-36231769423914",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/jersey-maxi-flare-skirt-black",
+    "localPath": "images/snag-7716172005418-image-36231769423914.webp",
+    "sha256": "9ed0ea9f5644f8550c3b35a272e28611efb63059400da84658e0ce6d562c4e93",
+    "ordinal": 42,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Fitted patterned top shows moderate waist; long flared black skirt conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7716172005418-image-36231769292842",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/jersey-maxi-flare-skirt-black",
+    "localPath": "images/snag-7716172005418-image-36231769292842.webp",
+    "sha256": "a8a0626339e1662e520a2f428fca891c4fddb4da5ad5ab0c6258d4e70d6ba74b",
+    "ordinal": 43,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Narrow fitted top has moderate waist indentation; long flared skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7752591835178-image-35992198185002",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/nightwear-sweet-treat-bottoms",
+    "localPath": "images/snag-7752591835178-image-35992198185002.webp",
+    "sha256": "37c7fb8765383e89eacdab55b165f43a97e407545e4074a809658bfc4ede45e6",
+    "ordinal": 44,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lap and pajama fabric detail without upper body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7752591835178-image-35992198250538",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/nightwear-sweet-treat-bottoms",
+    "localPath": "images/snag-7752591835178-image-35992198250538.webp",
+    "sha256": "8d05d70e854145bcb28a88d37b726a019b7c35a2fada7513accaedfb1a797969",
+    "ordinal": 45,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and torso support build; crossed legs and loose pajamas prevent shape judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6551429906474-image-30622250205226",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/classic-tee-black",
+    "localPath": "images/snag-6551429906474-image-30622250205226.webp",
+    "sha256": "675452e0c41ff48d6f3ab99940915e4d57abf2e251b75abf8e18b8d22793a20f",
+    "ordinal": 46,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fitted black top and visible arms support build; seated pink trousers obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6551429906474-image-30622250237994",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/classic-tee-black",
+    "localPath": "images/snag-6551429906474-image-30622250237994.webp",
+    "sha256": "ef38d752485cec982ad846257d96de6aa6521ac218fc5692de10e573988dbc36",
+    "ordinal": 47,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Near-identical seated outfit variant; retain 46.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7129162743850-image-31414515826730",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/activewear-tee-debbie-black",
+    "localPath": "images/snag-7129162743850-image-31414515826730.webp",
+    "sha256": "24dba0593f89cbe902f54b929e41707330558a766d397fa9a308cc7ffce776f6",
+    "ordinal": 48,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and fitted blue leggings support build; long draped black tee obscures waist and hip outline.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7129162743850-image-31414515990570",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/activewear-tee-debbie-black",
+    "localPath": "images/snag-7129162743850-image-31414515990570.webp",
+    "sha256": "8c0fb1ddb03c5e1d212a65c2ad6516586bac8b9cd49c36d5e296dd7503f2feb7",
+    "ordinal": 49,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Arms and fitted navy leggings support build; loose long tee hides torso shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776524931114-image-30569612705834",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-skirt-grey",
+    "localPath": "images/snag-6776524931114-image-30569612705834.webp",
+    "sha256": "9454791325fefba1dacb2442733731ac8f6dcf668341541b0679312c1434aba1",
+    "ordinal": 50,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible limbs and fitted skirt support build; side-on pose prevents frontal shape comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776524931114-image-30569613033514",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-skirt-grey",
+    "localPath": "images/snag-6776524931114-image-30569613033514.webp",
+    "sha256": "a78cacb08b9c9e3528cc8bb92d062393cc979cc75daf3d41ab96417c9a9e3ae5",
+    "ordinal": 51,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Near-identical side skirt outfit variant.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6806803644458-image-30882236399658",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/hoodie-grey",
+    "localPath": "images/snag-6806803644458-image-30882236399658.webp",
+    "sha256": "014fab1c532392f829d2815923fb6f9d0121820db6f4700e7e9dd7b85e464459",
+    "ordinal": 52,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible legs and torso support intermediate build; loose hoodie and raised arm obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6806803644458-image-30882236563498",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/hoodie-grey",
+    "localPath": "images/snag-6806803644458-image-30882236563498.webp",
+    "sha256": "70f825f99ae341bf6774c6c7e43bf6a3288ca3c05f5674d1d39cff3de915be71",
+    "ordinal": 53,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Upper torso supports fuller-intermediate build; thick hoodie and angled pose conceal shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776525652010-image-30569614573610",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/pencil-skirt-figgy-pudding",
+    "localPath": "images/snag-6776525652010-image-30569614573610.webp",
+    "sha256": "98346bd469a09614e0e490d9156f70f090c5ab83bf281f735515617512a7f7db",
+    "ordinal": 54,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Fitted sheer black top and purple pencil skirt show similar shoulder/hip span and moderate waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6776525652010-image-30569614868522",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/pencil-skirt-figgy-pudding",
+    "localPath": "images/snag-6776525652010-image-30569614868522.webp",
+    "sha256": "8cd5a659e8e1024dbc1f3730cf63044b0a385d8a09a2833481d5c654af7fcf62",
+    "ordinal": 55,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Fitted white top and purple skirt show waist indentation; crossed arms and torso rotation prevent confident shoulder balance.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6806803611690-image-30882237906986",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/hoodie-black",
+    "localPath": "images/snag-6806803611690-image-30882237906986.webp",
+    "sha256": "514dc9dc93e431bbc0b46ba833b2bedd44b7b6767acadcf17cd29ba5c8cd1295",
+    "ordinal": 56,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fitted leggings and visible limbs support intermediate build; loose hoodie hides waist and upper hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6806803611690-image-30882237743146",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/hoodie-black",
+    "localPath": "images/snag-6806803611690-image-30882237743146.webp",
+    "sha256": "8aecacade72667436729413eeec92a0e7d334f91f94424c6b7685a3caa37d9bd",
+    "ordinal": 57,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible upper torso supports build; side pose and hoodie obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7551443894314-image-33576993685546",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/t-shirt-tiered-dress-passion-au-jardin-lamour-rose",
+    "localPath": "images/snag-7551443894314-image-33576993685546.webp",
+    "sha256": "b898b2db5a267670c2b1f678be8d16e711f8b7e170bd8000e8e1e0902fcb5768",
+    "ordinal": 58,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and upper torso support build; gathered floral dress hides natural waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7551443894314-image-33576993423402",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/t-shirt-tiered-dress-passion-au-jardin-lamour-rose",
+    "localPath": "images/snag-7551443894314-image-33576993423402.webp",
+    "sha256": "901014a62f253dbfcda2b59e8195687480273ff75c2d63862cad998b8b38def0",
+    "ordinal": 59,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible upper arms support build; empire seam and gathered floral skirt hide waist and hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

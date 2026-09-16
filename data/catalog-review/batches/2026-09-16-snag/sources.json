@@ -1,0 +1,17 @@
+{
+  "retrievedAt": "2026-09-16T17:20:52.627044+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 30 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "snag",
+      "pages": [
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=1",
+          "products": 250
+        }
+      ],
+      "errors": [],
+      "downloadedUnique": 60
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 1193,
-  "admittedPhotos": 1075,
-  "totalPhotos": 1460,
+  "reviewedCandidates": 1371,
+  "admittedPhotos": 1183,
+  "totalPhotos": 1568,
   "axisSupport": {
-    "build": 907,
-    "shoulderHip": 153,
-    "waist": 266
+    "build": 1000,
+    "shoulderHip": 164,
+    "waist": 298
   },
-  "completeReferences": 132,
-  "sourcePages": 698,
+  "completeReferences": 141,
+  "sourcePages": 777,
   "excludedReasons": {
-    "non-outfit-view": 60,
+    "non-outfit-view": 130,
     "existing-source-page": 58
   },
   "excluded": [
@@ -484,6 +484,286 @@
     },
     {
       "id": "bigbudpress-7701972058305-image-45932960612545",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7480973819946-image-33016942919722",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7833250103338-image-36287734317098",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7716172103722-image-35080727363626",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7287552770090-image-35319974985770",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7287552770090-image-31761169186858",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986849513514-image-37407424315434",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986849349674-image-37394606850090",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986849251370-image-37529926762538",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986849120298-image-37529929318442",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986848890922-image-37529932365866",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986848759850-image-37394609045546",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986848530474-image-37394579357738",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986848530474-image-37394579423274",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986848432170-image-37394577981482",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7986848432170-image-37394578047018",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7752591835178-image-35992198185002",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-6551429906474-image-30622250237994",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-6776524931114-image-30569613033514",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9854032904427-image-51576065753323",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9853997383915-image-51576457036011",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9853034397931-image-51576816566507",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9853034397931-image-51576816632043",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9852906406123-image-51260119318763",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9851349532907-image-51325575921899",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9851349532907-image-51328144965867",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9851278917867-image-51291438711019",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9851278917867-image-51291699740907",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9845967454443-image-51333951521003",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9845344829675-image-51337181069547",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9845344829675-image-51337181135083",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9845261992171-image-51337434333419",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9812974993643-image-51069567828203",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forestink-9812148257003-image-51063771988203",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7742304124970-image-35353261834282",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7596387434538-image-34094059028522",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7392315310122-image-35739689582634",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7839229444138-image-36350127341610",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7784336556074-image-35739690041386",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7860305952810-image-36587149295658",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8898514059480-image-47593325592792",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8898515009752-image-47593328705752",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-9114892697816-image-49771561681112",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-9114893451480-image-49771555455192",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-9114899382488-image-49771568234712",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-9114899382488-image-49771568300248",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-9114899939544-image-49771557126360",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-9114899939544-image-49771557093592",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8375987667160-image-41593291735256",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-9263668560088-image-50377390948568",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8856049877208-image-46295757586648",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8959094620376-image-48529135665368",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8488548991192-image-42094326907096",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-7935328583896-image-41526971826392",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "foxblood-7517604413632-image-36525951615168",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "foxblood-8702797381824-image-58663609237696",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "foxblood-8594588860608-image-57540258529472",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "foxblood-8565271920832-image-56578937159872",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "foxblood-8573858218176-image-56924527886528",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-9131666899121-image-43994334429361",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-9131666899121-image-43994334789809",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-9131651629233-image-43974499270833",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-9028158292145-image-43974499041457",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-9128790491313-image-43974376161457",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-9126323224753-image-43965682909361",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-9028128702641-image-43965683105969",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-7701416935601-image-35038523097265",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-7592368472241-image-34742682910897",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-8890865844401-image-42231659495601",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-8890865844401-image-42231659593905",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-7212339429553-image-32656479813809",
       "reason": "non-outfit-view"
     }
   ]

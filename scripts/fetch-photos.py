@@ -6,13 +6,14 @@ import json
 import re
 import tempfile
 import urllib.request
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from pathlib import Path
 from zipfile import ZipFile
 
 from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
-MANIFESTS = ('photo-assets.json', 'fashionpedia-assets.json', 'streetstyle-assets.json')
+MANIFESTS = ('photo-assets.json', 'fashionpedia-assets.json', 'streetstyle-assets.json', 'reviewed-assets.json')
 MAX_IMAGE_BYTES = 24 * 1024 * 1024
 MAX_ARCHIVE_BYTES = 350 * 1024 * 1024
 
@@ -64,7 +65,10 @@ def main():
 
         def fetch(asset):
             destination = output / f"{asset['id']}.webp"
+            reviewed = 'reviewedView' in asset
             if destination.exists():
+                if reviewed and hashlib.sha256(destination.read_bytes()).hexdigest() != asset['sha256']:
+                    raise ValueError(f"Reviewed asset checksum mismatch: {asset['id']}")
                 with Image.open(destination) as image:
                     if image.format != 'WEBP' or image.width < 1 or image.height < 1:
                         raise ValueError(f"Invalid WebP: {asset['id']}")
@@ -82,11 +86,20 @@ def main():
                 if hashlib.sha256(data).hexdigest() != archive['sha256']:
                     raise ValueError(f"Archive source checksum mismatch: {asset['id']}")
             else:
-                data = download(asset['url'], MAX_IMAGE_BYTES)
+                url = asset['url']
+                if reviewed and 'cdn.shopify.com/' in url:
+                    parsed = urlsplit(url)
+                    query = dict(parse_qsl(parsed.query))
+                    query['width'] = '720'
+                    url = urlunsplit(parsed._replace(query=urlencode(query)))
+                data = download(url, MAX_IMAGE_BYTES)
             image = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert('RGB')
-            image.thumbnail((1100, 1400))
+            image.thumbnail((720, 1000) if reviewed else (1100, 1400))
             pending = destination.with_suffix('.pending')
-            image.save(pending, format='WEBP', quality=84)
+            image.save(pending, format='WEBP', quality=85 if reviewed else 84)
+            if reviewed and hashlib.sha256(pending.read_bytes()).hexdigest() != asset['sha256']:
+                pending.unlink()
+                raise ValueError(f"Reviewed source or encoder changed; restore the original corpus asset: {asset['id']}")
             pending.replace(destination)
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:

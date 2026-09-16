@@ -4,6 +4,10 @@
 
 ## From sources to the application
 
+Latest targeted intake: 178 new candidates from Forest Ink, Snag, Shiny by Nature, Foxblood and Midnight Hour were inspected directly, with 21 enlarged rereads. Admission adds 108 photos across 79 previously unseen source pages; 70 back/detail/promotional/repetitive views are excluded. Total: 1,568 photos, 183 complete references, and 30 matches for build 3 / shoulder balance 0 / waist 1 (previously 26). No matching tolerance changed. The historical first-pass counts below remain its audit trail.
+
+`research/catalog/expand_targeted.py` sources bounded new product-page batches and produces image-bound contact sheets. `compile_targeted.py` validates authored TSV observations against the exact corpus bytes and emits labels. `data/catalog-review/batches/` commits intake URLs, digests, source retrieval scope, observations and labels. The importer rejects missing/duplicate observations, reused prior source pages, invalid axes and changed image bindings before admission.
+
 1. Download bounded selections of original outfit photographs from retailer product galleries and street-style sources. Keep source-page URLs, image URLs, local paths and SHA-256 digests. The expanded intake contains 1,676 exact-unique images across 21 sources; repeated views and recolors can still depict the same outfit.
 2. Inspect numbered contact sheets for framing: full outfit, partial, seated, back, detail or reject. The body-review queue contains 411 full-standing candidates plus 782 other candidates. All 1,193 are reviewed. The other 483 intake images are outside this body-review queue.
 3. The assistant directly observes apparent build (1–3), shoulder/hip balance (-1–1) and waist indentation (0–2). Unknowns are independent. Ordinary clothing can support approximate build; corsets, flared skirts, coats, cropping and pose can conceal individual axes. These are subjective visual observations, not measurements, clothing sizes or human-verified ground truth. No labels transfer between pictures based on faces or product pages.
@@ -32,10 +36,10 @@ bun run test
 bun run test:browser
 ```
 
-The image-root command validates every reviewed original before copying admitted images. The offline check reconstructs admission from committed provenance and checks every admitted asset. On a new machine, the original image corpus must be restored first; this importer does not fetch or silently rebind changed remote bytes. Historical intake and review scripts still live under `Documents/stylr-catalog-pilot`; their standalone old coverage projection is not the current release count.
+The image-root command validates every reviewed original before copying admitted images. The offline check reconstructs admission from committed provenance and checks every admitted asset. `scripts/fetch-photos.py` can restore admitted images using the original resizing/encoding recipe and verifies reviewed hashes before publishing files. A changed source or encoder fails closed; restore the original corpus asset instead of changing its reviewed digest. Original raw intake remains under `Documents/stylr-catalog-pilot`; maintained code is in `research/catalog/`. Historical coverage projections are not current release counts.
 
 ## Repository direction
 
-Keep this in `erhuve/stylr`: `data/` for versioned provenance and reviewed annotations, `scripts/` for deterministic admission/audits, and a future `research/` folder for the pose/CLIP experiments with isolated Python dependencies. Keep app code at its existing location for now. A full `apps/web` plus `packages/...` monorepo layout adds churn without another consuming app. A separate data repository would complicate atomic app/schema/dataset changes at this stage.
+The repository uses `data/` for versioned provenance and reviewed annotations, `scripts/` for deterministic admission/audits, and `research/` for sourcing and pose/CLIP experiments with isolated Python dependencies. App code stays at its existing location. A full `apps/web` plus `packages/...` monorepo layout adds churn without another consuming app. Keeping these together supports atomic app/schema/dataset changes.
 
 The research migration now includes scripts, environment specifications and evaluation artifacts under `research/`. Catalog scripts use `STYLR_INTAKE_ROOT`; body-shape scripts resolve assets from the repository. Images, model weights, virtual environments and private sessions stay outside Git. Historical source corpora remain in the workspace; the migration does not rerun training or promote predictions.

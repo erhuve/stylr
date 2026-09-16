@@ -1,0 +1,119 @@
+ordinal	view	build	shoulderHip	waist	evidence
+0	partial	2	?	?	Fitted black bodice and bare arms support build; structured bodice and flared hem obscure shape.
+1	back	?	?	?	Rear garment view excluded.
+2	partial	2	?	1	Buttoned torso has moderate taper; pleats conceal hips.
+3	back	?	?	?	Rear garment view excluded.
+4	detail	?	?	?	Head and shoulders absent; skirt product crop.
+5	detail	?	?	?	Side lower-body product crop.
+6	partial	1.5	?	?	Bare arms and narrow torso support build; gathered plaid dress obscures waist and hips.
+7	back	?	?	?	Rear dress view excluded.
+8	partial	1.5	?	1	Fitted buttoned top narrows moderately; flared skirt hides hip contour.
+9	full	1.5	?	?	Side pose in black dress; frontal proportions unavailable.
+10	detail	?	?	?	Shorts product crop without shoulders.
+11	detail	?	?	?	Side lower-body crop excludes shoulders.
+12	detail	?	?	?	Ruffled shorts detail crop.
+13	detail	?	?	?	Lower-body garment crop.
+14	partial	2	?	1	Bare upper arms and fitted halter torso; moderate taper, flared skirt hides hips.
+15	back	?	?	?	Rear halter dress view excluded.
+16	detail	?	?	?	Leggings product crop lacks upper torso.
+17	back	?	?	?	Rear leggings detail.
+18	partial	2	?	1	Fitted burgundy separates show waist indentation; shoulder tops cropped.
+19	back	?	?	?	Rear pants detail.
+20	full	2	0	?	Black fitted jumpsuit shows similar shoulder and hip span; structured bodice shapes waist.
+21	detail	?	?	?	Side jumpsuit crop lacks shoulders.
+22	partial	2	?	?	Arms and torso support build; stiff zip bodice and cropped hips prevent shape judgment.
+23	back	?	?	?	Rear top view excluded.
+24	partial	2.5	?	1	White top and fitted navy skirt show moderate waist indentation; draped jacket obscures shoulder boundary.
+25	partial	2.5	?	1	Navy skirt contours hips; shoulder jacket prevents confident balance estimate.
+26	full	2.5	?	?	Arms and upper torso support build; layered tulle skirt hides hips and waist contour.
+27	full	2.5	?	?	Graphic top and layered skirt; stance and volume obscure shape axes.
+28	full	3	?	1	Fitted leggings and tank show broad build and moderate waist; open shirt obscures shoulder edges.
+29	full	2.5	0	1	Tank and leggings expose similar shoulder/hip span and moderate waist indentation.
+30	partial	3	?	?	Black fitted top supports broad build; raised arms and lower crop obscure proportions.
+31	detail	?	?	?	Fabric ruching comparison without person.
+32	full	2.5	0	1	Fitted white cropped zip top and black pants show balanced shoulders/hips and moderate indentation.
+33	back	?	?	?	Bent rear/side pose excluded.
+34	full	2.5	0	1	White wrap top and black trousers; visible shoulder and upper hip spans similar, moderate waist taper.
+35	full	2	0	1	Black fitted separates show intermediate build, similar shoulder/hip widths and moderate waist.
+36	full	2	?	1	Fitted inner top and green pants show waist; long coat obscures shoulder/hip comparison.
+37	back	?	?	?	Rear hoodie and leggings view excluded.
+38	partial	2.5	?	?	Visible arms and jeans support build; loose tee hides waist and upper contour.
+39	full	?	?	?	Walking pose, jacket and draped burgundy set hide body contours.
+40	partial	2.5	?	1	Bare arms and fitted crop support build and moderate waist; gathered trousers obscure hips.
+41	detail	?	?	?	Trouser crop without shoulders.
+42	full	?	?	?	Bulky fur-like jacket hides torso contours.
+43	detail	?	?	?	Leggings and footwear crop.
+44	partial	2.5	?	1	Sheer fitted upper body supports build and waist taper; hip contour under pleats unknown.
+45	full	2.5	?	1	Fitted star top shows moderate waist; flared skirt hides hips.
+46	seated	1.5	?	?	Narrow visible arms and torso; seated printed dress obscures shape axes.
+47	reject	?	?	?	Reclining pose on sand unsuitable for comparable proportions.
+48	partial	2.5	-1	1	Fitted black knit and upper jeans show wider hips than shoulders, moderate indentation.
+49	reject	?	?	?	Side variant of admitted black knit look adds little outfit diversity.
+50	partial	2.5	-1	1	White fitted knit with jeans shows wider hips and moderate waist indentation.
+51	reject	?	?	?	Side variant of admitted white knit look.
+52	partial	2.5	?	1	Brown fitted knit and check skirt; waist visible but flared skirt hides hips.
+53	reject	?	?	?	Repeated brown knit and check skirt styling.
+54	partial	2.5	?	1	Red fitted knit with check skirt supports build and moderate waist, hips hidden.
+55	reject	?	?	?	Side variant of admitted red knit look.
+56	reject	?	?	?	Additional recolor of same knit and check skirt composition.
+57	reject	?	?	?	Additional recolor and pose variant.
+58	reject	?	?	?	Side recolor of already represented knit styling.
+59	reject	?	?	?	Additional recolor of same knit and check skirt composition.
+60	full	2.5	-1	1	Red tank and heart jeans; visible upper hip breadth exceeds shoulders with moderate waist.
+61	reject	?	?	?	Near-identical pose variant of heart-jeans look; keep 60.
+62	full	2.5	?	?	Arms and moon jeans support build; loose white tee obscures torso proportions.
+63	reject	?	?	?	Side variant of moon-jeans look.
+64	partial	?	?	?	Oversized white tee and flowing skirt conceal build and shape.
+65	reject	?	?	?	Side variant of oversized white tee look.
+66	partial	?	?	?	Oversized black tee hides torso and upper hips.
+67	reject	?	?	?	Repeated black tee outfit and framing.
+68	partial	2.5	-1	1	Lime tank and denim shorts show wider hips and moderate waist indentation.
+69	reject	?	?	?	Near-identical lime tank outfit; keep 68.
+70	full	2.5	?	1	Cream tank supports build and waist taper; loose rust shorts conceal hip boundary.
+71	reject	?	?	?	Repeated cream tank and rust shorts pose.
+72	full	1.5	?	?	Narrow exposed arms; loose orange striped overalls and bent leg hide shape.
+73	back	?	?	?	Rear overalls view excluded.
+74	full	2.5	?	?	Arms and upper body support build; roomy striped overalls obscure shape.
+75	full	1.5	?	?	Narrow arms in theatrical styling; baggy overalls and raised leg hide shape.
+76	full	1.5	?	?	Narrow arms visible; loose diamond overalls hide torso and hips.
+77	full	1.5	?	?	Narrow arms; dramatic ruffles and loose overalls obscure proportions.
+78	reject	?	?	?	Crop duplicates fuller complete dress view 79.
+79	full	3	?	1	Broad arms and legs, fitted top shows moderate waist; handkerchief skirt hides hips.
+80	full	1.5	?	?	Narrow torso and forearms; structured corset and long skirt shape outlines.
+81	back	?	?	?	Rear black dress view excluded.
+82	full	1.5	?	?	Narrow visible arms; layered long garments hide shape axes.
+83	full	2	?	?	Visible upper torso supports intermediate build; layered ghost-print robe hides hips and waist.
+84	partial	3	?	?	Broad exposed arms; fitted structured bodice and lace skirt obscure natural waist.
+85	partial	3	0	?	Broad arms and similar shoulder/hip span; seamed laced bodice shapes waist.
+86	full	1.5	?	?	Narrow upper torso; ruffled layers obscure waist and hips.
+87	full	2.5	?	?	Broad upper torso; tailored shirt and layered skirt prevent shape estimates.
+88	partial	3	?	1	Broad arms and fitted striped tee show moderate waist; balloon shorts hide hips.
+89	detail	?	?	?	Shorts crop lacks shoulders.
+90	partial	1.5	?	1	Striped fitted tee and jeans show waist; rotated torso prevents reliable shoulder/hip comparison.
+91	back	?	?	?	Rear sailor top view excluded.
+92	full	?	?	?	Structured belted coat hides body contours.
+93	full	?	?	?	Long coat and angled stance obscure proportions.
+94	partial	?	?	?	Oversized graphic sweatshirt hides torso.
+95	partial	?	?	?	Loose graphic sweatshirt and leaning pose conceal proportions.
+96	partial	?	?	?	Tailored black coat hides torso.
+97	detail	?	?	?	Cable sweater product crop lacks body outline context.
+98	back	?	?	?	Rear sweater detail.
+99	partial	?	?	?	Bulky cable knit and raised arm conceal build and waist.
+100	reject	?	?	?	Repeated cable sweater styling; keep 99.
+101	partial	?	?	?	Loose cable knit conceals torso proportions.
+102	reject	?	?	?	Repeated cable sweater outfit pose.
+103	partial	1.5	?	?	Exposed forearms and torso support narrow-intermediate build; loose tee and crop hide shape.
+104	detail	?	?	?	Close graphic tee product view.
+105	partial	?	?	?	Patterned cardigan and layered skirt hide contours.
+106	reject	?	?	?	Repeated cardigan outfit framing.
+107	reject	?	?	?	Crop of fuller cardigan outfit 108.
+108	full	1.5	?	?	Narrow upper torso and wrists; layered cardigan and skirt obscure shape.
+109	partial	?	?	?	Loose hoodie with hands in pockets hides torso.
+110	reject	?	?	?	Repeated hoodie outfit view.
+111	partial	?	?	?	Boxy hoodie hides torso and waist contour.
+112	partial	1.5	?	?	Visible forearms and narrow upper torso; loose hoodie and crop hide shape.
+113	reject	?	?	?	Close duplicate styling of hoodie 112.
+114	detail	?	?	?	Trouser product crop without shoulders.
+115	back	?	?	?	Rear trouser detail.
+116	partial	1.5	?	?	Visible narrow arms and fitted shorts support build; loose tee hides waist.
+117	reject	?	?	?	Closer product variant of graphic tee outfit 116.

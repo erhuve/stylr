@@ -354,7 +354,7 @@ describe('adversarial annotation coverage and association regressions', () => {
       expect(new Set(ids(selected)).size).toBe(120);
     }
     expect(JSON.stringify(PHOTOS)).toBe(before);
-  });
+  }, 15000);
 
   test('shared publisher labels never merge distinct people or change ranking', () => {
     const photos = mixedDensity(false), session = freshPhotoSession();

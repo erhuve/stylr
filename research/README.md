@@ -4,6 +4,8 @@ Migrated 2026-09-16. These offline experiments share a repository with the app s
 
 ## Catalog sourcing and review
 
+New targeted batches use `catalog/expand_targeted.py` for bounded source discovery, downloads and sheets, then `catalog/compile_targeted.py` for authored observation validation. See `data/catalog-review/batches/README.md`. All live admission still goes through `scripts/import-reviewed-catalog.py`.
+
 `catalog/` contains the original bounded retailer and street-style intake, contact-sheet generation and authored-review validation scripts. Set `STYLR_INTAKE_ROOT` to an external corpus directory before running them. On the current Zo this is `/home/workspace/Documents/stylr-catalog-pilot`.
 
 Install Pillow, requests and beautifulsoup4 in an isolated Python environment. Each script has `--help`. Historical commands expect the original corpus layout: `raw/`, `images/`, `baseline/`, `expansion-2026-09-15/`, and `body-style-review/`. Do not run collect or prepare against a reviewed snapshot. Keep authored ordinal mappings and digests unchanged. Historical `pilot.py audit` uses the initial 144 reviews and is not a current production coverage report.

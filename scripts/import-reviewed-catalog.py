@@ -42,6 +42,21 @@ def assemble(image_root=None, check=False):
         raise ValueError('Incomplete or duplicate candidate review')
     if read(DATA / 'continuation-07/remaining-review-queue.json'):
         raise ValueError('Review queue is not complete')
+    for batch in sorted((DATA / 'batches').glob('*')):
+        if not batch.is_dir():
+            continue
+        additional = read(batch / 'intake.json')
+        observations = read(batch / 'labels.json')
+        identities = {row['id'] for row in additional}
+        if len(identities) != len(additional) or identities & catalog.keys():
+            raise ValueError(f'Duplicate batch intake IDs: {batch}')
+        if len(observations) != len(additional) or {row['id'] for row in observations} != identities:
+            raise ValueError(f'Incomplete batch review: {batch}')
+        prior_sources = existing_sources | {source_key(row['sourceUrl']) for row in catalog.values()}
+        if any(source_key(row['sourceUrl']) in prior_sources for row in additional):
+            raise ValueError(f'Batch reuses an earlier source page: {batch}')
+        catalog.update({row['id']: row for row in additional})
+        records.extend(observations)
     photos, assets, references, excluded = [], [], [], []
     for row in records:
         asset = catalog[row['id']]
