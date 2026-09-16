@@ -1,0 +1,9 @@
+# Post-deployment targeted sourcing
+
+September 16, 2026. Reviewed all 117 candidates on ten numbered, hash-bound contact sheets in the external corpus `expansion-2026-09-17-postdeploy/sheets`. Batch sort prefix follows the earlier September 17-prefixed batches to preserve append-only catalog order; actual retrieval timestamps are September 16.
+
+Targeted ONE BONE, Wildfang and Tombolo for fuller-build casual outfits and masculine tailoring, with Snag retaining feminine and fuller-build coverage. 88 of 117 downloaded candidates came from the three targeted sources; departments do not supply presentation labels. Five bounded listing responses cover 1,162 listed products, at most 15 new product pages per source, first and third gallery positions. All decisions, original response hashes and download outcomes are recorded. Exact duplicates are skipped by the collector; product-only photographs, group scenes, backs, detail crops and near-repeated poses/colorways are excluded by direct inspection.
+
+Enlarged originals 11, 27, 89, 100 and 106. Only 89 supports an additional waist observation; its bag still conceals a hip boundary. Loose shirt hems, tailoring, flared skirts and angled poses leave other body axes unknown. No new complete body references are supported. Plain tees, hoodies and shorts remain neutral rather than being assigned masculine presentation from the model or retailer. No model identity is inferred; recurring shoots remain a coverage limitation.
+
+Tombolo first gallery images are mostly product-only, and several third images are tight portraits. Its suited full views broaden styling but do not support body contours. ONE BONE adds visible fuller builds, mostly with obscured waist and hips. Future passes should inspect alternative full-view galleries and additional publishers instead of repeating these positions or using count growth as evidence of complete-reference coverage.

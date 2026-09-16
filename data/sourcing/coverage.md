@@ -19,20 +19,20 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | mochipan | 72 | 168 | 140 | 113 | 2 | 65 |
 | morningwitch | 51 | 86 | 35 | 13 | 0 | 123 |
 | myviolet | 75 | 168 | 138 | 113 | 2 | 55 |
-| onebone | 20 | 56 | 56 | 15 | 0 | 164 |
+| onebone | 35 | 86 | 86 | 27 | 0 | 149 |
 | pettilia | 8 | 16 | 5 | 5 | 0 | 0 |
 | pexels.com | 40 | 40 | 0 | 0 | 0 | 0 |
 | punkrave | 48 | 96 | 50 | 35 | 6 | 163 |
 | shinybynature | 78 | 156 | 148 | 100 | 27 | 9 |
-| snag | 135 | 269 | 246 | 190 | 17 | 83 |
+| snag | 150 | 298 | 275 | 212 | 17 | 68 |
 | tokyofashion | 864 | 974 | 846 | 665 | 9 | 13 |
-| tombolo | 20 | 40 | 40 | 8 | 0 | 53 |
+| tombolo | 35 | 69 | 69 | 14 | 0 | 38 |
 | trippnyc | 48 | 96 | 52 | 31 | 8 | 165 |
 | universalstandard | 58 | 58 | 58 | 52 | 1 | 0 |
 | universalworks | 20 | 57 | 57 | 17 | 0 | 205 |
 | unsplash.com | 2 | 2 | 0 | 0 | 0 | 0 |
 | wear | 611 | 611 | 611 | 592 | 0 | 0 |
-| wildfang | 96 | 192 | 165 | 101 | 13 | 91 |
+| wildfang | 111 | 221 | 194 | 114 | 13 | 76 |
 
 ## Presentation coverage
 

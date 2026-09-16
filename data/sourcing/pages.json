@@ -6991,6 +6991,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://onebonebrand.com/products/airknit-t-shirt-black",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278646415679-image-53022421909823",
+      "onebone-10278646415679-image-53022422630719"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/airknit-t-shirt-white",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278658867519-image-53022390616383",
+      "onebone-10278658867519-image-53022418501951"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/athletic-short-carbon-grey",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278601359679-image-53022312137023",
+      "onebone-10278601359679-image-53022312202559"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-burgundy",
     "source": "onebone",
     "candidateIds": [
@@ -7017,6 +7059,20 @@
       "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
     ],
     "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/bullet-tank-top-fog",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10277927780671-image-52821758312767",
+      "onebone-10277927780671-image-52821758345535"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -7102,6 +7158,104 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/floral-yacht-shirt-midnight-reef",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278690357567-image-53191322730815",
+      "onebone-10278690357567-image-53191322796351"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/floral-yacht-shirt-saltwater-floral",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278694945087-image-53191330398527",
+      "onebone-10278694945087-image-53191330562367"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/floral-yacht-short-midnight-reef",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278709526847-image-53191338983743",
+      "onebone-10278709526847-image-53191339016511"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/floral-yacht-short-saltwater-floral",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278737051967-image-53191350092095",
+      "onebone-10278737051967-image-53191352320319"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/hybrid-button-up-carbon-grey",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278764642623-image-52821650211135",
+      "onebone-10278764642623-image-52822063382847"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/hybrid-button-up-navy",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278765756735-image-52821639364927",
+      "onebone-10278765756735-image-52821639495999"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/johnny-polo-cream-black",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278741279039-image-53053070836031",
+      "onebone-10278741279039-image-53053070967103"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -7225,6 +7379,62 @@
     ],
     "reviewedCandidates": 3,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/summer-hoodie-navy",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278610436415-image-53022365385023",
+      "onebone-10278610436415-image-53022365679935"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/summer-hoodie-shark-grey",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10278607159615-image-53022320427327",
+      "onebone-10278607159615-image-53022320492863"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/terry-cloth-yacht-short-stone-taupe",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10277936791871-image-52821748777279",
+      "onebone-10277936791871-image-52821748908351"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/terry-fleece-tee-stone-taupe",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10277938954559-image-52821715190079",
+      "onebone-10277938954559-image-52821718040895"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -10411,6 +10621,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/audrey-dress-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7871412207658-image-36642144288810",
+      "snag-7871412207658-image-36642144354346"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/baby-doll-dress-velvet-black",
     "source": "snag",
     "candidateIds": [
@@ -10803,6 +11027,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://snagtights.com/products/crew-neck-puff-sleeve-tee-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7871408308266-image-36642143862826",
+      "snag-7871408308266-image-36642143928362"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/crew-neck-puff-sleeve-tee-white",
     "source": "snag",
     "candidateIds": [
@@ -10873,6 +11111,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/debbie-off-shoulder-tee-chompy-shark-print",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7860305723434-image-36587145691178",
+      "snag-7860305723434-image-36587145756714"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/debbie-off-shoulder-tee-nom-nom-shark-print",
     "source": "snag",
     "candidateIds": [
@@ -10913,6 +11165,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/dinosaur-sheer-top-brachio-de-joy",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7511057858602-image-33241098518570",
+      "snag-7511057858602-image-33241098715178"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://snagtights.com/products/dinosaur-wrap-dress-brachio-de-joy",
@@ -11335,6 +11601,34 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://snagtights.com/products/malocchio-flare-skirt",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7871410208810-image-36642142945322",
+      "snag-7871410208810-image-36642143174698"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/malocchio-wrap-dress",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7871411355690-image-36666003816490",
+      "snag-7871411355690-image-36668184494122"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/mati-flare-skirt",
     "source": "snag",
     "candidateIds": [
@@ -11469,6 +11763,48 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-charcoal",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7856010231850-image-36544491782186",
+      "snag-7856010231850-image-36544491847722"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-mulberry",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7856010264618-image-36544492273706",
+      "snag-7856010264618-image-36544492339242"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-navy",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7856010297386-image-36544491290666",
+      "snag-7856010297386-image-36544491356202"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
@@ -11685,6 +12021,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/plaid-wide-leg-trousers-bonnie-red",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7700080263210-image-36642142093354",
+      "snag-7700080263210-image-36642142158890"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/pleated-skort-black",
     "source": "snag",
     "candidateIds": [
@@ -11880,6 +12230,19 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-blue-curacao",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7851866390570-image-36496447504426"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-cherry",
     "source": "snag",
     "candidateIds": [
@@ -11888,6 +12251,20 @@
     ],
     "manifests": [
       "data/catalog-review/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-hot-coral",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7851866488874-image-36495834021930",
+      "snag-7851866488874-image-36495834054698"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
@@ -11922,6 +12299,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-mint-leaf",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7851866357802-image-36495834742826",
+      "snag-7851866357802-image-36496651092010"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-pink-lady",
     "source": "snag",
     "candidateIds": [
@@ -11933,6 +12324,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-shepherds-delight",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7851866456106-image-36495834316842",
+      "snag-7851866456106-image-36495834382378"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -12000,6 +12405,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/v2-mini-flare-skirt-gosh-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7392315637802-image-33406889361450",
+      "snag-7392315637802-image-33406889394218"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -23531,6 +23950,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://tombolocompany.com/products/cabannabis-cabana-shorts-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056530464828-image-32169170763836",
+      "tombolo-9056530464828-image-32169171058748"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/conched-out-mini-shorts-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056528367676-image-36541844684860",
+      "tombolo-9056528367676-image-36542892769340"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://tombolocompany.com/products/crouching-tiger-hidden-beverage-cabana-shorts-archive",
     "source": "tombolo",
     "candidateIds": [
@@ -23545,6 +23992,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://tombolocompany.com/products/dsny-x-tombolo-cabana-shorts-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056531808316-image-29245106618428",
+      "tombolo-9056531808316-image-30143294079036"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-brown-corduroy-archive",
     "source": "tombolo",
     "candidateIds": [
@@ -23556,6 +24017,75 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-brown-linen-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056529711164-image-35234300657724",
+      "tombolo-9056529711164-image-38053793431612"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-navy-corduroy-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056528105532-image-37872924262460",
+      "tombolo-9056528105532-image-38025609707580"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-navy-jacquard-stripe-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056529645628-image-35234369929276",
+      "tombolo-9056529645628-image-38054108135484"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-navy-linen-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056529678396-image-35234392670268",
+      "tombolo-9056529678396-image-38053703155772"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-saffron-corduroy-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056528171068-image-37872861413436"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -23584,6 +24114,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-navy-linen-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056529580092-image-35234871509052",
+      "tombolo-9056529580092-image-38053702795324"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -23735,6 +24279,90 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/stowaway-shorts-khaki-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056531415100-image-30294558769212",
+      "tombolo-9056531415100-image-32201082929212"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/the-sopranos-fowl-play-tank-top-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056529088572-image-35535165554748",
+      "tombolo-9056529088572-image-35657851109436"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/the-sopranos-souvenir-terry-tee-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056529121340-image-33932056297532",
+      "tombolo-9056529121340-image-36421024677948"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/tombarolo-cabana-shorts-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056530726972-image-31486592548924",
+      "tombolo-9056530726972-image-31486592647228"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/voyager-shirt-aqua-seersucker-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056528662588-image-36607618613308",
+      "tombolo-9056528662588-image-36620687409212"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tombolocompany.com/products/voyager-shirt-coral-seersucker-archive",
+    "source": "tombolo",
+    "candidateIds": [
+      "tombolo-9056528564284-image-36607775244348",
+      "tombolo-9056528564284-image-36620727025724"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -37943,6 +38571,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.wildfang.com/products/juliette-lewis-x-wildfang-sleeveless-denim-coverall",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10365912645813-image-74849173176501",
+      "wildfang-10365912645813-image-74849173242037"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.wildfang.com/products/juliette-lewis-x-wildfang-trouser",
     "source": "wildfang",
     "candidateIds": [
@@ -37965,6 +38607,34 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-button-up-17",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10365910155445-image-74481154031797",
+      "wildfang-10365910155445-image-74481154064565"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-button-up-18",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420697661621-image-75058846335157",
+      "wildfang-10420697661621-image-75058846498997"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -38010,6 +38680,20 @@
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-11",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420713259189-image-75058974949557",
+      "wildfang-10420713259189-image-75058974982325"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -38080,6 +38764,34 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-jacquard-trouser",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420711489717-image-75034237337781",
+      "wildfang-10420711489717-image-75034237403317"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-jacquard-tux-blazer",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420701495477-image-75033717768373",
+      "wildfang-10420701495477-image-75033717833909"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -38192,6 +38904,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-7",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420713586869-image-75058975047861",
+      "wildfang-10420713586869-image-75058996084917"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -38315,6 +39041,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16T2005-tailoring/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-55",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420711882933-image-75058935562421",
+      "wildfang-10420711882933-image-75058935627957"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -38741,6 +39481,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-vest-6",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10267903459509-image-73653097463989",
+      "wildfang-10267903459509-image-73653097496757"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.wildfang.com/products/the-essential-vest-7",
     "source": "wildfang",
     "candidateIds": [
@@ -38825,6 +39579,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-7",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420697202869-image-75033673990325",
+      "wildfang-10420697202869-image-75033674023093"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-8",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420713947317-image-75033553207477",
+      "wildfang-10420713947317-image-75033553240245"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-9",
     "source": "wildfang",
     "candidateIds": [
@@ -38878,6 +39660,48 @@
     ],
     "reviewedCandidates": 0,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-drawstring-pant-1",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420697596085-image-75033704792245",
+      "wildfang-10420697596085-image-75033704825013"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tank-1",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420714537141-image-75032342233269",
+      "wildfang-10420714537141-image-75032342298805"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tank-2",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420715061429-image-75032235540661",
+      "wildfang-10420715061429-image-75032235606197"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -39043,6 +39867,19 @@
     ],
     "manifests": [
       "data/catalog-review/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-sweater-vest-2",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10420714471605-image-75033689948341"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,

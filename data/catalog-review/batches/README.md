@@ -1,5 +1,7 @@
 # Targeted continuation batches
 
+Latest batch `2026-09-17T0030-postdeploy`: 117 directly reviewed candidates, 53 admissions, 50 build observations and no complete references. Ten bound sheets and five enlarged rereads support 22 masculine, 19 feminine and 12 unclear additions. All prior records remain unchanged; see `docs/verification/postdeploy-sourcing.md` for validation and deployment status. Next batch names must sort after this one. Earlier entries below are historical.
+
 Latest continuation: twelve batches from `2026-09-16T2200-wear-men` through `2026-09-17T0020-tokyo-more` directly review 1,257 candidates on 58 bound sheets, admitting 1,116 photographs, 378 build observations and two complete references. Each includes authored observations, compiled labels, image-bound presentation evidence and source decisions. Repository total: 3,086 photos, 202 complete references and 38 example matches; not deployed. See `docs/verification/three-thousand-sourcing.md`. The following paragraphs preserve previous batch history.
 
 Latest interactive batch `2026-09-16T2045-menswear`: 153 directly reviewed candidates, 40 admissions across 39 pages, 34 build observations, no complete references; 26 masculine-styled and 14 neutral outfits. Three new sources and all listing/alternate-gallery decisions are retained. Read its review.md for repeated-view exclusions and full-view selection lessons. Repository total: 1,970 photos, 200 complete references and 38 example matches; not deployed.

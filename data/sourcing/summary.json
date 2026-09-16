@@ -119,12 +119,12 @@
     },
     {
       "source": "onebone",
-      "sampledPages": 20,
-      "candidateImages": 56,
-      "reviewedExpansionCandidates": 56,
-      "admittedExpansionPhotos": 15,
+      "sampledPages": 35,
+      "candidateImages": 86,
+      "reviewedExpansionCandidates": 86,
+      "admittedExpansionPhotos": 27,
       "completeExpansionReferences": 0,
-      "deferredPages": 164
+      "deferredPages": 149
     },
     {
       "source": "pettilia",
@@ -164,12 +164,12 @@
     },
     {
       "source": "snag",
-      "sampledPages": 135,
-      "candidateImages": 269,
-      "reviewedExpansionCandidates": 246,
-      "admittedExpansionPhotos": 190,
+      "sampledPages": 150,
+      "candidateImages": 298,
+      "reviewedExpansionCandidates": 275,
+      "admittedExpansionPhotos": 212,
       "completeExpansionReferences": 17,
-      "deferredPages": 83
+      "deferredPages": 68
     },
     {
       "source": "tokyofashion",
@@ -182,12 +182,12 @@
     },
     {
       "source": "tombolo",
-      "sampledPages": 20,
-      "candidateImages": 40,
-      "reviewedExpansionCandidates": 40,
-      "admittedExpansionPhotos": 8,
+      "sampledPages": 35,
+      "candidateImages": 69,
+      "reviewedExpansionCandidates": 69,
+      "admittedExpansionPhotos": 14,
       "completeExpansionReferences": 0,
-      "deferredPages": 53
+      "deferredPages": 38
     },
     {
       "source": "trippnyc",
@@ -236,12 +236,12 @@
     },
     {
       "source": "wildfang",
-      "sampledPages": 96,
-      "candidateImages": 192,
-      "reviewedExpansionCandidates": 165,
-      "admittedExpansionPhotos": 101,
+      "sampledPages": 111,
+      "candidateImages": 221,
+      "reviewedExpansionCandidates": 194,
+      "admittedExpansionPhotos": 114,
       "completeExpansionReferences": 13,
-      "deferredPages": 91
+      "deferredPages": 76
     }
   ],
   "runs": [
@@ -17827,6 +17827,919 @@
               "outcome": "downloaded-unique"
             }
           ]
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T0030-postdeploy/sources.json",
+      "retrievedAt": "2026-09-16T21:38:03.552504+00:00",
+      "scope": "4 sources, at most three pages of 250 products each and 15 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "onebone",
+          "pages": [
+            {
+              "url": "https://onebonebrand.com/products.json?limit=250&page=1",
+              "products": 191,
+              "retrievedAt": "2026-09-16T21:37:40.739406+00:00",
+              "snapshotSha256": "445ad00caa91fa96ef7161d654c7902e7d80a9ea4c51da1ef29efe836732378c"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "onebone-10278737051967-image-53191352320319",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB213-YachtShirt-SaltwaterFloral-Tom-WEBUSE-FullBody1_1ac91ce6-5b32-498b-8132-5efdb3edb271.jpg?v=1778526058",
+              "sourceUrl": "https://onebonebrand.com/products/floral-yacht-short-saltwater-floral",
+              "sha256": "e4d7ae9c2cb356b529e7cb9a776a3319ab6d456399bd56b1bf0de4495436fe3c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278737051967-image-53191350092095",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB214-YachtShort-SaltwaterFloral-Tom-WEBUSE-Detail2.jpg?v=1778526012",
+              "sourceUrl": "https://onebonebrand.com/products/floral-yacht-short-saltwater-floral",
+              "sha256": "5460c45ff85efaf3db49a269ce3e7a773969d71906f45ce2e785076153e50e90",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278709526847-image-53191338983743",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB214-YachtShort-MidgnightReef-Tom-WEBUSE-Detail1.jpg?v=1778525814",
+              "sourceUrl": "https://onebonebrand.com/products/floral-yacht-short-midnight-reef",
+              "sha256": "13ca0c560483432bb297d3518d1ac02fcc556e438190f94d765a28eb679ea3a3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278709526847-image-53191339016511",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB214-YachtShort-MidgnightReef-Tom-WEBUSE-Detail2.jpg?v=1778525814",
+              "sourceUrl": "https://onebonebrand.com/products/floral-yacht-short-midnight-reef",
+              "sha256": "91abbfc33c8912a31747349ff0d2ba4d205c7662f1363364b4fd4570f65af135",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278694945087-image-53191330398527",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB213-YachtShirt-SaltwaterFloral-Q-WEBUSE-Lifestyle4.jpg?v=1778525673",
+              "sourceUrl": "https://onebonebrand.com/products/floral-yacht-shirt-saltwater-floral",
+              "sha256": "6f4d76de22b87389df12d21970e0aba4e1e80712180bd0f6f523d8a71e4dbd45",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278694945087-image-53191330562367",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB213-YachtShirt-SaltwaterFloral-Tom-WEBUSE-Detail4.jpg?v=1778525673",
+              "sourceUrl": "https://onebonebrand.com/products/floral-yacht-shirt-saltwater-floral",
+              "sha256": "5fb1a596bfaf0590729cd6d7c331e7db588d4d0aecbfc92860c6419e69538b4b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278690357567-image-53191322796351",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB213-YachtShirt-MidnightReef-Tom-WEBUSE-Lifestyle3.jpg?v=1778525506",
+              "sourceUrl": "https://onebonebrand.com/products/floral-yacht-shirt-midnight-reef",
+              "sha256": "13ddada51a0926b20c96ab70a63fedc832622781d5a8d2452649d4d09232ed5c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278690357567-image-53191322730815",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB213-YachtShirt-MidnightReef-Tom-WEBUSE-Lifestyle1.jpg?v=1778525505",
+              "sourceUrl": "https://onebonebrand.com/products/floral-yacht-shirt-midnight-reef",
+              "sha256": "7f9a07f23e37734a19e682a588f276ef56d2c7f867a2d029bd82f6cea9e5e356",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278646415679-image-53022422630719",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB280-ThermalTee-Black-Dimitri-WebUse-MediumShot1.jpg?v=1776356362",
+              "sourceUrl": "https://onebonebrand.com/products/airknit-t-shirt-black",
+              "sha256": "1179fa59737f54f4fb519ff7cd3a7ff848254a82ea0ae012f2418af3ad50a777",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278646415679-image-53022421909823",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB280-ThermalTee-Black-Dimitri-WebUse-Back1.jpg?v=1776356384",
+              "sourceUrl": "https://onebonebrand.com/products/airknit-t-shirt-black",
+              "sha256": "9102e88aedb2184005e97f5667d50242e524a2308c95548ba9f9defb431af362",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278658867519-image-53022390616383",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB280-ThermalTee-White-Dimitri-WebUse-Lifestyle2.jpg?v=1776356200",
+              "sourceUrl": "https://onebonebrand.com/products/airknit-t-shirt-white",
+              "sha256": "8b43029d193c31881e791624a938c17e675167f2a503694c9b8cc07ef8dbbc97",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278658867519-image-53022418501951",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB280-ThermalTee-White-Dimitri-WebUse-MediumShot3.jpg?v=1776356200",
+              "sourceUrl": "https://onebonebrand.com/products/airknit-t-shirt-white",
+              "sha256": "c43bf742ad41e501ae65dd59a1a59d56e78922ce639839abf353ca86d751f924",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278741279039-image-53053070836031",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB281-JohnnyCollarPolo-Cream_Black-Dimitri-WebUse-Lifestyle2.jpg?v=1776876172",
+              "sourceUrl": "https://onebonebrand.com/products/johnny-polo-cream-black",
+              "sha256": "f3215f6e47fdef2c757ab97a8c180eecd42b5f79c3be6b7a69d70ab9ccac3842",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278741279039-image-53053070967103",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB281-JohnnyCollarPolo-Cream_Black-Dimitri-WebUse-Lifestyle6.jpg?v=1776876172",
+              "sourceUrl": "https://onebonebrand.com/products/johnny-polo-cream-black",
+              "sha256": "9775d2a0bb260b442ef21879e243a780938941cbee60223d3f1c0e4682a72ce1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278610436415-image-53022365679935",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB245-SummerHoodie-Navy-Dimitri-WebUse-Lifestyle4.jpg?v=1776355997",
+              "sourceUrl": "https://onebonebrand.com/products/summer-hoodie-navy",
+              "sha256": "8e112197a01d90907de7d3eccd8708ba2d248a782a0863012b42c34d7911982e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278610436415-image-53022365385023",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB245-SummerHoodie-Navy-Dimitri-WebUse-FullBody1.jpg?v=1776356048",
+              "sourceUrl": "https://onebonebrand.com/products/summer-hoodie-navy",
+              "sha256": "576caadf7dade9e42596c9b07b36ef3c75f907d5d4f894e706204d25d39bb730",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278607159615-image-53022320427327",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB245-SummerHoodie-SharkGrey-Dimitri-WebUse-Lifestyle2.jpg?v=1776355865",
+              "sourceUrl": "https://onebonebrand.com/products/summer-hoodie-shark-grey",
+              "sha256": "0ffceb525dea8e17ddfd923e5e5856456057d062019ddbdf2554bbb4c5a4d971",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278607159615-image-53022320492863",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB245-SummerHoodie-SharkGrey-Dimitri-WebUse-MediumShot2.jpg?v=1776355865",
+              "sourceUrl": "https://onebonebrand.com/products/summer-hoodie-shark-grey",
+              "sha256": "4f3d04b65952426e97fef4cbbdd552182557c0f889df7cdf34dca4ea9646a108",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278601359679-image-53022312202559",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB247-AthleticShort-CarbonGrey-Dimitri-WebUse-MediumShot1.jpg?v=1776355686",
+              "sourceUrl": "https://onebonebrand.com/products/athletic-short-carbon-grey",
+              "sha256": "0896a874edfd1110672799e5cd55298242bfefdb9928f0015cb772c5189c8dda",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278601359679-image-53022312137023",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB247-AthleticShort-CarbonGrey-Dimitri-WebUse-Detail2.jpg?v=1776355705",
+              "sourceUrl": "https://onebonebrand.com/products/athletic-short-carbon-grey",
+              "sha256": "bae922636753268e8aeda4fdff22ce672505b19e9c6b0804ed9b0a1d510dd2e8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278765756735-image-52821639364927",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB209-HybridButtonDown-Navy-Dimitri-WebUse-Lifestyle1.jpg?v=1774535968",
+              "sourceUrl": "https://onebonebrand.com/products/hybrid-button-up-navy",
+              "sha256": "ace932a0a56bbfadf0af947484987869607e38c76486168aee87c9d5b25e8eec",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278765756735-image-52821639495999",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB209-HybridButtonDown-Navy-Dimitri-WebUse-MediumShot1.jpg?v=1774541481",
+              "sourceUrl": "https://onebonebrand.com/products/hybrid-button-up-navy",
+              "sha256": "cef748f1e4bd73e6ea68f3a9b9c8298f71e0e864df494c0736955719697cef39",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278764642623-image-52822063382847",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB209-HybridButtonDown-CarbonGrey-Julien-WebUse-Lifestyle2.png?v=1774541690",
+              "sourceUrl": "https://onebonebrand.com/products/hybrid-button-up-carbon-grey",
+              "sha256": "5a755e87ee2b237cdf59fe8fafcf52a9d0c50db253244f86935d5d4363568de6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10278764642623-image-52821650211135",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB209-HybridButtonDown-CarbonGrey-Julien-WebUse-Lifestyle1.jpg?v=1774541690",
+              "sourceUrl": "https://onebonebrand.com/products/hybrid-button-up-carbon-grey",
+              "sha256": "f53b3b9daf4df95c0dc357eacbdd655ed745dc7e2becc0d18c1507e21902b392",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10277938954559-image-52821718040895",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB253-TerryFleeceShort-StoneTaupe-Dimitri-WebUse-Lifestyle3.jpg?v=1774536720",
+              "sourceUrl": "https://onebonebrand.com/products/terry-fleece-tee-stone-taupe",
+              "sha256": "e44833f44532947c6f5873b5d2d0ed18340c591e32bb35124289e57a26cca469",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10277938954559-image-52821715190079",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB273-TerryFleeceShirt-StoneTaupe-Dimitri-WebUse-MediumShot1.jpg?v=1774540510",
+              "sourceUrl": "https://onebonebrand.com/products/terry-fleece-tee-stone-taupe",
+              "sha256": "8143cbe7ea66e6deb59114f3c5a42b1e39b23c055f4b3a1d72a77f09109f72ac",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10277936791871-image-52821748908351",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB253-TerryFleeceShort-StoneTaupe-Dimitri-WebUse-MediumShot1_b2193920-d313-4970-8e38-b11e97519d87.jpg?v=1774536796",
+              "sourceUrl": "https://onebonebrand.com/products/terry-cloth-yacht-short-stone-taupe",
+              "sha256": "b17c2d187b13681c8a8870d407d0748d6147adf15d32ca6ce4f782be91868a4c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10277936791871-image-52821748777279",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB253-TerryFleeceShort-StoneTaupe-Dimitri-WebUse-FullBody.jpg?v=1774541822",
+              "sourceUrl": "https://onebonebrand.com/products/terry-cloth-yacht-short-stone-taupe",
+              "sha256": "df5ec51f4d3bfd23c91a1ff0f50e274ec202f55d5b80bf49af77d43234a98dfd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10277927780671-image-52821758312767",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB100M-BulletTank-Fog-Dimitri-WebUse-Lifestyle2.jpg?v=1774536875",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tank-top-fog",
+              "sha256": "b1ea4774713dd68af52455da8e6f12e6cbe8da7d9081406e9b63b6fbd2a84145",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "onebone-10277927780671-image-52821758345535",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB100M-BulletTank-Fog-Dimitri-WebUse-MediumShot.jpg?v=1774541858",
+              "sourceUrl": "https://onebonebrand.com/products/bullet-tank-top-fog",
+              "sha256": "4c9c572689f6b3407dab9ed0090d3eb98894b570014371d96d517d27d7599f9b",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 30
+        },
+        {
+          "source": "wildfang",
+          "pages": [
+            {
+              "url": "https://www.wildfang.com/products.json?limit=250&page=1",
+              "products": 221,
+              "retrievedAt": "2026-09-16T21:37:45.966063+00:00",
+              "snapshotSha256": "a8eb4281dd7f65376e05b1fc59fd8b52f99c9c5061c40e5ac4ef11f21e07918d"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "wildfang-10420713947317-image-75033553207477",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYCAMPBUTTONUPDIAMONDSFOREST6.jpg?v=1779288684",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-8",
+              "sha256": "e291e54c4c072fc648189db988d5a2c5bc32031c196e3ea93370fef331e1f25c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420713947317-image-75033553240245",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYCAMPBUTTONUPDIAMONDSFOREST8.jpg?v=1778031736",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-8",
+              "sha256": "9372dc85dc229072f596b464a04c4386c5784a6d74b104bd0bd676b2948620e8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10365912645813-image-74849173242037",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/JULIETTE_LEWIS_X_WILDFANG_SLEEVELESS_DENIM_COVERALL_INDIGO_1.jpg?v=1775494138",
+              "sourceUrl": "https://www.wildfang.com/products/juliette-lewis-x-wildfang-sleeveless-denim-coverall",
+              "sha256": "375e4ac4d97f60dd539408ba338ef6fa1cfae929d7611ee86640959a2562120f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10365912645813-image-74849173176501",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/JULIETTE_LEWIS_X_WILDFANG_SLEEVELESS_DENIM_COVERALL_INDIGO_3.jpg?v=1774979754",
+              "sourceUrl": "https://www.wildfang.com/products/juliette-lewis-x-wildfang-sleeveless-denim-coverall",
+              "sha256": "e7199ac6ee7978ae1fb490b3d6da88ec491084f7e4220b129f807037cb753e45",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420697661621-image-75058846498997",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERBUTTONUPABSTRACTTILENAVY8.jpg?v=1776946780",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-button-up-18",
+              "sha256": "7d49b8e005220c370800f01976d6ffaf241283cf2e52be3a456eb1fdba52bee7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420697661621-image-75058846335157",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERBUTTONUPABSTRACTTILENAVY3.jpg?v=1776947467",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-button-up-18",
+              "sha256": "f93eab9713db44126ff5f570e210600dd9484b6fb389fc9be37ad1b93a081ca8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420715061429-image-75032235606197",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYMOCKNECKTANKDARKBLUE.jpg?v=1777477313",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tank-2",
+              "sha256": "fcfb2840facd5f9253db9e42523eba990e8e93aef14a2115a38dd29921be054d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420715061429-image-75032235540661",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYMOCKNECKTANKDARKBLUE7.jpg?v=1777477341",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tank-2",
+              "sha256": "1dd382ecbcefac270de4dcbd269e1efc1d585bbbce2833b9552dcfdebc3e9bfe",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420714537141-image-75032342233269",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYMOCKNECKTANKPLUM4.jpg?v=1776876398",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tank-1",
+              "sha256": "51e76639da37219d21a8ffe75d313fbf6718909025cde62d3ba0b3c4b6f29702",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420714537141-image-75032342298805",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYMOCKNECKTANKPLUM6.jpg?v=1776876545",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tank-1",
+              "sha256": "615cf81182c783e8334606af68e968f1792151982de31bb17c7b45cb28de1fee",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420714471605-image-75033689948341",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYSWEATERVESTOAT11.jpg?v=1776890689",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-sweater-vest-2",
+              "sha256": "f6236b9002c1be5d907b1290ed55d81cc436f228a20b0f18584e4404eb56019e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420714471605-image-75033689915573",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYSWEATERVESTOAT10.jpg?v=1777037088",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-sweater-vest-2",
+              "sha256": "307b1d53127912107cfa8661b587873a99e4a027d850c97e9de3ad0b9efd4324",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "wildfang-10420697202869-image-75033673990325",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYCAMPSHIRTMAGNOLIAPLUM6.jpg?v=1777038223",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-7",
+              "sha256": "465ddeeaa9b779ab2e14060259311e550b3f76ed05799872c579ef3770198eb6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420697202869-image-75033674023093",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYCAMPSHIRTMAGNOLIAPLUM7.jpg?v=1776889876",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-7",
+              "sha256": "f361ed8ae55f5141e866516e721fe68d16d6192defd0ea5ab640b12fb9557062",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420711882933-image-75058935562421",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUPANIMALTAUPE7.jpg?v=1777476089",
+              "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-55",
+              "sha256": "5c6bda4f57079ccc24d4d7c875c4244dd9e99d91409a981b5db2092b941a524d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420711882933-image-75058935627957",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUPANIMALTAUPE9.jpg?v=1777476126",
+              "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-55",
+              "sha256": "979742e733340eadb94105f242601752f26f1aa23d55dc840d77ddf094356487",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10267903459509-image-73653097496757",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALVESTCINNAMON4.jpg?v=1761589565",
+              "sourceUrl": "https://www.wildfang.com/products/the-essential-vest-6",
+              "sha256": "67fba709878700d544493e9b7f0744e7576b6b9126408567641543454fa4b153",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10267903459509-image-73653097463989",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALVESTCINNAMON3.jpg?v=1761589565",
+              "sourceUrl": "https://www.wildfang.com/products/the-essential-vest-6",
+              "sha256": "e19b8b8f2c0857063d4b2550041ffec6edd491ef40fea18cfd62c0419978e15e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420713259189-image-75058974949557",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERIRIS1.jpg?v=1776948685",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-11",
+              "sha256": "d453d8ca9a0336a615d5d272d0320029b3861d48baa961e0b35a9d1d266266d2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420713259189-image-75058974982325",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERIRIS2.jpg?v=1776948728",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-11",
+              "sha256": "6a884ab2bb6181c4edadc7108cef31b7545d4742a5c69d87ad6a1e6ebc82fd4a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420701495477-image-75033717768373",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERJACQUARDTUXBLAZERPLUM4.jpg?v=1776891702",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-jacquard-tux-blazer",
+              "sha256": "e267f39ae1dd4ff76bb559dfe26d039c597540c2ec31a34b85816b624d62d3b8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420701495477-image-75033717833909",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERJACQUARDTUXBLAZERPLUM6.jpg?v=1776891851",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-jacquard-tux-blazer",
+              "sha256": "38d22e5bfc5a9ebffeade9b275f51346cd08ddfb61b130d85b92ed109c24ec29",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420713586869-image-75058996084917",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERSLIMCROPPANTIRIS01.jpg?v=1778036122",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-7",
+              "sha256": "c39aae99dd7eaed0b6d62c9b3ab8c2c46b3629c00dc49ace9aafa68e9e84cb07",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420713586869-image-75058975047861",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERIRIS4.jpg?v=1776948784",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-7",
+              "sha256": "8496dd6e425fde8fa4364ca2f918f58f38f25ef623c1ad35f3222f464a0b74d2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420711489717-image-75034237403317",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERJACQUARDTROUSERPLUM.jpg?v=1779288632",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-jacquard-trouser",
+              "sha256": "9c935ad2a89b2877b4151d83439a578db6b8f2fdf1cad7f6c7b84eab38dcebc1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420711489717-image-75034237337781",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERJACQUARDTROUSERPLUM8.jpg?v=1776896693",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-jacquard-trouser",
+              "sha256": "d12420aaf6460dcff6a97fb4fcd714871c78d5d0343f0eb3eb2752905b0a9d0a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420697596085-image-75033704825013",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYDRAWSTRINGPANTMOCHA4.jpg?v=1777475119",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-drawstring-pant-1",
+              "sha256": "d586e45a4c370a6f1888c2582193c453ab97f91081d79eaf0bd8887bc1ac4201",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10420697596085-image-75033704792245",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYDRAWSTRINGPANTMOCHA3.jpg?v=1776890981",
+              "sourceUrl": "https://www.wildfang.com/products/the-everyday-drawstring-pant-1",
+              "sha256": "50332dd6d8483f3d11edc695e7f8203d52ea4bec7d72746150e81c10e1623968",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10365910155445-image-74481154031797",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERBUTTONUP_FERNMAZE_1.jpg?v=1771878842",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-button-up-17",
+              "sha256": "c6435cbad64c826fd2abd0b1999c06788ca149bd5f31b5dca8779eb069d7ed7b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wildfang-10365910155445-image-74481154064565",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERBUTTONUP_FERNMAZE_2.jpg?v=1772067415",
+              "sourceUrl": "https://www.wildfang.com/products/the-empower-button-up-17",
+              "sha256": "0e3eaae2b653f7d4c92be8c1b7fad51b4dc95cfa1efe48c7a76dd54274118819",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 29
+        },
+        {
+          "source": "tombolo",
+          "pages": [
+            {
+              "url": "https://tombolocompany.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-16T21:37:51.629712+00:00",
+              "snapshotSha256": "c676d310401efc1b4b273c0340bbbbfd1b83339ceb7d29446d721e73548c9108"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "tombolo-9056528105532-image-37872924262460",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Easy-GoingJacketNavy_3_0d17c443-ccf4-4a2a-b50e-a4b1f78b6dfa.jpg?v=1727809351",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-navy-corduroy-archive",
+              "sha256": "f7dd749d8ef6bcd22e2f77f31c862003e2985ddef509ddd944126d26e3c28f1b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528105532-image-38025609707580",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/DSCF4744.jpg?v=1728920886",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-navy-corduroy-archive",
+              "sha256": "82315ee23de9d7b68674b70223a23feff3d02d333ec9a762e72719119b4a6773",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528171068-image-37872861413436",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Easy-GoingJacketYellow_3_283574b4-ca55-4360-8f7a-de60561de31a.jpg?v=1727808859",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-saffron-corduroy-archive",
+              "sha256": "8282350739eedd4f34697e33d12eba01308c5a718e8f0cb85aeae4961a1bb052",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528171068-image-38025627762748",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/DSCF5133.jpg?v=1728920983",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-saffron-corduroy-archive",
+              "sha256": "4ebbd319b7b4045ad8b90db524f1c671b355fc98119563d17feb939b50232257",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "tombolo-9056528367676-image-36542892769340",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Conched_Out_Shorts_4-ADJUST.jpg?v=1719435709",
+              "sourceUrl": "https://tombolocompany.com/products/conched-out-mini-shorts-archive",
+              "sha256": "4481f16a1322cbb8c1a24b8780050992aba6204d4887e77dfdf01c45cfec431b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528367676-image-36541844684860",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/24042024_ESM_TOMBOLO_DAY-2_SHOT-21_050.jpg?v=1719436203",
+              "sourceUrl": "https://tombolocompany.com/products/conched-out-mini-shorts-archive",
+              "sha256": "b95643eae7ae76670a110920b35336471c06f86a7a7c30b4e09e27a462282753",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528564284-image-36620727025724",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Ripple_Shirt_Seersucker-_Pink_2-ADJUST_14e9f13b-87c0-4249-9333-5d18bf001a7e.jpg?v=1719931822",
+              "sourceUrl": "https://tombolocompany.com/products/voyager-shirt-coral-seersucker-archive",
+              "sha256": "7c0e1a63cf8f8f853cdd3e907e4762845e3e4d95794c232022a96d4aca97a1cd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528564284-image-36607775244348",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/65672_ESA_Tombolo_074_07-EDIT.jpg?v=1719865845",
+              "sourceUrl": "https://tombolocompany.com/products/voyager-shirt-coral-seersucker-archive",
+              "sha256": "e0e54a53e550f82b79f64f5a513879fbb263203528737a695c2ff7a6659554cf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528662588-image-36620687409212",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Ripple_Shirt_Seersucker-_Blue_2.jpg?v=1719931552",
+              "sourceUrl": "https://tombolocompany.com/products/voyager-shirt-aqua-seersucker-archive",
+              "sha256": "2d477c82d8662f84fd4a17605becd6ab8471d46777e89ea037831bb5c38513ee",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056528662588-image-36607618613308",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/65672_ESA_Tombolo_075_10-EDIT.jpg?v=1719865337",
+              "sourceUrl": "https://tombolocompany.com/products/voyager-shirt-aqua-seersucker-archive",
+              "sha256": "2452842b21c2c7e9d74387352aa22ff09656b377e40db41856eddcc115b5feda",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529088572-image-35657851109436",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/TankAdjust_03ed9c20-7b40-4cc0-8ec5-eae59cfb8173.jpg?v=1721143603",
+              "sourceUrl": "https://tombolocompany.com/products/the-sopranos-fowl-play-tank-top-archive",
+              "sha256": "3e2227bc8ed4a0b5818d172b65829b5d5210539722178c60a84f7fd371f3b1dd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529088572-image-35535165554748",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/24042024_ESM_TOMBOLO_DAY-1_SHOT-3_056_2ac9448f-645b-4c2b-bed7-b224e942ee72.jpg?v=1721143603",
+              "sourceUrl": "https://tombolocompany.com/products/the-sopranos-fowl-play-tank-top-archive",
+              "sha256": "d8a79b6b86283afc42860a841335028770418770ff62b815426b008064566d3f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529121340-image-36421024677948",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/SopranosTeeNew.jpg?v=1718658888",
+              "sourceUrl": "https://tombolocompany.com/products/the-sopranos-souvenir-terry-tee-archive",
+              "sha256": "7b4f25ce83f776f95719b880941b4d5ca57823b420ec21fa395370b9d212cee3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529121340-image-33932056297532",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/SopranosTerryTee_2.jpg?v=1718658888",
+              "sourceUrl": "https://tombolocompany.com/products/the-sopranos-souvenir-terry-tee-archive",
+              "sha256": "e594476071e29f6ae71e966e49347c818826d6a94dde74cf0eb9c713f20db780",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529580092-image-38053702795324",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Easy-GoingPantsNavyLinen_1copy.jpg?v=1729110805",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-navy-linen-archive",
+              "sha256": "33d3acf91111781027b92c12a870a2e32976fa03c6bf81a005e07faed9b30d76",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529580092-image-35234871509052",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/65672_ESA_Tombolo_043_06copy_e982e537-5170-4fe3-8e3f-9a78db471f74.jpg?v=1715202590",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-pants-navy-linen-archive",
+              "sha256": "1b3a59b3026ad55a37a776995b10aa7b16260ef46371051e0293372efd17174d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529678396-image-38053703155772",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Easy-GoingJacketNavyLinen_1copy.jpg?v=1729110816",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-navy-linen-archive",
+              "sha256": "472f61002da542346e42029fcb77492ccd4fe255b258fdea7c110b2202d45b8f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529678396-image-35234392670268",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/65672_ESA_Tombolo_047_07copy.jpg?v=1715201145",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-navy-linen-archive",
+              "sha256": "5fdb087c9012e60ee8257b57314dc005b0954fb8b886906c03365c2e70547e1f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529645628-image-38054108135484",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Easy-GoingJacketNavyJacquardStripe_1copy2.jpg?v=1729113591",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-navy-jacquard-stripe-archive",
+              "sha256": "9bb905727e5e7847324bba9740bb5107345c69c2819962a8445ad940bb16b46b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529645628-image-35234369929276",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/65672_ESA_Tombolo_056_08copy.jpg?v=1715201135",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-navy-jacquard-stripe-archive",
+              "sha256": "03d55386939ee68a37d607c8fd73aaf47bdc6946c20aac36681f4e2b0a304e6b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529711164-image-38053793431612",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/Brown-Jacket.jpg?v=1729111687",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-brown-linen-archive",
+              "sha256": "1d04aca6ec922e12170e00b985d150cdd5418ca616f62f1ec2aa622f866e8d8a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056529711164-image-35234300657724",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/65672_ESA_Tombolo_037_04copy.jpg?v=1715280166",
+              "sourceUrl": "https://tombolocompany.com/products/easy-going-jacket-brown-linen-archive",
+              "sha256": "aff6ccb8153ae24d2ac3f59ceec2c208fa4034a58eadfa63008f2d44a14bbb87",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056530464828-image-32169170763836",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/products/Cabannabis59-2.jpg?v=1682013221",
+              "sourceUrl": "https://tombolocompany.com/products/cabannabis-cabana-shorts-archive",
+              "sha256": "ceaeb1c1a4f192d4b9ae7c6b1efe131ebe126baa7d99d6403f10b1f48da5080f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056530464828-image-32169171058748",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/products/Cabannabis45.jpg?v=1682016769",
+              "sourceUrl": "https://tombolocompany.com/products/cabannabis-cabana-shorts-archive",
+              "sha256": "74c613a7889be943a8a79d60ee2d20adc497803d2531409b890b0bbbe122610d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056530726972-image-31486592647228",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/products/MG_0149_42bb0081-0a07-4fcb-b7f9-486bbb49e1c3.jpg?v=1666368159",
+              "sourceUrl": "https://tombolocompany.com/products/tombarolo-cabana-shorts-archive",
+              "sha256": "5e82af7167a5cc79a5a4682d94392667a47442c671bb9e5419d80d2c22fe8885",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056530726972-image-31486592548924",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/products/MG_0151.jpg?v=1666368159",
+              "sourceUrl": "https://tombolocompany.com/products/tombarolo-cabana-shorts-archive",
+              "sha256": "ee3a99483ca5c37bbed116e15a9ca3013bc86ec0e9f9c31f354c8f0128b5beee",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056531415100-image-30294558769212",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/products/MG_01664.jpg?v=1652740289",
+              "sourceUrl": "https://tombolocompany.com/products/stowaway-shorts-khaki-archive",
+              "sha256": "60b6f227057e2c05b7a56d691f99117f955b85b4686b2301063d20de0092952e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056531415100-image-32201082929212",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/files/180_f807ba31-83fe-4990-aa68-7f8f6bd9841a.jpg?v=1699043987",
+              "sourceUrl": "https://tombolocompany.com/products/stowaway-shorts-khaki-archive",
+              "sha256": "be69116251ab4707891822e6b1359ee0906d17bc75423fc9a1ee7a33fc4dcfd0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056531808316-image-29245106618428",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/products/MG_35692copy.jpg?v=1638896876",
+              "sourceUrl": "https://tombolocompany.com/products/dsny-x-tombolo-cabana-shorts-archive",
+              "sha256": "f3d57d8b5a99a6b7e55eb67d978e32fe2f3dc556210eb0a8ec0584df5a9c5f78",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tombolo-9056531808316-image-30143294079036",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2386/0893/products/BvFj-XSQ22_c99cde0d-8bd2-4d35-8f0b-9e0b254ee919.jpg?v=1651104048",
+              "sourceUrl": "https://tombolocompany.com/products/dsny-x-tombolo-cabana-shorts-archive",
+              "sha256": "7d15f307f744acf503b59e194e77a511c2db52ca34f8f953e27fe50d0249d1b8",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 29
+        },
+        {
+          "source": "snag",
+          "pages": [
+            {
+              "url": "https://snagtights.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-16T21:37:58.095522+00:00",
+              "snapshotSha256": "a1eb2c63dc567c5e29cdb14bf3f20725ba4c41cde42da5da0eaf07751c673ab4"
+            },
+            {
+              "url": "https://snagtights.com/products.json?limit=250&page=2",
+              "products": 250,
+              "retrievedAt": "2026-09-16T21:37:58.880508+00:00",
+              "snapshotSha256": "6c02902a0d5313dfa46347dbdc4bc75325e5d6bf8394a95f8d2b28d78b939f97"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "snag-7511057858602-image-33241098715178",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Marissa-SizeF-SheerTop-BrachiodeJoy.jpg?v=1734698319",
+              "sourceUrl": "https://snagtights.com/products/dinosaur-sheer-top-brachio-de-joy",
+              "sha256": "d3f3cfdeae2e90ebada59122051f90ce5ff3398eb74d3360cf515476cd9b94eb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7511057858602-image-33241098518570",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Celia-SizeE-SheerTop-BrachiodeJoy-BlackandDinoPencilSkirt_2.jpg?v=1734698319",
+              "sourceUrl": "https://snagtights.com/products/dinosaur-sheer-top-brachio-de-joy",
+              "sha256": "02c94942c6d46a85170b612b9d0dc9992d3508e2ac5d6e799c2c499ce23af359",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7392315637802-image-33406889361450",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Marsha-SizeF-PirouetteWrapTopandBlackV2MiniFlare_3.jpg?v=1768507387",
+              "sourceUrl": "https://snagtights.com/products/v2-mini-flare-skirt-gosh-black",
+              "sha256": "b963cb9ed12ba9bf3b8648b42260ea22fd9c6a4bc9eba2ab6706596dc764332f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7392315637802-image-33406889394218",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/mini-flare-skirt-gosh-black-snag-1_d1596887-d550-4bd9-b8e0-2f20e33433b5.jpg?v=1778943170",
+              "sourceUrl": "https://snagtights.com/products/v2-mini-flare-skirt-gosh-black",
+              "sha256": "cdf9388a6d8405d26bc6e94ace82d13acd0acae0c9691d4f5b9dc9e2f1bfc81d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7871412207658-image-36642144288810",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Frankie-Size_D-Fit_Flare_Dress-Black_2.png?v=1778187131",
+              "sourceUrl": "https://snagtights.com/products/audrey-dress-black",
+              "sha256": "d41e56cacb78dba9292c49401e839b1a3cc360d43ba6c61f66255ac477a6dd07",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7871412207658-image-36642144354346",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Josephine-Size-F-Audrey-Dress-Black4.jpg?v=1778187130",
+              "sourceUrl": "https://snagtights.com/products/audrey-dress-black",
+              "sha256": "02de0ed22abc675d573df712eff4195223a1a2078de52d407a632617b5f14d86",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7871411355690-image-36668184494122",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Ellis-SizeF-WrapDress-EvilEye_4.jpg?v=1778686491",
+              "sourceUrl": "https://snagtights.com/products/malocchio-wrap-dress",
+              "sha256": "3cefb3910d26b32856a85472f8d63d9d748e792a49f61bd2932886e46add82bf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7871411355690-image-36666003816490",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Nicole-Size-AB_Paige-Size-C-Malocchio-Wrap-Dress.jpg?v=1778514033",
+              "sourceUrl": "https://snagtights.com/products/malocchio-wrap-dress",
+              "sha256": "e14b9c59f02beca6c97914e28b89c0e00bdc6d573d20b45a4d48498948470af7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7871410208810-image-36642143174698",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Amy-Size-D-Flare-Skirt-Evil-Eye.jpg?v=1778187125",
+              "sourceUrl": "https://snagtights.com/products/malocchio-flare-skirt",
+              "sha256": "08ba9d51ee1da136103166c549e8c9fe6b0982df0ff03c7847f947a1cf2d6845",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7871410208810-image-36642142945322",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Amy-Size-D-Flare-Skirt-Evil-Eye5.jpg?v=1778187125",
+              "sourceUrl": "https://snagtights.com/products/malocchio-flare-skirt",
+              "sha256": "c47cc6c103fb948403a4c3c93c41496d1edf6de092a77ea486ebed2a56bdfc48",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7871408308266-image-36642143862826",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Andii-Size-G-Puff-Sleeve-Top-Black3.jpg?v=1778187129",
+              "sourceUrl": "https://snagtights.com/products/crew-neck-puff-sleeve-tee-black",
+              "sha256": "aa752241f27fd3daa3719e224196d28c83dbd6832a5a378ad9d4d31bdc89179d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7871408308266-image-36642143928362",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Andii-Size-G-Puff-Sleeve-Top-Black11.jpg?v=1778187129",
+              "sourceUrl": "https://snagtights.com/products/crew-neck-puff-sleeve-tee-black",
+              "sha256": "0758edf08cbf701d1476d49a2b77abb34670db6310ab4031a652657da53a2458",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7700080263210-image-36642142093354",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Shannon-Size-D-Check-Trousers-Bonnie-6.jpg?v=1778187125",
+              "sourceUrl": "https://snagtights.com/products/plaid-wide-leg-trousers-bonnie-red",
+              "sha256": "4c87e162f924d0346f6e7e87d80e057773074c5e7825b987ed478584916e1f39",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7700080263210-image-36642142158890",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Shannon-Size-D-Check-Trousers-Bonnie-2.jpg?v=1778187125",
+              "sourceUrl": "https://snagtights.com/products/plaid-wide-leg-trousers-bonnie-red",
+              "sha256": "29e1d6c4b1cf171e1d7baf44c3adbcd4d31959e549d9407b52c509ed8c7cdc51",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7860305723434-image-36587145691178",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Josephine-Size-G-Chompy-Debbie-Tee2.jpg?v=1777578951",
+              "sourceUrl": "https://snagtights.com/products/debbie-off-shoulder-tee-chompy-shark-print",
+              "sha256": "14bf22eb6260f6afbc62b561d743d464f582e520e7264bc70b8dcdcdd561c0aa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7860305723434-image-36587145756714",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Josephine-Size-G-Chompy-Debbie-Tee3.jpg?v=1777578951",
+              "sourceUrl": "https://snagtights.com/products/debbie-off-shoulder-tee-chompy-shark-print",
+              "sha256": "14272de3a5f538f31466b31d80f7bef01fdd2b428d6010a1c5b6eee2b8d656ad",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7856010297386-image-36544491290666",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Beth-Size-E-Mini-Flare-Skirt-Navy3.jpg?v=1776964841",
+              "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-navy",
+              "sha256": "66f365c5896860203a09561606935ae29b81b969ba43d8e94df01dc332f3cc49",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7856010297386-image-36544491356202",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Deeva-Size-C-Mini-Flare_Skirt-Navy2.jpg?v=1776964841",
+              "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-navy",
+              "sha256": "12bb0c9a5ddd60723a6040efe1a5e0a7796c342d0b8b278592b3f646830d7750",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7856010264618-image-36544492273706",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Larrissa-SizeF-MiniFlareSkirt-Mulberry_5_1.jpg?v=1776964841",
+              "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-mulberry",
+              "sha256": "c15da57d6f70d8faf20607fba13bf18edefa6b67850938e61d8e94629022180e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7856010264618-image-36544492339242",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Lara-Size-F-Mini-Flare-Skirt-Mulberry4.jpg?v=1776964841",
+              "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-mulberry",
+              "sha256": "6c3d5f461a94ce942dcf8d30c61853df3419b928ecc2ee4969a6de02670501c8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7856010231850-image-36544491782186",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Luce-Size-F-Mini-Flare-Skirt-Charcoal2.jpg?v=1776964841",
+              "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-charcoal",
+              "sha256": "71f1d1b4d9960ccd1970b2cae74bd5621d031ccc81ee87c47c423218651d5838",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7856010231850-image-36544491847722",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Louise-Size-F-Mini-Flare-Skirts-Charcoal4.jpg?v=1776964841",
+              "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-charcoal",
+              "sha256": "41a1e86b3b7d4623e88eae0e5ecef262d911086d46b4714df6f94a6d135c78b1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7851866357802-image-36495834742826",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Lyza-Size-F-Chub-Rubs-Mint-Leaf3.jpg?v=1776350781",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-mint-leaf",
+              "sha256": "5fd1855db0e1168453d63f1547d65e567c4db5d171efcad44e37ea732db158c4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7851866357802-image-36496651092010",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Morgana-Size-E-Chub-Rubs-Mint-Leaf1.jpg?v=1776364383",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-mint-leaf",
+              "sha256": "d5e0e36c23e80b3658a8268189fc0567d2c8dc1229a0c3dbb9c158f9a8bd3cd3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7851866390570-image-36495835136042",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Amy-Size-F-Chub-Rubs-Blue-Curacao4.jpg?v=1776350781",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-blue-curacao",
+              "sha256": "ef79aba2e6a85c041537f6b0378950f1a372632c2f1dc3505e1053b7fde725c7",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "snag-7851866390570-image-36496447504426",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Aimee-Size-G-Chub-Rubs-Blue-Curacao.jpg?v=1776360895",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-blue-curacao",
+              "sha256": "46215501a58a4329e0cc999731a28d8206e5ef87afc1adb65f8f4ad181fb58b7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7851866456106-image-36495834316842",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Iona-Size-F-Chub-Rubs-Shepherds-Delight2.jpg?v=1776350780",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-shepherds-delight",
+              "sha256": "c5c56f3431a7414b9dda3adfc1c36c147b90bf7aed2fa1add421371c91e70ea3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7851866456106-image-36495834382378",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Iona-Size-F-Chub-Rubs-Shepherds-Delight.jpg?v=1776350780",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-shepherds-delight",
+              "sha256": "c8d207f3e2b2bac243a4dd9f5e2162ed9b0406dc79de87c9b9e709cf856913b7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7851866488874-image-36495834021930",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Sophie-Size-F-Chub-Rubs-Hot-Coral1.jpg?v=1776442412",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-hot-coral",
+              "sha256": "9abb2ae3ff6000f021a4c6e2101a80bd2f655a6b3c7963c3fbea835e3ef832f1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7851866488874-image-36495834054698",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Lee-Size-E-Chub-Rubs-Hot-Coral1.jpg?v=1776370695",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-hot-coral",
+              "sha256": "1d91168b41d85299a4bae4b76e6c1b94f446e135df3cb3308f65ce80bc7ed671",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 29
         }
       ]
     }
