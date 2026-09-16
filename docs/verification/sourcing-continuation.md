@@ -13,4 +13,6 @@ The source inventory indexes 1,312 provably sampled pages across 24 normalized s
 - The initial browser invocation needed the already-installed Chromium selected explicitly. With that configuration, 85 browser tests pass; the low-chroma check identified the coat above. After the narrow reviewed exception, the specific color/asset-loading rerun passes too: all 86 browser cases pass across these verification runs.
 - Git prefix comparison verifies the complete old photo, asset and body-reference arrays remain unchanged.
 
-Deployment pending verification. Scheduled September 17–23 sourcing runs commit verified progress but do not automatically deploy.
+Privately republished through `publish_site` on September 16 at https://stylr-personal-hatsunemiku.zo.computer/. All eight live browser checks pass across body controls and four responsive viewports. All 139 new served image hashes match their reviewed originals; production HTML matches the verified isolated build. Unauthenticated access redirects to owner sign-in (302). All 13 successful new listing snapshots also match committed provenance hashes. The data/code release is `2c3c128` on `personal-discovery`.
+
+Scheduled September 17–23 sourcing runs commit verified progress but do not automatically deploy.
