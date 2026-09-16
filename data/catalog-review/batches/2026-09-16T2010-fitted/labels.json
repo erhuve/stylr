@@ -1,0 +1,946 @@
+[
+  {
+    "id": "bigbudpress-10949795479745-image-50172914041025",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/paintstamped-pantry-button-up-lilypad",
+    "localPath": "images/bigbudpress-10949795479745-image-50172914041025.webp",
+    "sha256": "abd4aa62a1a082e9eebacdbd5cf41bd0c771b8bb73819bbce149be2629f6cd85",
+    "ordinal": 0,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bright printed short-sleeve shirt over pink tank and matching trousers; open shirt obscures contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10949795479745-image-50172914106561",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/paintstamped-pantry-button-up-lilypad",
+    "localPath": "images/bigbudpress-10949795479745-image-50172914106561.webp",
+    "sha256": "36830b1afc83424ee99938bb31cb584ca9ee0d259d78ebb6d474b50b3f70775d",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated blue print outfit pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10949795086529-image-50172919709889",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/paintstamped-pantry-button-up-froggy",
+    "localPath": "images/bigbudpress-10949795086529-image-50172919709889.webp",
+    "sha256": "2ba4ee3b3fb358d89ef82492028a10e3ef3da78ea2193f51bcd548579a1bf3a7",
+    "ordinal": 2,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Minor print/color variant of open-shirt outfit at 0.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10949795348673-image-50172897132737",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/paintstamped-pantry-button-up-big-bug",
+    "localPath": "images/bigbudpress-10949795348673-image-50172897132737.webp",
+    "sha256": "60de9533f52cd08afe384c7e6763baee6868218e20e7ddcb7d290202210dc138",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green print outfit crop repeats fuller view at 4.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10949795348673-image-50172897198273",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/paintstamped-pantry-button-up-big-bug",
+    "localPath": "images/bigbudpress-10949795348673-image-50172897198273.webp",
+    "sha256": "648a2a68e797b54a815baad4ab1f0f1b21fe453102933b18298485ba9ebbf072",
+    "ordinal": 4,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green illustrated matching shirt and trousers with tank; raised arm and open layer obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11014078464193-image-50610250383553",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/classic-polo-dishwater-white",
+    "localPath": "images/bigbudpress-11014078464193-image-50610250383553.webp",
+    "sha256": "9e9c62b86d4073a75265901307e628e776a0e29dbf71294aa6503a95a5e3b875",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Polo crop repeats full view at 6.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11014078464193-image-50610250449089",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/classic-polo-dishwater-white",
+    "localPath": "images/bigbudpress-11014078464193-image-50610250449089.webp",
+    "sha256": "dd4c13fbc2da7232cd5c6788b937cd594cd47352b4367bffc22532c5fbe51b75",
+    "ordinal": 6,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Enlarged frontal polo/jeans view: similar shoulder and upper-hip spans, moderate inward waist; lower legs are loose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11014078333121-image-50610271748289",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/classic-polo-french-blue",
+    "localPath": "images/bigbudpress-11014078333121-image-50610271748289.webp",
+    "sha256": "783e783ef4a8b571991a7d4ac4e6b79170c77d2977886cef78d5f9d1933ab1c0",
+    "ordinal": 7,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue polo over jeans; untucked straight shirt masks waist/hip boundary.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11014078333121-image-50610271813825",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/classic-polo-french-blue",
+    "localPath": "images/bigbudpress-11014078333121-image-50610271813825.webp",
+    "sha256": "1ef97d901590797c13cae28baf98aaf7243fdeb53487f2c8d302c12291765f0e",
+    "ordinal": 8,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated polo crop with arms covering torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11014078070977-image-50610326634689",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/classic-polo-gross-green",
+    "localPath": "images/bigbudpress-11014078070977-image-50610326634689.webp",
+    "sha256": "b709cab0427212d9e6d40a125d9c5c7634ee67c1fef748f012de60b42be55f14",
+    "ordinal": 9,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": 1.0,
+      "waist": null
+    },
+    "evidence": "Enlarged green polo/trouser view: shoulders wider than visible hips; draped shirt masks waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11014078070977-image-50610326700225",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/classic-polo-gross-green",
+    "localPath": "images/bigbudpress-11014078070977-image-50610326700225.webp",
+    "sha256": "b36b95eda8922972b874070aec0edb618ee94982ee72a334c0b4e9814f6fd2c7",
+    "ordinal": 10,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated green polo pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11014077579457-image-50610299830465",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/classic-polo-burnt-terracotta",
+    "localPath": "images/bigbudpress-11014077579457-image-50610299830465.webp",
+    "sha256": "20ea26dce3ed0d66b7278378c7bedb86ab714b5c8deeb1ad1988e47075d49193",
+    "ordinal": 11,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Reclining orange polo color variant of 9; no useful additional contour evidence.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11014077579457-image-50610299896001",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/classic-polo-burnt-terracotta",
+    "localPath": "images/bigbudpress-11014077579457-image-50610299896001.webp",
+    "sha256": "dcce7d0de1de08c058d3d0c3d5795ffb8d85f416f097778522f1a8672ad533ea",
+    "ordinal": 12,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Orange polo/trouser color variant repeats ensemble at 9.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004213035201-image-50548404388033",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-red-star",
+    "localPath": "images/bigbudpress-11004213035201-image-50548404388033.webp",
+    "sha256": "9c12aac9fb9c573fb4ca66fe7e023c59ee1f2b67c92867d36cd1c57e67c5da11",
+    "ordinal": 13,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red tank neckline and print crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004213035201-image-50548404453569",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-red-star",
+    "localPath": "images/bigbudpress-11004213035201-image-50548404453569.webp",
+    "sha256": "65df8be80706c12038c5877cc7e9fb39651b2ae311039b6e01867a62ab58a0c0",
+    "ordinal": 14,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Red fitted cropped tank with gathered jeans; moderate visible waist indentation, loose hips and bent arms.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004212510913-image-50548393115841",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-yellow-hibiscus",
+    "localPath": "images/bigbudpress-11004212510913-image-50548393115841.webp",
+    "sha256": "775d7353b4094bdbfe383cf612a4e2ee75ed794c6ea340c90f48be8693febdc6",
+    "ordinal": 15,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow tank seated pose repeats clearer standing view at 16.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004212510913-image-50548393181377",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-yellow-hibiscus",
+    "localPath": "images/bigbudpress-11004212510913-image-50548393181377.webp",
+    "sha256": "53030839e02bba521d5a4dd836cb2ea6b17cca52a0f3325c9af7b42d7f0cc513",
+    "ordinal": 16,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Enlarged yellow tank view: moderate waist indentation; hands spread trouser pockets so hip span stays unknown.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004213067969-image-50548414709953",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-blue-sun",
+    "localPath": "images/bigbudpress-11004213067969-image-50548414709953.webp",
+    "sha256": "d77c0316ebbf4d5403dd9aafabc028311cc9ac865fb2db1a607c12a29b7afda4",
+    "ordinal": 17,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue tank neckline and print close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004213067969-image-50548414775489",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-blue-sun",
+    "localPath": "images/bigbudpress-11004213067969-image-50548414775489.webp",
+    "sha256": "cc813e6cf1773a9e29256ca9fb5ffa69f68e4db2d6598402297c005ad997fe84",
+    "ordinal": 18,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue tank color/print variant repeats cropped-tank ensemble at 14.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004212969665-image-50548399407297",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-green-heart",
+    "localPath": "images/bigbudpress-11004212969665-image-50548399407297.webp",
+    "sha256": "ef7b0c0223f609d8c01b9b93b18940d24ed9790fabe7726fc47ad7497f7f6a4d",
+    "ordinal": 19,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green tank color/print variant of 16.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004212969665-image-50548399472833",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-green-heart",
+    "localPath": "images/bigbudpress-11004212969665-image-50548399472833.webp",
+    "sha256": "3a9ad87ac52d97bdd22ecd4e2331a05d1219058a98b23a7422faa6ab1f5f61c4",
+    "ordinal": 20,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated green tank pose with raised arm.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004213100737-image-50548411367617",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-black-star",
+    "localPath": "images/bigbudpress-11004213100737-image-50548411367617.webp",
+    "sha256": "ce8c1772a5f50be9006d9882ddb59a85428cf749344b899b74efc41753c34a8e",
+    "ordinal": 21,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Enlarged black cropped tank with loose drawstring trousers: moderate waist indentation; gathered hips uncertain, styling neutral.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11004213100737-image-50548411433153",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/icon-cropped-tank-black-star",
+    "localPath": "images/bigbudpress-11004213100737-image-50548411433153.webp",
+    "sha256": "c8abda8d93c9a81cdc6a9c6b4137b8708a9bd6c788b862b46acb4bcae67cc83f",
+    "ordinal": 22,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated black tank crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11001705660609-image-50528581157057",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/magic-waters-vintage-tee-rainbow",
+    "localPath": "images/bigbudpress-11001705660609-image-50528581157057.webp",
+    "sha256": "6a3c658ccc5eb21aae5807c581a2108e754f2251233c3d5ea10511a4e4311f97",
+    "ordinal": 23,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated tie-dye tee outfit repeats fuller view at 24.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11001705660609-image-50528581255361",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/magic-waters-vintage-tee-rainbow",
+    "localPath": "images/bigbudpress-11001705660609-image-50528581255361.webp",
+    "sha256": "89ae05d29bae7cef5315eea1b989f177113727e5efe618aafb1769e40cb43ecf",
+    "ordinal": 24,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tie-dye tee and wide pale jeans; hands on waist and loose clothing obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11001705234625-image-50528579748033",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/magic-waters-vintage-tee-orange",
+    "localPath": "images/bigbudpress-11001705234625-image-50528579748033.webp",
+    "sha256": "2f6fc9c0c2414ac0c736bfb70f0fc2e94bd3aa42492b4e4c0c0eff0ccd7dbb2a",
+    "ordinal": 25,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated orange tee repeats full standing outfit at 26.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11001705234625-image-50528579813569",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/magic-waters-vintage-tee-orange",
+    "localPath": "images/bigbudpress-11001705234625-image-50528579813569.webp",
+    "sha256": "b70f06651426ad489cd049711c441bb6183515ec7d5c787eaab142f5d17ff1a3",
+    "ordinal": 26,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Orange tie-dye tee and wide dark trousers; loose straight garments conceal shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11001695633601-image-50528571392193",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/magic-waters-vintage-tee-dark-lavender",
+    "localPath": "images/bigbudpress-11001695633601-image-50528571392193.webp",
+    "sha256": "f62d1f049d96637e80fbc09291393bffb8e9960e12fa983cb70569d2f64b618f",
+    "ordinal": 27,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Reclining purple tee repeats more legible seated view at 28.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-11001695633601-image-50528571457729",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/magic-waters-vintage-tee-dark-lavender",
+    "localPath": "images/bigbudpress-11001695633601-image-50528571457729.webp",
+    "sha256": "ff87979bc8d69117d96695e301194f4c20a7bd5d6025f98fd8fb4099341711b0",
+    "ordinal": 28,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Purple tie-dye tee with lilac trousers; seated folded legs prevent hip/waist comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7925074133034-image-36975528050730",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/cut-sew-chub-rubs-in-viscose",
+    "localPath": "images/snag-7925074133034-image-36975528050730.webp",
+    "sha256": "b8a559d1401306ab0756085ef5eb360f04d56c608586d945c215effdc7bb7e66",
+    "ordinal": 29,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White blouse with black shorts seen from rear/side.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7925074133034-image-37434630963242",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/cut-sew-chub-rubs-in-viscose",
+    "localPath": "images/snag-7925074133034-image-37434630963242.webp",
+    "sha256": "0a0ac450fc5b2123463e18441143e2bbd4fe2639fa1c6e84083dc28b4d6f97ca",
+    "ordinal": 30,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lifted skirt and undershort detail; no outfit-level view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7925073412138-image-36975524053034",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/crotchless-stay-cool-chub-rub-shorts-black",
+    "localPath": "images/snag-7925073412138-image-36975524053034.webp",
+    "sha256": "8464eb3ad66fd16994361f3fe76ef4596530a8c273987478ed72a5ff35b2b0b3",
+    "ordinal": 31,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Robe and shorts pose repeats clearer frontal outfit at 32.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7925073412138-image-36975523921962",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/crotchless-stay-cool-chub-rub-shorts-black",
+    "localPath": "images/snag-7925073412138-image-36975523921962.webp",
+    "sha256": "deb21102c6039987ec916cd90e631012f404ed2e7eff847bc060b5fd2b20abd8",
+    "ordinal": 32,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Printed robe with strappy sheer top and dark shorts; open robe and pose hide lateral contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7925072298026-image-36975515369514",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/bacteriostatic-stay-cool-chub-rub-shorts-black",
+    "localPath": "images/snag-7925072298026-image-36975515369514.webp",
+    "sha256": "85c9521658f5d5dc23a1d738d8f72cae667f9a7860c31087759af51b31038e38",
+    "ordinal": 33,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Spotted oversized tee and shorts while seated; laptop and pose obscure torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7925072298026-image-36975515435050",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/bacteriostatic-stay-cool-chub-rub-shorts-black",
+    "localPath": "images/snag-7925072298026-image-36975515435050.webp",
+    "sha256": "75a223dbff71423e37812dce14d6f02c2cdebe0cc57fbaf0bf3f17577b6107fe",
+    "ordinal": 34,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side mirror pose repeats spotted tee/shorts ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6910176919594-image-35412500512810",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/long-hoodie-black",
+    "localPath": "images/snag-6910176919594-image-35412500512810.webp",
+    "sha256": "bab41e21294c2256345c08befe93cd33e39c53bb0c7162db79c10c64ad217e94",
+    "ordinal": 35,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Oversized black hoodie with pale leggings; loose hem hides shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6910176919594-image-35412500348970",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/long-hoodie-black",
+    "localPath": "images/snag-6910176919594-image-35412500348970.webp",
+    "sha256": "e80583b460715ddd465b91c7ab84e5bcf95905034a3d3aa4b27323fb1b235f27",
+    "ordinal": 36,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Long dark hoodie and pink leggings with boots; loose torso obscures individual axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7618317418538-image-36452227547178",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/dress-mini-wrap-black",
+    "localPath": "images/snag-7618317418538-image-36452227547178.webp",
+    "sha256": "f6644147733a4714fff0e19d8d4509bf395f20434d63137debda1c9f3378be13",
+    "ordinal": 37,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black V-neck flared dress with wide belt and strapped heels; belt and flared skirt conceal natural contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7618317418538-image-36452227612714",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/dress-mini-wrap-black",
+    "localPath": "images/snag-7618317418538-image-36452227612714.webp",
+    "sha256": "bc49bee6c7f079b17c5000b477808b38718019046d20f33a0c4dee5c9c5eff63",
+    "ordinal": 38,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black wrap dress and heels; flared skirt and wrap construction obscure hips/waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7820013076522-image-36130955264042",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mesh-top-love-me",
+    "localPath": "images/snag-7820013076522-image-36130955264042.webp",
+    "sha256": "9bdbe54f10185d50e42861a6b6dd0a510806ab217700054c6fc542a57136ec5a",
+    "ordinal": 39,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink heart-top outfit crop repeats fuller styled view at 40.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7820013076522-image-36130955329578",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mesh-top-love-me",
+    "localPath": "images/snag-7820013076522-image-36130955329578.webp",
+    "sha256": "fdfff99986d6a363fe624dabc781109225f4c5e5a37469393d0bb59c4debd7a0",
+    "ordinal": 40,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink sheer skirt over heart-print top with corset belt and red boots; styled waist and skirt obscure body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7511058382890-image-33241101598762",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/dinosaur-wrap-dress-brachio-de-joy",
+    "localPath": "images/snag-7511058382890-image-33241101598762.webp",
+    "sha256": "7d78ab91cea3bf5e34b36e57a70675bc920dc3e844f4ff04b620f1920849c5ec",
+    "ordinal": 41,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green printed wrap dress; gathered wrap waist and full skirt prevent shape labels.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7511058382890-image-33241101336618",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/dinosaur-wrap-dress-brachio-de-joy",
+    "localPath": "images/snag-7511058382890-image-33241101336618.webp",
+    "sha256": "a4e69e97f8eb2cc5e22a613cf5f9ef4ab586c3e94f77074f1086f94fd6e59f4b",
+    "ordinal": 42,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Wrap dress neckline and tie close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7547806515242-image-33529613221930",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/long-sleeve-wrap-top-pirouette",
+    "localPath": "images/snag-7547806515242-image-33529613221930.webp",
+    "sha256": "0e9111c2c7aa9b2073cbd141a199bd1b652c5325a8134f9cf0c30b9029dca53a",
+    "ordinal": 43,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red wrap top with short black skirt and dark hosiery; wrap construction and skirt conceal contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7547806515242-image-33529613189162",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/long-sleeve-wrap-top-pirouette",
+    "localPath": "images/snag-7547806515242-image-33529613189162.webp",
+    "sha256": "a723874412890261cf74b151557e4cbce0803032d59ea9f07480c763411a8a62",
+    "ordinal": 44,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red top, checked skirt and tall boots; raised arm and skirt hide shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7458829795370-image-32705170767914",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mesh-sleeve-top",
+    "localPath": "images/snag-7458829795370-image-32705170767914.webp",
+    "sha256": "77f5ae55b8900f7516db6abc47a559dc30493253d15ea5c92570d52cfb7f1f7c",
+    "ordinal": 45,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Enlarged fitted sheer-sleeve top and pleated trousers with pointed heels: moderate waist, pleats hide hip width.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7458829795370-image-32705173225514",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mesh-sleeve-top",
+    "localPath": "images/snag-7458829795370-image-32705173225514.webp",
+    "sha256": "ddb1d0cd96d952fd78f9b83381e40e39bdc4af075dccd765fd52f00b66a8027c",
+    "ordinal": 46,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black fitted bodice and flared skirt; hands at waist and skirt hide hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7897418825770-image-36782076526634",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/fishnet-top-full-alanis-black",
+    "localPath": "images/snag-7897418825770-image-36782076526634.webp",
+    "sha256": "e5940179257dfc113779bd60256dc10de078f027071719d507e7c5dafb4d6b06",
+    "ordinal": 47,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fishnet top, black asymmetric skirt and belt outdoors; outstretched arm and belt obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7897418825770-image-36782076592170",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/fishnet-top-full-alanis-black",
+    "localPath": "images/snag-7897418825770-image-36782076592170.webp",
+    "sha256": "583c79740dd4e36e51d2427519a23c58b9278a8f5e5f3ef0dba7cda34545cea5",
+    "ordinal": 48,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fishnet top with corset crop repeats gothic mesh/belt styling with less outfit visibility.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7871410339882-image-36742410600490",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mati-wrap-dress",
+    "localPath": "images/snag-7871410339882-image-36742410600490.webp",
+    "sha256": "6e11839386465fa895e76da6bf827d47f6e76690b2a11a3a0f3ef2c757ff45bb",
+    "ordinal": 49,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled seated dress crop repeats clearer full seated view at 50.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7871410339882-image-36742410666026",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mati-wrap-dress",
+    "localPath": "images/snag-7871410339882-image-36742410666026.webp",
+    "sha256": "6358f48ff72a9863e5b904f22cecb8a8147c8547e8a6bb7fe00414386856747a",
+    "ordinal": 50,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Printed white wrap dress and sandals in seated full view; seated posture and skirt obscure body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7871408209962-image-36742394740778",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/crew-neck-puff-sleeve-tee-white",
+    "localPath": "images/snag-7871408209962-image-36742394740778.webp",
+    "sha256": "e6ce5ee6db223ffc5fc753b6f637b898ee0868ce6bc7b5a684b755c1f8a3fa99",
+    "ordinal": 51,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White puff-sleeve top with black full skirt; raised arm, belt and held skirt obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7871408209962-image-36742394806314",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/crew-neck-puff-sleeve-tee-white",
+    "localPath": "images/snag-7871408209962-image-36742394806314.webp",
+    "sha256": "42e398da6169783afc5f8b3cad2fb0dc35148f71c846dab9b927500012725ea9",
+    "ordinal": 52,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White top and printed full skirt with wide belt; constructed waist and skirt hide shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7871410143274-image-36742404112426",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mati-flare-skirt",
+    "localPath": "images/snag-7871410143274-image-36742404112426.webp",
+    "sha256": "84562dae662adbcac33c3bc30b1113a45460cc8e16b341855a90cb3d697228a9",
+    "ordinal": 53,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green top with printed skirt and green tights; held flared skirt and downward pose hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7871410143274-image-36742403948586",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mati-flare-skirt",
+    "localPath": "images/snag-7871410143274-image-36742403948586.webp",
+    "sha256": "86c33ac37f89ff34f095cf11f354811d5d9f60261927ec0831b304eeafb476a1",
+    "ordinal": 54,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tee and printed skirt with pink sandals; seated posture prevents body-axis comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833245876266-image-36287730876458",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/celestial-mesh-top-purple-gold",
+    "localPath": "images/snag-7833245876266-image-36287730876458.webp",
+    "sha256": "035963304097848bc1b4c9efdf41a3147da700708518c2c5c23a2ea89fd9fea2",
+    "ordinal": 55,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Celestial mesh sleeves over dark dress, torso-only crop with hands and cards.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833245876266-image-36287731466282",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/celestial-mesh-top-purple-gold",
+    "localPath": "images/snag-7833245876266-image-36287731466282.webp",
+    "sha256": "deabdb0c627c95549a3a647bcb9843e0632dbc1e8e0ca4677a506c63f5ebfe18",
+    "ordinal": 56,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Enlarged celestial fitted top and lace-up high-waist trousers; hair obscures shoulders, lacing/hand placement obscure natural waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7815801765930-image-36062570709034",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mesh-top-krakens-embrace",
+    "localPath": "images/snag-7815801765930-image-36062570709034.webp",
+    "sha256": "4e37c627d8ea39a82709e138939823c63a04e0c7b5dfa1d8f3be76e64d5ed427",
+    "ordinal": 57,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Swirl mesh cropped top with draped skirt; angled posture and drape conceal hip/waist comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7815801765930-image-36062570545194",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mesh-top-krakens-embrace",
+    "localPath": "images/snag-7815801765930-image-36062570545194.webp",
+    "sha256": "38d1fdd97244afcac48ba7744052bdc64e5d9ed72128f71e073a22e31ea29e3d",
+    "ordinal": 58,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sheer patterned top, furry shoulder layer and flared trousers; crossed/bent legs and layer conceal contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

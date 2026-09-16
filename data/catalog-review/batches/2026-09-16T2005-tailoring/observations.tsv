@@ -1,0 +1,61 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	reject	?	?	?	M	Gray suit crop repeats fuller outfit at 9.
+1	reject	?	?	?	M	Side view repeats gray suit.
+2	partial	1.5	?	?	C	Printed camp shirt and plain trousers; loose hem conceals waist and hips.
+3	reject	?	?	?	C	Repeated side pose of printed camp shirt.
+4	partial	2	?	?	C	Collared print shirt with tied utility layer and trousers; tied layer obscures hips.
+5	reject	?	?	?	C	Repeated side pose of 4.
+6	reject	?	?	?	C	Two-person jumpsuit promotional scene.
+7	detail	?	?	?	U	Pocket and waist hardware close-up.
+8	reject	?	?	?	M	Trouser crop repeats gray suit outfit retained at 9.
+9	reject	?	?	?	M	Comparison with prior wildfang-10562943811765-image-76419562602677 shows repeated gray waistcoat/trouser ensemble with added blazer; exclude repetition.
+10	partial	?	?	?	C	Roomy printed jacket over collared shirt and jeans; jacket obscures build and contours.
+11	reject	?	?	?	C	Repeated jacket side pose.
+12	partial	2.5	?	?	C	Yellow camp shirt over dark sleeves with chained trousers; loose shirt masks waist.
+13	reject	?	?	?	C	Repeated yellow shirt side pose.
+14	reject	?	?	?	M	Pink suit crop repeats full view at 15.
+15	full	1.5	?	?	M	Pink suit with white shirt and necktie; structured jacket conceals body contours.
+16	partial	?	?	?	M	White shirt and necktie with chain-print trousers and boots; shoulders outside frame.
+17	detail	?	?	?	U	Trouser chain hardware close-up.
+18	reject	?	?	?	U	Waistcoat crop repeats full view at 20.
+19	reject	?	?	?	U	Repeated side pose of pink waistcoat.
+20	full	1.5	?	?	U	Sleeveless waistcoat with wide matching trousers; tailoring and pose hide hip/waist contours.
+21	back	?	?	?	U	Rear view of pink trousers and waistcoat.
+22	partial	1.5	?	?	C	Buttoned blue print shirt with dark trousers; shirt hem hides hips and waist.
+23	reject	?	?	?	C	Repeated shirt side view.
+24	partial	1.5	?	?	C	White collared flap shirt tucked into belted jeans; shirt drape and angled stance obscure contours.
+25	reject	?	?	?	C	Repeated flap-shirt side pose.
+26	partial	2	?	?	C	Loose blue polo with checked trousers and jacket; straight hem masks waist.
+27	reject	?	?	?	C	Repeated polo side view.
+28	partial	2.5	?	?	C	Orange camp shirt layered over white sleeves with jeans; long loose layers conceal shape.
+29	reject	?	?	?	C	Repeated layered shirt side view.
+30	reject	?	?	?	U	Trouser crop duplicates fuller outfit at 31.
+31	full	1.5	?	?	U	Cropped printed shirt and straight chained trousers with boots; side angle obscures body axes.
+32	partial	2.5	?	?	U	Teal sweater tucked into chained trousers; enlarged view shows angled hip and loose waist folds.
+33	back	?	?	?	U	Rear sweater view.
+34	partial	1.5	?	?	U	Gray loose sweatshirt with dark trousers; hem and raised arm obscure contours.
+35	detail	?	?	?	U	Sleeve cuff close-up.
+36	full	2.5	?	?	U	Pink waistcoat over dark tee with cuffed trousers; open vest masks waist and hips.
+37	reject	?	?	?	U	Repeated side view of 36.
+38	partial	1.5	?	?	C	Open collared western shirt with tee and belted jeans; open layer hides lateral contours.
+39	reject	?	?	?	C	Repeated western shirt side pose.
+40	reject	?	?	?	M	Cream trouser crop repeats fuller seated view at 41.
+41	seated	1.5	?	?	M	Cream waistcoat and tailored trousers with tee and loafers; seated pose prevents shape judgment.
+42	partial	1.5	?	?	X	Boxy graphic camp shirt over sheer lace sleeves and dark trousers; combination of tailoring and lace cues.
+43	reject	?	?	?	X	Repeated graphic shirt and lace side view.
+44	reject	?	?	?	U	Tie-print sweatshirt crop repeats fuller view at 45.
+45	full	1.5	?	?	U	Tie-print sweatshirt and loose jeans; graphic tie alone does not establish tailoring; bent stance hides contours.
+46	reject	?	?	?	U	Black sweatshirt crop repeats full view at 47.
+47	full	1.5	?	?	U	Black sweatshirt with navy trousers and carried jacket; loose hem and crossed legs hide shape.
+48	partial	1.5	?	?	U	White graphic tee and dark trousers; neutral basics with loose hem.
+49	back	?	?	?	U	Rear tee view.
+50	partial	1.5	?	?	U	Green cropped camp shirt with tied utility layer and trousers; tied layer hides waist and hips.
+51	reject	?	?	?	U	Repeated green shirt side pose.
+52	partial	3	?	?	U	Purple tee with striped trousers; enlarged view leaves loose hem and raised elbow contours unknown.
+53	reject	?	?	?	U	Repeated purple tee side view.
+54	partial	1.5	?	?	C	Dark collared zip shirt and checked shorts; leaned pose and open lower zip conceal contours.
+55	reject	?	?	?	C	Repeated dark zip shirt side pose.
+56	reject	?	?	?	C	Enlarged checked shirt crop; fuller outfit retained at 57, not an additional reference.
+57	full	2.5	?	?	C	Checked short-sleeve shirt over rust trousers with loafers; untucked hem hides waist and hips.
+58	partial	?	?	?	U	White tee with blue utility trousers and boots; shoulder crop prevents build/shape comparison.
+59	detail	?	?	?	U	Trouser waist and buckle close-up.

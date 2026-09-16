@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 2011,
-  "admittedPhotos": 1487,
-  "totalPhotos": 1872,
+  "reviewedCandidates": 2130,
+  "admittedPhotos": 1545,
+  "totalPhotos": 1930,
   "axisSupport": {
-    "build": 1272,
-    "shoulderHip": 199,
-    "waist": 365
+    "build": 1327,
+    "shoulderHip": 201,
+    "waist": 370
   },
-  "completeReferences": 157,
-  "sourcePages": 1032,
+  "completeReferences": 158,
+  "sourcePages": 1083,
   "excludedReasons": {
-    "non-outfit-view": 466,
+    "non-outfit-view": 527,
     "existing-source-page": 58
   },
   "excluded": [
@@ -2108,6 +2108,250 @@
     },
     {
       "id": "acdcrag-10412095635756-image-53585814585644",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10562949185717-image-76419551625397",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10562949185717-image-76419551723701",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10562858188981-image-76419823599797",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10562848653493-image-76419829039285",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10562918056117-image-76419728113845",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10562918056117-image-76419727884469",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10562946138293-image-76420703420597",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10562946138293-image-76419551592629",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10562894004405-image-76419702128821",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10505786753205-image-76072666464437",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10505895444661-image-76072715387061",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10506500833461-image-76072922120373",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10505913434293-image-76072716861621",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10505913434293-image-76072716927157",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10505978773685-image-76072737734837",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10506379198645-image-76072827682997",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10506377461941-image-76072794521781",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10506380476597-image-76072848687285",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10506378870965-image-76072833515701",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10506391093429-image-76072891023541",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10506382442677-image-76072892006581",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10506501718197-image-76072937029813",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10505947054261-image-76072739766453",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10365912940725-image-74849172684981",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10420714012853-image-75034260111541",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10420714897589-image-75033632538805",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10267903787189-image-73653121581237",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10239449956533-image-73402484097205",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10239452479669-image-73402487505077",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10342626066613-image-74265181323445",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10342624166069-image-74265163759797",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10398915494069-image-74801307156661",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10365806215349-image-74481223958709",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10365912383669-image-74849193754805",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-10949795479745-image-50172914106561",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-10949795086529-image-50172919709889",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-10949795348673-image-50172897132737",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11014078464193-image-50610250383553",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11014078333121-image-50610271813825",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11014078070977-image-50610326700225",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11014077579457-image-50610299830465",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11014077579457-image-50610299896001",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11004213035201-image-50548404388033",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11004212510913-image-50548393115841",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11004213067969-image-50548414709953",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11004213067969-image-50548414775489",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11004212969665-image-50548399407297",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11004212969665-image-50548399472833",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11004213100737-image-50548411433153",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11001705660609-image-50528581157057",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11001705234625-image-50528579748033",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11001695633601-image-50528571392193",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7925074133034-image-36975528050730",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7925074133034-image-37434630963242",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7925073412138-image-36975524053034",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7925072298026-image-36975515435050",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7820013076522-image-36130955264042",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7511058382890-image-33241101336618",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7897418825770-image-36782076592170",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7871410339882-image-36742410600490",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7833245876266-image-36287730876458",
       "reason": "non-outfit-view"
     }
   ]

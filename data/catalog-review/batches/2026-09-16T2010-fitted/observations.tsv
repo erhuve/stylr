@@ -1,0 +1,60 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	partial	3	?	?	U	Bright printed short-sleeve shirt over pink tank and matching trousers; open shirt obscures contours.
+1	reject	?	?	?	U	Repeated blue print outfit pose.
+2	reject	?	?	?	U	Minor print/color variant of open-shirt outfit at 0.
+3	reject	?	?	?	U	Green print outfit crop repeats fuller view at 4.
+4	full	1.5	?	?	U	Green illustrated matching shirt and trousers with tank; raised arm and open layer obscure contours.
+5	reject	?	?	?	U	Polo crop repeats full view at 6.
+6	full	3	0	1	U	Enlarged frontal polo/jeans view: similar shoulder and upper-hip spans, moderate inward waist; lower legs are loose.
+7	partial	1.5	?	?	C	Blue polo over jeans; untucked straight shirt masks waist/hip boundary.
+8	reject	?	?	?	U	Repeated polo crop with arms covering torso.
+9	partial	2.5	1	?	C	Enlarged green polo/trouser view: shoulders wider than visible hips; draped shirt masks waist indentation.
+10	reject	?	?	?	C	Repeated green polo pose.
+11	reject	?	?	?	C	Reclining orange polo color variant of 9; no useful additional contour evidence.
+12	reject	?	?	?	C	Orange polo/trouser color variant repeats ensemble at 9.
+13	detail	?	?	?	U	Red tank neckline and print crop.
+14	partial	1.5	?	1	F	Red fitted cropped tank with gathered jeans; moderate visible waist indentation, loose hips and bent arms.
+15	reject	?	?	?	F	Yellow tank seated pose repeats clearer standing view at 16.
+16	partial	3	?	1	F	Enlarged yellow tank view: moderate waist indentation; hands spread trouser pockets so hip span stays unknown.
+17	detail	?	?	?	U	Blue tank neckline and print close-up.
+18	reject	?	?	?	F	Blue tank color/print variant repeats cropped-tank ensemble at 14.
+19	reject	?	?	?	F	Green tank color/print variant of 16.
+20	reject	?	?	?	F	Repeated green tank pose with raised arm.
+21	partial	1.5	?	1	U	Enlarged black cropped tank with loose drawstring trousers: moderate waist indentation; gathered hips uncertain, styling neutral.
+22	reject	?	?	?	U	Repeated black tank crop.
+23	reject	?	?	?	U	Seated tie-dye tee outfit repeats fuller view at 24.
+24	full	3	?	?	U	Tie-dye tee and wide pale jeans; hands on waist and loose clothing obscure contours.
+25	reject	?	?	?	U	Seated orange tee repeats full standing outfit at 26.
+26	full	1.5	?	?	U	Orange tie-dye tee and wide dark trousers; loose straight garments conceal shape.
+27	reject	?	?	?	U	Reclining purple tee repeats more legible seated view at 28.
+28	seated	1.5	?	?	U	Purple tie-dye tee with lilac trousers; seated folded legs prevent hip/waist comparison.
+29	back	?	?	?	U	White blouse with black shorts seen from rear/side.
+30	detail	?	?	?	U	Lifted skirt and undershort detail; no outfit-level view.
+31	reject	?	?	?	F	Robe and shorts pose repeats clearer frontal outfit at 32.
+32	partial	2.5	?	?	F	Printed robe with strappy sheer top and dark shorts; open robe and pose hide lateral contours.
+33	seated	3	?	?	U	Spotted oversized tee and shorts while seated; laptop and pose obscure torso.
+34	reject	?	?	?	U	Side mirror pose repeats spotted tee/shorts ensemble.
+35	partial	3	?	?	U	Oversized black hoodie with pale leggings; loose hem hides shape.
+36	full	3	?	?	U	Long dark hoodie and pink leggings with boots; loose torso obscures individual axes.
+37	full	2.5	?	?	D	Black V-neck flared dress with wide belt and strapped heels; belt and flared skirt conceal natural contours.
+38	full	3	?	?	D	Black wrap dress and heels; flared skirt and wrap construction obscure hips/waist.
+39	reject	?	?	?	D	Pink heart-top outfit crop repeats fuller styled view at 40.
+40	full	1.5	?	?	D	Pink sheer skirt over heart-print top with corset belt and red boots; styled waist and skirt obscure body contours.
+41	full	3	?	?	D	Green printed wrap dress; gathered wrap waist and full skirt prevent shape labels.
+42	detail	?	?	?	U	Wrap dress neckline and tie close-up.
+43	full	2.5	?	?	D	Red wrap top with short black skirt and dark hosiery; wrap construction and skirt conceal contours.
+44	full	2	?	?	D	Red top, checked skirt and tall boots; raised arm and skirt hide shape.
+45	full	2.5	?	1	F	Enlarged fitted sheer-sleeve top and pleated trousers with pointed heels: moderate waist, pleats hide hip width.
+46	partial	2.5	?	?	D	Black fitted bodice and flared skirt; hands at waist and skirt hide hip contour.
+47	partial	2	?	?	D	Fishnet top, black asymmetric skirt and belt outdoors; outstretched arm and belt obscure shape.
+48	reject	?	?	?	F	Fishnet top with corset crop repeats gothic mesh/belt styling with less outfit visibility.
+49	reject	?	?	?	D	Angled seated dress crop repeats clearer full seated view at 50.
+50	seated	1.5	?	?	D	Printed white wrap dress and sandals in seated full view; seated posture and skirt obscure body axes.
+51	full	2.5	?	?	D	White puff-sleeve top with black full skirt; raised arm, belt and held skirt obscure contours.
+52	partial	2	?	?	D	White top and printed full skirt with wide belt; constructed waist and skirt hide shape.
+53	full	1.5	?	?	D	Green top with printed skirt and green tights; held flared skirt and downward pose hide contours.
+54	seated	3	?	?	D	White tee and printed skirt with pink sandals; seated posture prevents body-axis comparison.
+55	detail	?	?	?	F	Celestial mesh sleeves over dark dress, torso-only crop with hands and cards.
+56	partial	2	?	?	F	Enlarged celestial fitted top and lace-up high-waist trousers; hair obscures shoulders, lacing/hand placement obscure natural waist.
+57	partial	2.5	?	?	F	Swirl mesh cropped top with draped skirt; angled posture and drape conceal hip/waist comparison.
+58	full	1.5	?	?	F	Sheer patterned top, furry shoulder layer and flared trousers; crossed/bent legs and layer conceal contours.

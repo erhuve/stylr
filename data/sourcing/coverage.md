@@ -7,7 +7,7 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | Source | Sampled pages | Candidate images | Reviewed expansion | Admitted expansion | Complete expansion | Deferred pages |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | acdcrag | 63 | 116 | 73 | 45 | 1 | 143 |
-| bigbudpress | 114 | 192 | 163 | 119 | 21 | 136 |
+| bigbudpress | 129 | 221 | 192 | 130 | 22 | 121 |
 | chubstr | 15 | 35 | 27 | 27 | 4 | 0 |
 | disturbia | 24 | 48 | 48 | 37 | 3 | 0 |
 | flickr.com | 93 | 237 | 0 | 0 | 0 | 0 |
@@ -23,13 +23,13 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | pexels.com | 40 | 40 | 0 | 0 | 0 | 0 |
 | punkrave | 48 | 96 | 50 | 35 | 6 | 163 |
 | shinybynature | 78 | 156 | 148 | 100 | 27 | 9 |
-| snag | 120 | 239 | 216 | 169 | 17 | 98 |
+| snag | 135 | 269 | 246 | 190 | 17 | 83 |
 | tokyofashion | 158 | 268 | 140 | 81 | 7 | 0 |
 | trippnyc | 48 | 96 | 52 | 31 | 8 | 165 |
 | universalstandard | 58 | 58 | 58 | 52 | 1 | 0 |
 | unsplash.com | 2 | 2 | 0 | 0 | 0 | 0 |
 | wear | 60 | 60 | 60 | 60 | 0 | 0 |
-| wildfang | 66 | 132 | 105 | 75 | 13 | 121 |
+| wildfang | 96 | 192 | 165 | 101 | 13 | 91 |
 
 ## Presentation coverage
 

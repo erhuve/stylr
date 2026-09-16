@@ -21,6 +21,8 @@ A garment alone is not a universal gender rule. A tee, trousers, bright colors, 
 
 ## Continue and verify
 
+The 4 p.m. scheduled run appends 58 directly reviewed admissions, reaching 1,930/1,930 reviewed images. New rows retain batch name and external sheet path alongside the within-batch ordinal; the top-level catalogRevision and the original ordinals continue to describe the initial frozen audit. All prior rows are unchanged. Current counts and body-reference coverage are generated in coverage.md.
+
 1. Inspect each newly admitted image directly using the same rubric. Add its ID, actual displayed-file digest, evidence code, review date and stable review-sheet reference to `review.json`. Preserve previous records and record deliberate corrections separately. Never copy a label between photos based on shared faces or pages.
 2. Run `bun scripts/audit-presentation.ts` after admission. Missing reviews appear explicitly as unreviewed, separate from reviewed unclear. Unknown IDs, duplicates, bad evidence codes and changed image bytes fail validation.
 3. Before committing a completed sourcing batch, run `bun scripts/audit-presentation.ts --check --require-complete`. This also fails on stale reports or missing reviews. `research/catalog/source_inventory.py` refreshes presentation coverage automatically as part of rebuilding the sourcing ledger.

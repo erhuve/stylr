@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 1872/1872; unreviewed: 0.
+Reviewed: 1930/1930; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 233 | 12.4% | 174 | 17 | 24 |
-| feminine | 1071 | 57.2% | 684 | 21 | 106 |
-| mixed-androgynous | 29 | 1.5% | 22 | 8 | 2 |
-| unclear | 539 | 28.8% | 444 | 23 | 67 |
+| masculine | 249 | 12.9% | 190 | 17 | 24 |
+| feminine | 1091 | 56.5% | 698 | 21 | 106 |
+| mixed-androgynous | 30 | 1.6% | 23 | 9 | 2 |
+| unclear | 560 | 29% | 464 | 23 | 68 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":25,"3":33,"unknown":65,"2.5":20,"1.5":87} | {"1":1,"2":4,"3":3,"2.5":4,"1.5":12} |
-| feminine | {"1":27,"2":135,"3":146,"unknown":227,"1.5":339,"2.5":197} | {"1":7,"2":15,"3":17,"1.5":41,"2.5":26} |
-| mixed-androgynous | {"1":1,"2":3,"unknown":11,"1.5":14} | {"1.5":2} |
-| unclear | {"1":7,"2":42,"3":97,"1.5":171,"unknown":173,"2.5":49} | {"1":2,"2":3,"3":28,"1.5":25,"2.5":9} |
+| masculine | {"1":3,"2":27,"3":33,"unknown":67,"2.5":24,"1.5":95} | {"1":1,"2":4,"3":3,"2.5":4,"1.5":12} |
+| feminine | {"1":27,"2":139,"3":150,"unknown":227,"1.5":344,"2.5":204} | {"1":7,"2":15,"3":17,"1.5":41,"2.5":26} |
+| mixed-androgynous | {"1":1,"2":3,"unknown":11,"1.5":15} | {"1.5":2} |
+| unclear | {"1":7,"2":42,"3":104,"1.5":182,"unknown":174,"2.5":51} | {"1":2,"2":3,"3":29,"1.5":25,"2.5":9} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -31,7 +31,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | Source host | Masculine | Feminine | Mixed | Unclear | Unreviewed |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | acdcrag.com | 1 | 22 | 3 | 19 | 0 |
-| bigbudpress.com | 3 | 26 | 0 | 90 | 0 |
+| bigbudpress.com | 5 | 28 | 0 | 97 | 0 |
 | chubstr.com | 22 | 0 | 0 | 5 | 0 |
 | disturbia.co.uk | 0 | 32 | 0 | 5 | 0 |
 | flickr.com | 22 | 168 | 5 | 42 | 0 |
@@ -47,13 +47,13 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | punkrave.ch | 11 | 16 | 2 | 6 | 0 |
 | shinybynature.com | 0 | 71 | 0 | 29 | 0 |
 | shopmyviolet.com | 0 | 106 | 0 | 7 | 0 |
-| snagtights.com | 0 | 123 | 0 | 46 | 0 |
+| snagtights.com | 0 | 141 | 0 | 49 | 0 |
 | tokyofashion.com | 15 | 93 | 13 | 66 | 0 |
 | trippnyc.com | 11 | 10 | 1 | 9 | 0 |
 | universalstandard.com | 3 | 27 | 0 | 22 | 0 |
 | unsplash.com | 2 | 0 | 0 | 0 | 0 |
 | wear.jp | 17 | 6 | 3 | 34 | 0 |
-| wildfang.com | 30 | 7 | 0 | 38 | 0 |
+| wildfang.com | 44 | 7 | 1 | 49 | 0 |
 
 Source-page counts can overlap between categories. Repeated models, shoots and gallery poses are not independent people. Counts establish image coverage only.
 

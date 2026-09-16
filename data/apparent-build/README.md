@@ -1,6 +1,6 @@
 # Reviewed apparent-body references
 
-The application now also imports admitted expansion observations from `../catalog-review/admitted-body.json`. Together these provide 1,219 reviewed records and 174 complete references across 1,460 photos. This directory remains the unchanged original 144-review provenance; its counts below describe that historical subset.
+The application also imports admitted expansion observations from `../catalog-review/admitted-body.json`. After the September 16, 4 p.m. run, these provide 1,689 reviewed records and 200 complete references across 1,930 photos. The initial admission provided 1,219 records and 174 complete references across 1,460 photos. This directory remains the unchanged original 144-review provenance; its counts below describe that historical subset.
 
 Imported from `Documents/stylr-shape-clustering/v2` on 2026-09-14. The two review files and their paired ID mappings are copied unchanged. Row indices bind to those exact mappings; do not reorder either independently.
 
