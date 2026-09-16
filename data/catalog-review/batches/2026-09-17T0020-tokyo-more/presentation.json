@@ -1,0 +1,322 @@
+[
+  {
+    "id": "tokyo-archive-172894",
+    "sha256": "21c16138170f22d84b00afc072fc346c3fa491538aaaf0e307dbb0c66f7486e4",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 0,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-172878",
+    "sha256": "a566c3382af89c4491672401389b2c0adc269182040f5b09a287ae1c578c05f6",
+    "evidence": "F",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 2,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-172823",
+    "sha256": "200be831b706a484db38f9e4a54f8c727ad99aa027cdfca99c0312c6b9f000bf",
+    "evidence": "D",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 3,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-172757",
+    "sha256": "56d5376ea3cd69da433f76f36694418697fcab210b6c047935ac05c1f277372c",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 4,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-172655",
+    "sha256": "e99c438fd2989575e52500949fdc13deec16a46d5e02df5582bae33c6e20afbc",
+    "evidence": "F",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 5,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-172526",
+    "sha256": "1e0c3a468a8a8c908c47cf07eb548a10a10c74f6891eae1ada206d802fad3629",
+    "evidence": "D",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 6,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-172566",
+    "sha256": "86cc70168c3f6b7eb661f776ff6aa11e92dc26824f66dc150c222b6cf8ab2ccd",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 8,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-172580",
+    "sha256": "4631d20e2d5172e470d4b63345bfca7ff3f7a0e64fa700c9beeb6a461f4a0203",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 9,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173949",
+    "sha256": "d24fe272b852d32284a70dac1776b8df4be793eaeeff535715b82d927771d3f3",
+    "evidence": "D",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 10,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173791",
+    "sha256": "164e864ab38d8d2a731922b0f312195d75d0d26b460ef793594b237d404e792a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 11,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173792",
+    "sha256": "6a283dc9fff025c05f9eb7c1ca99f402bbf942371e2d9fb6017cc1352360d474",
+    "evidence": "D",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 12,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173780",
+    "sha256": "c9f37622d18b1c2dab6a3669a5f46c66d8d68d266ad9f17795e3ef67bcf3ab17",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 13,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173771",
+    "sha256": "f76702b7707021266528b603db5954d318ee704fbb09090387c7cc9b860f15dd",
+    "evidence": "D",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 14,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173758",
+    "sha256": "ce185edb1df58d256f221e94778dcc4c08321a1a774f597cfb7a79a704e86d80",
+    "evidence": "D",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 16,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173733",
+    "sha256": "c400b2fcc50a3dd94a5c1d77a66bc9afb161e6e691842c7432373b05f9c27c0b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 17,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173723",
+    "sha256": "f3f5286c573b1f1c1ca5ec35c5eaa5b547f7bbd11407b13d91f999c958cc3120",
+    "evidence": "D",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 18,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173712",
+    "sha256": "d44ec68e568dda9e82a3fcc06e8ba050995f5cc5101863cc20320c5e6cfc5c59",
+    "evidence": "F",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 19,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173206",
+    "sha256": "b659e1af9a44c39c6255977e8104f3cdbb0054514452da59b8d196d204ef2d22",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 21,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173131",
+    "sha256": "19c8945e00cb3a02bf0e6a989c2af42dd093b226d3220d1d896cfc259a0515e2",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 22,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173120",
+    "sha256": "2c0d7671fe3058ab510650500e5161ae24afd34a3bffcacb4584de0a469f4ab0",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 23,
+    "sheet": 0,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-173082",
+    "sha256": "f0dca628fa01e90384446eed1d01f6ecba2f7ffc9576c9fdc7504be69f3eca93",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 24,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-171254",
+    "sha256": "426a7d73884c5531b1eae785d2fdfec5a0c00cda3a6817a758671b7429489eea",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 25,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-172221",
+    "sha256": "ef534bad28120c5f8550e229d1375dd142f9d81208b7cfbfca7b7573e35ac80d",
+    "evidence": "F",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 26,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-172400",
+    "sha256": "3d458fd4c65db00673cee02606f844ac087e4278a0c0c525a94e3c05dd9a5c74",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 27,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-172364",
+    "sha256": "791ce071501611c8f1eebf61405f74b02398e597a79e61e5ec8231ca9716e1f1",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 28,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-172311",
+    "sha256": "c2edf91e4fee74019a9b9311ad53ac5294bf68d467bf381339ad6a5c1844d5d7",
+    "evidence": "F",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 29,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-172329",
+    "sha256": "10716851e38e45e92323c84c87bf5382ab5cc66af1d139be7661f933c1245c78",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 30,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-172293",
+    "sha256": "a21a241a7779ba4edd57a6afcfaa87ba47411235e8f61b04b9bf37c3f24d2660",
+    "evidence": "F",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 31,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-172255",
+    "sha256": "f9b701cfa7897dfd230ee6b2b410d5a8953e8aaa262ffd67ab75d9d55171a599",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 32,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-172235",
+    "sha256": "72c2233107398ff4c9ca7b43a090b10d787ec0ea5fda24e47e8a0a9b21cc6f6f",
+    "evidence": "D",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 33,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-172190",
+    "sha256": "ef9c208d9d1d72ed4bb6e97753b4a1f92c63fd04c0e37345f67a4d9380c86141",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 34,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-171005",
+    "sha256": "44486de63f9955cb2d67eb0bc095e3fca58fd8f6ed9b33ce28310ee0db388c91",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 35,
+    "sheet": 1,
+    "batch": "2026-09-17T0020-tokyo-more",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0020-tokyo-more/review-sheets/01.jpg"
+  }
+]

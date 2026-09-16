@@ -1,5 +1,11 @@
 # Afternoon sourcing, September 16, 2026
 
+## 5 p.m. scheduled run: deferred for active concurrent work
+
+At approximately 21:05 UTC (5:05 p.m. America/New_York), the scheduled run fetched origin and verified that HEAD `3732008` includes origin/main. Another active session was inspecting the same catalog checkout and recovering the pending street-style collection/reviews: `expansion-2026-09-16T2200-wear-men`, `expansion-2026-09-16T2230-wear-women` and the Tokyo attempts. Its current tool calls inspected the collector, compilation rules, pending intake and saved review notes. The untracked `research/catalog/collect_street_batch.py` and pending corpora belong to that continuation, not this scheduled run.
+
+Following the explicit no-overlap instruction, this run stopped after recording this deferral. It sourced, reviewed and admitted **zero** candidates; it did not take over saved observations, run builds/tests/imports, commit or push. The last committed catalog remains **1,970 photos, 200 complete references and 38 example matches**; these are existing counts, not new verification results. The documented live release remains **1,707 photos, 195 complete references and 33 example matches**. Production and all schedules were untouched. Pending street-style reviews take priority once their owning session finishes; subsequent sourcing should follow the current presentation-coverage and source-yield guidance below. This deferral note is left uncommitted to avoid interfering with the active session's Git operations.
+
 ## Interactive menswear continuation: current handoff
 
 Started from `6e9271e` after fetching origin; current origin/main is included. No overlapping collector/import work was active. Used the isolated catalog checkout and left production unchanged.

@@ -1,0 +1,4602 @@
+[
+  {
+    "id": "wear-27255159",
+    "sha256": "9ed8070f8f08bd277c2dc4601c94434ea563780c7579fe233767f53950b32210",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 0,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27273228",
+    "sha256": "1dfea53d39277460614aa94e6668b3b2866af4cabc60208c17eeb03c96c695f0",
+    "evidence": "F",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 1,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27292563",
+    "sha256": "0d6023d87de505b770ddd7683cb2d598f94ec6b71fa63f05efffd06a520e256f",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 2,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27234447",
+    "sha256": "1980b223b7a4161080af4ba0ff375989fdf084542780ba5b3612726a68050e68",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 3,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27223164",
+    "sha256": "d084e920e527a684014021630d727aa87f94e9e302968783d9b0608eeb4397c5",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 4,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27221946",
+    "sha256": "89896b8e9271f4ca9c32eafdc22e15b7dd21b1fa6dc4d3a32edc8bdfe265a251",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 5,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27260393",
+    "sha256": "a00cb90c12af66b719956c9c12cdbfe89f11e529207b5d13f34aacbba220b40a",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 6,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27287783",
+    "sha256": "f943ab862e8105e6471b723644382740dfcdb56a71e68c8d3c6a8a077b5b8b96",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 7,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27287756",
+    "sha256": "1a239bd8ffbb5e850fd71fc4bde46db9e0be6ce2d6be1070a0bd9676947db763",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 8,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27315136",
+    "sha256": "bfa3ffb2db02072488426764d84da0b3e349be1119f536140d47a5ad9cbe6017",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 9,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27268341",
+    "sha256": "80b8de03debf47ac61da4c6d9647cc4e67284518e62cd23362f9744cb64bc45a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 10,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27283493",
+    "sha256": "856de8c3b3636315aa44fa9e9fa481914618d79cbae3497f218d3b40a3f03303",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 11,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27231010",
+    "sha256": "ec64dedb5761bef18ad260ac9732ab9d515dc570d4e4a01bc22a64f0a62a1a79",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 12,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27168153",
+    "sha256": "ce7c5a539516bea786f140714a970f0f968610212ffbf8fd14863b3c187f01e3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 13,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27268140",
+    "sha256": "e0c26d5986b73f9242be6b6fd958da5e60f42dd01236058f88eec343831b093c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 14,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27299338",
+    "sha256": "4c858485745c3c076d4c303a1f3642e4c3506e44a8d211d432adc859729c52f2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 15,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27238525",
+    "sha256": "fbf7cbe1584c52d2b5f9f4ca2d3219befdd3bf93f780494d2ab0eeb449277c2a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 16,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27241244",
+    "sha256": "175b11e1f087e14010f1650197e56b0c94bab66ef2783f62ad7948f282ddaba4",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 17,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-26749344",
+    "sha256": "b7f47192e343e05b57c2520d13c639a319f3ca265b34e33de259793217f0f904",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 18,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-26741331",
+    "sha256": "abb454794621b8626f3f1ca88f279352e94324721b98d62fa190b471a928c611",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 19,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27299304",
+    "sha256": "271912f4e985b93c94008fd7b76f8167801529740d6735cdcde7616e3a3a8fb0",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 20,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27116036",
+    "sha256": "e7076245998ca57b9f9614dee0b64fa3ade1258e75d365a2ace0f3441dc517fb",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 21,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27222234",
+    "sha256": "9ca3fa6ab858fbca35390d934783cfdcee37d3f9b921a88b7a0779fa5ea72501",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 22,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27147981",
+    "sha256": "f5a3f4f2e5acad877860711a2ee135743d52b475d5ea19aa97eb3c4d1068ad86",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 23,
+    "sheet": 0,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/00.jpg"
+  },
+  {
+    "id": "wear-27249365",
+    "sha256": "f84f5aaa1bc6c55209d7d87b080074dc796aeb35ceb14ff77d8df863d5e6d4e9",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 24,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27257518",
+    "sha256": "883e99a6b2df0f9a6cb75afc422553c943580bb9e37b57b3cdb5be7027627ab9",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 25,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27273717",
+    "sha256": "5a9c8d2e58831214efff97bcf5a1e26b7bbaaa943859600fb1e30da33ec1119c",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 26,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27192634",
+    "sha256": "ffe73a8f943f25f5b928d1bc496554a916158cb3c33ca1ecc2247d01ae6097f2",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 27,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27277306",
+    "sha256": "6acb2b96ba931650d5b79d8a089bbd56f7c3b200e322dd70a0bd3ffb8387c35b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 28,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27303569",
+    "sha256": "50e782efdc90928048dccde6ce9ad812124ce361028ff027f88ed6ae9720866a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 29,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27263767",
+    "sha256": "cba27828dd2aa6c0bf46852f88da72e5192ba7f03fec72d91cbbb9fc28556be9",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 30,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27237634",
+    "sha256": "3469ca2914b9aaba2a25aac4039b89ccb08a251bdbf6a1b966896718849f2995",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 31,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27289797",
+    "sha256": "588769db62f84b258678ed5ca3b0755c3ef429ababbc9859d5d7f086ddd96c71",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 32,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27264484",
+    "sha256": "b0d0d51cea0f7976b3fcfc879d24bfbe4ad2cf18410d9697256b7c1846a63ba0",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 33,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27152870",
+    "sha256": "c2b436691a886a67d4ef56671890133eae199f31b4490da72fe0c48518fef672",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 34,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27268316",
+    "sha256": "da09ac1b314e190b2b7c13024881e4e90b187560c24748bab9c1956bd93ea7f0",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 35,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-26771004",
+    "sha256": "1ea3850cdc951d0c026c8fae48ef6cb1d8b9b12de0627edd34f592651947e548",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 36,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27292857",
+    "sha256": "e37c08120b1fc0d660aee62177f4a3ba6d2ec14898f9cd3eaddec40daa8d1071",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 37,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27255154",
+    "sha256": "7951d2fdee5a3b9e34da480ebceb969a3028e4519ca3039ec576fbf02fc62997",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 38,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27246112",
+    "sha256": "80ee0be1b728cff8b1d5bf4578803c6d522a385461ab9838e6e172b837979ed3",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 39,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27131486",
+    "sha256": "b21b22a8289d8b5e77516103a997e190488feab8ac75ec1f41b1e8ad50368816",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 40,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27197733",
+    "sha256": "e5d6ee0bfd3ea4dc088a9544413e56e4c619207a6faf7f85eecca88eb8d2bfc2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 41,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27179936",
+    "sha256": "c04340b7ce9381a2a36b59dc757b6633b2206d06d9be5cb002b987e2e71e5e2b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 42,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27271790",
+    "sha256": "9d3d5d578afe1a898f59a7037ced4b0a5d079468d30278c2ef7ec820a92dc8b2",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 43,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27202360",
+    "sha256": "15d39c9724041fb2280c1d569649739b9a2995d4f692889df131b09a6c6d6b7d",
+    "evidence": "F",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 44,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27184651",
+    "sha256": "a1b3fa39caad457f40464d79c9fd9d3fe71bc101e3b167d7184a6764ba7f48b6",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 45,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27176692",
+    "sha256": "ea66b8878991ed9daf771a309acee6dbeceadd079ab31d29765b16c4d1214622",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 46,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27223270",
+    "sha256": "176fd5df14db8035f7be6a1a6b7fbf96348a0f553ff7290ac384fc2741dd5e91",
+    "evidence": "D",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 47,
+    "sheet": 1,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/01.jpg"
+  },
+  {
+    "id": "wear-27166128",
+    "sha256": "02d302b4bd9bad1bdc7d27a6e00370ee65be822385c4405069670e952e17fb16",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 48,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27265999",
+    "sha256": "40a446c72820f7ec7ae747fb9c40183127038719080ce9b22b19499bf335949c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 49,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27219792",
+    "sha256": "fce34987a69853016e2612412c42be5ef90da20ea2607fee6811ecaa063d3eca",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 50,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27222902",
+    "sha256": "23618b5a50f156c829bcfa2f5af52adf337d2f3ae0ab553415e2361645e3d2d8",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 51,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27256922",
+    "sha256": "026dc8d77f9a589e0e3c8d2921e8cbf086acf3cd6eee33d04671831564297cc3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 52,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27175772",
+    "sha256": "334c483d43be8d5573478c8922dba7979ef444d1a11b6ce49ca4b4348f88a50f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 53,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27323500",
+    "sha256": "2529bda369dbaea06cc208b7f475123629b5688b940071b1a22faae98c852e7e",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 54,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27269532",
+    "sha256": "6d7f9b077c41a6be080f73abf9c087664050db3a0f4f7399f825ca0a9b63b29c",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 55,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27278762",
+    "sha256": "89b06e3a674e5267010fdf79d687a976da9ce584ea71a40636310e6c34aef544",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 56,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27269609",
+    "sha256": "d5bf92e733172319bf75c66391ffb4469fa66b7840853cbc3ec452663743b0fd",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 58,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27295019",
+    "sha256": "85464c6d1c4893661843d9e2d3af0d4e4fc88544e35c0464273aa171d1591468",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 59,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27308897",
+    "sha256": "c7f23023de7e398e2854df628552a971c8e746284e166e354196a56cffbe5fe3",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 60,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27197958",
+    "sha256": "738abea8de67c5aa35e59cacadea3153b5b62ad773c1bb53e652584ad5cf7188",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 62,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-26755873",
+    "sha256": "a41cb52d8db2bbc6f98c9e0ed0bbc12c099d9808b2f7e37a3a076f138fe88bbe",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 63,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27252889",
+    "sha256": "9403755f3c53cd362afe5917bf4677e77ef7b4b23cd9a5a6fd024e31bb86dc11",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 65,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27138951",
+    "sha256": "d4a1633aca634794cf2ddac8ed9435eb7c4c22435cb863080dfeebc7bc510951",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 66,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27309115",
+    "sha256": "aaa0c8cd23953e8940662983a781d9f5ee06f26009eb3f9db7527b639559d5d5",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 67,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27189086",
+    "sha256": "cf45c12e65dd1411f4ed660a611b488076b95f890d7c1f6f65db12c4100b1c4b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 68,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27193469",
+    "sha256": "8f52500cef67e8019bd65ca759f1b7c6039a280203f011316dcb9085f5fca313",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 69,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27222495",
+    "sha256": "ad241f359cc9e2869831cf52b8f86418792ad1478f98b2e02abe3901e1cb3574",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 71,
+    "sheet": 2,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/02.jpg"
+  },
+  {
+    "id": "wear-27311757",
+    "sha256": "87c1bc986659a0c3724dd1d044cb81ceb6b3d42191f718613719f7cb7e7ce074",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 72,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27152868",
+    "sha256": "2b5b7bce1d862a876d6f19b86ca1a17208e7c7315ca2254730cb7063cb2734ce",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 73,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27271946",
+    "sha256": "e986a81d9f930707ea510d3ab5e35e561171ef314582d4e31c9567aa0b0be151",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 74,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27304720",
+    "sha256": "d869b6fcf7b24ec36f439207beccbe41b78bc43cd2c2c82ef554f81d57881c21",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 75,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27247081",
+    "sha256": "d5d17ab551c4a3d94a61e121aa4036393ee8fdeb66ee2d5e70fd70a9cc065fce",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 76,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27197922",
+    "sha256": "77a019534b62fdbde04f71fced54dfd919d1ab685e78d578595f06c98b1422c7",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 77,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27215388",
+    "sha256": "e158dbcbf09751031024f20b4a3895b7a2eb4bd40f75e22e8cb746f6ade02201",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 78,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27255220",
+    "sha256": "8a9b6a5807c4dae434d3a225b4d4b1babdfdeb3459e8030426e755caca9085f5",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 79,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27119057",
+    "sha256": "9a2a4189abbc5da1a8d65890901d3546def33396c6adf63c2ebcf59c002863f2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 80,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27195990",
+    "sha256": "0dd65c2cccdc899e6e3f761b5443bbb7eb513de25ce727f32a1a4c80a0870752",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 81,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-26784605",
+    "sha256": "bdd933b0201ddb4472a346e2ea0322d271535717e72db650847c5eb7569179b0",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 82,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27304871",
+    "sha256": "ad038d833008854f916db7b376df4f7ac1a0e18669a6da291bbfd4f8ef69058d",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 83,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27294350",
+    "sha256": "f6296753c35e8bb7728b23d6d469e44fab2706996ccf272cf39e278a7aea28eb",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 84,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27084180",
+    "sha256": "93749645ac6c07a3f2f55feb7f9cdf9934a164ef2c9d2c4b3849aca148c00ae2",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 85,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27108628",
+    "sha256": "375d398a7d454a27689bf0dc86d4a9d4291e77dd8681b14fd8433cd9f63b2bb8",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 86,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27286115",
+    "sha256": "680b335edec872b3a42106187626181d621b8b44594729b54ef8025acd0c08b6",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 87,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-26853114",
+    "sha256": "4df849ac0b6e30b6944e55a0dd77c6abc16e6840a169bbcdd459c096e8e01013",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 88,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27287144",
+    "sha256": "39d4c0f7c7c35c680eb18cd87942a90013edcdacbe8d771bbadad1538732b471",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 90,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27269634",
+    "sha256": "89eebbfdb1c6cff6362ef5fa1f4c774c987be4518f29e6e3bce76b96dde0e414",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 91,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27223541",
+    "sha256": "68e0ff507635ad9274f324c07148ad7924238f8c4b188b4b5e4f22693ef446fd",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 92,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27138532",
+    "sha256": "76fb6bfe3509210dd0cd45483b25c30b3460040bbc4359bcc824fd51061f5dcf",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 93,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27140583",
+    "sha256": "e9f58c42ca9f6f4255bb849ee9caafb0b7cf5e39370fff0c23ab7dc5b3aa76a8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 94,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27219323",
+    "sha256": "2f6b015d71fb83b6cc385a46422c2a66486d4fcf0c20f46299198c4a568a7d7c",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 95,
+    "sheet": 3,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/03.jpg"
+  },
+  {
+    "id": "wear-27277542",
+    "sha256": "4eb0fad6e4e05955d48c83a3594a3c04551d6b2d41a3b74b06f06c49086e4452",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 96,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27202364",
+    "sha256": "e66aa03c21ebd7ac878e046b9bdd9d6788e850df4690cb486a85858867051204",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 97,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-25590389",
+    "sha256": "d041427609073eb58342cb73c8653b17b9b2291293e7b55cc09fb3f1491afebc",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 98,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-26602311",
+    "sha256": "4f06e8811b78365e70bc6a14111e5c970714c1b6f4cd5e2a48cbad235b5f61b6",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 99,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27179159",
+    "sha256": "cf69c1ea8d62f4c5c3d664eac6be567cde32cf008c695869e37217879ddf298c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 100,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27131114",
+    "sha256": "b81542e0dd957ff7218193f0325211eb8c01fff53af1c8c39cad5acf62f3a6ec",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 101,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27178971",
+    "sha256": "2ec99a8b63da40f07523594345ce26245f0e6a5d0b4b67d9912be8a7af37894d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 102,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-26514822",
+    "sha256": "69190862043777f7369cb21d520acecc4bcc4a5b3d499b5b52bc05a03a3c60a1",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 103,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-26818001",
+    "sha256": "e1c909e9ed542f58388d602324828f88e241e0aa544dd9c9ed281dabd721097a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 104,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27244326",
+    "sha256": "e3c7d00769a8b4a63b79247f7072a47540317164293c39dfb4dbf06bf926e7f6",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 105,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27261114",
+    "sha256": "f71bcc0652d5c0f8edd8c5ea841e24bbc2fef280bcf039575db717c85b061c74",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 106,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27103784",
+    "sha256": "01c43435e485c7fdb68bff7370a5fcf310dd55a21926e25221c597b9355ac950",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 107,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27193912",
+    "sha256": "2afd87977d12d5435447c4a7658b1a035c7cd4ec8e250b63c2f2c7d5508911a2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 108,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27210382",
+    "sha256": "89349f0eb6cc84e45bf253074607ba819d1bb69bd6dfbc30bca9044d51c72525",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 109,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27234330",
+    "sha256": "46ec011703bc1995ee51f79e7dc88bbdfed96a31720370ae967a7299332f5b9f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 110,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-26703462",
+    "sha256": "cad99f3701b9b18f1da58e2935400733b2d97c8ed51d3f7a8963165397158311",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 111,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27014264",
+    "sha256": "e8a32def5d53a4036e6ecbb03b96d5bc4572cb96bbf5fb7d54b321774d3f7ee6",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 112,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27234157",
+    "sha256": "edc2d7235ed84c5252023a25f8bc7f14ef77096e94ddfe10f34a16463e6dab19",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 113,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27263577",
+    "sha256": "131e9e6cd672e32423f3407a3b1a10ee7b804f5ebd7bc0ce34310864db313e6c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 114,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-26751989",
+    "sha256": "0713463a9f31233bdbf29c24884dc3723f3854acfa4e3e7caac5b8ab0c0f8543",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 115,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-26576257",
+    "sha256": "a0c9b22c2fdb9b49c0401fe24359ab9f829654e4f33677b46ba185214062b51a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 116,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27146343",
+    "sha256": "9df6b81982731f109b5dcbe999fb3cd4330f94c58319820d8ae8d0f40b4967e0",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 117,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27283421",
+    "sha256": "fc40aa0d15e0edb4b1f358ac9e015fa22bf2ef67064a5858f88d1bf56ad2beab",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 118,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-26722477",
+    "sha256": "b858fe3b16d45df9271ef522e710122bf9ac7d4651fb005869acbf139392ccec",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 119,
+    "sheet": 4,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/04.jpg"
+  },
+  {
+    "id": "wear-27306661",
+    "sha256": "5f917936a65240ed5a91915c96c2cbdee3929b993e524c3224cd226973d25c81",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 120,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-26795418",
+    "sha256": "61243e25ea1b3a9a3cfcc5a97aaf0709867a7465ad39b1b76fc4d45d184fb4d1",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 121,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27126494",
+    "sha256": "590dcb7f5038afb51acdf319c17e83290903660151437ca3354847a1dd4dee99",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 122,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27240667",
+    "sha256": "9e801f01430bd9547bf307c90421e60f7dc2765ca4c81bb3f7adf19bf52137f6",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 123,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27203692",
+    "sha256": "5975f33ae42ef3e7de5a43145372096cd9835a1d1a8a813ffe874e63f49efa34",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 124,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27199826",
+    "sha256": "395af91f7f7c9ea9d6f1ce310452227aabe8469321fce9a75f8a34eab45e9618",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 125,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27205348",
+    "sha256": "6769f094d1ec98157f4c9ced3bb63c0e89d8d32e9d22a310a45f5f16a8d13f3b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 126,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27116037",
+    "sha256": "8f9798591f6e8c7358ec53e247905ba3b3c6afe1d9bb496a62b2292e4162ebfb",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 127,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27232562",
+    "sha256": "8e3594083ed0e07c955e77633e195d849768e3eb52faf4698c33a06c862a3982",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 128,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-26989955",
+    "sha256": "5fc9cd1a6f609d3a92fffd9e64274b4cad31a695f1ab065997ec304cd2fed186",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 129,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27089375",
+    "sha256": "ce6d572e1081b3a7c3c742433f7b02c09995413ad294c49f5f17aa56539fa308",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 130,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27286226",
+    "sha256": "72c6330c9251f82bb505ef0307e42f8f8cfd1227a00cfbea4002ca520e2b1ae7",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 131,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27201507",
+    "sha256": "36460749174c78e67f77296262e0192bb8436591d0cad8387e9ea520bbebc450",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 132,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-26630918",
+    "sha256": "61f65f562f22bd00963d32276ec9974fe59088fbfd800cb36358aef0ae85fdec",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 133,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27265670",
+    "sha256": "e87cc69d517be6fbf49c859c6aa6016610e16a40283ddd7c6cd37e9422c36958",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 134,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27220590",
+    "sha256": "4be48281f3f2088a427804c563e38b0f86a3dce36db04dd3d29ecd9be3a682e8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 135,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-26574578",
+    "sha256": "9179f88f5f828cf7d0cf1265072c2a261ce282efd659dfc3c22a71a851e30bd0",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 136,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-26653717",
+    "sha256": "b88673887bc09a393d7f55c4b161c65d61cbebb09ca473c0e1183f2129cf5719",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 137,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-25735257",
+    "sha256": "5b32bd4df2e53cca64c1f8aa82f52cb8d2c1c923ad197c8fba3668451ec09d7d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 138,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-27317276",
+    "sha256": "d5987c0a027c175e734b11bd62b9b4453bfa078917edcf4cdd5323493fbc0eab",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 139,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-26528558",
+    "sha256": "2eb687443521540696283a110b7ffb3f3ff503ebf535eac615a3a346cb9cc122",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 140,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-24544231",
+    "sha256": "7ecd785f6980d3d7a009b01fd4a06a696a0d6a27e64c5fdb83f7100c1dad9944",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 141,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-25786105",
+    "sha256": "7afd378e5b43a2bacf5b519d18ef424ef1162044cab196a91fbf3d3fe9dee23d",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 142,
+    "sheet": 5,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/05.jpg"
+  },
+  {
+    "id": "wear-25692797",
+    "sha256": "1b48962df699f3ff6ce03e48dc2e60f3993715baddbc97e0bfb67bab5c8c5e00",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 144,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-24548812",
+    "sha256": "bc3bd2862b7a15a3f309c7228ff15955f9c89a347ba72318d8879b029708d073",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 145,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-24617443",
+    "sha256": "6633757db444817415084ef725daea44e1297949b4764ddc5c2eaf57fe7136bd",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 146,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25810372",
+    "sha256": "4f4022ee9f6ae036483f8220fa4112e6c93c933f2cdfbbe4085dd56c7123e555",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 147,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25897149",
+    "sha256": "72baf663450d99ba615d1329d32d9a8f9e770295920f58d780464c7ef90188df",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 148,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-27334926",
+    "sha256": "6b23c6001f1ec444b65b609bcfbe0e3cba8d5608e3a60f19b7dbb5b78507eef3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 149,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25856592",
+    "sha256": "f41a074086fc28604dcaa400d824012d92a485b7ec52705417a84d3fd0e4f790",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 150,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-27279506",
+    "sha256": "0a9caefd43dafc04f76ce2412c0880d0cea121d6c53ed9e7ccf58040ac57537b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 151,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25880260",
+    "sha256": "8cd0aa83973990ad83a58669237c4f5b2b9d4cda902c6884523b471d652b916e",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 152,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25813379",
+    "sha256": "363f37d51822d0c9fc4ab8369ef212d452b2e9fd3b56baaeadf23480e13fb218",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 153,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25963364",
+    "sha256": "923566486c88584156c3454ecb039f966b95b9ae0bcef8876cf41118f2c4d204",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 154,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25691349",
+    "sha256": "0764fb54794a375f56b70cb4132fa9bf753e2020efa99d452e16540d57b18057",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 155,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-27334684",
+    "sha256": "2ff5befb425b2f6dddc85131420571a6e8b6f5fc1a8f4fa0f36acbd6e19540e3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 156,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-27328778",
+    "sha256": "87e43b80946acd27dfe866a9ef320954f82427feea13b880aa832158562d2818",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 157,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-27198175",
+    "sha256": "7563c381b742922bca54bed2c1b0be7874d74054e2d4b874dcabdda8ab38f50c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 158,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-27308935",
+    "sha256": "60db4a5dfe3c9258a6bcc0c7bf05bb36df8632db55b2cbe6a6e6615a20fa65eb",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 159,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25925928",
+    "sha256": "22025ad82d7c8a55790f4c454f22c7c42723345c260870141e699cadb54f6e42",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 160,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25700677",
+    "sha256": "bc81536857c2acdce8c7308983dc0b84474d728004555d0f6a13c93d57bcb5e6",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 161,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-27129450",
+    "sha256": "a83484026644a34d681dedd876ea8ca4b1e424e7dbc678d35a8ffd141f168370",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 162,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-27271531",
+    "sha256": "c39987d855c926ca5a0af82645ecd39fc584977fc05dbd5378b9d4ee6b38bb2c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 163,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25825360",
+    "sha256": "41425587f35416fc161d8306c8ae3c125b7f9cc0e6af1dda96028fe3c33d507c",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 164,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-27243353",
+    "sha256": "fdf8a0f162cd44e34751467133567363745493131697b722bc58483ea3a7c8ec",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 165,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-25865503",
+    "sha256": "6883021a356341203e742281f876a769ebc35a441f493fea67d4495af09d2310",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 166,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-24900754",
+    "sha256": "c562b38773a8764d2d7dd931b01cdc0c631826b39543a483023a62f37492cd64",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 167,
+    "sheet": 6,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/06.jpg"
+  },
+  {
+    "id": "wear-26056715",
+    "sha256": "08f57b244cbb59bb67562c553e7e873e578abfdfb63944d7683e6d3ffac450e6",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 168,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-23526194",
+    "sha256": "a986e2c06fd351373849964eca370e0a602349bcb8ce27f4bfc26bc5b0d738ea",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 169,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-24575860",
+    "sha256": "02d9392f0588195b256a831b373aab28263d501bf5925834fce8025e79d652f6",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 170,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-27260524",
+    "sha256": "41b42fe27ebc9537645c02b6365b81e3505fdd80637e55b5dbfb96c359e105a2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 171,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-25696976",
+    "sha256": "8fea9cd9f2000c9a6a7b38dff070886bcc4857940dfdb525e7a4aca37b2a48ff",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 172,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-23610476",
+    "sha256": "491f769dd1d83ac2a00c76cd23aed4e335719ab0e1b32b68c3fc40f5ae0b2618",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 173,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-27335985",
+    "sha256": "c5dc8b3ab026fc2a7b3f77444fd90084cbfe5c5e18c47f89ba399c7f90993c5d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 174,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-27314529",
+    "sha256": "c0369d4e6338705f8a9674534507d1777556140d71d81dc190588ac7c766aa9d",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 175,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-22853291",
+    "sha256": "7d1fe2b72bebc99c2d323deb19aade789d525e14648f35bfc28dd40d43e5a408",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 176,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-24546157",
+    "sha256": "7d844cc93cb4e3b837d5cd4c4a3d051b00adf5de473820001a0a2776f5bebf65",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 177,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-24569776",
+    "sha256": "5232512d416b6423688680d5337eab76f2e7a231f738565a4766fff81cc8f9b6",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 178,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-27321424",
+    "sha256": "d522292f08ee56d894f47f42541596120f1f0e63fb13b09487171c9af9394de3",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 179,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-27322591",
+    "sha256": "eea3773da850ab227d0dc87ccf7bc7b2ce05f9548b813137222103f99a84948f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 180,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-27297324",
+    "sha256": "ecc6878d434760fe6e8c84a344c13a96374df63e21d5b1293fd7f36490459a40",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 181,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-25672376",
+    "sha256": "8eceb86f5f9c6b293798bdf8f142f2ba0dbcddba7ff92a50db9236f391bf254d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 182,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-25898815",
+    "sha256": "83710f282769b0307a7c90fde40d459d51aefb31f84e14de268b4e2a5dc5848b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 183,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-24482223",
+    "sha256": "69b6b2e0db177551bc3acc90cf20a4f4bf6dc8d2ef818f331b26a861ec47b5ee",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 184,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-25828414",
+    "sha256": "9cb602105ce5a5b26131cfad41edcd9428032aaadcc9724775448cd8e33f6b4b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 185,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-27313378",
+    "sha256": "326c775bab29feafc5459e9f785cb5adcebc6055609e5df3425b55c83b75cae9",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 186,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-24560269",
+    "sha256": "adbd088727cecfc225939e29e2910274028bbf40f161e8509318b0a3f81bc819",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 187,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-25809336",
+    "sha256": "174630cd51bad5043740fb2d8999fe3499ba30cf5499dd81d02affee2a7f554a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 188,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-27209871",
+    "sha256": "52b0f6bd06870e6ede204124f7dcf4c76813f1e12f9fcd42fb9a0670f6b21878",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 189,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-26436671",
+    "sha256": "35d2a81a33c142a9a6ffd6fff4d1eba676db16939c690e6a23cf73dde7b6a35b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 190,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-27317957",
+    "sha256": "4cbb56c8662efb3d68eeccc336572e2f938068ba7bc4717b023095afca02f26c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 191,
+    "sheet": 7,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/07.jpg"
+  },
+  {
+    "id": "wear-24677997",
+    "sha256": "1d7ce00278a70f7406045bbd290594da92a398c2bfccd2db6953febad5545744",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 192,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-24595632",
+    "sha256": "ac41c3148eabca8dab269e61b9d02bf2986aabc41ed005a1673437c01e5cc96d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 193,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-24573692",
+    "sha256": "9e792aaee7d9ea77ad3fbb6a26c8f693e6e7b4c49218af7efddbf9aa9b3d299b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 194,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-25875958",
+    "sha256": "c6b0843bd45007b8b12a17592107d7e2f471aa1ba10488fb5b990f1d576b5b0b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 195,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-25827850",
+    "sha256": "58f8a151008cba62ddfa1f6af90537d58595d2c421be38dfebe61a0dc3c60229",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 196,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-25826154",
+    "sha256": "cbd48c759281e561c18d523d8f1f75fda7d772dde2e99980c13fb85a4cb280c8",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 197,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-25693385",
+    "sha256": "0a727d6615be3e47e40e1ecf6c55e219c2843a2488712920103971ffcca9f50f",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 198,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-23911593",
+    "sha256": "2f25fd2ef924c1737815838ba983a46448e4531b4269fae6f02d43cd37fc5309",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 199,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27305199",
+    "sha256": "2a9bd6cd811833a3c79cb2bf7136a0c2adb0b3cf20a3f12a6645c00631fc8237",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 200,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27292000",
+    "sha256": "d4cc3cff6942f7163594835c990468c5331daad6d8a62c1215ae84efcd717a4f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 201,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-25878524",
+    "sha256": "0dcea7615c054650b34a1067601e7a876b7736f5cff6f6b3a6a069d2453bfbc3",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 202,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27346719",
+    "sha256": "82f250236bfc1f452d8e7728b623c31530a2ed071724b74d4f6b3953143522ac",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 203,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27233732",
+    "sha256": "c2c8b43860f029bec433bc5a1fcae60dbab564fdc0d04e79eda7b7b0eb72cc88",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 204,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-25667476",
+    "sha256": "0cad566c382fd6392cdde774006485538acaa4aac109cc343b35420f54bcbf11",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 205,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-21067418",
+    "sha256": "826b6ee05f216bd36c3ed7b69fbf1a5263ae74a05a16de8a34b5afee081c187b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 206,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-21602803",
+    "sha256": "100c95f366270feb1f7366fe1a29578ac5a04acb94a8dc653b83d403bfada7f4",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 207,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27189093",
+    "sha256": "eff94db221a05b1c164ea7bd76f1a8654cfc1e1ab7d046df94febdb0161e3992",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 208,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27334304",
+    "sha256": "7be94e5fdfca33da28be5800021992ad1d92d0eee816b0401e969a1213cb1d8e",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 209,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27337300",
+    "sha256": "8a1acf48c2504e9f0cc90aa42b3ddab91c059ac09615d53780881f3f085c589a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 210,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-24553252",
+    "sha256": "d52c7e75e574e809b648bd140dc48dc6f34d409cbaa4b4d9d23b04b9002e4432",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 211,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27320677",
+    "sha256": "433cec0899b30df896b95e601c4962c9b176d072f28cb3d58a0cb3b7aca279fa",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 212,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27308475",
+    "sha256": "3d92042b6be3012de4fa0fa00f26aa0b62c7fdac817caa3e3db9b8824cc0ca4c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 213,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-26043106",
+    "sha256": "1974c9363f4fea93bb8d799a0844fa0dd0f4ffa7627bab1b824aa6a86b707261",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 214,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27273339",
+    "sha256": "a513140ce20175b9a2ca3d42eaba07ab2c3c6365929dc50cef84bd1618613f8f",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 215,
+    "sheet": 8,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/08.jpg"
+  },
+  {
+    "id": "wear-27340797",
+    "sha256": "4a48aa71fcc20f1212b91ac22ea8576f383cf4b02eff6fa9ee4389577652c5b8",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 216,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-27308221",
+    "sha256": "9a30db2af0cc471ebf738cd581cbbda1cfdb0d34d9b25f4283ca5ebb415e73bc",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 217,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-26516726",
+    "sha256": "5fbb45cc2bb7d2110d171f6b17fb4d1042a3e5e908ef4b3f4615dbeaf998f470",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 218,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-25788631",
+    "sha256": "49c28ca701506bdec6e0f7d02f657e4969b782af4993beec60a073ff79c600c7",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 219,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-27307253",
+    "sha256": "f10f6314b98321788f3304bab5387145d28bb4d519d1fc3eed723caabdbe679e",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 220,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-25978144",
+    "sha256": "13244770ee0f1e7d20b3207ddaedca570612ecfffe4805c0ae923fc297f5b066",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 221,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-26255448",
+    "sha256": "1b9229052b99d7acb692e9326db3300d0fdc5c71b9363d8c7ba00f743e305acc",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 222,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-27218547",
+    "sha256": "827426153623cf59642ca9d04bf91382dcb1579c387c8474cd52855e875c06cc",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 223,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-24497803",
+    "sha256": "6b1a7dd229543ec2f50ef3aa06f750bf3c08ce2022ba0c697a2cf542acacf02b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 224,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-25739928",
+    "sha256": "fdcec4eb8c4cd538e7dccff635c35d73dc4a835cd86213a107ad87f08933fb8d",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 225,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-24512125",
+    "sha256": "88348560304b4ebe4ad4f06b65ab4236c60eb435255d017678e35beaa844c59a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 226,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-27252849",
+    "sha256": "23cfa51b3d7a88bf1fcca2192a601abec0dc937c85711125bd4bd6623657b278",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 227,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-27117810",
+    "sha256": "09ff6275c1a8d9ea01f9924381eb2bffde4532327202364f7f1241db11e4543f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 228,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-27256872",
+    "sha256": "3198f9098bd15cf0aa40730af9c0ce83811a5931a0eb3d47459722fc2ae813c3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 229,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-24519433",
+    "sha256": "8dbf84a1299cc7f350c31f66ec9f7ade0c554a377f9f11573c18a18d84ed7fda",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 230,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-20255384",
+    "sha256": "f2dd9d3b6a87252c683d1c98947d9470dd4fa1d7582b1fbd3b4d5f062115bf68",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 231,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-25743205",
+    "sha256": "12dd79d41cf0a397de1e749ca345ac416809b13c6827a675b154ee86e3f1c062",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 232,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-24690419",
+    "sha256": "b968067550bf7c223b086e5927c6e931343b40a2dd6dda7a84331492bd7a5b4b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 233,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-27322365",
+    "sha256": "8ea189ab98e640abc0a75e97ed446904d6541759affd9dc9f95567c5b6e71dbf",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 234,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-24548048",
+    "sha256": "a60aa6ae58d3976ff0600d7f626c40263e1dae209a35ce15de3afe4d4d152898",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 235,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-24610552",
+    "sha256": "caa80dd2088b1385e97b715d14af6292833d92b04489297bfd884696996380b5",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 236,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-27310763",
+    "sha256": "f85fdc00ba1e1aaa72f46c9e3f6602d81ba6150e2c0c5ddadfaf6fd0532de52c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 237,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-24645973",
+    "sha256": "8161f481c7587e8e86e2f61ecbfbdfec93a4865dce10905ce5b488bc16072344",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 238,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-24602940",
+    "sha256": "04309ca753edd8168b3a06d9ba471617d87440b40cd41e7997bb3406622ee788",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 239,
+    "sheet": 9,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/09.jpg"
+  },
+  {
+    "id": "wear-23056570",
+    "sha256": "37cf99031517d0374bdfac972de5fa97ba33399d9512c212b417dfb8929b8087",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 240,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-24638491",
+    "sha256": "30eaabb61a0f544e64a7dccd0e683c7e251db4239ce539e575d54754825ade75",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 241,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-27284472",
+    "sha256": "151359d648d7c2a8e1378cef40c7337d739655aae4557abee6ae77d470a79082",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 242,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-24911389",
+    "sha256": "56b16b2a9a52131b1d2a5e04b24d5001b5618abf79419fb7016b4a9e3afbc922",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 243,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-24481028",
+    "sha256": "a758b20401866a4e62a30228787fd25c0c2cd18dbf99d588581b94730b8756a9",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 244,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-25150066",
+    "sha256": "0cec85b7fa7ed3b739fc2a80cfc482a4d24fa7d5dd17716a31ee36dc0497d88e",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 245,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-25699147",
+    "sha256": "b50786c85dd8e710696fab628e1dd9eb106a858e85ea9f71385234d6945e76e2",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 246,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-27337302",
+    "sha256": "f7c25a93e394c5848eb326184758d31158266eb23b35eba06ce6b6f4e33342b5",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 247,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-25805062",
+    "sha256": "cf8be55d02f9dc0c71d27ceea70bcd05a2f21c1314187ef97918c6ff00ecce25",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 248,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-24595386",
+    "sha256": "3802187f5d3c90ad5c077e07632b80ebb4bee8282dcbc4ba28d3b180688ef6db",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 249,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-27336815",
+    "sha256": "f848ae0ba68ae4abee9dfb48432a46ae03b3c1cec4433b1466a5dade3bd1b44f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 250,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-27074814",
+    "sha256": "44003894f5a6384e24c8caf5260274021532c08cfd8b3076fda5a0b4e8c597f7",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 251,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-26299885",
+    "sha256": "ccab545f59a709086df2087478203adb3b3d19043f5b6692cd859722cdcf602b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 252,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-27352786",
+    "sha256": "504958c13a53fa89f4023b1f2200268a018c4da8a421e2c157803145bffc205c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 253,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-26171795",
+    "sha256": "80b3dd0f25b58067a29e9ce0e774094e5ee1205f045d9b6d637f407573fc5547",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 254,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-23900236",
+    "sha256": "71fef9195f7f506badb592030269069e9aa2a9a595ccdd767951f85f469d0396",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 255,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-26457933",
+    "sha256": "bc533356d1ee49d35eff74cbe50f8b93ac884e298f5e2670676477d740c4ff60",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 256,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-24475202",
+    "sha256": "f5fcf0c99e1e05bf474c2d9c0c1615785338677f2e9534e558b057e4b351311c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 257,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-27143551",
+    "sha256": "f0ee2881345b77faf69c7e89ff9fa356cfeb19c79014c571960ed9e6f5141f80",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 258,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-24524187",
+    "sha256": "2a528720bf404ca660bac3259bdf01aa381c6db2535fdaf678767b5c7faafc15",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 259,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-26424576",
+    "sha256": "ef1e4d6ae311adaae0df9db498723cd8abf3b4284681f8bed72e2c5814efdf1b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 260,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-27323792",
+    "sha256": "07b666a0a734fb255ae0d37f928effab53f1032f706a4e2418f70ad810c6abb2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 261,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-27332658",
+    "sha256": "83de697cbf9772ea6cc6221b7539bb541d3e2deb65851ae31feb66c6fef9064e",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 262,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-25795949",
+    "sha256": "36822b2cf3f4defaaec0ecbc6c80756a962a6da0ba371d48836fb038112f0ac1",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 263,
+    "sheet": 10,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/10.jpg"
+  },
+  {
+    "id": "wear-25875960",
+    "sha256": "5e7e636e34a21467a8d5c06f1e9e79472a01b7bd4c5a4c5eaf76c72f2b0e67ba",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 264,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-27284974",
+    "sha256": "70e21ca5661c8687869d9558fa3daa2a5102d4408eb581e93ba29167ad238fa0",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 265,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-25915016",
+    "sha256": "9e8ebb382993faddc7e5af78abb6d48084404b6bcfac9cee6cf2e1b9a9aa98f7",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 266,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-27312340",
+    "sha256": "42de6f0cce982242131e78ecb03c757bf4ad04ac5cd37d96d7d949726a8bb7d9",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 267,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-24484835",
+    "sha256": "e6d156ef145f39fa3c86f33f05b3a6a8ade520e852acd096058ab63b709759db",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 268,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-27346460",
+    "sha256": "9b0d8a88e9e099409b62a39287bc76c22f464783a9fbee914ec9d89400fbf04b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 269,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-24691353",
+    "sha256": "86b05c9bdc631546e9ab095413b36a007e0969c81e16af19b298676bad6dd55b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 270,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-27172154",
+    "sha256": "3d101ac676c9d9d26794b8e57956a4d78207c33d73775c1b8e37906a06516513",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 271,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-27124432",
+    "sha256": "7a1e4ccfb503c34ea9b0bfdbe4109104a4b42d191774232287be4ce710ff152f",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 273,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-26697223",
+    "sha256": "7c654b54715d9471d291b8a6d2ac2446d403111af0c7987ce6a216074a425e02",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 274,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-25778971",
+    "sha256": "748ef13544e4ad7c1d6fe86b8a0f50cf2143f8f67a74c794e867c69b0e34f26e",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 275,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-27339424",
+    "sha256": "aeadd9ca0dc036c4ae40b93989db3472059ba5c4aeab01a6970dea2a4169030d",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 276,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-25828113",
+    "sha256": "65f5443717709ab37b14b8f771da6a250bb1862e45999953dcb3b2d8b8d49b08",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 277,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-27211065",
+    "sha256": "dbfd198bc6b2dd5810a1b7e15cb14f484b11619b463d4c4ba161d597b084f971",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 278,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-27230164",
+    "sha256": "a07db0ec0645d79bba47a4464ed0eff4b74138625b648d44ec00de245818a07c",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 279,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-21247532",
+    "sha256": "5421d6784927d8a05bf2bb8a7c82c764d010374e4e14bea0de47098e3a751eef",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 280,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-26332144",
+    "sha256": "36abfd4b90e1863d9b2f236e9b7b759ed40e475362515aedd1f069adf1196783",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 281,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-25748623",
+    "sha256": "dd810114d70828d26d2aa207d69adf535e4393cd53a715b69ffadeb28647cb13",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 282,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-25779491",
+    "sha256": "2026cc542497a2fdc40f47c1203d0be563e25bbdc9b5a4e51f0483f6704b2931",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 283,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-24722276",
+    "sha256": "95da62549b0549bed958fce1234b633877a11be87403b4c9d66d30d3f525d5ec",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 284,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-24571335",
+    "sha256": "9b9d9ead57f66ef6712fe3c6383eb592289236ce7da24e18f91b833c610cc10a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 285,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-27190391",
+    "sha256": "d4b496d12f9c968de9c2e43d3b90a0ed90db719d222932674f97952ea56e1c6f",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 286,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-25832112",
+    "sha256": "93470f553b9bda08a01922300d9bfa593661aec9598ebc857092262e8d20edcf",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 287,
+    "sheet": 11,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/11.jpg"
+  },
+  {
+    "id": "wear-24807091",
+    "sha256": "54978cde7cf345b10fa5657e09d011cb48096ee608d23b8893ce19bbeaee851b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 288,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-25893075",
+    "sha256": "3b2da9918f39f215a69b57b2f130a68a4590ab97f25526235480f27bbb845f6d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 289,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-24510105",
+    "sha256": "17e2a2cf34dfdb56f950e8d7b79a85d9cb5a7fafb8473183630f97f4071a2fd8",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 290,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-20582514",
+    "sha256": "b29aea666d8051907e7032555d6e68625139b7cf3989d0ac6adda6358eec9c65",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 291,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-27304730",
+    "sha256": "6471b949ab1ae5d982f88c3813eca66db293abef7947ecf34dc076a9acc271e2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 292,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-26131782",
+    "sha256": "fdc7db6973627bbc42791408b6bf62973dc5d512c540d3b9ff9963f303c392d6",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 293,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-25731621",
+    "sha256": "1784d0eb8296d67541cd93158d6dc8fb1abdf424fb79ffe3f0b645157ca0877d",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 294,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-25700384",
+    "sha256": "8bb7c0004c7f8743d65f52670a0628d442cf168d57c8d927aa855712302bb328",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 295,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-21932398",
+    "sha256": "536f02098eef88191fbc61c992a94d1c2e44029ed52538bc537dcf36e0b72160",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 296,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-26071916",
+    "sha256": "7889576cf0692ab124c4a56e01c6ca0ba289d8ac4069a91b8f78d2b35bfab705",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 297,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-27317599",
+    "sha256": "ed9b1847452612bfbb8516b6b20fb8edc473cfa9eec78fd4194a1d24b06c1677",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 298,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-27251377",
+    "sha256": "af3b2aff83b4bacfbeb6bb87c9a3e9780e44329253169b32e2b15f40ec37ea36",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 300,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-27095378",
+    "sha256": "0e429f8f92fe6cbc2451e165fd6d4c5fcbb0d31d98a3baf00bed9dad2af4a28a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 301,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-27307079",
+    "sha256": "1beb52e0c9635778a8ea305dd336b1b651be61ae4fe85ae63c9bcfccd5dd8b08",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 302,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-24610630",
+    "sha256": "cfb82ec7dcad86e2c03e54770f8f18d07a3cfbf246728fb989d13c0e71703a5d",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 303,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-26316118",
+    "sha256": "f10df7d5a9243058d133cf3383eb4ef285e3686f52c730193b541567de559b8f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 304,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-27341084",
+    "sha256": "2c189f881f917d55434bcea6b62c3085dce04ef95416b54565f2551bdf7b950e",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 305,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-27255680",
+    "sha256": "dd19b11dc2c32cf70690815936204a4c112ab90683bd0164977965936dc1ec06",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 306,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-27172797",
+    "sha256": "7f2e8e66041a99c6e6af02425b308dc577b3423bb930f787d2af24a6d7d606a7",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 307,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-24392800",
+    "sha256": "3c26a1432a3365c297fa04fb3280b151842b4c4c43eb103b47a337ca27e72757",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 308,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-27287185",
+    "sha256": "4acec174a58f2c81476c6f21b06386c4b83c74397d9087162231fee764ae456b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 310,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-22309480",
+    "sha256": "49c9123a4e18ebb711af8e76d26285e41efac74abbd895cf23641239cdc304b0",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 311,
+    "sheet": 12,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/12.jpg"
+  },
+  {
+    "id": "wear-19556760",
+    "sha256": "944945c72624c1b1ffef9817d2fc2b6a139c9b28be24e4d6ff3ffc1fb2131e2e",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 312,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27320762",
+    "sha256": "ce7ed0a158b8cff56556feea28627560a16754c8c35bea28b1aeb39a7ae73b3a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 313,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27320402",
+    "sha256": "a60297cdc31aa026cc177f0d6073ebd5960bd26aa192e73332991484508e2ac3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 314,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27332372",
+    "sha256": "e04ca39ffb9cf3be3ad8a51aba04b8c59932904afd0aa7de6e9a77ea6e88f515",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 315,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-25905394",
+    "sha256": "5fb206d6f8b75bebba06f277ede77e77035a7deec11d7bdbb2ce0ff6db211325",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 316,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-24475338",
+    "sha256": "2d60f914f8150574e9dc425909d7d5185cff6637b28709995e5a7f0636aaae17",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 317,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27255864",
+    "sha256": "a2e311ebab255a10d02acedc6be0f7cab9a27e3eb706d6863f957cfc073cebaa",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 318,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27332344",
+    "sha256": "2fd7f564a4e93e3ecef03d8cb59f2fd51b766fed5767218acae233d591349c51",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 319,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27317954",
+    "sha256": "aa88bb853099bd963a54dbd8549d40cfbc4f57208abe576b0ca01f31dd2427d8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 321,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-25942123",
+    "sha256": "6e5b54654ff2e1f5699413109fe9374a1ef3715855642685eb069cc34c8308a6",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 322,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27255481",
+    "sha256": "efe9330b94a5d9a8ec84db1862b9392817354f50056eeba77ab92b4008b76a07",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 323,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-24591144",
+    "sha256": "52ea02acf1d29702484c55ea822d36b9ba9b3ba33c639423fc84d6accb7f4eb2",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 324,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27345268",
+    "sha256": "09d3f2a804392e40637f0ad01ee684e75c9cd1b01b8a97aed8aedbabf8c6a71b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 325,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-25732948",
+    "sha256": "225953aa7e1173d332027579b07378bcd90215d59bcd2d486710afaf2b21a968",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 326,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-26129686",
+    "sha256": "d187cc4539df1a4a16664cc934f1d66dfa7b2ae46399f032f2d293f99d90524a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 327,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27317489",
+    "sha256": "02cb33572e6e74e1051854c99bf3e9904064da3cc76383e333157841eb3e74f8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 328,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27319903",
+    "sha256": "eaad3d923558ce02b0cdd26a2883463ea800cbc8852f592e60d7b57dad32a9b4",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 329,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-25198163",
+    "sha256": "c29909388fcf3b367f1215bde74e6c6f9565d14c46fe63c66cecea4637f427d4",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 330,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-26089796",
+    "sha256": "82a1135aa27a18f1427ee31e557bc6e33644a80b12968b323a13cfb2454568b6",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 331,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27140977",
+    "sha256": "8f89d712327a417482ab8b32e0824f3b1eced74891de5f45990525703cb72960",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 332,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-27344096",
+    "sha256": "5d3429d0372b532f6100215b75dc727bd9a577dadb52ccc17df0e8e0465642d7",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 333,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-23267457",
+    "sha256": "6b01eec9828ead310fa70d914a7ec615816fae97e5e473075bf7c8837810ba00",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 334,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-25822294",
+    "sha256": "635a9f6e35877ea50a896ddade8acf4e0e40da55ddaff5e282a80127fa5d81e9",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 335,
+    "sheet": 13,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/13.jpg"
+  },
+  {
+    "id": "wear-23661226",
+    "sha256": "d7b15126876ce2a8fda30fbc416493017f1a3ce0117dbc61b18fc39fc28c49d0",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 336,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-27342108",
+    "sha256": "76f2855c9413dae1df5605172babbf09dbb94eafc104978ad1086118b1906d72",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 337,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-24745636",
+    "sha256": "da2ce9e4eaaf1507b4450392ad5a9276031fa19a2ed9e6cd5e92df1c3392d9e4",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 338,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-25826132",
+    "sha256": "0ff99477b346f0badef0daac7865ad11f42cd910268dfa939fcc0b3920d54079",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 339,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-23608874",
+    "sha256": "018381cf4badf94af8900befd8331a77e800b9e9b314611320ddfacd39f471e2",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 340,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-27206322",
+    "sha256": "7d8b1054985c52286ed01e0fc220f94a8c7d2f9a25d4ca6d06995af37ff6ab02",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 341,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-25660290",
+    "sha256": "aa4203a77f3420c80958a0b95ecb6851dec44299342193604497fed70d40ba96",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 342,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-23839486",
+    "sha256": "3bd60969df233f92127fded110c474b4ab4ebedc186cb2237ce517d9c09499bb",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 343,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-27339511",
+    "sha256": "b3c4547e51ac86e5fa1981b3c7102f74ce9ae674fb7d0c5c1c4df2c162c4d039",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 344,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-27172150",
+    "sha256": "4bb7fb0e1924feaac7f95272562aa930a1d6208a4338ce35e0fa9f173f414987",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 345,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-24528042",
+    "sha256": "476658c2ce8c11186cfdf3e1161eae656e10e450703c0726491fdb823c5eb030",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 346,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-24974892",
+    "sha256": "2a5346880eee51bc1bd4331e737049b60ab624660801d9cae444fb27063a45ca",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 347,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-27302624",
+    "sha256": "699bd21b4bddd79c18cb6660bddd3a528476d06aa8ed01a2201ff88ba4a52adb",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 348,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-26384453",
+    "sha256": "199ddc543966a0f37e9f1f3218988adaf16c648deb4db47091cdc6b027c8c26d",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 349,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-23914822",
+    "sha256": "d9871206adb2b695373fa59209f3c6385d4ceca2b15477f612b99125cf46ad1b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 350,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-27322812",
+    "sha256": "31ff1d63537a90d0783406d575d797a850080592fb170e2f3168e36febd965d3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 351,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-25152171",
+    "sha256": "8e1a804839f3cc4f2126b57a97552f1b325d44924fb86bab9cd64d78e530a842",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 352,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-27138689",
+    "sha256": "0dcf1097612fba018b4b842aa2b26b4fb7eb61733ca292955c98b03bbd0e083a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 353,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-27317848",
+    "sha256": "4a4e0a02a06ea633d9c26b67f5477cd1f141063b51a3db9705657fb41482ea2c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 354,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-27339569",
+    "sha256": "e0d9774b73e6838bb277b5fbe49af556b62ed85241d6cfae6203db39a0c06b19",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 356,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-25239966",
+    "sha256": "aa0b82d9e4a83c6da81f9c06476e8e779ebf8667e2a602179369a9e9502ed148",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 357,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-25803895",
+    "sha256": "b9957ee8766bf2bb576d4f89ec747074ef218148cfa8ed876af8c46502c1ac94",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 358,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-23718330",
+    "sha256": "7c2c7c05dac4907d3fcaaba9af4a346b80c6866bdff50117922e1fee8e47aedb",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 359,
+    "sheet": 14,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/14.jpg"
+  },
+  {
+    "id": "wear-23359990",
+    "sha256": "7b3f7bf074809733bab4d3b7a3e8b7d72f79e32c2956d0cfe165e87e10ad2bd1",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 360,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-23803200",
+    "sha256": "0004b3df528a8d18181fa0da7c93a25ed75e857c9dd7de7aea1f295a273dfbbe",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 362,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-25718673",
+    "sha256": "cfc5c05b7afb2f772393687cd0dcca24b068d82c8f300c47db1ec1ffecfc463b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 363,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-24538314",
+    "sha256": "624aef4c64b604df2b8774c8433908b3b366aa2cc18410d7427b54f4f75c392b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 364,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-27349421",
+    "sha256": "a20dcc8cf3e3162ab6a9f3e02ef4f04294e93f44ad36fba915a13341a2b0e30d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 365,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-27327052",
+    "sha256": "b690d54116ef4d2be3bc763ac88c460436acb5becd6b22e912cac3cbf40fa838",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 366,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-27341247",
+    "sha256": "414e05af737892d8a9bdb4af1f2f42c6de47be919c6a4e5c9311b957608e1cb2",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 367,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-27241945",
+    "sha256": "12be07d91cd15a702a7e42650a2bd99562765b27544300d5ee49324b35f9a4ee",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 368,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-27289696",
+    "sha256": "34fe4d41e8802e7f7467c8c38c7ef7124f094d14987c00dfe033ea895a34757b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 369,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-26785196",
+    "sha256": "306ecc5a2e6d5ec57bf5f0c58da569c12b3a5ab561134268911a2bd70e4a7d97",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 370,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-26167600",
+    "sha256": "b314eefb0deb0f81914043955847cbd96edeb4cd0ff8988235e86fbedde88409",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 371,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-27347412",
+    "sha256": "dafccf6536519ab75a2d1f826fb311f782e9f54ab4851d60181773100827f024",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 372,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-27343787",
+    "sha256": "f0a8098b23a1dc03821f4acaf14b59e5f164b8a5edcdb09c3b3874731993bea2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 373,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-25820737",
+    "sha256": "71d9154ec3db804a3f092c75de674d644db99a9eb84b659c6b1ac58917f459db",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 374,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-27121574",
+    "sha256": "fa7f208bb96384b2fe186ef194e562e4f0cfe9754c61d16e05a7b276128ecd21",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 375,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-27339051",
+    "sha256": "4a4a07c35b4edf731deda8d1e2c6eb6b6d813926a62695425cde2447fedc698c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 376,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-24631650",
+    "sha256": "024105d73e67814e91c00ce49d5ce16a1234216ad05e585c359596dd767b089b",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 377,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-23819102",
+    "sha256": "1dab13341c19a1b788dedbf6fce4f5d33e4e76261d202d56e796ed19b1e2600c",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 378,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-21983595",
+    "sha256": "951da0d14b69e8428d344a853143bd049c5a98a51308993d568043daa7d7805f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 379,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-26418189",
+    "sha256": "ea411550cd080983dbe9adeef9c545709c231a7c739b90fb9331eea8f1f464f1",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 380,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-26287851",
+    "sha256": "27081637e1d6d3e4239b0ddc78a1f2abcfe2588f112fefbdeaddd4195844ef53",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 381,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-24487469",
+    "sha256": "a1a31c39a0627d5b6c06701da6c7e59d5686557e5f1c22b661059cdfeffdee50",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 382,
+    "sheet": 15,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/15.jpg"
+  },
+  {
+    "id": "wear-25808855",
+    "sha256": "9a87adb63b852b6ca834b6d7b3396513f798bd7c75aa12aa78324080a554f9e3",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 384,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27347884",
+    "sha256": "d1253447f85696d6673e70b3f30adf755f9d29fbe2450a24a205467ad1079a59",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 385,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-26460636",
+    "sha256": "111943ff80b28a8c7b641e6cb260ce36bb83e1b5e7e40c2600d599d6ce700ec5",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 386,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-25342705",
+    "sha256": "7cc2690503bd32fd115047919a05246b802c61b217a00555599064a3cf8d3173",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 387,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27321479",
+    "sha256": "877dd061968a0d7197bc6b1b423c535f04becf2932c04308a767575e10750423",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 388,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-25773048",
+    "sha256": "1fff44bf7ee115019b466e93a51f0e3b9240701acd796d6e12a0fcfb91919545",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 389,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-22745573",
+    "sha256": "4740d65a5f95ae8d529c14041675769727e2e573e74111862e9437b6cd4fa331",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 390,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27343546",
+    "sha256": "2df209f55e6a1f1ec60759aa00524fcefcaf62033927a6c18edbffff3234a5a8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 391,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-25717253",
+    "sha256": "3d42324e057531e7ace61a0babd2cd1fac22e7047d884ad5deb4c0be1691087d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 392,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27337066",
+    "sha256": "a2bc14f53b71caf7e03c163eaebb59d263f910b7ee3e015fb0800784e4360951",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 393,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27334582",
+    "sha256": "2def54e6c4e8d9d8b3d83a1149f7da75476ce61d7e7f9468aac0eb4a340db21b",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 394,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27345394",
+    "sha256": "785438251fef4ff345351c560bc3530f540893f1a654718600db29b489bc989a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 395,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27332410",
+    "sha256": "f6327fda5e85a5512717bf5c853e08c33128ea0214f20e2610e03d9297ac770e",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 396,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-21188303",
+    "sha256": "601566aea529383f4b858715fe40158bb5ea6da22d1c47d22d35bda1c9880f82",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 397,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-25298225",
+    "sha256": "0af00463108823d536e28021c23d5f77176acff54f76d17c102b99ee58f317bf",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 398,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-24644626",
+    "sha256": "fa27a9e2c7016a7f0239342b2214eda607732473b1a05f6635eff4d5dde7d0c3",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 399,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-24860397",
+    "sha256": "95d4d90176787f5bbd6a8d97c6f436bb15e385b58135bc2b86e2f786bea24e15",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 400,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-26437932",
+    "sha256": "a080eae038e5ccdc1a67cfe263c75b7ccc6200b2502d8447db7f3c8f6622e91a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 401,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-25106950",
+    "sha256": "edaddee8f7ae83b5d3f7fe4a60f6bcabf8d402e17b68912f94407c802f506c40",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 402,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-25493261",
+    "sha256": "bf8a95310802d9b9b057bd89f84469ae822ac4c72d36cc96173f686dd000b5ba",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 403,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27343398",
+    "sha256": "3c72a73639ee41454a1bf61b9017c6dc75e7ff52a08811f77ca19391eb5e0752",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 404,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27345065",
+    "sha256": "79a085c4ee2db62ea7a5201cb825aa519abc7b64449fe04554f5df74f95f5dd3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 405,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-26071471",
+    "sha256": "56c546ae44055dca502c56e668ecb75de6ac660d4cf4c71f586bb48ff5074c2c",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 406,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-27127734",
+    "sha256": "42c193e714e0031213b4c87c56ea203a454e8ada07d8999d63eba6e0392bc6af",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 407,
+    "sheet": 16,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/16.jpg"
+  },
+  {
+    "id": "wear-25865326",
+    "sha256": "da557e01689726f0a96e8076bee4a9689db75baa31d5b65912f45db2f5b5cdfb",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 408,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-23316866",
+    "sha256": "e05fe74ab6538e38db6a1475149befee44f402fe7f5cc11537c14e99789a3ec9",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 409,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-27351887",
+    "sha256": "b1749c398c2cc73bc7943546d01e15a3bcd3eba69b36b09f23c77957cdf32a6c",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 410,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-23644163",
+    "sha256": "729b241a7269df925ee0ebfaeb649745ca6916d9e3ebf8f4a0ab6c3ae41e4a98",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 411,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-24587109",
+    "sha256": "5b6b98a04a387f4fd280b255a968eb444b30826ebb48dc4cfe5b86e62880bfd6",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 412,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-25938215",
+    "sha256": "e52fff63e828cc18e6350ab373f355ab5fd7fbd36435359a5e462ac1e9eae5b3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 413,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-20027016",
+    "sha256": "773d937828da3f2ef7a2bdce9415f3918f137a93f6f8ce8c883d5a99bdfb26eb",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 414,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-27314151",
+    "sha256": "fc05a0c6b894de963d966768aa95e54de3f403dcc5f7bcaec9d81d104c7e5fcb",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 415,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-25721733",
+    "sha256": "993cf55069ffba0e6160d20ad6b0d3c7754d4c52dc0149a55b824b2f764bba79",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 416,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-21303023",
+    "sha256": "d0fc9e03a3d43448089d1457cecfab15a2df266752bea271e638690180ca7cf9",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 417,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-23628027",
+    "sha256": "0f53a6f74e5bda613b80dc43528045bbffedc9639d2150e408f06d6680bc3d08",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 418,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-27336688",
+    "sha256": "0e90b0ea1d43ee297ef08ec3a0dcf0c08b5a054587bb7adfa36da36155040fb0",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 419,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-24483858",
+    "sha256": "023ba0e7700c088aa6a546734291bf1e2e2ed1a72c1ce76c0d0335d13f1e861a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 420,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-27332415",
+    "sha256": "06223f314426aac5013423f65c31129b396b3c70f157343b739709bc062215de",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 421,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-27229865",
+    "sha256": "34620d001e8748cd032e0c3732dcf920ce0534c7d17b1dedf3b3c39993c963d3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 422,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-24457298",
+    "sha256": "1035a0ed588b74b7a2ca21a36fccaf811a2d277a51bd78be0bd9959d2419e890",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 423,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-23541673",
+    "sha256": "b297719b214e4e1fa4d3b88ba8f6bae16eaf99bd90e0dacc9704fa9a8ccf4033",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 424,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-25098186",
+    "sha256": "682d4167f076630b4fe0692e5d4ba10e5201d32e0c2c3d0d9eaa2b0c07fe628d",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 425,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-27226614",
+    "sha256": "6a276648a2522d2247712823ea4c3c13cae89523174fc53c637e6aa1bac49d08",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 426,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-27335800",
+    "sha256": "95ab6b7bff017b081aa6adffea8d2a1c11bd5983d64ee8f754c7b0e9873b2522",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 427,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-24605463",
+    "sha256": "04c1e5d357347872bd073a7c9ed19ce27db35874e20e936fdc7e6b2dd7ae37b3",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 428,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-24442538",
+    "sha256": "fff383695e6b034f958aa79088e0c7d986887689050ca54b296e2a815a123224",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 430,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-27346922",
+    "sha256": "08c85802c7686828819364d5eebfc9d7ce8adcd196b0c287550f56f91253e30b",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 431,
+    "sheet": 17,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/17.jpg"
+  },
+  {
+    "id": "wear-27350397",
+    "sha256": "742829cf6a1db2b21b2fca0456dd0d723c1a27e93848afb9d975c837ac9a6239",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 432,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-23341676",
+    "sha256": "ac89a540593eab6ee577b28b9fd79557c7c58a4d4c13ffc1559777a98382061a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 433,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27332093",
+    "sha256": "d98cce8f47d0e6db762a544e721cf098ff6f354c8f75bc0c244f5a0135416917",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 434,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27340181",
+    "sha256": "cc258f5656705b03197696a9f8ddde78c1a048ad393359ac0e93a139adc4b534",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 435,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-24693295",
+    "sha256": "235c2bf2f7c788379bf799c65738cf43cea2ad9c93824b9d5df3336f6ceb1cd8",
+    "evidence": "X",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 436,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27340200",
+    "sha256": "cc279f8e6d24e7547c5d53a1eb180f519980b6d2b38ea3389da312878eff09b8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 437,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27340337",
+    "sha256": "bdfc38f5ab5a8710225e7529c5e4b457e22fa9158b74fa6a974da5ff773f6528",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 438,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27305128",
+    "sha256": "1d686ab588dc4ee6c2faa5106cf254b978e3e2ec5b2e7f7426491a1b5b9a6a00",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 439,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-25153356",
+    "sha256": "a351781e025bf270581edfb9d775ca890a6c2f0c1030432c62ecd258ac83901b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 440,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27277959",
+    "sha256": "b1c924aa89bdc98f96b80da1d26c6381ae227a930e57f353670d7b1024c1c6d2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 441,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-25982396",
+    "sha256": "2fcaaf5e6817dad41d4b06a87387ef456a18a74fae6159b9efa1eb05bcc3369b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 442,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-24588713",
+    "sha256": "506e0b484681a0e306649b89c621430aa171fa8847a2274f9f15c59f5714e0a7",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 444,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-25497956",
+    "sha256": "8413e35cc32bd555dd58e226a144b212481d01de53ecadb0fd1d162a865975a8",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 445,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-25893473",
+    "sha256": "f7c7c34049823ab9a3bce14507f62f7e5892d125dba37a3e8c4dd4b59bcd0b74",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 446,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27229818",
+    "sha256": "1ab8dc6f0031059744d54a76a4df19a10022b0fc1dbe47e0822dcfb52f5f110f",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 447,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27299053",
+    "sha256": "ab8d9a80508f676b831f949a06bb4ce22de33387eb6c94f89ab52aefa091f7c9",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 448,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-26095214",
+    "sha256": "67716ff306b088deb5630860471c6eb9dc83824c83c42c05eac908aad180df29",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 449,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27343442",
+    "sha256": "9a9ecbe96906c5c38d6ed11bf401478d7c78bac0a122efd91fd75a42b744a7ca",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 450,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-24984450",
+    "sha256": "2cc0db427e798d351497c9ebf68f62fd970640b0fda08ea9d9a1bd1ae574cf0a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 451,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27342960",
+    "sha256": "08b4d076e96841e90022ebfd2360c20e129df13a579684c71fb78bed26a8c5f8",
+    "evidence": "M",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 452,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-25177424",
+    "sha256": "8d0e647d8d0f96371a104ac14d4f9d2ee4165cfac8e008e7626eb934edfa0613",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 453,
+    "sheet": 18,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/18.jpg"
+  },
+  {
+    "id": "wear-27332097",
+    "sha256": "8dff0995f87f8941e4c34c7b9c11d54ddef6793be9769c608beed217078b13bd",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 456,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-22950118",
+    "sha256": "f278d64cce140223756b8f2c0a63abd339abd10f087f3560a4d1e28ee39b2ca5",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 458,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-23305967",
+    "sha256": "3546ebeeb8bfbc77d632c5db83939ef0af210a641ef7f476434a8d4bb73903e8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 459,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-24525743",
+    "sha256": "e4e5e8e3c4dda02a920d8f570a887f4799d3f41840b7bab345ee2f27413265e8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 460,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-25400239",
+    "sha256": "3eb9e521b7bacb8ef982cc2998ed911d1056120273ca04d3d97cae53be96ecc3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 461,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-24150226",
+    "sha256": "c71df764b86321752fb9c29fedcf96a191b86993bc3e748ec262cf093508d611",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 462,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-27317933",
+    "sha256": "26d091f71b1063379fb7974c569c720a459705bc8e1e03047a7cc26cfcae7eb6",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 463,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-27348464",
+    "sha256": "00448315f8e62557abb24f4b09fc1f285356c8341a2dc5a5c61eaf9e8e021902",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 464,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-27328022",
+    "sha256": "b70b36a08ac6d71e6cbeb0bfc64df6ddc9a3f6d5738c104ce9949d04cfbfa268",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 465,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-27327150",
+    "sha256": "dec52e330908803adc2d41db72ba3a9104e158c27a6d846966e4ae3cf5c96869",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 466,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-27335030",
+    "sha256": "a5b011257e0150ff0c083cd848ef3d64a0e697b1fd02eb258766e9615181e6f7",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 467,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-26239125",
+    "sha256": "3e80f3e1f54cc2f3e81559a41f6c15d0bb8cfbc1c194feb970eabcfab1fc06ac",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 468,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-27321162",
+    "sha256": "63dfad4e917b6c899cbcc69a8a3668ef4cc37b9e5bf63c28df2c80495d862623",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 469,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-22208222",
+    "sha256": "d599f57e022e1bf9084073106899f1401e4c4201dbcf23bb51af601c2f30c94f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 470,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-25419207",
+    "sha256": "83776e75160c5cee3311331f99bcd37803b77e02d37cd25307676a289966ea0a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 471,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-27341216",
+    "sha256": "1fd74ef869cae9c959f71eb5ab1839d46684ada443330b31055ba6c65ebbab24",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 472,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-24990055",
+    "sha256": "9bd6ddbfa15d96b7098585b73ff8482e5ec0dce2b54ca67b5cf303451868a218",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 473,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-26047249",
+    "sha256": "3e592e627596e3f62b9d43db30ec414f1c0e2177147d8479b58502258feca448",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 474,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-22645908",
+    "sha256": "0b6740112e2ad3b85e771ffee0f4ffaff4ce46ae81986df478744246dd3638bf",
+    "evidence": "U",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 475,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-27343363",
+    "sha256": "d5479f40cc621d1909ffaf6f3021eb3f2779da07a51b77ac40e162dd7d55ec29",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 476,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  },
+  {
+    "id": "wear-27187691",
+    "sha256": "213c5e82b8002d97d98fb460d9980e33b8bc372e7e846633b276edbc3116e481",
+    "evidence": "C",
+    "reviewedAt": "2026-09-16",
+    "ordinal": 477,
+    "sheet": 19,
+    "batch": "2026-09-16T2200-wear-men",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-16T2200-wear-men/review-sheets/19.jpg"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "retrievedAt": "2026-09-16T20:57:42.120746+00:00",
+  "scope": "tokyofashion, requested pages [1, 2, 3, 4, 5, 6, 7, 8], limit 650; one image per post, WEAR account cap 3 across prior sampled pages. Listing category is a sourcing lead only, never a presentation or body label.",
+  "sources": [
+    {
+      "source": "tokyofashion",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=100&page=1",
+          "error": "HTTPSConnectionPool(host='tokyofashion.com', port=443): Read timed out. (read timeout=40)"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=100&page=2",
+          "error": "HTTPSConnectionPool(host='tokyofashion.com', port=443): Read timed out. (read timeout=40)"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "retrievedAt": "2026-09-16T20:59:54.844968+00:00",
+  "scope": "wear-women, requested pages [1, 2, 3, 4, 5, 6], limit 250; one image per post, WEAR account cap 3 across prior sampled pages. Listing category is a sourcing lead only, never a presentation or body label.",
+  "sources": [
+    {
+      "source": "wear",
+      "pages": [
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=1",
+          "products": 120,
+          "retrievedAt": "2026-09-16T20:59:16.629662+00:00",
+          "snapshotSha256": "72706d7e70d1ad81183ec30d5e668a001dbf54bf4afbb39b7cfec3016e899e2f"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "wear-27316333",
+          "sourceUrl": "https://wear.jp/acocochan126/27316333/",
+          "imageUrl": "https://images.wear2.jp/coordinate/wni4k47q/gE4AMWwH/1788851076_1000.jpg",
+          "sha256": "e0eb5c05c5e73f06140c94dea41850b661e6ee8719978338a13b429825172b59",
+          "detailSnapshotSha256": "af9d7aa65cf495f791b2c3ba6bbdbf946594f8b21e44b17f57db84d2a62c0a0a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27257215",
+          "sourceUrl": "https://wear.jp/umichuxx/27257215/",
+          "imageUrl": "https://images.wear2.jp/coordinate/bBildLXx/mrbOvwyK/1787497334_1000.jpg",
+          "sha256": "318c59db3e4aaf53f3576a17cde759a7326e4b7cf3f67c6ef1ea56edd0754810",
+          "detailSnapshotSha256": "d544fcd88056232aa4469e64f3417cbb8ae360cd704175029e7aa41453b42c0c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27202399",
+          "sourceUrl": "https://wear.jp/meishoji/27202399/",
+          "imageUrl": "https://images.wear2.jp/coordinate/8Bijnol4/pg7sDCna/1786144550_1000.jpg",
+          "sha256": "549db36c7fa1589588f214820a657f7696b464158e4fc1e367f8ceaf1c16abc4",
+          "detailSnapshotSha256": "24dd0a23123c069e66562cc0c2c6030f740a2910719f4fd75c1a7e5f57091372",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27308011",
+          "sourceUrl": "https://wear.jp/kahofuji/27308011/",
+          "imageUrl": "https://images.wear2.jp/coordinate/qriLRPz/q2fn5xAB/1788655760_1000.jpg",
+          "sha256": "728db0b9e909ffa7f4c9d989b7e7ef949362446227501934a950e3c7dd5073bb",
+          "detailSnapshotSha256": "7b9b29231bc89bbbc2c57886f1c13b887de0afcef77b237dd286386e38278cb7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27271819",
+          "sourceUrl": "https://wear.jp/hinechi_s2/27271819/",
+          "imageUrl": "https://images.wear2.jp/coordinate/PaivO20/PDSIa5oG/1787849246_1000.jpg",
+          "sha256": "088a60bc373dcf8bae68547254842804e6a1d52be1f01bf8f86a67bb605ef7e8",
+          "detailSnapshotSha256": "2c4bff864fb5241dd5bc04d3f48dbac4b9fa495a41d97f77828167be5a89a78d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27247266",
+          "sourceUrl": "https://wear.jp/ranna0821/27247266/",
+          "imageUrl": "https://images.wear2.jp/coordinate/p3imM5pa/v1kxnRTZ/1787294001_1000.jpg",
+          "sha256": "2fb71758b5a313222518496d1a1e7f894402904508ecfb522efef4ae2a89be6d",
+          "detailSnapshotSha256": "5b29f58cd5b9496545b01ff776576bb88d3808677c6fd4b4d4c58a89cd36656a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27297849",
+          "sourceUrl": "https://wear.jp/yuzuki2210/27297849/",
+          "imageUrl": "https://images.wear2.jp/coordinate/6ginBL5M/NVjZ5pZU/1788418882_1000.jpg",
+          "sha256": "93b0cf10aca95c7a7d2a62e68645d152a95a2b77574f541ab467bd1a27331660",
+          "detailSnapshotSha256": "ba788c7717e7efaafeaa1e23d391161bc261d24807566880306c8889609c88ab",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27316442",
+          "sourceUrl": "https://wear.jp/yuzuki2210/27316442/",
+          "imageUrl": "https://images.wear2.jp/coordinate/6ginBL5M/cHpdqJil/1788851603_1000.jpg",
+          "sha256": "e3b47b5c66842aca6220352cb72da9004cea124cc63ae4cc6b2255bdf1267fbf",
+          "detailSnapshotSha256": "a802e8731c1ea91572a745bc96981900875cd79843e9bac76de927102c6ed209",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27240541",
+          "sourceUrl": "https://wear.jp/yuasan16/27240541/",
+          "imageUrl": "https://images.wear2.jp/coordinate/vdi0Dnjx/RBJq1Saw/1787137513_1000.jpg",
+          "sha256": "3500f2b77d486c88da58c84325870acc6be6d92e2b963e7ccc6bfcab909ed146",
+          "detailSnapshotSha256": "2012fd7e6e46dc07f484ffd6e1a5597f4cd8119640ad1768ea73d29202b4a90a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27297059",
+          "sourceUrl": "https://wear.jp/nanaka121/27297059/",
+          "imageUrl": "https://images.wear2.jp/coordinate/m0i6rMMr/vssxWhPf/1788406332_1000.jpg",
+          "sha256": "c92bc847e746c7f37b26f33f167667005825833a5c259db10132886d2409749f",
+          "detailSnapshotSha256": "d686f75cafd8627f033c35bfb48562c522c8d893c426db87b6bfdb70aaa7b28a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27273102",
+          "sourceUrl": "https://wear.jp/starsouth0628/27273102/",
+          "imageUrl": "https://images.wear2.jp/coordinate/8BiXGLDM/2sXkyxnW/1787884901_1000.jpg",
+          "sha256": "94de11960fd5da858af9d0cebddc413af53df8bf8d48dc869d5cbd6c02c7414b",
+          "detailSnapshotSha256": "075d7510dfc94c155af7d930ddfd92b4b3e63e87917d6dad09b16e08678a6ef8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27242033",
+          "sourceUrl": "https://wear.jp/aiueokumamoe/27242033/",
+          "imageUrl": "https://images.wear2.jp/coordinate/rliweJrA/3GJDVx8h/1787361253_1000.jpg",
+          "sha256": "b330f71cba47349fd2d7e28c1d474fb2d81059bf5ab58d81995dfd25fbb5020d",
+          "detailSnapshotSha256": "8daaae977ca152e29c541a6790b81fb3042ed7b37dcb8dd8a8239f83d507a4fc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27198049",
+          "sourceUrl": "https://wear.jp/misane1209/27198049/",
+          "imageUrl": "https://images.wear2.jp/coordinate/zaib64wl/oh0UN5Cz/1786024951_1000.jpg",
+          "sha256": "36e648e945837ef503ccd922afce763ee09de6879879310a96f56a36bbf8e15e",
+          "detailSnapshotSha256": "c50ba60ef32dbceaa398f05ae72bf93132b862e548d70f7ec74467dd664b9de7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27255860",
+          "sourceUrl": "https://wear.jp/teramoe1125/27255860/",
+          "imageUrl": "https://images.wear2.jp/coordinate/xVip2Qxm/HNQ5F3Mg/1787473017_1000.jpg",
+          "sha256": "aeea12524186ceba6aba264a105a6dbe7a1b215a9463ad7d04798d273025f2de",
+          "detailSnapshotSha256": "da78650d64f5775b771d81452f75d6b2f64cc09456c6107f4254a4db747098d2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27233899",
+          "sourceUrl": "https://wear.jp/ami0603/27233899/",
+          "imageUrl": "https://images.wear2.jp/coordinate/XxiqMr/1tPcF1Fm/1786969896_1000.jpg",
+          "sha256": "928dc92eef63f772c3846a4e5bf7115919914b2473d456e4223df856e44ea3a5",
+          "detailSnapshotSha256": "60efd0b5fd1c0023a76e139a0857ae99e5f1c0f242afe1d2acb43694d99b32ab",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27252914",
+          "sourceUrl": "https://wear.jp/hikkaa1107/27252914/",
+          "imageUrl": "https://images.wear2.jp/coordinate/8BiX5Y2e/kLh6Q8eM/1787413040_1000.jpg",
+          "sha256": "9697b2c47a88904f1badd5059985c90b4bc96f21847d9dfab2399bbae4e78e53",
+          "detailSnapshotSha256": "d530ab65e7b1365237f760f34ce366230010e76fe1315dadfd66bb77eb3c4806",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27100260",
+          "sourceUrl": "https://wear.jp/fuchan2003/27100260/",
+          "imageUrl": "https://images.wear2.jp/coordinate/DZie58OD/d3uW9f6S/1783708540_1000.jpg",
+          "sha256": "30e9b8d1df05c233fe8037e0373026c6527dc7e01230b3af3b4edcf1ca962b9c",
+          "detailSnapshotSha256": "56ecd9efdce8fd4edbff2bb999c70bc5661e40aabe69fbd50ce98145ae219f6d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27242596",
+          "sourceUrl": "https://wear.jp/manafuku5/27242596/",
+          "imageUrl": "https://images.wear2.jp/coordinate/lei0yE7D/KPXfa3tZ/1787195124_1000.jpg",
+          "sha256": "29b827c97e764b82b56c6a0505bd9284fa673c243ee654a7f644b5ed1d6f4938",
+          "detailSnapshotSha256": "c5f7862a57fa5f7d6c3762b6b1ddc8195010dd385bf5b4ef3d246025ef67c56e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-26737808",
+          "sourceUrl": "https://wear.jp/alicecream1125/26737808/",
+          "imageUrl": "https://images.wear2.jp/coordinate/oJiZrkxv/h4eT2VEi/1780485182_1000.jpg",
+          "sha256": "dd16f339a1709f19a7acbcf5c66e39f8586c2644d86342c3190b319052db01e7",
+          "detailSnapshotSha256": "dfe9e054fc28eaffcde087e30f6a90a0477296c62ee6d795dba353292fd4e54d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27306952",
+          "sourceUrl": "https://wear.jp/chawo87/27306952/",
+          "imageUrl": "https://images.wear2.jp/coordinate/JLi0Bk6k/YzE4wHuX/1788627490_1000.jpg",
+          "sha256": "f3390b75e89901c9441a743310a76a0c10dd6babaa87312b300d6c9ca165522a",
+          "detailSnapshotSha256": "6ac2eaebaa2d45304152fc20a9cf87805c01608261d53ccd6803a118cf460780",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27248815",
+          "sourceUrl": "https://wear.jp/yamauchirina/27248815/",
+          "imageUrl": "https://images.wear2.jp/coordinate/QWiWvD74/07m15vm8/1787316702_1000.jpg",
+          "sha256": "6d34cf0b7bc7ed1f2a5445f82d7aa0fbab9859799e48e48fcbfd8136039d91a8",
+          "detailSnapshotSha256": "b5aa41f82687c9d46e01ed29f27f09219b3b7ae4ee0c1ad04509f641ed480f2b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27301891",
+          "sourceUrl": "https://wear.jp/aaaannnn0726/27301891/",
+          "imageUrl": "https://images.wear2.jp/coordinate/7bin5r8/94DTgHD8/1788516997_1000.jpg",
+          "sha256": "509402610be91dc84423567e438a6e195e34f18ecbeb43497b68d1f97caedf55",
+          "detailSnapshotSha256": "17a051b74f563f6b3d819ea56317d815dcdb9afe2f1604cf66abb9e394d60a12",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27108225",
+          "sourceUrl": "https://wear.jp/m555515/27108225/",
+          "imageUrl": "https://images.wear2.jp/coordinate/jmixo3Px/SmX4J6S1/1783893810_1000.jpg",
+          "sha256": "e4e2d42d34f3240b7f23b886a09319c54c28f1520f1e2e3aa6d6a6eebc7ef7c9",
+          "detailSnapshotSha256": "693aab6a8f6afd8dd870b296dea2d51cf9fda956273e04fa5113cf858cc28fa5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27247005",
+          "sourceUrl": "https://wear.jp/haruka061444/27247005/",
+          "imageUrl": "https://images.wear2.jp/coordinate/ROimyyMd/7dLOBdIy/1787290370_1000.jpg",
+          "sha256": "11b33352aa26c87ba4afbd8c2159d7d2febda592ab43b46ca93307a79941eded",
+          "detailSnapshotSha256": "1c95d2bec6d2a4cda8b249f0fb3bcf1c39377b771a414295f6be7c304aa2d361",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27237277",
+          "sourceUrl": "https://wear.jp/carry22/27237277/",
+          "imageUrl": "https://images.wear2.jp/coordinate/3oiw3VMb/4rZ0IJSd/1787058060_1000.jpg",
+          "sha256": "c395db36310f433859f53002b25fea8ee79c42de07f9c608e18bcb6e2a2654f8",
+          "detailSnapshotSha256": "0482fff92eb42ad8e1095b62293124b88953c358037dced1202193f5c2267f57",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27258683",
+          "sourceUrl": "https://wear.jp/piko98_/27258683/",
+          "imageUrl": "https://images.wear2.jp/coordinate/Paiwa2lZ/tmJ1gmZ4/1787542167_1000.jpg",
+          "sha256": "6142f0341baa7f9c15e6c33c0a2ecdb02f4eea79203f3b7fe2bf71160742c617",
+          "detailSnapshotSha256": "fc16b71b2be1c77887aa64bb8d7f6d2a3bb27bca87ceb6c4083d081c10153b8f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27183367",
+          "sourceUrl": "https://wear.jp/konlemage/27183367/",
+          "imageUrl": "https://images.wear2.jp/coordinate/GriOErVa/qRGAxjGq/1785663508_1000.jpg",
+          "sha256": "8082842c2f5a06ac0a2f0df31c8b3e0f72ade47bc0bc38e4d2efcdc91295cd62",
+          "detailSnapshotSha256": "796a15c70a8010f1fb9bf30e36172feec3f33f9077f507a0b5f6ddf951b06c51",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27311628",
+          "sourceUrl": "https://wear.jp/yupoup/27311628/",
+          "imageUrl": "https://images.wear2.jp/coordinate/AAix6kB7/ToOOGpuQ/1788741537_1000.jpg",
+          "sha256": "78e687530fdd5682e4611ca351af0a71d00bc5009751e3276f58cd4e194077c8",
+          "detailSnapshotSha256": "c172b988417eebb40c1ae02b551448138cf8ee00e69dd84230924655c4c3ffe5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27261105",
+          "sourceUrl": "https://wear.jp/meishoji/27261105/",
+          "imageUrl": "https://images.wear2.jp/coordinate/8Bijnol4/yShlEna2/1787607257_1000.jpg",
+          "sha256": "d75831700b82bcecee258806c3e598b9b26460584976ce2390a7366f3c810f9e",
+          "detailSnapshotSha256": "e4686f2ada7409eae114632da282897635ff28eca9b280c19f60684cf4db3a23",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27282083",
+          "sourceUrl": "https://wear.jp/xywwi/27282083/",
+          "imageUrl": "https://images.wear2.jp/coordinate/ROizw2x0/5EgBmPgP/1788080327_1000.jpg",
+          "sha256": "c3dc79c9b657a0fcce9e433bf84e716841eb42833bdd11ebdd3b2d97dd4ca8f5",
+          "detailSnapshotSha256": "32a15e02567b8e1d909690b2ac1356ba197b9e4befca5bcd9c32c79dfe623028",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27079959",
+          "sourceUrl": "https://wear.jp/rinagii819/27079959/",
+          "imageUrl": "https://images.wear2.jp/coordinate/lei0g6yz/SzW9wB0C/1783251925_1000.jpg",
+          "sha256": "9c19f62b1ef3c25a17e0128c0cb3725d13de027097345b11aa8342c70239b381",
+          "detailSnapshotSha256": "8f71560b1eb3b507ec4475da3ac373295b9e7cfef3f8b6ee2083416692c87524",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27234023",
+          "sourceUrl": "https://wear.jp/rioshinohara/27234023/",
+          "imageUrl": "https://images.wear2.jp/coordinate/wnipYnRD/phGo2YRN/1786973256_1000.jpg",
+          "sha256": "0c215a0e2ea6ac6819e2fbfc73b6ac93e535a5c6a1da150b4e55e9eee04217d6",
+          "detailSnapshotSha256": "4e329422d75868e3e41ed857cf1d878f0e2381e6dacf8b53459fc998e8b0e83d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27243695",
+          "sourceUrl": "https://wear.jp/aaaayk27/27243695/",
+          "imageUrl": "https://images.wear2.jp/coordinate/GrinqVdV/uBAocJeV/1787213707_1000.jpg",
+          "sha256": "f63ea152072d598683bb56758d920f1609740f2e7c8c21ff388d3a5f6c2d7cc9",
+          "detailSnapshotSha256": "f7d1dd3f0f49c9604fcc8caa6ade8851714c8d9aec24cbfbf2f2e322738d87b2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27152221",
+          "sourceUrl": "https://wear.jp/nessie122/27152221/",
+          "imageUrl": "https://images.wear2.jp/coordinate/nZiE6Ljd/U99M0pAf/1784895428_1000.jpg",
+          "sha256": "927ad449e616a8d3dc35c4462819dd0b12fa3a937a68cd95c72c4555069f4518",
+          "detailSnapshotSha256": "b95ceb3fd0c2ab71aeebac69fbd451a60ec8b92d18234984927f4b40d37e3cc5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27168674",
+          "sourceUrl": "https://wear.jp/srhfashion/27168674/",
+          "imageUrl": "https://images.wear2.jp/coordinate/EJiPpMv2/ilraukHQ/1785313024_1000.jpg",
+          "sha256": "fc43b0d4e2f51a7ccf9f236de7cea2d5d3916c3431fa7ed926e0b8ade8c057b1",
+          "detailSnapshotSha256": "00064d845ba229949db6632e230717122deb3b8e9597f4212b6e24a881eb9c7a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27256255",
+          "sourceUrl": "https://wear.jp/0116mn/27256255/",
+          "imageUrl": "https://images.wear2.jp/coordinate/QWivp2Ox/4W9yXDBc/1787574623_1000.jpg",
+          "sha256": "059914f0f9695639640409fcbc0987572d2d9d6764c62f332f9697a41301c7ab",
+          "detailSnapshotSha256": "53dd9aa084b37666b339b7059d9a2e95ddae06b2630c4a86567a445470497bad",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27251086",
+          "sourceUrl": "https://wear.jp/m555515/27251086/",
+          "imageUrl": "https://images.wear2.jp/coordinate/jmixo3Px/bInfcvNP/1787374896_1000.jpg",
+          "sha256": "299b05bf7755df195a6d9b887c02c20fa7287d58ddabee88933d9d34452f8dcc",
+          "detailSnapshotSha256": "f3742e3f070472d2d8bbedcc15c3d8f0376b3e2acbee3fc4fda522f8db4a6620",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27274773",
+          "sourceUrl": "https://wear.jp/acocochan126/27274773/",
+          "imageUrl": "https://images.wear2.jp/coordinate/wni4k47q/WFNH1O9v/1787954001_1000.jpg",
+          "sha256": "fce3917e25ba6ee5990b715dd39df018ae322462212ba824b148023837c87c65",
+          "detailSnapshotSha256": "f529bd9e0e4af638286289b292b2945cd3af5030350b2689a72e24f3f5853fe0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27208187",
+          "sourceUrl": "https://wear.jp/pyon37pyon/27208187/",
+          "imageUrl": "https://images.wear2.jp/coordinate/vdirrkMy/Uh7D383R/1786284122_1000.jpg",
+          "sha256": "0c12e62410952045584ccdd62bdd603259244c672252c291b5cb6be297166dcb",
+          "detailSnapshotSha256": "730b60ab296d5a5f6898020aa77f1837a79749a9dbeefaa60ce041e7e71ba6ad",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27201735",
+          "sourceUrl": "https://wear.jp/yuu820/27201735/",
+          "imageUrl": "https://images.wear2.jp/coordinate/oJiz5V0k/MVnTbFwn/1786104268_1000.jpg",
+          "sha256": "3483af5c2b4afd26ecc7c02647fbce3850e2b64cd58d1a35ca1657106abcab84",
+          "detailSnapshotSha256": "29ba6ea3351d4249b961b0c2db1583a8f44f34398477536dcf18023f8f1fccc0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27245190",
+          "sourceUrl": "https://wear.jp/moepiiit/27245190/",
+          "imageUrl": "https://images.wear2.jp/coordinate/4XiqjVRb/AMg69q4V/1787259232_1000.jpg",
+          "sha256": "72b20244f128a291b1366f6db18bd408276c6d869cfafac57ef24a473e340afb",
+          "detailSnapshotSha256": "f2edbbec8490eca6dcf43060105a7089d9349aefbd09d6bdf718080598e1b4a1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27239127",
+          "sourceUrl": "https://wear.jp/yamamica/27239127/",
+          "imageUrl": "https://images.wear2.jp/coordinate/3oiwZqA/Vk73NWoq/1787115641_1000.jpg",
+          "sha256": "0356787ac8ef4ed8be8dc49371adf4549a721a77fd2f888609e01c0846ba867c",
+          "detailSnapshotSha256": "2e3a24544d5eb8d555614b38cc4b72e0eed014f29dc9fc09e27c5efc87e123cb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27154268",
+          "sourceUrl": "https://wear.jp/mumu0806/27154268/",
+          "imageUrl": "https://images.wear2.jp/coordinate/wni4Ao26/wtWFmLNu/1784953837_1000.jpg",
+          "sha256": "abaec2185bd5a94f3bbbabf2badf18ee5e81f458188ad03c04bc0d2d123246ad",
+          "detailSnapshotSha256": "d2f20050b6b64436964634fce5294dd8192b1aee7993ed87a9948815acc09117",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27297886",
+          "sourceUrl": "https://wear.jp/nessie122/27297886/",
+          "imageUrl": "https://images.wear2.jp/coordinate/nZiE6Ljd/9VcJkEDy/1788419558_1000.jpg",
+          "sha256": "cd51bae24daf0c65043c09561586069fdba0c9cfc5060045518105a35823e637",
+          "detailSnapshotSha256": "eae30b3692dc08682a31b49c68265b790aac0679e5f53e6809c26d807ea04355",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27268023",
+          "sourceUrl": "https://wear.jp/nessie122/27268023/",
+          "imageUrl": "https://images.wear2.jp/coordinate/nZiE6Ljd/SvjlPI1z/1787753347_1000.jpg",
+          "sha256": "d9cbfca0dbffa44f23eab303f16bd31a477acc4f81afe0ad43c95566fdea7e4f",
+          "detailSnapshotSha256": "011396c5360f56ea9a309eebcdfc081b00e9540ff52410c4248c1782593a9e1a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27262567",
+          "sourceUrl": "https://wear.jp/reipiroom/27262567/",
+          "imageUrl": "https://images.wear2.jp/coordinate/qri8P5Oz/hkoPk73H/1787631435_1000.jpg",
+          "sha256": "a49b1b45f38a6438ffbbff01b20be1e3726269ead08641410fa3cb062ea0e437",
+          "detailSnapshotSha256": "419e1ec87b5146bc96bd52654b7cce1e5967ad81d76ce91f291a359888e6c2e5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27268890",
+          "sourceUrl": "https://wear.jp/starsouth0628/27268890/",
+          "imageUrl": "https://images.wear2.jp/coordinate/8BiXGLDM/4HVTnQTt/1787789663_1000.jpg",
+          "sha256": "ac99a3bb2da49a48a299831d8d8671c422868591f42f4c7e2d8d431d622c62c0",
+          "detailSnapshotSha256": "e47ecb6bbbf093a2388c63cc25aac418b72803455c079191875d2022716d00c2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-26539461",
+          "sourceUrl": "https://wear.jp/feepur/26539461/",
+          "imageUrl": "https://images.wear2.jp/coordinate/MniLPPWd/66XwlsU7/1776587160_1000.jpg",
+          "sha256": "36d7121c095c7f795503d1f1db4f47712ba3980b70749aa9972e67cab6067b9d",
+          "detailSnapshotSha256": "8f3449b8437f542ced5c5dd8ac32902f6df20bf7d2b2022b3864a5367874e8b6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27276621",
+          "sourceUrl": "https://wear.jp/ktk32/27276621/",
+          "imageUrl": "https://images.wear2.jp/coordinate/08iYV4Em/N6etiziT/1787962294_1000.jpg",
+          "sha256": "edb3af6dbdcf658cd7737998243ec4f1374ce8620c63201e38e3d4e03f7ba7ad",
+          "detailSnapshotSha256": "1afb8544bceebf3e16c42d8ec24b004950acb7d689b87ba724348838ce07caee",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27255017",
+          "sourceUrl": "https://wear.jp/rin0224/27255017/",
+          "imageUrl": "https://images.wear2.jp/coordinate/7birZp55/bJAaImtm/1787457123_1000.jpg",
+          "sha256": "e6b183e1bd69d61bdc24d6dccb7f62655fb3252c2af0fea6bd3950377cad04c1",
+          "detailSnapshotSha256": "fdf3c7b5e3ae9768ecc7e7466b8978bf2f691d2ae41c2cdbe97a2c6e9da3299d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27271055",
+          "sourceUrl": "https://wear.jp/misane1209/27271055/",
+          "imageUrl": "https://images.wear2.jp/coordinate/zaib64wl/4WQpNmiS/1787825521_1000.jpg",
+          "sha256": "1102889faa13cbab58e8cb85592639709629ddfed337433238d044a39d02f5bc",
+          "detailSnapshotSha256": "1f7bf44af690dff9d4dba582b3a73ac0462c810c0a94f51f154f0cbd2ea60e3d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27241048",
+          "sourceUrl": "https://wear.jp/okuuka/27241048/",
+          "imageUrl": "https://images.wear2.jp/coordinate/p3iAdrj6/EMSU9juv/1787150141_1000.jpg",
+          "sha256": "86f48ef5c0090550d153e7370bf97cd473a7a037878134708f4f04050f25663a",
+          "detailSnapshotSha256": "dacc2e85f35458fbf918742f5dc0c1654b6cd182dd5e1625bd13bdbe71efa4e3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-26757754",
+          "sourceUrl": "https://wear.jp/imayr/26757754/",
+          "imageUrl": "https://images.wear2.jp/coordinate/5EiDV6ER/adFc0AvR/1780914490_1000.jpg",
+          "sha256": "6c4b3b5cb6be14f2742ea565003e8c05b4e593f481fd24f8b91f75d1dfbf33d8",
+          "detailSnapshotSha256": "0022b663e6dd5bb7e659e8d35ff613f83d87c31df68580002ec52ff93f438567",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27228788",
+          "sourceUrl": "https://wear.jp/aaaannnn0726/27228788/",
+          "imageUrl": "https://images.wear2.jp/coordinate/7bin5r8/FYoSCqr9/1786849372_1000.jpg",
+          "sha256": "d13e49cf340f35345d5abf8bd46b53274e528d234093fe20df09f2c3e47496df",
+          "detailSnapshotSha256": "ab85b0b973ae9f4ed7d199f79e152f10fd026ab7fc1954a39368cec9d3216219",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-26766040",
+          "sourceUrl": "https://wear.jp/yuu820/26766040/",
+          "imageUrl": "https://images.wear2.jp/coordinate/oJiz5V0k/tMCDknM8/1781094663_1000.jpg",
+          "sha256": "d40407b7679c321b053069f8f032eae03e13f8ea202405c871ddb7285792c764",
+          "detailSnapshotSha256": "ea3dcb9bcc96cb9b524a8e64c83e781f008fe47a12c35c7935ab471c0daf06e6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27262013",
+          "sourceUrl": "https://wear.jp/123chosu/27262013/",
+          "imageUrl": "https://images.wear2.jp/coordinate/Z8ijD25/9o3KvkV4/1787621824_1000.jpg",
+          "sha256": "c7d674595491cf908d58dc90f4db5496ce70b6a891810662e6c9743282708dc5",
+          "detailSnapshotSha256": "f8b2732303551983ca113f55ad5a453a7a1bb0d6994b08454d72317d2358ec56",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27257430",
+          "sourceUrl": "https://wear.jp/meishoji/27257430/",
+          "imageUrl": "https://images.wear2.jp/coordinate/8Bijnol4/BjyZrDMj/1787523666_1000.jpg",
+          "sha256": "379f4e868d204648333da71b9bab24649170c14757cb9848635167d8589c9afe",
+          "detailSnapshotSha256": "3e08e44341d7a06ee1b8ae7eb3b84f4ae05aa32f522924bfbb6b0e247d212e8f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27253221",
+          "sourceUrl": "https://wear.jp/miu04080/27253221/",
+          "imageUrl": "https://images.wear2.jp/coordinate/4XiqMRAQ/5uW2U1sU/1787442809_1000.jpg",
+          "sha256": "ff0e0bde7cb1561d41deda73d97b84e916ec8ac90416b62e2656f8a441fb589a",
+          "detailSnapshotSha256": "785d299bdb34b2e9bb1bfbd2890e9d7102872c3bc9a0c8cabb309eb990fe70cf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27241293",
+          "sourceUrl": "https://wear.jp/moepiiit/27241293/",
+          "imageUrl": "https://images.wear2.jp/coordinate/4XiqjVRb/o6IlMQXl/1787178237_1000.jpg",
+          "sha256": "92b023aa58c80547db73c085d23bf4365beb34dccff9b080aded4def1b03e8b3",
+          "detailSnapshotSha256": "aec0a0fe2d62f609bb77f17103d718e86dbb15ed791c08da5482c1272757fdf5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27210174",
+          "sourceUrl": "https://wear.jp/feepur/27210174/",
+          "imageUrl": "https://images.wear2.jp/coordinate/MniLPPWd/85EjvGYx/1786341445_1000.jpg",
+          "sha256": "3597bb5d5b0a34210001b8d383e93038ca3d3336b18c14ca6d148c4b11a16697",
+          "detailSnapshotSha256": "f05e569076c1a38a6adc671701da01b3e0cc5a484977e5dacda392edc6473046",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27203888",
+          "sourceUrl": "https://wear.jp/me0306ro/27203888/",
+          "imageUrl": "https://images.wear2.jp/coordinate/MniL4dqm/EBa08JQp/1786166597_1000.jpg",
+          "sha256": "874c872c03cace71ae96eacf77a5cdaad1857f710ee44beb811dd4c09042da2e",
+          "detailSnapshotSha256": "5653beb188e2e4a5e1d0f360dcb876424099afca5e9220a51001d9dac1a1e8ad",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27291915",
+          "sourceUrl": "https://wear.jp/kurumi0425963/27291915/",
+          "imageUrl": "https://images.wear2.jp/coordinate/rliwgpgx/QvgaSNUP/1788308488_1000.jpg",
+          "sha256": "3c7edc6263381b2c8171b0e6b658e2d3d08f97f6799553f61517de5c7903c978",
+          "detailSnapshotSha256": "e8befb304fdd92607267765e571a35e2804a831691a0f181ef85f80571dc92a2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27237435",
+          "sourceUrl": "https://wear.jp/ranna0821/27237435/",
+          "imageUrl": "https://images.wear2.jp/coordinate/p3imM5pa/d74qx0Vc/1787064713_1000.jpg",
+          "sha256": "a68ac073d3ab9393069a03cdaa7fd128c76aae326a6a299440d7e9ecdbdb667d",
+          "detailSnapshotSha256": "d11506fac35d35c7ff1790134b91f052957a1a5481b93dc261715f6202cd0c30",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27268993",
+          "sourceUrl": "https://wear.jp/hananachu1021/27268993/",
+          "imageUrl": "https://images.wear2.jp/coordinate/V7ilOGVJ/xtbezqdN/1787790471_1000.jpg",
+          "sha256": "1479d17fd5b023aec09e289966710178c80ceb315a79d4103f048bb17a40e4b8",
+          "detailSnapshotSha256": "f5131a6ce1d961f2d6c626ec4d39cb80b3e881e592b96d590ddf40d51282575a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27241132",
+          "sourceUrl": "https://wear.jp/hiroyumi0903/27241132/",
+          "imageUrl": "https://images.wear2.jp/coordinate/8BiLAM4r/bwFfyfCk/1787152726_1000.jpg",
+          "sha256": "cac882aea277a53d23a71bfd382c22061757c235f25b06355de791a55d6708b2",
+          "detailSnapshotSha256": "fc37272bb6077156a46f9d2471dacafdfc11a9131c5dfc3c7bd2cce549e1d187",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-26576558",
+          "sourceUrl": "https://wear.jp/haruka061444/26576558/",
+          "imageUrl": "https://images.wear2.jp/coordinate/ROimyyMd/JGee4lN4/1776956147_1000.jpg",
+          "sha256": "8ccf9547fd31611aa8da85d977d125e0e41da18bd2aa18938710473fe7e35aa8",
+          "detailSnapshotSha256": "25964988c349de15edfd26017192c7a7fe1667f4872d49d6fb4066160ee97496",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27294595",
+          "sourceUrl": "https://wear.jp/mumu0806/27294595/",
+          "imageUrl": "https://images.wear2.jp/coordinate/wni4Ao26/rWiUHDgO/1788348726_1000.jpg",
+          "sha256": "9b876b8e4aafac07c94f02193f006bd65c1d220e79af7c5758d61aa98f4a2df2",
+          "detailSnapshotSha256": "7a85d34b8b3679f4cc7ae7a5f6e345b34d65831cb3f45a34187f1b2a54240b65",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27295062",
+          "sourceUrl": "https://wear.jp/hinarialien/27295062/",
+          "imageUrl": "https://images.wear2.jp/coordinate/YMiQgrkE/eCuWrZCN/1788361591_1000.jpg",
+          "sha256": "9624e1be1e202959ebbe597c7e6c7e900c578ad7178c151773a647d3bdddacc8",
+          "detailSnapshotSha256": "c65f651a4a39de25d802c3f109b70319d5ad12bda79ef1bc37e74fa50352c253",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-26778845",
+          "sourceUrl": "https://wear.jp/misane1209/26778845/",
+          "imageUrl": "https://images.wear2.jp/coordinate/zaib64wl/uwFQecOf/1781340845_1000.jpg",
+          "sha256": "2607df7ed1544d70136e319b7d8a880bd8f010c46fda8b67a5ec8185fb5d13dc",
+          "detailSnapshotSha256": "6cc2d78b2bf4b4d5b17cfd1123992d4e892b0ba4211fcb4ff7ae89c052533cc3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27261984",
+          "sourceUrl": "https://wear.jp/mayacode/27261984/",
+          "imageUrl": "https://images.wear2.jp/coordinate/jmi86D6Z/ajNMND92/1787620880_1000.jpg",
+          "sha256": "065614420cb894f89e5fb78909f938686940b3aca32a99ee884a5008c49e28f1",
+          "detailSnapshotSha256": "e1d718eb2970cf35a2c7fb6beeea4161edf99a76d8f5298ed3c2ee3ee56057bc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27295158",
+          "sourceUrl": "https://wear.jp/yuki0202terada/27295158/",
+          "imageUrl": "https://images.wear2.jp/coordinate/08iBj0y7/mWc884ov/1788366728_1000.jpg",
+          "sha256": "e81eb7abc7c569baa569b61dede33972a1f48815fc2874a471c0d17910911647",
+          "detailSnapshotSha256": "8c0425b1ad05c293a10b2befa3c9007a669df34b0e50f978b9e6e2312b04f054",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wear-27178736",
+          "sourceUrl": "https://wear.jp/mina162437/27178736/",
+          "imageUrl": "https://images.wear2.jp/coordinate/ROizDY3j/4WF3ghRD/1785554336_1000.jpg",
+          "sha256": "38cb7d84e387bba41766f0dda3a3df681f18df9b9e98aa7d42d3f20748a7f0ce",
+          "detailSnapshotSha256": "d214de067c06fe8bb0e61e33852463c6dba1eac00ab8d9f9bebf859df2e00042",
+          "outcome": "downloaded-unique"
+        }
+      ]
+    }
+  ]
+}

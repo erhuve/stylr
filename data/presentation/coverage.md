@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 1970/1970; unreviewed: 0.
+Reviewed: 3086/3086; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 275 | 14% | 216 | 20 | 24 |
-| feminine | 1091 | 55.4% | 698 | 21 | 106 |
-| mixed-androgynous | 30 | 1.5% | 23 | 9 | 2 |
-| unclear | 574 | 29.1% | 477 | 25 | 68 |
+| masculine | 642 | 20.8% | 583 | 20 | 24 |
+| feminine | 1438 | 46.6% | 1045 | 21 | 108 |
+| mixed-androgynous | 112 | 3.6% | 105 | 9 | 2 |
+| unclear | 894 | 29% | 797 | 25 | 68 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":27,"3":36,"unknown":67,"2.5":24,"1.5":118} | {"1":1,"2":4,"3":3,"2.5":4,"1.5":12} |
-| feminine | {"1":27,"2":139,"3":150,"unknown":227,"1.5":344,"2.5":204} | {"1":7,"2":15,"3":17,"1.5":41,"2.5":26} |
-| mixed-androgynous | {"1":1,"2":3,"unknown":11,"1.5":15} | {"1.5":2} |
-| unclear | {"1":7,"2":42,"3":112,"1.5":182,"unknown":180,"2.5":51} | {"1":2,"2":3,"3":29,"1.5":25,"2.5":9} |
+| masculine | {"1":3,"2":36,"3":36,"unknown":318,"2.5":24,"1.5":225} | {"1":1,"2":4,"3":3,"2.5":4,"1.5":12} |
+| feminine | {"1":27,"2":150,"3":150,"unknown":437,"1.5":470,"2.5":204} | {"1":7,"2":17,"3":17,"1.5":41,"2.5":26} |
+| mixed-androgynous | {"1":1,"2":5,"unknown":77,"1.5":29} | {"1.5":2} |
+| unclear | {"1":7,"2":43,"3":113,"1.5":289,"unknown":391,"2.5":51} | {"1":2,"2":3,"3":29,"1.5":25,"2.5":9} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -49,13 +49,13 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | shinybynature.com | 0 | 71 | 0 | 29 | 0 |
 | shopmyviolet.com | 0 | 106 | 0 | 7 | 0 |
 | snagtights.com | 0 | 141 | 0 | 49 | 0 |
-| tokyofashion.com | 15 | 93 | 13 | 66 | 0 |
+| tokyofashion.com | 130 | 389 | 87 | 165 | 0 |
 | tombolocompany.com | 8 | 0 | 0 | 0 | 0 |
 | trippnyc.com | 11 | 10 | 1 | 9 | 0 |
 | universalstandard.com | 3 | 27 | 0 | 22 | 0 |
 | universalworks.com | 16 | 0 | 0 | 1 | 0 |
 | unsplash.com | 2 | 0 | 0 | 0 | 0 |
-| wear.jp | 17 | 6 | 3 | 34 | 0 |
+| wear.jp | 269 | 57 | 11 | 255 | 0 |
 | wildfang.com | 44 | 7 | 1 | 49 | 0 |
 
 Source-page counts can overlap between categories. Repeated models, shoots and gallery poses are not independent people. Counts establish image coverage only.

@@ -21,6 +21,8 @@ A garment alone is not a universal gender rule. A tee, trousers, bright colors, 
 
 ## Continue and verify
 
+The three-thousand-photo continuation appends 1,116 image-bound reviews, reaching 3,086/3,086 reviewed repository photos. All prior review rows and initial-audit metadata remain unchanged. Twelve batch-local presentation.json files preserve the authored evidence, ordinals and external numbered-sheet paths. Current totals and limitations are in coverage.md and `docs/verification/three-thousand-sourcing.md`; production remains separately deployed.
+
 The 4 p.m. scheduled run appends 58 directly reviewed admissions, reaching 1,930/1,930 reviewed images. New rows retain batch name and external sheet path alongside the within-batch ordinal; the top-level catalogRevision and the original ordinals continue to describe the initial frozen audit. All prior rows are unchanged. Current counts and body-reference coverage are generated in coverage.md.
 
 1. Inspect each newly admitted image directly using the same rubric. Add its ID, actual displayed-file digest, evidence code, review date and stable review-sheet reference to `review.json`. Preserve previous records and record deliberate corrections separately. Never copy a label between photos based on shared faces or pages.

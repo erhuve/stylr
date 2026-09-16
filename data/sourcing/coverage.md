@@ -25,13 +25,13 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | punkrave | 48 | 96 | 50 | 35 | 6 | 163 |
 | shinybynature | 78 | 156 | 148 | 100 | 27 | 9 |
 | snag | 135 | 269 | 246 | 190 | 17 | 83 |
-| tokyofashion | 158 | 268 | 140 | 81 | 7 | 0 |
+| tokyofashion | 864 | 974 | 846 | 665 | 9 | 13 |
 | tombolo | 20 | 40 | 40 | 8 | 0 | 53 |
 | trippnyc | 48 | 96 | 52 | 31 | 8 | 165 |
 | universalstandard | 58 | 58 | 58 | 52 | 1 | 0 |
 | universalworks | 20 | 57 | 57 | 17 | 0 | 205 |
 | unsplash.com | 2 | 2 | 0 | 0 | 0 | 0 |
-| wear | 60 | 60 | 60 | 60 | 0 | 0 |
+| wear | 611 | 611 | 611 | 592 | 0 | 0 |
 | wildfang | 96 | 192 | 165 | 101 | 13 | 91 |
 
 ## Presentation coverage

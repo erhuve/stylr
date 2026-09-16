@@ -1,0 +1,73 @@
+{
+  "retrievedAt": "2026-09-16T21:06:35.526379+00:00",
+  "scope": "wear-women, requested pages [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], limit 650; one image per post, WEAR account cap 3 across prior sampled pages. Listing category is a sourcing lead only, never a presentation or body label.",
+  "sources": [
+    {
+      "source": "wear",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=2",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=3",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=4",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=5",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=6",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=7",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=8",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=9",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=10",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=11",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=12",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        },
+        {
+          "url": "https://wear.jp/women-coordinate/?pageno=13",
+          "error": "Saved response is a regional-unavailability page; zero products does not establish source exhaustion.",
+          "snapshotSha256": "af233969ea9ab341b0bb7f071671ad4c04abe8b2f8971ba102d0f5db712bc3fd"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

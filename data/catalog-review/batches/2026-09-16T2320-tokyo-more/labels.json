@@ -1,0 +1,946 @@
+[
+  {
+    "id": "tokyo-archive-179984",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/killstar-harajuku-street-style-two-tone-hair-spooky-tunes-brindle-vivienne-westwood-demonia/",
+    "localPath": "images/tokyo-archive-179984.webp",
+    "sha256": "3e5b34997463fd1122ac9f40a985e26cddcbf30bf00c976a61c3e798349d3fab",
+    "ordinal": 0,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black jacket ripped black jeans platforms. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-179954",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tempura-kidz-anrealage-japanese-styles-furry-pants-pink-dr-martens/",
+    "localPath": "images/tokyo-archive-179954.webp",
+    "sha256": "74404bab722ceb56028a51be47cf0b0ebe74cfd69f4062a29d16c06409a60176",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "two person photo. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-179650",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-street-style-shaved-head-napapijri-skidoo-jacket-chloe-thigh-high-boots/",
+    "localPath": "images/tokyo-archive-179650.webp",
+    "sha256": "eaa47e8d7cf80fcd34c7b8ed0ef862406a6965d582dc4bf51354fec01d51cf3d",
+    "ordinal": 2,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "yellow oversized hoodie thigh high boots. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-179639",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/japanese-photographer-skull-print-paul-smith-converse-colorblock-sneakers/",
+    "localPath": "images/tokyo-archive-179639.webp",
+    "sha256": "280b0204445dcc75b9b1b1f239239ea993558db9b066a0826aad6cbe0f7fb2da",
+    "ordinal": 3,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "green print shirt green trousers red hood. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-179621",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/two-tone-street-style-houndstooth-jacket-turtleneck-remake-bag-prada-knee-boots/",
+    "localPath": "images/tokyo-archive-179621.webp",
+    "sha256": "e32d281e324097af231c823f999230377fe2869eb8e9616c63b621e28a378fa3",
+    "ordinal": 4,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black longcoat check shirt blue cropped trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-179334",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/harajuku-charles-jeffrey-loverboy-john-lawrence-sullivan-not-conventional-eytys-fila/",
+    "localPath": "images/tokyo-archive-179334.webp",
+    "sha256": "996794b58e1549992d21b14f8c44c13661f29926764259ea47378ba6b9223659",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "two person photo. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-179358",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-art-director-harajuku-dior-heart-sweater-comme-des-garcons-issey-miyake-bottom-hard-socks/",
+    "localPath": "images/tokyo-archive-179358.webp",
+    "sha256": "ff2d4d22e7e7672d7a35ad3c7531bf182d34cfc766c16f60c68665717db0e819",
+    "ordinal": 6,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "white knit wide teal trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-179289",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-street-style-pink-hair-metamorphose-temps-de-fille-ruffle-pants-teddy-bear-swankiss/",
+    "localPath": "images/tokyo-archive-179289.webp",
+    "sha256": "8cef24ae11aca8a58e3234aa7688ba43dd8159b7fd3fce749a769016241dc4dd",
+    "ordinal": 7,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black jacket black ruffled flared trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-179099",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/avant-garde-japanese-street-fashion-gas-mask-zac-vargas-studded-jacket-anton-berluti-platform-glitter-boots/",
+    "localPath": "images/tokyo-archive-179099.webp",
+    "sha256": "1242565038a92de240b4ab58c3dae51f26c6341d9c0e2246d442bc2af69dfbde",
+    "ordinal": 8,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black leather tailoring red black bloomers white platforms. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-179059",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/pokemon-tokyo-style-yellow-hair-gengar-bag-pikachu-backpack-nike-af1/",
+    "localPath": "images/tokyo-archive-179059.webp",
+    "sha256": "bae7bceffdd467d82d7c48f8ebb9a4d006ab8ca7b30017daeb41de55d2c97a6b",
+    "ordinal": 9,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black jacket purple print tee orange trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-178861",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/japanese-guitarist-harajuku-pink-hair-polka-dot-bow-biker-jacket-dr-martens/",
+    "localPath": "images/tokyo-archive-178861.webp",
+    "sha256": "49d680e11494965264358f363b9dca1728ffa8e7c602f81dec51a5837c50c995",
+    "ordinal": 10,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black leather jacket red mini dress. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-178826",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/winged-denim-jumpsuit-tokyo-comme-des-garcons-fashion-demonia-platforms/",
+    "localPath": "images/tokyo-archive-178826.webp",
+    "sha256": "26e1ead4117b2cd28512c86af45be21299583918597808ff6d0f45bf057ce390",
+    "ordinal": 11,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "sheer black knit long navy skirt layer. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-178383",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/shibuya-style-ponytail-aviator-sunglasses-alice-olivia-snakeskin-blazer-juemi-guess/",
+    "localPath": "images/tokyo-archive-178383.webp",
+    "sha256": "24ee2baf4f22f46985fa1f96dd1db3fcfbb53c41b9b4b87ea6538aa4cfdd12d3",
+    "ordinal": 12,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "snakeprint blazer black slim trousers heels. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-178013",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/harajuku-street-style-harness-over-takeo-kikuchi-leather-coat-kidill-boots/",
+    "localPath": "images/tokyo-archive-178013.webp",
+    "sha256": "a241235dc2397a5a955114eb2b60583d3f64eb19194d9974e20e913f26ab86de",
+    "ordinal": 13,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "grey leather coat dark trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182642",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/japanese-hairdressers-street-style-w-beret-longines-watch-frontier-leathers-jacket-acc-studio-la-ropa-levis-armani-shury-lacoste-versaci-dr-martens/",
+    "localPath": "images/tokyo-archive-182642.webp",
+    "sha256": "94baf104980687c6a9be1e3d23102c7315153ebeb8c1ae296647edfa9e4e406b",
+    "ordinal": 14,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "two person photo. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182552",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-street-styles-w-face-paint-sailor-collar-jacket-dry-bones-t-shirt-tramp-jeans-dice-lizard-belt-purple-boots-leather-boots/",
+    "localPath": "images/tokyo-archive-182552.webp",
+    "sha256": "8030a1e95d2d3d55f9bdf2335a9c51abce04992f36cb3d7bcd4fab60f02e1da9",
+    "ordinal": 15,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "two person photo. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182535",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/japanese-street-style-w-green-hair-streaks-romantic-standard-dolls-kill-polka-dot-dress-pinko-official-codona-de-moda-snakeskin-sneakers/",
+    "localPath": "images/tokyo-archive-182535.webp",
+    "sha256": "03f436b1a67b75a4697d581ff8f8070e88e7f29f835992ff679d41973703858b",
+    "ordinal": 16,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "green animal print mini dress. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182523",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/stylish-eclectic-streetwear-look-in-tokyo-w-pillbox-hat-romantic-standard-butterfly-coat-zara-turtleneck-top-me-harajuku-tiered-dress-furla-bag-grl-platform-booties/",
+    "localPath": "images/tokyo-archive-182523.webp",
+    "sha256": "800990d148e35f2c3c18aadf89f2f050b61422364ac4cdb0483a0605b3a09a6b",
+    "ordinal": 17,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "embroidered black coat white tiered skirt. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182510",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/all-black-tokyo-streetwear-w-two-tone-hair-noble-noire-tokyo-accessories-skeleton-necktie-pleated-skirt-fishnets-killstar-bag-platform-boots/",
+    "localPath": "images/tokyo-archive-182510.webp",
+    "sha256": "6baa136bc534086d12159b52dbc111fa6806621e893fa654f1cf3372db8ac7d6",
+    "ordinal": 18,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black long shirt mini bottom fishnet thigh highs. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182474",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/all-black-style-w-kapital-asymmetrical-vest-vintage-fashion-italian-handmade-sling-salomon-sneakers/",
+    "localPath": "images/tokyo-archive-182474.webp",
+    "sha256": "a94e037138c2b1c1371371c823681d3ef63762dae43b3908c32415efc8052926",
+    "ordinal": 19,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black shirt structured vest black trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182439",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/all-black-comme-des-garcons-style-w-short-sleeve-penguin-tail-coat-balloon-sleeve-shirt-ruffle-pants-sneakers/",
+    "localPath": "images/tokyo-archive-182439.webp",
+    "sha256": "46414ec3c4ab197ce93ff22ced78d37f0d0bd50578eddb6a9766d0142037963f",
+    "ordinal": 20,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black blazer layered ruffled shorts. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182411",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/monochrome-tokyo-style-w-vintage-leather-jacket-n-hoolywood-levis-ys-shoulder-bag-vintage-chelsea-boots/",
+    "localPath": "images/tokyo-archive-182411.webp",
+    "sha256": "0f9895a697bc24de28600a901a1a4fa8fd822b43f6268b098e550fb2165dc81b",
+    "ordinal": 21,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "grey blazer grey shirt fitted grey jeans. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182377",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/heihei-shop-staffs-plaid-street-style-w-twin-tails-beret-plaid-dress-denim-patchwork-bear-bag-tokyo-bopper-bow-shoes/",
+    "localPath": "images/tokyo-archive-182377.webp",
+    "sha256": "12501deb7319eb42afbdfce90687c90254405f61ffc6f4eba41d934dfd194ded",
+    "ordinal": 22,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "red plaid long dress. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182346",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/monochrome-punk-streetwear-in-tokyo-w-shaggy-hairstyle-gucci-belt-faith-tokyo-hoodie-jacket-metallica-shirt-tripp-nyc-strap-pants-dr-martens/",
+    "localPath": "images/tokyo-archive-182346.webp",
+    "sha256": "9ab83af1a78f81fa8e0b1eebe9490e692b8b1b5484da1d895ede6f675092d2c2",
+    "ordinal": 23,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black white jacket split print slim trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182308",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/harajuku-street-style-w-colorful-pixie-hair-leather-waist-bag-tommy-hilfiger-bomber-jacket-resale-fashion-mesh-boots/",
+    "localPath": "images/tokyo-archive-182308.webp",
+    "sha256": "47d477c3cd29aadab523e7685690a3b0e3d5827690e9054c42766c81017ddd10",
+    "ordinal": 24,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "embroidered black waistcoat red shirt purple trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182268",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/harajuku-girls-style-w-teddy-bear-sweater-angel-print-ruffle-skirt-round-handbag-white-sneakers/",
+    "localPath": "images/tokyo-archive-182268.webp",
+    "sha256": "27f2c05f791f90f5be8130bc1accac6e334be7d08d1c9ffa1762fd01a66e0558",
+    "ordinal": 25,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "red sweatshirt blue print full skirt. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-181883",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-sporty-streetwear-style-w-visor-sunglasses-balenciaga-beanie-pinnap-statement-necklaces-studded-bralette-gallerie-crotchless-pants-jeffrey-campbell-metallic-sneakers/",
+    "localPath": "images/tokyo-archive-181883.webp",
+    "sha256": "7328d7ae7f9da5c00332a4b9d562c788b065dfb95569eeff5d3b2eb2a86c5565",
+    "ordinal": 26,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black crop top colorblock track trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182595",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/heihei-style-w-leopard-headband-floral-print-dress-detached-collar-leopard-print-bag-tokyo-bopper-cutout-shoes/",
+    "localPath": "images/tokyo-archive-182595.webp",
+    "sha256": "d22214e457e2ec3625983c9bd229991f8e45a66d596e7b03339cae08ba313df0",
+    "ordinal": 27,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "red dot full dress black lace bib. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182019",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/harajuku-vintage-street-style-w-black-hat-long-robe-tunic-top-snakeskin-skirt-calf-skin-boots/",
+    "localPath": "images/tokyo-archive-182019.webp",
+    "sha256": "75c0649fc58f7f3198251caa60aae127ca31a73b75e1adf2e0d39e39e9842fe3",
+    "ordinal": 28,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "long cream coat tan robe layers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182390",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/us-navy-photographer-in-chic-all-black-look-w-fierce-eye-makeup-purple-lipstick-artifice-clothing-turtleneck-harness-skinny-pants-demonia-thigh-boots/",
+    "localPath": "images/tokyo-archive-182390.webp",
+    "sha256": "0ee45bf3e1b96bcfa9dea9c22c60327541b993cf9356a0c0bdd0ff4be3228953",
+    "ordinal": 29,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black fitted top black cutout trousers tall boots. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182658",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/japanese-street-style-w-pink-buns-funktique-blazer-jenny-fax-vintage-chloe-sheer-tiered-dress-yello-handbag-dr-martens-glitter-boots/",
+    "localPath": "images/tokyo-archive-182658.webp",
+    "sha256": "3d765a8183e07fea8e4312bc376cf0411379cd3ee5a28f3288d01bbdcbb05cc1",
+    "ordinal": 30,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "yellow blazer lavender tiered maxi skirt. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182564",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/japanese-streeet-style-w-suede-jacket-ellecy-floral-print-dress-bless-yosuke-platforms/",
+    "localPath": "images/tokyo-archive-182564.webp",
+    "sha256": "73b7a427a4b3e6a13a15da6717d37570e40a376d6300e737281de09a90391393",
+    "ordinal": 31,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "tan belted coat floral midi dress. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-178769",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/gothic-japanese-street-styles-harajuku-alice-auaa-handmade-fashion/",
+    "localPath": "images/tokyo-archive-178769.webp",
+    "sha256": "a422fb440af58769f206c6687e08a798da0a2ef1853154146c21b8935c2fe285",
+    "ordinal": 32,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "two person photo. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182333",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/all-white-harajuku-street-style-w-skull-necklace-leather-harness-me-harajuku-balloon-sleeve-shirt-kinji-pants-aloa-harajuku-tote-yosuke-boots/",
+    "localPath": "images/tokyo-archive-182333.webp",
+    "sha256": "c8bedd6c5b283048c728b585c536b3441083640fb6bba4bfa498d8f493ee6692",
+    "ordinal": 33,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "white puff sleeve blouse white bloomers black boots. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-182005",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/menswear-street-style-w-sunglasses-vintage-rings-bed-jw-ford-checkered-suit-vintage-coach-bag-zara-boots/",
+    "localPath": "images/tokyo-archive-182005.webp",
+    "sha256": "5dbf23e39502b755dc562bb1d10085b96a425f5acb59d4d6812ec01e17ef8c1c",
+    "ordinal": 34,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "brown checked suit yellow scarf. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183807",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-menswear-street-style-w-bull-horn-snail-earrings-tassel-earrings-custom-vintage-overcoat-belted-maxi-coat-yohji-yamamoto-loake-chelsea-boots/",
+    "localPath": "images/tokyo-archive-183807.webp",
+    "sha256": "53609a69e3da64da9ab489dddefe2bd96e7230359a8ad23fa327fd557e18192a",
+    "ordinal": 35,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "lime longcoat long black layers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183793",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/black-red-streetwear-look-in-harajuku-w-long-curly-hair-3-4-sleeve-corset-top-skinny-leather-pants-crossbody-bag-platform-sneakers/",
+    "localPath": "images/tokyo-archive-183793.webp",
+    "sha256": "26c4e63206744e75aa37f6f7f1b84d05bdf695965593df611c0fd2d58ddeabe8",
+    "ordinal": 36,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "fitted black graphic top shiny black trousers platforms. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183780",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/colorful-casual-streetwear-style-w-half-color-hair-butterfly-necklace-chicago-angel-blue-denim-skirt-little-sunny-bite-kermit-the-frog-bag-butterfly-fall-vintage-nike/",
+    "localPath": "images/tokyo-archive-183780.webp",
+    "sha256": "987b4ac314582f3566aaf7a23ef82366a3d2cf1b58d2a85a45428779c6a77bb4",
+    "ordinal": 37,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "green jacket red top navy mini skirt. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183764",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-street-style-w-rhinestone-earpiece-m-y-o-b-bomber-jacket-christopher-nemeth-sacai-asymmetric-skirt-rope-print-tote-eytys-chunky-sneakers/",
+    "localPath": "images/tokyo-archive-183764.webp",
+    "sha256": "53d32aa69a6b3271d37724c83b233abae194a78e1c91cda7aa00cab15a70fdd5",
+    "ordinal": 38,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "olive jacket long black red skirt. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183751",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/menswear-street-style-w-furry-hat-ck-sunglasses-undercover-moto-jacket-comme-des-garcons-john-lawrence-sullivan-mm6-maison-margiela-yosuke/",
+    "localPath": "images/tokyo-archive-183751.webp",
+    "sha256": "e1db78994842557f5909a4272ce00da3bcf366f1399a96a9e710077f9c42634b",
+    "ordinal": 39,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "navy leather jacket patterned cropped trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183738",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/harajuku-resale-street-style-w-sunglasses-fur-collar-jacket-printed-dress-bless-accessories-yosuke/",
+    "localPath": "images/tokyo-archive-183738.webp",
+    "sha256": "b6b180db5783751fa0f40f98a48a3fba8b13164153905ed55c3c8467f893409b",
+    "ordinal": 40,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "tan blazer short patterned dress. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183663",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/japanese-street-style-w-resale-michiyuki-gu-turtleneck-dress-knit-skirt-doraemon-canvas-tote-ne-net-cat-bag-patent-shoes/",
+    "localPath": "images/tokyo-archive-183663.webp",
+    "sha256": "8f7ed94d7d6688cb82b75a8b1b44125d8e60b168569b643d3c90f2df0a122e85",
+    "ordinal": 41,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "navy kimono layer long cream skirt. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183622",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/leather-style-in-harajuku-w-shaved-hairstyle-o-ring-choker-leather-trench-coat-chinese-dragon-dress-fringe-bag-demonia-knee-boots/",
+    "localPath": "images/tokyo-archive-183622.webp",
+    "sha256": "226bdac47609943f58966dadb960433e791e27b8adc6a1b66a65d47669089f3d",
+    "ordinal": 42,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "belted navy longcoat red floral dress. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183594",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-rainbow-street-style-w-handmade-x-daiso-hair-falls-rainbow-makeup-acdc-rag-jellybean-kimono-hm-tie-dye-wrap-skirt-accommode-x-disney-furry-leg-warmers-yru-platforms/",
+    "localPath": "images/tokyo-archive-183594.webp",
+    "sha256": "8764acbaac652a50ee8b3c0f4eb33de54bf4e2efafcc6345b9e2d6a5ba60593c",
+    "ordinal": 43,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "bright crop top multicolor skirt rainbow legwarmers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183555",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/monochrome-tokyo-look-w-large-plushie-fedora-hat-belted-coat-handmade-skirt-black-boots/",
+    "localPath": "images/tokyo-archive-183555.webp",
+    "sha256": "827d86b98d71b05a4ef4ea0836e3593551ddb64e05db6c0c5e241e75905b657a",
+    "ordinal": 44,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "white blouse black full skirt black cardigan. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183515",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-girls-styles-w-twin-tails-heart-glasses-decora-hair-clips-acdc-rag-gap-gu-spinns-sevens-thank-you-mart-plushie-bag-abc-mart-booties-adidas-sneakers/",
+    "localPath": "images/tokyo-archive-183515.webp",
+    "sha256": "871d224837739e35302140da5dda299e5a1d86770745bf5db3aa3b3f15695dcf",
+    "ordinal": 45,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "two person photo. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183421",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-mohawk-hairstyle-w-spiked-choker-comme-des-garcons-fishnet-top-catanzaro-pleather-pants-maison-margiela-tabi-boots/",
+    "localPath": "images/tokyo-archive-183421.webp",
+    "sha256": "d7af106a9a74d17737987e819a3e7284f323649c700c3dc4e341ea3c55d2605b",
+    "ordinal": 46,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "sheer black mesh long top vinyl slim trousers heels. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183391",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/harajuku-retro-streetwear-style-w-net-cardigan-3-1-phillip-lim-maison-margiela-rings-coral-pants-vintage-boots/",
+    "localPath": "images/tokyo-archive-183391.webp",
+    "sha256": "ce9ffd59c70018c4fc77774bbf85266ea0dd99e4eacc8cc76fa129fed04a9683",
+    "ordinal": 47,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "checked shirt black vest pink wide trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183381",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/harajuku-street-style-w-bucket-hat-resale-suit-calvin-klein-maison-margiela-vintage-bag-zara-boots/",
+    "localPath": "images/tokyo-archive-183381.webp",
+    "sha256": "1787d00cac55f07c38654848120c3352496d0378165195e10f4fcef34a835875",
+    "ordinal": 48,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "navy suit teal striped shirt. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183352",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-menswear-w-single-earring-new-yorker-plaid-blazer-toironier-shirt-luis-culotte-pants-gucci-haruta-leather-shoes/",
+    "localPath": "images/tokyo-archive-183352.webp",
+    "sha256": "8a4dba720c7e7d2bf86e442823b7e6a2ce5622148f303b32b0c731771883289e",
+    "ordinal": 49,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "tan blazer white shirt black midi skirt. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183328",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/kyoto-idol-kawaii-monster-girls-monochrome-street-style-w-twin-tails-medallion-earrings-virus-shut-out-necklace-type-beat-charms-x-kappa-coat-upborn-yosuke/",
+    "localPath": "images/tokyo-archive-183328.webp",
+    "sha256": "d00d35486a16c269282a9c7f7f18891549a29d2ad90679559cae18480e6541f7",
+    "ordinal": 50,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "white black oversized jacket mini layers fishnets. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183502",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/red-harajuku-style-w-bow-headband-ribbed-sweater-heihei-detached-collar-tiered-plaid-skirt-tokyo-bopper-sneakers/",
+    "localPath": "images/tokyo-archive-183502.webp",
+    "sha256": "5e47f2be986ff60cfa9067c2207f8e2da66443d6be6c03fe1f45b99ac2302a3a",
+    "ordinal": 51,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "red plaid full dress black lace yoke. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183472",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-cyberpunk-streetwear-styles-w-pink-hair-killstar-harness-urb-top-honey-birdette-lingerie-dress-poi-designs-vest-nike-sneakers/",
+    "localPath": "images/tokyo-archive-183472.webp",
+    "sha256": "e91b37a74d1bc3c5159b62107f8c0a6d04309bcd7ca422a818ebfd7d062f3dc0",
+    "ordinal": 52,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "two person photo. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183459",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/graphic-print-tokyo-streetwear-w-leather-harness-damage-cutout-bandage-dress-yru-platform-sneakers/",
+    "localPath": "images/tokyo-archive-183459.webp",
+    "sha256": "cc422b84b651c8e41924a140f11e10bae41577ed518d975aaaab89e0e5c2769e",
+    "ordinal": 53,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "fitted white print midi dress white platforms. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183537",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/chic-tokyo-street-style-w-pastel-pink-hair-smiley-face-beaded-choker-flat-denim-jacket-un3d-tote-sacai-satin-overalls-dr-martens/",
+    "localPath": "images/tokyo-archive-183537.webp",
+    "sha256": "857d3680bdcdaa58b7ac43fdd3646b92e0ef0b589eb9823249f5d5eb808f700e",
+    "ordinal": 54,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "cropped denim jacket pink wide jumpsuit. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183446",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/tokyo-style-w-braided-rainbow-hair-falls-vivienne-westwood-worlds-end-leopard-print-comme-des-garcons-x-nike-mm6-gallerie-buffalo/",
+    "localPath": "images/tokyo-archive-183446.webp",
+    "sha256": "7807a8e63100f29a1adaf4e5b73bcc38da445e93fd03ef35d4c8158d60640ba9",
+    "ordinal": 55,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "leopard coat print midi dress platforms. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183363",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/heihei-plaid-street-fashion-w-beret-floral-detached-collar-plaid-dress-tokyo-bopper-cutout-shoes/",
+    "localPath": "images/tokyo-archive-183363.webp",
+    "sha256": "f87e7303ae59d0bac462be090bdad77e39ceac55ee9999fd5015efe2bd5754b5",
+    "ordinal": 56,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "red plaid full dress white lace bib. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-183290",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/japanese-pop-idols-gothic-lolita-style-w-cat-ears-headdress-vivienne-westwood-tiered-ruffle-dress-kauai-accessories-black-peace-now-coffin-bag-yosuke-caged-platforms/",
+    "localPath": "images/tokyo-archive-183290.webp",
+    "sha256": "682485459ce6070fa8fd609d6a8282e12c84bd7fef916b4ee98b0cefb5f9fdfc",
+    "ordinal": 57,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black tiered full dress striped socks. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "tokyo-archive-178514",
+    "source": "tokyofashion",
+    "sourceUrl": "https://tokyofashion.com/minimalist-japanese-street-style-oy-esc-studio-uniqlo-asclo-hoka-one-one-sneakers/",
+    "localPath": "images/tokyo-archive-178514.webp",
+    "sha256": "ca10d3df3d26b4ea31baf96a80a98b3e041c2f8bd5c2e9403457076acf4fe27f",
+    "ordinal": 58,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "black leather jacket dark trousers. Shoulder/hip balance and waist remain unknown: clothing volume, layers, crop or pose prevent a reliable contour judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

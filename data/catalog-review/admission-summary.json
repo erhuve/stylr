@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 2283,
-  "admittedPhotos": 1585,
-  "totalPhotos": 1970,
+  "reviewedCandidates": 3540,
+  "admittedPhotos": 2701,
+  "totalPhotos": 3086,
   "axisSupport": {
-    "build": 1361,
-    "shoulderHip": 201,
-    "waist": 370
+    "build": 1739,
+    "shoulderHip": 203,
+    "waist": 374
   },
-  "completeReferences": 158,
-  "sourcePages": 1122,
+  "completeReferences": 160,
+  "sourcePages": 2238,
   "excludedReasons": {
-    "non-outfit-view": 640,
+    "non-outfit-view": 781,
     "existing-source-page": 58
   },
   "excluded": [
@@ -2804,6 +2804,570 @@
     },
     {
       "id": "onebone-10477688815935-image-53955740467519",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27166623",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-26779136",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27317915",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-26780140",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27221865",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-25856764",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-25738551",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27338535",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27337211",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27259647",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-24025375",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27084295",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27352145",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-25924663",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-21331887",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27309832",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27339441",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-25948801",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wear-27345002",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-200843",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-200400",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-200343",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-200207",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-199727",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-199637",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-198936",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-199451",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-199046",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-198635",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-198583",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-198536",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-197552",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-197184",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-195703",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-197658",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-194283",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-194111",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-194039",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-193835",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-191638",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-190168",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-187033",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-184697",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-184652",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-188166",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-182609",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-182701",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-183124",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-185523",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-185420",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-185533",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-185310",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-181606",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-179954",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-179334",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-182642",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-182552",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-178769",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-183515",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-183472",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-180119",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-180178",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-180653",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-180507",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-180460",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-178025",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-188444",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-188402",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-177845",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175831",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-177059",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-179572",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-179254",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175967",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-180733",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176937",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-179792",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-180227",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-180259",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-179680",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-178403",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-179027",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-178898",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-177091",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176882",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176837",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-179405",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-179420",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176819",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175363",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-173460",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176016",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175535",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175804",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175564",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176957",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176108",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-178342",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-178104",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175166",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176038",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176073",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175284",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175240",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175401",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175074",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175101",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175041",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-174550",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-178001",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176055",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175986",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175898",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175854",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175776",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175714",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175633",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175324",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175091",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175550",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175294",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-175214",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-173824",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176403",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-172495",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-177863",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-177699",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-172091",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-171112",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176913",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-176783",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-172605",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-172469",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-173022",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-173046",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-173583",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-173425",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-172780",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-172547",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-173741",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyo-archive-173219",
       "reason": "non-outfit-view"
     }
   ]
