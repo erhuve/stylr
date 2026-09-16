@@ -6,30 +6,30 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 
 | Source | Sampled pages | Candidate images | Reviewed expansion | Admitted expansion | Complete expansion | Deferred pages |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| acdcrag | 48 | 94 | 51 | 39 | 1 | 158 |
-| bigbudpress | 94 | 152 | 123 | 103 | 19 | 156 |
+| acdcrag | 63 | 116 | 73 | 45 | 1 | 143 |
+| bigbudpress | 114 | 192 | 163 | 119 | 21 | 136 |
 | chubstr | 15 | 35 | 27 | 27 | 4 | 0 |
 | disturbia | 24 | 48 | 48 | 37 | 3 | 0 |
 | flickr.com | 93 | 237 | 0 | 0 | 0 | 0 |
-| forestink | 60 | 119 | 92 | 61 | 5 | 39 |
-| foxblood | 58 | 116 | 102 | 90 | 16 | 97 |
+| forestink | 80 | 157 | 130 | 72 | 5 | 19 |
+| foxblood | 78 | 156 | 142 | 115 | 16 | 77 |
 | kirrinfinch | 61 | 132 | 91 | 75 | 3 | 0 |
 | lucyandyak | 24 | 48 | 39 | 34 | 8 | 0 |
-| midnighthour | 56 | 136 | 114 | 99 | 12 | 0 |
-| mochipan | 57 | 138 | 110 | 99 | 2 | 80 |
-| morningwitch | 36 | 63 | 12 | 12 | 0 | 0 |
-| myviolet | 60 | 138 | 108 | 98 | 2 | 70 |
+| midnighthour | 76 | 173 | 151 | 116 | 13 | 135 |
+| mochipan | 72 | 168 | 140 | 113 | 2 | 65 |
+| morningwitch | 51 | 86 | 35 | 13 | 0 | 123 |
+| myviolet | 75 | 168 | 138 | 113 | 2 | 55 |
 | pettilia | 8 | 16 | 5 | 5 | 0 | 0 |
 | pexels.com | 40 | 40 | 0 | 0 | 0 | 0 |
 | punkrave | 48 | 96 | 50 | 35 | 6 | 163 |
-| shinybynature | 58 | 116 | 108 | 87 | 26 | 29 |
-| snag | 100 | 199 | 176 | 142 | 17 | 19 |
+| shinybynature | 78 | 156 | 148 | 100 | 27 | 9 |
+| snag | 120 | 239 | 216 | 169 | 17 | 98 |
 | tokyofashion | 158 | 268 | 140 | 81 | 7 | 0 |
 | trippnyc | 48 | 96 | 52 | 31 | 8 | 165 |
 | universalstandard | 58 | 58 | 58 | 52 | 1 | 0 |
 | unsplash.com | 2 | 2 | 0 | 0 | 0 | 0 |
 | wear | 60 | 60 | 60 | 60 | 0 | 0 |
-| wildfang | 46 | 92 | 65 | 55 | 13 | 141 |
+| wildfang | 66 | 132 | 105 | 75 | 13 | 121 |
 
 ## Next sourcing pass
 

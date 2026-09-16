@@ -1,0 +1,850 @@
+{
+  "retrievedAt": "2026-09-16T19:12:15.488451+00:00",
+  "scope": "4 sources, at most three pages of 250 products each and 15 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "morningwitch",
+      "pages": [
+        {
+          "url": "https://www.morningwitch.com/products.json?limit=250&page=1",
+          "products": 207,
+          "retrievedAt": "2026-09-16T19:11:52.772303+00:00",
+          "snapshotSha256": "c8407badea59c37b9a744b9b9d2026f11e390dd3a763bf9efacc5e7c2d45027f"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "morningwitch-9155315466394-image-50212727750810",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/DSCF7072_75581675-3da5-4986-b0f7-4c66d083970e.png?v=1789487656",
+          "sourceUrl": "https://www.morningwitch.com/products/preorder-sweatshirt-little-ancients-horseshoe-crabs",
+          "sha256": "7d094c2c1a750cfa12577d2341954072d88e20d01ddd81f12eeab8fa305e66f7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-9155315466394-image-50212939301018",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/DSCF7077.png?v=1789488713",
+          "sourceUrl": "https://www.morningwitch.com/products/preorder-sweatshirt-little-ancients-horseshoe-crabs",
+          "sha256": "374a845552e796a0b0d47d6c48328bd561a87d745bfb9053a7b6646fc3db181c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7891035979930-image-37550819541146",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/updatepic2.png?v=1692386807",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-moth-fern",
+          "sha256": "dbce565d59b445970f45708ab45dea900925df2d6d5a356808969d7992ebd69f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7891035979930-image-37550818984090",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/F2JnZNEXAAA1mpN_671fc7a2-ec7b-44e4-955b-fbecf6997a5f.jpg?v=1692461894",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-moth-fern",
+          "sha256": "8876386f0176fa628e7359fbbd7664553c75814a8e671a3aa24bf03fa99b838d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7663530606746-image-36216784257178",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/products/miniskirtscarlet.png?v=1674867506",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-4",
+          "sha256": "d66523bcad23e3d00162b75f5f285763536068983a97e4a1a8fb76950445df89",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7663530606746-image-36256394543258",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/products/SKIRT_aa98e96c-8fb3-4463-ad64-f82dac3b77ba.png?v=1675097845",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-4",
+          "sha256": "1a35de3a29a8038e6164e29e44b65df95184c551ff1bfee5037dbc459d9ec1c8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7663526805658-image-36216757911706",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/products/miniskirtfairy.png?v=1674867354",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-fairy-garden",
+          "sha256": "e2c13d973352f4e3948b61247635f5915c6ac0b09a1e0e8c142076e4d5d00407",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7663526805658-image-36259250634906",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/products/SKIRT_1765b2ba-3240-4a2d-9dd8-03e17018f456.png?v=1675109467",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-fairy-garden",
+          "sha256": "1a35de3a29a8038e6164e29e44b65df95184c551ff1bfee5037dbc459d9ec1c8",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "morningwitch-7891533037722-image-37555533250714",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/updatepic7.png?v=1692462384",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-magnolia-goldenrod",
+          "sha256": "8263b63b7d2dfe091d228e9d4e488bfb8c9cde4ee8d31902e0ec0d1b7efc11d9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7891533037722-image-37555532267674",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/SKIRT_dd8a43a5-d008-401a-bfb9-8daabf54c3f9.png?v=1692462384",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-magnolia-goldenrod",
+          "sha256": "1a35de3a29a8038e6164e29e44b65df95184c551ff1bfee5037dbc459d9ec1c8",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "morningwitch-7850918871194-image-37200135061658",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/snailflatmini2.png?v=1687539122",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-snail-nasturtium",
+          "sha256": "eae8519b16d94054f0a927d8b293196eae670938e71318f8220b46bdcb950b7d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7850918871194-image-37200134209690",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/SKIRT_7951fb87-16f0-4e8b-8ef0-f3a8bba47167.png?v=1687539122",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-snail-nasturtium",
+          "sha256": "1a35de3a29a8038e6164e29e44b65df95184c551ff1bfee5037dbc459d9ec1c8",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "morningwitch-7663531622554-image-36216788877466",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/products/miniskirtwitchgarden.png?v=1674867534",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-5",
+          "sha256": "0d3a8b6f0e76fd32aac32d3ea58922375b5e044a6c49ea5f8cbfe0f3cf392724",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7663531622554-image-36256439599258",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/products/SKIRT_b1b42516-a3e7-4097-8116-86a76bafed95.png?v=1675098049",
+          "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-5",
+          "sha256": "1a35de3a29a8038e6164e29e44b65df95184c551ff1bfee5037dbc459d9ec1c8",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "morningwitch-8266154016922-image-39876656726170",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/DSF3780.png?v=1717794809",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-poison-touch",
+          "sha256": "5cbf809f4f5ecee4d3bd4f29f89c7f13092d2ba1c3999a7c3528aeff633eccfa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-8266154016922-image-39681924923546",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/F2JnZNEXAAA1mpN_6da7f041-0af1-4121-92a6-d25ac1a24239.jpg?v=1715804089",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-poison-touch",
+          "sha256": "e5bc31bc9bbd6b15acbe03ba8bda53fa5f52383ce0eaf077bc4f52066fa9c7f4",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "morningwitch-7891036307610-image-37550825668762",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/updatepic6.png?v=1692387135",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-deathly-bouquet",
+          "sha256": "a2b5d8445da9db43e13d5051be9d6858aa59444f63d58c6202adf1ce6a859e29",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7891036307610-image-37550823342234",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/F2JnZNEXAAA1mpN_0913c165-8ba4-461a-808a-82ce5701024f.jpg?v=1692461823",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-deathly-bouquet",
+          "sha256": "33d8a9c24b55e84914e3834793fdaab6c3937f8ba1e563ca989614916807bade",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7891038044314-image-37550862139546",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/updatepic3.png?v=1692387204",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-salamander-woods",
+          "sha256": "f76cb6a98cbc3efdd911b6f03936b899d7bf6c0f3555bb57790033c402d0b4b7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7891038044314-image-37551694905498",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/20230818-182731_c8a80143-1bc1-4b3a-9897-28048905e9df.jpg?v=1692397821",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-salamander-woods",
+          "sha256": "68995da45f49728a492fa9fd0dc97f929135a6f36c5a1871a185cb445b382e06",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-8266153722010-image-39876688248986",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/DSF3788.png?v=1717795307",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-velvet-night",
+          "sha256": "13e424adc7efc20a02623793bd333dc115ea3e52e6ab886dc8157325a5c7a1a1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-8266153722010-image-39681924923546",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/F2JnZNEXAAA1mpN_6da7f041-0af1-4121-92a6-d25ac1a24239.jpg?v=1715804089",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-velvet-night",
+          "sha256": "e5bc31bc9bbd6b15acbe03ba8bda53fa5f52383ce0eaf077bc4f52066fa9c7f4",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "morningwitch-8223511380122-image-39689181298842",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/sunshinejoggers.png?v=1715870089",
+          "sourceUrl": "https://www.morningwitch.com/products/coming-soon-jogger-pants-sunshine-moths",
+          "sha256": "b1a5eccea227e09982d67becad6367b6aea009634985c0d78c10494f966f39d7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-8223511380122-image-39689180479642",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/20230818-182731_7b2c14b5-413d-4f16-be4a-83c3dc5dbf31.jpg?v=1715870089",
+          "sourceUrl": "https://www.morningwitch.com/products/coming-soon-jogger-pants-sunshine-moths",
+          "sha256": "baa000966eff80a0a49ad1fb26cc67edb7a9f555d3d5ccf134d4eb69671d1cb9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-8222565040282-image-39681959264410",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/birdwingjoggerssmall.png?v=1715804089",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-emerald-dream-2",
+          "sha256": "1605a028fd997535702ba1d377644758dc4e136278592c64019453623cbf578e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-8222565040282-image-39681924923546",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/F2JnZNEXAAA1mpN_6da7f041-0af1-4121-92a6-d25ac1a24239.jpg?v=1715804089",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-emerald-dream-2",
+          "sha256": "e5bc31bc9bbd6b15acbe03ba8bda53fa5f52383ce0eaf077bc4f52066fa9c7f4",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "morningwitch-7891037683866-image-37550854373530",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/updatepic11.png?v=1692387097",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-scarlet-garden",
+          "sha256": "f44f4fc7a2553102f4bdf7dedcff623ae8cc9d90d6b683038ac7607daea357fa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7891037683866-image-37550851621018",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/F2JnZNEXAAA1mpN_5fc3e2d4-7504-466f-b6a0-f2b3ab044183.jpg?v=1692397726",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-scarlet-garden",
+          "sha256": "adad89461cac697cf9e5c245d623c3de62bd35b293db86d9304cc725c54efa07",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7891034898586-image-37550796767386",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/updatepic1.png?v=1692386573",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-magnolia-goldenrod",
+          "sha256": "2975d742ff965d6bfe582e5d2650d21f34906092854e904a9a05bf99d11b3a01",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "morningwitch-7891034898586-image-37550793031834",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0021/1917/2214/files/F2JnZNEXAAA1mpN_6f6a8218-ab5e-43e9-be42-dfd00c74e41d.jpg?v=1692461842",
+          "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-magnolia-goldenrod",
+          "sha256": "4e5dcd4d788fc82f62bd01cc602df3f2b9364d08ddcf821d181e5a69342b4ccb",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 23
+    },
+    {
+      "source": "myviolet",
+      "pages": [
+        {
+          "url": "https://shopmyviolet.com/products.json?limit=250&page=1",
+          "products": 189,
+          "retrievedAt": "2026-09-16T19:11:58.245366+00:00",
+          "snapshotSha256": "b88a21f95a3de11916bb1ee8b38a088ad365e2a9fa03ae3bcd4fa1bcff9ace3d"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "myviolet-9645932871927-image-61045052014839",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_9995-Edit.jpg?v=1755734319",
+          "sourceUrl": "https://shopmyviolet.com/products/smocked-dress",
+          "sha256": "0188fec1ca8bb84eb0bd476a023cb01d28e90fdd87d66c2cfe48e5909aa5a6f7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9645932871927-image-61058662498551",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0150-Edit.jpg?v=1755884457",
+          "sourceUrl": "https://shopmyviolet.com/products/smocked-dress",
+          "sha256": "52022175b5f393c48771a1411244d28feb6a036c5b4a720a35a9f5e78828b1b8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9902326382839-image-63496233320695",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_1587-coco.jpg?v=1784590640",
+          "sourceUrl": "https://shopmyviolet.com/products/coco-cardigan-pink",
+          "sha256": "010e87abaa8bbf94a8d47ca36b1efb3073ac008ed5e6f5af5e971e77ad6d9253",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9902326382839-image-63496233189623",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_1576-coco-crop.jpg?v=1784590640",
+          "sourceUrl": "https://shopmyviolet.com/products/coco-cardigan-pink",
+          "sha256": "2b47f4f403cf2b53f6bb4476dea36f324704867a59057db55a5885ca973df568",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9902326579447-image-63605484617975",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_3640-coco.jpg?v=1785967341",
+          "sourceUrl": "https://shopmyviolet.com/products/coco-cardigan-pink-and-black",
+          "sha256": "1b468104ef3e976c51a49497fec59fee9ba82464ac892481f725034a9c692dcc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9902326579447-image-63605484683511",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_3649-coco.jpg?v=1785967341",
+          "sourceUrl": "https://shopmyviolet.com/products/coco-cardigan-pink-and-black",
+          "sha256": "a41f2e2c1d0bfc9804393b72c959aba1b45c33cf6253bd5bc44d781089482bd2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9940787069175-image-63594223927543",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_3467-zoe.jpg?v=1785793874",
+          "sourceUrl": "https://shopmyviolet.com/products/zoe-party-dress-lavender",
+          "sha256": "1b01fafaa10860d0ac75577192b1fc55e7e4efe82b6b5c4bf5321a62751bac52",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9940787069175-image-63594223993079",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_3471-zoe.jpg?v=1785793874",
+          "sourceUrl": "https://shopmyviolet.com/products/zoe-party-dress-lavender",
+          "sha256": "ca429c1fb4066030ae1b2717c69f0741cfeb3a4292a54454c6b4b12802e2e753",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9949838049527-image-63572238106871",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_3351-Halo_hoodie.jpg?v=1785458910",
+          "sourceUrl": "https://shopmyviolet.com/products/halo-angel-wing-hoodie",
+          "sha256": "1abb6bc22e837957f49149f2980b04e382961d237074c500f2ac6cef0dc33879",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9949838049527-image-63495517372663",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_1540-halo-angel-wing-hoodiecrop.jpg?v=1784578369",
+          "sourceUrl": "https://shopmyviolet.com/products/halo-angel-wing-hoodie",
+          "sha256": "813f68ef548b3b76da04f9737bc6f566b29a1c5c4223acc6e70bc3b45069f1d9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9949837197559-image-63572206026999",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_3403-Halo_joggers.jpg?v=1785457892",
+          "sourceUrl": "https://shopmyviolet.com/products/angel-wing-joggers",
+          "sha256": "eb985a664e2ff9d5df4b1ef8acf965998edf3316728e07249b7abfd8cd3a5289",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9949837197559-image-63495735804151",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_1615-halo-angel-wing-joggers.jpg?v=1784581955",
+          "sourceUrl": "https://shopmyviolet.com/products/angel-wing-joggers",
+          "sha256": "eedee8fc8ee0a604d30b4d29272f794a09367367537c8fc4a1a4d938a5db74f9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9759221121271-image-61677586186487",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_1724-Edit.jpg?v=1763076858",
+          "sourceUrl": "https://shopmyviolet.com/products/basics-mesh-top-and-cami-set-pink-mint",
+          "sha256": "d7573781a98779f094aa8189182f3befb361ca69e5701627696313334ed6fb36",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9759221121271-image-61677464092919",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_1804-Edit_6354b31c-6cf2-469a-bfc2-a1084ac52b62.jpg?v=1763076858",
+          "sourceUrl": "https://shopmyviolet.com/products/basics-mesh-top-and-cami-set-pink-mint",
+          "sha256": "9d188632539bd7eabe5ef0fae69f50954ed55701b4f0abbf105e6e78ff8ed026",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978322518263-image-63435909366007",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0625-stella.jpg?v=1783553548",
+          "sourceUrl": "https://shopmyviolet.com/products/stella-shirt-dress-black",
+          "sha256": "a69f5973f736315ff29a4ae43e076479ea4669b1c7e984320b7890e69f3c2349",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978322518263-image-63435909431543",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0631-stella.jpg?v=1783553548",
+          "sourceUrl": "https://shopmyviolet.com/products/stella-shirt-dress-black",
+          "sha256": "cca67f6762a78e77442b43eece4330e42df6db17a901efcfe5c44bb9a117ec1f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978322452727-image-63442629951735",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0419-stella.jpg?v=1783644164",
+          "sourceUrl": "https://shopmyviolet.com/products/stella-shirt-dress-lavender",
+          "sha256": "e0222effdc4cb613f26f7bf11f5b87e9d8e1be8039161d133ad20f476d6eb8d1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978322452727-image-63442629984503",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0421-stella.jpg?v=1783644164",
+          "sourceUrl": "https://shopmyviolet.com/products/stella-shirt-dress-lavender",
+          "sha256": "773655c1462606dd727fc9534d2268e6493ca6f5e961e29dcf4c4e3a1d1b7d9e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9976830886135-image-63445601321207",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0425-stella.jpg?v=1783709094",
+          "sourceUrl": "https://shopmyviolet.com/products/star-shirt-dress-pink",
+          "sha256": "27a91a38910d7a47bd1562ca6481aed14cc68d28856bb4d7404b2754fed12a8c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9976830886135-image-63445601353975",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0427-stella.jpg?v=1783709093",
+          "sourceUrl": "https://shopmyviolet.com/products/star-shirt-dress-pink",
+          "sha256": "cd73f79fa341b8a5acab728e73f4c75adb65d0b640408c2f69d5a166cdbb538f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978329792759-image-63184371417335",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0235-hailey.jpg?v=1781133479",
+          "sourceUrl": "https://shopmyviolet.com/products/hailey-pleated-skirt-lavender",
+          "sha256": "df1aeb730b1cd69f71a556a986fb8c896353357f39c3e44a1e96dc541ad74e51",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978329792759-image-63184371384567",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0233-hailey.jpg?v=1781133479",
+          "sourceUrl": "https://shopmyviolet.com/products/hailey-pleated-skirt-lavender",
+          "sha256": "79cb81177fe7d63abe4d09a87dcc762cd4e584adda939716b379a4ca9ab92552",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978329891063-image-63485717610743",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_2891-Edit.jpg?v=1784321615",
+          "sourceUrl": "https://shopmyviolet.com/products/hailey-pleated-skirt-blue",
+          "sha256": "dcd46a2107cf302410fedd4595a517ed258c66a2805856117b2e7f427ebc3b5f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978329891063-image-63485717545207",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_2895-Edit.jpg?v=1784321615",
+          "sourceUrl": "https://shopmyviolet.com/products/hailey-pleated-skirt-blue",
+          "sha256": "82407a420eeb373b84013ba34536bdd63f6eecd3e59a58e40e5cc7f57ee0684f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978322780407-image-63173769265399",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0172-hailey.jpg?v=1781048759",
+          "sourceUrl": "https://shopmyviolet.com/products/star-pleated-skirt",
+          "sha256": "246387e3f770dd9768fa20cdde59cdf7e4b879dc5707c0bedcbee30426dc459d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9978322780407-image-63173769298167",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_0176-hailey.jpg?v=1781048759",
+          "sourceUrl": "https://shopmyviolet.com/products/star-pleated-skirt",
+          "sha256": "3056042b442f774430566dc0167aec7a8f70485f9c5bae76afb1d5a8ba1f42eb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9821126263031-image-61672320860407",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_3783-Edit.jpg?v=1762997015",
+          "sourceUrl": "https://shopmyviolet.com/products/short-sleeve-basics-mesh-top-and-cami-set-lav-pink",
+          "sha256": "8645c9f99c25340afd74f3dc83b2497f748b4e5ce1ff17cf086fa3bf756dddef",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9821126263031-image-61683407028471",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/IMG_3375-basics-LavSS-Edit.jpg?v=1763150094",
+          "sourceUrl": "https://shopmyviolet.com/products/short-sleeve-basics-mesh-top-and-cami-set-lav-pink",
+          "sha256": "f986c1815fc8039305ad17d042623ad6899652c70315db6bd07341cecf5f091b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9821125116151-image-61677097156855",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_3805-Edit.jpg?v=1763063556",
+          "sourceUrl": "https://shopmyviolet.com/products/basics-mesh-top-and-cami-set-pink-mint-shortsleeve",
+          "sha256": "4a577bfbc936a2891fa15cb551e56bed363d5661d1f07df62f77ab45969c5e87",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "myviolet-9821125116151-image-61677464125687",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0054/9840/4935/files/DSC_1811-Edit.jpg?v=1763076858",
+          "sourceUrl": "https://shopmyviolet.com/products/basics-mesh-top-and-cami-set-pink-mint-shortsleeve",
+          "sha256": "01b99df0a47839b618fb20d43070f9febb2f52a526109e86c9bc3fa1ec786e22",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 30
+    },
+    {
+      "source": "mochipan",
+      "pages": [
+        {
+          "url": "https://mochipan.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-16T19:12:05.706948+00:00",
+          "snapshotSha256": "31c44b0495eb466d4cbf8eacc811133dccf41ad1093537a6bd22a52ada2f8330"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "mochipan-9179290992895-image-46524586852607",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan_182_f57a286f-616d-447b-8d73-fc6e8e20dbe6.png?v=1755149791",
+          "sourceUrl": "https://mochipan.com/products/cropped-butter-sweater",
+          "sha256": "4e1bbb6ff138d0dbe5d259147afa0c6b9d4c32f18b0f374cde173f1b28d7a128",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9179290992895-image-46524586819839",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan_178_8007bf18-3e17-4c0d-9336-d3315b46b997.png?v=1760560828",
+          "sourceUrl": "https://mochipan.com/products/cropped-butter-sweater",
+          "sha256": "3f7658609dfff416acb306b5323e1e57ec4c580bbadc142402800454fd3c3674",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9175264002303-image-46524447097087",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan_194.jpg?v=1754893301",
+          "sourceUrl": "https://mochipan.com/products/layered-butter-skirt",
+          "sha256": "d71d1a5bf4cb885bbda0699c4aed43bb1a73cab1c8358e06ab8c6e241edb5304",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9175264002303-image-46524447129855",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan_197.jpg?v=1754893301",
+          "sourceUrl": "https://mochipan.com/products/layered-butter-skirt",
+          "sha256": "487bcfc6cfd8c2f283397d5be4c8cf62a4e9729db03f70a1c2bab7706ec01fa8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9335279845631-image-47421159178495",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan_1745.jpg?v=1768503234",
+          "sourceUrl": "https://mochipan.com/products/tea-roses-sweater",
+          "sha256": "7010933a2b62810ef75062c869e93c3667e986cc01bae6a7228cc9c79b133ddd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9335279845631-image-47421156753663",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan_Detail_0271.jpg?v=1768458853",
+          "sourceUrl": "https://mochipan.com/products/tea-roses-sweater",
+          "sha256": "90b48e53f7701b90d03001b2766ba501d7eb2a1d39eb65e719c7f136205e4b1e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9563346469119-image-48859249049855",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/SarahBowmanPhotography-Mochipan-Hydrangea-_39of190.jpg?v=1783230256",
+          "sourceUrl": "https://mochipan.com/products/hydrangea-dress-pre-order",
+          "sha256": "e3db5b65d9e1e3522542e462dd9f3c1a0a60d397752395dbfc094f29e36e950f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9563346469119-image-48859266941183",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/SarahBowmanPhotography-Mochipan-Hydrangea-_52of190.jpg?v=1783230374",
+          "sourceUrl": "https://mochipan.com/products/hydrangea-dress-pre-order",
+          "sha256": "9bdbc458b20e3e9acaff745baa35eee661474b02a8e24a251fa5abaf1727c137",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9551434547455-image-48749643268351",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochi_26_05_03-554.jpg?v=1782424158",
+          "sourceUrl": "https://mochipan.com/products/pre-order-dawn-dusk-jacket",
+          "sha256": "f2e85c4e3c581a6dcb7bfdd50b82631a1c51b144c031c429d3ddb94cafaace58",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9551434547455-image-48749643333887",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochi_26_05_03-548.jpg?v=1782424155",
+          "sourceUrl": "https://mochipan.com/products/pre-order-dawn-dusk-jacket",
+          "sha256": "48eb68ad3299afaefa68748afb42e00d989f1617cb81c0e8f47c182dad7683d5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8376825250047-image-44913963368703",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan-0960.png?v=1739252450",
+          "sourceUrl": "https://mochipan.com/products/artist-jacket",
+          "sha256": "e0dc84029db96d4c151193076dd0f93503ee1da453a9fb2f044e73d28ef070fa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8376825250047-image-44914014683391",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/artist_jacket_cover_white.png?v=1739252450",
+          "sourceUrl": "https://mochipan.com/products/artist-jacket",
+          "sha256": "29fcc6689013e9d6f2c6e023feb8ee73e68b11d9f56a18a911ad45b70e7cfa79",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9551429796095-image-48749667516671",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochi_26_05_03-512.jpg?v=1782424633",
+          "sourceUrl": "https://mochipan.com/products/pre-order-black-mushroom-skirt",
+          "sha256": "04a7796dabb9ed5e2ab01f04b77e639381839eb6f9e2bc981ba05c0f986a222f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9551429796095-image-48749667582207",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochi_26_05_03-515.jpg?v=1782424631",
+          "sourceUrl": "https://mochipan.com/products/pre-order-black-mushroom-skirt",
+          "sha256": "91667cd40c5e03d8c65bc17564fde4a37e6c8278e427cd786ba1a13aeccc49ed",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8944952672511-image-44407334928639",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Facetune_21-11-2024-14-58-57.heic?v=1752878548",
+          "sourceUrl": "https://mochipan.com/products/pre-order-lacebound-jacket",
+          "sha256": "75fb011f88c332a47d91a01e6a2c6556ef1609c84c363080eb8ae5a559a7b69e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8944952672511-image-44407351836927",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/jacket_explainer_karrigan.jpg?v=1732778532",
+          "sourceUrl": "https://mochipan.com/products/pre-order-lacebound-jacket",
+          "sha256": "c359d4b04d712fdeb6e0d6505df7918b7095637964ec5f0a8888ea0b4ec4d39c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8712245903615-image-44528607527167",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan-1159-4.jpg?v=1734502725",
+          "sourceUrl": "https://mochipan.com/products/strawberry-jam-sweater",
+          "sha256": "87090f5c0b485ce4c72fae66d9d6beaf7a4f0640b78acd2f3295e1afe7d6d2f8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8712245903615-image-44528607363327",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan-1153-4.jpg?v=1734502725",
+          "sourceUrl": "https://mochipan.com/products/strawberry-jam-sweater",
+          "sha256": "0d22c7082a466e8a1372cc8bf4acaaa2e30b3cd753dde26fb9ab6f5f18323503",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8846028833023-image-45932964577535",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Sarah_Bowman_Portraits_-_Mochipan_batch_2-48_1.jpg?v=1763592706",
+          "sourceUrl": "https://mochipan.com/products/monarch-cardigan",
+          "sha256": "717ccf55e24975b79b727a1988ddb2027b7eb2e4a2629a048150a23acaf126e2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8846028833023-image-47181772882175",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/monarch_cardigan_promo_4x5_173a846d-d77c-4657-a86e-00a3f8e46713.jpg?v=1763592706",
+          "sourceUrl": "https://mochipan.com/products/monarch-cardigan",
+          "sha256": "425436763e43363b4041c9c28e209d6919fc23101fa73e441594f1e734b7cd56",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8833203699967-image-44534076113151",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Mochipan-0162.jpg?v=1734557633",
+          "sourceUrl": "https://mochipan.com/products/cinnabar-moth-cardigan",
+          "sha256": "aaa4a0269b71faa17e8a6bd1264768a3299c303ac1974dbc7a88ea141024a6ff",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8833203699967-image-44534075982079",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/cover_1x1_66a47cf8-9bc4-4b94-974f-74d365e9b7ef.jpg?v=1734557633",
+          "sourceUrl": "https://mochipan.com/products/cinnabar-moth-cardigan",
+          "sha256": "bb2f5355c0bc9c148d2b420e9c69bd433c60e6323b79723327624fc91269ac16",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9503379357951-image-48477931045119",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Comet-1.webp?v=1779659140",
+          "sourceUrl": "https://mochipan.com/products/pre-order-comet-moth-cardigan",
+          "sha256": "690cb6310c62fa78ab9a7dd28c261910c72e56b9309a1d2999c5e8c3ea360fc5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9503379357951-image-48477931176191",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Comet-5.webp?v=1779659141",
+          "sourceUrl": "https://mochipan.com/products/pre-order-comet-moth-cardigan",
+          "sha256": "dca7e5af3681acb9c17d854c9adcab8c677a63402236d16ead7ffb0f26e24a31",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9503378473215-image-48477925441791",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Ghostly-1.webp?v=1779658984",
+          "sourceUrl": "https://mochipan.com/products/pre-order-ghostly-silk-moth-cardigan",
+          "sha256": "18347e6a814735da846c42ec231219e65c43d170dcb3292ed4dfb0b086c12f0f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9503378473215-image-48477925474559",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Ghostly-2.webp?v=1779658984",
+          "sourceUrl": "https://mochipan.com/products/pre-order-ghostly-silk-moth-cardigan",
+          "sha256": "023eb8953396e1d4bc2e049406ee0f63a044ad19551e153aa853631a7aef668d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9503378276607-image-48243373080831",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/SarahBowmanPhotography-MochipanSmithFleur-_77of150.jpg?v=1776830215",
+          "sourceUrl": "https://mochipan.com/products/pre-order-black-witch-moth-cardigan",
+          "sha256": "861df11197bdc6363efef1b042fdefe4b5cc27aa22c79be9798643d8bb30ef20",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-9503378276607-image-48243372851455",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/SarahBowmanPhotography-MochipanSmithFleur-_68of150.jpg?v=1776830214",
+          "sourceUrl": "https://mochipan.com/products/pre-order-black-witch-moth-cardigan",
+          "sha256": "424d0667baa307d9950d72d43c38757121fe504929cdff1f4d57f47d52d8aaf8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8826506379519-image-45933074186495",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Sarah_Bowman_Portraits_-_Mochipan_batch_2-39_1_1.jpg?v=1748502844",
+          "sourceUrl": "https://mochipan.com/products/rosy-maple-moth-cardigan",
+          "sha256": "3063cc7502c052617c5b98f18829ac03992408d52c7afd424ae25223edadbea0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "mochipan-8826506379519-image-45933074317567",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0213/6739/0308/files/Sarah_Bowman_Portraits_-_Mochipan_batch_2-40_2.jpg?v=1748502844",
+          "sourceUrl": "https://mochipan.com/products/rosy-maple-moth-cardigan",
+          "sha256": "40eeb3e7825552c2a5bf5da40d10f08b62fdda2850ef36e630c8ec578ec1341a",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 30
+    },
+    {
+      "source": "acdcrag",
+      "pages": [
+        {
+          "url": "https://acdcrag.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-16T19:12:13.129536+00:00",
+          "snapshotSha256": "bfcb5cd5bfdbeda6aea79fa5d8dc97cfb045c9ad17ad74b8d407b87f80430873"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "acdcrag-10431560679724-image-53667533848876",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-050-007-b_0.jpg?v=1787133593",
+          "sourceUrl": "https://acdcrag.com/products/pe-050-007-swaying-heart-short-pants-pastel-blue",
+          "sha256": "0ce71c98b690f8346cc4aefbe6a884b51a5991df059e3602d8c0643b9c34c018",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10431560679724-image-53667533881644",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-050-007-wh_1.jpg?v=1787133593",
+          "sourceUrl": "https://acdcrag.com/products/pe-050-007-swaying-heart-short-pants-pastel-blue",
+          "sha256": "b6266a843e07cd67fed9686e99304b3d79fe57e4c55f13f9f2bb1e69d1681745",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10431521063212-image-53667490529580",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-049-007-bl_0.jpg?v=1787132693",
+          "sourceUrl": "https://acdcrag.com/products/pe-049-007-swaying-heart-skirt-pastel-blue",
+          "sha256": "3b7ed7853e860fbf146e282d3fe33e10ebcd4f482a19306374617b6a4540264c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10431521063212-image-53667490562348",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-049-007-bl_1.jpg?v=1787132693",
+          "sourceUrl": "https://acdcrag.com/products/pe-049-007-swaying-heart-skirt-pastel-blue",
+          "sha256": "732748dd33361fea0da85a0bf06defb4d952892d4aba3b817ae28fc7ef5e8397",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10431518769452-image-53667456614700",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-048-007-bl_0.jpg?v=1787131817",
+          "sourceUrl": "https://acdcrag.com/products/pe-048-007-swaying-heart-hoodie-pastel-blue",
+          "sha256": "fc689c2c6d7d974243b65c5ae90dc33c7b01dd5b62688827c809789f43eabce1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10431518769452-image-53667456647468",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-048-007-bl_1.jpg?v=1787131817",
+          "sourceUrl": "https://acdcrag.com/products/pe-048-007-swaying-heart-hoodie-pastel-blue",
+          "sha256": "45167efd46fcad92cd63af0c5652c8ab41867e87be0125437d0cdf97d73c9257",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10431513854252-image-53667420045612",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-047-007-wh_0.jpg?v=1787130901",
+          "sourceUrl": "https://acdcrag.com/products/pe-047-007-swaying-heart-blouse-white-pastel-blue",
+          "sha256": "c777dd6bae78bef0d7d738cd2a1afaf4ab7a70bcd9b3f4c9f29ae41d6b7e6ce7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10431513854252-image-53667420078380",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-047-007-wh_1.jpg?v=1787130901",
+          "sourceUrl": "https://acdcrag.com/products/pe-047-007-swaying-heart-blouse-white-pastel-blue",
+          "sha256": "13cb2d32309776fef8e7abdf1de4ab3215cc65b826e5a97774a3eec86cf2e163",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10431505006892-image-53666900705580",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-046-007-bl_0.jpg?v=1787118592",
+          "sourceUrl": "https://acdcrag.com/products/swaying-heart-t-shirt-pastel-blue",
+          "sha256": "8b95bd2117dd4ff29ba925c486a3c779df837a802d1a4cf1fe9374a3f6f184a5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10431505006892-image-53666900738348",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-046-007-bl_1.jpg?v=1787118592",
+          "sourceUrl": "https://acdcrag.com/products/swaying-heart-t-shirt-pastel-blue",
+          "sha256": "151b814201292b9c6906c9c24714e7c381c983a5d26501c274b5789174c5189d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10404509319468-image-53522886492460",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/ngo-17_0.jpg?v=1784626498",
+          "sourceUrl": "https://acdcrag.com/products/pien-t-shirt-pink",
+          "sha256": "47beecf8f8cb2ba98d5e16f80d9dc567ca6b9899dc4e3aea47c76eed00ff42a0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10404508041516-image-53522883543340",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/ngo-15_0.jpg?v=1784626344",
+          "sourceUrl": "https://acdcrag.com/products/amechan-flash-long-sleeve",
+          "sha256": "9050276555ad0bc6fa20f52fe02c4cec42d3562c25713a32ff1983187f92a3fb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10404507025708-image-53522880135468",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/ngo-14_0.jpg?v=1784626228",
+          "sourceUrl": "https://acdcrag.com/products/amechan-punk-long-sleeve",
+          "sha256": "86a3c1a691532522b5b0472cb6bef60d42945b82adb071ef54657850f5f60e9e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10404490969388-image-53522878824748",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/ngo-13_0.jpg?v=1784626166",
+          "sourceUrl": "https://acdcrag.com/products/amechan-wash-t-shirt",
+          "sha256": "8142662611d12004b014b9879e3b980dcf2cd8e3da2ad7ecf43fbfbd9322acec",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10404485038380-image-53522829246764",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/ngo-11_0.jpg?v=1784624217",
+          "sourceUrl": "https://acdcrag.com/products/rain-hoodie",
+          "sha256": "c9fe5acf9a8abd54063d15132e96970b4185f076be807988369585118bfc5241",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10404476158252-image-53522798969132",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/ngo-09_0.jpg?v=1784623655",
+          "sourceUrl": "https://acdcrag.com/products/internet-web-t-shirt",
+          "sha256": "d257c44b3f0775ffff540566f1605c84912b63191cc3068d4476bec9d5ef644d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10404473372972-image-53522792874284",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/ngo-06_0.jpg?v=1784623335",
+          "sourceUrl": "https://acdcrag.com/products/devil-syndrome-t-shirt",
+          "sha256": "eaaacb32779383a1007f9beec690f33d6296db9271125f81d7215f087870b666",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10404471079212-image-53522783240492",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/ngo-08_0.jpg?v=1784623066",
+          "sourceUrl": "https://acdcrag.com/products/amechan-smoke-t-shirt-red-ver",
+          "sha256": "5af954729b160d057b2f9bee6e16169c35afd1ee1a5569a33a7014edd417677f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10412107596076-image-53591595385132",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-061-02_0_8898433c-f014-4aec-a7a4-a589133d180d.jpg?v=1785809147",
+          "sourceUrl": "https://acdcrag.com/products/pe-061-02-piano-4-layers-skirt",
+          "sha256": "19a0b910aa30c2829302b053dd55608851ba0828602758d7c4a9eb1a7b5edff3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10412107596076-image-53591555703084",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-061-02_1.jpg?v=1785809063",
+          "sourceUrl": "https://acdcrag.com/products/pe-061-02-piano-4-layers-skirt",
+          "sha256": "e0998f94de5772fae204b9da922f8b302defaa041f5bcaf1281b375d678b0df3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10412095635756-image-53585814585644",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-050-01_0_e6df321b-d642-4d00-ab91-fae7d7c7009a.jpg?v=1785724095",
+          "sourceUrl": "https://acdcrag.com/products/pe-050-02-piano-jamper-skirt",
+          "sha256": "5292ca1d0b8b0d9662ea08cbc1be7d05ce4c2596b7ba634b123c5cd30c1d946b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "acdcrag-10412095635756-image-53585791942956",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0257/3939/5175/files/pe-050-01_1.jpg?v=1785723990",
+          "sourceUrl": "https://acdcrag.com/products/pe-050-02-piano-jamper-skirt",
+          "sha256": "4c1ea6692a1d621890f07600f92e54de4e7b5c8d648eb0ef2d28dae983fe0027",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 22
+    }
+  ]
+}

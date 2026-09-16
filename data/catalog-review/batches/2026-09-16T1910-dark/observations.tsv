@@ -1,0 +1,116 @@
+ordinal	view	build	shoulderHip	waist	evidence
+0	detail	?	?	?	Leather trousers shown without shoulders.
+1	detail	?	?	?	Second leather-trouser crop without upper body.
+2	detail	?	?	?	Lace shorts crop omits upper torso.
+3	detail	?	?	?	Side lace shorts crop without shoulders.
+4	detail	?	?	?	Leopard trousers shown below waist.
+5	back	?	?	?	Rear leopard-trouser crop.
+6	detail	?	?	?	Ruffled shorts and legs without upper torso.
+7	detail	?	?	?	Closer ruffled-shorts detail.
+8	full	1	?	?	Narrow bare arms and legs support build; held flared lace garment hides waist and hips.
+9	reject	?	?	?	Repeated lace outfit with hands lifted to shoulders.
+10	detail	?	?	?	Lace underwear close-up without torso.
+11	detail	?	?	?	Angled underwear view cuts off shoulders.
+12	detail	?	?	?	Lace underwear product close-up.
+13	detail	?	?	?	Lower-body underwear view without shoulders.
+14	full	1.5	?	?	Narrow arms and legs support build; laced structured bodice and gathered skirt conceal natural shape.
+15	back	?	?	?	Rear laced-dress view.
+16	detail	?	?	?	Buckled trousers crop without upper torso.
+17	detail	?	?	?	Side buckled-trouser crop.
+18	reject	?	?	?	Text-only dress-size selection graphic.
+19	reject	?	?	?	Text-only top-size selection graphic.
+20	full	1.5	?	?	Narrow arms and legs support build; high structured collar and stiff vest obscure natural shape.
+21	partial	3	?	?	Broad bare arms support build; raised arm and stiff high-collar vest obscure proportions.
+22	full	3	0	?	Bare arms and close lower dress show broad build and similar shoulder and hip span; stiff vinyl bodice limits waist judgment.
+23	back	?	?	?	Rear three-quarter vinyl-dress view.
+24	partial	?	?	?	Loose white blouse covers arms and torso; body outline is insufficiently visible.
+25	reject	?	?	?	Angled repeat of loose white blouse.
+26	partial	1.5	?	?	Close sleeves and narrow frame support build; ruched blouse and flared skirt obscure natural contours.
+27	reject	?	?	?	Side repeat of ruched black blouse.
+28	partial	3	?	?	Bare upper arms support broad build; structured vest and pleated skirt conceal natural proportions.
+29	back	?	?	?	Rear black vest view.
+30	reject	?	?	?	Tight corset crop repeats fuller garment view 31.
+31	full	1.5	?	?	Bare arms support narrow build; tilted torso and crossed legs limit shoulder-hip comparison and corset conceals waist.
+32	partial	2.5	?	?	Bare arms support build; crop omits full hip contour and stiff shaped leather bodice obscures waist.
+33	reject	?	?	?	Repeated leather-bodice outfit with zipper open.
+34	full	2	?	?	Bare arms support build; crossed-leg and tilted-hip pose prevent balance assessment and laced bodice conceals waist.
+35	detail	?	?	?	Laced-trouser detail without upper torso.
+36	detail	?	?	?	Ruffled-skirt crop omits shoulders.
+37	detail	?	?	?	Closer ruffled-skirt detail without upper torso.
+38	partial	?	?	?	Loose sweatshirt and wide trousers hide body contours.
+39	full	3	?	1	Bare upper arms and close tank show broad build and moderate taper; loose trousers conceal hip edges.
+40	detail	?	?	?	Cropped capri-trouser outfit omits shoulders.
+41	detail	?	?	?	Angled capri-trouser crop omits shoulders.
+42	partial	?	?	?	Held hood and long loose cardigan obscure torso and arms.
+43	partial	?	?	?	Closed dark cardigan and bent arms obscure natural contours.
+44	reject	?	?	?	Angled blouse view repeats clearer front view 45.
+45	partial	1.5	?	?	Narrow bare forearms support build; loose long blouse conceals waist and hips.
+46	reject	?	?	?	Cropped ruffled-skirt outfit repeats fuller front view 47.
+47	full	1.5	?	?	Narrow visible forearms and frame support build; structured bodice and tiered skirt obscure shape.
+48	partial	2.5	?	?	Visible thighs support approximate build; bulky hoodie conceals torso contours.
+49	reject	?	?	?	Dark glow-effect product graphic lacks a readable outfit or body.
+50	full	3	?	?	Bare arms and legs support broad build; held-out loose dress hides torso shape.
+51	partial	1.5	?	?	Narrow bare arms support build; held loose dress conceals waist and hips.
+52	partial	1.5	?	1	Close upper dress and sheer sleeves show moderate taper; held flared skirt hides hips.
+53	detail	?	?	?	Skort lining close-up omits shoulders.
+54	partial	3	?	?	Visible thighs and broad overall frame support build; bulky cardigan hides torso proportions.
+55	partial	1.5	?	?	Narrow visible thighs support build; bulky cardigan conceals torso shape.
+56	partial	1.5	?	1	Bare arms and close camisole show moderate taper; tiered skirt conceals hips.
+57	reject	?	?	?	Angled repeat of camisole and tiered skirt.
+58	reject	?	?	?	Cropped lace-top outfit better represented by full view 59.
+59	full	3	?	?	Close lace sleeves and exposed thighs support broad build; loose shorts and hands at waist obscure shape.
+60	partial	1.5	?	1	Bare arms and close black top show moderate taper; draped wide trousers conceal hips.
+61	full	1.5	?	?	Bare arms support build; flared strapless top and wide trousers obscure body contours.
+62	full	1.5	?	1	Bare arms and close bodice show moderate taper; wide gathered jumpsuit hides hips.
+63	reject	?	?	?	Repeated black jumpsuit and pose.
+64	reject	?	?	?	Crop repeats strapless top outfit already represented by 61.
+65	partial	2	?	?	Bare arms support build; turned pose and flared strapless top hide shape.
+66	partial	?	?	?	Loose skeleton sweater and dark trousers obscure body contours.
+67	partial	?	?	?	Loose skeleton sweater and dark trousers obscure body contours.
+68	partial	1.5	?	?	Narrow bare forearms support build; long tee conceals waist and hips.
+69	reject	?	?	?	Side repeat of graphic tee.
+70	partial	2.5	?	?	Visible arms and thighs support build; puff sleeves and structured striped bodice conceal shape.
+71	partial	1.5	?	?	Narrow visible forearms support build; tight crop and structured puff-sleeve bodice obscure natural proportions.
+72	detail	?	?	?	Skeleton trousers shown without upper body.
+73	detail	?	?	?	Second skeleton-trouser crop without shoulders.
+74	partial	2.5	?	?	Exposed thighs support approximate build; oversized cardigan hides torso contours.
+75	detail	?	?	?	Cardigan displayed without a person.
+76	detail	?	?	?	Embroidered blazer displayed flat.
+77	partial	3	?	?	Visible lower legs and broad overall frame support build; oversized blazer and skirt hide shape.
+78	detail	?	?	?	Sword-print joggers shown without shoulders.
+79	detail	?	?	?	Second jogger crop omits upper torso.
+80	full	2.5	?	1	Bare arms and exposed waist show moderate taper; tilted shoulder and hip pose prevents confident balance label.
+81	reject	?	?	?	Repeated crop-top and shorts outfit with elbows lifted.
+82	partial	?	?	?	Structured military jacket hides arms and natural torso shape.
+83	detail	?	?	?	Military-jacket fastening close-up.
+84	partial	1.5	?	?	Narrow bare arms support build; belted lower torso and tight hip crop obscure shape.
+85	reject	?	?	?	Angled mesh-sleeve top crop repeats full outfit 87.
+86	reject	?	?	?	Second angled top crop repeats full outfit 87.
+87	full	3	?	1	Close top and sheer sleeves support broad build and moderate taper; wide trousers conceal hips.
+88	detail	?	?	?	Side leggings crop without shoulders.
+89	full	2.5	0	1	Bare arms, exposed middle and fitted leggings show similar shoulder and hip span with moderate taper.
+90	detail	?	?	?	Second side leggings crop without torso.
+91	back	?	?	?	Rear leggings crop.
+92	full	2.5	?	?	Visible legs and overall frame support build; loose shirt and skirt hide natural torso shape.
+93	reject	?	?	?	Repeated cathedral-print shirt outfit.
+94	reject	?	?	?	Angled cathedral-print shirt crop repeats clearer front view 95.
+95	partial	1.5	?	?	Narrow overall frame and fitted trousers support build; long shirt conceals waist and hip edges.
+96	partial	?	?	?	Loose sweater covers arms and torso; tight lower crop limits body judgment.
+97	back	?	?	?	Rear spiderweb sweater view.
+98	partial	?	?	?	Loose long sweater hides arms and torso contours.
+99	reject	?	?	?	Repeated spiderweb-sweater outfit.
+100	partial	1.5	?	?	Narrow fitted upper legs support approximate build; long loose sweater conceals torso.
+101	partial	?	?	?	Long loose snake sweater hides body contours.
+102	back	?	?	?	Rear snake-sweater view.
+103	detail	?	?	?	Neckline and chest print close-up without hips.
+104	back	?	?	?	Rear snake-sweater view.
+105	reject	?	?	?	Portrait crop repeats snake-sweater outfit better represented by 106.
+106	full	1.5	?	?	Narrow visible legs support approximate build; loose sweater and layered lace skirt hide shape.
+107	reject	?	?	?	Cropped red-cardigan outfit better represented by full view 108.
+108	full	1.5	?	?	Narrow fitted trousers and overall frame support build; angled pose and cardigan obscure torso shape.
+109	full	2	?	?	Fitted trousers and visible overall frame support build; open cardigan obscures shoulder and waist contours.
+110	full	1.5	?	?	Narrow visible legs and frame support build; cardigan and mesh layers obscure torso contours.
+111	reject	?	?	?	Cropped gray-cardigan outfit better represented by full view 112.
+112	full	1.5	?	?	Narrow fitted legs support build; long thick cardigan conceals torso proportions.
+113	partial	2	?	?	Close trousers and visible middle support build; cardigan hides shoulders and hip edges.
+114	reject	?	?	?	Repeated gray-cardigan outfit.

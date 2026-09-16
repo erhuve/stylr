@@ -1,0 +1,106 @@
+ordinal	view	build	shoulderHip	waist	evidence
+0	detail	?	?	?	Printed sweatshirt close-up omits shoulders and lower torso.
+1	detail	?	?	?	Printed sweatshirt detail only.
+2	detail	?	?	?	Floral trousers displayed flat without a person.
+3	seated	2	?	?	Bare arms support build; seated crop and raised knee obscure standing torso proportions.
+4	detail	?	?	?	Printed skirt displayed flat.
+5	reject	?	?	?	Skirt size graphic is not an outfit photo.
+6	detail	?	?	?	Pastel printed skirt displayed flat.
+7	detail	?	?	?	Green floral skirt displayed flat.
+8	detail	?	?	?	Yellow floral skirt displayed flat.
+9	detail	?	?	?	Dark botanical skirt displayed flat.
+10	detail	?	?	?	Purple printed trousers displayed flat.
+11	detail	?	?	?	Dark blue floral trousers displayed flat.
+12	reject	?	?	?	Near-identical seated stair photo already retained at ordinal 3.
+13	detail	?	?	?	Green botanical trousers displayed flat.
+14	reject	?	?	?	Trouser measurement chart is not an outfit photo.
+15	detail	?	?	?	Purple botanical trousers displayed flat.
+16	detail	?	?	?	Yellow floral trousers displayed flat.
+17	reject	?	?	?	Repeated trouser measurement chart.
+18	detail	?	?	?	Teal floral trousers displayed flat.
+19	detail	?	?	?	Red botanical trousers displayed flat.
+20	reject	?	?	?	Same seated stair photo reused across product pages.
+21	detail	?	?	?	Green floral trousers displayed flat.
+22	reject	?	?	?	Repeated seated stair photo already retained at 3.
+23	partial	2	?	?	Bare upper arms support build; shaped bodice and tiered tulle skirt obscure natural proportions.
+24	back	?	?	?	Rear pink tulle-dress view.
+25	reject	?	?	?	Tight raised-hand cardigan crop repeats fuller view 26.
+26	partial	2	?	?	Visible thighs and close cardigan support build; angled pose and flared skirt obscure shape.
+27	partial	?	?	?	Bulky jacket and tulle dress hide arms and torso contours.
+28	reject	?	?	?	Repeated heart-print jacket and tulle dress.
+29	partial	1.5	?	?	Narrow bare arms support build; folded forearms and tiered dress obscure waist and hips.
+30	reject	?	?	?	Side repeat of lavender tulle dress.
+31	reject	?	?	?	Side hood-and-wings promotional detail lacks a clear outfit view.
+32	partial	2	?	1	Close hoodie sleeves and upper torso show moderate taper; pleated skirt conceals hips.
+33	detail	?	?	?	Pink trouser crop omits shoulders.
+34	detail	?	?	?	Pink trouser crop omits shoulders and upper torso.
+35	partial	3	?	1	Close sheer sleeves and fitted tee show broad build and moderate taper; turned torso prevents balance label.
+36	back	?	?	?	Rear mesh-top view.
+37	partial	3	?	?	Broad bare arms support build; held-out loose shirt dress obscures shape.
+38	reject	?	?	?	Raised-hand repeat of black shirt dress.
+39	partial	1.5	?	?	Narrow bare forearms support build; loose lavender shirt dress obscures waist and hips.
+40	reject	?	?	?	Repeated lavender shirt dress.
+41	partial	1.5	?	?	Narrow bare arms support build; loose pink shirt dress obscures shape.
+42	reject	?	?	?	Repeated pink shirt dress.
+43	partial	2.5	?	1	Bare arms and close polka-dot top show moderate taper; pleated skirt hides hips.
+44	detail	?	?	?	Skirt-focused crop omits shoulders and upper chest.
+45	detail	?	?	?	Pleated-skirt crop omits shoulders.
+46	detail	?	?	?	Skort lining detail without upper torso.
+47	partial	2	?	1	Bare arms and fitted polka-dot top show moderate taper; pleated skirt conceals hips.
+48	reject	?	?	?	Tighter crop repeats pink-skirt outfit from 47.
+49	partial	2.5	?	1	Close mesh sleeves and fitted lilac tee show moderate taper; pleated skirt conceals hips.
+50	partial	2	?	1	Visible arms and fitted pink top show moderate taper; raised arm and skirt obscure shoulder-hip balance.
+51	partial	1.5	?	1	Visible arms and close white tee show moderate taper; pleated skirt conceals hips.
+52	partial	1.5	?	1	Bare arms and fitted aqua top show moderate taper; crop stops before full hip contour.
+53	reject	?	?	?	Cropped butter-themed layers repeat full view 55.
+54	reject	?	?	?	Second cropped butter-themed outfit repeats full view 55.
+55	full	2.5	?	?	Visible legs and overall frame support build; billowing sleeves and layered skirt conceal shape.
+56	reject	?	?	?	Same butter-themed outfit with skirt held outward.
+57	full	2	?	?	Visible hands and overall frame support approximate build; loose sleeves and tiered long skirt conceal shape.
+58	detail	?	?	?	Sweatshirt embroidery close-up.
+59	partial	1	?	?	Narrow bare arms support build; ribbon waist and flared dress obscure natural shape.
+60	reject	?	?	?	Repeated pale-blue dress with similar framing.
+61	partial	2	?	?	Visible thighs support build; bulky hoodie and flared skirt obscure torso contours.
+62	back	?	?	?	Rear multicolored hoodie view.
+63	partial	?	?	?	Oversized jacket and cropped skirt hide body contours.
+64	reject	?	?	?	Promotional two-view jacket collage rather than a single reference photo.
+65	partial	2	?	?	Visible arms and thighs support build; gathered blouse and held flared skirt conceal proportions.
+66	detail	?	?	?	Mushroom-skirt side detail without shoulders.
+67	partial	1.5	?	?	Narrow visible thigh supports approximate build; oversized jacket hides torso.
+68	reject	?	?	?	Annotated duplicate of jacket photo 67.
+69	partial	2	?	?	Visible legs support approximate build; oversized red hoodie obscures torso contours.
+70	reject	?	?	?	Repeated red hoodie with hem lifted.
+71	full	?	?	?	Spread butterfly cloak and long layered skirt conceal torso and limbs.
+72	reject	?	?	?	Decorated rear-view promotional graphic.
+73	full	2	?	?	Bare legs and exposed middle support build; spread cardigan obscures shoulders.
+74	reject	?	?	?	Annotated duplicate of moth-cardigan photo 73.
+75	full	?	?	?	Spread oversized cardigan and loose trousers obscure body outline.
+76	reject	?	?	?	Repeated yellow moth cardigan with open front.
+77	full	?	?	?	Oversized moth cardigan and long skirt conceal torso and limbs.
+78	reject	?	?	?	Tighter repeated white-moth cardigan view.
+79	reject	?	?	?	Cropped purple-moth outfit better represented by 80.
+80	partial	1.5	?	?	Narrow visible legs support approximate build; oversized cardigan conceals torso.
+81	full	1.5	?	?	Narrow fitted legs support build; spread cardigan conceals shoulders and torso contours.
+82	detail	?	?	?	Pink cardigan color and button close-up.
+83	detail	?	?	?	Lace shorts crop without shoulders.
+84	full	1.5	?	?	Narrow visible legs support build; structured blouse and loose shorts obscure body proportions.
+85	partial	1.5	?	?	Narrow visible legs and frame support build; layered blouse and held flared dress conceal shape.
+86	reject	?	?	?	Two-person seated outfit scene.
+87	partial	?	?	?	Oversized hoodie and cropped lower body conceal contours.
+88	reject	?	?	?	Two-person seated hoodie scene.
+89	reject	?	?	?	Cropped white-blouse outfit already represented by full view 84.
+90	reject	?	?	?	Two-person dress photo lacks a single reference subject.
+91	partial	1.5	?	?	Narrow visible forearms and legs support build; oversized tee hides torso shape.
+92	reject	?	?	?	Two-person seated tee scene.
+93	reject	?	?	?	Pink tee product rendering without a person.
+94	reject	?	?	?	Black long-sleeve product rendering without a person.
+95	reject	?	?	?	Printed sweatshirt product rendering without a person.
+96	reject	?	?	?	Black tee product rendering without a person.
+97	reject	?	?	?	Two-view hoodie product rendering without a person.
+98	reject	?	?	?	White tee product rendering without a person.
+99	reject	?	?	?	Purple-print tee product rendering without a person.
+100	reject	?	?	?	Red-print tee product rendering without a person.
+101	detail	?	?	?	Piano-skirt close-up omits shoulders.
+102	full	1.5	?	?	Narrow bare legs and forearms support build; structured blouse and flared skirt obscure shape.
+103	reject	?	?	?	Piano-pinafore crop better represented by full view 104.
+104	full	1.5	?	?	Narrow bare arms and legs support build; layered blouse and flared pinafore obscure torso contours.

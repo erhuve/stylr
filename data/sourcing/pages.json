@@ -1,5 +1,83 @@
 [
   {
+    "sourceUrl": "https://acdcrag.com/products/amechan-flash-long-sleeve",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10404508041516-image-53522883543340"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/amechan-punk-long-sleeve",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10404507025708-image-53522880135468"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/amechan-smoke-t-shirt-red-ver",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10404471079212-image-53522783240492"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/amechan-wash-t-shirt",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10404490969388-image-53522878824748"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/devil-syndrome-t-shirt",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10404473372972-image-53522792874284"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/internet-web-t-shirt",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10404476158252-image-53522798969132"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://acdcrag.com/products/jr-15sj-02-rib-angel-sailor-jacket",
     "source": "acdcrag",
     "candidateIds": [
@@ -502,6 +580,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://acdcrag.com/products/pe-047-007-swaying-heart-blouse-white-pastel-blue",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10431513854252-image-53667420045612",
+      "acdcrag-10431513854252-image-53667420078380"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/pe-048-007-swaying-heart-hoodie-pastel-blue",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10431518769452-image-53667456614700",
+      "acdcrag-10431518769452-image-53667456647468"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://acdcrag.com/products/pe-048-007-swaying-heart-hoodie-red",
     "source": "acdcrag",
     "candidateIds": [
@@ -530,6 +636,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://acdcrag.com/products/pe-049-007-swaying-heart-skirt-pastel-blue",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10431521063212-image-53667490529580",
+      "acdcrag-10431521063212-image-53667490562348"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://acdcrag.com/products/pe-050-007-swaying-heart-short-pants-black",
     "source": "acdcrag",
     "candidateIds": [
@@ -538,6 +658,34 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16T1825-street/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/pe-050-007-swaying-heart-short-pants-pastel-blue",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10431560679724-image-53667533848876",
+      "acdcrag-10431560679724-image-53667533881644"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/pe-050-02-piano-jamper-skirt",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10412095635756-image-53585791942956",
+      "acdcrag-10412095635756-image-53585814585644"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -568,6 +716,20 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/pe-061-02-piano-4-layers-skirt",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10412107596076-image-53591555703084",
+      "acdcrag-10412107596076-image-53591595385132"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -666,6 +828,46 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/pien-t-shirt-pink",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10404509319468-image-53522886492460"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/rain-hoodie",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10404485038380-image-53522829246764"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://acdcrag.com/products/swaying-heart-t-shirt-pastel-blue",
+    "source": "acdcrag",
+    "candidateIds": [
+      "acdcrag-10431505006892-image-53666900705580",
+      "acdcrag-10431505006892-image-53666900738348"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -1048,6 +1250,76 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-basic-black",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031685595329-image-50748279980225",
+      "bigbudpress-11031685595329-image-50748280045761"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-construction-orange",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031147380929-image-50748261826753",
+      "bigbudpress-11031147380929-image-50748261892289"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-hunter-green",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031147479233-image-50748267069633",
+      "bigbudpress-11031147479233-image-50748267135169"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-mustang-red",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031146496193-image-50748269789377",
+      "bigbudpress-11031146496193-image-50748269854913"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-nebula-purple",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031147708609-image-50748275261633",
+      "bigbudpress-11031147708609-image-50748275327169"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-basic-black",
     "source": "bigbudpress",
     "candidateIds": [
@@ -1084,6 +1356,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16T1820-diversity/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/cropped-tank-veggie-village",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041114194113-image-50833815339201",
+      "bigbudpress-11041114194113-image-50833815404737"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -1404,6 +1690,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://bigbudpress.com/products/mini-crop-tank-vintage-tee-white",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031147806913-image-50748277686465",
+      "bigbudpress-11031147806913-image-50748277752001"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://bigbudpress.com/products/mini-tank-red-wine",
     "source": "bigbudpress",
     "candidateIds": [
@@ -1597,6 +1897,48 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-banana",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041107247297-image-50832883450049",
+      "bigbudpress-11041107247297-image-50832883515585"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-cherry",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041106854081-image-50832942301377",
+      "bigbudpress-11041106854081-image-50832942366913"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-garlic",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041107935425-image-50833707466945",
+      "bigbudpress-11041107935425-image-50833707532481"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
+  },
+  {
     "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-grape",
     "source": "bigbudpress",
     "candidateIds": [
@@ -1608,6 +1950,90 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-habanero",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041107181761-image-50833502634177",
+      "bigbudpress-11041107181761-image-50833502699713"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-onion",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041108099265-image-50833710284993",
+      "bigbudpress-11041108099265-image-50833710350529"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-orange",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041107083457-image-50833028677825",
+      "bigbudpress-11041107083457-image-50833028743361"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-scallions",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041107574977-image-50833809244353",
+      "bigbudpress-11041107574977-image-50833809309889"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-snap-peas",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041107443905-image-50833521803457",
+      "bigbudpress-11041107443905-image-50833521868993"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-strawberry",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11041084408001-image-50833066590401",
+      "bigbudpress-11041084408001-image-50833066655937"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -1636,6 +2062,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/railroad-denim-work-pants-burnt-terracotta",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031145316545-image-50748102213825",
+      "bigbudpress-11031145316545-image-50748102279361"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
   },
   {
@@ -1910,6 +2350,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-burnt-terracotta",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031541645505-image-50745097420993",
+      "bigbudpress-11031541645505-image-50745097486529"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-red-wine",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031538630849-image-50745024643265",
+      "bigbudpress-11031538630849-image-50745024708801"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-royal-blue",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11031542890689-image-50745042206913",
+      "bigbudpress-11031542890689-image-50745042272449"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-sunshine-yellow",
     "source": "bigbudpress",
     "candidateIds": [
@@ -2179,6 +2661,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://forestinkclothing.com/products/alice-leggings",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-8984577179883-image-46343270400235",
+      "forestink-8984577179883-image-46343270629611"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://forestinkclothing.com/products/alice-long-sleeve-top",
     "source": "forestink",
     "candidateIds": [
@@ -2290,6 +2786,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://forestinkclothing.com/products/carrie-button-up-top",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9138750161131-image-47145157984491",
+      "forestink-9138750161131-image-47145158050027"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://forestinkclothing.com/products/clara-milkmaid-mini-dress",
     "source": "forestink",
     "candidateIds": [
@@ -2371,6 +2881,33 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/dress",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9282069201131-image-47609991692523"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/drumline-top",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9102529036523-image-47826037539051",
+      "forestink-9102529036523-image-47826037604587"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -2528,6 +3065,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://forestinkclothing.com/products/isabella-bloomers",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9199085158635-image-47449808765163",
+      "forestink-9199085158635-image-47449808994539"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://forestinkclothing.com/products/lake-of-fire-babydoll-dress",
     "source": "forestink",
     "candidateIds": [
@@ -2542,6 +3093,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://forestinkclothing.com/products/lenore-babydoll-top",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9199084732651-image-47449795526891",
+      "forestink-9199084732651-image-47449795625195"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/lenore-butterfly-panty",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9199084241131-image-47449781043435",
+      "forestink-9199084241131-image-47449781108971"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://forestinkclothing.com/products/lenore-garter-skirt",
     "source": "forestink",
     "candidateIds": [
@@ -2552,6 +3131,34 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 0,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/lenore-high-waisted-panty",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9199077753067-image-47449694896363",
+      "forestink-9199077753067-image-47449694961899"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/leopard-alice-flare-pants",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9292905873643-image-47734251356395",
+      "forestink-9292905873643-image-47734251421931"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
@@ -2598,6 +3205,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://forestinkclothing.com/products/maiden-maxi-dress",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9199075393771-image-47449654952171",
+      "forestink-9199075393771-image-47691424956651"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/manhattan-dress-shirt",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9138809012459-image-47825946018027",
+      "forestink-9138809012459-image-47825946050795"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://forestinkclothing.com/products/melancholia-skinny-pants",
     "source": "forestink",
     "candidateIds": [
@@ -2609,6 +3244,34 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/millie-bloomers",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-8984575213803-image-46827677057259",
+      "forestink-8984575213803-image-46827795513579"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/mistress-mini-dress",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9138823135467-image-47145493725419",
+      "forestink-9138823135467-image-47145493790955"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -2640,6 +3303,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://forestinkclothing.com/products/opium-behemoth-pants",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9294004551915-image-47740952609003",
+      "forestink-9294004551915-image-47740952674539"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/opium-corset",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9102502527211-image-46796899746027",
+      "forestink-9102502527211-image-46796906889451"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://forestinkclothing.com/products/opium-flare-pants",
     "source": "forestink",
     "candidateIds": [
@@ -2651,6 +3342,20 @@
     ],
     "reviewedCandidates": 0,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/opium-vest",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9102500626667-image-46934972924139",
+      "forestink-9102500626667-image-46941598712043"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -2766,6 +3471,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://forestinkclothing.com/products/poet-bloomers",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9298688704747-image-47777660371179",
+      "forestink-9298688704747-image-47777660403947"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://forestinkclothing.com/products/ramona-babydoll-dress",
     "source": "forestink",
     "candidateIds": [
@@ -2819,6 +3538,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/salem-flare-pants",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9204039942379-image-47486061314283",
+      "forestink-9204039942379-image-47486061379819"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -2906,6 +3639,19 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://forestinkclothing.com/products/top",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-8959874859243-image-46823776321771"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://forestinkclothing.com/products/umber-corset",
     "source": "forestink",
     "candidateIds": [
@@ -2928,6 +3674,20 @@
     ],
     "manifests": [
       "data/catalog-review/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://forestinkclothing.com/products/video-vixen-top",
+    "source": "forestink",
+    "candidateIds": [
+      "forestink-9138836111595-image-47145522659563",
+      "forestink-9138836111595-image-47145522725099"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
@@ -3004,6 +3764,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://foxblood.com/products/9-lives-pull-over-cardigan-black-glow",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-7484287516864-image-36447571116224",
+      "foxblood-7484287516864-image-36455742668992"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://foxblood.com/products/amora-jacket",
     "source": "foxblood",
     "candidateIds": [
@@ -3060,6 +3834,34 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://foxblood.com/products/bianca-jumpsuit",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8618320658624-image-56238321729728",
+      "foxblood-8618320658624-image-56238321762496"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/black-wide-leg-sweatpants",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8573857923264-image-55727975661760",
+      "foxblood-8573857923264-image-56875899879616"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://foxblood.com/products/broken-doll-dress",
     "source": "foxblood",
     "candidateIds": [
@@ -3071,6 +3873,62 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/carnival-corset-top-red",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8245230272704-image-46418508906688",
+      "foxblood-8245230272704-image-46568006582464"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/collar-cardigan",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-7940254728384-image-38823554875584",
+      "foxblood-7940254728384-image-38823554908352"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/cotton-candy-ruffle-skort-licorice",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8600155521216-image-55586852765888",
+      "foxblood-8600155521216-image-55586852831424"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/croft-shorts",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8550945358016-image-55725072777408",
+      "foxblood-8550945358016-image-55725072810176"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -3110,6 +3968,20 @@
     ],
     "manifests": [
       "data/catalog-review/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/dee-dee-dress",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-6663381975232-image-28906246308032",
+      "foxblood-6663381975232-image-40746564288704"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
@@ -3186,6 +4058,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://foxblood.com/products/flowing-tube-top",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8639443796160-image-56621935755456",
+      "foxblood-8639443796160-image-56621996703936"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://foxblood.com/products/foxblood-bondage-crop-tee",
     "source": "foxblood",
     "candidateIds": [
@@ -3198,6 +4084,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/foxblood-x-stega666-halloween-tee",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8258318139584-image-45945476317376",
+      "foxblood-8258318139584-image-45945476382912"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://foxblood.com/products/fuzzy-teddy-3-piece-lounge-set-w-shorts",
@@ -3239,6 +4139,20 @@
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/grey-black-skeleton-thermal-top-unisex",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8136776155328-image-42104212390080",
+      "foxblood-8136776155328-image-42380700287168"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 0
   },
   {
@@ -3424,6 +4338,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://foxblood.com/products/margaret-maxi-skirt",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8534492315840-image-55560225063104",
+      "foxblood-8534492315840-image-55560225095872"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://foxblood.com/products/memphis-oversized-shirt",
     "source": "foxblood",
     "candidateIds": [
@@ -3463,6 +4391,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/mini-tennis-skirt-with-built-in-shorts",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-7036737323200-image-57012859338944",
+      "foxblood-7036737323200-image-57012865925312"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -3530,6 +4472,34 @@
     ],
     "manifests": [
       "data/catalog-review/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/rat-cardigan",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8241459069120-image-45946431570112",
+      "foxblood-8241459069120-image-46205410541760"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/reserve-2-0-long-sleeve-cardigan-hoodie",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-7691383111872-image-37065864184000",
+      "foxblood-7691383111872-image-37069901725888"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
@@ -3606,6 +4576,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://foxblood.com/products/short-sleeve-memphis-oversized-shirt",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8612017340608-image-56202006724800",
+      "foxblood-8612017340608-image-56202006757568"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://foxblood.com/products/short-sleeve-mesh-memphis-oversized-shirt",
     "source": "foxblood",
     "candidateIds": [
@@ -3676,6 +4660,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://foxblood.com/products/signature-capri-leggings",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8667296530624-image-57541633245376",
+      "foxblood-8667296530624-image-57542573850816"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://foxblood.com/products/signature-handkerchief-skirt",
     "source": "foxblood",
     "candidateIds": [
@@ -3718,6 +4716,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://foxblood.com/products/skeleton-thermal-joggers",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-7964742090944-image-39187654967488",
+      "foxblood-7964742090944-image-39188070301888"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://foxblood.com/products/the-boogie-man-pull-over-cardigan-green-glow",
     "source": "foxblood",
     "candidateIds": [
@@ -3729,6 +4741,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/thorne-blazer",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8218402947264-image-45737467412672",
+      "foxblood-8218402947264-image-46212446552256"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -3768,6 +4794,20 @@
     ],
     "manifests": [
       "data/catalog-review/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://foxblood.com/products/wide-leg-wrap-pants",
+    "source": "foxblood",
+    "candidateIds": [
+      "foxblood-8587558748352-image-56238751121600",
+      "foxblood-8587558748352-image-56621937361088"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
@@ -4680,6 +5720,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://mochipan.com/products/artist-jacket",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-8376825250047-image-44913963368703",
+      "mochipan-8376825250047-image-44914014683391"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://mochipan.com/products/aurora-borealis-suit-in-icy-aurora",
     "source": "mochipan",
     "candidateIds": [
@@ -4793,6 +5847,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://mochipan.com/products/cinnabar-moth-cardigan",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-8833203699967-image-44534075982079",
+      "mochipan-8833203699967-image-44534076113151"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://mochipan.com/products/cookie-varsity-jacket",
     "source": "mochipan",
     "candidateIds": [
@@ -4818,6 +5886,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mochipan.com/products/cropped-butter-sweater",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-9179290992895-image-46524586819839",
+      "mochipan-9179290992895-image-46524586852607"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -5067,6 +6149,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://mochipan.com/products/hydrangea-dress-pre-order",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-9563346469119-image-48859249049855",
+      "mochipan-9563346469119-image-48859266941183"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://mochipan.com/products/hydrangea-overalls",
     "source": "mochipan",
     "candidateIds": [
@@ -5096,6 +6192,20 @@
     ],
     "reviewedCandidates": 3,
     "admittedExpansionPhotos": 3,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mochipan.com/products/layered-butter-skirt",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-9175264002303-image-46524447097087",
+      "mochipan-9175264002303-image-46524447129855"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -5137,6 +6247,20 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mochipan.com/products/monarch-cardigan",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-8846028833023-image-45932964577535",
+      "mochipan-8846028833023-image-47181772882175"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -5286,6 +6410,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://mochipan.com/products/pre-order-black-mushroom-skirt",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-9551429796095-image-48749667516671",
+      "mochipan-9551429796095-image-48749667582207"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mochipan.com/products/pre-order-black-witch-moth-cardigan",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-9503378276607-image-48243372851455",
+      "mochipan-9503378276607-image-48243373080831"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://mochipan.com/products/pre-order-charcoal-shirtless-sleeves-shrug",
     "source": "mochipan",
     "candidateIds": [
@@ -5297,6 +6449,62 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mochipan.com/products/pre-order-comet-moth-cardigan",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-9503379357951-image-48477931045119",
+      "mochipan-9503379357951-image-48477931176191"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mochipan.com/products/pre-order-dawn-dusk-jacket",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-9551434547455-image-48749643268351",
+      "mochipan-9551434547455-image-48749643333887"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mochipan.com/products/pre-order-ghostly-silk-moth-cardigan",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-9503378473215-image-48477925441791",
+      "mochipan-9503378473215-image-48477925474559"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mochipan.com/products/pre-order-lacebound-jacket",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-8944952672511-image-44407334928639",
+      "mochipan-8944952672511-image-44407351836927"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -5402,6 +6610,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://mochipan.com/products/rosy-maple-moth-cardigan",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-8826506379519-image-45933074186495",
+      "mochipan-8826506379519-image-45933074317567"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://mochipan.com/products/smoky-emperor-moth-cardigan",
     "source": "mochipan",
     "candidateIds": [
@@ -5444,6 +6666,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://mochipan.com/products/strawberry-jam-sweater",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-8712245903615-image-44528607363327",
+      "mochipan-8712245903615-image-44528607527167"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://mochipan.com/products/strawberry-milk-shorts",
     "source": "mochipan",
     "candidateIds": [
@@ -5466,6 +6702,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16T1820-diversity/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mochipan.com/products/tea-roses-sweater",
+    "source": "mochipan",
+    "candidateIds": [
+      "mochipan-9335279845631-image-47421156753663",
+      "mochipan-9335279845631-image-47421159178495"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -6314,6 +7564,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-light-wash-meadow",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-9181662150872-image-50524193882328",
+      "shinybynature-9181662150872-image-50524193947864"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-light-wash-with-bees",
     "source": "shinybynature",
     "candidateIds": [
@@ -6326,6 +7590,48 @@
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-light-wash-with-daisies",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-9181669982424-image-50536825913560",
+      "shinybynature-9181669982424-image-50536825979096"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-medium-wash-with-bees",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-9181671391448-image-50642256068824",
+      "shinybynature-9181671391448-image-50642256134360"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-medium-wash-with-daisies",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-9181670834392-image-50536753135832",
+      "shinybynature-9181670834392-image-50536753168600"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://shinybynature.com/products/academy-maxi-dress-black",
@@ -6380,6 +7686,20 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/boatneck-top-black",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8884612923608-image-47012551655640",
+      "shinybynature-8884612923608-image-47012551688408"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -6552,6 +7872,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/dorothy-top-black-gingham",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-9149642244312-image-49700563714264",
+      "shinybynature-9149642244312-image-50529714307288"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/everyday-tee-black",
     "source": "shinybynature",
     "candidateIds": [
@@ -6608,6 +7942,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/gingham-dress-sky",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8852669661400-image-46294923641048",
+      "shinybynature-8852669661400-image-46294923673816"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/gingham-dress-tomato",
     "source": "shinybynature",
     "candidateIds": [
@@ -6633,6 +7981,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/gingham-long-skirt-sky",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8852670480600-image-46294901915864",
+      "shinybynature-8852670480600-image-46294901981400"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -6720,6 +8082,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/malibu-mini-dress-tofu",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8831383568600-image-45553849172184",
+      "shinybynature-8831383568600-image-45553849204952"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/original-denim-shorts-light-wash-meadow",
     "source": "shinybynature",
     "candidateIds": [
@@ -6748,6 +8124,48 @@
     "completeExpansionReferences": 2
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/original-jeans-light-wash-with-bees",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-9181605462232-image-51774061412568",
+      "shinybynature-9181605462232-image-51774061478104"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/original-jeans-light-wash-with-daisies",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-9181606936792-image-50536640741592",
+      "shinybynature-9181606936792-image-50536640807128"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/original-jeans-medium-wash-meadow",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-9181610606808-image-50537023865048",
+      "shinybynature-9181610606808-image-50537023930584"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/original-jeans-medium-wash-with-bees",
     "source": "shinybynature",
     "candidateIds": [
@@ -6760,6 +8178,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 2
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/original-jeans-medium-wash-with-daisies",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-9181608083672-image-50536438333656",
+      "shinybynature-9181608083672-image-50536438366424"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://shinybynature.com/products/perfect-match-tennis-skirt-acorn",
@@ -6790,6 +8222,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/picnic-pants-blue-gingham",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8884618985688-image-47258459242712",
+      "shinybynature-8884618985688-image-47258558660824"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/picnic-pants-red-gingham",
     "source": "shinybynature",
     "candidateIds": [
@@ -6802,6 +8248,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/picnic-pants-sweetheart",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8932151886040-image-48226474623192",
+      "shinybynature-8932151886040-image-48226474721496"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://shinybynature.com/products/plaid-mini-skirt-black-white",
@@ -6860,6 +8320,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/summer-gingham-shorts-cherry-blossom",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8895495307480-image-47336016445656",
+      "shinybynature-8895495307480-image-47336016543960"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/summer-gingham-shorts-ocean",
     "source": "shinybynature",
     "candidateIds": [
@@ -6916,6 +8390,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/sunday-mini-dress-black",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8829699129560-image-45553851269336",
+      "shinybynature-8829699129560-image-45553851302104"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/sweetheart-denim-shorts-medium-wash",
     "source": "shinybynature",
     "candidateIds": [
@@ -6928,6 +8416,20 @@
     "reviewedCandidates": 0,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/the-flora-dress-black",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8843629854936-image-46296608702680",
+      "shinybynature-8843629854936-image-46296608768216"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
   },
   {
     "sourceUrl": "https://shinybynature.com/products/the-lizzie-top-black",
@@ -7056,6 +8558,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/the-poem-dress-black",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8896066289880-image-47335930495192",
+      "shinybynature-8896066289880-image-47335930527960"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/the-romance-top-rice",
     "source": "shinybynature",
     "candidateIds": [
@@ -7096,6 +8612,34 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 2
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/uptown-girl-shorts-matcha",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8156387213528-image-40953018581208",
+      "shinybynature-8156387213528-image-40953020907736"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/angel-wing-joggers",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9949837197559-image-63495735804151",
+      "myviolet-9949837197559-image-63572206026999"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://shopmyviolet.com/products/april-tiered-ruffle-skort-pink",
@@ -7195,6 +8739,34 @@
     ],
     "reviewedCandidates": 0,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/basics-mesh-top-and-cami-set-pink-mint",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9759221121271-image-61677464092919",
+      "myviolet-9759221121271-image-61677586186487"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/basics-mesh-top-and-cami-set-pink-mint-shortsleeve",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9821125116151-image-61677097156855",
+      "myviolet-9821125116151-image-61677464125687"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 0
   },
   {
@@ -7354,6 +8926,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shopmyviolet.com/products/coco-cardigan-pink",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9902326382839-image-63496233189623",
+      "myviolet-9902326382839-image-63496233320695"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/coco-cardigan-pink-and-black",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9902326579447-image-63605484617975",
+      "myviolet-9902326579447-image-63605484683511"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shopmyviolet.com/products/coffin-cake-camisole-dress",
     "source": "myviolet",
     "candidateIds": [
@@ -7492,6 +9092,48 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/hailey-pleated-skirt-blue",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9978329891063-image-63485717545207",
+      "myviolet-9978329891063-image-63485717610743"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/hailey-pleated-skirt-lavender",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9978329792759-image-63184371384567",
+      "myviolet-9978329792759-image-63184371417335"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/halo-angel-wing-hoodie",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9949838049527-image-63495517372663",
+      "myviolet-9949838049527-image-63572238106871"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -7856,6 +9498,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shopmyviolet.com/products/short-sleeve-basics-mesh-top-and-cami-set-lav-pink",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9821126263031-image-61672320860407",
+      "myviolet-9821126263031-image-61683407028471"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shopmyviolet.com/products/skeleton-pullover-sweater",
     "source": "myviolet",
     "candidateIds": [
@@ -7867,6 +9523,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/smocked-dress",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9645932871927-image-61045052014839",
+      "myviolet-9645932871927-image-61058662498551"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -7884,6 +9554,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shopmyviolet.com/products/star-pleated-skirt",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9978322780407-image-63173769265399",
+      "myviolet-9978322780407-image-63173769298167"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/star-shirt-dress-pink",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9976830886135-image-63445601321207",
+      "myviolet-9976830886135-image-63445601353975"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shopmyviolet.com/products/stardust-soda-varsity-jacket",
     "source": "myviolet",
     "candidateIds": [
@@ -7894,6 +9592,34 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/stella-shirt-dress-black",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9978322518263-image-63435909366007",
+      "myviolet-9978322518263-image-63435909431543"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/stella-shirt-dress-lavender",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9978322452727-image-63442629951735",
+      "myviolet-9978322452727-image-63442629984503"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -7953,6 +9679,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopmyviolet.com/products/zoe-party-dress-lavender",
+    "source": "myviolet",
+    "candidateIds": [
+      "myviolet-9940787069175-image-63594223927543",
+      "myviolet-9940787069175-image-63594223993079"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -8152,6 +9892,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/activewear-tee-debbie-white",
+    "source": "snag",
+    "candidateIds": [
+      "snag-6916199841834-image-31414507438122",
+      "snag-6916199841834-image-31414507536426"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/baby-doll-dress-velvet-black",
     "source": "snag",
     "candidateIds": [
@@ -8163,6 +9917,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/bamboo-lounge-bottoms",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7660895535146-image-36452239441962",
+      "snag-7660895535146-image-36452239507498"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -8191,6 +9959,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/bamboo-lounge-tee",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7660895141930-image-36452236296234",
+      "snag-7660895141930-image-36452236361770"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -8306,6 +10088,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-scoop-neck-tee-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956146421802-image-37188395532330",
+      "snag-7956146421802-image-37188395597866"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-scoop-neck-tee-white",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956146323498-image-37188394385450",
+      "snag-7956146323498-image-37188394450986"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/cotton-gauze-shirred-trousers-black",
     "source": "snag",
     "candidateIds": [
@@ -8334,6 +10144,34 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-shirred-trousers-cream",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956146126890-image-37188391239722",
+      "snag-7956146126890-image-37188391305258"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-short-sleeve-wrap-top-brown",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956146094122-image-37188026564650",
+      "snag-7956146094122-image-37188389240874"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/cotton-gauze-short-sleeve-wrap-top-cream",
     "source": "snag",
     "candidateIds": [
@@ -8342,6 +10180,62 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16-snag/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-v-neck-mini-tiered-dress-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956146782250-image-37188399136810",
+      "snag-7956146782250-image-37188399202346"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-v-neck-mini-tiered-dress-peony",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956147011626-image-37188400316458",
+      "snag-7956147011626-image-37188400381994"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-wrap-skirt-peony",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956146585642-image-37188396646442",
+      "snag-7956146585642-image-37188396711978"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/cotton-gauze-wrap-skirt-pistachio",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956146683946-image-37188398022698",
+      "snag-7956146683946-image-37188398088234"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
@@ -8754,6 +10648,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/long-leggings-purple",
+    "source": "snag",
+    "candidateIds": [
+      "snag-6760349433898-image-30569603039274",
+      "snag-6760349433898-image-30569603432490"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/love-me-cardigan",
     "source": "snag",
     "candidateIds": [
@@ -9034,6 +10942,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/plaid-mini-flare-skirt-glenfern-v2",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7790971420714-image-35827182207018",
+      "snag-7790971420714-image-35827182272554"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/plaid-wide-leg-trousers-black-grey",
     "source": "snag",
     "candidateIds": [
@@ -9076,6 +10998,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/printed-empire-dress-pink-pearl",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956145930282-image-37188386488362",
+      "snag-7956145930282-image-37188386553898"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/printed-empire-dress-teal-city",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7956145995818-image-37188387536938",
+      "snag-7956145995818-image-37188387635242"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/ruched-rib-top-black",
     "source": "snag",
     "candidateIds": [
@@ -9087,6 +11037,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/short-fruity-cardy",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7918609006634-image-36986807255082",
+      "snag-7918609006634-image-36986807320618"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 0
   },
   {
@@ -9114,6 +11078,20 @@
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/short-sleeve-cotton-bodysuit-butter",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7674859651114-image-34719526715434",
+      "snag-7674859651114-image-34755510042666"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 0
   },
   {
@@ -9201,6 +11179,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-kiwi",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7129160613930-image-31461146755114",
+      "snag-7129160613930-image-31461147017258"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-lima-bean-green",
     "source": "snag",
     "candidateIds": [
@@ -9223,6 +11215,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16-snag/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-splits",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7150789099562-image-31499736678442",
+      "snag-7150789099562-image-31499736809514"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
@@ -9311,6 +11317,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/wing-span-acotar-t-shirt",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7287553065002-image-31761170825258",
+      "snag-7287553065002-image-35386167590954"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://snagtights.com/products/wrap-around-dress-nebula-blue-gold",
@@ -15165,6 +17185,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.midnighthour.com/products/black-lodge-cardigan-mens",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-8818844336305-image-40953586286769",
+      "midnighthour-8818844336305-image-40953586417841"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/black-lodge-cardigan-plus",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-8818842796209-image-41088338165937",
+      "midnighthour-8818842796209-image-41124091822257"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.midnighthour.com/products/black-twist-front-dress-plus",
     "source": "midnighthour",
     "candidateIds": [
@@ -15191,6 +17239,34 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-legging",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-9042631983281-image-43770811416753",
+      "midnighthour-9042631983281-image-43770811613361"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-leggings-plus",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-9119696093361-image-43770811449521",
+      "midnighthour-9119696093361-image-43770811515057"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
   },
   {
     "sourceUrl": "https://www.midnighthour.com/products/cathedral-maiden-dress",
@@ -15223,6 +17299,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-shirt",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-9061787140273-image-43779605266609",
+      "midnighthour-9061787140273-image-43779605332145"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-shirt-plus",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-9119698485425-image-43779605430449",
+      "midnighthour-9119698485425-image-43779605463217"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.midnighthour.com/products/coven-peasant-dress",
     "source": "midnighthour",
     "candidateIds": [
@@ -15234,6 +17338,20 @@
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/dagger-joggers",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-7350403268785-image-32756668793009",
+      "midnighthour-7350403268785-image-32756668858545"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -15294,6 +17412,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.midnighthour.com/products/death-brigade-jacket-plus",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-8845424361649-image-42140775547057",
+      "midnighthour-8845424361649-image-42140775579825"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/distressed-rib-cardigan-mens",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-8797002137777-image-43404194676913",
+      "midnighthour-8797002137777-image-43404195397809"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/distressed-rib-cardigan-plus",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-8797001285809-image-43404190679217",
+      "midnighthour-8797001285809-image-43404190744753"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.midnighthour.com/products/embroidered-relics-zip-hoodie",
     "source": "midnighthour",
     "candidateIds": [
@@ -15331,6 +17491,34 @@
       "data/catalog-review/batches/2026-09-16-targeted/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/embroidered-snake-sweater",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-7463008600241-image-33899866357937",
+      "midnighthour-7463008600241-image-33899866423473"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/embroidered-snake-sweater-plus",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-7503243641009-image-33959961133233",
+      "midnighthour-7503243641009-image-33959961264305"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -15434,6 +17622,33 @@
     ],
     "reviewedCandidates": 4,
     "admittedExpansionPhotos": 4,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/mesh-stripe-long-sleeve-top",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-9076790821041-image-43780866048177"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/mesh-stripe-long-sleeve-top-plus",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-9119695503537-image-43780866080945",
+      "midnighthour-9119695503537-image-43780866113713"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -15582,6 +17797,19 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 2
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/printed-corset-t-shirt",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-9099672387761-image-43780066967729"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://www.midnighthour.com/products/punks-not-dead-cardigan",
@@ -15758,6 +17986,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.midnighthour.com/products/snake-embroidered-sweater-mens",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-7495887847601-image-33903598862513",
+      "midnighthour-7495887847601-image-33903598993585"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.midnighthour.com/products/snake-romance-legging",
     "source": "midnighthour",
     "candidateIds": [
@@ -15785,6 +18027,47 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://www.midnighthour.com/products/spider-and-web-sweater",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-8430062043313-image-40816255828145"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/spider-and-web-sweater-mens",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-8796276687025-image-40913668440241",
+      "midnighthour-8796276687025-image-40913668505777"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/spider-and-web-sweater-plus",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-8796270362801-image-40816255697073",
+      "midnighthour-8796270362801-image-40816255762609"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.midnighthour.com/products/stretch-bootcut-denim",
     "source": "midnighthour",
     "candidateIds": [
@@ -15796,6 +18079,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.midnighthour.com/products/triple-moon-denim-shorts",
+    "source": "midnighthour",
+    "candidateIds": [
+      "midnighthour-8278518988977-image-38578515312817",
+      "midnighthour-8278518988977-image-38578515443889"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1910-dark/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -16054,6 +18351,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.morningwitch.com/products/coming-soon-jogger-pants-sunshine-moths",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-8223511380122-image-39689180479642",
+      "morningwitch-8223511380122-image-39689181298842"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.morningwitch.com/products/coming-soon-midi-skirt-fig-robin",
     "source": "morningwitch",
     "candidateIds": [
@@ -16136,6 +18447,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-deathly-bouquet",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7891036307610-image-37550823342234",
+      "morningwitch-7891036307610-image-37550825668762"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-emerald-dream",
     "source": "morningwitch",
     "candidateIds": [
@@ -16145,6 +18470,101 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 0,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-emerald-dream-2",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-8222565040282-image-39681959264410"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-magnolia-goldenrod",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7891034898586-image-37550793031834",
+      "morningwitch-7891034898586-image-37550796767386"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-moth-fern",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7891035979930-image-37550818984090",
+      "morningwitch-7891035979930-image-37550819541146"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-poison-touch",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-8266154016922-image-39876656726170"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-salamander-woods",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7891038044314-image-37550862139546",
+      "morningwitch-7891038044314-image-37551694905498"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-scarlet-garden",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7891037683866-image-37550851621018",
+      "morningwitch-7891037683866-image-37550854373530"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/jogger-pants-velvet-night",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-8266153722010-image-39876688248986"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
@@ -16254,6 +18674,86 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 0,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-4",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7663530606746-image-36216784257178",
+      "morningwitch-7663530606746-image-36256394543258"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-5",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7663531622554-image-36216788877466"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-fairy-garden",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7663526805658-image-36216757911706"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-magnolia-goldenrod",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7891533037722-image-37555533250714"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/mini-skirt-snail-nasturtium",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-7850918871194-image-37200135061658"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.morningwitch.com/products/preorder-sweatshirt-little-ancients-horseshoe-crabs",
+    "source": "morningwitch",
+    "candidateIds": [
+      "morningwitch-9155315466394-image-50212727750810",
+      "morningwitch-9155315466394-image-50212939301018"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1915-color/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
@@ -17642,6 +20142,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.wildfang.com/products/debbie-harry-x-wildfang-graphic-tee-3",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506501357749-image-76072944238773",
+      "wildfang-10506501357749-image-76072944271541"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.wildfang.com/products/debbie-harry-x-wildfang-long-sleeve-button-up-3",
     "source": "wildfang",
     "candidateIds": [
@@ -17667,6 +20181,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/debbie-harry-x-wildfang-sweatshirt",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10201458639029-image-72974173536437",
+      "wildfang-10201458639029-image-72974173569205"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -17709,6 +20237,20 @@
     ],
     "reviewedCandidates": 0,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/sailor-honeymoon-x-wildfang-diary-tee",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10551364911285-image-76329986916533",
+      "wildfang-10551364911285-image-76329986982069"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -17766,6 +20308,48 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 2
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-long-sleeve-button-up-1",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506376380597-image-76072763031733",
+      "wildfang-10506376380597-image-76072763097269"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-pinstripe-wide-leg-trouser-2",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506376249525-image-76072764276917",
+      "wildfang-10506376249525-image-76072764342453"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-plaid-double-breasted-blazer",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10505813459125-image-76072696447157",
+      "wildfang-10505813459125-image-76072696479925"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://www.wildfang.com/products/the-empower-plaid-slim-crop-pant",
@@ -17894,6 +20478,76 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-57",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506379100341-image-76072830697653",
+      "wildfang-10506379100341-image-76072830763189"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-59",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10562850619573-image-76419981738165",
+      "wildfang-10562850619573-image-76419981803701"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-60",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10562853568693-image-76419666903221",
+      "wildfang-10562853568693-image-76419666935989"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-corduroy-trouser-2",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506376085685-image-76072753463477",
+      "wildfang-10506376085685-image-76072753496245"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-corduroy-vest-1",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506375921845-image-76072751988917",
+      "wildfang-10506375921845-image-76072752054453"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.wildfang.com/products/the-essential-cotton-twill-utility-pant-2",
     "source": "wildfang",
     "candidateIds": [
@@ -17920,6 +20574,62 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 2
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-cropped-button-up-6",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506378641589-image-76072800026805",
+      "wildfang-10506378641589-image-76072800092341"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-long-sleeve-utility-button-up",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10562886697141-image-76419734241461",
+      "wildfang-10562886697141-image-76419734306997"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-long-sleeve-utility-button-up-1",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10562899083445-image-76419731259573",
+      "wildfang-10562899083445-image-76419731325109"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-pant-5",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10562888728757-image-76419766190261",
+      "wildfang-10562888728757-image-76419766255797"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-wrap-skirt",
@@ -18020,6 +20730,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-stripe-cropped-button-up",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506378215605-image-76072797601973",
+      "wildfang-10506378215605-image-76072797667509"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-8",
     "source": "wildfang",
     "candidateIds": [
@@ -18090,6 +20814,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-argyle-sweater-polo",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506381099189-image-76072873296053",
+      "wildfang-10506381099189-image-76072873328821"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-10",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506379231413-image-76072855961781",
+      "wildfang-10506379231413-image-76072856027317"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.wildfang.com/products/the-everyday-cargo-sweatshirt",
     "source": "wildfang",
     "candidateIds": [
@@ -18115,6 +20867,20 @@
     ],
     "reviewedCandidates": 0,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tee-4",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506380607669-image-76072871395509",
+      "wildfang-10506380607669-image-76072871592117"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -18240,6 +21006,20 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-sweater-vest-3",
+    "source": "wildfang",
+    "candidateIds": [
+      "wildfang-10506381394101-image-76072889974965",
+      "wildfang-10506381394101-image-76072890040501"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-16T1905-coverage/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },

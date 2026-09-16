@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "forestink-9294004551915-image-47740952609003",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/opium-behemoth-pants",
+    "localPath": "images/forestink-9294004551915-image-47740952609003.webp",
+    "sha256": "af14e4f421fe53aa336a05c4b7ed79886eb23ff2834c61642470d759143c2823",
+    "ordinal": 0,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Leather trousers shown without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9294004551915-image-47740952674539",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/opium-behemoth-pants",
+    "localPath": "images/forestink-9294004551915-image-47740952674539.webp",
+    "sha256": "d79b703ba94ed327d08e73214d1672785b0d46ebbd7dd4b94c30aa1991736308",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Second leather-trouser crop without upper body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9298688704747-image-47777660371179",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/poet-bloomers",
+    "localPath": "images/forestink-9298688704747-image-47777660371179.webp",
+    "sha256": "6fc3105b5c09147dd0dbe318a7c149ec08beee34946b19bf7b7fa9e46a316901",
+    "ordinal": 2,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lace shorts crop omits upper torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9298688704747-image-47777660403947",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/poet-bloomers",
+    "localPath": "images/forestink-9298688704747-image-47777660403947.webp",
+    "sha256": "d183c1b9e92f8ca78a99151d67c9c82eb7146f41d0f834d7c2304161b363ccd0",
+    "ordinal": 3,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side lace shorts crop without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9292905873643-image-47734251356395",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/leopard-alice-flare-pants",
+    "localPath": "images/forestink-9292905873643-image-47734251356395.webp",
+    "sha256": "27e10ab1e350fd25903d8f2a5d564fbee0c85754d9039303827a0232d8960f00",
+    "ordinal": 4,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Leopard trousers shown below waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9292905873643-image-47734251421931",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/leopard-alice-flare-pants",
+    "localPath": "images/forestink-9292905873643-image-47734251421931.webp",
+    "sha256": "bbe759ec6edf7a51542d98cffa66cf22c18b74f6e3c66ce642a966400994817c",
+    "ordinal": 5,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear leopard-trouser crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199085158635-image-47449808994539",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/isabella-bloomers",
+    "localPath": "images/forestink-9199085158635-image-47449808994539.webp",
+    "sha256": "2243df62ac8426022159daaf63f4dc44b0bf56d16e37685ce0b44747675e4c65",
+    "ordinal": 6,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Ruffled shorts and legs without upper torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199085158635-image-47449808765163",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/isabella-bloomers",
+    "localPath": "images/forestink-9199085158635-image-47449808765163.webp",
+    "sha256": "69a90a00f4e4bdb5819a83d2c2b88b84c5af26c791edca7e3647650a82755453",
+    "ordinal": 7,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer ruffled-shorts detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199084732651-image-47449795526891",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/lenore-babydoll-top",
+    "localPath": "images/forestink-9199084732651-image-47449795526891.webp",
+    "sha256": "f47f34162a0000d0f2d3bfcc52a7ffc0c88f240eaf345bfdd8b038d6e44ff40a",
+    "ordinal": 8,
+    "view": "full",
+    "body": {
+      "build": 1.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow bare arms and legs support build; held flared lace garment hides waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199084732651-image-47449795625195",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/lenore-babydoll-top",
+    "localPath": "images/forestink-9199084732651-image-47449795625195.webp",
+    "sha256": "315daabeb4a9ed19a6debc20c480b1f5b1cadd1568e544c332004c52d01d5db0",
+    "ordinal": 9,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated lace outfit with hands lifted to shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199084241131-image-47449781043435",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/lenore-butterfly-panty",
+    "localPath": "images/forestink-9199084241131-image-47449781043435.webp",
+    "sha256": "61551e5d1ea3bd8e29517083bc30faab61726f1412788f49c0fb02aca3a0eeaf",
+    "ordinal": 10,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lace underwear close-up without torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199084241131-image-47449781108971",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/lenore-butterfly-panty",
+    "localPath": "images/forestink-9199084241131-image-47449781108971.webp",
+    "sha256": "1122ca32d4f0cc0b0f1c83e1e70657542a29dc243b9778a724205b6a7e65a594",
+    "ordinal": 11,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled underwear view cuts off shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199077753067-image-47449694896363",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/lenore-high-waisted-panty",
+    "localPath": "images/forestink-9199077753067-image-47449694896363.webp",
+    "sha256": "9e8f5bd1708bd7b3049a81a5c9845b9c4bfd8889a088989e36d93e042dd02f04",
+    "ordinal": 12,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lace underwear product close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199077753067-image-47449694961899",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/lenore-high-waisted-panty",
+    "localPath": "images/forestink-9199077753067-image-47449694961899.webp",
+    "sha256": "b681d042de63cb14398773847e6f755d996abb273f146b52abb86cb290f6a254",
+    "ordinal": 13,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lower-body underwear view without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199075393771-image-47691424956651",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/maiden-maxi-dress",
+    "localPath": "images/forestink-9199075393771-image-47691424956651.webp",
+    "sha256": "5eb30ef7b55aabb7339672be4f064f78df800fe56bbdc83e037fd0f10e20f5cc",
+    "ordinal": 14,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow arms and legs support build; laced structured bodice and gathered skirt conceal natural shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9199075393771-image-47449654952171",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/maiden-maxi-dress",
+    "localPath": "images/forestink-9199075393771-image-47449654952171.webp",
+    "sha256": "8a26668ee3d336a3d8f30dc9a4ec02291b57d94d797cb6ef2e874dcf36bee2a2",
+    "ordinal": 15,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear laced-dress view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9204039942379-image-47486061314283",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/salem-flare-pants",
+    "localPath": "images/forestink-9204039942379-image-47486061314283.webp",
+    "sha256": "4a0adc8f38d7fee86190824e1151b1699e89b5772f8048829da6352f9470a6b2",
+    "ordinal": 16,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Buckled trousers crop without upper torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9204039942379-image-47486061379819",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/salem-flare-pants",
+    "localPath": "images/forestink-9204039942379-image-47486061379819.webp",
+    "sha256": "bda7e584accf57b4d5f4f2d6af119ee4213c00acacd39adcd870237f92bcbff3",
+    "ordinal": 17,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side buckled-trouser crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9282069201131-image-47609991692523",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/dress",
+    "localPath": "images/forestink-9282069201131-image-47609991692523.webp",
+    "sha256": "8c16126ed4c1e9f74fcd01a8926cb109e8408956a9d53bc409b683a220d93607",
+    "ordinal": 18,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Text-only dress-size selection graphic.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-8959874859243-image-46823776321771",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/top",
+    "localPath": "images/forestink-8959874859243-image-46823776321771.webp",
+    "sha256": "54cd3413d57d4c5dc364634f77dbd29177e2ef98e5c7d425d0b0b3da76639c15",
+    "ordinal": 19,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Text-only top-size selection graphic.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9138836111595-image-47145522659563",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/video-vixen-top",
+    "localPath": "images/forestink-9138836111595-image-47145522659563.webp",
+    "sha256": "61529d25c57c23f682af3c59ac166d6d05e49c75082418f641bcb18b05e2e8a1",
+    "ordinal": 20,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow arms and legs support build; high structured collar and stiff vest obscure natural shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9138836111595-image-47145522725099",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/video-vixen-top",
+    "localPath": "images/forestink-9138836111595-image-47145522725099.webp",
+    "sha256": "37ed712dca6897371c89bfb2ac10578f72335d8e806d89a5d4e5fc883ecc1123",
+    "ordinal": 21,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Broad bare arms support build; raised arm and stiff high-collar vest obscure proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9138823135467-image-47145493725419",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/mistress-mini-dress",
+    "localPath": "images/forestink-9138823135467-image-47145493725419.webp",
+    "sha256": "41e0ec713bff1562bc57c13032b57b6b5cebbae352fa51a1ed9b00c9915fe114",
+    "ordinal": 22,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": 0.0,
+      "waist": null
+    },
+    "evidence": "Bare arms and close lower dress show broad build and similar shoulder and hip span; stiff vinyl bodice limits waist judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9138823135467-image-47145493790955",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/mistress-mini-dress",
+    "localPath": "images/forestink-9138823135467-image-47145493790955.webp",
+    "sha256": "12228ee409aa54d60b4524aa58c42b70784ed329c40e4f405a13a1a792140853",
+    "ordinal": 23,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear three-quarter vinyl-dress view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9138809012459-image-47825946018027",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/manhattan-dress-shirt",
+    "localPath": "images/forestink-9138809012459-image-47825946018027.webp",
+    "sha256": "0e0cf151dc891ff4ffed86a41c54da86c15de70343163f17ba287d51793ecffe",
+    "ordinal": 24,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose white blouse covers arms and torso; body outline is insufficiently visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9138809012459-image-47825946050795",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/manhattan-dress-shirt",
+    "localPath": "images/forestink-9138809012459-image-47825946050795.webp",
+    "sha256": "8745d0a59c9b3bde6b06d57c693251b2b0e82a185e0f0c6cbc442fa75ad681c7",
+    "ordinal": 25,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled repeat of loose white blouse.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9138750161131-image-47145157984491",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/carrie-button-up-top",
+    "localPath": "images/forestink-9138750161131-image-47145157984491.webp",
+    "sha256": "ce4664d37326c7dc2ac9aa040c43e1e3351964f141d96ca8b4a3c79f954527fa",
+    "ordinal": 26,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close sleeves and narrow frame support build; ruched blouse and flared skirt obscure natural contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9138750161131-image-47145158050027",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/carrie-button-up-top",
+    "localPath": "images/forestink-9138750161131-image-47145158050027.webp",
+    "sha256": "aa3e5c9fe93760ac9fd81cc701c789ee0efc5ae184ea360f421a28a3706eb93e",
+    "ordinal": 27,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of ruched black blouse.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9102529036523-image-47826037604587",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/drumline-top",
+    "localPath": "images/forestink-9102529036523-image-47826037604587.webp",
+    "sha256": "e408e37acf24545e428ff5da1c6ec457cea040eee7cad64dd155692d6a1f662f",
+    "ordinal": 28,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare upper arms support broad build; structured vest and pleated skirt conceal natural proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9102529036523-image-47826037539051",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/drumline-top",
+    "localPath": "images/forestink-9102529036523-image-47826037539051.webp",
+    "sha256": "b714418b34275add255451a14ba542872886ad6e443db29b8186a7f5c42095c6",
+    "ordinal": 29,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear black vest view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9102502527211-image-46796906889451",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/opium-corset",
+    "localPath": "images/forestink-9102502527211-image-46796906889451.webp",
+    "sha256": "bc1a072252f84113232524ce01b537948314cc0f4dcd4294c84122d9d82340ce",
+    "ordinal": 30,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tight corset crop repeats fuller garment view 31.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9102502527211-image-46796899746027",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/opium-corset",
+    "localPath": "images/forestink-9102502527211-image-46796899746027.webp",
+    "sha256": "d0c78c7256dbc4d0892dbd5497a89a5512cd045990973d54ba5b0fe42426368b",
+    "ordinal": 31,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare arms support narrow build; tilted torso and crossed legs limit shoulder-hip comparison and corset conceals waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9102500626667-image-46941598712043",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/opium-vest",
+    "localPath": "images/forestink-9102500626667-image-46941598712043.webp",
+    "sha256": "707db70e834f21e010bc197df3c635622b49361c68b3f2962dd8d672af173094",
+    "ordinal": 32,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare arms support build; crop omits full hip contour and stiff shaped leather bodice obscures waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-9102500626667-image-46934972924139",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/opium-vest",
+    "localPath": "images/forestink-9102500626667-image-46934972924139.webp",
+    "sha256": "a827315a94a9631d27e03cf70f9f25ebd37e9acf1fb70bfc1b7453be1075861e",
+    "ordinal": 33,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated leather-bodice outfit with zipper open.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-8984577179883-image-46343270400235",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/alice-leggings",
+    "localPath": "images/forestink-8984577179883-image-46343270400235.webp",
+    "sha256": "f976e9825834517aa446bd341f7a2241767957a074911bb8c98981057380dd4d",
+    "ordinal": 34,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare arms support build; crossed-leg and tilted-hip pose prevent balance assessment and laced bodice conceals waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-8984577179883-image-46343270629611",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/alice-leggings",
+    "localPath": "images/forestink-8984577179883-image-46343270629611.webp",
+    "sha256": "4b4d4289122c68f86f24d392758dbc51c8c7019f9aee20a651c8ee5be61d60dc",
+    "ordinal": 35,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Laced-trouser detail without upper torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-8984575213803-image-46827795513579",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/millie-bloomers",
+    "localPath": "images/forestink-8984575213803-image-46827795513579.webp",
+    "sha256": "daf326a2a8f98b350161b31637340b443b6c3d53309babaf5f27421befcbb799",
+    "ordinal": 36,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Ruffled-skirt crop omits shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forestink-8984575213803-image-46827677057259",
+    "source": "forestink",
+    "sourceUrl": "https://forestinkclothing.com/products/millie-bloomers",
+    "localPath": "images/forestink-8984575213803-image-46827677057259.webp",
+    "sha256": "e0569d4d84c1f238b782f4c98032b51241f0e78e2a9187830b731d441b8757c8",
+    "ordinal": 37,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer ruffled-skirt detail without upper torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8573857923264-image-56875899879616",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/black-wide-leg-sweatpants",
+    "localPath": "images/foxblood-8573857923264-image-56875899879616.webp",
+    "sha256": "0acae23d62cc217ef0ce925ae05427eda15e2588121a1b332e3d5cfb945388be",
+    "ordinal": 38,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose sweatshirt and wide trousers hide body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8573857923264-image-55727975661760",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/black-wide-leg-sweatpants",
+    "localPath": "images/foxblood-8573857923264-image-55727975661760.webp",
+    "sha256": "cab454e2835839722b8aea28f526ccaae85593238a9a27c9ebcb703ebb79bc73",
+    "ordinal": 39,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Bare upper arms and close tank show broad build and moderate taper; loose trousers conceal hip edges.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8667296530624-image-57541633245376",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/signature-capri-leggings",
+    "localPath": "images/foxblood-8667296530624-image-57541633245376.webp",
+    "sha256": "5ba82667bfdf8b2ab1707fa919c5ffae2a1cbecc49a949ad6f3108c979586c7b",
+    "ordinal": 40,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped capri-trouser outfit omits shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8667296530624-image-57542573850816",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/signature-capri-leggings",
+    "localPath": "images/foxblood-8667296530624-image-57542573850816.webp",
+    "sha256": "b14dbf12d79551a52b2261cdf9c95dcfb5aaf533eb0b08784021928521d28d44",
+    "ordinal": 41,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled capri-trouser crop omits shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7691383111872-image-37065864184000",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/reserve-2-0-long-sleeve-cardigan-hoodie",
+    "localPath": "images/foxblood-7691383111872-image-37065864184000.webp",
+    "sha256": "1e9904b8219ec84b97a113d156b030c0ff8427c5066d4feaa1b2f1003bda5d30",
+    "ordinal": 42,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Held hood and long loose cardigan obscure torso and arms.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7691383111872-image-37069901725888",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/reserve-2-0-long-sleeve-cardigan-hoodie",
+    "localPath": "images/foxblood-7691383111872-image-37069901725888.webp",
+    "sha256": "6e11a3346989df562606645fcf3e3bf601b2f0306f36d6ff0a8042d9dc86f229",
+    "ordinal": 43,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closed dark cardigan and bent arms obscure natural contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8612017340608-image-56202006724800",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/short-sleeve-memphis-oversized-shirt",
+    "localPath": "images/foxblood-8612017340608-image-56202006724800.webp",
+    "sha256": "880d112e446f2d35e13f8298fd08e6e632b5b9ea3aaa26e2c49b656498a5df69",
+    "ordinal": 44,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled blouse view repeats clearer front view 45.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8612017340608-image-56202006757568",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/short-sleeve-memphis-oversized-shirt",
+    "localPath": "images/foxblood-8612017340608-image-56202006757568.webp",
+    "sha256": "a4e8238a7e0424fe2d8b56f8acda2de304dedefb97c0a078123220dd3b810abc",
+    "ordinal": 45,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow bare forearms support build; loose long blouse conceals waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8534492315840-image-55560225095872",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/margaret-maxi-skirt",
+    "localPath": "images/foxblood-8534492315840-image-55560225095872.webp",
+    "sha256": "c6563b97189f2c2e6040410c6ebdba69eb1f640d6fd27d4990aa75f728d1254b",
+    "ordinal": 46,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped ruffled-skirt outfit repeats fuller front view 47.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8534492315840-image-55560225063104",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/margaret-maxi-skirt",
+    "localPath": "images/foxblood-8534492315840-image-55560225063104.webp",
+    "sha256": "75776ae52e9140571b70fc6cf3034b90eb8ed6c957210c20aa621d7cc3b67c9f",
+    "ordinal": 47,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow visible forearms and frame support build; structured bodice and tiered skirt obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7484287516864-image-36447571116224",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/9-lives-pull-over-cardigan-black-glow",
+    "localPath": "images/foxblood-7484287516864-image-36447571116224.webp",
+    "sha256": "d578daa8ef67f6c56c8c6280d20fedba5ad536528b2af7f945cecaf908ff5676",
+    "ordinal": 48,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible thighs support approximate build; bulky hoodie conceals torso contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7484287516864-image-36455742668992",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/9-lives-pull-over-cardigan-black-glow",
+    "localPath": "images/foxblood-7484287516864-image-36455742668992.webp",
+    "sha256": "9bdb506b8e23dd0519ea4a873df6d5143f77a822759a9f3215bf483f65031212",
+    "ordinal": 49,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark glow-effect product graphic lacks a readable outfit or body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-6663381975232-image-40746564288704",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/dee-dee-dress",
+    "localPath": "images/foxblood-6663381975232-image-40746564288704.webp",
+    "sha256": "bf34a97f5dc3a405fea4f0b4494230342a8020031db15eaf5f46501fbd6d3343",
+    "ordinal": 50,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare arms and legs support broad build; held-out loose dress hides torso shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-6663381975232-image-28906246308032",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/dee-dee-dress",
+    "localPath": "images/foxblood-6663381975232-image-28906246308032.webp",
+    "sha256": "23706610b14a44be8fa7159119085e3c47ae22fb2c6506179d67a7119b87abc6",
+    "ordinal": 51,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow bare arms support build; held loose dress conceals waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7036737323200-image-57012865925312",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/mini-tennis-skirt-with-built-in-shorts",
+    "localPath": "images/foxblood-7036737323200-image-57012865925312.webp",
+    "sha256": "af169c8d17d3c6be04521a3224ebc03cde80f3d8c410e5fca5d03fa0ca51006d",
+    "ordinal": 52,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Close upper dress and sheer sleeves show moderate taper; held flared skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7036737323200-image-57012859338944",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/mini-tennis-skirt-with-built-in-shorts",
+    "localPath": "images/foxblood-7036737323200-image-57012859338944.webp",
+    "sha256": "7196c39ee0fe5a30807ff4796a642117f59f3dea7df39d9ea3b4195e28226f59",
+    "ordinal": 53,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Skort lining close-up omits shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8241459069120-image-46205410541760",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/rat-cardigan",
+    "localPath": "images/foxblood-8241459069120-image-46205410541760.webp",
+    "sha256": "63feccd723bdfd49272b3608269f42b302cd7331ee00e47e5e021b83fe5256d2",
+    "ordinal": 54,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible thighs and broad overall frame support build; bulky cardigan hides torso proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8241459069120-image-45946431570112",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/rat-cardigan",
+    "localPath": "images/foxblood-8241459069120-image-45946431570112.webp",
+    "sha256": "17ad14f391492bf4b663fbab5b20f8880bea03df60df7f943ca3b0cec37aa554",
+    "ordinal": 55,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow visible thighs support build; bulky cardigan conceals torso shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8600155521216-image-55586852765888",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/cotton-candy-ruffle-skort-licorice",
+    "localPath": "images/foxblood-8600155521216-image-55586852765888.webp",
+    "sha256": "6a8ed13c0194ef9af96f121efb2d5ef1b2a289f50b5bb53fc01e682508058ed4",
+    "ordinal": 56,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Bare arms and close camisole show moderate taper; tiered skirt conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8600155521216-image-55586852831424",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/cotton-candy-ruffle-skort-licorice",
+    "localPath": "images/foxblood-8600155521216-image-55586852831424.webp",
+    "sha256": "25d39c19ba90951fa9ea43ba63cf3908da15000c4a86e810126d856215026b21",
+    "ordinal": 57,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled repeat of camisole and tiered skirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8550945358016-image-55725072777408",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/croft-shorts",
+    "localPath": "images/foxblood-8550945358016-image-55725072777408.webp",
+    "sha256": "311f9d2269058e8017629822c7fa931ed05200c83b366a589ff4eb5550475445",
+    "ordinal": 58,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped lace-top outfit better represented by full view 59.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8550945358016-image-55725072810176",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/croft-shorts",
+    "localPath": "images/foxblood-8550945358016-image-55725072810176.webp",
+    "sha256": "0e83891ecba436982efe16351fe4f175e3294d6ee36f9176164bf2f8acb575e6",
+    "ordinal": 59,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close lace sleeves and exposed thighs support broad build; loose shorts and hands at waist obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8587558748352-image-56238751121600",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/wide-leg-wrap-pants",
+    "localPath": "images/foxblood-8587558748352-image-56238751121600.webp",
+    "sha256": "b1d7331f7413eb411e42003121328d050fac612ccf2e2b10af0bf78c8c74c942",
+    "ordinal": 60,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Bare arms and close black top show moderate taper; draped wide trousers conceal hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8587558748352-image-56621937361088",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/wide-leg-wrap-pants",
+    "localPath": "images/foxblood-8587558748352-image-56621937361088.webp",
+    "sha256": "8be6212303129ab5a0e66726756f3967901bb5330030ca03fa1cd8e04e0ad2b6",
+    "ordinal": 61,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare arms support build; flared strapless top and wide trousers obscure body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8618320658624-image-56238321762496",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/bianca-jumpsuit",
+    "localPath": "images/foxblood-8618320658624-image-56238321762496.webp",
+    "sha256": "3e5db324053c3ce4f6b23d39574314ffa178943cbe4d93a11be341a36e7081d3",
+    "ordinal": 62,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Bare arms and close bodice show moderate taper; wide gathered jumpsuit hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8618320658624-image-56238321729728",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/bianca-jumpsuit",
+    "localPath": "images/foxblood-8618320658624-image-56238321729728.webp",
+    "sha256": "0d4f3e3bae8853b7edb1515218d877bb0de4a35986d2733d0ac142fd9d279fbb",
+    "ordinal": 63,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated black jumpsuit and pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8639443796160-image-56621935755456",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/flowing-tube-top",
+    "localPath": "images/foxblood-8639443796160-image-56621935755456.webp",
+    "sha256": "fde06f96ee55bcc72495277fccfe6d70f25210d886380c9725f30973c00662dd",
+    "ordinal": 64,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Crop repeats strapless top outfit already represented by 61.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8639443796160-image-56621996703936",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/flowing-tube-top",
+    "localPath": "images/foxblood-8639443796160-image-56621996703936.webp",
+    "sha256": "41510df75c806dd233683268995e39d202bd993386246cb5a6f0b802fa065304",
+    "ordinal": 65,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare arms support build; turned pose and flared strapless top hide shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8136776155328-image-42380700287168",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/grey-black-skeleton-thermal-top-unisex",
+    "localPath": "images/foxblood-8136776155328-image-42380700287168.webp",
+    "sha256": "abbe82e58b2b1aca030f24b3823a0ee5a4c79367892cf1c0fe6499a4d047e33b",
+    "ordinal": 66,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose skeleton sweater and dark trousers obscure body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8136776155328-image-42104212390080",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/grey-black-skeleton-thermal-top-unisex",
+    "localPath": "images/foxblood-8136776155328-image-42104212390080.webp",
+    "sha256": "ebb2f34d65423b0a120538e24b16beff6188d508d2dbe38fb09d387e66df5326",
+    "ordinal": 67,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose skeleton sweater and dark trousers obscure body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8258318139584-image-45945476317376",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/foxblood-x-stega666-halloween-tee",
+    "localPath": "images/foxblood-8258318139584-image-45945476317376.webp",
+    "sha256": "b075cfc7f5dc5973949f809f5e40f10c0d98a8893490e1fb95933e11e2875dd7",
+    "ordinal": 68,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow bare forearms support build; long tee conceals waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8258318139584-image-45945476382912",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/foxblood-x-stega666-halloween-tee",
+    "localPath": "images/foxblood-8258318139584-image-45945476382912.webp",
+    "sha256": "0f8d0f95a4f71a44d1babdafca7300f24b4a1fb8a4497dbdb33947e96a268e32",
+    "ordinal": 69,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of graphic tee.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8245230272704-image-46568006582464",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/carnival-corset-top-red",
+    "localPath": "images/foxblood-8245230272704-image-46568006582464.webp",
+    "sha256": "c24d9c826d56acb81ab87c1d351e94a800dcecc40a454e85f3a4a32297240281",
+    "ordinal": 70,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible arms and thighs support build; puff sleeves and structured striped bodice conceal shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8245230272704-image-46418508906688",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/carnival-corset-top-red",
+    "localPath": "images/foxblood-8245230272704-image-46418508906688.webp",
+    "sha256": "aefc9892e0f340d899dd500b14ff9362e22ecca9f442fb0ce87f2fe8cff2d079",
+    "ordinal": 71,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow visible forearms support build; tight crop and structured puff-sleeve bodice obscure natural proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7964742090944-image-39187654967488",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/skeleton-thermal-joggers",
+    "localPath": "images/foxblood-7964742090944-image-39187654967488.webp",
+    "sha256": "afec174e3aa71b8304eca81604c89e19cadfd4f3a38bb0e50e61c6909bb7ada7",
+    "ordinal": 72,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Skeleton trousers shown without upper body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7964742090944-image-39188070301888",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/skeleton-thermal-joggers",
+    "localPath": "images/foxblood-7964742090944-image-39188070301888.webp",
+    "sha256": "8816bc5f7995236b1289450611b38b087f500ba790dfdf0c517f310a0f9cd1fa",
+    "ordinal": 73,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Second skeleton-trouser crop without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7940254728384-image-38823554908352",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/collar-cardigan",
+    "localPath": "images/foxblood-7940254728384-image-38823554908352.webp",
+    "sha256": "36720f5795c977c20e07fa42f67da7a77e7a6ecac1136b2c31da0333dd5d2288",
+    "ordinal": 74,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Exposed thighs support approximate build; oversized cardigan hides torso contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-7940254728384-image-38823554875584",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/collar-cardigan",
+    "localPath": "images/foxblood-7940254728384-image-38823554875584.webp",
+    "sha256": "8f15cede08092ea60a6a453cc98b0af86f1f0a9b997dc0ba80d5d8df42e3c00d",
+    "ordinal": 75,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cardigan displayed without a person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8218402947264-image-45737467412672",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/thorne-blazer",
+    "localPath": "images/foxblood-8218402947264-image-45737467412672.webp",
+    "sha256": "53a2e547ea8df46e7c5361b934c04a11d5bde8ff53db97c72e047ca2c2dcc948",
+    "ordinal": 76,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Embroidered blazer displayed flat.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "foxblood-8218402947264-image-46212446552256",
+    "source": "foxblood",
+    "sourceUrl": "https://foxblood.com/products/thorne-blazer",
+    "localPath": "images/foxblood-8218402947264-image-46212446552256.webp",
+    "sha256": "83293733e666706515af368ab962228d89c095134dfb4576e122a6f549852c63",
+    "ordinal": 77,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible lower legs and broad overall frame support build; oversized blazer and skirt hide shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-7350403268785-image-32756668858545",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/dagger-joggers",
+    "localPath": "images/midnighthour-7350403268785-image-32756668858545.webp",
+    "sha256": "1a1bc0d88e02240215fc8a0e744827b00b7f514bbf0cfc247d4ef0fdb7688969",
+    "ordinal": 78,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sword-print joggers shown without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-7350403268785-image-32756668793009",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/dagger-joggers",
+    "localPath": "images/midnighthour-7350403268785-image-32756668793009.webp",
+    "sha256": "593d4fbde12b33814226e959396e1edecf3168ef435f3ac52244356e12e2ebc8",
+    "ordinal": 79,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Second jogger crop omits upper torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8278518988977-image-38578515443889",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/triple-moon-denim-shorts",
+    "localPath": "images/midnighthour-8278518988977-image-38578515443889.webp",
+    "sha256": "43c28fa162d66d991d7c40521a054c97624e9973401494f588b4fa1bbfb4c1f3",
+    "ordinal": 80,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Bare arms and exposed waist show moderate taper; tilted shoulder and hip pose prevents confident balance label.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8278518988977-image-38578515312817",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/triple-moon-denim-shorts",
+    "localPath": "images/midnighthour-8278518988977-image-38578515312817.webp",
+    "sha256": "44f8d771a85aef1a733c19cd786514a5498637708969cc93207dac8e071dd11a",
+    "ordinal": 81,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated crop-top and shorts outfit with elbows lifted.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8845424361649-image-42140775547057",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/death-brigade-jacket-plus",
+    "localPath": "images/midnighthour-8845424361649-image-42140775547057.webp",
+    "sha256": "ee285205eb7ed3c4fe083b93250a4b0f76fc1a3fc66bd43f6de397f52c616efa",
+    "ordinal": 82,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Structured military jacket hides arms and natural torso shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8845424361649-image-42140775579825",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/death-brigade-jacket-plus",
+    "localPath": "images/midnighthour-8845424361649-image-42140775579825.webp",
+    "sha256": "eb594c9897e7ad409404b52b70e6ab3f9d3371b334e4ac2491c07ebd56cd0253",
+    "ordinal": 83,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Military-jacket fastening close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9099672387761-image-43780066967729",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/printed-corset-t-shirt",
+    "localPath": "images/midnighthour-9099672387761-image-43780066967729.webp",
+    "sha256": "78f548ec1c8a76de2c8225e74be36624b13cde6855cc63416a22354f58a7e6a6",
+    "ordinal": 84,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow bare arms support build; belted lower torso and tight hip crop obscure shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9119695503537-image-43780866080945",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/mesh-stripe-long-sleeve-top-plus",
+    "localPath": "images/midnighthour-9119695503537-image-43780866080945.webp",
+    "sha256": "453faef0e3c393e7b6853a7122201ce3f06324a8ef31aab68f9699617508127c",
+    "ordinal": 85,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled mesh-sleeve top crop repeats full outfit 87.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9119695503537-image-43780866113713",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/mesh-stripe-long-sleeve-top-plus",
+    "localPath": "images/midnighthour-9119695503537-image-43780866113713.webp",
+    "sha256": "3794eaeab94b92788d36f1dfd504d0726fe2f6fb34fb42145c381d034a55cc7b",
+    "ordinal": 86,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Second angled top crop repeats full outfit 87.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9076790821041-image-43780866048177",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/mesh-stripe-long-sleeve-top",
+    "localPath": "images/midnighthour-9076790821041-image-43780866048177.webp",
+    "sha256": "291f723c3cdc4617af8045a3a01ff292fef97d85da51e90fd4585afe190cd1ba",
+    "ordinal": 87,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Close top and sheer sleeves support broad build and moderate taper; wide trousers conceal hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9119696093361-image-43770811515057",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-leggings-plus",
+    "localPath": "images/midnighthour-9119696093361-image-43770811515057.webp",
+    "sha256": "f55f175b3d1d91ce6c93e65567b85f20e81f5568b3a5cf9312ee60124527e900",
+    "ordinal": 88,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side leggings crop without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9119696093361-image-43770811449521",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-leggings-plus",
+    "localPath": "images/midnighthour-9119696093361-image-43770811449521.webp",
+    "sha256": "5e417d23fbb3a8aba33a9968b4a89d1736b78b2d3c9de9fee0e9708127afce56",
+    "ordinal": 89,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Bare arms, exposed middle and fitted leggings show similar shoulder and hip span with moderate taper.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9042631983281-image-43770811613361",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-legging",
+    "localPath": "images/midnighthour-9042631983281-image-43770811613361.webp",
+    "sha256": "892381d3934f8cb5beb899217bf7324b3708cf10403959504ef4086cf3c4e62f",
+    "ordinal": 90,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Second side leggings crop without torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9042631983281-image-43770811416753",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-legging",
+    "localPath": "images/midnighthour-9042631983281-image-43770811416753.webp",
+    "sha256": "f859cba123e301d17a0e85b922d68713118dc632258410c3a0f05d1155cd386c",
+    "ordinal": 91,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear leggings crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9119698485425-image-43779605430449",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-shirt-plus",
+    "localPath": "images/midnighthour-9119698485425-image-43779605430449.webp",
+    "sha256": "0b92b2d85ae095ecc861e1e56d104281cc90c873c004b5ff75792c1df2fc7ae6",
+    "ordinal": 92,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Visible legs and overall frame support build; loose shirt and skirt hide natural torso shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9119698485425-image-43779605463217",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-shirt-plus",
+    "localPath": "images/midnighthour-9119698485425-image-43779605463217.webp",
+    "sha256": "60615cc8a01b522ddd35177d3b0a321e919819d7de6549dde5d3fcb4c64c93f1",
+    "ordinal": 93,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated cathedral-print shirt outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9061787140273-image-43779605266609",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-shirt",
+    "localPath": "images/midnighthour-9061787140273-image-43779605266609.webp",
+    "sha256": "88b37d10384461d86daaff8b2017baee6576ce89ec3cd8145d597b4fb4d0ab9a",
+    "ordinal": 94,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Angled cathedral-print shirt crop repeats clearer front view 95.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-9061787140273-image-43779605332145",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/cathedral-shirt",
+    "localPath": "images/midnighthour-9061787140273-image-43779605332145.webp",
+    "sha256": "bfd427621594cb5b63cdba462c854ccc004ebc0db581769b94b909de639d9aa6",
+    "ordinal": 95,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow overall frame and fitted trousers support build; long shirt conceals waist and hip edges.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8796270362801-image-40816255697073",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/spider-and-web-sweater-plus",
+    "localPath": "images/midnighthour-8796270362801-image-40816255697073.webp",
+    "sha256": "a2d931b267d0cad0e6bef219afbabd2296fc021db70b825c71de2dadc0bffc3c",
+    "ordinal": 96,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose sweater covers arms and torso; tight lower crop limits body judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8796270362801-image-40816255762609",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/spider-and-web-sweater-plus",
+    "localPath": "images/midnighthour-8796270362801-image-40816255762609.webp",
+    "sha256": "513ca535d25f254fd8d25b6270171622ffe48d52cc0cdbef34f69e6a8a937eea",
+    "ordinal": 97,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear spiderweb sweater view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8796276687025-image-40913668440241",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/spider-and-web-sweater-mens",
+    "localPath": "images/midnighthour-8796276687025-image-40913668440241.webp",
+    "sha256": "7367682054ec5d67d300701e6fa55e021efd882aee90f251dd4ef09095b924ce",
+    "ordinal": 98,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose long sweater hides arms and torso contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8796276687025-image-40913668505777",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/spider-and-web-sweater-mens",
+    "localPath": "images/midnighthour-8796276687025-image-40913668505777.webp",
+    "sha256": "263ed67f65a353674350ad7ab430be6b12311e5afde609da1a6a1593f00948a0",
+    "ordinal": 99,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated spiderweb-sweater outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8430062043313-image-40816255828145",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/spider-and-web-sweater",
+    "localPath": "images/midnighthour-8430062043313-image-40816255828145.webp",
+    "sha256": "4b2b085283ecbaedf1b4a00ec40b2de4fe60943cf2c1393224fb17b305fd7d45",
+    "ordinal": 100,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow fitted upper legs support approximate build; long loose sweater conceals torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-7503243641009-image-33959961264305",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/embroidered-snake-sweater-plus",
+    "localPath": "images/midnighthour-7503243641009-image-33959961264305.webp",
+    "sha256": "70d91d34bbb9222ccdb2a7e49ddb137875d4d389709dafabb0d28a5955e3b3ba",
+    "ordinal": 101,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Long loose snake sweater hides body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-7503243641009-image-33959961133233",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/embroidered-snake-sweater-plus",
+    "localPath": "images/midnighthour-7503243641009-image-33959961133233.webp",
+    "sha256": "9d615f14ba208e1bd3743d89813269b0860cee78ab2eaaa99109420ce8dc4365",
+    "ordinal": 102,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear snake-sweater view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-7495887847601-image-33903598993585",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/snake-embroidered-sweater-mens",
+    "localPath": "images/midnighthour-7495887847601-image-33903598993585.webp",
+    "sha256": "2fa33a08570837d86847cc9edd5530271242a16f4d6feeb91c468bbeed5b6186",
+    "ordinal": 103,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Neckline and chest print close-up without hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-7495887847601-image-33903598862513",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/snake-embroidered-sweater-mens",
+    "localPath": "images/midnighthour-7495887847601-image-33903598862513.webp",
+    "sha256": "4434aa4164ac7013e461cfaaaa8b927292e41a707fa295657ac3fb77631754c4",
+    "ordinal": 104,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear snake-sweater view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-7463008600241-image-33899866357937",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/embroidered-snake-sweater",
+    "localPath": "images/midnighthour-7463008600241-image-33899866357937.webp",
+    "sha256": "71fd639d8f559c5e0ac4dac98ad809adf352a3b6d8b4da498353abf0286f02ce",
+    "ordinal": 105,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Portrait crop repeats snake-sweater outfit better represented by 106.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-7463008600241-image-33899866423473",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/embroidered-snake-sweater",
+    "localPath": "images/midnighthour-7463008600241-image-33899866423473.webp",
+    "sha256": "cd2209e9a6cd3c0c02c0efc60f63bb33f36e3f66438c8c6f99b60cca554be08d",
+    "ordinal": 106,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow visible legs support approximate build; loose sweater and layered lace skirt hide shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8818844336305-image-40953586286769",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/black-lodge-cardigan-mens",
+    "localPath": "images/midnighthour-8818844336305-image-40953586286769.webp",
+    "sha256": "de58fc0cb6869ed65c92902cc6c1e0096d8b94986b27590f6f597fb033564b7d",
+    "ordinal": 107,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped red-cardigan outfit better represented by full view 108.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8818844336305-image-40953586417841",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/black-lodge-cardigan-mens",
+    "localPath": "images/midnighthour-8818844336305-image-40953586417841.webp",
+    "sha256": "a04c7230c73ed35b6472b368394a3c0b6bbc6bcc2fce5c53a1e8525db5af2efe",
+    "ordinal": 108,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow fitted trousers and overall frame support build; angled pose and cardigan obscure torso shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8818842796209-image-41088338165937",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/black-lodge-cardigan-plus",
+    "localPath": "images/midnighthour-8818842796209-image-41088338165937.webp",
+    "sha256": "ccee53a217720af85a124c012ddd869891e9b715b2a318c0fdc2a4fbac3aa4e7",
+    "ordinal": 109,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fitted trousers and visible overall frame support build; open cardigan obscures shoulder and waist contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8818842796209-image-41124091822257",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/black-lodge-cardigan-plus",
+    "localPath": "images/midnighthour-8818842796209-image-41124091822257.webp",
+    "sha256": "8ee423c0538788a9f6a96e030ab5f6e63bea5281feed7c841f752c1038425796",
+    "ordinal": 110,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow visible legs and frame support build; cardigan and mesh layers obscure torso contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8797002137777-image-43404195397809",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/distressed-rib-cardigan-mens",
+    "localPath": "images/midnighthour-8797002137777-image-43404195397809.webp",
+    "sha256": "82537dccd0a22fdd820caeceb73320bec30082003bd46302f50f3bf8c093e31f",
+    "ordinal": 111,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped gray-cardigan outfit better represented by full view 112.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8797002137777-image-43404194676913",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/distressed-rib-cardigan-mens",
+    "localPath": "images/midnighthour-8797002137777-image-43404194676913.webp",
+    "sha256": "4a4cc1ce883f1dda21768f36b7bce1b46080efed006336cf8cbafa6ad4ad0fc4",
+    "ordinal": 112,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Narrow fitted legs support build; long thick cardigan conceals torso proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8797001285809-image-43404190679217",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/distressed-rib-cardigan-plus",
+    "localPath": "images/midnighthour-8797001285809-image-43404190679217.webp",
+    "sha256": "bac06208b1d9af74808ff64f8e564f631f6d5b134d60e482ea7f30955d973331",
+    "ordinal": 113,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close trousers and visible middle support build; cardigan hides shoulders and hip edges.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "midnighthour-8797001285809-image-43404190744753",
+    "source": "midnighthour",
+    "sourceUrl": "https://www.midnighthour.com/products/distressed-rib-cardigan-plus",
+    "localPath": "images/midnighthour-8797001285809-image-43404190744753.webp",
+    "sha256": "af4962bbcfcab888dd66937d98f4d976ea960c381bc9a8d376c09bd31efc793e",
+    "ordinal": 114,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated gray-cardigan outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

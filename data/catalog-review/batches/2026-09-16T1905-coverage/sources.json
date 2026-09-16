@@ -1,0 +1,1192 @@
+{
+  "retrievedAt": "2026-09-16T19:04:41.842260+00:00",
+  "scope": "4 sources, at most three pages of 250 products each and 20 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "snag",
+      "pages": [
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-16T19:04:10.647747+00:00",
+          "snapshotSha256": "9609d44b059fd684770a933de27c6f2fe7ab87bd33d4b908ed79c729a97a9f3f"
+        },
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=2",
+          "products": 250,
+          "retrievedAt": "2026-09-16T19:04:11.579540+00:00",
+          "snapshotSha256": "f86dd28cddd7bebcb7099d4a504066f13f10e802075f049153b87152db62c3f5"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "snag-6760349433898-image-30569603039274",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/squat-proof-long-leggings-suffragette-purple-snag-1.jpg?v=1686596623",
+          "sourceUrl": "https://snagtights.com/products/long-leggings-purple",
+          "sha256": "42f6d8a6fd414afc48609b1b2fc16ce09e932aa309aea9c87c9dd73ffee6e7d8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-6760349433898-image-30569603432490",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/squat-proof-long-leggings-suffragette-purple-snag-3.jpg?v=1686596631",
+          "sourceUrl": "https://snagtights.com/products/long-leggings-purple",
+          "sha256": "825d7a6cc5005658f1fd1003aac877bd6636ee84e737d74f8b7c530f3d98970a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7287553065002-image-31761170825258",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/acotar-t-shirt-wing-span-snag-1.jpg?v=1764756871",
+          "sourceUrl": "https://snagtights.com/products/wing-span-acotar-t-shirt",
+          "sha256": "ace00886aeaac3ddfa1ebc825394aaad2297a73592799b7d605b48defdfde767",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7287553065002-image-35386167590954",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Chiara-Size-G-Acotar_Tee-Wingspan_1.jpg?v=1764756871",
+          "sourceUrl": "https://snagtights.com/products/wing-span-acotar-t-shirt",
+          "sha256": "01705680a45791d2b2ece1cc276c381182f46245ebbf1791cb60d3313deec605",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7150789099562-image-31499736678442",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/stay-cool-chub-rub-shorts-splits-snag-11.jpg?v=1720584900",
+          "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-splits",
+          "sha256": "f05d1de17152e1a3ce29877188b464319b79fb38e0bc6da5c098afe3e1ff4cb0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7150789099562-image-31499736809514",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/stay-cool-chub-rub-shorts-splits-snag-3.jpg?v=1720584890",
+          "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-splits",
+          "sha256": "700f91d07d1647661ecbc08de8dc3e2691f4e5eebc23a599773edd37829f26d6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7129160613930-image-31461146755114",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/stay-cool-chub-rub-shorts-kiwi-snag-1.jpg?v=1720584839",
+          "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-kiwi",
+          "sha256": "e4cdf95ad21604346d7e36fd5ac04fc68aaac635f82e8ea96609709cc8ac714a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7129160613930-image-31461147017258",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/stay-cool-chub-rub-shorts-kiwi-snag-3.jpg?v=1720584841",
+          "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-kiwi",
+          "sha256": "4077ffb11466eb2346b984a6a68ad8dc697d89417477b546faa6d594a63fef05",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7660895141930-image-36452236296234",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Margaret-Size-E-Cooling-Range-Sleep-Top-_1.jpg?v=1775741637",
+          "sourceUrl": "https://snagtights.com/products/bamboo-lounge-tee",
+          "sha256": "f71f17a00e46a6ca33d7ffc38faade4ca90536551266b3103113ad4e34505351",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7660895141930-image-36452236361770",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Margaret-Size-E-Cooling-Range-Sleep-Top-_5.jpg?v=1775741637",
+          "sourceUrl": "https://snagtights.com/products/bamboo-lounge-tee",
+          "sha256": "ecb266ed82bdaed7156dfdd82e06d272ad4da05c97e1a275f54b899ff2adc545",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-6916199841834-image-31414507438122",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/debbie-off-shoulder-tee-white-snag-1.png?v=1720583530",
+          "sourceUrl": "https://snagtights.com/products/activewear-tee-debbie-white",
+          "sha256": "7e969975df9dc7774fcc12a017321407f407bfc8d8e430b6712dc23e3d888952",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-6916199841834-image-31414507536426",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/debbie-off-shoulder-tee-white-snag-3.png?v=1720583532",
+          "sourceUrl": "https://snagtights.com/products/activewear-tee-debbie-white",
+          "sha256": "86423cd834855c6e3bfe98d60b6cd3f303cbc0b1625f024d8f85ab89771548ed",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7674859651114-image-34719526715434",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Larrissa-Size-F-Butter-BodySuit-_1.jpg?v=1755177467",
+          "sourceUrl": "https://snagtights.com/products/short-sleeve-cotton-bodysuit-butter",
+          "sha256": "b1922222524b2610bf9261978243f989dc1289c1981f47863ed0abdf060b1964",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7674859651114-image-34755510042666",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Ebony-Size-G-Bodysuit-Butter-_1.jpg?v=1755610871",
+          "sourceUrl": "https://snagtights.com/products/short-sleeve-cotton-bodysuit-butter",
+          "sha256": "34f5619ce0a1fdbefecc1598e11d9e57c58d2ba5de18ca96524ce3e475de9854",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7790971420714-image-35827182207018",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Nicky-Size-D-Glenfern-Mini-Skirt3.jpg?v=1769076092",
+          "sourceUrl": "https://snagtights.com/products/plaid-mini-flare-skirt-glenfern-v2",
+          "sha256": "b67ee77d234a7da99843874db0437be62ab17ef608d9993e64704adddc18389a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7790971420714-image-35827182272554",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Nell-Size-C-MiniGlenfernSkirt_3.jpg?v=1769076092",
+          "sourceUrl": "https://snagtights.com/products/plaid-mini-flare-skirt-glenfern-v2",
+          "sha256": "e0ccb2fddbd94c1e282f0241ae34483b958af58550acad56105757380e165699",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146126890-image-37188391239722",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Marlous-Size-D-Cotton-Gauze-Trousers-Cream2.jpg?v=1784237410",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-shirred-trousers-cream",
+          "sha256": "7f7937561428d02042e4a2286d2d0e6385c68978bb36971d757f071163ca0069",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146126890-image-37188391305258",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Larrissa-Size-F-Cotton-Gauze-Trousers_2BWrap-Top-Cream1.jpg?v=1784237410",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-shirred-trousers-cream",
+          "sha256": "7410c8b824ea1b46280c43a0f4f646569ffa0cf11145dbffb092e443e768486c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146094122-image-37188026564650",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Bella-Size-G-Josephine-Size-G-RaRa-Size-F-CottonGauze-Wrap-Top-_-Trousers-Brown-_1.jpg?v=1784286806",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-short-sleeve-wrap-top-brown",
+          "sha256": "d3484ba447520d301676d6eb9241ac111b4fdc966afe30a87a7a0be7e36c32e1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146094122-image-37188389240874",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Amee-Size-F-Cotton-Gauze-Wrap-Top_2BTrousers-Brown1.jpg?v=1784237390",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-short-sleeve-wrap-top-brown",
+          "sha256": "75275e5bfb9639515f85b036370d792c034b7d0d21da6aa42f7202a6f1dad52e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146683946-image-37188398022698",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Renell-Size-F-Cotton-Gauze-Wrap-Skirt-Pistachio.jpg?v=1784237534",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-wrap-skirt-pistachio",
+          "sha256": "8995b5e5cc4852d6838c92675910132e7f90e2638f5ff00e0034099652a5e9e8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146683946-image-37188398088234",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Lucy-Size-H-Cotton-Gauze-Wrap-Skirt-Pistachio2.jpg?v=1784237534",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-wrap-skirt-pistachio",
+          "sha256": "394f0ec84bc4834b2d3a3fb7a2f7f30835cbb7aa98d0ea4ed6febc76da014e5a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146585642-image-37188396646442",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Clara-Size-D-Gauze-Wrap-Skirt-Peony_2BGauze-Wrap-Top1.jpg?v=1784237512",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-wrap-skirt-peony",
+          "sha256": "036cc738c9f6c470493b9700c07fb2f022208053c14ed28d0cf342f185361010",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146585642-image-37188396711978",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Hayley-Size-F-Cotton-Gauze-Wrap-Skirt-Peony.jpg?v=1784237512",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-wrap-skirt-peony",
+          "sha256": "50cb1e286539b8a0dd21afce6e95dae062f2bd1b3d2a10ea7c097d6aa1b78a68",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146421802-image-37188395532330",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Polly-Size-F-Cotton-Gauze-Tee-Black2.jpg?v=1784237490",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-scoop-neck-tee-black",
+          "sha256": "cb7c2698e58d7f5ae6b7d3d34ee8d92f0c13c568fd800823dfc07e8df7bbbb54",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146421802-image-37188395597866",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Josephine-Size-G-Cotton-Gauze-Tee_2BTrousers-Black_2BRaRa-Size-F-Cotton-Gauze-Wrap-Top_2BTrousers-Cream2.jpg?v=1784237490",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-scoop-neck-tee-black",
+          "sha256": "12926a2e9a9c55125c4c4eca9d968bed4e25ca2892a69fe1fc0251bf9add7c9f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146323498-image-37188394385450",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Lousie-Size-F-Cotton-Gauze-Tee-White1.jpg?v=1784237469",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-scoop-neck-tee-white",
+          "sha256": "25f2298412a5eeb1f867e6694508d6dff5038fae3733334bd152cc888abaa0e6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146323498-image-37188394450986",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Elyshia-Size-D-Cotton-Gauze-Tee-White2.jpg?v=1784237468",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-scoop-neck-tee-white",
+          "sha256": "1cf862d320e9fcf9dda04f59c98fd78076cece22ca42233dc404c3cb56468ede",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956147011626-image-37188400316458",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Josephine-Size-G-Cotton-Gauze-Mini-Dress-Peony1.jpg?v=1784237573",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-v-neck-mini-tiered-dress-peony",
+          "sha256": "348710427839503e575c015717b19b819c29b481cf1e543294ac301098bbb520",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956147011626-image-37188400381994",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Prema-Size-D-V-Neck-Cotton-Gauze-Dress-Peony.jpg?v=1784237574",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-v-neck-mini-tiered-dress-peony",
+          "sha256": "d548ec742997f2b20660c6f67369a52b2bafe2cdf279fd75eaab7f331aa97cf6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146782250-image-37188399136810",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Denitra-Size-D-V-Neck-Cotton-Gauze-Dress-Black.jpg?v=1784237552",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-v-neck-mini-tiered-dress-black",
+          "sha256": "cc8571b3b986bfae7949c08e4570ded8a91190872e97d25f1adf760a670bdc67",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956146782250-image-37188399202346",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Denitra-Size-D-V-Neck-Cotton-Gauze-Dress-Black4.jpg?v=1784237552",
+          "sourceUrl": "https://snagtights.com/products/cotton-gauze-v-neck-mini-tiered-dress-black",
+          "sha256": "ed0172ac969bf75668efecec42cf26fb2e2c4762de9fa6c3a56363f9b8c250ec",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956145995818-image-37188387635242",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Flossi-Size-H-Cotton-Empire-Dress-Teal-City.jpg?v=1784237352",
+          "sourceUrl": "https://snagtights.com/products/printed-empire-dress-teal-city",
+          "sha256": "f1f5304800a3db04aec64e36491ddad2d222e3ac8cae0cfc56d33b5d3a671ad6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956145995818-image-37188387536938",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Amy-Size-F-Empire-Dress-Teal-City_lvfvt8.jpg?v=1784237352",
+          "sourceUrl": "https://snagtights.com/products/printed-empire-dress-teal-city",
+          "sha256": "658b2fc494a1ed5793016839017223768a19f0b5758b0f9e7a1753632de73619",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956145930282-image-37188386488362",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Larrissa-Size-F-Cotton-Empire-Dress-Pink-Pearl4.jpg?v=1784237332",
+          "sourceUrl": "https://snagtights.com/products/printed-empire-dress-pink-pearl",
+          "sha256": "4a887957fa9ee67549d17c25b8cdba383a9760b87dcd307669de628a027ff0fb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7956145930282-image-37188386553898",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Caitlin-Size-D-Cotton-Empire-Dress-Pink-Pearl.jpg?v=1784237332",
+          "sourceUrl": "https://snagtights.com/products/printed-empire-dress-pink-pearl",
+          "sha256": "356d76647171f75a7bac5d600429dfc901c8500f8bf3ff94b05b7773d5fbee74",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7660895535146-image-36452239441962",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Mandi-Size-E-Cooling-Range-Joggers-_3.jpg?v=1775741707",
+          "sourceUrl": "https://snagtights.com/products/bamboo-lounge-bottoms",
+          "sha256": "2f1595baf7be93b06b7f51f5faaa4433d7e801efe10dbc26f590204d1cff3686",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7660895535146-image-36452239507498",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Larrissa-Size-F-Cooling-Range-Joggers-_3.jpg?v=1775741707",
+          "sourceUrl": "https://snagtights.com/products/bamboo-lounge-bottoms",
+          "sha256": "cd14f487dd3785d20c73e0ee286276e73b6466d9b94f2b39aa57ffcae56c89e4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7918609006634-image-36986807320618",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Nim-Size_G-Fruity_Cardigan-Short_2_18a0fb36-0764-4724-b6a5-6541f1815290.jpg?v=1782422644",
+          "sourceUrl": "https://snagtights.com/products/short-fruity-cardy",
+          "sha256": "a4fbdb5ab13e01f9c87c0af416aef5cb6b89c1e598792ee84a14cdb3d0b30c05",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7918609006634-image-36986807255082",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Antonia-Size_D-Fruity_Cardigan-Short_1_e1dfab8a-1536-4175-a006-8a45e1934e81.jpg?v=1782422637",
+          "sourceUrl": "https://snagtights.com/products/short-fruity-cardy",
+          "sha256": "18b08ae255b2545f2ded5cc72bb8a4f6fa3c40e34e007db075d24082c46fcd5f",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 40
+    },
+    {
+      "source": "shinybynature",
+      "pages": [
+        {
+          "url": "https://shinybynature.com/products.json?limit=250&page=1",
+          "products": 100,
+          "retrievedAt": "2026-09-16T19:04:17.210485+00:00",
+          "snapshotSha256": "9f96b44c74d330bdcfa088fce80fb3d0e8623e49d87ed34eec7d18c8f2b673bd"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "shinybynature-8896066289880-image-47335930495192",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_0859_8efae5b4-3b46-4999-8d5a-288dac692026.jpg?v=1753319248",
+          "sourceUrl": "https://shinybynature.com/products/the-poem-dress-black",
+          "sha256": "aacc3668bb0f2e53f247036d1e4c113ce59a998572aadf82e8bf00eb8788c8a9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8896066289880-image-47335930527960",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_0865.jpg?v=1753319248",
+          "sourceUrl": "https://shinybynature.com/products/the-poem-dress-black",
+          "sha256": "1cf5c1133217740f378aeee9fb1a5fae2996f029cb7f314581f50c9b474e2975",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8852669661400-image-46294923673816",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_7205.jpg?v=1749514260",
+          "sourceUrl": "https://shinybynature.com/products/gingham-dress-sky",
+          "sha256": "672b91a9c91572b504339a87a6c8591f0e004c36418147145bb8bd46068b9b74",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8852669661400-image-46294923641048",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_7203.jpg?v=1749514260",
+          "sourceUrl": "https://shinybynature.com/products/gingham-dress-sky",
+          "sha256": "de5a6b84fa54fead697f2824e23604b5bc1d11e0832a62bf1e7450aac54af9f7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8852670480600-image-46294901915864",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_7198.jpg?v=1749514154",
+          "sourceUrl": "https://shinybynature.com/products/gingham-long-skirt-sky",
+          "sha256": "fa9b190e6b62930b75fb2bd94f8231728fee4ec6ae0e8f5b04843f36c03829d1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8852670480600-image-46294901981400",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_7200.jpg?v=1749514154",
+          "sourceUrl": "https://shinybynature.com/products/gingham-long-skirt-sky",
+          "sha256": "d3a5ce74d581497e4fa841e13602238d29ce5217770f660961165cc4cd7c80b8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9149642244312-image-49700563714264",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_24512.jpg?v=1772380056",
+          "sourceUrl": "https://shinybynature.com/products/dorothy-top-black-gingham",
+          "sha256": "8316283e29d9006d675af61c1370f44f979f3dd47315145bcdd72f72d8067773",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9149642244312-image-50529714307288",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6847_616a7047-b5f9-4dbb-9648-8bd982fa514f.jpg?v=1782312113",
+          "sourceUrl": "https://shinybynature.com/products/dorothy-top-black-gingham",
+          "sha256": "27d1c94008276620b4333d19135720f71f7d7c9be0080756b357f7fff6aaf543",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181605462232-image-51774061412568",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6434.jpg?v=1786976727",
+          "sourceUrl": "https://shinybynature.com/products/original-jeans-light-wash-with-bees",
+          "sha256": "952733d4e18c36b42b7a0cd6919a7296c8a2fd66ad081dd5aafbdb230c1fab90",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181605462232-image-51774061478104",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6437.jpg?v=1786976727",
+          "sourceUrl": "https://shinybynature.com/products/original-jeans-light-wash-with-bees",
+          "sha256": "622a6a4ffff2e584dde4995fee531f1712e12bcf26ce6fe273a19c94e67a725e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181671391448-image-50642256068824",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/FullSizeRender_b8037723-8a9a-458c-bfa6-c6753b7a2084.jpg?v=1783012339",
+          "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-medium-wash-with-bees",
+          "sha256": "e5753b9d92da3fe49c859bc7082454345ddb2df9e8fb6fbfd932cb4b90eaf738",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181671391448-image-50642256134360",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6563.jpg?v=1783012339",
+          "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-medium-wash-with-bees",
+          "sha256": "612758e86b3f8d7c325b615bb147cc11fc3d3ded3c53b9cd15fd0c7cc4c1f5c3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181662150872-image-50524193882328",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6424.jpg?v=1782221306",
+          "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-light-wash-meadow",
+          "sha256": "6b723ba20bbefad206fbad5e991ff4785f06117a113d8decfa124f2729b591c6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181662150872-image-50524193947864",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6428.jpg?v=1782221306",
+          "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-light-wash-meadow",
+          "sha256": "223a87ff07fb70c61fdf9bd8d710a9333b0d055fad7e51333305a117108fab16",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8932151886040-image-48226474721496",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_5667_15fd524c-fadf-4002-acad-85ced399b6a2.jpg?v=1756852751",
+          "sourceUrl": "https://shinybynature.com/products/picnic-pants-sweetheart",
+          "sha256": "61318bdb3e62173a8342163ddc7e680e20f0d09cc07ff592d9b63bed2e8cd443",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8932151886040-image-48226474623192",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_5668.jpg?v=1756852751",
+          "sourceUrl": "https://shinybynature.com/products/picnic-pants-sweetheart",
+          "sha256": "aa835e2658de859a2ade41497e2f2535f44f5dfb13433ec179456a3a3d87efef",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8884612923608-image-47012551688408",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_9504.jpg?v=1752020417",
+          "sourceUrl": "https://shinybynature.com/products/boatneck-top-black",
+          "sha256": "056afeaa97c326194932ef784ca34e37a7fb33c42bb057360c4506bd465ef742",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8884612923608-image-47012551655640",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_9506.jpg?v=1752020417",
+          "sourceUrl": "https://shinybynature.com/products/boatneck-top-black",
+          "sha256": "7ab42e85659e34c942d0ef00183d699a043b871f774eb494a135da7c1ed62462",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8156387213528-image-40953018581208",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_0230.jpg?v=1712430548",
+          "sourceUrl": "https://shinybynature.com/products/uptown-girl-shorts-matcha",
+          "sha256": "d7b67e77262b48a545efb6d266a8361700e2852c7b46c39a637a253b70d80639",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8156387213528-image-40953020907736",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_0224.jpg?v=1712430567",
+          "sourceUrl": "https://shinybynature.com/products/uptown-girl-shorts-matcha",
+          "sha256": "f16254643dbdf82bfa3b690aaab346f78a8943340b06fd2b285cbb6e38815d9d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8843629854936-image-46296608768216",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_7264.jpg?v=1749521850",
+          "sourceUrl": "https://shinybynature.com/products/the-flora-dress-black",
+          "sha256": "3a867d2792ae61de0d2584c728470eea6e8d0d7a0605fb7fa94ef496fd5c88d9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8843629854936-image-46296608702680",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_7268.jpg?v=1749521850",
+          "sourceUrl": "https://shinybynature.com/products/the-flora-dress-black",
+          "sha256": "5a0d85fea35657fe9568036a505233bc104e51938ba9bd099bcb33ac4072001f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8831383568600-image-45553849172184",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6697.jpg?v=1745451528",
+          "sourceUrl": "https://shinybynature.com/products/malibu-mini-dress-tofu",
+          "sha256": "d1e8a285adc2b03eea26c36035aebcf1dac52a5f0c6d9a0f265b9fa0611a3b12",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8831383568600-image-45553849204952",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6704_ee5bde14-616f-4288-8a0e-734454ab5146.jpg?v=1745451528",
+          "sourceUrl": "https://shinybynature.com/products/malibu-mini-dress-tofu",
+          "sha256": "171c41248870514f5d81f864df38b162f09c903cc0e36c47a6ad455ce7eeacf4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181670834392-image-50536753135832",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/FullSizeRender3_e6532a1c-8d70-4026-85b4-6dfaab898315.jpg?v=1782394396",
+          "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-medium-wash-with-daisies",
+          "sha256": "f21250e7b498fdbb8691d22e5cede2a7752aefe84cc4d424fce3a828f09d1066",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181670834392-image-50536753168600",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/FullSizeRender4_b9093fe9-998d-4cd3-802b-ca52ddeca656.jpg?v=1782394396",
+          "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-medium-wash-with-daisies",
+          "sha256": "a83a095ce6588fee1df74500542a3689ade61f4fe3b2c303126fc600ca1fb9a3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181669982424-image-50536825913560",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6050.jpg?v=1782394640",
+          "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-light-wash-with-daisies",
+          "sha256": "c3cd58c1a2cc710504c3698af04de05f5b4d9fc6ac811039608a8928f1d99ce2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181669982424-image-50536825979096",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6053.jpg?v=1782394640",
+          "sourceUrl": "https://shinybynature.com/products/29-inseam-jeans-light-wash-with-daisies",
+          "sha256": "9d27c36a7d32daa253070e02e88d378d172f11485bd225549a80eeacbfb2249c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181610606808-image-50537023865048",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6576.jpg?v=1782395347",
+          "sourceUrl": "https://shinybynature.com/products/original-jeans-medium-wash-meadow",
+          "sha256": "6cf1a8e7ab7de387a13789c0fb235a936c9156b874bef9c3d3c7afdb0ebb9013",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181610606808-image-50537023930584",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6578.jpg?v=1782395347",
+          "sourceUrl": "https://shinybynature.com/products/original-jeans-medium-wash-meadow",
+          "sha256": "7541520b3fc22f48018c089c67e8691fda0f3a8c56b77dc1210b19a142d21723",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181608083672-image-50536438333656",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6105.jpg?v=1782393349",
+          "sourceUrl": "https://shinybynature.com/products/original-jeans-medium-wash-with-daisies",
+          "sha256": "1d9a7192c9611d11541ddc81430607767ab49251c1738488bd29af52de67f7fc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181608083672-image-50536438366424",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6106.jpg?v=1782393349",
+          "sourceUrl": "https://shinybynature.com/products/original-jeans-medium-wash-with-daisies",
+          "sha256": "d8fc3c4e9a9a7dbf6cfea195e3647f08d33726a80310c9bf65fabf1268ef539c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181606936792-image-50536640741592",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6067.jpg?v=1782394008",
+          "sourceUrl": "https://shinybynature.com/products/original-jeans-light-wash-with-daisies",
+          "sha256": "d5d2206b2d7db7c840d1e60380448c0a1fef7b0264cab586eb6e2c34213bf2ea",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-9181606936792-image-50536640807128",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6069.jpg?v=1782394008",
+          "sourceUrl": "https://shinybynature.com/products/original-jeans-light-wash-with-daisies",
+          "sha256": "6cce34a0e95cb906ed6258543865618fed09671ca4b77c9fd2f8a6fd78baee91",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8895495307480-image-47336016543960",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_0881.jpg?v=1753319450",
+          "sourceUrl": "https://shinybynature.com/products/summer-gingham-shorts-cherry-blossom",
+          "sha256": "d861ffb33658776417de8d771866ec6f3f36c4ca0389a524c1cc1612351ebe84",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8895495307480-image-47336016445656",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_0884.jpg?v=1753319450",
+          "sourceUrl": "https://shinybynature.com/products/summer-gingham-shorts-cherry-blossom",
+          "sha256": "7c6a5cfe2ef53f3c9cd1f2a453a821e322070aa17440d3eda3ba31026fd6aa4f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8829699129560-image-45553851269336",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6688_07bff781-b22f-40df-8c98-ce762112a1c0.jpg?v=1747442458",
+          "sourceUrl": "https://shinybynature.com/products/sunday-mini-dress-black",
+          "sha256": "522e47098cd08ce228277e0edb7d83fffe61add25f33ae7d416de10c87f2a599",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8829699129560-image-45553851302104",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6689.jpg?v=1747442458",
+          "sourceUrl": "https://shinybynature.com/products/sunday-mini-dress-black",
+          "sha256": "432bcc6297ebb5271fb4f523e5a7a192bd46477c74e7092e72ee7ee7601d607c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8884618985688-image-47258459242712",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_0283.heic?v=1752954705",
+          "sourceUrl": "https://shinybynature.com/products/picnic-pants-blue-gingham",
+          "sha256": "dd993c1046bb0b9a074cabe8c507544909d704f1663b00e9fe75b98d01db1eed",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8884618985688-image-47258558660824",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_0285.heic?v=1752955804",
+          "sourceUrl": "https://shinybynature.com/products/picnic-pants-blue-gingham",
+          "sha256": "a6f15b6c52aa91afc0bf2208383d84e1d849bad0d58030b945feba054ed60c43",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 40
+    },
+    {
+      "source": "bigbudpress",
+      "pages": [
+        {
+          "url": "https://bigbudpress.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-16T19:04:29.024890+00:00",
+          "snapshotSha256": "262fe79fc77ab22717c3998401e845e775635fc822f3146cf1e9f8ecd6e2bebb"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "bigbudpress-11041114194113-image-50833815339201",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMVEGGIEPRINTCROPTANKXLASHLEYBYMIGUEL7-1-260145.png?v=1786483156",
+          "sourceUrl": "https://bigbudpress.com/products/cropped-tank-veggie-village",
+          "sha256": "1ee1b39b718f2de37d173e8608a12e09e32fed66d8d9994ab48d1bd6a726ab36",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041114194113-image-50833815404737",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMVEGGIEPRINTCROPTANKXLASHLEYBYMIGUEL7-1-260137.png?v=1786483156",
+          "sourceUrl": "https://bigbudpress.com/products/cropped-tank-veggie-village",
+          "sha256": "6e0e5290f875607a5190525f39c1542506da3ffbef64fd69f34c9397909b42a0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041108099265-image-50833710284993",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01-ONION-TEE.png?v=1786478739",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-onion",
+          "sha256": "b8bd893b12f68bf67ddf67628909d849faf63248ed044c85189d878afcfdaf30",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041108099265-image-50833710350529",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMVEGGIEONIONPALEXBYMIGUEL7-1-261862.png?v=1786478739",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-onion",
+          "sha256": "1a59d0263a16c1b8c4d8b4855ad4bb5bc478d9c922200b9fb0bab29bcce6e8c6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107935425-image-50833707466945",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01-GARLIC-TEE.png?v=1786478634",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-garlic",
+          "sha256": "b8b8b05b625f07d552c7ae439fcc8628e5026c69858dd2b264cab5d8ad189c01",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107935425-image-50833707532481",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMVEGGIEPURPLEGARLICXLASHLEYBYMIGUEL7-1-261178.png?v=1786478634",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-garlic",
+          "sha256": "d7273f27e03c1897e6e50655b5c4082d749e43b225b1ec0da5597cc9d688edf0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107574977-image-50833809244353",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01-SCALLION-TEE.png?v=1786482839",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-scallions",
+          "sha256": "077fa931dd32d1675ce93c30d62a3e9840be78ff3d1787534bb5efd2211fcade",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107574977-image-50833809309889",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMVEGGIECHIVESTEEPALEXBYMIGUEL7-1-260693.png?v=1786482839",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-scallions",
+          "sha256": "e045b49f7571d54a39887e3b83750d82f9f3cc8ae53556e19d3c5e56ccd835a6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107443905-image-50833521803457",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01-SNAP-PEAS-TEE.png?v=1786473939",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-snap-peas",
+          "sha256": "7be50a8d60c40bff45a41234ffc227e89264ca858c0c540c9d5ba73aa0530b49",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107443905-image-50833521868993",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMVEGGIESNAPPEASLGRANTBYMIGUEL7-1-261961.png?v=1786473939",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-snap-peas",
+          "sha256": "b6b5f570bc94ec607989981bc631aee43c98ca300dd643686959fe70ed15a9d2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107247297-image-50832883450049",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01-BANANA-TEE.png?v=1786465579",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-banana",
+          "sha256": "23a706bb0ee90894de4685436c217a76114199bc6fd19bcc90e8d33b0cafc437",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107247297-image-50832883515585",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMFRUITTEESBANANAPKANDIABYMIGUEL7-16-267200031.png?v=1786465580",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-banana",
+          "sha256": "e8e48d9a306f2e28f1f5d423d2feedad940745dcc72f556c7d96aff461bf4354",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107181761-image-50833502634177",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01-HABANERO-TEE.png?v=1786473600",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-habanero",
+          "sha256": "66fa03167ff821ae1d9abbc3f64f3f29c5dc726971090e3a25d07a5718331e9a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107181761-image-50833502699713",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMVEGGIEORANGEBELLPEPPERPALEXBYMIGUEL7-1-260983.png?v=1786473600",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-habanero",
+          "sha256": "97f8b91e278a99261da7d097845f9e19237a9abe71a2922225bd6e18c46fcafc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107083457-image-50833028677825",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01-ORANGE-TEE.png?v=1786466023",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-orange",
+          "sha256": "27dbd2686036621d37c8abf5c08857ea029c98e2ac469075057b313cdc26176d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041107083457-image-50833028743361",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMFRUITTEESORANGEPKANDIABYMIGUEL7-16-267262.png?v=1786466023",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-orange",
+          "sha256": "0c5c6b9a9165541e40f5acea3ddd8c9928b3ac5d2bb2138dcd024d589d6f5263",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041106854081-image-50832942301377",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01-CHERRY-TEE.png?v=1786465758",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-cherry",
+          "sha256": "9a4abba0f3e43a4bb9ce32b8ccff8e1758918a89da0227f09a129ff5e60f7b21",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041106854081-image-50832942366913",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMFRUITTEESCHERRYMISAACBYMIGUEL7-16-26720325.png?v=1786465758",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-cherry",
+          "sha256": "5ab6ae257416fb43e36784bcd447074a213683d9a84b3724147bd65894cf6c6c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041084408001-image-50833066590401",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01-STRABERRY-TEE.png?v=1786466135",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-strawberry",
+          "sha256": "0ec73d391d7228f5a8a84439064d107387fe3bb9b5ba3b680bbe5d4937730567",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11041084408001-image-50833066655937",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMFRUITTEESSTRAWBERRYMISAACBYMIGUEL7-16-26720079.png?v=1786466135",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-strawberry",
+          "sha256": "1a451195b6e908e3da41043f1feaaaaa976562b6b5469712ab11bf546ed39b1b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031685595329-image-50748279980225",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMMINITANKSJULIETBLACKLBYMIGUEL7-9-260248.png?v=1785360192",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-basic-black",
+          "sha256": "5dfc839c0ea86766210b5bfd214ab10c955eedcbd7fa59edcb432876c09861da",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031685595329-image-50748280045761",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMMINITANKSJULIETBLACKLBYMIGUEL7-9-260246.png?v=1785360192",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-basic-black",
+          "sha256": "d4e6f9e59ab1f356021c073dfba50c543755f249cdde4bb86aaf1e61ce3c9006",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031147479233-image-50748267069633",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMMINITANKSKANDIAHUNTERGREENPBYMIGUEL7-9-260245.png?v=1785359861",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-hunter-green",
+          "sha256": "40c762257a5d82e3232fdec076080171e7c4d554292400b03ca261b130c361df",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031147479233-image-50748267135169",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMMINITANKSKANDIAHUNTERGREENPBYMIGUEL7-9-260235.png?v=1785359861",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-hunter-green",
+          "sha256": "c6f7b171d8f463325471388c88ac3494ca9d70459606340288a60c5b5a5df225",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031147380929-image-50748261826753",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMMINITANKSKANDIACONSTRUCTIONORANGEPBYMIGUEL7-9-260202.png?v=1785359751",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-construction-orange",
+          "sha256": "2bf9cc7feb53abf7ae3ad546137ec2aea56798352779ab495b813c278ebe4e77",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031147380929-image-50748261892289",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMMINITANKSKANDIACONSTRUCTIONORANGEPBYMIGUEL7-9-260158.png?v=1785359750",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-construction-orange",
+          "sha256": "b61115a117351e6506cac3c6c5e292b40ccab7ac53cc1ece720a224d1697e46c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031146496193-image-50748269789377",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMMINITANKSKANDIAMUSTANGREDPBYMIGUEL7-9-260380.png?v=1785359919",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-mustang-red",
+          "sha256": "d94aa7cc6588489b307564a8a60f6e14e84912568550787f59a06cb50f63a577",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031146496193-image-50748269854913",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMMINITANKSKANDIAMUSTANGREDPBYMIGUEL7-9-260374.png?v=1785359918",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-mustang-red",
+          "sha256": "ade973fe304f3004f77251d71d96bea43258a599844a1be79e0b591c4685b257",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031147806913-image-50748277686465",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMMINITANKSJULIETWHITELBYMIGUEL7-9-260318.png?v=1785360091",
+          "sourceUrl": "https://bigbudpress.com/products/mini-crop-tank-vintage-tee-white",
+          "sha256": "48ef0e5980716230b5d0f2d165b9220f084120a235b178cb0127130c3be9cff7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031147806913-image-50748277752001",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMMINITANKSJULIETWHITELBYMIGUEL7-9-260316.png?v=1785360090",
+          "sourceUrl": "https://bigbudpress.com/products/mini-crop-tank-vintage-tee-white",
+          "sha256": "a2bd8ceb238710ca78075c15f97e78a7d0d647ce24b1a314647ff3895f4fe6ce",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031147708609-image-50748275261633",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMMINITANKSKANDIANEBULAPBYMIGUEL7-9-260176.png?v=1785360019",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-nebula-purple",
+          "sha256": "8a41f2b1d2d0c9b9e9e715e45ea81ffb74648939c59d702da844b0e0f4f0031c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031147708609-image-50748275327169",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMMINITANKSKANDIANEBULAPBYMIGUEL7-9-260170.png?v=1785360020",
+          "sourceUrl": "https://bigbudpress.com/products/contrast-stitch-mini-tank-nebula-purple",
+          "sha256": "b3598a6b584e5c2766c19623c84be48e66d59235dd535a52df117a0ed3548e41",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031538630849-image-50745024643265",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMRINGERTEESREDWINEPKANDIABYMIGUEL7-9-260139.png?v=1785336607",
+          "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-red-wine",
+          "sha256": "c50dffda1372317966cda13db6334be8b6f8ce6b36a5977926d0cc8e8d29fd9f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031538630849-image-50745024708801",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMRINGERTEESREDWINEPKANDIABYMIGUEL7-9-260170.png?v=1785336607",
+          "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-red-wine",
+          "sha256": "1b7f6ad202267a3bb6fea23aace2124200aadcd3e672cc17d02ab88e36198e1d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031145316545-image-50748102213825",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMRAILROADWORKPANTSJULIET2XLBURNTTERRACOTTABYMIG7-16-260145.png?v=1785356183",
+          "sourceUrl": "https://bigbudpress.com/products/railroad-denim-work-pants-burnt-terracotta",
+          "sha256": "482e7c9e4d90deb9acc4a475aa31a6042804d2c0b35033939a8d380e64d5d84f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031145316545-image-50748102279361",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMRAILROADWORKPANTSJULIET2XLBURNTTERRACOTTABYMIG7-16-260149.png?v=1785356183",
+          "sourceUrl": "https://bigbudpress.com/products/railroad-denim-work-pants-burnt-terracotta",
+          "sha256": "a7072f9741928cdede04a57e01026ca008ab491152c1439146601f7e0cc1cd37",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031541645505-image-50745097420993",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMRINGERTEESBURNTTERRACOTTAMJERRODBYMIGUEL7-9-260548.png?v=1785337221",
+          "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-burnt-terracotta",
+          "sha256": "5ec5fae7af0c3fa381e2da0968a67aab59e79f8a8677ad4d901c6c59646022d3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031541645505-image-50745097486529",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMRINGERTEESBURNTTERRACOTTAMJERRODBYMIGUEL7-9-260585.png?v=1785337220",
+          "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-burnt-terracotta",
+          "sha256": "2383b664e34d548c170269ef967c350b1a693051ee85e003db0dc10ab245e7d8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031542890689-image-50745042206913",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMRINGERTEESROYALBLUEMJERRODBYMIGUEL7-9-261237.png?v=1785336760",
+          "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-royal-blue",
+          "sha256": "c9515792d049240d64552691fddc9471f5a3535eb07d6e24fcf4ad52b78e7dbf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11031542890689-image-50745042272449",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/03ECOMMRINGERTEESROYALBLUEMJERRODBYMIGUEL7-9-261184.png?v=1785336759",
+          "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-royal-blue",
+          "sha256": "28af9950d21daf83adb8e9481130cfa1978c4f5a9ff981438e7e1de748d5765b",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 40
+    },
+    {
+      "source": "wildfang",
+      "pages": [
+        {
+          "url": "https://www.wildfang.com/products.json?limit=250&page=1",
+          "products": 221,
+          "retrievedAt": "2026-09-16T19:04:36.409657+00:00",
+          "snapshotSha256": "8bb7e2935bf3de2d87102af261e3c5139b5a8a0a9d222f40d9ae1aa80879dfbb"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "wildfang-10562853568693-image-76419666935989",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_WATERCOLORMOSSGREEN10.jpg?v=1787237271",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-60",
+          "sha256": "4450aeb2da6867a51e38f2198a854d62db0ea06908aff943e60981aa86589ecc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10562853568693-image-76419666903221",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_WATERCOLORMOSSGREEN9.jpg?v=1787257870",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-60",
+          "sha256": "690cbeb5f01ceedc871049a8255c3837c4ccee068ad0116954c40114fd7da545",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10562850619573-image-76419981803701",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_SUNSPOTMERLOT_f3a3948b-8e37-4d6b-8743-b6d1903d7615.jpg?v=1788908560",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-59",
+          "sha256": "da22e531451cd0155daca43f3d184bc0067b882769f0f646467ccc26d2a6c9d4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10562850619573-image-76419981738165",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_SUNSPOTMERLOT4_597dc324-6bd5-42c8-af60-e42ad8cf37b5.jpg?v=1788908574",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-59",
+          "sha256": "fbee3dcb0ea455114c2160fb28189a802454fa0de4cd7dd874ae0f55a21214ef",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10201458639029-image-72974173536437",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/DEBBIEHARRYXWILDFANGSWEATSHIRTBLACK6.jpg?v=1764112115",
+          "sourceUrl": "https://www.wildfang.com/products/debbie-harry-x-wildfang-sweatshirt",
+          "sha256": "77ee2ecaabc1e7a13a683615bb5aca80d9987df17ac77de5775f5a77dd64af10",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10201458639029-image-72974173569205",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/DEBBIEHARRYXWILDFANGSWEATSHIRTBLACK7.jpg?v=1764112115",
+          "sourceUrl": "https://www.wildfang.com/products/debbie-harry-x-wildfang-sweatshirt",
+          "sha256": "8c77eaacf77c6d639d572a5b045d2bdd7825c1e0926bd7c69e6afe2cd977b8db",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506381394101-image-76072889974965",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYSWEATERVEST_DIJON_1.jpg?v=1784817463",
+          "sourceUrl": "https://www.wildfang.com/products/the-everyday-sweater-vest-3",
+          "sha256": "50e5dbeddd439953faf577995518f1cfd4ff4659ee256bf18352653ce4235c03",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506381394101-image-76072890040501",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYSWEATERVEST_DIJON_3.jpg?v=1784817492",
+          "sourceUrl": "https://www.wildfang.com/products/the-everyday-sweater-vest-3",
+          "sha256": "0b3effb4346ac2037f68aaa1d2ae6038b000a1c855a00f448c8388e2919acee7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506381099189-image-76072873296053",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYARGYLESWEATERPOLO_NAVY_6.jpg?v=1784817228",
+          "sourceUrl": "https://www.wildfang.com/products/the-everyday-argyle-sweater-polo",
+          "sha256": "29e5d315c4a1d672fd026cc0b5342a0692008b6d9e3acc434e967faeb5affa3a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506381099189-image-76072873328821",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYARGYLESWEATERPOLO_NAVY_7.jpg?v=1784817248",
+          "sourceUrl": "https://www.wildfang.com/products/the-everyday-argyle-sweater-polo",
+          "sha256": "2101a597f743e0e289ebfe12fb60378d2322d5ce4ee67d2b3c52c942e1d8469b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506380607669-image-76072871592117",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYMOCKNECKTEE_DARKBLUE.jpg?v=1784816561",
+          "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tee-4",
+          "sha256": "95d92b9cf0df34cfd0fc8f0ef1215269e49c4d2d52af94eeb0598c0effca9486",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506380607669-image-76072871395509",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYMOCKNECKTEE_DARKBLUE2.jpg?v=1784816597",
+          "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tee-4",
+          "sha256": "8ef74d42dcd7ae1c45b2e729410dee001a5cb71fde47e04e9c30f8d1ef9fea81",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506379231413-image-76072855961781",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYCAMPBUTTONUP_PETALWAVEMOCHA_1.jpg?v=1784815904",
+          "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-10",
+          "sha256": "e4ba85165be0f40e3b391e4e91653f9ce0dd6860b8ca035af77ba4fbecb38458",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506379231413-image-76072856027317",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEVERYDAYCAMPBUTTONUP_PETALWAVEMOCHA_3.jpg?v=1784815944",
+          "sourceUrl": "https://www.wildfang.com/products/the-everyday-camp-button-up-10",
+          "sha256": "e80c10b38f99030c6f6b43d29ad92dfe7dc0f42505b41f8fec37334b90f72952",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506379100341-image-76072830697653",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_POPPYNAVY_1.jpg?v=1784815397",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-57",
+          "sha256": "dbf57926ff479e64953eac690ae42302c610d808421789ed9ce40805919aeb92",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506379100341-image-76072830763189",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_POPPYNAVY_3.jpg?v=1784815491",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-57",
+          "sha256": "44daef12650dfd37602c0b4d826a78e1538ca2f9edb091cbb8d602136f55f748",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506378641589-image-76072800026805",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALCROPPEDBUTTONUP_FLORALETCHCHARCOAL_1.jpg?v=1784750718",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-cropped-button-up-6",
+          "sha256": "8de9287daee98c7eee369f4ffc62354851112c1bf00abb80d35301ec6bb3fc6f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506378641589-image-76072800092341",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALCROPPEDBUTTONUP_FLORALETCHCHARCOAL_3.jpg?v=1784813425",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-cropped-button-up-6",
+          "sha256": "eb1bcd583f6cd4a1142cab82a08b4545161bef41f8ef11df374d2d3d36d022f8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506378215605-image-76072797601973",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALCROPPEDSTRIPEBUTTONUP_CINNAMON_1.jpg?v=1785777941",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-stripe-cropped-button-up",
+          "sha256": "1a597afc3633d65bdd5e794b3eb1e855ad70565404551d8af9618b52981a24bf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506378215605-image-76072797667509",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALCROPPEDSTRIPEBUTTONUP_CINNAMON_3.jpg?v=1785777975",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-stripe-cropped-button-up",
+          "sha256": "5ba71b96aea61af575a01a9df310104f469d95b07f4c8efd464d6f2bac2fcbd6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506376380597-image-76072763031733",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERLONGSLEEVEBUTTONUP_PINSTRIPENAVYOAT_6.jpg?v=1784812924",
+          "sourceUrl": "https://www.wildfang.com/products/the-empower-long-sleeve-button-up-1",
+          "sha256": "4a6d09da1edb1608b18c3ed204a5d8e4265ea2c08cf596d59b6893f76992c742",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506376380597-image-76072763097269",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERLONGSLEEVEBUTTONUP_PINSTRIPENAVYOAT_8.jpg?v=1784812985",
+          "sourceUrl": "https://www.wildfang.com/products/the-empower-long-sleeve-button-up-1",
+          "sha256": "58f105d3439d5d62a781b9c14f15896c40181da7432378334d88d5c951be8a9e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506376249525-image-76072764276917",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERPINSTRIPEWIDELEGTROUSER_NAVYOAT_5.jpg?v=1784812603",
+          "sourceUrl": "https://www.wildfang.com/products/the-empower-pinstripe-wide-leg-trouser-2",
+          "sha256": "813e36b53995df54041f86dbd0660f9a4ca0e62833ba9947f9fa4a71de127ceb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506376249525-image-76072764342453",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERPINSTRIPEWIDELEGTROUSER_NAVYOAT_7.jpg?v=1784812632",
+          "sourceUrl": "https://www.wildfang.com/products/the-empower-pinstripe-wide-leg-trouser-2",
+          "sha256": "01ac455fb5c64f13d6b546232f0eb7af91c45f3f6a432cd3d6d8705207eddb10",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506376085685-image-76072753463477",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALCORDUROYTROUSER_MOCHA_1.jpg?v=1784812087",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-corduroy-trouser-2",
+          "sha256": "c5c5727af3a9118e98433862e283ea293ce64448e377d18456a0c29871ef5082",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506376085685-image-76072753496245",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALCORDUROYTROUSER_MOCHA_2.jpg?v=1784812108",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-corduroy-trouser-2",
+          "sha256": "f3a5fd0ea95a01a80277bb6f0a6c7faf503e815e645227cb75635c4e1c4ffb4f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506375921845-image-76072751988917",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALCORDUROYVEST_MOCHA_1.jpg?v=1784811810",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-corduroy-vest-1",
+          "sha256": "dafcc13196e0368b431dfd5a5fb79ca6aa20834c3cded8c346433e31d2bf03dc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506375921845-image-76072752054453",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALCORDUROYVEST_MOCHA_3.jpg?v=1784812045",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-corduroy-vest-1",
+          "sha256": "ab5e5c74c42a65274d18d7f60dc020417eac3d60757bc19be997a912bbfaef67",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10505813459125-image-76072696447157",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERPLAIDDOUBLEBREASTEDBLAZER_MOCHA_7.jpg?v=1784749145",
+          "sourceUrl": "https://www.wildfang.com/products/the-empower-plaid-double-breasted-blazer",
+          "sha256": "b07dc84bf0b05b2953f407d7b032d7f94c0ef675d60c1cb027141fd9532a6808",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10505813459125-image-76072696479925",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERPLAIDDOUBLEBREASTEDBLAZER_MOCHA_8.jpg?v=1784749144",
+          "sourceUrl": "https://www.wildfang.com/products/the-empower-plaid-double-breasted-blazer",
+          "sha256": "9ec27544d7be77d80ab7c058a0f77e4dd0d1bde4553b0c7d204ced5481a8159e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10551364911285-image-76329986982069",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/SAILORHONEYMOONTEE4.jpg?v=1786718522",
+          "sourceUrl": "https://www.wildfang.com/products/sailor-honeymoon-x-wildfang-diary-tee",
+          "sha256": "f6f3d8730dd7a6f673a86f700275ae088233f0fef3a0345503c54b9a651f2686",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10551364911285-image-76329986916533",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/SAILORHONEYMOONTEE2.jpg?v=1786718672",
+          "sourceUrl": "https://www.wildfang.com/products/sailor-honeymoon-x-wildfang-diary-tee",
+          "sha256": "07999281c5f2fb21f7b0f6621ca9e3ca29f2c9441569f1fb3d94ede303741428",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506501357749-image-76072944271541",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/DEBBIEHARRYXWILDFANGGRAPHICTEE_BLACK_8.jpg?v=1784753582",
+          "sourceUrl": "https://www.wildfang.com/products/debbie-harry-x-wildfang-graphic-tee-3",
+          "sha256": "5541df16178747e238b7618c126a4ebf84092994f40e43e7f444762fba2f5904",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10506501357749-image-76072944238773",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/DEBBIEHARRYXWILDFANGGRAPHICTEE_BLACK_7.jpg?v=1784919117",
+          "sourceUrl": "https://www.wildfang.com/products/debbie-harry-x-wildfang-graphic-tee-3",
+          "sha256": "2877218109ae092c326c3d2ba13ccb4619f6910e6d189e8b818e0332e2d32700",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10562888728757-image-76419766190261",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALDENIMUTILITYPANT_NATURALBLUE6.jpg?v=1787247066",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-pant-5",
+          "sha256": "f3dc317019599a1317091e17295cf3bea7ab6515bff0427d99c08a671a77483c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10562888728757-image-76419766255797",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALDENIMUTILITYPANT_NATURALBLUE8.jpg?v=1787247025",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-pant-5",
+          "sha256": "94931351dfa3407774c2fb976d70e1b43f4363055aa2efbac6e7e9e30d065102",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10562886697141-image-76419734241461",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALDENIMLONGSLEEVEUTILITYSHIRT_NATURALCOBALTBLUE5.jpg?v=1787261566",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-long-sleeve-utility-button-up",
+          "sha256": "3baf5f3619f1f2f697b4dbe7af67f82e38aaf81d49de0ee5d1c125c8226d62af",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10562886697141-image-76419734306997",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALDENIMLONGSLEEVEUTILITYSHIRT_NATURALCOBALTBLUE7.jpg?v=1787261615",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-long-sleeve-utility-button-up",
+          "sha256": "5bfcd769be99931de362865eb4a48c9a10627fe0a7ae30260e2ac43633e05eaf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10562899083445-image-76419731259573",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALDENIMLONGSLEEVEUTILITYBUTTONUP_NAVY163.jpg?v=1787237609",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-long-sleeve-utility-button-up-1",
+          "sha256": "4fa19403358bfa52cbc2e036e989cd6ff8dc645b30567319526ce5ab4d0a5dda",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wildfang-10562899083445-image-76419731325109",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALDENIMLONGSLEEVEUTILITYBUTTONUP_NAVY165.jpg?v=1787534690",
+          "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-long-sleeve-utility-button-up-1",
+          "sha256": "f171c05cb95cc2ecd5da3373cac7a7c2cdadec805949f5582d5efadf273fc6a4",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 40
+    }
+  ]
+}
