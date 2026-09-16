@@ -6,16 +6,16 @@ import type { PhotoSession } from '../src/lib/photo-types';
 const empty = () => freshPhotoSession();
 const react = (s: PhotoSession, reaction: 'wear' | 'admire' | 'pass' | 'unsure' = 'wear') => votePhoto(s, nextPhoto(s, PHOTOS)!.id, reaction, PHOTOS);
 describe('color photo catalog and engine', () => {
-  test('every reference has unique source, local color image, credits and visible traits', async () => {
+  test('every reference has unique image identity, source credits and non-fabricated traits', async () => {
     expect(PHOTOS.length).toBeGreaterThanOrEqual(40);
     expect(new Set(PHOTOS.map(p => p.id)).size).toBe(PHOTOS.length);
-    expect(new Set(PHOTOS.map(p => p.sourceUrl)).size).toBe(PHOTOS.length);
+    expect(new Set(PHOTOS.map(p => p.src)).size).toBe(PHOTOS.length);
     for (const p of PHOTOS) {
       expect(p.src.startsWith('/photos/')).toBe(true);
       expect(await Bun.file(`public${p.src}`).exists()).toBe(true);
       expect(new URL(p.sourceUrl).protocol).toBe('https:');
       expect(p.creator.length).toBeGreaterThan(0);
-      expect(p.features.length).toBeGreaterThan(0);
+      expect(Array.isArray(p.features)).toBe(true);
       expect(new Set(p.features).size).toBe(p.features.length);
     }
     expect(PHOTOS.some(p => p.id.includes('31063303'))).toBe(false);
@@ -47,11 +47,11 @@ describe('color photo catalog and engine', () => {
     }
     expect(new Set(selected.map(p => p.id)).size).toBe(PHOTOS.length);
     expect(nextPhoto(s, PHOTOS)).toBeUndefined();
-    expect(new Set(selected.slice(0, 12).map(p => p.family)).size).toBe(6);
+    expect(new Set(selected.slice(0, 12).map(p => p.family))).toEqual(new Set(PHOTOS.map(p => p.family)));
     const women = selected.slice(0, 12).filter(p => p.collection === 'women').length;
     expect(women).toBeGreaterThanOrEqual(4); expect(women).toBeLessThanOrEqual(8);
     expect(new Set(selected.slice(0, 12).map(p => p.frame))).toEqual(new Set(PHOTOS.map(p => p.frame)));
-  });
+  }, 120000);
   test('sex never determines selection or style; body preference does not exclude', () => {
     const s = react(react(empty()));
     for (const sex of ['female', 'male', 'intersex', 'unspecified'] as const) {

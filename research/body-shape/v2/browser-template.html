@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stylr — body reference workbench</title>
+<style>
+:root{--paper:#f2efe8;--ink:#282d28;--green:#345647;--line:#d1d2c7}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px 'Trebuchet MS',sans-serif}header,main{max-width:1240px;margin:auto;padding:18px 28px}header{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line)}.wordmark{font:italic 32px Georgia,serif}.badge{font-size:12px;letter-spacing:.08em;text-transform:uppercase}h1{font:36px Georgia,serif;margin:10px 0 6px}p{line-height:1.5;margin:8px 0}.muted{color:#5b655c;font-size:14px}.controls{display:grid;grid-template-columns:2fr 1fr 1fr;gap:22px;margin:22px 0 14px}.control{display:grid;gap:9px}label{font-size:14px}input[type=range]{width:100%;accent-color:var(--green);height:28px;margin:0}.ends{display:flex;justify-content:space-between;font-size:12px;color:#62695f}select,button{font:inherit;border:1px solid #737d70;background:#fffdf7;color:var(--ink);border-radius:3px;min-height:44px;padding:8px 12px}button{cursor:pointer}button[aria-pressed=true]{background:var(--green);color:white;border-color:var(--green)}button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid #a34821;outline-offset:3px}.toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:12px 0}.toolbar button{font-size:14px}.count{margin-left:auto;font-size:14px}#gallery{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-top:18px}figure{margin:0;min-width:0;background:#e7e6de}figure img{width:100%;height:310px;object-fit:contain;display:block;background:#e7e6de}figcaption{background:#fffdf7;padding:10px 12px;font-size:13px;line-height:1.45}figcaption strong{display:block;font-weight:normal;color:var(--green)}details{margin-top:5px}summary{cursor:pointer}a{color:var(--green)}.empty{grid-column:1/-1;padding:40px 10px;border-top:1px solid var(--line)}footer{margin:24px 0;font-size:13px;color:#62695f}#more{display:block;margin:20px auto}#note{min-height:21px}output{float:right;color:var(--green)}[hidden]{display:none!important}@media(max-width:700px){header,main{padding:14px 16px}h1{font-size:28px}.controls{grid-template-columns:1fr 1fr;gap:12px;margin-top:16px}.control:first-child{grid-column:1/-1}#gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}figure img{height:260px}.count{width:100%;margin:0}.badge{font-size:10px}.toolbar{gap:6px}.toolbar button{font-size:12px;padding:8px}.muted{font-size:13px}}
+.control{min-width:0}select{width:100%;min-width:0}@media(max-width:700px){.controls{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:360px){.toolbar button{padding:8px}.wordmark{font-size:28px;white-space:nowrap}.badge{font-size:9px;letter-spacing:0}figure img{height:200px}}
+</style>
+<header><span class="wordmark">stylr ✳</span><span class="badge">Personal research · real photographs</span></header>
+<main>
+<h1>Find a familiar build.</h1>
+<p class="muted">Adjust the reference, then compare real outfits. These are approximate visual judgments, not clothing sizes.</p>
+<div class="controls">
+  <div class="control"><label for="build">Apparent build <output id="build-label" for="build">Slender–intermediate</output></label><input id="build" type="range" min="1" max="3" step="0.5" value="1.5"><div class="ends"><span>Slender</span><span>Intermediate</span><span>Fuller / broader</span></div></div>
+  <div class="control"><label for="shoulders">Shoulders relative to hips</label><select id="shoulders"><option value="any">Any / not selected</option><option value="-1">Hips broader</option><option value="0">Similar width</option><option value="1">Shoulders broader</option></select></div>
+  <div class="control"><label for="waist">Waist definition</label><select id="waist"><option value="any">Any / not selected</option><option value="0">Straighter</option><option value="1">Moderate indentation</option><option value="2">Pronounced indentation</option></select></div>
+</div>
+<div class="toolbar"><button id="reviewed" type="button" aria-pressed="true">Reviewed references</button><button id="suggested" type="button" aria-pressed="false">Algorithm suggestions</button><span id="count" class="count" role="status" aria-live="polite"></span></div>
+<p id="note" class="muted"></p>
+<div id="gallery"></div><button id="more" type="button">Show more</button>
+<footer>Local experiment. No uploads, generated bodies or changes to your Stylr saves. The primary assistant reviewed 144 photographs; 124 received an apparent-build judgment. Hidden shape traits do not pass selected filters. Photos and source credits are embedded in this file.</footer>
+</main>
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const records = JSON.parse(document.getElementById('data').textContent);
+const build = document.getElementById('build');
+const shoulders = document.getElementById('shoulders');
+const waist = document.getElementById('waist');
+const gallery = document.getElementById('gallery');
+const bands = {'1':'Slender','1.5':'Slender–intermediate','2':'Intermediate','2.5':'Intermediate–fuller','3':'Fuller / broader'};
+let mode = 'reviewed';
+let limit = 8;
+function render() {
+  const selected = Number(build.value);
+  document.getElementById('build-label').textContent = bands[build.value];
+  build.setAttribute('aria-valuetext', bands[build.value]);
+  document.getElementById('reviewed').setAttribute('aria-pressed', String(mode === 'reviewed'));
+  document.getElementById('suggested').setAttribute('aria-pressed', String(mode === 'suggested'));
+  const matches = records.filter(record => {
+    if (shoulders.value !== 'any' && record.shoulderHip !== Number(shoulders.value)) return false;
+    if (waist.value !== 'any' && record.waist !== Number(waist.value)) return false;
+    if (mode === 'reviewed') return record.build !== null && Math.abs(record.build - selected) < .25;
+    return !record.reviewed && record.estimate !== null;
+  }).sort((left, right) => mode === 'suggested' ? Math.abs(left.estimate - selected) - Math.abs(right.estimate - selected) : left.id.localeCompare(right.id));
+  document.getElementById('count').textContent = mode === 'reviewed' ? `${matches.length} reviewed references in this band` : `${matches.length} unreviewed candidates, ordered by estimate`;
+  document.getElementById('note').textContent = mode === 'reviewed' ? 'Only directly reviewed build bands appear here. Optional shape filters require an explicit reviewed observation.' : 'These are candidates to inspect, not confirmed matches. Absolute model scores are unreliable, especially near the fuller end. Shape filters may leave no suggestions.';
+  gallery.replaceChildren();
+  for (const record of matches.slice(0, limit)) {
+    const figure = document.createElement('figure');
+    figure.dataset.photoId = record.id;
+    const image = document.createElement('img');
+    image.src = record.image;
+    image.alt = `Outfit reference ${record.id}`;
+    image.loading = 'lazy';
+    const caption = document.createElement('figcaption');
+    const status = document.createElement('strong');
+    status.textContent = mode === 'reviewed' ? `${bands[String(record.build)]} · visual review` : 'Suggested · needs visual review';
+    const details = document.createElement('details');
+    const summary = document.createElement('summary');
+    summary.textContent = 'Observation & source';
+    const evidence = document.createElement('p');
+    evidence.textContent = record.evidence || 'Algorithmic ranking only. Body shape has not been reviewed for this photograph.';
+    const link = document.createElement('a');
+    link.href = record.source;
+    link.target = '_blank';
+    link.rel = 'noreferrer';
+    link.textContent = record.id;
+    details.append(summary, evidence, link);
+    caption.append(status, details);
+    figure.append(image, caption);
+    gallery.append(figure);
+  }
+  if (!matches.length) {
+    const empty = document.createElement('p');
+    empty.className = 'empty';
+    empty.textContent = 'No references for this combination yet. Adjust a control to explore another selection; unknown traits are not substituted.';
+    gallery.append(empty);
+  }
+  document.getElementById('more').hidden = matches.length <= limit;
+}
+for (const control of [build, shoulders, waist]) control.addEventListener('input', () => {limit = 8; render();});
+for (const value of ['reviewed', 'suggested']) document.getElementById(value).addEventListener('click', () => {mode = value; limit = 8; render();});
+document.getElementById('more').addEventListener('click', () => {limit += 8; render();});
+render();
+</script>
+</html>

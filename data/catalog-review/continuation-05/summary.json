@@ -1,0 +1,39 @@
+{
+  "reviewedPhotos": 120,
+  "sources": {
+    "bigbudpress": 15,
+    "disturbia": 12,
+    "forestink": 1,
+    "foxblood": 3,
+    "kirrinfinch": 15,
+    "midnighthour": 15,
+    "mochipan": 15,
+    "myviolet": 15,
+    "universalstandard": 15,
+    "wear": 14
+  },
+  "axisSupport": {
+    "build": 74,
+    "shoulderHip": 1,
+    "waist": 5
+  },
+  "allThreeLabeled": 1,
+  "buildBands": {
+    "2.0": 7,
+    "None": 46,
+    "1.5": 41,
+    "2.5": 12,
+    "3.0": 14
+  },
+  "views": {
+    "full": 30,
+    "detail": 9,
+    "reject": 4,
+    "partial": 73,
+    "seated": 4
+  },
+  "remainingPhotos": 182,
+  "totalReviewedIncludingFullStandingPass": 1011,
+  "matchingProjectionUpdated": false,
+  "deployed": false
+}

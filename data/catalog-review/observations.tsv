@@ -1,0 +1,412 @@
+ordinal	build	shoulderHip	waist	styles	silhouette	palette	evidence
+1	1	0	1	maximalist,punk	mixed	multicolor	Exposed legs and close shorts; patterned oversized sleeves.
+2	1	?	?	dark-casual	loose	dark	Exposed limbs suggest narrow build; shirt hides trunk.
+3	1.5	?	?	punk,sport	mixed	dark	Slim legs visible; oversized top hides local proportions.
+4	3	?	1	everyday,sport	mixed	colorful	Close tank shows waist indentation; turned hips.
+5	3	?	1	everyday,sport	mixed	colorful	Close tank and exposed legs; turned stance limits widths.
+6	3	0	0	workwear	loose	colorful	Broad torso with relatively straight outline in coverall.
+7	1.5	0	?	workwear	loose	muted	Arms and upper hips visible; bib obscures waist.
+8	1.5	0	1	everyday	mixed	muted	Close crop top and upper trouser contour.
+9	3	0	1	everyday	mixed	muted	Close tank and visible upper hip outline.
+10	1.5	?	1	everyday	mixed	muted	Waist visible; raised arms change shoulder comparison.
+11	1.5	?	1	everyday	mixed	muted	Side view supports build and waist, not width balance.
+12	1.5	?	1	everyday,sport	mixed	multicolor	Close tank; turned hips and bent leg.
+13	3	0	1	everyday	mixed	multicolor	Tank defines torso; shoulder and upper hip breadth comparable.
+14	1.5	0	1	everyday	mixed	neutral	Close tee and upper hip contour; wide lower trousers.
+15	3	0	1	everyday	mixed	neutral	Close tee exposes broad torso and moderate waist indentation.
+16	3	0	1	everyday	mixed	colorful	Close tee and upper trousers provide visible comparison.
+17	3	0	1	everyday,sport	mixed	colorful	Tee follows torso above shorts; moderate indentation.
+18	1.5	0	1	everyday	mixed	neutral	Close cutout top, visible waist and upper hip outline.
+19	2	1	0	everyday	mixed	neutral	Close tank shows broader shoulders and straight waist.
+20	1.5	0	1	everyday	mixed	muted	Tank and jeans follow torso and hip boundaries.
+21	3	?	1	everyday	fitted	muted	Side view shows build and waist; frontal balance unavailable.
+22	2.5	?	?	everyday	mixed	muted	Distant stair pose; local proportions unresolved.
+23	2.5	1	0	everyday,tailored	mixed	dark	Broad upper torso above narrow trousers; scarf obscures center.
+24	3	1	0	preppy,everyday	mixed	muted	Cardigan follows broad upper torso with little indentation.
+25	3	0	0	everyday	mixed	neutral	Broad torso and hips; patterned shirt follows straight outline.
+26	3	?	?	everyday	mixed	colorful	Wide upper torso visible; distant angled image limits local labels.
+27	3	?	?	tailored,everyday	layered	muted	Coat hides waist and hip boundaries.
+28	3	0	0	everyday	layered	colorful	Open overshirt; broad straight torso and visible shorts.
+29	1	0	1	goth	fitted	dark	Close crop top and trousers reveal narrow torso outline.
+30	1.5	?	?	goth	layered	dark	Long coat conceals lateral waist and hips.
+31	1.5	0	1	goth,romantic	mixed	dark	Close bodice and upper trousers reveal moderate indentation.
+32	1.5	?	?	goth,romantic	layered	colorful	Long shaped layer and raised arm confound local proportions.
+33	1.5	0	1	goth,everyday	layered	dark	Open cardigan exposes midriff and close upper trousers.
+34	1.5	?	1	romantic	waist-defined	muted	Fitted bodice; flared skirt hides hip breadth.
+35	1.5	?	?	goth,romantic	waist-defined	dark	Laced fitted bodice shapes waist; long skirt hides hips.
+36	1.5	?	?	goth,romantic	waist-defined	dark	Laced dress shapes trunk; skirt and hands obscure hips.
+37	2.5	?	?	goth,romantic	waist-defined	dark	Visible arms support broader build; lacing and full skirt obscure shape.
+38	2.5	?	?	goth,romantic	waist-defined	dark	Broad arms and torso; structured waist and skirt confound proportions.
+39	2.5	?	?	punk,romantic	waist-defined	muted	Broad exposed limbs; held-out skirt and structured bodice.
+40	1.5	?	1	punk,industrial	fitted	dark	Close shiny suit; turned stance blocks width comparison.
+41	1.5	0	?	punk,industrial	fitted	dark	Enlarged review shows structured corset shaping waist; hips and shoulders remain visible.
+42	1	?	?	romantic,dark-casual	waist-defined	dark	Narrow exposed limbs; gathered dress hides true hip contour.
+43	1.5	0	?	punk,goth	fitted	dark	Close skirt and exposed shoulders; corset shapes waist.
+44	1.5	0	?	punk,goth	fitted	dark	Upper hips visible; structured corset prevents independent waist judgment.
+45	1.5	?	?	punk,goth	fitted	dark	Raised arms and corset confound both local comparisons.
+46	1.5	0	?	punk,goth	fitted	dark	Short fitted skirt and bare shoulders; corset shapes waist.
+47	2	?	?	romantic,goth	waist-defined	colorful	Laced bodice and hanging skirt obscure natural proportions.
+48	2	?	?	romantic,goth	waist-defined	colorful	Laced bodice shapes waist; skirt obscures hip extent.
+49	1.5	0	1	goth,punk	fitted	dark	Close mesh top and trousers; moderate waist contour.
+50	3	-1	2	dark-casual,workwear	fitted	dark	Enlarged view shows pronounced waist indentation and broader hips in close jumpsuit.
+51	3	?	?	goth,romantic	loose	dark	Full loose dress; visible legs support broad build only.
+52	3	?	?	goth,romantic	loose	dark	Exposed arms and broad torso; empire skirt conceals waist and hips.
+53	3	?	?	goth,romantic	loose	dark	Exposed arms support build; held skirt changes lower outline.
+54	3	0	1	goth,romantic	fitted	dark	Close top and skirt show broad balanced contour.
+55	1.5	0	2	dark-casual	fitted	dark	Enlarged view shows pronounced indentation between close tank and upper hips.
+56	1.5	0	1	dark-casual,sport	mixed	dark	Exposed waist and close crop top above joggers.
+57	3	0	0	dark-casual	mixed	dark	Tank and upper trousers show broad fairly straight torso.
+58	1.5	0	2	dark-casual	fitted	dark	Enlarged fitted-dress view shows pronounced waist indentation, comparable to existing anchors.
+59	2.5	0	1	dark-casual	fitted	dark	Close long dress and exposed arms show moderate indentation.
+60	3	?	?	goth,tailored	layered	dark	Coat and loose lower layer obscure local contours.
+61	2	?	1	goth,tailored	layered	dark	Open coat reveals close waist; hides shoulder and hip edges.
+62	1.5	?	?	goth,romantic	layered	dark	Loose sheer dress over trousers obscures body boundaries.
+63	1.5	?	?	goth,romantic	layered	dark	Sheer loose dress gives broad impression, not local landmarks.
+64	2.5	?	?	goth,tailored	layered	muted	Structured coat and fur trim dominate contour.
+65	1.5	?	1	goth,romantic	waist-defined	dark	Fitted bodice shows indentation; gathered skirt hides hips.
+66	3	?	?	goth,romantic	waist-defined	dark	Broad upper torso and arms; full skirt obscures shape.
+67	3	0	1	dark-casual,sport	layered	dark	Open robe exposes fitted crop top, waist and shorts.
+68	3	0	1	dark-casual,sport	layered	dark	Close inner garments show broad balanced proportions.
+69	2	?	?	goth,romantic	waist-defined	dark	Corset-like bodice and full trousers obscure local anatomy.
+70	3	?	?	goth,romantic	waist-defined	dark	Laced structured waist and full skirt confound local labels.
+71	1.5	0	1	punk,everyday	mixed	neutral	Exposed waist and fitted skirt; cropped tee.
+72	1.5	?	?	punk,dark-casual	layered	dark	Jacket and oversized tee hide waist and shoulders.
+73	3	0	1	punk,everyday	mixed	neutral	Close skirt and exposed waist show broad balanced outline.
+74	3	0	0	punk	fitted	dark	Enlarged view shows broad relatively straight midsection above short skirt.
+75	1.5	?	?	workwear,everyday	layered	neutral	Loose pinafore and sleeves conceal local widths.
+76	1.5	0	1	everyday	mixed	muted	Close sleeveless crop top; upper denim contour visible.
+77	1.5	?	?	everyday	loose	colorful	Loose tee and wide culottes hide local contour.
+78	1.5	0	1	everyday	mixed	colorful	Close top and upper hip outline above loose trousers.
+79	2.5	0	1	workwear	mixed	colorful	Coverall follows broad torso with moderate indentation.
+80	1.5	0	1	workwear	mixed	colorful	Close upper layers reveal waist above wide lower legs.
+81	3	0	0	workwear	loose	muted	Broad coverall contour is fairly straight through trunk.
+82	1.5	?	?	everyday,romantic	loose	multicolor	Loose long dress hides waist and hip relationship.
+83	3	?	?	everyday,sport	loose	colorful	Fleece hides upper torso; wide trousers and exposed lower legs.
+84	1.5	0	1	everyday	mixed	colorful	Close checked top and upper denim outline.
+85	1.5	?	?	workwear,everyday	layered	multicolor	Boxy jacket hides shoulder and waist outline.
+86	1.5	?	?	everyday	layered	multicolor	Loose jacket conceals waist and upper hips.
+87	1.5	0	1	everyday	mixed	colorful	Fitted knit and upper jeans show moderate waist indentation.
+88	1.5	0	1	everyday	mixed	colorful	Close cropped knit exposes waist above gathered trousers.
+89	1.5	1	0	dark-casual,punk	mixed	dark	Tee and joggers show shoulders broader than narrow hips.
+90	1.5	?	?	goth,everyday	layered	dark	Patterned outer layer obscures torso boundaries.
+91	2	0	1	goth,punk	layered	dark	Open cardigan reveals midriff and upper trousers.
+92	2	0	1	goth,punk	layered	dark	Inner crop top and upper jeans provide broad comparison.
+93	2	0	?	goth,romantic	waist-defined	dark	Drape permits approximate hip comparison; broad belt shapes waist.
+94	2	0	?	goth,romantic	waist-defined	dark	Draped dress follows hips; belt defines apparent waist.
+95	1.5	0	1	punk	layered	neutral	Open cardigan reveals fitted shorts and midriff.
+96	2.5	?	1	punk	layered	neutral	Enlarged view confirms cardigan covers shoulder edges; close inner waist remains visible.
+97	1.5	1	0	punk,everyday	layered	neutral	Open cardigan reveals straight tank and narrow hips.
+98	1	0	1	tailored,goth	mixed	dark	Shirt and upper trousers follow narrow torso.
+99	1.5	0	1	goth,tailored	fitted	dark	Close sheer top and upper trousers reveal proportions.
+100	2.5	?	1	goth	layered	dark	Midriff visible; trimmed coat hides shoulder and hip edges.
+101	1.5	?	1	goth,romantic	waist-defined	dark	Close bodice follows waist; flared skirt hides hips.
+102	2.5	?	?	goth,romantic	waist-defined	dark	Back view; skirt held outward, unsuitable frontal comparison.
+103	1.5	?	1	goth,romantic	waist-defined	dark	Fitted bodice shows indentation; held skirt hides hips.
+104	2.5	?	1	goth,romantic	waist-defined	dark	Bodice follows broad torso; flared skirt obscures hips.
+105	2.5	?	1	goth,romantic	waist-defined	dark	Close bodice and exposed limbs; flared lower garment.
+106	2.5	?	1	goth,romantic	waist-defined	dark	Bodice follows waist; angled stance and held skirt.
+107	1.5	?	1	goth,romantic	waist-defined	dark	Close waist visible; A-line skirt hides hip contour.
+108	2.5	?	1	goth,romantic	waist-defined	dark	Broad upper torso with moderate indentation; full skirt.
+109	1.5	?	1	goth,romantic,maximalist	waist-defined	multicolor	Close upper bodice; skirt deliberately spread wide.
+110	2.5	?	?	goth,romantic	waist-defined	muted	Laced bodice shapes waist; A-line skirt hides hips.
+111	2.5	?	?	dark-casual,romantic	waist-defined	dark	Belted shirt dress defines waist and conceals hips.
+112	2.5	?	?	dark-casual,romantic	waist-defined	dark	Belt and full skirt prevent independent local comparisons.
+113	2.5	?	1	goth,romantic	waist-defined	dark	Close bodice, broad limbs; skirt hides hip boundaries.
+114	2.5	?	?	goth,romantic	waist-defined	dark	Back view; no frontal shoulder-to-hip assessment.
+115	2.5	?	1	goth,romantic	waist-defined	dark	Bodice follows torso; held-out skirt conceals hips.
+116	2.5	?	1	goth,romantic	waist-defined	dark	Close bodice above full skirt; moderate waist indentation.
+117	1.5	?	?	goth	layered	dark	Fur-trimmed coat obscures actual shoulder and waist outlines.
+118	1.5	?	?	goth	layered	dark	Coat trim and overlapping hands obscure body boundaries.
+119	2.5	?	?	goth	layered	dark	Broad apparent torso; coat hides local proportions.
+120	1.5	?	?	goth,tailored	layered	dark	Long structured coat conceals torso and hips.
+121	1.5	?	1	goth,romantic	waist-defined	dark	Close upper top follows waist; long skirt conceals hips.
+122	2.5	0	2	goth	fitted	dark	Enlarged close dress shows pronounced waist indentation relative to torso and hips.
+123	2.5	?	1	goth,romantic	waist-defined	dark	Close top shows waist; full printed skirt hides hips.
+124	1.5	?	1	goth,romantic	waist-defined	dark	Dress follows upper torso but flares over hips.
+125	1.5	?	?	goth,romantic	waist-defined	dark	Tie-waist shirt dress creates the waist and skirt outline.
+126	2.5	?	?	goth,romantic	waist-defined	dark	Broad arms and torso; belt and full skirt obscure local shape.
+127	1.5	?	?	goth,romantic	waist-defined	dark	Shaped bodice and flared skirt confound independent labels.
+128	2.5	-1	1	goth,everyday	mixed	dark	Short lace top and close jeans show broader hips.
+129	2.5	-1	1	goth,everyday	mixed	dark	Close upper jeans wider than shoulders; moderate waist.
+130	2.5	?	1	romantic,goth	waist-defined	muted	Fitted bodice follows torso; skirt obscures hip edges.
+131	2.5	?	1	goth,romantic	waist-defined	dark	Sleeveless close bodice reveals waist; full skirt.
+132	2.5	?	1	goth,romantic	waist-defined	dark	Upper contour visible; angled hips beneath flared skirt.
+133	1.5	1	0	punk,everyday	layered	dark	Open cardigan reveals straight tank and narrow trousers.
+134	2.5	-1	1	dark-casual,sport	mixed	dark	Leggings and close hoodie show hips broader than shoulders.
+135	2.5	?	?	goth,tailored	layered	dark	Long coat conceals local torso and hip outline.
+136	1	?	1	romantic	waist-defined	pastel	Narrow exposed limbs; fitted bodice and tiered skirt.
+137	3	?	1	romantic,maximalist	waist-defined	neutral	Close top shows broad torso and waist; flowing skirt hides hips.
+138	3	?	1	romantic,maximalist	waist-defined	neutral	Close torso visible above voluminous patterned skirt.
+139	2	?	?	maximalist	mixed	colorful	Cape-like sleeves and jacket hide torso; exposed legs aid build.
+140	2	?	?	maximalist,romantic	loose	multicolor	Wide jacket and flowing skirt obscure local proportions.
+141	2	?	?	maximalist,romantic	loose	multicolor	Arms spread in wide jacket; lower silhouette dominated by skirt.
+142	1.5	?	1	maximalist,everyday	layered	colorful	Open jacket exposes close midriff; shoulders concealed.
+143	3	?	?	maximalist,romantic	mixed	multicolor	Arms extended in oversized jacket; gathered skirt hides hips.
+144	3	0	1	workwear,maximalist	mixed	muted	Sleeveless coverall follows broad torso and upper hips.
+145	3	0	1	workwear,maximalist	mixed	muted	Coverall follows broad waist and upper hip contour.
+146	1.5	?	?	workwear,romantic	layered	pastel	Bib and loose blouse hide waist and shoulders.
+147	2	?	?	maximalist,romantic	loose	colorful	Spread jacket and flowing dress obscure local proportions.
+148	1.5	?	1	romantic	waist-defined	dark	Close upper bodice; full long skirt hides hips.
+149	2	?	?	tailored	mixed	muted	Structured suit shapes shoulders and waist.
+150	2	?	?	romantic,maximalist	waist-defined	colorful	Laced bodice shapes waist; wide trousers conceal hip breadth.
+151	2	?	?	romantic,maximalist	waist-defined	colorful	Structured bodice and flared lower garment dominate outline.
+152	3	?	?	maximalist,romantic	mixed	multicolor	Wide cape sleeves and full skirt; broad exposed legs.
+153	1.5	?	?	romantic,sport	loose	pastel	Oversized hoodie obscures torso and hips.
+154	2	?	1	romantic	waist-defined	pastel	Close bodice and exposed legs; held flared skirt hides hips.
+155	1.5	?	?	goth,sport	loose	dark	Cape shoulders and loose top hide trunk proportions.
+156	1.5	?	?	goth,sport	loose	dark	Loose hooded layer and shorts; narrow exposed legs.
+157	1.5	?	?	goth,sport	loose	dark	Arms spread in loose sleeves; torso hidden.
+158	1.5	?	?	goth,sport	loose	dark	Cape shoulder layer and joggers hide local contour.
+159	1.5	?	?	goth,tailored	waist-defined	colorful	Structured coat creates shoulder and waist silhouette.
+160	2	?	?	romantic,maximalist	waist-defined	colorful	Cape sleeves and full skirt; belt defines waist.
+161	2.5	?	?	romantic,everyday	mixed	multicolor	Side view; blouse and flowing skirt obscure proportions.
+162	2.5	?	1	everyday,maximalist	mixed	multicolor	Exposed waist and close upper trousers; raised arm limits shoulders.
+163	?	?	?	romantic,maximalist	waist-defined	dark	Head crop, broad coat sleeves and held skirt obscure build.
+164	3	?	?	romantic,everyday	mixed	colorful	Side view with broad torso; flowing skirt hides hips.
+165	2	?	1	romantic,maximalist	waist-defined	pastel	Close sleeveless top follows waist; ruffled skirt hides hips.
+166	1.5	?	?	romantic,sport	mixed	pastel	Loose crop hoodie and voluminous skirt obscure torso.
+167	3	?	1	romantic,maximalist	waist-defined	pastel	Close tank reveals broad upper contour; full skirt hides hips.
+168	2	?	1	romantic,maximalist	waist-defined	pastel	Close upper torso visible despite head crop; ruffled skirt.
+169	3	0	1	maximalist,everyday	mixed	pastel	Close cutout tee and upper trousers reveal broad balanced contour.
+170	2	0	1	maximalist,everyday	mixed	pastel	Close mesh top and upper trousers show moderate indentation.
+171	2	?	?	punk,romantic	waist-defined	neutral	Corset and layered skirt construct local silhouette.
+172	1.5	?	1	preppy,romantic	waist-defined	pastel	Close striped top; pleated skirt conceals hips.
+173	2	?	?	romantic,goth	waist-defined	neutral	Structured bodice and hoop-like full skirt conceal proportions.
+174	?	?	?	romantic,goth	loose	neutral	Layered dress, cape and low detail leave build uncertain.
+175	?	?	?	goth,romantic	loose	dark	Full-length cape conceals entire body outline.
+176	1.5	?	?	goth,tailored	layered	dark	Long tailored coat constructs shoulders and waist.
+177	1	0	?	goth,romantic	fitted	dark	Bare shoulders and close upper skirt; corset shapes waist.
+178	1.5	1	0	industrial,punk	mixed	dark	Hoodie follows straight torso above close cargo trousers.
+179	1.5	0	1	goth,romantic	fitted	dark	Close dress follows shoulders, torso and upper hips.
+180	1.5	?	?	romantic,punk	mixed	neutral	Loose billowing blouse conceals shoulder and waist outline.
+181	?	?	?	goth	loose	dark	Long cape hides torso and upper legs.
+182	1.5	?	?	goth,romantic	waist-defined	colorful	Long shaped coat supplies local waist and shoulder outline.
+183	1.5	?	?	goth,tailored	waist-defined	colorful	Structured shoulders and flared coat conceal body relationships.
+184	2.5	?	1	everyday	mixed	muted	Side pose; tee tucked above denim skirt shows waist.
+185	2.5	-1	1	everyday	mixed	muted	Tee and close denim skirt show hips wider than shoulders.
+186	2.5	?	1	preppy,everyday	waist-defined	neutral	Knit follows waist; flared skirt hides hips.
+187	2.5	?	1	preppy,everyday	waist-defined	neutral	Close knit upper outline; full skirt hides hip width.
+188	2.5	-1	1	everyday,sport	fitted	muted	Bandeau and close shorts show hips wider than shoulders.
+189	2.5	?	1	everyday,sport	fitted	muted	Waist and hips visible; raised arm distorts shoulders.
+190	2.5	-1	1	everyday,sport	fitted	muted	Close shorts and exposed shoulders show fuller lower outline.
+191	2.5	?	1	romantic,everyday	waist-defined	pastel	Close bodice with flared skirt obscuring hips.
+192	2.5	?	1	romantic,everyday	waist-defined	pastel	Side-turn and flared skirt block shoulder-to-hip judgment.
+193	2.5	?	1	romantic,everyday	waist-defined	colorful	Turned stance and full skirt obscure hips; bodice follows waist.
+194	2.5	?	1	romantic,everyday	waist-defined	colorful	Bodice fits broad torso; skirt held outward.
+195	2.5	?	?	workwear,everyday	loose	muted	Oversized denim jacket hides torso despite visible legs.
+196	2.5	-1	1	everyday,sport	mixed	neutral	Close tank and upper shorts show broader hips.
+197	2.5	-1	1	everyday,sport	mixed	neutral	Visible tank and shorts contour; moderate waist indentation.
+198	2.5	?	?	everyday,sport	mixed	neutral	Side view and loose tee obscure local comparisons.
+199	2.5	?	1	romantic,everyday	waist-defined	neutral	Close top exposes waist; side view and skirt hide hips.
+200	2.5	?	1	romantic,everyday	waist-defined	neutral	Bare shoulders and close top; gathered long skirt conceals hips.
+201	2.5	-1	1	everyday	fitted	colorful	Close tank and straight skirt follow hip contour.
+202	2.5	-1	1	everyday	fitted	colorful	Close garments show broader hips and indented waist.
+203	2.5	-1	1	everyday,sport	mixed	pastel	Tank and upper shorts show lower-body breadth.
+204	2.5	?	1	everyday,sport	mixed	pastel	Side view shows waist indentation but not frontal balance.
+205	2.5	-1	1	everyday	fitted	neutral	Tank and short straight skirt follow torso and hips.
+206	2.5	?	1	everyday	fitted	neutral	Side stance; local waist visible, width balance unavailable.
+207	2.5	?	1	everyday	mixed	pastel	Side stance obscures frontal shoulders and hips.
+208	2.5	-1	1	everyday	mixed	pastel	Close tank and upper shorts reveal wider hips.
+209	2.5	-1	1	dark-casual,romantic	fitted	dark	Close lace dress follows broad hip and waist contour.
+210	2.5	-1	1	dark-casual,romantic	fitted	dark	Dress follows torso and upper hips despite leaning pose.
+211	2.5	-1	1	everyday	mixed	pastel	Tank and upper trousers reveal hips broader than shoulders.
+212	2.5	?	1	everyday	mixed	pastel	Side view supports waist and build only.
+213	2.5	?	1	romantic	waist-defined	neutral	Close bodice; flowing long skirt obscures hip breadth.
+214	2.5	?	1	romantic	waist-defined	neutral	Side pose and full skirt hide frontal width relationship.
+215	2.5	-1	?	workwear	loose	muted	Upper trouser sides show lower breadth; bib hides waist.
+216	2.5	-1	?	workwear	loose	muted	Wide upper hip outline beneath bib; waist unresolved.
+217	2.5	?	1	romantic	waist-defined	muted	Close bodice shows indentation; full skirt hides hips.
+218	2.5	?	1	preppy,everyday	waist-defined	neutral	Side view with fitted knit; flared skirt.
+219	2.5	?	1	preppy,everyday	waist-defined	neutral	Close knit above flared skirt concealing hips.
+220	3	?	1	romantic,everyday	waist-defined	neutral	Close tee follows broad torso; tiered skirt hides hips.
+221	3	?	1	romantic,everyday	waist-defined	neutral	Close tee shows moderate waist; long full skirt.
+222	3	?	?	romantic,everyday	loose	neutral	Peplum blouse hides waist and hips; bent stance.
+223	3	-1	1	everyday,workwear	mixed	muted	Tee and upper jeans follow broad hips.
+224	3	-1	1	everyday,workwear	mixed	muted	Upper jeans and shoulders visible despite raised foot.
+225	3	-1	1	everyday,workwear	mixed	muted	Tucked tee and close upper jeans show lower breadth.
+226	3	-1	1	everyday,workwear	mixed	muted	Broad hips in jeans; moderately indented waist.
+227	3	-1	1	everyday,workwear	mixed	muted	Tee and upper trousers follow torso and hip outline.
+228	3	?	1	everyday,sport	mixed	neutral	Side view; tucked tee and shorts show waist only.
+229	3	-1	1	everyday,sport	mixed	neutral	Upper shorts broader than shoulders; tucked tee follows waist.
+230	3	-1	1	everyday,sport	mixed	muted	Tee and close upper shorts show broad lower contour.
+231	3	?	1	everyday,sport	mixed	muted	Side stance obscures frontal width relationship.
+232	3	-1	1	everyday,sport	mixed	muted	Close upper shorts and tucked tee support local comparison.
+233	3	-1	1	everyday,sport	mixed	muted	Upper denim shorts and shoulder outline show broader hips.
+234	3	-1	?	workwear,everyday	mixed	muted	Bib hides waist; upper shorts show broad hips.
+235	3	-1	?	workwear,everyday	mixed	muted	Overalls conceal waist, with broad upper hip outline visible.
+236	2.5	?	?	everyday,sport	mixed	colorful	Spread arms in loose blouse hide upper proportions.
+237	2.5	?	?	everyday	layered	muted	Coat and loose knit conceal torso edges.
+238	1.5	?	?	everyday,sport	loose	muted	Oversized knit and scarf conceal shoulders and waist.
+239	3	0	2	everyday	fitted	muted	Enlarged tank and close skirt show pronounced waist indentation within broad balanced outline.
+240	3	?	1	goth,romantic	waist-defined	dark	Close upper dress follows waist; held full skirt hides hips.
+241	2	?	?	everyday,sport	loose	muted	Bent torso and loose hoodie hide local shape.
+242	2.5	0	1	maximalist,everyday	mixed	colorful	Close red top and upper trousers show moderate indentation.
+243	2.5	-1	1	everyday	fitted	muted	Close top and jeans show hips broader than shoulders.
+244	3	0	1	punk,goth	mixed	dark	Close mesh top exposes broad torso above loose jeans.
+245	3	?	1	goth,punk	fitted	dark	Close skirt and mesh top; raised arm alters shoulder outline.
+246	3	?	1	goth,romantic	mixed	dark	Close upper top shows waist; bent leg and wide trousers obscure hips.
+247	3	?	1	punk	fitted	neutral	Midriff and upper trousers visible; raised arm blocks width comparison.
+248	2.5	?	?	maximalist,everyday	layered	colorful	Loose cardigan hides torso; close shorts and tights below.
+249	1.5	?	?	dark-casual,tailored	layered	dark	Oversized jacket obscures waist and shoulders.
+250	3	?	?	everyday	loose	neutral	Loose knit and gathered trousers obscure local boundaries.
+251	3	0	1	maximalist,everyday	mixed	colorful	Cardigan and close upper denim skirt show broad balanced outline.
+252	1.5	?	?	punk,sport	loose	dark	Oversized sweatshirt and raised knee hide local relationships.
+253	2.5	?	?	everyday	loose	pastel	Long loose shirt hides waist and hips.
+254	2	?	?	everyday,sport	loose	colorful	Loose tee and wide trousers obscure body contour.
+255	2.5	0	1	punk,everyday	fitted	multicolor	Close inner top and short skirt reveal torso contour.
+256	3	0	1	everyday	mixed	muted	Close tee and upper trousers show broad torso and waist.
+257	3	?	?	everyday,sport	loose	pastel	Oversized belted tee and spread pose construct contour.
+258	3	?	1	goth,romantic	waist-defined	dark	Bodice follows broad torso; flared skirt conceals hips.
+259	1.5	?	1	goth,romantic	waist-defined	colorful	Fitted bodice visible; skirt flare hides hip width.
+260	1.5	?	?	experimental,tailored	layered	colorful	Jacket and draped skirt hide local torso proportions.
+261	1.5	?	?	punk,experimental	layered	multicolor	Long jacket and ruffled skirt obscure hips and waist.
+262	1.5	?	?	experimental,romantic	loose	multicolor	Long tunic and lace skirt obscure underlying shape.
+263	1.5	?	?	maximalist,punk	mixed	multicolor	Oversized rainbow knit hides torso above narrow trousers.
+264	1.5	?	?	industrial,goth	waist-defined	neutral	Metallic structured coat and belt create outline.
+265	1.5	?	?	industrial,goth	waist-defined	neutral	Coat supplies shoulders and waist; hips concealed.
+266	1.5	0	1	industrial,experimental	fitted	neutral	Close body suit reveals torso contour beneath graphic straps.
+267	1.5	0	1	industrial,experimental	fitted	neutral	Close suit follows shoulders, waist and upper hips.
+268	1.5	?	?	experimental	loose	dark	Long loose graphic layer and wide trousers obscure body boundaries.
+269	1.5	?	?	experimental	loose	dark	Long asymmetric shirt hides waist and upper hips.
+270	2	?	?	punk,industrial	mixed	multicolor	Boxy short dress and turned stance obscure local shape.
+271	2	?	?	punk,industrial	mixed	multicolor	Turned torso inside straight dress prevents local comparison.
+272	1.5	?	?	punk	waist-defined	dark	Tee tucked beneath wide belt and pleated skirt.
+273	1.5	?	?	punk	waist-defined	dark	Belt constructs waist; pleated skirt hides hip outline.
+274	1.5	1	0	dark-casual,experimental	mixed	dark	Plain tee and close upper trousers show straight narrow torso.
+275	1.5	1	0	dark-casual,experimental	mixed	dark	Tee follows upper contour above narrow hips.
+276	2	?	?	goth,romantic	waist-defined	dark	Empire bodice and full tulle skirt hide waist and hips.
+277	2	?	?	goth,romantic	waist-defined	dark	Full layered skirt obscures local contour; exposed arms and legs.
+278	1.5	?	?	punk,maximalist	mixed	multicolor	Long tee and bags obscure waist and hip boundaries.
+279	1.5	?	?	punk,maximalist	mixed	multicolor	Graphic tee, bags and accessories cover torso-to-hip junction.
+280	1.5	1	0	dark-casual,tailored	fitted	dark	Sleeveless top and close trousers show broader shoulders.
+281	1.5	?	?	experimental	layered	dark	Long paneled top and long skirt conceal waist and hips.
+282	1.5	?	?	experimental	loose	neutral	Long tee and cardigan hide torso shape.
+283	2.5	?	?	maximalist	waist-defined	multicolor	Fitted top but high flared skirt and belt conceal local body shape.
+284	2.5	?	?	maximalist	waist-defined	multicolor	Flared patterned skirt hides hips; belt defines waist.
+285	1.5	?	?	everyday,sport	loose	dark	Oversized tee covers waist and hips; exposed legs support build.
+286	1.5	?	?	everyday,workwear	loose	neutral	Loose overalls and tee obscure local proportions.
+287	1.5	0	0	tailored,experimental	mixed	neutral	Sleeveless top and upper trouser contour suggest straight balanced torso.
+288	1.5	?	0	tailored,experimental	mixed	neutral	Side-turn limits width balance; torso appears straight.
+289	1.5	?	?	romantic,maximalist	loose	colorful	Long loose dress conceals waist and hip outline.
+290	1.5	?	?	goth,tailored	waist-defined	muted	Structured coat shapes torso and flares over hips.
+291	1.5	?	?	goth,tailored	waist-defined	muted	Coat construction controls local body silhouette.
+292	?	?	?	goth,romantic	loose	dark	Full veil and opaque long dress conceal body boundaries.
+293	?	?	?	goth,romantic	loose	dark	Veil and layered dress prevent confident build comparison.
+294	1.5	?	1	maximalist,sport	fitted	multicolor	Exposed midriff and close shorts; arms raised above shoulders.
+295	1.5	?	1	maximalist,sport	fitted	multicolor	Close shorts and midriff visible; raised arms distort shoulder width.
+296	1.5	1	1	punk,sport	mixed	muted	Bare shoulders and close crop top; visible upper hip outline.
+297	?	?	?	kimono,maximalist	layered	multicolor	Wrapped robe, wide sleeves and obi conceal body proportions.
+298	?	?	?	kimono,maximalist	layered	multicolor	Obi and layered kimono prevent independent body labels.
+299	1.5	?	?	goth,romantic	waist-defined	dark	Corseted waist and widely flared coat dominate silhouette.
+300	1.5	?	?	goth,romantic	waist-defined	dark	Structured waist and full skirt obscure natural local proportions.
+301	1.5	?	?	experimental	loose	muted	Long loose dress hides waist and hips.
+302	1.5	?	?	experimental	loose	muted	Continuous loose dress gives little local contour evidence.
+303	2	?	?	punk,maximalist	layered	multicolor	Jacket, tee and accessories obscure torso edges.
+304	2	?	?	punk,maximalist	layered	multicolor	Outer jacket and large accessories hide waist and hips.
+305	1	1	0	punk,maximalist	fitted	multicolor	Bare shoulders and close trousers show narrow straight torso.
+306	1	1	0	punk,maximalist	fitted	multicolor	Sleeveless top and close leopard trousers expose width balance.
+307	2	?	?	romantic,goth	waist-defined	dark	Layered bodice and full skirt conceal local contour.
+308	2	?	?	romantic,goth	waist-defined	dark	Cape-like sleeves and full skirt make local shape uncertain.
+309	2	?	?	tailored,romantic	layered	dark	Structured jacket and patterned skirt hide local body outline.
+310	2	?	?	tailored,romantic	layered	dark	Long jacket conceals waist and upper hips.
+311	2	?	?	goth,romantic	waist-defined	dark	Corset, flared ruffles and wide sleeves construct proportions.
+312	2	?	?	goth,romantic	waist-defined	dark	Corseted waist and flared short skirt conceal underlying contours.
+313	?	?	?	maximalist,experimental	loose	multicolor	Large sleeves, accessories and wide bottoms conceal body boundaries.
+314	1.5	?	?	punk	loose	dark	Oversized graphic top covers waist and hips; legs visible.
+315	1.5	?	?	punk	loose	dark	Long loose sweatshirt hides upper-body proportions.
+316	1.5	?	?	punk	layered	dark	Layered leather jacket hides shoulders and waist.
+317	1.5	?	?	punk	layered	dark	Jacket and layered long tops conceal hip junction.
+318	?	?	?	maximalist,experimental	layered	multicolor	Dense accessories and layers conceal torso and hips.
+319	?	?	?	maximalist,experimental	layered	multicolor	Heavy accessory coverage prevents reliable body outline judgment.
+320	1.5	?	?	industrial,maximalist	layered	multicolor	Puffed jacket masks torso despite narrow lower trousers.
+321	1.5	?	?	industrial,maximalist	layered	multicolor	Metallic puffer and bag obscure local proportions.
+322	1.5	?	?	punk,tailored	layered	dark	Jacket and belt shape waist; loose torn trousers.
+323	1.5	?	?	punk,tailored	layered	dark	Structured jacket and belt obscure natural waist contour.
+324	1.5	?	?	romantic,preppy	waist-defined	pastel	Layered blouse and short pleated skirt hide hips and waist.
+325	1.5	?	?	romantic,preppy	waist-defined	pastel	Small exposed limbs support build; constructed layered waist.
+326	1.5	?	?	romantic	waist-defined	neutral	Loose blouse, belt and long skirt conceal local body relationships.
+327	1.5	?	?	romantic	waist-defined	neutral	Belted blouse and flowing skirt provide garment-defined outline.
+328	?	?	?	kimono,goth	layered	colorful	Wrapped robe and oversized sleeves conceal body contour.
+329	?	?	?	kimono,goth	layered	colorful	Obi, robe and wide sleeves hide local proportions.
+330	2	?	?	goth,romantic	waist-defined	dark	Structured corset and long skirt obscure independent proportions.
+331	2	?	?	goth,romantic	waist-defined	dark	Corseted waist and layered sleeves define outer silhouette.
+332	1.5	1	0	punk	fitted	dark	Close sleeveless tee and skinny trousers show straight torso.
+333	1.5	1	0	punk	fitted	dark	Bare shoulders and fitted trousers expose narrow hips.
+334	1.5	?	?	romantic	waist-defined	pastel	Ruffled blouse and long skirt obscure waist and hip shape.
+335	1.5	?	?	romantic	waist-defined	pastel	Layered waist and full long skirt hide local comparisons.
+336	1.5	?	?	maximalist,sport	mixed	multicolor	Jacket and lifted arms obscure torso above shorts.
+337	1.5	?	?	maximalist,sport	mixed	multicolor	Loose jacket and tee hide local shape above close shorts.
+338	1.5	?	?	maximalist,preppy	layered	multicolor	Raised arm, accessories and pleated skirt obscure torso.
+339	1.5	?	?	maximalist,preppy	layered	multicolor	Dense accessories and pleated skirt conceal waist and hips.
+340	2	?	?	kimono,romantic	waist-defined	dark	Wide draped sleeves and belt construct waist silhouette.
+341	2	?	?	kimono,romantic	waist-defined	dark	Long skirt and wide sleeves hide local body relationships.
+342	1.5	?	?	experimental	mixed	muted	Asymmetric wrapped dress conceals underlying waist and hip outline.
+343	1.5	?	?	experimental	mixed	muted	Gathered sculptural dress supplies body outline.
+344	1.5	?	?	maximalist,workwear	loose	colorful	Wide bib overalls and puff sleeves hide local proportions.
+345	1.5	?	?	maximalist,workwear	loose	colorful	Bib and wide trouser construction conceal torso shape.
+346	?	?	?	kimono	layered	muted	Wrapped kimono and obi obscure independent body contours.
+347	?	?	?	kimono	layered	muted	Wide sleeves and wrapped torso conceal shape.
+348	?	?	?	kimono,goth	layered	neutral	Obi and layered kimono obscure underlying proportions.
+349	?	?	?	kimono,goth	layered	neutral	Wrapped torso and full sleeves prevent body comparison.
+350	1.5	?	?	goth,romantic	waist-defined	neutral	Ruffled blouse, corset and layered skirt construct silhouette.
+351	1.5	?	?	goth,romantic	waist-defined	neutral	Structured waist and skirt conceal local shape.
+352	1.5	?	?	punk,preppy	layered	dark	Jacket and pleated skirt obscure shoulders, waist and hips.
+353	1.5	?	?	punk,preppy	layered	dark	Boxy jacket and skirt leave local proportions unresolved.
+354	1.5	?	?	punk,preppy	layered	colorful	Jacket and pleated short skirt obscure torso contour.
+355	1.5	?	?	punk,preppy	layered	colorful	Raised arms and layered top hide waist and hip relationship.
+356	2	?	?	maximalist,experimental	layered	multicolor	Cape-like top and accessories conceal torso; legs visible.
+357	2	?	?	maximalist,experimental	layered	multicolor	Wide loose upper layer and bags obscure body boundaries.
+358	?	?	?	kimono,romantic	layered	pastel	Wrapped robe and fur collar conceal local contours.
+359	?	?	?	kimono,romantic	layered	pastel	Obi and long straight robe hide independent body shape.
+360	1.5	?	?	tailored,goth	waist-defined	dark	Belted jacket and short skirt construct local silhouette.
+361	1.5	?	?	tailored,goth	waist-defined	dark	Structured jacket obscures shoulders and waist.
+362	1.5	1	0	punk,everyday	mixed	muted	Close sleeveless top and upper trousers show straight narrow torso.
+363	1.5	1	0	punk,everyday	mixed	muted	Bare shoulders wider than upper hips; slight waist indentation only.
+364	1.5	?	?	tailored,maximalist	waist-defined	colorful	Belted oversized jacket defines shoulders and waist.
+365	1.5	?	?	tailored,maximalist	waist-defined	colorful	Suit jacket and belt conceal natural torso shape.
+366	1.5	0	1	punk,experimental	layered	dark	Close sleeveless top and inner shorts visible through sheer skirt.
+367	1.5	0	1	punk,experimental	layered	dark	Close upper torso and inner shorts support local comparison.
+368	1.5	?	?	tailored,maximalist	mixed	colorful	Structured jacket and wide trousers determine silhouette.
+369	1.5	?	?	tailored,maximalist	mixed	colorful	Jacket conceals waist and shoulder extent.
+370	1.5	?	?	sport,maximalist	waist-defined	colorful	Belted tracksuit and long top hide natural waist and hips.
+371	1.5	?	?	sport,maximalist	waist-defined	colorful	Belt creates waist; upper trouser boundaries obscured.
+372	1.5	?	?	punk,experimental	layered	colorful	Jacket and wide gathered trousers obscure local proportions.
+373	1.5	?	?	punk,experimental	layered	colorful	Layered tee and jacket hide waist above voluminous trousers.
+374	?	?	?	experimental	loose	muted	Sculptural jacket and balloon trousers hide body entirely.
+375	?	?	?	experimental	loose	muted	Oversized sculptural layers prevent confident build judgment.
+376	1.5	?	?	experimental,goth	loose	dark	Long shiny outerwear and leg layers hide torso outline.
+377	1.5	?	?	romantic	waist-defined	neutral	Belted coat hides waist and hips; narrow exposed lower legs.
+378	1.5	?	?	romantic	waist-defined	neutral	Structured coat and accessories obscure local proportions.
+379	1.5	?	?	goth,tailored	waist-defined	dark	Jacket, belt and ruched skirt conceal underlying local shape.
+380	1.5	?	?	goth,tailored	waist-defined	dark	Structured shoulders and draped skirt prevent independent labels.
+381	1.5	?	?	punk,experimental	layered	multicolor	Layered shirt and wide plaid trousers obscure torso.
+382	1.5	?	?	punk,experimental	layered	multicolor	Long shirt and accessories conceal waist and hips.
+383	?	?	?	experimental,maximalist	loose	neutral	Full white layers and accessories conceal body outline.
+384	?	?	?	experimental,maximalist	loose	neutral	Long loose layered garment prevents confident build classification.
+385	1.5	?	?	goth,industrial	layered	dark	Long structured coat hides underlying torso and hips.
+386	1.5	1	0	punk,industrial	mixed	dark	Close top and upper trousers show narrow straight torso.
+387	1.5	?	0	punk,industrial	mixed	dark	Side pose with straight upper contour; frontal balance unavailable.
+388	1.5	?	?	punk,sport	loose	colorful	Oversized jersey and wide skirt conceal local proportions.
+389	1.5	1	0	punk,everyday	mixed	colorful	Tee and upper trousers reveal shoulders broader than hips.
+390	1.5	?	?	punk,industrial	loose	neutral	Loose jersey and metallic cargo trousers conceal body boundaries.
+391	1.5	1	0	punk,industrial	mixed	muted	Sleeveless fitted top and upper trousers show straight torso.
+392	1.5	1	0	punk,industrial	mixed	neutral	Close tee reveals narrow torso above very wide trousers.
+393	1.5	0	1	workwear,maximalist	mixed	muted	Fitted upper jumpsuit follows waist and hip contour.
+394	3	0	1	everyday,maximalist	mixed	multicolor	Polo and upper patterned trousers reveal broad balanced outline.
+395	1.5	0	1	workwear	mixed	dark	Close upper coverall follows torso and hips.
+396	3	0	1	workwear	mixed	dark	Enlarged coverall view shows comparable shoulder and hip breadth with moderate indentation.
+397	1.5	0	1	tailored,preppy	mixed	colorful	Close vest and upper trousers reveal balanced narrow contour.
+398	1.5	0	1	workwear,tailored	mixed	muted	Jumpsuit upper section follows torso and hips.
+399	3	0	1	workwear,tailored	mixed	muted	Close upper jumpsuit shows broad balanced proportions.
+400	1.5	?	?	tailored,maximalist	fitted	neutral	Tailored jacket constructs shoulder and waist outline.
+401	3	-1	1	tailored,everyday	mixed	multicolor	Tucked shirt and upper trousers show broad hips.
+402	1.5	0	1	tailored,preppy	fitted	muted	Close vest and trousers follow torso and hip outline.
+403	1.5	0	1	workwear,tailored	mixed	muted	Close upper jumpsuit defines moderate waist indentation.
+404	1.5	0	1	everyday,tailored	mixed	dark	Fitted tee and upper trousers reveal balanced torso.
+405	3	0	?	workwear	mixed	dark	Broad exposed shoulders and hip outline; bib obscures waist.
+406	1.5	0	1	everyday,tailored	mixed	neutral	Close crop top and upper trousers show moderate indentation.
+407	2	?	?	everyday,maximalist	loose	multicolor	Loose long shirt dress hides waist and hips.
+408	2	?	?	everyday	loose	neutral	Long straight shirt dress conceals local body relationships.
+409	3	?	?	everyday	waist-defined	neutral	Belted shirt dress creates waist; skirt obscures hips.
+410	3	?	1	everyday,workwear	fitted	muted	Close tank and trousers reveal waist in side view.
+411	1.5	0	0	everyday,tailored	mixed	neutral	Sleeveless shirt and close upper trousers show fairly straight torso.

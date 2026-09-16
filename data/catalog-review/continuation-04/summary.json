@@ -1,0 +1,44 @@
+{
+  "reviewedPhotos": 120,
+  "sources": {
+    "acdcrag": 5,
+    "bigbudpress": 10,
+    "disturbia": 10,
+    "forestink": 10,
+    "foxblood": 10,
+    "kirrinfinch": 9,
+    "lucyandyak": 6,
+    "midnighthour": 9,
+    "mochipan": 9,
+    "myviolet": 9,
+    "snag": 6,
+    "trippnyc": 1,
+    "universalstandard": 9,
+    "wear": 9,
+    "wildfang": 8
+  },
+  "axisSupport": {
+    "build": 88,
+    "shoulderHip": 2,
+    "waist": 7
+  },
+  "allThreeLabeled": 2,
+  "buildBands": {
+    "None": 32,
+    "1.5": 43,
+    "2.0": 10,
+    "3.0": 17,
+    "2.5": 18
+  },
+  "views": {
+    "partial": 82,
+    "full": 22,
+    "reject": 3,
+    "seated": 8,
+    "detail": 5
+  },
+  "remainingPhotos": 302,
+  "totalReviewedIncludingFullStandingPass": 891,
+  "matchingProjectionUpdated": false,
+  "deployed": false
+}

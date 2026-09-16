@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-14",
+  "method": "Local Chromium using agent-browser, dedicated stylr-shape-v2 session",
+  "reviewedFilterCombinationsChecked": 80,
+  "reviewedFilterResult": "Every displayed card had the selected reviewed build and each selected non-null shape observation",
+  "suggestionResult": "Displayed suggestions were unreviewed and had an estimate",
+  "keyboardSlider": "ArrowRight changed 1.5 to 2 and updated the count to 21 references",
+  "fullerBandReferences": 4,
+  "showMore": {"before": 8, "after": 16},
+  "layouts": [
+    {"width": 1280, "height": 900, "horizontalOverflow": false, "initialImagesLoaded": true},
+    {"width": 390, "height": 844, "horizontalOverflow": false, "firstImageBottom": 752, "visibleImagesLoaded": true},
+    {"width": 320, "height": 740, "horizontalOverflow": false, "firstImageBottom": 742}
+  ],
+  "screenshots": ["browser-desktop.png", "browser-mobile.png"],
+  "limitations": "Local browser checks, not physical-device or screen-reader certification. At the narrowest tested viewport the first image extends slightly below the fold. Research viewer only, not the live swipe interface."
+}

@@ -1,0 +1,269 @@
+{
+  "reviewedPhotos": 411,
+  "buildLabeled": 388,
+  "allThreeLabeled": 119,
+  "sourceGroups": 280,
+  "sourcePageOverlapPhotos": 56,
+  "eligibleNewPhotos": 111,
+  "eligibleNewSourceGroups": 92,
+  "viewCorrections": [
+    "midnighthour-8948495941809-image-42986446913713",
+    "midnighthour-9023366758577-image-42986447012017"
+  ],
+  "axes": {
+    "build": {
+      "1.0": 9,
+      "1.5": 182,
+      "3.0": 72,
+      "2.0": 45,
+      "2.5": 80,
+      "None": 23
+    },
+    "shoulderHip": {
+      "0.0": 79,
+      "None": 279,
+      "1.0": 21,
+      "-1.0": 32
+    },
+    "waist": {
+      "1.0": 158,
+      "None": 218,
+      "0.0": 30,
+      "2.0": 5
+    }
+  },
+  "bands": [
+    {
+      "build": 1,
+      "reviewedPhotos": 9,
+      "sourceGroups": 8,
+      "completePhotos": 5,
+      "newMatchingPhotos": 3,
+      "newMatchingGroups": 3,
+      "matchingSources": 3,
+      "stylesAcrossAllReviewed": {
+        "dark-casual": 2,
+        "everyday": 0,
+        "experimental": 0,
+        "goth": 3,
+        "industrial": 0,
+        "kimono": 0,
+        "maximalist": 2,
+        "preppy": 0,
+        "punk": 2,
+        "romantic": 3,
+        "sport": 0,
+        "tailored": 1,
+        "workwear": 0
+      },
+      "stylesWithCompleteBody": {
+        "dark-casual": 0,
+        "everyday": 0,
+        "experimental": 0,
+        "goth": 2,
+        "industrial": 0,
+        "kimono": 0,
+        "maximalist": 1,
+        "preppy": 0,
+        "punk": 1,
+        "romantic": 0,
+        "sport": 0,
+        "tailored": 1,
+        "workwear": 0
+      }
+    },
+    {
+      "build": 1.5,
+      "reviewedPhotos": 182,
+      "sourceGroups": 137,
+      "completePhotos": 50,
+      "newMatchingPhotos": 44,
+      "newMatchingGroups": 42,
+      "matchingSources": 9,
+      "stylesAcrossAllReviewed": {
+        "dark-casual": 8,
+        "everyday": 30,
+        "experimental": 15,
+        "goth": 38,
+        "industrial": 11,
+        "kimono": 0,
+        "maximalist": 15,
+        "preppy": 7,
+        "punk": 37,
+        "romantic": 31,
+        "sport": 16,
+        "tailored": 23,
+        "workwear": 11
+      },
+      "stylesWithCompleteBody": {
+        "dark-casual": 6,
+        "everyday": 17,
+        "experimental": 3,
+        "goth": 5,
+        "industrial": 5,
+        "kimono": 0,
+        "maximalist": 1,
+        "preppy": 2,
+        "punk": 12,
+        "romantic": 2,
+        "sport": 2,
+        "tailored": 10,
+        "workwear": 5
+      }
+    },
+    {
+      "build": 2,
+      "reviewedPhotos": 45,
+      "sourceGroups": 30,
+      "completePhotos": 4,
+      "newMatchingPhotos": 4,
+      "newMatchingGroups": 3,
+      "matchingSources": 3,
+      "stylesAcrossAllReviewed": {
+        "dark-casual": 0,
+        "everyday": 6,
+        "experimental": 1,
+        "goth": 10,
+        "industrial": 1,
+        "kimono": 1,
+        "maximalist": 10,
+        "preppy": 0,
+        "punk": 4,
+        "romantic": 17,
+        "sport": 2,
+        "tailored": 3,
+        "workwear": 0
+      },
+      "stylesWithCompleteBody": {
+        "dark-casual": 0,
+        "everyday": 2,
+        "experimental": 0,
+        "goth": 1,
+        "industrial": 0,
+        "kimono": 0,
+        "maximalist": 1,
+        "preppy": 0,
+        "punk": 1,
+        "romantic": 0,
+        "sport": 0,
+        "tailored": 0,
+        "workwear": 0
+      }
+    },
+    {
+      "build": 2.5,
+      "reviewedPhotos": 80,
+      "sourceGroups": 53,
+      "completePhotos": 23,
+      "newMatchingPhotos": 23,
+      "newMatchingGroups": 19,
+      "matchingSources": 6,
+      "stylesAcrossAllReviewed": {
+        "dark-casual": 4,
+        "everyday": 28,
+        "experimental": 0,
+        "goth": 15,
+        "industrial": 0,
+        "kimono": 0,
+        "maximalist": 4,
+        "preppy": 2,
+        "punk": 3,
+        "romantic": 18,
+        "sport": 7,
+        "tailored": 3,
+        "workwear": 3
+      },
+      "stylesWithCompleteBody": {
+        "dark-casual": 3,
+        "everyday": 14,
+        "experimental": 0,
+        "goth": 2,
+        "industrial": 0,
+        "kimono": 0,
+        "maximalist": 1,
+        "preppy": 0,
+        "punk": 1,
+        "romantic": 1,
+        "sport": 5,
+        "tailored": 1,
+        "workwear": 1
+      }
+    },
+    {
+      "build": 3,
+      "reviewedPhotos": 72,
+      "sourceGroups": 61,
+      "completePhotos": 37,
+      "newMatchingPhotos": 37,
+      "newMatchingGroups": 33,
+      "matchingSources": 9,
+      "stylesAcrossAllReviewed": {
+        "dark-casual": 3,
+        "everyday": 36,
+        "experimental": 0,
+        "goth": 10,
+        "industrial": 0,
+        "kimono": 0,
+        "maximalist": 8,
+        "preppy": 1,
+        "punk": 5,
+        "romantic": 15,
+        "sport": 10,
+        "tailored": 4,
+        "workwear": 13
+      },
+      "stylesWithCompleteBody": {
+        "dark-casual": 3,
+        "everyday": 22,
+        "experimental": 0,
+        "goth": 2,
+        "industrial": 0,
+        "kimono": 0,
+        "maximalist": 4,
+        "preppy": 1,
+        "punk": 3,
+        "romantic": 1,
+        "sport": 6,
+        "tailored": 2,
+        "workwear": 9
+      }
+    }
+  ],
+  "sampledSliderPositions": 4913,
+  "before": {
+    "min": 0,
+    "median": 4,
+    "max": 30,
+    "empty": 688,
+    "atMostFive": 2722,
+    "atLeastTwenty": 1134,
+    "atLeastFifty": 0
+  },
+  "projected": {
+    "min": 0,
+    "median": 25,
+    "max": 80,
+    "empty": 368,
+    "atMostFive": 1234,
+    "atLeastTwenty": 2855,
+    "atLeastFifty": 1729
+  },
+  "projectedGrouped": {
+    "min": 0,
+    "median": 22,
+    "max": 61,
+    "empty": 368,
+    "atMostFive": 1374,
+    "atLeastTwenty": 2711,
+    "atLeastFifty": 340
+  },
+  "positionsImproved": 4345,
+  "positionsWithTwentyNewGroupsThreeSourcesFourStyles": 2571,
+  "inputDigests": {
+    "body-style-review/manifest.json": "0531ad7eb7106104dd894ff9249b871d35ff76ad4b76f446737d5ec1542a0565",
+    "body-style-review/observations.tsv": "22268ef632e28fcf50d6ce9f540231b1b3571b59791f4ea3ffee6a1029a51887",
+    "baseline/reviewed.json": "79d52138df46be620935f3f974a038ec010adcf925e36635be16e5ca4bd422c0",
+    "baseline/catalog.json": "4fb3a1fb62108bb2d1cff6d74c33da15249e69d8763754703847e2442f257234",
+    "baseline/coverage.json": "123c1717a79fd721f2c2454f543880404e22a68e7976adb4ecd76e0366959ef1"
+  }
+}

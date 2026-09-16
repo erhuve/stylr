@@ -6,11 +6,12 @@ import { usePhotoStudy } from '../lib/use-photo-state';
 import type { Feature, Photo, PhotoReaction, PhotoSession } from '../lib/photo-types';
 import '../study.css';
 import '../photo-study.css';
+import BodyControls from '../components/BodyControls';
+import { bodySelection } from '../lib/body-reference';
 import PhotoMoodboard from '../components/PhotoMoodboard';
 import SwipePhoto, { type SwipePhotoHandle } from '../components/SwipePhoto';
 
 const ranges = { all: 'All looks', women: 'Women’s looks', men: 'Men’s looks' };
-const frames = { all: 'All body references', smaller: 'Smaller frame', mid: 'Mid frame', fuller: 'Fuller frame' };
 const exclusions = { 'no-skirts': 'No skirts / dresses', 'no-shorts': 'No shorts', 'no-heels': 'No heels', 'no-boots': 'No boots' } as const;
 const featureKeys = Object.keys(FEATURE_LABELS) as Feature[];
 const emptyDraft = (id: string) => ({ photoId: id, note: '', more: [] as Feature[], less: [] as Feature[] });
@@ -44,6 +45,7 @@ export default function PhotoStudy() {
   const resetPending = useRef(false);
   const current = nextPhoto(session, PHOTOS);
   const eligible = eligiblePhotos(session, PHOTOS);
+  const setupPhotos = eligiblePhotos({ ...session, body: bodySelection(session.body) }, PHOTOS);
   const remaining = eligible.filter(p => !session.votes.some(v => v.photoId === p.id)).length;
   const draft = current && session.draft?.photoId === current.id ? session.draft : current ? emptyDraft(current.id) : undefined;
   const dirty = !!draft && !!(draft.note.trim() || draft.more.length || draft.less.length);
@@ -108,6 +110,11 @@ export default function PhotoStudy() {
   }
   function navigate(step: PhotoSession['step']) {
     if (busy) return;
+    if (step === 'discover' && session.step === 'setup') {
+      setCatalog(false);
+      applyPreferences({ body: bodySelection(session.body), frame: 'all', step });
+      return;
+    }
     setCatalog(false); setSession(s => ({ ...s, step }));
   }
   function feedback(kind: 'more' | 'less', value: Feature) {
@@ -174,10 +181,11 @@ export default function PhotoStudy() {
     <main id="photo-main">
       {catalog ? <section className="photo-gallery page-container"><p className="eyebrow">The reference library</p><h1 ref={heading} tabIndex={-1}>More ways to get dressed.</h1><p className="photo-intro">{catalogPhotos.length} color references in your selected range. Original proportions, real clothing, credited photographers. Browsing does not count as a reaction.</p><div className="gallery-controls"><label>Explore a detail<select value={feature} onChange={e => setFeature(e.target.value as Feature | 'all')}><option value="all">Every detail</option>{featureKeys.map(f => <option key={f} value={f}>{FEATURE_LABELS[f]}</option>)}</select></label><button className="outline-button" onClick={() => setCatalog(false)}><ArrowLeft size={16} />Back to study</button></div>{catalogPhotos.length ? <div className="photo-grid">{tiles(catalogPhotos)}</div> : <p>No references match this combination. Try another detail or change your starting point.</p>}</section>
       : session.step === 'setup' ? <section className="photo-setup page-container"><div className="photo-controls"><p className="eyebrow"><span className="tiny-star">✳</span>A study in personal style</p><h1 ref={heading} tabIndex={-1}>Real clothes.<br /><em>Your own inclination.</em></h1><p className="photo-intro">A little instinct. A different outfit. Discover what feels like you, one photograph at a time.</p>
-        <button className="primary-button start-button" disabled={!eligible.length || busy} onClick={() => navigate('discover')}>{session.votes.length || session.draft ? 'Continue my photo study' : 'Start with real outfits'}<ArrowRight size={18} /></button><p className="under-button">{eligible.length} references · No questionnaire · Your own pace</p>
-        <details className="photo-settings"><summary>Optional settings <span>Clothing range, body reference & exclusions</span></summary>
+        <BodyControls body={session.body} photos={setupPhotos} disabled={busy || !!dialog} onChange={body => applyPreferences({ body, frame: 'all' })} />
+        <button className="primary-button start-button" disabled={!setupPhotos.length || busy} onClick={() => navigate('discover')}>{session.votes.length || session.draft ? 'Continue my photo study' : 'Start with real outfits'}<ArrowRight size={18} /></button><p className="under-button">{setupPhotos.length} nearby references · Your own pace</p>
+        <details className="photo-settings"><summary>Optional settings <span>Clothing range & exclusions</span></summary>
         <fieldset><legend>Which clothing range would you like to explore?</legend><div className="photo-options">{Object.entries(ranges).map(([value, label]) => <button key={value} aria-pressed={session.collection === value} onClick={() => applyPreferences({ collection: value as PhotoSession['collection'] })}>{label}</button>)}</div><p className="field-note">Clothing collections, not rules about who can wear them. Most archive looks have no collection label; choose All looks to include them.</p></fieldset>
-        <div className="setup-selects"><label>Sex <span>optional</span><select value={session.sex} onChange={e => setSession(s => ({ ...s, sex: e.target.value as PhotoSession['sex'] }))}><option value="unspecified">Prefer not to say</option><option value="female">Female</option><option value="male">Male</option><option value="intersex">Intersex</option></select></label><label>Body reference <span>optional</span><select value={session.frame} onChange={e => setSession(s => ({ ...s, frame: e.target.value as PhotoSession['frame'] }))}>{Object.entries(frames).map(([value, label]) => <option value={value} key={value}>{label}</option>)}</select></label></div><p className="field-note">Sex is self-reported, stays in this browser, and does not determine your style or clothing range. Body reference gently prioritizes broad visual builds, not exact sizes. Photos do not reshape or predict fit.</p>
+        <div className="setup-selects"><label>Sex <span>optional</span><select value={session.sex} onChange={e => setSession(s => ({ ...s, sex: e.target.value as PhotoSession['sex'] }))}><option value="unspecified">Prefer not to say</option><option value="female">Female</option><option value="male">Male</option><option value="intersex">Intersex</option></select></label></div><p className="field-note">Sex is self-reported, stays in this browser, and does not determine your style or clothing range. Body sliders above filter reviewed visual references. Photos do not reshape or predict fit.</p>
         <details className="photo-boundaries"><summary>Anything you don’t want to see?</summary><div>{Object.entries(exclusions).map(([key, label]) => <label key={key}><input type="checkbox" checked={session.exclusions.includes(key as keyof typeof exclusions)} onChange={() => applyPreferences({ exclusions: session.exclusions.includes(key as keyof typeof exclusions) ? session.exclusions.filter(x => x !== key) : [...session.exclusions, key as keyof typeof exclusions] })} />{label}</label>)}</div><p className="field-note">When a relevant garment is hidden, that photo is excluded rather than guessed.</p></details>
         <p className="coverage-note">Coverage is still uneven. Body references are broad visual descriptions, not sizes or fit predictions.</p></details>
         <button className="text-button" onClick={() => setCatalog(true)}>Browse the photo collection<ArrowRight size={15} /></button>

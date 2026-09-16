@@ -1,0 +1,31 @@
+{
+  "reviewedPhotos": 62,
+  "sources": {
+    "bigbudpress": 19,
+    "kirrinfinch": 25,
+    "mochipan": 1,
+    "myviolet": 17
+  },
+  "axisSupport": {
+    "build": 53,
+    "shoulderHip": 0,
+    "waist": 3
+  },
+  "allThreeLabeled": 0,
+  "buildBands": {
+    "2.0": 11,
+    "3.0": 22,
+    "None": 9,
+    "1.5": 15,
+    "2.5": 5
+  },
+  "views": {
+    "partial": 50,
+    "seated": 11,
+    "detail": 1
+  },
+  "remainingPhotos": 0,
+  "totalReviewedIncludingFullStandingPass": 1193,
+  "matchingProjectionUpdated": false,
+  "deployed": false
+}

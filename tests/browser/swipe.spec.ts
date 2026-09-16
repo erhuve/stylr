@@ -82,9 +82,11 @@ test('optional settings retain profile semantics, legacy storage and immediately
   await page.goto('/');
   await page.locator('.photo-settings > summary').click();
   await page.getByLabel('Sex', { exact: false }).selectOption('female');
-  await page.getByLabel('Body reference', { exact: false }).selectOption('fuller');
+  await page.getByRole('slider', { name: 'Overall build' }).fill('1.5');
+  await page.getByRole('slider', { name: 'Shoulders & hips' }).fill('1');
+  await page.getByRole('slider', { name: 'Waist shape' }).fill('0');
   await page.getByRole('button', { name: 'Men’s looks', exact: true }).click();
-  expect(await stored(page)).toMatchObject({ sex: 'female', frame: 'fuller', collection: 'men' });
+  expect(await stored(page)).toMatchObject({ sex: 'female', body: { build: 1.5 }, collection: 'men' });
   await page.getByRole('button', { name: 'Start with real outfits', exact: true }).click();
   await expect(wear(page)).toBeEnabled();
   const id = await cardId(page);
@@ -98,7 +100,7 @@ test('optional settings retain profile semantics, legacy storage and immediately
   await page.reload();
   await page.locator('.photo-settings > summary').click();
   await expect(page.getByLabel('Sex', { exact: false })).toHaveValue('female');
-  await expect(page.getByLabel('Body reference', { exact: false })).toHaveValue('fuller');
+  await expect(page.getByRole('slider', { name: 'Overall build' })).toHaveValue('1.5');
   expect(await page.evaluate(key => localStorage.getItem(key), STORAGE_KEY)).toBe(legacy);
 });
 
@@ -374,6 +376,11 @@ test('settings filter changes still confirm before replacing a nonempty pinned d
   await page.getByRole('button', { name: range, exact: true }).click();
   await page.getByRole('button', { name: 'Discard draft and change', exact: true }).click();
   expect((await stored(page)).draft).toBeUndefined();
+  if (await page.getByRole('button', { name: 'Start with real outfits', exact: true }).isDisabled()) {
+    await expect(page.locator('.body-controls [role=status]')).toContainText('No reviewed matches');
+    await page.getByRole('slider', { name: 'Shoulders & hips' }).fill('1');
+    await page.getByRole('slider', { name: 'Waist shape' }).fill('0');
+  }
   await page.getByRole('button', { name: 'Start with real outfits', exact: true }).click();
   await expect(wear(page)).toBeEnabled();
   expect(await cardId(page)).not.toBe(first);

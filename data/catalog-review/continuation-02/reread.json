@@ -1,0 +1,10 @@
+{
+  "reviewer": "primary-assistant-direct-visual",
+  "method": "Enlarged same-reviewer inspection; not independent agreement.",
+  "ordinals": [8, 37, 38, 39, 46, 72, 73, 74, 98, 99, 100, 115],
+  "sheetsViewed": ["sheets/reread-1.jpg", "sheets/reread-2.jpg"],
+  "corrections": [
+    {"ordinal": 72, "axis": "waist", "before": 1, "after": null, "reason": "Oblique pose, hand placement and gathered skirt prevent a stable waist comparison."},
+    {"ordinal": 73, "axis": "waist", "before": 0, "after": null, "reason": "Rigid buckled vest panels conceal the underlying waist contour."}
+  ]
+}

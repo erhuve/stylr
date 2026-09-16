@@ -1,0 +1,11 @@
+{
+  "method": "Primary assistant directly inspected all ten primary contact sheets, then two enlarged six-image sheets. Same-reviewer check; not independent validation.",
+  "ordinals": [10, 11, 12, 13, 20, 26, 27, 43, 95, 41, 42, 100],
+  "sheets": ["sheets/reread-1.jpg", "sheets/reread-2.jpg"],
+  "corrections": [
+    {"ordinal": 10, "axis": "waist", "before": 1, "after": null, "reason": "Raised arm and tank hem distort the comparative waist contour."},
+    {"ordinal": 20, "axis": "waist", "before": 1, "after": null, "reason": "Hands pull the shirt hem; apparent indentation is not reliable independent contour evidence."},
+    {"ordinal": 42, "axis": "build", "before": 1.5, "after": null, "reason": "Jacket obscures arms and most trunk; the lower-body crop and turn provide insufficient independent cues."},
+    {"ordinal": 100, "axis": "build", "before": 3, "after": null, "reason": "Coat and loose dress dominate the apparent width; body contours remain hidden."}
+  ]
+}

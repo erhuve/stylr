@@ -8,11 +8,13 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Catalog deployment (2026-09-16): privately republished with 1,460 photos and 174 complete three-axis references. All 124 unit tests, 86 pre-release browser tests and eight live checks pass; every newly served image digest matches its reviewed original. See `docs/verification/catalog-expansion.md`. Offline sourcing and clustering code, environment records and evaluation artifacts now live in `research/`; see `research/README.md`.
+
 Deployment status (2026-09-14): privately published with approval. Six smoke tests passed against the live production server: four viewport checks plus real mouse and touch gestures. Unauthenticated requests to the homepage, illustrated route and a photo asset redirect to Zo sign-in. Use the published URL instead of depending on development-preview recovery; do not manually start a server or overwrite the project.
 
 Click **Start with real outfits**. Swipe right to wear, left to pass; buttons also support **Admire, not for me**, **Not sure**, and undo. Keyboard alternatives are available. Notes, explicit more/less feedback and settings are optional disclosures. Essential photo controls fit at 320×640 and larger tested viewports.
 
-The library contains **385 color references**: the original 42 unchanged photographs, 237 reviewed Fashionpedia archive references, and 106 TokyoFashion street-style outfits. There are 366 full-outfit images and 19 labeled detail views. The source assets occupy 37.4 MB locally; the interface preloads only the current and two upcoming images.
+The library contains **1,460 color references**: the original 385 unchanged photographs plus 1,075 admitted outfit photographs from the completed 1,193-candidate review. Reviewed partial and seated photos are retained as detail views. The interface preloads only the current and two upcoming images. See `docs/catalog-pipeline.md` for sourcing, visual review, research history, reproducible admission and repository organization.
 
 Eight optional metadata groups describe silhouette, surface, palette, styling, references, context, function and visible comfort cues. Roomy silhouettes and flat footwear are visible cues, not proof of softness, stretch, breathability, comfort or fit. There is no comfort questionnaire or inferred tactile performance.
 
@@ -32,7 +34,9 @@ Photo sessions retain `stylr:photos:v2`; the original illustrated application re
 
 Both applications use browser localStorage, with no accounts, analytics, AI calls or personal-data backend. **Origins have separate storage:** the privately published URL does not automatically copy sessions from the development preview or the old public site. JSON import is not implemented. JSON downloads include optional profile choices and notes; Markdown omits the optional sex value.
 
-Optional self-reported sex never changes photo eligibility or scores. Body reference only gently affects order. Exclusions fail closed when the relevant shoes or lower garments cannot be seen. Filters and undo ask before replacing a nonempty draft.
+Optional self-reported sex never changes photo eligibility or scores. Body setup uses three required continuous sliders, labeled endpoints and a live illustrative silhouette. All three proportions apply when starting discovery. Nearby matching requires reviewed values within 0.5 build units and 0.75 shoulder/hip and waist units; unknowns never match and empty results never widen. Preview photos sort by distance across all three axes. The figure moves continuously; the limited reviewed photo pool cannot provide distinct photos at every value. Legacy exact filters and frame values still parse. Filters and undo ask before replacing a nonempty draft. Fem/masc presentation filtering is deferred until its rubric and photo labels exist.
+
+The body controls use 1,219 direct visual review records: 144 existing reviews plus 1,075 admitted expansion records. 1,031 have apparent-build observations and 174 support all three required axes. They do not use the research model's predictions. Shape filters reduce these counts; empty combinations stay empty. These are approximate visual judgments, not measurements or clothing sizes. See `data/apparent-build/README.md` and `data/catalog-review/admission-summary.json`. Saved favorites outside the selected filters are hidden without deleting their reactions.
 
 Web Locks coordinate saves across tabs. Conflicts, unreadable/future data, read/write failures, clear races and environments without Web Locks retain the existing protection and warning behavior. Unsaved browser closure is not guaranteed safe; important work should be exported. Personal data never enters the Git repository.
 

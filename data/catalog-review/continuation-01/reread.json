@@ -1,0 +1,16 @@
+{
+  "reviewedAt": "2026-09-16",
+  "reviewer": "primary-assistant-direct-visual",
+  "scope": "Enlarged same-reviewer reread of all ten initially complete three-axis records; not independent validation.",
+  "ordinals": [10, 12, 25, 26, 33, 35, 42, 77, 81, 104],
+  "sheet": "sheets/complete-label-reread.jpg",
+  "corrections": [
+    {
+      "ordinal": 35,
+      "axis": "shoulderHip",
+      "before": -1,
+      "after": null,
+      "reason": "Loose gathered shorts inflate the hip outline; visible thighs support build but do not resolve shoulder/hip width."
+    }
+  ]
+}

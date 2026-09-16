@@ -1,0 +1,47 @@
+{
+  "reviewedPhotos": 120,
+  "sources": {
+    "acdcrag": 7,
+    "bigbudpress": 7,
+    "chubstr": 7,
+    "disturbia": 7,
+    "forestink": 7,
+    "foxblood": 7,
+    "kirrinfinch": 7,
+    "lucyandyak": 7,
+    "midnighthour": 7,
+    "mochipan": 7,
+    "myviolet": 7,
+    "punkrave": 5,
+    "snag": 7,
+    "tokyofashion": 3,
+    "trippnyc": 7,
+    "universalstandard": 7,
+    "wear": 7,
+    "wildfang": 7
+  },
+  "axisSupport": {
+    "build": 87,
+    "shoulderHip": 5,
+    "waist": 6
+  },
+  "allThreeLabeled": 2,
+  "buildBands": {
+    "None": 33,
+    "1.5": 49,
+    "3.0": 21,
+    "2.5": 12,
+    "2.0": 5
+  },
+  "views": {
+    "partial": 93,
+    "reject": 4,
+    "seated": 6,
+    "full": 13,
+    "detail": 4
+  },
+  "remainingPhotos": 422,
+  "totalReviewedIncludingFullStandingPass": 771,
+  "matchingProjectionUpdated": false,
+  "deployed": false
+}

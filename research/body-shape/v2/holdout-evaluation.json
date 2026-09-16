@@ -1,0 +1,321 @@
+{
+  "sampled": 48,
+  "labeled": 43,
+  "common": 42,
+  "rows": [
+    {
+      "photoId": "archive-11849",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.5871766289699452,
+      "calibrated_embedding": 1.285620927810669
+    },
+    {
+      "photoId": "pexels-28168152",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.5808328162826675,
+      "calibrated_embedding": 1.608457088470459
+    },
+    {
+      "photoId": "archive-16488",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.4120780046973869,
+      "calibrated_embedding": 1.466111660003662
+    },
+    {
+      "photoId": "archive-15474",
+      "target": 1,
+      "constant": 1.5,
+      "old_pose": 1.444736353041671,
+      "calibrated_embedding": 1.4070895910263062
+    },
+    {
+      "photoId": "pexels-19193498",
+      "target": 2,
+      "constant": 1.5,
+      "old_pose": 1.761083200661882,
+      "calibrated_embedding": 1.858886480331421
+    },
+    {
+      "photoId": "street-tokyo-199491",
+      "target": 2,
+      "constant": 1.5,
+      "old_pose": 1.7057318807829216,
+      "calibrated_embedding": 1.8614531755447388
+    },
+    {
+      "photoId": "archive-18568",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.6161703940535541,
+      "calibrated_embedding": 1.8076239824295044
+    },
+    {
+      "photoId": "street-tokyo-188775",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.5000000000000002,
+      "calibrated_embedding": 1.3123960494995117
+    },
+    {
+      "photoId": "street-tokyo-199115",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.255916006753571,
+      "calibrated_embedding": 1.6527769565582275
+    },
+    {
+      "photoId": "unsplash-Ld9fQtZl_pc",
+      "target": 3,
+      "constant": 1.5,
+      "old_pose": 1.2954661676922867,
+      "calibrated_embedding": 2.1173529624938965
+    },
+    {
+      "photoId": "archive-18652",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.4108142967325388,
+      "calibrated_embedding": 1.452821135520935
+    },
+    {
+      "photoId": "archive-18895",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.5332161110090952,
+      "calibrated_embedding": 1.3351094722747803
+    },
+    {
+      "photoId": "archive-16687",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.3367906611153004,
+      "calibrated_embedding": 1.4101648330688477
+    },
+    {
+      "photoId": "street-tokyo-188619",
+      "target": 2,
+      "constant": 1.5,
+      "old_pose": 1.9329565162416749,
+      "calibrated_embedding": 1.6888225078582764
+    },
+    {
+      "photoId": "archive-19587",
+      "target": 2,
+      "constant": 1.5,
+      "old_pose": 1.441187433280655,
+      "calibrated_embedding": 1.5061553716659546
+    },
+    {
+      "photoId": "street-tokyo-200970",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.3176040919369945,
+      "calibrated_embedding": 1.868598461151123
+    },
+    {
+      "photoId": "street-tokyo-191823",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.3417942848963909,
+      "calibrated_embedding": 1.6257081031799316
+    },
+    {
+      "photoId": "street-tokyo-186678",
+      "target": 2,
+      "constant": 1.5,
+      "old_pose": 1.4344438649180937,
+      "calibrated_embedding": 1.4160518646240234
+    },
+    {
+      "photoId": "street-tokyo-187558",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.4129048744080732,
+      "calibrated_embedding": 1.6176486015319824
+    },
+    {
+      "photoId": "street-tokyo-200600",
+      "target": 1,
+      "constant": 1.5,
+      "old_pose": 1.4517681705094356,
+      "calibrated_embedding": 1.5229558944702148
+    },
+    {
+      "photoId": "pexels-9876019",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.50388877219663,
+      "calibrated_embedding": 1.3856942653656006
+    },
+    {
+      "photoId": "archive-15843",
+      "target": 1,
+      "constant": 1.5,
+      "old_pose": 1.5177125478872893,
+      "calibrated_embedding": 1.4968366622924805
+    },
+    {
+      "photoId": "archive-11925",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.3898852537348148,
+      "calibrated_embedding": 1.4859821796417236
+    },
+    {
+      "photoId": "archive-17121",
+      "target": 2,
+      "constant": 1.5,
+      "old_pose": 1.3741927304590635,
+      "calibrated_embedding": 1.5432339906692505
+    },
+    {
+      "photoId": "archive-20246",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.5153749239668965,
+      "calibrated_embedding": 1.6667121648788452
+    },
+    {
+      "photoId": "archive-17195",
+      "target": 2.5,
+      "constant": 1.5,
+      "old_pose": 1.6524011733978812,
+      "calibrated_embedding": 1.5182018280029297
+    },
+    {
+      "photoId": "archive-11530",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.5,
+      "calibrated_embedding": 1.401689052581787
+    },
+    {
+      "photoId": "archive-13162",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.5,
+      "calibrated_embedding": 1.3296197652816772
+    },
+    {
+      "photoId": "archive-12183",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.4983654179428259,
+      "calibrated_embedding": 1.3977421522140503
+    },
+    {
+      "photoId": "pexels-17872897",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.301120752256618,
+      "calibrated_embedding": 1.6241012811660767
+    },
+    {
+      "photoId": "archive-9083",
+      "target": 1,
+      "constant": 1.5,
+      "old_pose": 1.7680504041430525,
+      "calibrated_embedding": 1.5928921699523926
+    },
+    {
+      "photoId": "street-tokyo-197686",
+      "target": 1,
+      "constant": 1.5,
+      "old_pose": 1.4948827990002629,
+      "calibrated_embedding": 1.472236156463623
+    },
+    {
+      "photoId": "archive-19247",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.3277318938120917,
+      "calibrated_embedding": 1.6356405019760132
+    },
+    {
+      "photoId": "archive-12257",
+      "target": 2,
+      "constant": 1.5,
+      "old_pose": 1.8540910298888305,
+      "calibrated_embedding": 1.554661512374878
+    },
+    {
+      "photoId": "street-tokyo-190044",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.3834263238845934,
+      "calibrated_embedding": 1.3671836853027344
+    },
+    {
+      "photoId": "archive-20291",
+      "target": 1,
+      "constant": 1.5,
+      "old_pose": 1.4870225910621353,
+      "calibrated_embedding": 1.542507290840149
+    },
+    {
+      "photoId": "archive-15770",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.5922541987480994,
+      "calibrated_embedding": 1.6269493103027344
+    },
+    {
+      "photoId": "archive-15661",
+      "target": 2,
+      "constant": 1.5,
+      "old_pose": 1.6634247886921754,
+      "calibrated_embedding": 1.529954195022583
+    },
+    {
+      "photoId": "archive-12360",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.6781485903772995,
+      "calibrated_embedding": 1.6540817022323608
+    },
+    {
+      "photoId": "archive-17769",
+      "target": 2,
+      "constant": 1.5,
+      "old_pose": 1.594841115214099,
+      "calibrated_embedding": 1.7486696243286133
+    },
+    {
+      "photoId": "archive-19795",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.4766131211688627,
+      "calibrated_embedding": 1.4114006757736206
+    },
+    {
+      "photoId": "street-tokyo-198495",
+      "target": 1.5,
+      "constant": 1.5,
+      "old_pose": 1.397993925906762,
+      "calibrated_embedding": 1.474694013595581
+    }
+  ],
+  "results": {
+    "constant": {
+      "mae": 0.23809523809523808,
+      "macroMAE": 0.7,
+      "clearPairOrdering": 0.5,
+      "clearPairs": 125
+    },
+    "old_pose": {
+      "mae": 0.26900896406599156,
+      "macroMAE": 0.7066077586223003,
+      "clearPairOrdering": 0.496,
+      "clearPairs": 125
+    },
+    "calibrated_embedding": {
+      "mae": 0.2753129175731114,
+      "macroMAE": 0.5741742087470161,
+      "clearPairOrdering": 0.792,
+      "clearPairs": 125
+    }
+  }
+}

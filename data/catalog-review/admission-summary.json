@@ -1,0 +1,490 @@
+{
+  "reviewedCandidates": 1193,
+  "admittedPhotos": 1075,
+  "totalPhotos": 1460,
+  "axisSupport": {
+    "build": 907,
+    "shoulderHip": 153,
+    "waist": 266
+  },
+  "completeReferences": 132,
+  "sourcePages": 698,
+  "excludedReasons": {
+    "non-outfit-view": 60,
+    "existing-source-page": 58
+  },
+  "excluded": [
+    {
+      "id": "midnighthour-8948495941809-image-42986446913713",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-9023366758577-image-42986447012017",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyofashion-187675-f2f2c794c9b5",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-188082-c7f26cad79a5",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-188082-dac2b2530db3",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-191460-2ca5737f1439",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-191460-46ed6835308e",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-195901-275515a6b64c",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-195901-6b1cfd69a892",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-195968-bc34dca62767",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-195968-ff02ce3010e6",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-197600-8ced878c61fa",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-197600-8ec500fc71c1",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-197686-806b9d7286ed",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-197686-d869b7f2b22a",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198370-be845cda7aec",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198370-ff09c3d7175c",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198404-2ce6ae12d54a",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198404-46a1a719a9fd",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198474-75b2ea550516",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198474-844fd76a496b",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198516-816ba41d2dc1",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198516-8b13d97639f3",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198963-72b759c09f6a",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-198963-c114056f9a1c",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200323-6950e25b9f0e",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200323-729739ec60a7",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200430-ae2e5a1d0731",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200430-eb2c9fe25c18",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200509-5227d25a215e",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200509-9ca4b797be5e",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200627-c916fee9dabd",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200627-d471f2c41ada",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200649-582f5b8ebc69",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200649-5f1f2a2e6197",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200772-43bec03a494a",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-200772-ba9b12c17edd",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201106-ab1f5c8bf827",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201106-b096d096c5f3",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201126-347e9d2553d8",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201126-e217d3dffd2f",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201146-e333392e29ff",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201146-e79a41fd88c2",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201163-cb96bceafa58",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201163-f283c31c02c8",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201307-148f34859031",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201307-6eecb85d0540",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201350-5c123c5cc2a4",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201350-b44ace17ef0e",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201374-201a7d4a0ebd",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201374-68c3e8ea2b6b",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201426-e6ff6909380d",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201492-147809780d3b",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201492-22448ec1919d",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201541-bc9d063f377d",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201541-e58bc659274d",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201596-0c6cdc1ea621",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "tokyofashion-201596-bf8452b6d148",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "bigbudpress-11014900416705",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11041135984833",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-15737407177077-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-15965515481461-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7392670777415",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704151556470-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyofashion-187675-47198e886bdf",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "universalstandard-7648679428142",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11041126252737",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11047996686529",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11048141357249",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7335653834823",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7405398294599",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704148738422-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704152605046-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "midnighthour-9026577760433-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mochipan-9582532722943-view-0",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-6695068172334",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-10779187216577",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11041409663169",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-15706397442421-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-15974535790965-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7618586902599",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704159879542-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "punkrave-10637837861211-image-74492497822043",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyofashion-126398-441a580f7c17",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tokyofashion-201426-6ae778e8663c",
+      "reason": "existing-source-page"
+    },
+    {
+      "id": "bigbudpress-10849418674369",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-10871598710977",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-14872857641333-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-15965515579765-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-15974535627125-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-15974536118645-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7392719863879",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704152834422-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-10481944461505",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-10553401999553",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-10817782743233",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-10821471666369",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-7627443601601",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-15974534381941-view-0",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-15974534381941-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "disturbia-7955626983581-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7349181284423",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7361620115527",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7392607174727",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7483616034887",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "myviolet-9668616192247-view-1",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7290655604807",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7312884793415",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7324777873479",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7324781936711",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7326866243655",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7353748291655",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kirrinfinch-7357095903303",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-1486925037614",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7520128139310",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647484084270",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7648679362606",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-7701972058305-image-45932960612545",
+      "reason": "non-outfit-view"
+    }
+  ]
+}

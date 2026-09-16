@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-09-16",
+  "method": "Same primary reviewer, enlarged contact sheets; all seven existing waist=2 references plus twelve selected new images. Not an independent agreement study.",
+  "newOrdinalsViewed": [20, 41, 49, 50, 55, 58, 74, 96, 122, 188, 239, 396],
+  "sheets": ["sheets/calibration-1.jpg", "sheets/calibration-2.jpg", "sheets/calibration-3.jpg", "sheets/calibration-4.jpg"],
+  "changes": [
+    {"ordinal": 41, "axis": "waist", "before": 1, "after": null, "reason": "Structured corset visible in enlarged view."},
+    {"ordinal": 50, "axis": "waist", "before": 1, "after": 2, "reason": "Pronounced indentation relative to trunk and upper hips."},
+    {"ordinal": 55, "axis": "waist", "before": 1, "after": 2, "reason": "Pronounced indentation in close sleeveless top and trousers."},
+    {"ordinal": 58, "axis": "waist", "before": 1, "after": 2, "reason": "Fitted dress contour comparable to existing pronounced-waist anchors."},
+    {"ordinal": 74, "axis": "waist", "before": 1, "after": 0, "reason": "Broad relatively straight midsection in enlarged view."},
+    {"ordinal": 96, "axis": "shoulderHip", "before": 0, "after": null, "reason": "Cardigan covers shoulder edges."},
+    {"ordinal": 122, "axis": "waist", "before": 1, "after": 2, "reason": "Pronounced indentation visible in close dress."},
+    {"ordinal": 239, "axis": "waist", "before": 1, "after": 2, "reason": "Close tank and skirt show pronounced indentation within broad outline."},
+    {"ordinal": 396, "axis": "shoulderHip", "before": -1, "after": 0, "reason": "Shoulder and hip breadth appear comparable in enlarged view."}
+  ]
+}

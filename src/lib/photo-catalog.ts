@@ -1,6 +1,7 @@
 import type { Photo } from './photo-types';
 import archivePhotos from '../../scripts/fashionpedia-photos.json' with { type: 'json' };
 import streetPhotos from '../../scripts/streetstyle-photos.json' with { type: 'json' };
+import reviewedPhotos from '../../scripts/reviewed-photos.json' with { type: 'json' };
 
 export const LEGACY_PHOTOS: Photo[] = [
   {
@@ -1036,7 +1037,7 @@ export const LEGACY_PHOTOS: Photo[] = [
   }
 ];
 
-export const PHOTOS: Photo[] = [...LEGACY_PHOTOS, ...archivePhotos as Photo[], ...streetPhotos as Photo[]];
+export const PHOTOS: Photo[] = [...LEGACY_PHOTOS, ...archivePhotos as Photo[], ...streetPhotos as Photo[], ...reviewedPhotos as Photo[]];
 
 for (const photo of PHOTOS) {
   Object.freeze(photo.features);

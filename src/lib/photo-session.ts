@@ -1,4 +1,5 @@
 import { z } from 'zod';
+import { matchesBody } from './body-reference';
 import { DIMENSION_KEYS, DIMENSION_PAIR_MASKS, nearIdenticalPhotos, normalizeDimensionPhrase, photoDimensionSignals, sharedDimensionGroups, type PhotoDimensionSignals } from './photo-dimensions';
 import type { Feature, FeatureEvidence, Photo, PhotoFeedback, PhotoReaction, PhotoSession } from './photo-types';
 
@@ -13,6 +14,7 @@ const featureList = z.array(feature).max(features.length).refine(unique);
 const feedback = z.object({ photoId: z.string().max(80), note: z.string().max(600), more: featureList, less: featureList }).strict();
 const disjoint = (v: PhotoFeedback) => !v.more.some(f => v.less.includes(f));
 const schema = z.object({
+  body: z.object({ build: z.number().min(1).max(3).nullable(), shoulderHip: z.number().min(-1).max(1).nullable(), waist: z.number().min(0).max(2).nullable(), mode: z.literal('nearby').optional() }).strict().refine(body => body.mode === 'nearby' ? [body.build, body.shoulderHip, body.waist].every(value => value !== null) : (body.build === null || Number.isInteger(body.build * 2)) && (body.shoulderHip === null || Number.isInteger(body.shoulderHip)) && (body.waist === null || Number.isInteger(body.waist))).optional(),
   version: z.literal(2), step: z.enum(['setup', 'discover', 'portrait']), sex: z.enum(['unspecified', 'female', 'male', 'intersex']),
   collection: z.enum(['all', 'women', 'men']), frame: z.enum(['all', 'smaller', 'mid', 'fuller']),
   votes: z.array(feedback.extend({ reaction: z.enum(['wear', 'admire', 'pass', 'unsure']) }).refine(disjoint)).max(MAX_PHOTO_VOTES).refine(v => unique(v.map(x => x.photoId))),
@@ -31,7 +33,7 @@ export function parsePhotoSession(raw: string | null, photos: Photo[]): { sessio
   } catch { return { session: freshPhotoSession(), status: 'invalid' }; }
 }
 export function eligiblePhotos(session: PhotoSession, photos: Photo[]): Photo[] {
-  return photos.filter(p => (session.collection === 'all' || p.collection === session.collection) && session.exclusions.every(x => {
+  return photos.filter(p => matchesBody(p.id, session.body) && (session.collection === 'all' || p.collection === session.collection) && session.exclusions.every(x => {
     if (x === 'no-skirts') return p.bottomKnown && !p.garments.includes('skirt');
     if (x === 'no-shorts') return p.bottomKnown && !p.garments.includes('shorts');
     if (x === 'no-heels') return p.shoesKnown && !p.garments.includes('heels');
@@ -292,7 +294,7 @@ export function photoQueue(session: PhotoSession, photos: Photo[], limit = 3): P
     if (pinned && eligiblePhotos(session, [pinned]).length) return [pinned];
   }
   const index = indexPhotos(photos);
-  const key = JSON.stringify([size, session.collection, session.frame, session.exclusions, session.draft?.photoId, session.votes.map(vote => [vote.photoId, vote.reaction, vote.more, vote.less])]);
+  const key = JSON.stringify([size, session.body, session.collection, session.frame, session.exclusions, session.draft?.photoId, session.votes.map(vote => [vote.photoId, vote.reaction, vote.more, vote.less])]);
   if (lastQueue?.index === index && lastQueue.key === key) return lastQueue.photos.slice();
   const sequence = createSequence(session, photos, index), queue: Photo[] = [];
   for (let i = 0; i < size; i++) {

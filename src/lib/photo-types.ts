@@ -5,7 +5,7 @@ export type DimensionKey = 'silhouette' | 'surface' | 'palette' | 'styling' | 'r
 export type PhotoDimensions = Partial<Record<DimensionKey, string[]>>;
 export type Photo = {
   id: string; title: string; description: string; src: string; sourceUrl: string; creator: string; creatorUrl: string; licenseUrl: string;
-  collection: Collection | 'unclassified'; frame: Frame | 'unknown'; features: Feature[]; family: 'everyday' | 'tailoring' | 'sport' | 'utility' | 'expressive' | 'soft';
+  collection: Collection | 'unclassified'; frame: Frame | 'unknown'; features: Feature[]; family: 'everyday' | 'tailoring' | 'sport' | 'utility' | 'expressive' | 'soft' | 'unknown';
   dimensions?: PhotoDimensions; sourceLabel?: string; metadataBasis?: 'visual-review' | 'source-description' | 'legacy-tags';
   shoot: string; view: 'full' | 'detail'; garments: ('skirt' | 'shorts' | 'heels' | 'boots')[]; shoesKnown: boolean; bottomKnown: boolean;
 };
@@ -13,6 +13,7 @@ export type PhotoReaction = 'wear' | 'admire' | 'pass' | 'unsure';
 export type PhotoFeedback = { photoId: string; note: string; more: Feature[]; less: Feature[] };
 export type PhotoVote = PhotoFeedback & { reaction: PhotoReaction };
 export type PhotoSession = {
+  body?: { build: number | null; shoulderHip: number | null; waist: number | null; mode?: 'nearby' };
   version: 2; step: 'setup' | 'discover' | 'portrait'; sex: 'unspecified' | 'female' | 'male' | 'intersex';
   collection: 'all' | Collection; frame: 'all' | Frame; votes: PhotoVote[]; draft?: PhotoFeedback;
   exclusions: ('no-skirts' | 'no-shorts' | 'no-heels' | 'no-boots')[];

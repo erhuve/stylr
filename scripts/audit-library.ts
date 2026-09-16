@@ -16,7 +16,7 @@ for (const photo of PHOTOS) {
   hashOwners.set(hash, photo.id);
   bytes += data.byteLength;
 }
-const records = await Promise.all(['photo-assets', 'fashionpedia-assets', 'streetstyle-assets'].map(name => Bun.file(`${root}scripts/${name}.json`).json()));
+const records = await Promise.all(['photo-assets', 'fashionpedia-assets', 'streetstyle-assets', 'reviewed-assets'].map(name => Bun.file(`${root}scripts/${name}.json`).json()));
 const manifestIds = records.flat().map((a: { id: string }) => a.id);
 if (new Set(manifestIds).size !== manifestIds.length || manifestIds.length !== PHOTOS.length || PHOTOS.some(p => !manifestIds.includes(p.id))) throw new Error('Manifest/catalog mismatch');
 const dimensions = PHOTOS.map(p => normalizePhotoDimensions(p.dimensions));

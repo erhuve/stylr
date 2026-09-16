@@ -1,5 +1,9 @@
 # Stylr personal discovery
 
+- Catalog expansion: 1,460 photos, including 1,075 admitted from the completed 1,193-candidate visual review. Read `docs/catalog-pipeline.md`; `scripts/import-reviewed-catalog.py --check` replays admission and image bindings. `data/catalog-review` stores authored provenance and generated admission. Unknown body traits never match required axes; model predictions remain excluded. Missing clothing features/family stay empty/unknown. Preserve the original 385 IDs/assets and source-page grouping. Historical research code and evaluation artifacts now live in `research/`; read `research/README.md`. External image corpora remain under Documents.
+
+- Body setup uses three required continuous proportions, explicit endpoint labels and a responsive SVG guide. New selections use `mode: nearby`: every axis must be reviewed, within 0.5 build and 0.75 shoulder/waist units. Empty results never widen. Legacy optional exact filters still parse; entering discovery from setup applies all three proportions with dirty-draft confirmation. `data/apparent-build` holds reviewed observations, never model predictions. Preserve old v2 saves and hidden favorites without deleting reactions. Fem/masc presentation filters are deferred pending a defined rubric and labels.
+
 - This is the active personal-use iteration of Stylr, on `personal-discovery` in `erhuve/stylr`. Read README.md and docs/plans/personal-discovery.md first.
 - Privately published at https://stylr-personal-hatsunemiku.zo.computer/ with owner sign-in required. Production is independent of the development preview. This working directory now backs a live service: rebuilding `dist` changes served assets. Use an isolated checkout for future pre-release builds, and deploy deliberately through `publish_site`.
 - `Sites/stylr` is a separate working directory for the previous public release. Do not run builds, change source, or move this work there without an explicit deployment decision.

@@ -1,0 +1,14 @@
+{
+  "reviewer": "primary-assistant-direct-visual",
+  "method": "Enlarged same-reviewer inspection; not independent agreement.",
+  "ordinals": [14, 32, 33, 35, 46, 55, 89, 100, 106, 118, 19, 116],
+  "sheetsViewed": ["sheets/reread-1.jpg", "sheets/reread-2.jpg"],
+  "corrections": [
+    {"ordinal": 19, "axis": "build", "before": 2.5, "after": null, "reason": "Tailored jacket and cropped hips provide insufficient independent build cues."},
+    {"ordinal": 89, "axis": "shoulderHip", "before": -1, "after": null, "reason": "Tilted pelvis and forward thigh prevent stable comparative widths."},
+    {"ordinal": 106, "axis": "shoulderHip", "before": 0, "after": null, "reason": "Draped dress, leaning pose and hand in pocket obscure local contours."},
+    {"ordinal": 106, "axis": "waist", "before": 1, "after": null, "reason": "Drape and pose do not establish underlying waist indentation."},
+    {"ordinal": 116, "axis": "build", "before": 1.5, "after": null, "reason": "Seated pose and layered tailoring conceal enough independent cues."},
+    {"ordinal": 118, "axis": "waist", "before": 0, "after": null, "reason": "Loose tucked polo cannot establish a straight waist."}
+  ]
+}

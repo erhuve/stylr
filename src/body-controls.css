@@ -1,0 +1,24 @@
+.body-controls { margin: .5rem 0; max-width: 38rem; }
+.photo-setup .photo-controls > h1, .photo-setup .photo-controls > .photo-intro, .photo-setup .photo-controls > .eyebrow { display: none; }
+.body-controls h2 { font-size: clamp(1.5rem, 3vw, 2rem); margin: 0; }
+.body-controls > p { margin: .4rem 0 .75rem; }
+.body-editor { display: grid; grid-template-columns: 100px 1fr; gap: 1rem; align-items: center; }
+.body-figure { text-align: center; background: var(--muted); border-radius: 50% 50% 8px 8px; padding: .5rem 0; }
+.body-silhouette { width: 100%; height: 210px; fill: var(--primary); }
+.body-guides { fill: none; stroke: var(--foreground); stroke-width: .6; opacity: .2; stroke-dasharray: 3 4; }
+.body-figure small { font-size: .65rem; }
+.photo-controls .body-controls fieldset { min-width: 0; border: 0; padding: 0; margin: 0; }
+.body-axis { margin: .8rem 0; }
+.body-axis > label { display: block; font-size: .9rem; font-weight: 600; }
+.body-axis input[type=range] { width: 100%; min-height: 32px; margin: 0; accent-color: var(--primary); }
+.body-endpoints { display: flex; justify-content: space-between; gap: .5rem; font-size: .7rem; line-height: 1.25; }
+.body-endpoints span:last-child { text-align: right; }
+.body-results { display: flex; justify-content: space-between; gap: .5rem; margin-top: .7rem; font-size: .75rem; }
+.body-previews { display: flex; gap: .5rem; height: 100px; margin: .5rem 0; }
+.body-previews:empty { height: 0; }
+.body-previews img { width: calc((100% - 1rem) / 3); height: 100%; object-fit: contain; background: var(--muted); }
+.body-controls details { font-size: .75rem; }
+.body-controls small { line-height: 1.4; }
+@media (max-width: 600px) { .body-editor { grid-template-columns: 76px 1fr; gap: .7rem; } .body-silhouette { height: 195px; } }
+@media (max-height: 700px) { .body-controls > p { margin: .25rem 0; font-size: .8rem; } .body-previews { height: 65px; } .body-axis { margin: .45rem 0; } .body-silhouette { height: 170px; } .body-controls { margin-top: 0; } }
+@media (max-height: 700px) { .photo-app .photo-setup { padding-top: 12px; } .body-results { margin-top: .35rem; } }

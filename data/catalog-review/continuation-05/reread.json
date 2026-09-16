@@ -1,0 +1,11 @@
+{
+  "method": "Primary assistant directly inspected all ten numbered contact sheets, then two enlarged six-image sheets. Same-reviewer check, not independent validation. No model predictions or labels from other photos were used.",
+  "ordinals": [1, 8, 9, 10, 19, 105, 32, 39, 76, 100, 101, 112],
+  "sheets": ["sheets/reread-1.jpg", "sheets/reread-2.jpg"],
+  "corrections": [
+    {"ordinal": 8, "axis": "waist", "before": 1, "after": null, "reason": "Shirt bunching and hand placement obscure independent waist taper."},
+    {"ordinal": 76, "axis": "build", "before": 2, "after": null, "reason": "Wide sleeves and full skirt leave only disconnected forearm and knee fragments."},
+    {"ordinal": 100, "axis": "build", "before": 2.5, "after": null, "reason": "Dress drape and loose sleeve folds conceal contours; boots hide legs."},
+    {"ordinal": 112, "axis": "build", "before": 1.5, "after": 2, "reason": "Larger view resolves moderate arm and trunk breadth rather than a narrow impression."}
+  ]
+}

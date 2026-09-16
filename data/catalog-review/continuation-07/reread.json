@@ -1,0 +1,7 @@
+{
+  "method": "Primary assistant directly inspected all six numbered contact sheets. Same-reviewer visual observations, not independent validation. No label propagation or model predictions.",
+  "ordinals": [2, 38, 52, 53, 54, 55, 56, 60],
+  "enlargedOrdinals": [2, 38, 52, 54, 55, 60],
+  "sheets": ["sheets/reread-final.jpg"],
+  "corrections": [{"ordinal": 55, "axis": "waist", "before": 1, "after": null, "reason": "Enlarged view shows hand across waist, folds and sideways lean obscuring independent taper."}]
+}

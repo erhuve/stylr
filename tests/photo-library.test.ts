@@ -10,6 +10,7 @@ import legacySession from './fixtures/photo-v2-original-session.json' with { typ
 import originalAssets from '../scripts/photo-assets.json' with { type: 'json' };
 import archiveAssets from '../scripts/fashionpedia-assets.json' with { type: 'json' };
 import streetAssets from '../scripts/streetstyle-assets.json' with { type: 'json' };
+import reviewedAssets from '../scripts/reviewed-assets.json' with { type: 'json' };
 
 const features = Object.keys(FEATURE_LABELS) as [Feature, ...Feature[]];
 const url = z.string().url().refine(value => new URL(value).protocol === 'https:' && !new URL(value).username && !new URL(value).password);
@@ -20,8 +21,8 @@ const photo = z.object({
   src: z.string().regex(/^\/photos\/[A-Za-z0-9][A-Za-z0-9_-]*\.webp$/),
   sourceUrl: url, creatorUrl: url, licenseUrl: url, creator: z.string().min(1),
   collection: z.enum(['men', 'women', 'unclassified']), frame: z.enum(['smaller', 'mid', 'fuller', 'unknown']),
-  features: z.array(z.enum(features)).min(1).refine(values => new Set(values).size === values.length),
-  family: z.enum(['everyday', 'tailoring', 'sport', 'utility', 'expressive', 'soft']),
+  features: z.array(z.enum(features)).refine(values => new Set(values).size === values.length),
+  family: z.enum(['everyday', 'tailoring', 'sport', 'utility', 'expressive', 'soft', 'unknown']),
   shoot: z.string().min(1), view: z.enum(['full', 'detail']),
   garments: z.array(z.enum(['skirt', 'shorts', 'heels', 'boots'])).refine(values => new Set(values).size === values.length),
   shoesKnown: z.boolean(), bottomKnown: z.boolean(),
@@ -30,19 +31,19 @@ const photo = z.object({
 }).strict();
 const hash = (bytes: Uint8Array) => createHash('sha256').update(bytes).digest('hex');
 
-test('expanded library has 385 distinct, source-linked and schema-valid references', () => {
-  expect(PHOTOS).toHaveLength(385);
+test('expanded library has 1460 distinct, source-linked and schema-valid references', () => {
+  expect(PHOTOS).toHaveLength(1460);
   expect(LEGACY_PHOTOS).toHaveLength(42);
   expect(PHOTOS.filter(p => p.id.startsWith('archive-'))).toHaveLength(237);
   expect(PHOTOS.filter(p => p.id.startsWith('street-'))).toHaveLength(106);
   for (const p of PHOTOS) expect(photo.safeParse(p).success, p.id).toBe(true);
-  expect(new Set(PHOTOS.map(p => p.sourceUrl)).size).toBe(PHOTOS.length);
+  expect(new Set(PHOTOS.map(p => p.id)).size).toBe(PHOTOS.length);
   expect(new Set(PHOTOS.map(p => p.src)).size).toBe(PHOTOS.length);
   expect(PHOTOS.filter(p => p.view === 'full').length).toBeGreaterThan(350);
 });
 
 test('every admitted photo has exactly one portable asset record and a unique local file', async () => {
-  const assets = [...originalAssets, ...archiveAssets, ...streetAssets];
+  const assets = [...originalAssets, ...archiveAssets, ...streetAssets, ...reviewedAssets];
   expect(assets).toHaveLength(PHOTOS.length);
   expect(new Set(assets.map(a => a.id))).toEqual(new Set(PHOTOS.map(p => p.id)));
   const hashes = new Set<string>();
