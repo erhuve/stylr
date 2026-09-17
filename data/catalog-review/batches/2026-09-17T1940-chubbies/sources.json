@@ -1,0 +1,189 @@
+{
+  "retrievedAt": "2026-09-17T19:18:27.987509+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "chubbies",
+      "pages": [
+        {
+          "url": "https://chubbiesshorts.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-17T19:18:24.070989+00:00",
+          "snapshotSha256": "6d081082a78fe5fab60c654487fa191693ac22e2b787625936a034e7fc6c70a9"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "chubbies-15436115279945-image-83932025782345",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/SteelGraysComfortShort_086261-02_SD_3.jpg?v=1789577036",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-steel-grays-comfort-short",
+          "sha256": "6dfc99632f71ee9b61fb7f256f71637560063b16ffbb098e24020b5ed8438a7c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436115279945-image-83932025749577",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/SteelGraysComfortShort_086261-02_SD_2.jpg?v=1789577036",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-steel-grays-comfort-short",
+          "sha256": "f7328473f3a641dab710b4fd508f2810fbfc6a5d612f25d33fb7e83ff9605f0e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15540676624457-image-83806370988105",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Habitual_20Ritual_20_28Resort_20Weave_20Friday_20Shirt_29-_20Tan_603263-00_OF.webp?v=1789149211",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-habitual-ritual-resort-weave-friday-shirt-tan",
+          "sha256": "113532476a83c431a60fe7600a219e95deb1911798c798a9a89472c8d7397e65",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15540676624457-image-83806372069449",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Habitual_Ritual_Resort_Weave_Friday_Shirt-_Tan_603263-00_OF__3.webp?v=1789150000",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-habitual-ritual-resort-weave-friday-shirt-tan",
+          "sha256": "c15ff8d7b613900b84bb1f85c7a49b669456f6e8ce425f54cefe28e1fb202b61",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15540691992649-image-83806334189641",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Barnwood_20_28Resort_20Weave_20Friday_20Shirt_29_603263-03_OF.webp?v=1789148813",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-barnwood-resort-weave-friday-shirt",
+          "sha256": "50307656c1a278a4dd1598c0a416f510bf4fd89bc2e0f8d3b4d6d34e668896e4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15540691992649-image-83806335500361",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Barnwood_Resort_Weave_Friday_Shirt_603263-03_OF__3.webp?v=1789149244",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-barnwood-resort-weave-friday-shirt",
+          "sha256": "6c2ac63f88acc29ceb1ad819fa677144c5eb7ec7acb9b3c8b7c8101d9e8b9799",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15352150720585-image-78497101545545",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Hang_20Ten_20_28UPF_20Shirt_29_625253-00_OF.webp?v=1768015162",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-hang-ten-upf-shirt",
+          "sha256": "5fd443084147bf4d7b7c983b4f44fed7aac3e774f3abcc8e96cb1544bc1dd990",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15352150720585-image-78497098694729",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Hang_Ten_UPF_Shirt_625253-00_OF__2.webp?v=1768015162",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-hang-ten-upf-shirt",
+          "sha256": "64564d9952be0f48796baced38f34ae30b9b727a3e83ed3661d5f99822c2a1c3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436121768009-image-83119642476617",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/Hook_Line_AndSinker_502261-04_SD_2.jpg?v=1787252264",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-hook-line-and-sinker-non-pocket-graphic-t-shirt",
+          "sha256": "f46111afc2ef3c6f66ad10b41600afd20a92df61d6f49c587ed8276688237c2f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436121768009-image-83119642443849",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/Hook_Line_AndSinker_502261-04_SD_4.jpg?v=1787252265",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-hook-line-and-sinker-non-pocket-graphic-t-shirt",
+          "sha256": "4283158ea29d97d277600eae8fb191d49a7d2170c9a58f109ed9edd9d156bf48",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436115804233-image-83119665971273",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/CascadeCoolers5.5_339261-18_SD_1.jpg?v=1787252342",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-cascade-coolers-5-5-quot-blocked-ultimate-training-short",
+          "sha256": "6f0d2cd7528a8224af32c2c384eb976b65865688ab6c0874c4ef13ef8de3ede0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436115804233-image-83119666004041",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/CascadeCoolers5.5_339261-18_SD_2.jpg?v=1787252342",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-cascade-coolers-5-5-quot-blocked-ultimate-training-short",
+          "sha256": "6b951ce5b3919b346adf08b8b9933ff09e8b650a24029af37c6546d14ea89d41",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436120948809-image-79544387960905",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_24_7_2C_20365_20_28Essential_20Non_20Pocket_20T-Shirt_29_20-_20Seafoam_20Glass_642261-01_OF.webp?v=1768028708",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-24-7-365-essential-non-pocket-t-shirt-seafoam-glass",
+          "sha256": "565654a5f39a3eafa794ce6391afc5de3dacb3a8bf8a0aa1980fd6b7e5ccb592",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436120948809-image-79544387534921",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_24_7_365_Essential_Non_Pocket_T-Shirt_-_Seafoam_Glass_642261-01_OF__3.webp?v=1769551918",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-24-7-365-essential-non-pocket-t-shirt-seafoam-glass",
+          "sha256": "2c5f524c3bcc8eac90854ef7580610b391150d8a30ae3d4370186bf0cbf490db",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15352145936457-image-78416346644553",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_olive_you_man.webp?v=1768015334",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-olive-you-man-comfort-hoodie",
+          "sha256": "3120ef4af09c1387d560dbbbc53914896515540992ce919df3935a5ea8863e35",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15352145936457-image-78497129529417",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Olive_You_Man_Comfort_Hoodie_493253-01_OF__2.webp?v=1768015334",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-olive-you-man-comfort-hoodie",
+          "sha256": "a853958697d2a1931710d7ec083c3c4a2ff2beaad11ae15879d1591274c0b361",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436685770825-image-79372029362249",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/AllAboutAlmonds32_782233-06_SD_1.webp?v=1766502238",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-all-about-almonds-32-everywear-performance-pant",
+          "sha256": "3111c24f9621807c0cfa6065e699938ebab382419ea5f02d1a2a984ba5ade3ad",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436685770825-image-79372040536137",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/AllAboutAlmonds32_782233-06_SD_2.webp?v=1766502238",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-all-about-almonds-32-everywear-performance-pant",
+          "sha256": "e4346dc5ce725cb100546381621ae7277e68a8501a2dcec507827672161357e1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436111544393-image-83154867781705",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/RedVelvets5.5_350261-05_SD_1.jpg?v=1787339660",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-red-velvets-5-5-quot-ultimate-training-short-with-hidden-liner",
+          "sha256": "a9443c5a7492ec5375e2919a6334773082cf09558c5cf09f09b6e247e0a54e6f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15436111544393-image-83154867847241",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/RedVelvets5.5_350261-05_SD_4.jpg?v=1787339660",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-red-velvets-5-5-quot-ultimate-training-short-with-hidden-liner",
+          "sha256": "a7f98630365d3da76e137eeb28aadb70070aee590c98ee4d8e3ec67048b19cda",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15352137973833-image-78593006960713",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_marsh_mellow_1.webp?v=1769530127",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-marsh-mellow-versaquilt-packable-jacket",
+          "sha256": "6d2a9a36a43e09708532a5f6103b1c7e712ff3f209e5742831dfe7f56ee63d71",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-15352137973833-image-78496485834825",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Marsh_20Mellow_20_28Quilted_20Everyday_20Jacket_29_637253-01_OF.webp?v=1769530127",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-marsh-mellow-versaquilt-packable-jacket",
+          "sha256": "2720cfaa32d919e4afe959295d7e98e721867b8bf7682df510c4d90ef3e61bab",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-7329375354953-image-33782995484745",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Graytness_Knit_Flannel_Hoodie__346251-00_OF__4.webp?v=1762272671",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-graytness-knit-flannel-hoodie",
+          "sha256": "7ff921490c2f27af8d972671cb31e221c46475e36dc1e4a4703b2186cfc4a097",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chubbies-7329375354953-image-33782776365129",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Graytness_Knit_Flannel_Hoodie__346251-00_OF__2.webp?v=1737021027",
+          "sourceUrl": "https://chubbiesshorts.com/products/the-graytness-knit-flannel-hoodie",
+          "sha256": "80bf5651aa7edfdb116eeb6f681ba6c833ad86c9b5268e15a1ade4b47083ab9c",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 24
+    }
+  ]
+}

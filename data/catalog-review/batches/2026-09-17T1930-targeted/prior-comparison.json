@@ -1,0 +1,51 @@
+{
+  "catalogRevision": "6dc1c37",
+  "scope": "All seven previously admitted For the Fit and American Tall photos directly inspected for repetitive ensembles; no prior Chubbies admissions. No identity inference.",
+  "images": [
+    {
+      "id": "forthefit-9464910151936-image-37745508286720",
+      "src": "/photos/forthefit-9464910151936-image-37745508286720.webp",
+      "sha256": "ee61a52f51937d8e2e1272e4936cdd7f88435bba42981f104bb70f78ccb4ef0d"
+    },
+    {
+      "id": "forthefit-9444975214848-image-37957863833856",
+      "src": "/photos/forthefit-9444975214848-image-37957863833856.webp",
+      "sha256": "1e3f9aa1431894600cf25b1a8e850826ccc33c66193f7849a444bcf0851a2e90"
+    },
+    {
+      "id": "forthefit-7664771170560-image-36783277736192",
+      "src": "/photos/forthefit-7664771170560-image-36783277736192.webp",
+      "sha256": "e890764840e6326479c21c65d3cda08409faea06e3285af9b7e0bc21bc75119e"
+    },
+    {
+      "id": "forthefit-8188273459456-image-39148995903744",
+      "src": "/photos/forthefit-8188273459456-image-39148995903744.webp",
+      "sha256": "3c80f9d201f5ba7e8be9f35577ffd985d47f807d53bce8ee896dd07d455efa4f"
+    },
+    {
+      "id": "americantall-15651933093969-image-69417976561745",
+      "src": "/photos/americantall-15651933093969-image-69417976561745.webp",
+      "sha256": "13f7659f9c87f04bd4aa37c46cdf0346f0797501e19fc60360360e10a7319116"
+    },
+    {
+      "id": "americantall-15651933126737-image-69417983148113",
+      "src": "/photos/americantall-15651933126737-image-69417983148113.webp",
+      "sha256": "e8a71c642ba29f9d889308fc2125eb30727212f4ba9a75cbce30014b9966f359"
+    },
+    {
+      "id": "americantall-15664955883601-image-69631777734737",
+      "src": "/photos/americantall-15664955883601-image-69631777734737.webp",
+      "sha256": "835728f1e22e0e37bcd13e2b8cb9ec894cb9e19179bec169505474f3648d776a"
+    }
+  ],
+  "sheets": [
+    {
+      "path": "/home/workspace/Code/stylr-catalog-deploy/.cache/prior-1930/00.jpg",
+      "sha256": "2bbe7b0a16359aea2485de12aa06e65743d0d7fb7ae1eaeb1b84e5263009affc"
+    }
+  ],
+  "rejectedAfterComparison": [
+    18
+  ],
+  "retainedContourCandidates": []
+}

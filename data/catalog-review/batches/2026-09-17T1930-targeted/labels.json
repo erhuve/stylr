@@ -1,0 +1,578 @@
+[
+  {
+    "id": "forthefit-4850351898762-image-45007799025920",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/reilly-short-mens-6inch-shorts-elastic-waist-stretch-twill-tan-drawstring-zip-fly",
+    "localPath": "images/forthefit-4850351898762-image-45007799025920.webp",
+    "sha256": "ccd712e6b88233d67864ff0fc6662ef8312523a3c0c6c5fe21d41fe006b31a75",
+    "ordinal": 0,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream tee and shorts cafe scene; unusually synthetic-looking rendering, photographic origin uncertain so excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-4850351898762-image-38910656872704",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/reilly-short-mens-6inch-shorts-elastic-waist-stretch-twill-tan-drawstring-zip-fly",
+    "localPath": "images/forthefit-4850351898762-image-38910656872704.webp",
+    "sha256": "e717ae384d3caa74162e4708f97f5f68831d46c775529a03e48897b18706af46",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Drawstring and button detail without an outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-8152652349696-image-38909470703872",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/reilly-tall-mens-shorts-elastic-waist-cotton-twill-tan-drawstring-zip-fly",
+    "localPath": "images/forthefit-8152652349696-image-38909470703872.webp",
+    "sha256": "e3aa9603eb022c1f6c912911280c334ebd19a4cc32f7393d8535ca7d28d339ba",
+    "ordinal": 2,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated drawstring fabric close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-8177472504064-image-45007827730688",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/jeff-short-rise-mens-shorts-soft-stretch-twill-khaki",
+    "localPath": "images/forthefit-8177472504064-image-45007827730688.webp",
+    "sha256": "897bfc4a8ad679d88ec13beac43751004040e879f11cb24df065ee11748d2f1d",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tee and shorts cafe scene; photographic origin uncertain and near-repeat of ordinal 0.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-8177472504064-image-38878397595904",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/jeff-short-rise-mens-shorts-soft-stretch-twill-khaki",
+    "localPath": "images/forthefit-8177472504064-image-38878397595904.webp",
+    "sha256": "76a543c34e4734516a1d1f50e906bcd3415af77953f9f03c57d23b3473f557d0",
+    "ordinal": 4,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shorts close-up excludes shoulders and most torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-8164618862848-image-38819151970560",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/tall-mens-dri-mesh-polo-shirt-short-sleeve-sizes-l-2xl-royal-blue",
+    "localPath": "images/forthefit-8164618862848-image-38819151970560.webp",
+    "sha256": "35e91a991c774ebb84e419349400faf5d0d5cf3d74e362af7282a7e6510efa49",
+    "ordinal": 5,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue polo with dark trousers; loose untucked hem hides waist and hip contours on enlarged review.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-8164618862848-image-38819152396544",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/tall-mens-dri-mesh-polo-shirt-short-sleeve-sizes-l-2xl-royal-blue",
+    "localPath": "images/forthefit-8164618862848-image-38819152396544.webp",
+    "sha256": "009f79655399a979891b361b488dafc282a5e89eaeb18cd8635c0279cdb68067",
+    "ordinal": 6,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear blue polo view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-8164612505856-image-38819099508992",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/short-mens-performance-polo-shirt-short-sleeve-sizes-3-colors-blue-navy-black",
+    "localPath": "images/forthefit-8164612505856-image-38819099508992.webp",
+    "sha256": "8798397f7c83ad83470bd3d91ce08bb326aeb55c5124fb099a8d492cc5ec36a6",
+    "ordinal": 7,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": 1.0,
+      "waist": null
+    },
+    "evidence": "Blue polo tucked into belted dark trousers; shoulders visibly wider, bloused shirt prevents natural waist labeling on enlarged review.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-8164612505856-image-38819099312384",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/short-mens-performance-polo-shirt-short-sleeve-sizes-3-colors-blue-navy-black",
+    "localPath": "images/forthefit-8164612505856-image-38819099312384.webp",
+    "sha256": "afacd539524af2ddb4caf18b15d9c59b35a120a46fb56ff9e8f786c2c35858f9",
+    "ordinal": 8,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black polo and belted dark trousers repeat the ensemble at ordinal 7 with color and angle change.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-8164572594432-image-38818942845184",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/tall-mens-performance-polo-shirt-short-sleeve-sizes-l-2xl-2-colors-available",
+    "localPath": "images/forthefit-8164572594432-image-38818942845184.webp",
+    "sha256": "2fcbba7b8abdc853d9234c73b15d386e15f91f30de98115af11c84f44073cc48",
+    "ordinal": 9,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy polo and belted dark trousers repeat ordinal 7.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-7992867520768-image-37906333237504",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/short-sleeve-performance-shirt-tall-mens-l-2xl-2-colors-available",
+    "localPath": "images/forthefit-7992867520768-image-37906333237504.webp",
+    "sha256": "e2a2d0e7a88e1b61da93603c62d54a6913d724c440799801107444930a019e60",
+    "ordinal": 10,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Green crewneck tee with dark trousers; modest waist taper visible enlarged, pocket hand and hem obscure hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "forthefit-7992867520768-image-37906333270272",
+    "source": "forthefit",
+    "sourceUrl": "https://forthefit.com/products/short-sleeve-performance-shirt-tall-mens-l-2xl-2-colors-available",
+    "localPath": "images/forthefit-7992867520768-image-37906333270272.webp",
+    "sha256": "fd327f072aff2245ffebe4986f5161e00179fb652d331cb5583c63ea1bdc7cc0",
+    "ordinal": 11,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear blue crewneck tee view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-7760277569617-image-68958864539729",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/wearever-fleece-straight-leg-cargo-sweatpant-in-grey-mix",
+    "localPath": "images/americantall-7760277569617-image-68958864539729.webp",
+    "sha256": "788b0b4252490b24e65e99894489ba9d9a02d4d12bc19c36a706137e9c4bcfb4",
+    "ordinal": 12,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale sweatpants product crop lacks shoulders and torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-7760277569617-image-68958863622225",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/wearever-fleece-straight-leg-cargo-sweatpant-in-grey-mix",
+    "localPath": "images/americantall-7760277569617-image-68958863622225.webp",
+    "sha256": "0b586f5c37dc50b3d5291a5d4072f3c2d006eea21b9c1264deea985c7e73d169",
+    "ordinal": 13,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated pale sweatpants detail from ordinal 12.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-6944380092497-image-68958602100817",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/mens-tall-lounge-robe-in-navy",
+    "localPath": "images/americantall-6944380092497-image-68958602100817.webp",
+    "sha256": "67f5e3458b9bb22e6f2a5068b82fa4ab966c242f9be0488f9aaf4761e3c9d7b7",
+    "ordinal": 14,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy robe and plaid pajamas; robe obscures body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-6944380092497-image-68958602035281",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/mens-tall-lounge-robe-in-navy",
+    "localPath": "images/americantall-6944380092497-image-68958602035281.webp",
+    "sha256": "d2b1f7d8efbe4b035dcaf158a898182913d07b604820a624ba35e5794e64eacc",
+    "ordinal": 15,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated robe and pajama outfit from ordinal 14.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651932962897-image-69418319282257",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-white-sand-houndstooth",
+    "localPath": "images/americantall-15651932962897-image-69418319282257.webp",
+    "sha256": "877afc9b1fb20280a4a84fd6cc36be78cd7bd9b94d46c3976e1071c1dcec3c95",
+    "ordinal": 16,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Open pale button-up over white tee and pale trousers; layering hides waist and hip contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651932962897-image-69418319413329",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-white-sand-houndstooth",
+    "localPath": "images/americantall-15651932962897-image-69418319413329.webp",
+    "sha256": "6525628bea415b39c8f44ce9b265459966f24cb3565aa938e17da78f107986b7",
+    "ordinal": 17,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side view repeats pale shirt and trousers from ordinal 16.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933028433-image-69488149364817",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-deep-caramel-melange",
+    "localPath": "images/americantall-15651933028433-image-69488149364817.webp",
+    "sha256": "ec5fe6d2427757ba23042c9ff2132287689af4f570dff9ef0841c54f82c5a579",
+    "ordinal": 18,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown button-up with blue jeans repeats a prior American Tall admission, confirmed on prior comparison sheet ordinal 6.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933028433-image-69488149495889",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-deep-caramel-melange",
+    "localPath": "images/americantall-15651933028433-image-69488149495889.webp",
+    "sha256": "4361833dcb8165236bac0fa9fe41c8607da40c71423c81c065dee19e9253ae44",
+    "ordinal": 19,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Turned view repeats brown shirt and jeans from ordinal 18.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933061201-image-69445582061649",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-boreal-forest-melange",
+    "localPath": "images/americantall-15651933061201-image-69445582061649.webp",
+    "sha256": "e6fded7a3403c1c50361fa008983b8438cc70503dbe47c3b4a58000d76babedb",
+    "ordinal": 20,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green shirt and jeans repeat ordinal 18 with shirt color change.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933061201-image-69445582192721",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-boreal-forest-melange",
+    "localPath": "images/americantall-15651933061201-image-69445582192721.webp",
+    "sha256": "ec3c36de8603410d51ce71939ba1bf4df4e66666596ef3d5c10416fc0471d8bc",
+    "ordinal": 21,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Another angle of repeated green-shirt jeans ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663753953361-image-69269166915665",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-red-and-navy-plaid",
+    "localPath": "images/americantall-15663753953361-image-69269166915665.webp",
+    "sha256": "063a03a80e5b3344ec3be6ac4a522cac9754da7699d0401cc76d6281031e1627",
+    "ordinal": 22,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red plaid pajama trousers with shoulders cropped; full outfit retained at ordinal 23.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663753953361-image-69269166882897",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-red-and-navy-plaid",
+    "localPath": "images/americantall-15663753953361-image-69269166882897.webp",
+    "sha256": "c370b843e24c3c278f83198facc075fc5fc94124dbc0ec19b762c23a55d8237a",
+    "ordinal": 23,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy tee and red plaid pajama trousers; loose tee and pocket hands hide waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754051665-image-69269140406353",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-port-royale-and-beige-plaid",
+    "localPath": "images/americantall-15663754051665-image-69269140406353.webp",
+    "sha256": "b2ddbe8293027c6986852435082fc0c7b564e9cd62cddcdc457e8e3bec76c9db",
+    "ordinal": 24,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped plaid pajamas repeat the basic tee and sleep-trouser ensemble in another color.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754051665-image-69269147189329",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-port-royale-and-beige-plaid",
+    "localPath": "images/americantall-15663754051665-image-69269147189329.webp",
+    "sha256": "b8c41d2db0d9bf109d14ddaf5ef972f11ac79a14c8a0183d612d6b6641beb0f2",
+    "ordinal": 25,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Plaid waistband close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754117201-image-69418066575441",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-cobalt-and-red-plaid",
+    "localPath": "images/americantall-15663754117201-image-69418066575441.webp",
+    "sha256": "685e24bd87b435b2b4239fd459cd5aab01d39c2a9962940f43daa2afc7f737b3",
+    "ordinal": 26,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Another cropped plaid pajama colorway, no distinct full-outfit evidence.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754117201-image-69418066608209",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-cobalt-and-red-plaid",
+    "localPath": "images/americantall-15663754117201-image-69418066608209.webp",
+    "sha256": "0f97f731e4fb173f72e29d627c434bc3cc2309fac952d3a263e83dfaf5bbdfbb",
+    "ordinal": 27,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Plaid drawstring close-up with hands.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754182737-image-69269111341137",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-moon-rock-plaid",
+    "localPath": "images/americantall-15663754182737-image-69269111341137.webp",
+    "sha256": "6f8a102cc67751c322d7d18351bc7d50d6da2989fea73a9145b04389dac489dc",
+    "ordinal": 28,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale plaid pajama colorway repeats the retained sleepwear ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754182737-image-69269111373905",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-moon-rock-plaid",
+    "localPath": "images/americantall-15663754182737-image-69269111373905.webp",
+    "sha256": "5dec6a034d60a7b16b405941344977a64221d991d2411b93d85d16d55172ac5f",
+    "ordinal": 29,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale plaid waistband close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754248273-image-69418069917777",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-grey-plaid",
+    "localPath": "images/americantall-15663754248273-image-69418069917777.webp",
+    "sha256": "847e1059227642601836129247ba17714f856bcf5ed9376c4286ce41c07660a1",
+    "ordinal": 30,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray plaid pajama side crop repeats the retained sleepwear ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754248273-image-69418070048849",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-grey-plaid",
+    "localPath": "images/americantall-15663754248273-image-69418070048849.webp",
+    "sha256": "9fa0e8de1f69b50eec9b28ff97c6100068ce41077fbc6886810d5f8823817776",
+    "ordinal": 31,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray plaid pajama front crop repeats the retained sleepwear ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754313809-image-69418074931281",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-navy-and-green-plaid",
+    "localPath": "images/americantall-15663754313809-image-69418074931281.webp",
+    "sha256": "68abbfd014570b8a3893c0a8c77b6185e80b27dbc435bf2272acbd08c4f693c8",
+    "ordinal": 32,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark blue plaid pajama crop repeats the retained sleepwear ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754313809-image-69418074800209",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-navy-and-green-plaid",
+    "localPath": "images/americantall-15663754313809-image-69418074800209.webp",
+    "sha256": "d46004eeda6a689c28d70db7cf95c01e52a784a2b9d8b6a9ac00de6c8d7c5572",
+    "ordinal": 33,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark blue plaid pajama side crop repeats ordinal 32.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754379345-image-69269169995857",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-royal-blue-and-green-plaid",
+    "localPath": "images/americantall-15663754379345-image-69269169995857.webp",
+    "sha256": "4c3b3807e917eb3115bc86594b40d8b9750b602c7a40dc6f9247715744385f7c",
+    "ordinal": 34,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy and yellow plaid pajama crop repeats the retained sleepwear ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15663754379345-image-69269169864785",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-royal-blue-and-green-plaid",
+    "localPath": "images/americantall-15663754379345-image-69269169864785.webp",
+    "sha256": "46d65a270e78645fb13867399a914d308efaf8daca87bc312ee72309e38b98f4",
+    "ordinal": 35,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Another angle of navy and yellow pajama crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

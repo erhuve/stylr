@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9376,
-  "admittedPhotos": 6569,
-  "totalPhotos": 6954,
+  "reviewedCandidates": 9484,
+  "admittedPhotos": 6622,
+  "totalPhotos": 7007,
   "axisSupport": {
-    "build": 5325,
-    "shoulderHip": 303,
-    "waist": 592
+    "build": 5367,
+    "shoulderHip": 304,
+    "waist": 594
   },
   "completeReferences": 246,
-  "sourcePages": 6022,
+  "sourcePages": 6075,
   "excludedReasons": {
-    "non-outfit-view": 2749,
+    "non-outfit-view": 2804,
     "existing-source-page": 58
   },
   "excluded": [
@@ -11240,6 +11240,226 @@
     },
     {
       "id": "ashanderie-10052020928810-image-52112984211754",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-19398",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20661",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10005",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20588",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16089",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9295",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16738",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forthefit-4850351898762-image-45007799025920",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forthefit-4850351898762-image-38910656872704",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forthefit-8152652349696-image-38909470703872",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forthefit-8177472504064-image-45007827730688",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forthefit-8177472504064-image-38878397595904",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forthefit-8164618862848-image-38819152396544",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forthefit-8164612505856-image-38819099312384",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forthefit-8164572594432-image-38818942845184",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "forthefit-7992867520768-image-37906333270272",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-7760277569617-image-68958864539729",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-7760277569617-image-68958863622225",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-6944380092497-image-68958602035281",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651932962897-image-69418319413329",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933028433-image-69488149364817",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933028433-image-69488149495889",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933061201-image-69445582061649",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933061201-image-69445582192721",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663753953361-image-69269166915665",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754051665-image-69269140406353",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754051665-image-69269147189329",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754117201-image-69418066575441",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754117201-image-69418066608209",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754182737-image-69269111341137",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754182737-image-69269111373905",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754248273-image-69418069917777",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754248273-image-69418070048849",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754313809-image-69418074931281",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754313809-image-69418074800209",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754379345-image-69269169995857",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15663754379345-image-69269169864785",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436115279945-image-83932025782345",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436115279945-image-83932025749577",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15540676624457-image-83806372069449",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15540691992649-image-83806335500361",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15352150720585-image-78497098694729",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436121768009-image-83119642476617",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436121768009-image-83119642443849",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436115804233-image-83119665971273",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436115804233-image-83119666004041",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436120948809-image-79544387534921",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15352145936457-image-78416346644553",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15352145936457-image-78497129529417",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436685770825-image-79372029362249",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436685770825-image-79372040536137",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436111544393-image-83154867781705",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15436111544393-image-83154867847241",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-15352137973833-image-78496485834825",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chubbies-7329375354953-image-33782776365129",
       "reason": "non-outfit-view"
     }
   ]

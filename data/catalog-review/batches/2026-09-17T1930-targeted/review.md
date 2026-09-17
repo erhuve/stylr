@@ -1,0 +1,7 @@
+# Casual tailoring source continuation
+
+Directly inspected 36 candidates on three bound sheets, with original-image enlargements at ordinals 5, 7 and 10. The bounded search fetched For the Fit's 77-product first listing and American Tall's 250-product first listing, selecting at most 12 unseen product pages per source. Dapper Boi's first listing returned HTTP 404; it is recorded as failure, not exhaustion. Searches preserve every observed product decision and source snapshot hash.
+
+Six photos admitted: three masculine and three unclear; five have build labels, none supports all three axes. The tucked polo supports wider shoulders but blousing hides natural waist indentation; the green tee supports moderate waist taper but a pocket hand and hem hide hip comparison. All seven earlier For the Fit/American Tall admissions were compared on a hash-bound sheet. Ordinal 18 repeats a previous brown-shirt/jeans ensemble and is excluded. Pajama colorways, product details and backs are excluded; two cafe images have uncertain photographic origin and are conservatively rejected rather than admitted as real photographs.
+
+First/third American Tall gallery positions are dominated by trouser crops and repeated shirt or pajama colorways. Prefer verified full-front alternatives or new sources. The new Chubbies batch explores another publisher. No brand, department or appearance-based identity inference supplies presentation labels. Not deployed.

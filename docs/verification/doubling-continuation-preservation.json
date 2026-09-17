@@ -1,44 +1,56 @@
 {
-  "baselineCommit": "783e29c",
+  "baselineCommit": "6dc1c37",
   "preservedPrefixes": {
-    "scripts/reviewed-photos.json": 6514,
-    "scripts/reviewed-assets.json": 6514,
-    "data/catalog-review/admitted-body.json": 6514
+    "scripts/reviewed-photos.json": 6569,
+    "scripts/reviewed-assets.json": 6569,
+    "data/catalog-review/admitted-body.json": 6569
   },
-  "preservedPresentationRows": 6899,
+  "preservedPresentationRows": 6954,
   "trainingPartition": [
     720,
     120,
     48,
-    3912
+    48,
+    3864
   ],
   "pendingExcluded": true,
   "batches": [
     {
-      "batch": "2026-09-17T1840-training",
+      "batch": "2026-09-17T1920-training",
       "reviewed": 48,
-      "admitted": 44,
-      "build": 39,
+      "admitted": 41,
+      "build": 32,
       "complete": 0,
       "presentationEvidence": {
-        "D": 18,
-        "U": 19,
-        "F": 6,
-        "M": 1
+        "U": 17,
+        "F": 7,
+        "D": 16,
+        "X": 1
       }
     },
     {
-      "batch": "2026-09-17T1850-targeted",
-      "reviewed": 66,
-      "admitted": 11,
-      "build": 11,
-      "complete": 3,
+      "batch": "2026-09-17T1930-targeted",
+      "reviewed": 36,
+      "admitted": 6,
+      "build": 5,
+      "complete": 0,
       "presentationEvidence": {
-        "U": 2,
-        "C": 9
+        "C": 3,
+        "U": 3
+      }
+    },
+    {
+      "batch": "2026-09-17T1940-chubbies",
+      "reviewed": 24,
+      "admitted": 6,
+      "build": 5,
+      "complete": 0,
+      "presentationEvidence": {
+        "C": 3,
+        "U": 3
       }
     }
   ],
-  "totalPhotos": 6954,
-  "remainingToTarget": 3258
+  "totalPhotos": 7007,
+  "remainingToTarget": 3205
 }

@@ -20,12 +20,12 @@
     },
     {
       "source": "americantall",
-      "sampledPages": 8,
-      "candidateImages": 16,
-      "reviewedExpansionCandidates": 16,
-      "admittedExpansionPhotos": 3,
+      "sampledPages": 20,
+      "candidateImages": 40,
+      "reviewedExpansionCandidates": 40,
+      "admittedExpansionPhotos": 6,
       "completeExpansionReferences": 0,
-      "deferredPages": 225
+      "deferredPages": 215
     },
     {
       "source": "ashanderie",
@@ -44,6 +44,15 @@
       "admittedExpansionPhotos": 154,
       "completeExpansionReferences": 23,
       "deferredPages": 73
+    },
+    {
+      "source": "chubbies",
+      "sampledPages": 12,
+      "candidateImages": 24,
+      "reviewedExpansionCandidates": 24,
+      "admittedExpansionPhotos": 6,
+      "completeExpansionReferences": 0,
+      "deferredPages": 105
     },
     {
       "source": "chubstr",
@@ -85,8 +94,8 @@
       "source": "fashionpedia",
       "sampledPages": 7263,
       "candidateImages": 7263,
-      "reviewedExpansionCandidates": 3351,
-      "admittedExpansionPhotos": 3048,
+      "reviewedExpansionCandidates": 3399,
+      "admittedExpansionPhotos": 3089,
       "completeExpansionReferences": 34,
       "deferredPages": 37631
     },
@@ -110,12 +119,12 @@
     },
     {
       "source": "forthefit",
-      "sampledPages": 27,
-      "candidateImages": 44,
-      "reviewedExpansionCandidates": 44,
-      "admittedExpansionPhotos": 4,
+      "sampledPages": 34,
+      "candidateImages": 56,
+      "reviewedExpansionCandidates": 56,
+      "admittedExpansionPhotos": 7,
       "completeExpansionReferences": 1,
-      "deferredPages": 45
+      "deferredPages": 36
     },
     {
       "source": "foxblood",
@@ -36348,6 +36357,589 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-black-knit-polo-1224864791.jpg?v=1772576888",
               "sourceUrl": "https://ashanderie.com/products/black-knit-polo",
               "sha256": "8262fd9bf885a703bef75af43ca23685b8fe99c07b33a34f47eb8739b5232d2e",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 24
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T1920-training/sources.json",
+      "retrievedAt": "2026-09-17T04:28:55.456203+00:00",
+      "scope": "Direct review of original training collection ordinals 888\u2013935 from saved pending intake; no new network retrieval.",
+      "sources": [
+        {
+          "source": "fashionpedia",
+          "pages": [
+            {
+              "url": "https://s3.amazonaws.com/ifashionist-dataset/annotations/attributes_train2020.json",
+              "products": 45623,
+              "snapshotSha256": "5e5271adaca8e990824189cbef508e4383c83a9a4a3c34c03ba5149b2ad94267"
+            }
+          ],
+          "archiveUrl": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+          "archiveSha256": "d896792104a4c35efa7859a18cf605fddae779f5c2372e87e08d7b45949244e2",
+          "errors": []
+        }
+      ],
+      "resumedFrom": "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json",
+      "originalCollectionOffset": 888
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T1930-targeted/sources.json",
+      "retrievedAt": "2026-09-17T19:17:04.694695+00:00",
+      "scope": "3 sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "dapperboi",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://dapperboi.com/products.json?limit=250&page=1",
+              "error": "404 Client Error: Not Found for url: https://dapperboi.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "forthefit",
+          "pages": [
+            {
+              "url": "https://forthefit.com/products.json?limit=250&page=1",
+              "products": 77,
+              "retrievedAt": "2026-09-17T19:16:49.406723+00:00",
+              "snapshotSha256": "ab84194fd381e56363d1c9a955dec1ee6416cc4f479a08e08eab06a67060768a"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "forthefit-9638963118336-image-44699977810176",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/files/forthefit-mens-tall-jacket-new-tall-men-s-premium-fleece-hooded-pullover-sweatshirt-sizes-s-2xl-2-colors-available-new-tall-men-s-premium-fleece-hooded-pullover-sweatshirt-sizes-s-2xl-2-colors-available-1193386951.png?v=1758156909",
+              "sourceUrl": "https://forthefit.com/products/new-tall-mens-premium-fleece-hooded-pullover-sweatshirt-sizes-s-2xl-2-colors-available-copy",
+              "sha256": "1ccc555908d0608ab5af09e3dc8ee146dc0c01f0b91a417e1c6bbc90f2205dc6",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-9432658477312-image-46411773837568",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/files/forthefit-mens-short-casual-pant-coming-soon-short-rise-men-s-traveler-tech-performance-dress-pants-3-colors-available-coming-soon-short-rise-men-s-traveler-tech-performance-dress-pants-3-colors-available-1235006701.jpg?v=1777596732",
+              "sourceUrl": "https://forthefit.com/products/short-mens-short-rise-traveler-tech-performance-dress-pants",
+              "sha256": "b91e8aad116e5c79c48fd7ed80d1c82749164c0b54f7ff0df9a76e6fbfd94b52",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-8248681857280-image-45361118216448",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/files/forthefit-mens-short-pajama-new-short-men-s-jogger-sleep-pant-100-cotton-jersey-knit-pajama-bottom-new-short-men-s-jogger-sleep-pant-100-cotton-jersey-knit-pajama-bottom-1210256920.png?v=1765084748",
+              "sourceUrl": "https://forthefit.com/products/new-short-mens-jogger-sleep-pant-100-cotton-jersey-knit-pajama-bottom",
+              "sha256": "3a513e0b33dcb4f8e46cafdedca8b973801f81896ce486a633abc0f0ca96b93a",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-8248681857280-image-45361118281984",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/files/forthefit-mens-short-pajama-new-short-men-s-jogger-sleep-pant-100-cotton-jersey-knit-pajama-bottom-new-short-men-s-jogger-sleep-pant-100-cotton-jersey-knit-pajama-bottom-1210256918.png?v=1765084753",
+              "sourceUrl": "https://forthefit.com/products/new-short-mens-jogger-sleep-pant-100-cotton-jersey-knit-pajama-bottom",
+              "sha256": "a5c5620d561de155b35a0eb67c520e98b834e053e984175561e64a865eea8e35",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-4850351898762-image-45007799025920",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/files/forthefit-mens-short-shorts-small-reilly-2-0-short-rise-men-s-6-twill-shorts-elastic-waist-plus-drawstring-zip-fly-discontinued-reilly-2-0-short-rise-men-s-6-twill-shorts-elastic-waist-plus-drawstring-zip-fly-discontinued-1203651779.png?v=1762577588",
+              "sourceUrl": "https://forthefit.com/products/reilly-short-mens-6inch-shorts-elastic-waist-stretch-twill-tan-drawstring-zip-fly",
+              "sha256": "ccd712e6b88233d67864ff0fc6662ef8312523a3c0c6c5fe21d41fe006b31a75",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-4850351898762-image-38910656872704",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-short-shorts-reilly-6-short-men-s-shorts-elastic-waist-stretch-cotton-twill-sand-size-2xl-final-sale-38910638850304.jpg?v=1762568316",
+              "sourceUrl": "https://forthefit.com/products/reilly-short-mens-6inch-shorts-elastic-waist-stretch-twill-tan-drawstring-zip-fly",
+              "sha256": "e717ae384d3caa74162e4708f97f5f68831d46c775529a03e48897b18706af46",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-8152652349696-image-45007799025920",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/files/forthefit-mens-short-shorts-small-reilly-2-0-short-rise-men-s-6-twill-shorts-elastic-waist-plus-drawstring-zip-fly-discontinued-reilly-2-0-short-rise-men-s-6-twill-shorts-elastic-waist-plus-drawstring-zip-fly-discontinued-1203651779.png?v=1762577588",
+              "sourceUrl": "https://forthefit.com/products/reilly-tall-mens-shorts-elastic-waist-cotton-twill-tan-drawstring-zip-fly",
+              "sha256": "ccd712e6b88233d67864ff0fc6662ef8312523a3c0c6c5fe21d41fe006b31a75",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-8152652349696-image-38909470703872",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-tall-shorts-coming-soon-reilly-tall-men-s-shorts-elastic-waist-stretch-cotton-twill-khaki-sizes-s-m-remain-final-sale-38909457170688.jpg?v=1762568252",
+              "sourceUrl": "https://forthefit.com/products/reilly-tall-mens-shorts-elastic-waist-cotton-twill-tan-drawstring-zip-fly",
+              "sha256": "e3aa9603eb022c1f6c912911280c334ebd19a4cc32f7393d8535ca7d28d339ba",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-8177472504064-image-45007827730688",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/files/forthefit-mens-tall-shorts-29-tall-12-new-jeff-tall-men-s-shorts-soft-stretch-twill-khaki-new-jeff-tall-men-s-shorts-soft-stretch-twill-khaki-1203651778.png?v=1762577592",
+              "sourceUrl": "https://forthefit.com/products/jeff-short-rise-mens-shorts-soft-stretch-twill-khaki",
+              "sha256": "897bfc4a8ad679d88ec13beac43751004040e879f11cb24df065ee11748d2f1d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-8177472504064-image-38878397595904",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-short-shorts-coming-soon-jeff-short-rise-men-s-shorts-soft-stretch-twill-khaki-38878393303296.jpg?v=1762569017",
+              "sourceUrl": "https://forthefit.com/products/jeff-short-rise-mens-shorts-soft-stretch-twill-khaki",
+              "sha256": "76a543c34e4734516a1d1f50e906bcd3415af77953f9f03c57d23b3473f557d0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-6827966038172-image-45007827730688",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/files/forthefit-mens-tall-shorts-29-tall-12-new-jeff-tall-men-s-shorts-soft-stretch-twill-khaki-new-jeff-tall-men-s-shorts-soft-stretch-twill-khaki-1203651778.png?v=1762577592",
+              "sourceUrl": "https://forthefit.com/products/new-jeff-2-0-tall-mens-shorts-soft-stretch-twill-tan-khaki",
+              "sha256": "897bfc4a8ad679d88ec13beac43751004040e879f11cb24df065ee11748d2f1d",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-6827966038172-image-36764009300224",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-tall-shorts-new-jeff-2-0-tall-men-s-shorts-soft-stretch-twill-khaki-36699009810688.jpg?v=1762569089",
+              "sourceUrl": "https://forthefit.com/products/new-jeff-2-0-tall-mens-shorts-soft-stretch-twill-tan-khaki",
+              "sha256": "76a543c34e4734516a1d1f50e906bcd3415af77953f9f03c57d23b3473f557d0",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-8164618862848-image-38819151970560",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-tall-ss-casual-shirt-royal-blue-large-new-tall-men-s-dri-mesh-polo-shirt-short-sleeve-sizes-l-2xl-royal-blue-38819147874560.jpg?v=1679782105",
+              "sourceUrl": "https://forthefit.com/products/tall-mens-dri-mesh-polo-shirt-short-sleeve-sizes-l-2xl-royal-blue",
+              "sha256": "35e91a991c774ebb84e419349400faf5d0d5cf3d74e362af7282a7e6510efa49",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-8164618862848-image-38819152396544",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-tall-ss-casual-shirt-new-tall-men-s-dri-mesh-polo-shirt-short-sleeve-sizes-l-2xl-royal-blue-38819147940096.jpg?v=1679782112",
+              "sourceUrl": "https://forthefit.com/products/tall-mens-dri-mesh-polo-shirt-short-sleeve-sizes-l-2xl-royal-blue",
+              "sha256": "009f79655399a979891b361b488dafc282a5e89eaeb18cd8635c0279cdb68067",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-8164617519360-image-38819152527616",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-short-ss-casual-shirt-royal-blue-x-small-new-dri-mesh-polo-shirt-short-men-s-short-sleeve-sizes-xs-m-royal-blue-38819140829440.jpg?v=1679782115",
+              "sourceUrl": "https://forthefit.com/products/dri-mesh-polo-shirt-short-mens-short-sleeve-sizes-xs-m-royal-blue",
+              "sha256": "35e91a991c774ebb84e419349400faf5d0d5cf3d74e362af7282a7e6510efa49",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-8164617519360-image-38819152855296",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-short-ss-casual-shirt-new-dri-mesh-polo-shirt-short-men-s-short-sleeve-sizes-xs-m-royal-blue-38819140862208.jpg?v=1679782122",
+              "sourceUrl": "https://forthefit.com/products/dri-mesh-polo-shirt-short-mens-short-sleeve-sizes-xs-m-royal-blue",
+              "sha256": "009f79655399a979891b361b488dafc282a5e89eaeb18cd8635c0279cdb68067",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-8164612505856-image-38819099508992",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-short-ss-casual-shirt-light-blue-x-small-short-men-s-performance-polo-shirt-short-sleeve-sizes-xs-m-2-colors-available-38819086303488.jpg?v=1679780858",
+              "sourceUrl": "https://forthefit.com/products/short-mens-performance-polo-shirt-short-sleeve-sizes-3-colors-blue-navy-black",
+              "sha256": "8798397f7c83ad83470bd3d91ce08bb326aeb55c5124fb099a8d492cc5ec36a6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-8164612505856-image-38819099312384",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-short-ss-casual-shirt-black-x-small-short-men-s-performance-polo-shirt-short-sleeve-sizes-xs-m-2-colors-available-38819086270720.jpg?v=1679780851",
+              "sourceUrl": "https://forthefit.com/products/short-mens-performance-polo-shirt-short-sleeve-sizes-3-colors-blue-navy-black",
+              "sha256": "afacd539524af2ddb4caf18b15d9c59b35a120a46fb56ff9e8f786c2c35858f9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-8164572594432-image-38818942845184",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-tall-ss-casual-shirt-navy-large-tall-men-s-performance-polo-shirt-short-sleeve-sizes-l-2xl-2-colors-available-38818924986624.jpg?v=1679777071",
+              "sourceUrl": "https://forthefit.com/products/tall-mens-performance-polo-shirt-short-sleeve-sizes-l-2xl-2-colors-available",
+              "sha256": "2fcbba7b8abdc853d9234c73b15d386e15f91f30de98115af11c84f44073cc48",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-8164572594432-image-38818942714112",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-tall-ss-casual-shirt-black-large-tall-men-s-performance-polo-shirt-short-sleeve-sizes-l-2xl-2-colors-available-38818925052160.jpg?v=1679777065",
+              "sourceUrl": "https://forthefit.com/products/tall-mens-performance-polo-shirt-short-sleeve-sizes-l-2xl-2-colors-available",
+              "sha256": "afacd539524af2ddb4caf18b15d9c59b35a120a46fb56ff9e8f786c2c35858f9",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "forthefit-7992867520768-image-37906333237504",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-tall-ss-casual-shirt-heathered-green-2x-large-tall-men-s-short-sleeve-performance-t-shirt-sizes-l-2xl-2-colors-available-37906327372032.jpg?v=1665368619",
+              "sourceUrl": "https://forthefit.com/products/short-sleeve-performance-shirt-tall-mens-l-2xl-2-colors-available",
+              "sha256": "e2a2d0e7a88e1b61da93603c62d54a6913d724c440799801107444930a019e60",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "forthefit-7992867520768-image-37906333270272",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0354/7267/0858/products/forthefit-mens-tall-ss-casual-shirt-tall-men-s-short-sleeve-performance-t-shirt-sizes-l-2xl-2-colors-available-37906327339264.jpg?v=1665368621",
+              "sourceUrl": "https://forthefit.com/products/short-sleeve-performance-shirt-tall-mens-l-2xl-2-colors-available",
+              "sha256": "fd327f072aff2245ffebe4986f5161e00179fb652d331cb5583c63ea1bdc7cc0",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "americantall",
+          "pages": [
+            {
+              "url": "https://americantall.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-17T19:17:01.280165+00:00",
+              "snapshotSha256": "a028727c8ef5e3130b304eb14b54451877aa918346db6ad0fca8fd618d87b9e1"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "americantall-7760277569617-image-68958864539729",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Wearever-Fleece-Straight-Leg-Cargo-Sweatpant-Grey-Mix-Front_b5796240-bbf0-4827-b1b8-4679bb12e7a1.jpg?v=1779999787",
+              "sourceUrl": "https://americantall.com/products/wearever-fleece-straight-leg-cargo-sweatpant-in-grey-mix",
+              "sha256": "788b0b4252490b24e65e99894489ba9d9a02d4d12bc19c36a706137e9c4bcfb4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-7760277569617-image-68958863622225",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Wearever-Fleece-Straight-Leg-Cargo-Sweatpant-Grey-Mix-Side_fe946e82-7f30-46de-a986-eb194b458aa1.jpg?v=1779999779",
+              "sourceUrl": "https://americantall.com/products/wearever-fleece-straight-leg-cargo-sweatpant-in-grey-mix",
+              "sha256": "0b586f5c37dc50b3d5291a5d4072f3c2d006eea21b9c1264deea985c7e73d169",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-6944380092497-image-68958602100817",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Lounge-Robe-Navy-Front_7054c96a-72d4-4498-b055-6d962b6516f0.jpg?v=1779997003",
+              "sourceUrl": "https://americantall.com/products/mens-tall-lounge-robe-in-navy",
+              "sha256": "67f5e3458b9bb22e6f2a5068b82fa4ab966c242f9be0488f9aaf4761e3c9d7b7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-6944380092497-image-68958602035281",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Lounge-Robe-Navy-Side_50f3e42b-6977-43c7-b843-dcbcb365c0a2.jpg?v=1779997003",
+              "sourceUrl": "https://americantall.com/products/mens-tall-lounge-robe-in-navy",
+              "sha256": "d2b1f7d8efbe4b035dcaf158a898182913d07b604820a624ba35e5794e64eacc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15651932962897-image-69418319282257",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Everyday-Lightweight-Flannel-Shirt-White-Sand-Houndstooth-Front.jpg?v=1784841761",
+              "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-white-sand-houndstooth",
+              "sha256": "877afc9b1fb20280a4a84fd6cc36be78cd7bd9b94d46c3976e1071c1dcec3c95",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15651932962897-image-69418319413329",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Everyday-Lightweight-Flannel-Shirt-White-Sand-Houndstooth-Side.jpg?v=1784841761",
+              "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-white-sand-houndstooth",
+              "sha256": "6525628bea415b39c8f44ce9b265459966f24cb3565aa938e17da78f107986b7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15651933028433-image-69488149364817",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Everyday-Lightweight-Flannel-Shirt-Deep-Caramel-Melange-Front.jpg?v=1785527934",
+              "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-deep-caramel-melange",
+              "sha256": "ec5fe6d2427757ba23042c9ff2132287689af4f570dff9ef0841c54f82c5a579",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15651933028433-image-69488149495889",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Everyday-Lightweight-Flannel-Shirt-Deep-Caramel-Melange-Side.jpg?v=1785527934",
+              "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-deep-caramel-melange",
+              "sha256": "4361833dcb8165236bac0fa9fe41c8607da40c71423c81c065dee19e9253ae44",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15651933061201-image-69445582061649",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Everyday-Lightweight-Flannel-Shirt-Boreal-Forest-Melange-Front.jpg?v=1785244815",
+              "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-boreal-forest-melange",
+              "sha256": "e6fded7a3403c1c50361fa008983b8438cc70503dbe47c3b4a58000d76babedb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15651933061201-image-69445582192721",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Everyday-Lightweight-Flannel-Shirt-Boreal-Forest-Melange-Side.jpg?v=1785244815",
+              "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-boreal-forest-melange",
+              "sha256": "ec3c36de8603410d51ce71939ba1bf4df4e66666596ef3d5c10416fc0471d8bc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663753953361-image-69269166915665",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Red-and-Navy-Plaid-Front_1.jpg?v=1783533685",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-red-and-navy-plaid",
+              "sha256": "063a03a80e5b3344ec3be6ac4a522cac9754da7699d0401cc76d6281031e1627",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663753953361-image-69269166882897",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Red-and-Navy-Plaid-Full_1.jpg?v=1783533684",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-red-and-navy-plaid",
+              "sha256": "c370b843e24c3c278f83198facc075fc5fc94124dbc0ec19b762c23a55d8237a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754051665-image-69269140406353",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Port-Royale-and-Beige-Plaid-Front_1.jpg?v=1783533110",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-port-royale-and-beige-plaid",
+              "sha256": "b2ddbe8293027c6986852435082fc0c7b564e9cd62cddcdc457e8e3bec76c9db",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754051665-image-69269147189329",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Port-Royale-and-Beige-Plaid-Detail.jpg?v=1783533369",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-port-royale-and-beige-plaid",
+              "sha256": "b8c41d2db0d9bf109d14ddaf5ef972f11ac79a14c8a0183d612d6b6641beb0f2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754117201-image-69418066575441",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Cobalt-and-Red-Plaid-Front.jpg?v=1784834819",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-cobalt-and-red-plaid",
+              "sha256": "685e24bd87b435b2b4239fd459cd5aab01d39c2a9962940f43daa2afc7f737b3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754117201-image-69418066608209",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Cobalt-and-Red-Plaid-Detail.jpg?v=1784834819",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-cobalt-and-red-plaid",
+              "sha256": "0f97f731e4fb173f72e29d627c434bc3cc2309fac952d3a263e83dfaf5bbdfbb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754182737-image-69269111341137",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Moon-Rock-Plaid-Front_7390751b-5db9-408e-a68d-c99e93763aeb.jpg?v=1783532855",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-moon-rock-plaid",
+              "sha256": "6f8a102cc67751c322d7d18351bc7d50d6da2989fea73a9145b04389dac489dc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754182737-image-69269111373905",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Moon-Rock-Plaid-Detail_2901d605-fe53-4f68-ae3a-49e7360de02d.jpg?v=1783532855",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-moon-rock-plaid",
+              "sha256": "5dec6a034d60a7b16b405941344977a64221d991d2411b93d85d16d55172ac5f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754248273-image-69418069917777",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Grey-Plaid-Side.jpg?v=1784834893",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-grey-plaid",
+              "sha256": "847e1059227642601836129247ba17714f856bcf5ed9376c4286ce41c07660a1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754248273-image-69418070048849",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Grey-Plaid-Front.jpg?v=1784834893",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-grey-plaid",
+              "sha256": "9fa0e8de1f69b50eec9b28ff97c6100068ce41077fbc6886810d5f8823817776",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754313809-image-69418074931281",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Navy-and-Green-Plaid-Front.jpg?v=1784834989",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-navy-and-green-plaid",
+              "sha256": "68abbfd014570b8a3893c0a8c77b6185e80b27dbc435bf2272acbd08c4f693c8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754313809-image-69418074800209",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Navy-and-Green-Plaid-Side.jpg?v=1784834989",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-navy-and-green-plaid",
+              "sha256": "d46004eeda6a689c28d70db7cf95c01e52a784a2b9d8b6a9ac00de6c8d7c5572",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754379345-image-69269169995857",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Royal-Blue-and-Green-Plaid-Front.jpg?v=1783533866",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-royal-blue-and-green-plaid",
+              "sha256": "4c3b3807e917eb3115bc86594b40d8b9750b602c7a40dc6f9247715744385f7c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "americantall-15663754379345-image-69269169864785",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/6090/files/American-Tall-Men-Flannel-Pajama-Pants-Royal-Blue-and-Green-Plaid-Side.jpg?v=1783533866",
+              "sourceUrl": "https://americantall.com/products/flannel-pajama-pants-in-royal-blue-and-green-plaid",
+              "sha256": "46d65a270e78645fb13867399a914d308efaf8daca87bc312ee72309e38b98f4",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 24
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T1940-chubbies/sources.json",
+      "retrievedAt": "2026-09-17T19:18:27.987509+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "chubbies",
+          "pages": [
+            {
+              "url": "https://chubbiesshorts.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-17T19:18:24.070989+00:00",
+              "snapshotSha256": "6d081082a78fe5fab60c654487fa191693ac22e2b787625936a034e7fc6c70a9"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "chubbies-15436115279945-image-83932025782345",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/SteelGraysComfortShort_086261-02_SD_3.jpg?v=1789577036",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-steel-grays-comfort-short",
+              "sha256": "6dfc99632f71ee9b61fb7f256f71637560063b16ffbb098e24020b5ed8438a7c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436115279945-image-83932025749577",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/SteelGraysComfortShort_086261-02_SD_2.jpg?v=1789577036",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-steel-grays-comfort-short",
+              "sha256": "f7328473f3a641dab710b4fd508f2810fbfc6a5d612f25d33fb7e83ff9605f0e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15540676624457-image-83806370988105",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Habitual_20Ritual_20_28Resort_20Weave_20Friday_20Shirt_29-_20Tan_603263-00_OF.webp?v=1789149211",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-habitual-ritual-resort-weave-friday-shirt-tan",
+              "sha256": "113532476a83c431a60fe7600a219e95deb1911798c798a9a89472c8d7397e65",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15540676624457-image-83806372069449",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Habitual_Ritual_Resort_Weave_Friday_Shirt-_Tan_603263-00_OF__3.webp?v=1789150000",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-habitual-ritual-resort-weave-friday-shirt-tan",
+              "sha256": "c15ff8d7b613900b84bb1f85c7a49b669456f6e8ce425f54cefe28e1fb202b61",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15540691992649-image-83806334189641",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Barnwood_20_28Resort_20Weave_20Friday_20Shirt_29_603263-03_OF.webp?v=1789148813",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-barnwood-resort-weave-friday-shirt",
+              "sha256": "50307656c1a278a4dd1598c0a416f510bf4fd89bc2e0f8d3b4d6d34e668896e4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15540691992649-image-83806335500361",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Barnwood_Resort_Weave_Friday_Shirt_603263-03_OF__3.webp?v=1789149244",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-barnwood-resort-weave-friday-shirt",
+              "sha256": "6c2ac63f88acc29ceb1ad819fa677144c5eb7ec7acb9b3c8b7c8101d9e8b9799",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15352150720585-image-78497101545545",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Hang_20Ten_20_28UPF_20Shirt_29_625253-00_OF.webp?v=1768015162",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-hang-ten-upf-shirt",
+              "sha256": "5fd443084147bf4d7b7c983b4f44fed7aac3e774f3abcc8e96cb1544bc1dd990",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15352150720585-image-78497098694729",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Hang_Ten_UPF_Shirt_625253-00_OF__2.webp?v=1768015162",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-hang-ten-upf-shirt",
+              "sha256": "64564d9952be0f48796baced38f34ae30b9b727a3e83ed3661d5f99822c2a1c3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436121768009-image-83119642476617",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/Hook_Line_AndSinker_502261-04_SD_2.jpg?v=1787252264",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-hook-line-and-sinker-non-pocket-graphic-t-shirt",
+              "sha256": "f46111afc2ef3c6f66ad10b41600afd20a92df61d6f49c587ed8276688237c2f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436121768009-image-83119642443849",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/Hook_Line_AndSinker_502261-04_SD_4.jpg?v=1787252265",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-hook-line-and-sinker-non-pocket-graphic-t-shirt",
+              "sha256": "4283158ea29d97d277600eae8fb191d49a7d2170c9a58f109ed9edd9d156bf48",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436115804233-image-83119665971273",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/CascadeCoolers5.5_339261-18_SD_1.jpg?v=1787252342",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-cascade-coolers-5-5-quot-blocked-ultimate-training-short",
+              "sha256": "6f0d2cd7528a8224af32c2c384eb976b65865688ab6c0874c4ef13ef8de3ede0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436115804233-image-83119666004041",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/CascadeCoolers5.5_339261-18_SD_2.jpg?v=1787252342",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-cascade-coolers-5-5-quot-blocked-ultimate-training-short",
+              "sha256": "6b951ce5b3919b346adf08b8b9933ff09e8b650a24029af37c6546d14ea89d41",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436120948809-image-79544387960905",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_24_7_2C_20365_20_28Essential_20Non_20Pocket_20T-Shirt_29_20-_20Seafoam_20Glass_642261-01_OF.webp?v=1768028708",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-24-7-365-essential-non-pocket-t-shirt-seafoam-glass",
+              "sha256": "565654a5f39a3eafa794ce6391afc5de3dacb3a8bf8a0aa1980fd6b7e5ccb592",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436120948809-image-79544387534921",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_24_7_365_Essential_Non_Pocket_T-Shirt_-_Seafoam_Glass_642261-01_OF__3.webp?v=1769551918",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-24-7-365-essential-non-pocket-t-shirt-seafoam-glass",
+              "sha256": "2c5f524c3bcc8eac90854ef7580610b391150d8a30ae3d4370186bf0cbf490db",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15352145936457-image-78416346644553",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_olive_you_man.webp?v=1768015334",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-olive-you-man-comfort-hoodie",
+              "sha256": "3120ef4af09c1387d560dbbbc53914896515540992ce919df3935a5ea8863e35",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15352145936457-image-78497129529417",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Olive_You_Man_Comfort_Hoodie_493253-01_OF__2.webp?v=1768015334",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-olive-you-man-comfort-hoodie",
+              "sha256": "a853958697d2a1931710d7ec083c3c4a2ff2beaad11ae15879d1591274c0b361",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436685770825-image-79372029362249",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/AllAboutAlmonds32_782233-06_SD_1.webp?v=1766502238",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-all-about-almonds-32-everywear-performance-pant",
+              "sha256": "3111c24f9621807c0cfa6065e699938ebab382419ea5f02d1a2a984ba5ade3ad",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436685770825-image-79372040536137",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/AllAboutAlmonds32_782233-06_SD_2.webp?v=1766502238",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-all-about-almonds-32-everywear-performance-pant",
+              "sha256": "e4346dc5ce725cb100546381621ae7277e68a8501a2dcec507827672161357e1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436111544393-image-83154867781705",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/RedVelvets5.5_350261-05_SD_1.jpg?v=1787339660",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-red-velvets-5-5-quot-ultimate-training-short-with-hidden-liner",
+              "sha256": "a9443c5a7492ec5375e2919a6334773082cf09558c5cf09f09b6e247e0a54e6f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15436111544393-image-83154867847241",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/RedVelvets5.5_350261-05_SD_4.jpg?v=1787339660",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-red-velvets-5-5-quot-ultimate-training-short-with-hidden-liner",
+              "sha256": "a7f98630365d3da76e137eeb28aadb70070aee590c98ee4d8e3ec67048b19cda",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15352137973833-image-78593006960713",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_marsh_mellow_1.webp?v=1769530127",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-marsh-mellow-versaquilt-packable-jacket",
+              "sha256": "6d2a9a36a43e09708532a5f6103b1c7e712ff3f209e5742831dfe7f56ee63d71",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-15352137973833-image-78496485834825",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Marsh_20Mellow_20_28Quilted_20Everyday_20Jacket_29_637253-01_OF.webp?v=1769530127",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-marsh-mellow-versaquilt-packable-jacket",
+              "sha256": "2720cfaa32d919e4afe959295d7e98e721867b8bf7682df510c4d90ef3e61bab",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-7329375354953-image-33782995484745",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Graytness_Knit_Flannel_Hoodie__346251-00_OF__4.webp?v=1762272671",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-graytness-knit-flannel-hoodie",
+              "sha256": "7ff921490c2f27af8d972671cb31e221c46475e36dc1e4a4703b2186cfc4a097",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "chubbies-7329375354953-image-33782776365129",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Graytness_Knit_Flannel_Hoodie__346251-00_OF__2.webp?v=1737021027",
+              "sourceUrl": "https://chubbiesshorts.com/products/the-graytness-knit-flannel-hoodie",
+              "sha256": "80bf5651aa7edfdb116eeb6f681ba6c833ad86c9b5268e15a1ade4b47083ab9c",
               "outcome": "downloaded-unique"
             }
           ],

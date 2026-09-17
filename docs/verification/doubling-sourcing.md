@@ -1,6 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 6,954 photos; 3,258 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,007 photos; 3,205 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: new publisher and saved archive
+
+Batches `2026-09-17T1920-training`, `2026-09-17T1930-targeted` and `2026-09-17T1940-chubbies` directly inspect 108 candidates on seven bound sheets with eight original-image enlargements. Sixty candidates target masculine casual/tailored sources, alongside 48 saved archive images. They admit 53 photos: six masculine, 23 feminine, one mixed and 23 unclear. Forty-two additions have build observations; none adds a complete reference. Current totals: 7,007 photos, 6,766 body records, 5,491 build observations, 288 complete references and 54 broader-build benchmark matches. All 45 sampled body-filter counts are unchanged; 12 settings remain empty.
+
+Chubbies adds a new publisher and two fuller-build masculine casual references, but loose shirts hide required contours. For the Fit and American Tall mostly supply cropped/repetitive views. Three successful first-page listings record 577 product decisions; Dapper Boi's listing returns HTTP 404 and remains a recorded failure. All seven previous For the Fit/American Tall admissions were compared; an additional repeated brown-shirt outfit was excluded. Two uncertain photographic-origin cafe images are rejected conservatively. Source history now covers 11,498 sampled pages, 40,378 deferred pages, 44 source keys and 48 recorded runs.
+
+All 6,954 preceding presentation rows and 6,569 preceding expansion photo/asset/body records are preserved exactly. The original 4,800-image training collection reconstructs from reviewed partitions 720 + 120 + 48 + 48 and 3,864 pending records beginning at original ordinal 936. Pending images remain excluded. Continue from that exact offset; append batch names after `2026-09-17T1940-chubbies`. Prioritize alternate full-front fuller-build galleries and new publishers; growing total photos does not by itself improve body-filter coverage.
+
+Admission replay, image/sheet/source bindings, original-photo identity, presentation completeness and typechecking pass. All 7,007 assets validate with no duplicate image hashes. All 86 browser checks pass in 3.6 minutes. The full unit run passes 130 checks, including exhaustive sequencing (312.73 seconds); its only failure is the old body-record count. After updating the two exact body-count assertions, all three body-reference tests pass on a focused rerun (27,943 assertions). All 131 unit checks therefore pass across the full run and focused rerun. No matching behavior or test assertions were weakened. This remains an undeployed checkpoint; earlier sections preserve previous checkpoint results.
 
 ## Latest continuation: fitted shirts and saved archive
 
