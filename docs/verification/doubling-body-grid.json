@@ -1,7 +1,7 @@
 {
   "baselineCommit": "872e892",
   "baselinePhotos": 5106,
-  "currentPhotos": 7068,
+  "currentPhotos": 7125,
   "mode": "nearby",
   "buildTolerance": 0.5,
   "shoulderWaistTolerance": 0.75,
@@ -124,7 +124,7 @@
       "shoulderHip": 1,
       "waist": 1,
       "before": 17,
-      "after": 26
+      "after": 27
     },
     {
       "build": 1.5,
@@ -187,7 +187,7 @@
       "shoulderHip": 1,
       "waist": 1,
       "before": 23,
-      "after": 32
+      "after": 33
     },
     {
       "build": 2,
@@ -250,7 +250,7 @@
       "shoulderHip": 1,
       "waist": 1,
       "before": 17,
-      "after": 26
+      "after": 27
     },
     {
       "build": 2.5,

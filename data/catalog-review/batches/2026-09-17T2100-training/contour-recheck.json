@@ -1,0 +1,26 @@
+[
+  {
+    "ordinal": 3,
+    "id": "fashionpedia-expansion-10752",
+    "sha256": "e65699d19edf8694703a0a4d7c039d8f7258454f2437abb88f1a5db5d67d6863",
+    "localPath": "images/fashionpedia-expansion-10752.webp",
+    "evidence": "White fitted mini dress with pink strappy heels; sideways lean and hands on rail distort comparison.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 27,
+    "id": "fashionpedia-expansion-13457",
+    "sha256": "59a3e04b8ff2c1d356dd2543ae36a1cd157d01b482626c1a5ab92ad053d2da67",
+    "localPath": "images/fashionpedia-expansion-13457.webp",
+    "evidence": "Black tee, jeans, brown boots and black hat; slight side turn and tucked-back arms limit axis comparison.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 37,
+    "id": "fashionpedia-expansion-12145",
+    "sha256": "f1828dfcc93d9e5e71673f4ebb20d76c621dbc2fccae76fba259f6a65e33ad3a",
+    "localPath": "images/fashionpedia-expansion-12145.webp",
+    "evidence": "Black cropped top and open long layer with pink printed wide trousers; trousers and outer layer hide contours.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  }
+]

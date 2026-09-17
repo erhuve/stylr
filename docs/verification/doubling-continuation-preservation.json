@@ -1,48 +1,48 @@
 {
-  "baselineCommit": "a00fcb1",
+  "baselineCommit": "a9ae27f",
   "preservedPrefixes": {
-    "scripts/reviewed-photos.json": 6622,
-    "scripts/reviewed-assets.json": 6622,
-    "data/catalog-review/admitted-body.json": 6622
+    "scripts/reviewed-photos.json": 6683,
+    "scripts/reviewed-assets.json": 6683,
+    "data/catalog-review/admitted-body.json": 6683
   },
-  "preservedPresentationRows": 7007,
+  "preservedPresentationRows": 7068,
   "trainingPartition": [
     720,
     120,
     48,
     48,
     48,
-    3816
+    48,
+    3768
   ],
   "pendingExcluded": true,
   "batches": [
     {
-      "batch": "2026-09-17T2000-training",
+      "batch": "2026-09-17T2100-training",
       "reviewed": 48,
-      "admitted": 46,
-      "build": 44,
-      "complete": 1,
+      "admitted": 43,
+      "build": 36,
+      "complete": 0,
       "presentationEvidence": {
-        "C": 1,
-        "D": 21,
-        "F": 11,
-        "X": 2,
-        "U": 11
+        "D": 27,
+        "U": 10,
+        "F": 4,
+        "X": 2
       }
     },
     {
-      "batch": "2026-09-17T2010-menswear",
-      "reviewed": 48,
-      "admitted": 15,
-      "build": 15,
-      "complete": 0,
+      "batch": "2026-09-17T2110-targeted",
+      "reviewed": 57,
+      "admitted": 14,
+      "build": 13,
+      "complete": 1,
       "presentationEvidence": {
-        "U": 5,
-        "M": 7,
-        "C": 3
+        "M": 4,
+        "C": 1,
+        "U": 9
       }
     }
   ],
-  "totalPhotos": 7068,
-  "remainingToTarget": 3144
+  "totalPhotos": 7125,
+  "remainingToTarget": 3087
 }

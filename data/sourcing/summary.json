@@ -37,6 +37,15 @@
       "deferredPages": 148
     },
     {
+      "source": "barbellapparel",
+      "sampledPages": 12,
+      "candidateImages": 33,
+      "reviewedExpansionCandidates": 33,
+      "admittedExpansionPhotos": 9,
+      "completeExpansionReferences": 0,
+      "deferredPages": 82
+    },
+    {
       "source": "bigbudpress",
       "sampledPages": 177,
       "candidateImages": 317,
@@ -94,8 +103,8 @@
       "source": "fashionpedia",
       "sampledPages": 7263,
       "candidateImages": 7263,
-      "reviewedExpansionCandidates": 3447,
-      "admittedExpansionPhotos": 3135,
+      "reviewedExpansionCandidates": 3495,
+      "admittedExpansionPhotos": 3178,
       "completeExpansionReferences": 35,
       "deferredPages": 37631
     },
@@ -359,6 +368,15 @@
       "admittedExpansionPhotos": 12,
       "completeExpansionReferences": 6,
       "deferredPages": 198
+    },
+    {
+      "source": "twillory",
+      "sampledPages": 12,
+      "candidateImages": 24,
+      "reviewedExpansionCandidates": 24,
+      "admittedExpansionPhotos": 5,
+      "completeExpansionReferences": 1,
+      "deferredPages": 149
     },
     {
       "source": "under510",
@@ -37357,6 +37375,394 @@
             }
           ],
           "downloadedUnique": 24
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T2100-training/sources.json",
+      "retrievedAt": "2026-09-17T04:28:55.456203+00:00",
+      "scope": "Direct review of original training collection ordinals 984\u20131031 from the saved pending intake; no new network retrieval.",
+      "sources": [
+        {
+          "source": "fashionpedia",
+          "pages": [
+            {
+              "url": "https://s3.amazonaws.com/ifashionist-dataset/annotations/attributes_train2020.json",
+              "products": 45623,
+              "snapshotSha256": "5e5271adaca8e990824189cbef508e4383c83a9a4a3c34c03ba5149b2ad94267"
+            }
+          ],
+          "archiveUrl": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+          "archiveSha256": "d896792104a4c35efa7859a18cf605fddae779f5c2372e87e08d7b45949244e2",
+          "errors": []
+        }
+      ],
+      "resumedFrom": "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json",
+      "originalCollectionOffset": 984
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T2110-targeted/sources.json",
+      "retrievedAt": "2026-09-17T20:26:55.133621+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels. Supplemented with up to two lifestyle filename hints per sampled Barbell Apparel product; all gallery decisions retained in gallery-searches.json. Filename hints never supply labels.",
+      "sources": [
+        {
+          "source": "twillory",
+          "pages": [
+            {
+              "url": "https://twillory.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-17T20:26:42.949838+00:00",
+              "snapshotSha256": "649d2a4adc85efa8f39303e13a53611a7812ee7d47080f3f33ff85a985f4fac4"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "twillory-7593307144379-image-40473945112763",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Non-Iron-Blue-Windowpane-Twill-1.png?v=1760367707",
+              "sourceUrl": "https://twillory.com/products/noniron-blue-windowpane-twill",
+              "sha256": "0bc2fe0df6d052d2a50fa82177d2d3310b8705ba28edc975e5a472c58646dc95",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-7593307144379-image-40473945243835",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Non-Iron-Blue-Windowpane-Twill-4.png?v=1760367729",
+              "sourceUrl": "https://twillory.com/products/noniron-blue-windowpane-twill",
+              "sha256": "6a08a21e2cf3fda238c367a6efe2c11a1605ce218c1da984c13c860a8694f141",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-7566744191163-image-40473993543867",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Non-Iron-Sky-Windowpane-2.png?v=1760368773",
+              "sourceUrl": "https://twillory.com/products/noniron-sky-windowpane",
+              "sha256": "ef0750ab559e32ff7dfc4ba01d2b75c8beb648403e08abaaa283be194e2b4014",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-7566744191163-image-40473993642171",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Non-Iron-Sky-Windowpane-4.png?v=1760368773",
+              "sourceUrl": "https://twillory.com/products/noniron-sky-windowpane",
+              "sha256": "f478a011eaf9b84175fed9b163f4f3e4f70aeca7a61aea0d84df821410f3e703",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8233937076411-image-43400912502971",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/White-Grey-Buttons-Leader-Back-26.2.webp?v=1789566485",
+              "sourceUrl": "https://twillory.com/products/leader-contrast-grey",
+              "sha256": "065f79e25720c5b22c640d1f66771d4f0c8ea8f9ea233879c5cfee91ac665717",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8233937076411-image-43400912535739",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/White-Grey-Buttons-Leader-Back-26.1.webp?v=1789566485",
+              "sourceUrl": "https://twillory.com/products/leader-contrast-grey",
+              "sha256": "1c91e08c67a2ecb1ad27151ba7be9b2d8159b5f1f9045765828b6549b5c28be2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8183438803131-image-43376529047739",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Polo_3_Button_Air-PowderBlue-Front-26.1.webp?v=1789392665",
+              "sourceUrl": "https://twillory.com/products/air-3-button-polo-ss-solid-powder-blue",
+              "sha256": "375ca96927d3e5d339e3a4376ac25536b7ad96955dff7a5d91ec1541b00c7954",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8183438803131-image-43376529014971",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Polo_3_Button_Air-PowderBlue-Back-26.1.webp?v=1789392665",
+              "sourceUrl": "https://twillory.com/products/air-3-button-polo-ss-solid-powder-blue",
+              "sha256": "429710e1470e71268be994037ba4fe3e92b602526131da566013e224a90bb4b6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8183438901435-image-43376531603643",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Polo_3_Button_Air-Lilac-Front-26.1.webp?v=1789392782",
+              "sourceUrl": "https://twillory.com/products/air-3-button-polo-ss-solid-lilac",
+              "sha256": "5eef8f520d7bed5edb9cfe7f8ae5153013edf21bef79e4540df1c723cd3929d5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8183438901435-image-43376531538107",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Polo_3_Button_Air-Lilac-Side-26.1.webp?v=1789392781",
+              "sourceUrl": "https://twillory.com/products/air-3-button-polo-ss-solid-lilac",
+              "sha256": "09c024becd9e5a01b63f59ddf8d8e5de2b760b5529d8c3a1fac9fd3ac271134f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-7607024517307-image-41636265820347",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/PerformancePants-HeatherLightGrey-Front.png?v=1770845324",
+              "sourceUrl": "https://twillory.com/products/performance-pants-melange",
+              "sha256": "e15b9db7ec6e2b99a5c541098e37071c84241df722551041cf70553b4a2d527c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-7607024517307-image-41636265885883",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/PerformancePants-HeatherLightGrey-Side.png?v=1770845324",
+              "sourceUrl": "https://twillory.com/products/performance-pants-melange",
+              "sha256": "7db5685d2fdedb9b66f2a06359550ba5cef06f56a233c38ba99a9d4347c15f87",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-4482366373959-image-41459712295099",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Performance-Pants-Charcoal-Front.png?v=1768418760",
+              "sourceUrl": "https://twillory.com/products/performance-pants-charcoal",
+              "sha256": "b5e944052897ba8ed0de48c2f99b5bc946ab55ea509ef332dc86ae368a034891",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-4482366373959-image-40696608489659",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Charcoal-Perf-Pants-Pocket-25.1.png?v=1768418760",
+              "sourceUrl": "https://twillory.com/products/performance-pants-charcoal",
+              "sha256": "4ad459a19e54d7e2c449440c58b1cb61357c606cb504dea84e94cf15b1b2dd6f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8047018934459-image-40615293255867",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/thick-white-new-crop.png?v=1761334616",
+              "sourceUrl": "https://twillory.com/products/performance-executive-whiteblue-stripe",
+              "sha256": "43cae7fe6844c8d9523fc9b687b0449d66e31625b8e3d77d91cc9ab766f34587",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8047018934459-image-37958827770043",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/MPF165_C.png?v=1761334616",
+              "sourceUrl": "https://twillory.com/products/performance-executive-whiteblue-stripe",
+              "sha256": "d05b00cbc688ddc875ae9a9fb6c1e44c0342a80782851c99400d1d21246d5332",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8038820479163-image-37435899773115",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/PCP005_F2_ce5675ae-921d-4028-8ebe-47a028ca74ef.jpg?v=1762284702",
+              "sourceUrl": "https://twillory.com/products/performance-pants-stone-store",
+              "sha256": "bd147f454ac628d5587d86dd0ec28996095b830659f8fc0ad5743095d6cb00e4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8038820479163-image-37435899805883",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/PCP005_BP_f7eadca2-60a0-407a-bcf0-f37d0587bf03.jpg?v=1741887917",
+              "sourceUrl": "https://twillory.com/products/performance-pants-stone-store",
+              "sha256": "bb46fe5a6d94b98e6023b2e1f64f7202236a8f1487b34bb9f0eaa47d361dfdde",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-7920243605691-image-39929823658171",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/blue_BZR042_M_2025.png?v=1757610143",
+              "sourceUrl": "https://twillory.com/products/air-blazer-solid-blue",
+              "sha256": "3d7524530354361718eec8211c72f30cd31ae17795eb2e2a8c6b3470aa0c3d24",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-7920243605691-image-39929823461563",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/blue_BZR042_FB_2025.png?v=1757610143",
+              "sourceUrl": "https://twillory.com/products/air-blazer-solid-blue",
+              "sha256": "706b64be8450a248c3dcd967574d9e8f2c10893192654f1f9e5ba98513c02919",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-7920243474619-image-40562104828091",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/khaki_BZR044_M2_2025.png?v=1760988738",
+              "sourceUrl": "https://twillory.com/products/air-blazer-solid-khaki",
+              "sha256": "07e2add98008ee138474aa5b0d7111b592c7eda883be78f0cb79fb52068ace87",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-7920243474619-image-39929823953083",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/khaki_BZR044_FB_2025.png?v=1760988738",
+              "sourceUrl": "https://twillory.com/products/air-blazer-solid-khaki",
+              "sha256": "3b0671f8add244662636c932bcd8644c9ce08cc26f9461acab84645d75a80852",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8505983369403-image-43096158339259",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Leader-Blue-Navy-Buttons-Contrast-Front-26.1_d7b8633b-f98b-4c44-af0d-2f9fd2a613f4.webp?v=1786632820",
+              "sourceUrl": "https://twillory.com/products/leader-non-iron-contrast-navy-buttons",
+              "sha256": "aca1ef99cf5bdaea07032c35f24daa0eff9e652d476603ea264510c4e8d5c9d3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8505983369403-image-43096158306491",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Leader-Blue-Navy-Buttons-Contrast-Side-26.1.webp?v=1786632820",
+              "sourceUrl": "https://twillory.com/products/leader-non-iron-contrast-navy-buttons",
+              "sha256": "be1287ee242c3a2f75cdbe32993c7c8913550ef27a5d029da622f65790309407",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 24
+        },
+        {
+          "source": "barbellapparel",
+          "pages": [
+            {
+              "url": "https://barbellapparel.com/products.json?limit=250&page=1",
+              "products": 119,
+              "retrievedAt": "2026-09-17T20:26:52.091455+00:00",
+              "snapshotSha256": "376bd821a2817e3050f8a961c87d52c23642c690613e78341fd0d022cf1920e5"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "barbellapparel-15245760921966-image-63061927068014",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/adapt-jogger-front-flat-lay-pine-7-inch.jpg?v=1769797763",
+              "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-eos",
+              "sha256": "5bc27adc900ca4cf2f364c1510464e321daf83db6c7562d50178cc9d87f93401",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15245760921966-image-59794619072878",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/adapt-jogger-front-flat-lay-cinder.jpg?v=1773260338",
+              "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-eos",
+              "sha256": "093397689b61e70ae1cf0104998397daf82d23b8774c7f8f5acb5b229d8ce7a3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15219790610798-image-60460226216302",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/recon-jogger-3-front-from-flat-lay-cedar-2.jpg?v=1747685753",
+              "sourceUrl": "https://barbellapparel.com/products/recon-jogger-eos",
+              "sha256": "02b9795d697893e75ac0dec2b86c484d3e2033cf36e626c439e0555b896b41ad",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15219790610798-image-30617039306824",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/recon-jogger-3-front-from-flat-lay-black.jpg?v=1773260380",
+              "sourceUrl": "https://barbellapparel.com/products/recon-jogger-eos",
+              "sha256": "e95c2c80191b5360db78b235e3b4a2e78331a31af80376807f56623c0ea63800",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15219790020974-image-60460324585838",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/ultralight-jogger-2-front-from-flat-lay-pacific-blue.jpg?v=1747686730",
+              "sourceUrl": "https://barbellapparel.com/products/ultralight-jogger-eos",
+              "sha256": "bb63426f24166f2220423e892298f459a0714b0d640be6b4817a68dc46b83f90",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15219790020974-image-52964743479662",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/ultralight-jogger-front-flat-lay-slate-2.jpg?v=1773260287",
+              "sourceUrl": "https://barbellapparel.com/products/ultralight-jogger-eos",
+              "sha256": "a9735c98f1904d0d2d0cf9af8608ff1c08bb761350d200841ab923761262ce4c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15036981772654-image-64958893588846",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/martins-hercules-heavyweight-tee-black-back_b0326cb8-c6b1-411d-a42c-859a9afd023f.jpg?v=1776712972",
+              "sourceUrl": "https://barbellapparel.com/products/martins-hercules-tee",
+              "sha256": "3409d56bec6df3f6a5fc415e8f225ba61673201f4c47eebc5fab70d6f2273673",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15036981772654-image-64958893621614",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/martins-hercules-heavyweight-tee-black-front_b5cf2a26-9921-4642-b7e0-d8b5bbd3b588.jpg?v=1776712971",
+              "sourceUrl": "https://barbellapparel.com/products/martins-hercules-tee",
+              "sha256": "c994827e2d9fb1c368af9df73bf3f6f62411deae808e6b9f3269b7809e070cf6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15037010018670-image-64959524995438",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/martins-believe-heavyweight-tee-tan-front_23d0544c-5384-4c2c-a723-61e724ecc587.jpg?v=1776717933",
+              "sourceUrl": "https://barbellapparel.com/products/martins-believe-tee",
+              "sha256": "ebce48be533da49cf1e5cc6a955fe7b14e1830e5390ac19efa4ee3b94fe3ab30",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15037010018670-image-64959525060974",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/martins-believe-heavyweight-tee-black-front_f0d7b6b1-bdd4-49bb-b6e7-565c0f62b472.jpg?v=1776717933",
+              "sourceUrl": "https://barbellapparel.com/products/martins-believe-tee",
+              "sha256": "c3d0b2e708f07954bafc01eb58974796ddd948901c7abe552c9947d4f64ae8a5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15036981739886-image-64958887461230",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/strength-unknown-stonelifting-heavyweight-tee-forest-front.jpg?v=1776712950",
+              "sourceUrl": "https://barbellapparel.com/products/strength-unknown-stone-lifting-tee",
+              "sha256": "7168d48b868ecae54f493149082d91e1a9267194bb783d162e7616c245825d99",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15036981739886-image-64958887493998",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/strength-unknown-stonelifting-heavyweight-tee-forest-back_9ee96db9-59bf-4c3b-8971-6dace3965028.jpg?v=1776712950",
+              "sourceUrl": "https://barbellapparel.com/products/strength-unknown-stone-lifting-tee",
+              "sha256": "6c265a9245915628bccb51f94f0592f177cf5348c236915e7f526f1fb687b774",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-6619608678472-image-66354209948014",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/stealth-hoodie-from-front-flat-lay-black_4c1c0389-8245-499a-9c85-1a4ac2f8731f.jpg?v=1786737343",
+              "sourceUrl": "https://barbellapparel.com/products/stealth-hoodie",
+              "sha256": "772b1e7fcb0b1644acaaa477ad26d19c207aefc3da79d991705aa9b70edde419",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-6619608678472-image-66354324242798",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/stealth-hoodie-from-front-flat-lay-abyss_d90d1d2a-9ff8-4002-9d12-7c11266e513c.jpg?v=1786737533",
+              "sourceUrl": "https://barbellapparel.com/products/stealth-hoodie",
+              "sha256": "02fba18f8675ef2ce0c646c42db972d2617715f7ddce45c90decbb1671ac01d7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15036982919534-image-66404460069230",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/foundation-hoodie-from-front-flat-lay-clay.jpg?v=1787002707",
+              "sourceUrl": "https://barbellapparel.com/products/foundation-hoodie",
+              "sha256": "ef04663dcb2047a6e30109608ee8b2f1a7ceb156b1b446318bb14cfd8404726a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15036982919534-image-66404460724590",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/foundation-hoodie-from-front-flat-lay-fatigue.jpg?v=1787002733",
+              "sourceUrl": "https://barbellapparel.com/products/foundation-hoodie",
+              "sha256": "9a27b8588f20bea66343a16121b28143378ffb376c85613150be0c4951f73596",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15037007069550-image-66403706372462",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/foundation-crewneck-front-flat-lay-drift.jpg?v=1786997590",
+              "sourceUrl": "https://barbellapparel.com/products/foundation-crewneck",
+              "sha256": "e8279ef78cfd36ff2f98904dd63e15fa3752e360f1d72f0dea3e7ce2caa59187",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15037007069550-image-66403706437998",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/foundation-crewneck-collar-detail-drift.jpg?v=1786997590",
+              "sourceUrl": "https://barbellapparel.com/products/foundation-crewneck",
+              "sha256": "552664077c722508d826d7c1b1864636d83c8f78e744a57799e861c6aae66829",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15178013573486-image-66324091175278",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/bromley-abc-tee-front-flat-lay-black.jpg?v=1786642133",
+              "sourceUrl": "https://barbellapparel.com/products/bromley-american-barbell-club-tee",
+              "sha256": "fa92cb4083fa99f0df214d56d633045065e297ac55b889f5045d5410d83f9456",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15122210259310-image-66133033910638",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/Adapt-jogger-carry-front-flat-lay-black.jpg?v=1785780657",
+              "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-carry-edition",
+              "sha256": "1d658222f639c08cacfdf612da9f1bed9e822d295ada05119c0bb63cbcd7ddce",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15122210259310-image-66132951990638",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/Adapt-jogger-carry-front-flat-lay-charcoal.jpg?v=1785780342",
+              "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-carry-edition",
+              "sha256": "e4f0bc5f9c403c5abd538d1cea197cebc3843f5288b22de124897aea688ec269",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15112489959790-image-65843633881454",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/Father_moses_Orthodox_American_Flag_Back_from_flat_lay_1.jpg?v=1784577379",
+              "sourceUrl": "https://barbellapparel.com/products/father-moses-orthodox-tee",
+              "sha256": "84d87f347641b9baf777ed3f6a7ddf29e9e5563152d0a29406bc3e1a3b9848bc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "barbellapparel-15112489959790-image-65843633848686",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0437/8521/files/Father_moses_Orthodox_American_Flag_Back_from_flat_lay_White_1.jpg?v=1784577391",
+              "sourceUrl": "https://barbellapparel.com/products/father-moses-orthodox-tee",
+              "sha256": "f72f1d111c806663d6e321a39321cc2a4d12d44d41b4269ea990d171a6c7aabb",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 23
         }
       ]
     }

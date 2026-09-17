@@ -1,0 +1,58 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	reject	?	?	?	U	Folded blue checked shirt without wearer; product-only image.
+1	detail	?	?	?	U	Blue checked shirt button and fabric close-up; no outfit or body.
+2	reject	?	?	?	U	Folded pale grid-check shirt without wearer; product-only image.
+3	detail	?	?	?	U	Pale blue collar and checked fabric close-up; no outfit.
+4	partial	2	?	?	M	White tucked shirt with gray tailored trousers and jacket over shoulder; raised arm and leaning stance obscure axes.
+5	back	?	?	?	U	Rear view of white shirt and gray trousers; front body contours unavailable.
+6	partial	2	1	1	C	Pale blue fitted polo and black trousers; enlarged front view supports wider shoulders and moderate inward waist taper.
+7	back	?	?	?	U	Rear view of pale blue polo and dark trousers; excluded back view.
+8	reject	?	?	?	U	Lilac polo and dark jeans repeat the fitted polo ensemble in ordinal 6; colorway excluded.
+9	reject	?	?	?	U	Side pose of the repeated lilac polo ensemble; no additional outfit coverage.
+10	detail	?	?	?	U	Gray trousers and loafers cropped below chest; trouser product view lacks full torso.
+11	detail	?	?	?	U	Gray trouser waistband close-up; no complete outfit or body.
+12	detail	?	?	?	U	Dark trousers and brown shoes cropped below chest; insufficient torso context.
+13	detail	?	?	?	U	Black trouser pocket close-up; no complete outfit or body.
+14	reject	?	?	?	U	Folded striped white shirt without wearer; product-only view.
+15	detail	?	?	?	U	Striped collar and neck label close-up; no outfit or body.
+16	detail	?	?	?	U	Gray trousers and dark loafers cropped below chest; no shoulders or full outfit.
+17	detail	?	?	?	U	Gray trouser back-pocket close-up; no body reference.
+18	reject	?	?	?	U	Blue suit crop repeats the clearer full outfit retained at ordinal 19.
+19	full	2	?	?	M	Blue suit, pale shirt and brown dress shoes; structured jacket conceals natural torso contours.
+20	reject	?	?	?	U	Tan suit crop repeats the full outfit retained at ordinal 21.
+21	full	2	?	?	M	Tan suit, white shirt and brown shoes; jacket construction conceals natural waist and shoulder comparison.
+22	partial	1.5	?	?	M	Pale blue tucked dress shirt and navy trousers; hands in pockets and rotated shoulders prevent confident axis labels.
+23	reject	?	?	?	U	Side pose repeats pale blue shirt ensemble from ordinal 22; excluded redundant view.
+24	reject	?	?	?	U	Green joggers laid flat; no wearer.
+25	reject	?	?	?	U	Stone joggers laid flat; no wearer.
+26	reject	?	?	?	U	Brown joggers laid flat; no wearer.
+27	reject	?	?	?	U	Black joggers laid flat; no wearer.
+28	reject	?	?	?	U	Light blue joggers laid flat; no wearer.
+29	reject	?	?	?	U	Gray joggers laid flat; no wearer.
+30	reject	?	?	?	U	Back of graphic black tee laid flat; no wearer.
+31	reject	?	?	?	U	Front of graphic black tee laid flat; no wearer.
+32	reject	?	?	?	U	Tan slogan tee laid flat; no wearer.
+33	reject	?	?	?	U	Black slogan tee laid flat; no wearer.
+34	reject	?	?	?	U	Green graphic tee laid flat; no wearer.
+35	reject	?	?	?	U	Back of green graphic tee laid flat; no wearer.
+36	reject	?	?	?	U	Black hoodie product-only view; no wearer.
+37	reject	?	?	?	U	Navy hoodie product-only view; no wearer.
+38	reject	?	?	?	U	Red hoodie product-only view; no wearer.
+39	reject	?	?	?	U	Olive hoodie product-only view; no wearer.
+40	reject	?	?	?	U	Cream crewneck laid flat; no wearer.
+41	detail	?	?	?	U	Cream crewneck collar and logo close-up; no outfit.
+42	reject	?	?	?	U	Black graphic tee laid flat; no wearer.
+43	reject	?	?	?	U	Black cargo joggers laid flat; no wearer.
+44	reject	?	?	?	U	Charcoal cargo joggers laid flat; no wearer.
+45	reject	?	?	?	U	Black flag-print tee laid flat; no wearer.
+46	reject	?	?	?	U	White flag-print tee laid flat; no wearer.
+47	full	2	?	?	U	White tee and charcoal joggers with dark trainers; raised-arm kettlebell movement obscures body axes.
+48	partial	2	?	?	U	Dark tee and olive joggers while running on bridge; shoulder crop and motion prevent axis comparison.
+49	full	2	?	?	U	Gray tee, dark joggers and boots stepping on log; side view and bent leg obscure proportions.
+50	full	2.5	?	?	U	Bare torso and gray joggers while squatting with battle ropes; exercise pose conceals waist and hip comparison.
+51	partial	2.5	?	?	U	Bare torso and olive joggers; three-quarter angle and hands at waistband prevent confident axis labels.
+52	partial	2	?	?	U	Blue-gray athletic hoodie and dark trousers with battle ropes; active bent-arm stance and loose top hide axes.
+53	full	?	?	?	U	Navy athletic hoodie and joggers in deep squat holding weight; compressed pose and loose layers hide build and axes.
+54	seated	2	?	?	U	Cream hoodie and burgundy trousers seated on concrete; draped torso and seated angle conceal axes.
+55	seated	2	?	?	U	Teal hoodie and navy joggers seated with arms raised; posture and loose garment obscure axes.
+56	reject	?	?	?	U	Dark tee and olive joggers repeat running ensemble at ordinal 48; alternate stair-running view excluded.

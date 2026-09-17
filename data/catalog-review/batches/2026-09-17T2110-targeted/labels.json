@@ -1,0 +1,914 @@
+[
+  {
+    "id": "twillory-7593307144379-image-40473945112763",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/noniron-blue-windowpane-twill",
+    "localPath": "images/twillory-7593307144379-image-40473945112763.webp",
+    "sha256": "0bc2fe0df6d052d2a50fa82177d2d3310b8705ba28edc975e5a472c58646dc95",
+    "ordinal": 0,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Folded blue checked shirt without wearer; product-only image.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-7593307144379-image-40473945243835",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/noniron-blue-windowpane-twill",
+    "localPath": "images/twillory-7593307144379-image-40473945243835.webp",
+    "sha256": "6a08a21e2cf3fda238c367a6efe2c11a1605ce218c1da984c13c860a8694f141",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue checked shirt button and fabric close-up; no outfit or body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-7566744191163-image-40473993543867",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/noniron-sky-windowpane",
+    "localPath": "images/twillory-7566744191163-image-40473993543867.webp",
+    "sha256": "ef0750ab559e32ff7dfc4ba01d2b75c8beb648403e08abaaa283be194e2b4014",
+    "ordinal": 2,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Folded pale grid-check shirt without wearer; product-only image.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-7566744191163-image-40473993642171",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/noniron-sky-windowpane",
+    "localPath": "images/twillory-7566744191163-image-40473993642171.webp",
+    "sha256": "f478a011eaf9b84175fed9b163f4f3e4f70aeca7a61aea0d84df821410f3e703",
+    "ordinal": 3,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale blue collar and checked fabric close-up; no outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8233937076411-image-43400912502971",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-contrast-grey",
+    "localPath": "images/twillory-8233937076411-image-43400912502971.webp",
+    "sha256": "065f79e25720c5b22c640d1f66771d4f0c8ea8f9ea233879c5cfee91ac665717",
+    "ordinal": 4,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tucked shirt with gray tailored trousers and jacket over shoulder; raised arm and leaning stance obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8233937076411-image-43400912535739",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-contrast-grey",
+    "localPath": "images/twillory-8233937076411-image-43400912535739.webp",
+    "sha256": "1c91e08c67a2ecb1ad27151ba7be9b2d8159b5f1f9045765828b6549b5c28be2",
+    "ordinal": 5,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of white shirt and gray trousers; front body contours unavailable.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8183438803131-image-43376529047739",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-3-button-polo-ss-solid-powder-blue",
+    "localPath": "images/twillory-8183438803131-image-43376529047739.webp",
+    "sha256": "375ca96927d3e5d339e3a4376ac25536b7ad96955dff7a5d91ec1541b00c7954",
+    "ordinal": 6,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": 1.0,
+      "waist": 1.0
+    },
+    "evidence": "Pale blue fitted polo and black trousers; enlarged front view supports wider shoulders and moderate inward waist taper.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8183438803131-image-43376529014971",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-3-button-polo-ss-solid-powder-blue",
+    "localPath": "images/twillory-8183438803131-image-43376529014971.webp",
+    "sha256": "429710e1470e71268be994037ba4fe3e92b602526131da566013e224a90bb4b6",
+    "ordinal": 7,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of pale blue polo and dark trousers; excluded back view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8183438901435-image-43376531603643",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-3-button-polo-ss-solid-lilac",
+    "localPath": "images/twillory-8183438901435-image-43376531603643.webp",
+    "sha256": "5eef8f520d7bed5edb9cfe7f8ae5153013edf21bef79e4540df1c723cd3929d5",
+    "ordinal": 8,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lilac polo and dark jeans repeat the fitted polo ensemble in ordinal 6; colorway excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8183438901435-image-43376531538107",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-3-button-polo-ss-solid-lilac",
+    "localPath": "images/twillory-8183438901435-image-43376531538107.webp",
+    "sha256": "09c024becd9e5a01b63f59ddf8d8e5de2b760b5529d8c3a1fac9fd3ac271134f",
+    "ordinal": 9,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side pose of the repeated lilac polo ensemble; no additional outfit coverage.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-7607024517307-image-41636265820347",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/performance-pants-melange",
+    "localPath": "images/twillory-7607024517307-image-41636265820347.webp",
+    "sha256": "e15b9db7ec6e2b99a5c541098e37071c84241df722551041cf70553b4a2d527c",
+    "ordinal": 10,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray trousers and loafers cropped below chest; trouser product view lacks full torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-7607024517307-image-41636265885883",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/performance-pants-melange",
+    "localPath": "images/twillory-7607024517307-image-41636265885883.webp",
+    "sha256": "7db5685d2fdedb9b66f2a06359550ba5cef06f56a233c38ba99a9d4347c15f87",
+    "ordinal": 11,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray trouser waistband close-up; no complete outfit or body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-4482366373959-image-41459712295099",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/performance-pants-charcoal",
+    "localPath": "images/twillory-4482366373959-image-41459712295099.webp",
+    "sha256": "b5e944052897ba8ed0de48c2f99b5bc946ab55ea509ef332dc86ae368a034891",
+    "ordinal": 12,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark trousers and brown shoes cropped below chest; insufficient torso context.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-4482366373959-image-40696608489659",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/performance-pants-charcoal",
+    "localPath": "images/twillory-4482366373959-image-40696608489659.webp",
+    "sha256": "4ad459a19e54d7e2c449440c58b1cb61357c606cb504dea84e94cf15b1b2dd6f",
+    "ordinal": 13,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black trouser pocket close-up; no complete outfit or body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8047018934459-image-40615293255867",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/performance-executive-whiteblue-stripe",
+    "localPath": "images/twillory-8047018934459-image-40615293255867.webp",
+    "sha256": "43cae7fe6844c8d9523fc9b687b0449d66e31625b8e3d77d91cc9ab766f34587",
+    "ordinal": 14,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Folded striped white shirt without wearer; product-only view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8047018934459-image-37958827770043",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/performance-executive-whiteblue-stripe",
+    "localPath": "images/twillory-8047018934459-image-37958827770043.webp",
+    "sha256": "d05b00cbc688ddc875ae9a9fb6c1e44c0342a80782851c99400d1d21246d5332",
+    "ordinal": 15,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped collar and neck label close-up; no outfit or body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8038820479163-image-37435899773115",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/performance-pants-stone-store",
+    "localPath": "images/twillory-8038820479163-image-37435899773115.webp",
+    "sha256": "bd147f454ac628d5587d86dd0ec28996095b830659f8fc0ad5743095d6cb00e4",
+    "ordinal": 16,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray trousers and dark loafers cropped below chest; no shoulders or full outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8038820479163-image-37435899805883",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/performance-pants-stone-store",
+    "localPath": "images/twillory-8038820479163-image-37435899805883.webp",
+    "sha256": "bb46fe5a6d94b98e6023b2e1f64f7202236a8f1487b34bb9f0eaa47d361dfdde",
+    "ordinal": 17,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray trouser back-pocket close-up; no body reference.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-7920243605691-image-39929823658171",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-blazer-solid-blue",
+    "localPath": "images/twillory-7920243605691-image-39929823658171.webp",
+    "sha256": "3d7524530354361718eec8211c72f30cd31ae17795eb2e2a8c6b3470aa0c3d24",
+    "ordinal": 18,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue suit crop repeats the clearer full outfit retained at ordinal 19.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-7920243605691-image-39929823461563",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-blazer-solid-blue",
+    "localPath": "images/twillory-7920243605691-image-39929823461563.webp",
+    "sha256": "706b64be8450a248c3dcd967574d9e8f2c10893192654f1f9e5ba98513c02919",
+    "ordinal": 19,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue suit, pale shirt and brown dress shoes; structured jacket conceals natural torso contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-7920243474619-image-40562104828091",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-blazer-solid-khaki",
+    "localPath": "images/twillory-7920243474619-image-40562104828091.webp",
+    "sha256": "07e2add98008ee138474aa5b0d7111b592c7eda883be78f0cb79fb52068ace87",
+    "ordinal": 20,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tan suit crop repeats the full outfit retained at ordinal 21.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-7920243474619-image-39929823953083",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-blazer-solid-khaki",
+    "localPath": "images/twillory-7920243474619-image-39929823953083.webp",
+    "sha256": "3b0671f8add244662636c932bcd8644c9ce08cc26f9461acab84645d75a80852",
+    "ordinal": 21,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tan suit, white shirt and brown shoes; jacket construction conceals natural waist and shoulder comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8505983369403-image-43096158339259",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-contrast-navy-buttons",
+    "localPath": "images/twillory-8505983369403-image-43096158339259.webp",
+    "sha256": "aca1ef99cf5bdaea07032c35f24daa0eff9e652d476603ea264510c4e8d5c9d3",
+    "ordinal": 22,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale blue tucked dress shirt and navy trousers; hands in pockets and rotated shoulders prevent confident axis labels.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8505983369403-image-43096158306491",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-contrast-navy-buttons",
+    "localPath": "images/twillory-8505983369403-image-43096158306491.webp",
+    "sha256": "be1287ee242c3a2f75cdbe32993c7c8913550ef27a5d029da622f65790309407",
+    "ordinal": 23,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side pose repeats pale blue shirt ensemble from ordinal 22; excluded redundant view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15245760921966-image-63061927068014",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-eos",
+    "localPath": "images/barbellapparel-15245760921966-image-63061927068014.webp",
+    "sha256": "5bc27adc900ca4cf2f364c1510464e321daf83db6c7562d50178cc9d87f93401",
+    "ordinal": 24,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green joggers laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15245760921966-image-59794619072878",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-eos",
+    "localPath": "images/barbellapparel-15245760921966-image-59794619072878.webp",
+    "sha256": "093397689b61e70ae1cf0104998397daf82d23b8774c7f8f5acb5b229d8ce7a3",
+    "ordinal": 25,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Stone joggers laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15219790610798-image-60460226216302",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/recon-jogger-eos",
+    "localPath": "images/barbellapparel-15219790610798-image-60460226216302.webp",
+    "sha256": "02b9795d697893e75ac0dec2b86c484d3e2033cf36e626c439e0555b896b41ad",
+    "ordinal": 26,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown joggers laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15219790610798-image-30617039306824",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/recon-jogger-eos",
+    "localPath": "images/barbellapparel-15219790610798-image-30617039306824.webp",
+    "sha256": "e95c2c80191b5360db78b235e3b4a2e78331a31af80376807f56623c0ea63800",
+    "ordinal": 27,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black joggers laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15219790020974-image-60460324585838",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/ultralight-jogger-eos",
+    "localPath": "images/barbellapparel-15219790020974-image-60460324585838.webp",
+    "sha256": "bb63426f24166f2220423e892298f459a0714b0d640be6b4817a68dc46b83f90",
+    "ordinal": 28,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Light blue joggers laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15219790020974-image-52964743479662",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/ultralight-jogger-eos",
+    "localPath": "images/barbellapparel-15219790020974-image-52964743479662.webp",
+    "sha256": "a9735c98f1904d0d2d0cf9af8608ff1c08bb761350d200841ab923761262ce4c",
+    "ordinal": 29,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray joggers laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15036981772654-image-64958893588846",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/martins-hercules-tee",
+    "localPath": "images/barbellapparel-15036981772654-image-64958893588846.webp",
+    "sha256": "3409d56bec6df3f6a5fc415e8f225ba61673201f4c47eebc5fab70d6f2273673",
+    "ordinal": 30,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Back of graphic black tee laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15036981772654-image-64958893621614",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/martins-hercules-tee",
+    "localPath": "images/barbellapparel-15036981772654-image-64958893621614.webp",
+    "sha256": "c994827e2d9fb1c368af9df73bf3f6f62411deae808e6b9f3269b7809e070cf6",
+    "ordinal": 31,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Front of graphic black tee laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15037010018670-image-64959524995438",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/martins-believe-tee",
+    "localPath": "images/barbellapparel-15037010018670-image-64959524995438.webp",
+    "sha256": "ebce48be533da49cf1e5cc6a955fe7b14e1830e5390ac19efa4ee3b94fe3ab30",
+    "ordinal": 32,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tan slogan tee laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15037010018670-image-64959525060974",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/martins-believe-tee",
+    "localPath": "images/barbellapparel-15037010018670-image-64959525060974.webp",
+    "sha256": "c3d0b2e708f07954bafc01eb58974796ddd948901c7abe552c9947d4f64ae8a5",
+    "ordinal": 33,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black slogan tee laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15036981739886-image-64958887461230",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/strength-unknown-stone-lifting-tee",
+    "localPath": "images/barbellapparel-15036981739886-image-64958887461230.webp",
+    "sha256": "7168d48b868ecae54f493149082d91e1a9267194bb783d162e7616c245825d99",
+    "ordinal": 34,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green graphic tee laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15036981739886-image-64958887493998",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/strength-unknown-stone-lifting-tee",
+    "localPath": "images/barbellapparel-15036981739886-image-64958887493998.webp",
+    "sha256": "6c265a9245915628bccb51f94f0592f177cf5348c236915e7f526f1fb687b774",
+    "ordinal": 35,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Back of green graphic tee laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-6619608678472-image-66354209948014",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/stealth-hoodie",
+    "localPath": "images/barbellapparel-6619608678472-image-66354209948014.webp",
+    "sha256": "772b1e7fcb0b1644acaaa477ad26d19c207aefc3da79d991705aa9b70edde419",
+    "ordinal": 36,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black hoodie product-only view; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-6619608678472-image-66354324242798",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/stealth-hoodie",
+    "localPath": "images/barbellapparel-6619608678472-image-66354324242798.webp",
+    "sha256": "02fba18f8675ef2ce0c646c42db972d2617715f7ddce45c90decbb1671ac01d7",
+    "ordinal": 37,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy hoodie product-only view; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15036982919534-image-66404460069230",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/foundation-hoodie",
+    "localPath": "images/barbellapparel-15036982919534-image-66404460069230.webp",
+    "sha256": "ef04663dcb2047a6e30109608ee8b2f1a7ceb156b1b446318bb14cfd8404726a",
+    "ordinal": 38,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red hoodie product-only view; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15036982919534-image-66404460724590",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/foundation-hoodie",
+    "localPath": "images/barbellapparel-15036982919534-image-66404460724590.webp",
+    "sha256": "9a27b8588f20bea66343a16121b28143378ffb376c85613150be0c4951f73596",
+    "ordinal": 39,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Olive hoodie product-only view; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15037007069550-image-66403706372462",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/foundation-crewneck",
+    "localPath": "images/barbellapparel-15037007069550-image-66403706372462.webp",
+    "sha256": "e8279ef78cfd36ff2f98904dd63e15fa3752e360f1d72f0dea3e7ce2caa59187",
+    "ordinal": 40,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream crewneck laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15037007069550-image-66403706437998",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/foundation-crewneck",
+    "localPath": "images/barbellapparel-15037007069550-image-66403706437998.webp",
+    "sha256": "552664077c722508d826d7c1b1864636d83c8f78e744a57799e861c6aae66829",
+    "ordinal": 41,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream crewneck collar and logo close-up; no outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15178013573486-image-66324091175278",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/bromley-american-barbell-club-tee",
+    "localPath": "images/barbellapparel-15178013573486-image-66324091175278.webp",
+    "sha256": "fa92cb4083fa99f0df214d56d633045065e297ac55b889f5045d5410d83f9456",
+    "ordinal": 42,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black graphic tee laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15122210259310-image-66133033910638",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-carry-edition",
+    "localPath": "images/barbellapparel-15122210259310-image-66133033910638.webp",
+    "sha256": "1d658222f639c08cacfdf612da9f1bed9e822d295ada05119c0bb63cbcd7ddce",
+    "ordinal": 43,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black cargo joggers laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15122210259310-image-66132951990638",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-carry-edition",
+    "localPath": "images/barbellapparel-15122210259310-image-66132951990638.webp",
+    "sha256": "e4f0bc5f9c403c5abd538d1cea197cebc3843f5288b22de124897aea688ec269",
+    "ordinal": 44,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Charcoal cargo joggers laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15112489959790-image-65843633881454",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/father-moses-orthodox-tee",
+    "localPath": "images/barbellapparel-15112489959790-image-65843633881454.webp",
+    "sha256": "84d87f347641b9baf777ed3f6a7ddf29e9e5563152d0a29406bc3e1a3b9848bc",
+    "ordinal": 45,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black flag-print tee laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15112489959790-image-65843633848686",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/father-moses-orthodox-tee",
+    "localPath": "images/barbellapparel-15112489959790-image-65843633848686.webp",
+    "sha256": "f72f1d111c806663d6e321a39321cc2a4d12d44d41b4269ea990d171a6c7aabb",
+    "ordinal": 46,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White flag-print tee laid flat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15245760921966-image-30342316392520",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-eos",
+    "localPath": "images/barbellapparel-15245760921966-image-30342316392520.webp",
+    "sha256": "d9730da2bbcbed3d90083da045515a3f986863c8f9869604dc3c3cba5abc5bb9",
+    "ordinal": 47,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tee and charcoal joggers with dark trainers; raised-arm kettlebell movement obscures body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15245760921966-image-30342307610696",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-eos",
+    "localPath": "images/barbellapparel-15245760921966-image-30342307610696.webp",
+    "sha256": "1e82b1c04bc1a06d0bb286feedcba66f1df2961b7d4b8e6f3d1d61e14cc8cd38",
+    "ordinal": 48,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark tee and olive joggers while running on bridge; shoulder crop and motion prevent axis comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15219790610798-image-30654620303432",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/recon-jogger-eos",
+    "localPath": "images/barbellapparel-15219790610798-image-30654620303432.webp",
+    "sha256": "7e7f97c2afb02d838aefd25e88b27cf822da356b6410d1b00ef9fa739807f932",
+    "ordinal": 49,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray tee, dark joggers and boots stepping on log; side view and bent leg obscure proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15219790610798-image-30654620336200",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/recon-jogger-eos",
+    "localPath": "images/barbellapparel-15219790610798-image-30654620336200.webp",
+    "sha256": "5d87789e298e78547a10ce7411098acacd421436798973ee5c5eb76e91f8687f",
+    "ordinal": 50,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare torso and gray joggers while squatting with battle ropes; exercise pose conceals waist and hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15219790020974-image-60469517746542",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/ultralight-jogger-eos",
+    "localPath": "images/barbellapparel-15219790020974-image-60469517746542.webp",
+    "sha256": "35309dd9f4fefd1c8e8db784b4bfe090738dd1e3ec60fe8d7e86369c3a131a9c",
+    "ordinal": 51,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bare torso and olive joggers; three-quarter angle and hands at waistband prevent confident axis labels.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-6619608678472-image-30363515977800",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/stealth-hoodie",
+    "localPath": "images/barbellapparel-6619608678472-image-30363515977800.webp",
+    "sha256": "ab353748209c60b301f703f91a2bb11a4bf6b10a212bd7f402cfb85e1263bdd3",
+    "ordinal": 52,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue-gray athletic hoodie and dark trousers with battle ropes; active bent-arm stance and loose top hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-6619608678472-image-30363516043336",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/stealth-hoodie",
+    "localPath": "images/barbellapparel-6619608678472-image-30363516043336.webp",
+    "sha256": "197482f36399eb6ec8d926412eab58a1c53db73a5b9e46a2d867e2ba117a6fc5",
+    "ordinal": 53,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy athletic hoodie and joggers in deep squat holding weight; compressed pose and loose layers hide build and axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15036982919534-image-64958970823022",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/foundation-hoodie",
+    "localPath": "images/barbellapparel-15036982919534-image-64958970823022.webp",
+    "sha256": "386955c8250b1bbc25773df0b34b95489d33acecc83584638bf1a0dee96c43a6",
+    "ordinal": 54,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream hoodie and burgundy trousers seated on concrete; draped torso and seated angle conceal axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15036982919534-image-64958970855790",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/foundation-hoodie",
+    "localPath": "images/barbellapparel-15036982919534-image-64958970855790.webp",
+    "sha256": "8d135de55dc9114ff069e345cd1029310c8dbb6bf83d6a7ca1e14ba56689fee7",
+    "ordinal": 55,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Teal hoodie and navy joggers seated with arms raised; posture and loose garment obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "barbellapparel-15122210259310-image-64734941872494",
+    "source": "barbellapparel",
+    "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-carry-edition",
+    "localPath": "images/barbellapparel-15122210259310-image-64734941872494.webp",
+    "sha256": "1125ec35e202414d357a7ea316f9dd6ba197da1fdbbaed13c37c3c0a96b041de",
+    "ordinal": 56,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark tee and olive joggers repeat running ensemble at ordinal 48; alternate stair-running view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

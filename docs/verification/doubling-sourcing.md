@@ -1,8 +1,18 @@
 # Doubling the reviewed library
 
-Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,068 photos; 3,144 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,125 photos; 3,087 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
 
-## Current continuation: two new publishers and saved archive
+## Current continuation: Twillory, Barbell Apparel and saved archive
+
+Batches `2026-09-17T2100-training` and `2026-09-17T2110-targeted` contain 105 direct reviews and admit 57 photos: five masculine-styled, 31 feminine-styled, two mixed and 19 unclear. Six enlarged contour checks support one new complete masculine-styled reference. Totals are 7,125 photos, 5,599 build observations and 290 complete references, including 44 masculine-styled references. The broader-build benchmark remains 54; three sampled body settings gain one match and twelve remain empty.
+
+The two new publishers' first-page listings record 369 product decisions. Supplemental Barbell gallery selections yield athletic outfits where initial gallery images were flat products; exercise poses still conceal body axes. The batch review files retain listing scope, image hashes, exclusions and enlarged-review evidence. This continuation finishes the saved batch; it does not claim additional new reviews beyond those 105.
+
+All 6,683 preceding expansion photo/asset/body rows remain exact prefixes. The original 4,800-image training intake reconstructs from six reviewed partitions and 3,768 pending rows beginning at ordinal 1032. Continue after batch `2026-09-17T2110-targeted`, prioritizing fuller-build front-view references. Pending images remain excluded. Deployment remains separate.
+
+Admission replay, image-bound presentation completeness, typechecking, all seven sheet hashes and archive partition preservation pass. All 7,125 image assets validate with no exact duplicate hashes; all 7,068 preceding presentation rows are preserved. The verification rerun passes all 131 unit tests (173,763 assertions, 383.32 seconds) and all 86 browser tests (3.8 minutes). No test assertions or matching behavior were weakened. This checkpoint is not deployed.
+
+## Previous continuation: two new publishers and saved archive
 
 Batches `2026-09-17T2000-training` and `2026-09-17T2010-menswear` directly inspect 96 candidates on six bound sheets with eight original-image enlargements. Half of the review budget targets two new menswear publishers. They admit 61 photos: 11 masculine, 32 feminine, two mixed and 16 unclear. Fifty-nine additions have build observations; one feminine-styled fitted outfit adds a complete reference. Totals: 7,068 photos, 6,827 body records, 5,550 build observations, 289 complete references and 54 broader-build benchmark matches. Three sampled positions improve by one; 12 of 45 remain empty. Complete masculine references remain at 43.
 

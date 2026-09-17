@@ -1,0 +1,26 @@
+[
+  {
+    "ordinal": 6,
+    "id": "twillory-8183438803131-image-43376529047739",
+    "sha256": "375ca96927d3e5d339e3a4376ac25536b7ad96955dff7a5d91ec1541b00c7954",
+    "localPath": "images/twillory-8183438803131-image-43376529047739.webp",
+    "evidence": "Pale blue fitted polo and black trousers; enlarged front view supports wider shoulders and moderate inward waist taper.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 22,
+    "id": "twillory-8505983369403-image-43096158339259",
+    "sha256": "aca1ef99cf5bdaea07032c35f24daa0eff9e652d476603ea264510c4e8d5c9d3",
+    "localPath": "images/twillory-8505983369403-image-43096158339259.webp",
+    "evidence": "Pale blue tucked dress shirt and navy trousers; hands in pockets and rotated shoulders prevent confident axis labels.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 51,
+    "id": "barbellapparel-15219790020974-image-60469517746542",
+    "sha256": "35309dd9f4fefd1c8e8db784b4bfe090738dd1e3ec60fe8d7e86369c3a131a9c",
+    "localPath": "images/barbellapparel-15219790020974-image-60469517746542.webp",
+    "evidence": "Bare torso and olive joggers; three-quarter angle and hands at waistband prevent confident axis labels.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  }
+]

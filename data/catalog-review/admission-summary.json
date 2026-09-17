@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9580,
-  "admittedPhotos": 6683,
-  "totalPhotos": 7068,
+  "reviewedCandidates": 9685,
+  "admittedPhotos": 6740,
+  "totalPhotos": 7125,
   "axisSupport": {
-    "build": 5426,
-    "shoulderHip": 305,
-    "waist": 597
+    "build": 5475,
+    "shoulderHip": 306,
+    "waist": 598
   },
-  "completeReferences": 247,
-  "sourcePages": 6135,
+  "completeReferences": 248,
+  "sourcePages": 6188,
   "excludedReasons": {
-    "non-outfit-view": 2839,
+    "non-outfit-view": 2887,
     "existing-source-page": 58
   },
   "excluded": [
@@ -11600,6 +11600,198 @@
     },
     {
       "id": "perryellis-7999586369614-image-55372058984526",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-19953",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12309",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16748",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16298",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9514",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-7593307144379-image-40473945112763",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-7593307144379-image-40473945243835",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-7566744191163-image-40473993543867",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-7566744191163-image-40473993642171",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8233937076411-image-43400912535739",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8183438803131-image-43376529014971",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8183438901435-image-43376531603643",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8183438901435-image-43376531538107",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-7607024517307-image-41636265820347",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-7607024517307-image-41636265885883",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-4482366373959-image-41459712295099",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-4482366373959-image-40696608489659",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8047018934459-image-40615293255867",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8047018934459-image-37958827770043",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8038820479163-image-37435899773115",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8038820479163-image-37435899805883",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-7920243605691-image-39929823658171",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-7920243474619-image-40562104828091",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8505983369403-image-43096158306491",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15245760921966-image-63061927068014",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15245760921966-image-59794619072878",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15219790610798-image-60460226216302",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15219790610798-image-30617039306824",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15219790020974-image-60460324585838",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15219790020974-image-52964743479662",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15036981772654-image-64958893588846",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15036981772654-image-64958893621614",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15037010018670-image-64959524995438",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15037010018670-image-64959525060974",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15036981739886-image-64958887461230",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15036981739886-image-64958887493998",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-6619608678472-image-66354209948014",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-6619608678472-image-66354324242798",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15036982919534-image-66404460069230",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15036982919534-image-66404460724590",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15037007069550-image-66403706372462",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15037007069550-image-66403706437998",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15178013573486-image-66324091175278",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15122210259310-image-66133033910638",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15122210259310-image-66132951990638",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15112489959790-image-65843633881454",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15112489959790-image-65843633848686",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "barbellapparel-15122210259310-image-64734941872494",
       "reason": "non-outfit-view"
     }
   ]
