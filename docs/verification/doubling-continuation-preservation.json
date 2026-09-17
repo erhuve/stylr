@@ -1,0 +1,47 @@
+{
+  "baselineCommit": "fb8ea1f",
+  "preservedPrefixes": {
+    "scripts/reviewed-photos.json": 6362,
+    "scripts/reviewed-assets.json": 6362,
+    "data/catalog-review/admitted-body.json": 6362
+  },
+  "preservedPresentationRows": 6747,
+  "trainingPartition": [
+    720,
+    120,
+    3960
+  ],
+  "pendingExcluded": true,
+  "batches": [
+    {
+      "batch": "2026-09-17T1600-training",
+      "reviewed": 120,
+      "admitted": 114,
+      "build": 93,
+      "complete": 0,
+      "presentationEvidence": {
+        "F": 23,
+        "D": 50,
+        "U": 37,
+        "C": 3,
+        "M": 1
+      }
+    },
+    {
+      "batch": "2026-09-17T1610-masculine",
+      "reviewed": 120,
+      "admitted": 38,
+      "build": 38,
+      "complete": 0,
+      "presentationEvidence": {
+        "U": 13,
+        "C": 17,
+        "M": 5,
+        "X": 2,
+        "D": 1
+      }
+    }
+  ],
+  "totalPhotos": 6899,
+  "remainingToTarget": 3313
+}

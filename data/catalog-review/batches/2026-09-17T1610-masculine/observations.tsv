@@ -1,0 +1,121 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	partial	3	?	?	U	Navy patterned tee and tan trousers; loose hem and lower crop.
+1	reject	?	?	?	U	Repeated navy tee outfit from ordinal 0.
+2	partial	3	?	?	U	Patterned grey hoodie and black trousers; loose torso hides contours.
+3	back	?	?	?	U	Rear hoodie view.
+4	partial	3	?	?	C	Brown bomber over black separates; jacket hides waist and hips.
+5	reject	?	?	?	U	Repeated brown bomber outfit from ordinal 4.
+6	partial	3	?	?	U	Grey textured tee and black trousers; oblique pose and loose hem.
+7	reject	?	?	?	U	Repeated grey tee outfit from ordinal 6.
+8	seated	2.5	?	?	U	Brown textured tee and trousers; seated contours.
+9	back	?	?	?	U	Rear brown tee view.
+10	reject	?	?	?	U	Seated repeat; clearer standing green tee view retained at ordinal 85.
+11	detail	?	?	?	U	Neckline and fabric close-up.
+12	reject	?	?	?	U	Minor tee color variation of ordinal 6 ensemble.
+13	reject	?	?	?	U	Repeated burgundy tee ensemble from ordinal 12.
+14	reject	?	?	?	U	Seated repeat; clearer standing long-sleeved top retained at ordinal 89.
+15	back	?	?	?	U	Rear long-sleeved top.
+16	partial	3	?	?	U	Green long-sleeved top and trousers; side pose and loose hem.
+17	back	?	?	?	U	Rear green top.
+18	reject	?	?	?	U	Seated repeat; clearer standing brown tee view retained at ordinal 93.
+19	reject	?	?	?	U	Repeated brown tee and tan trouser ensemble from ordinal 18.
+20	detail	?	?	?	U	Trouser crop with shoulders absent.
+21	detail	?	?	?	U	Trouser crop with shoulders absent.
+22	detail	?	?	?	U	Trouser crop with shoulders absent.
+23	detail	?	?	?	U	Lower torso and trousers; shoulders absent.
+24	seated	3	?	?	C	Quarter-zip collared top and tan trousers; hands and seated pose obscure waist.
+25	reject	?	?	?	U	Repeated quarter-zip ensemble from ordinal 24.
+26	partial	3	?	?	C	Pale collared quarter-zip and brown trousers; oblique stance, loose torso.
+27	detail	?	?	?	U	Collar and zip close-up.
+28	seated	3	?	?	C	Varsity jacket, tan trousers and white trainers; seated contours.
+29	back	?	?	?	U	Rear varsity jacket.
+30	partial	2	?	?	U	Grey tee and dark trousers; oblique pose and loose hem.
+31	reject	?	?	?	U	Repeated grey tee ensemble from ordinal 30.
+32	detail	?	?	?	U	Neck and shoulder close-up.
+33	detail	?	?	?	U	Sleeve and upper arm close-up.
+34	reject	?	?	?	U	Cropped repeat of fuller standing outfit retained at ordinal 107.
+35	reject	?	?	?	U	Repetitive grey tee and black trouser styling already retained.
+36	reject	?	?	?	U	Cropped repeat of fuller outfit at ordinal 37.
+37	full	2.5	?	?	U	Light sweater, olive trousers and boots; hands across waist and loose hem.
+38	reject	?	?	?	U	Two subjects with equal prominence.
+39	detail	?	?	?	U	Waistband and pocket close-up.
+40	reject	?	?	?	U	Seated repeat of coverall outfit at ordinal 41.
+41	full	1.5	?	?	C	Black collared coverall and loafers; turned torso and loose hips.
+42	partial	2	?	?	C	Long striped collared shirt and dark trousers; wrap and drape hide waist.
+43	reject	?	?	?	U	Repeated striped-shirt outfit with shirt opened.
+44	reject	?	?	?	U	Cropped repeat of patterned suit shown fully at ordinal 47.
+45	reject	?	?	?	U	Repeated patterned suit, cropped.
+46	full	1.5	?	?	M	Black collared shirt with patterned trousers; pocket pose and tailored hips.
+47	full	1.5	?	?	M	Patterned suit, matching tie and black shirt; open jacket and bent leg.
+48	detail	?	?	?	U	Shorts crop with shoulders absent.
+49	full	1.5	?	?	X	Tailored long shorts and mock-neck with pointed heeled boots; side pose.
+50	partial	2	?	?	C	Black short-sleeved collared shirt and grey trousers; tilted torso.
+51	partial	2	?	?	M	Black collared shirt, patterned tie and tailored trousers; raised arm.
+52	partial	3	?	?	C	Printed collared shirt, cap and burgundy trousers; hand on hip and loose hem.
+53	detail	?	?	?	U	Shirt fabric and label close-up.
+54	detail	?	?	?	U	Trouser framing cuts off shoulders.
+55	detail	?	?	?	U	Pocket and hand close-up.
+56	partial	2	?	?	C	Multicolored camp shirt and grey trousers; loose shirt and hand at collar.
+57	reject	?	?	?	U	Repeated multicolored shirt outfit from ordinal 56.
+58	full	1.5	?	?	X	Utility coverall with pointed patterned heeled boots; loose waist and hips.
+59	reject	?	?	?	U	Repeated navy coverall outfit from ordinal 58.
+60	partial	1.5	?	?	C	Floral camp shirt and jeans; hand at hip and loose hem.
+61	reject	?	?	?	U	Repeated floral shirt outfit from ordinal 60.
+62	partial	2	?	?	C	Eye-print collared shirt and jeans; loose shirt and angled pose.
+63	reject	?	?	?	U	Repeated eye-print shirt outfit from ordinal 62.
+64	full	1.5	?	?	C	Black long-sleeved coverall and brogues; bent knee and hand at waist.
+65	back	?	?	?	U	Rear coverall view.
+66	full	1.5	?	?	U	Patterned overalls and sleeveless top; loose bib conceals waist.
+67	back	?	?	?	U	Rear patterned overalls.
+68	partial	1.5	?	?	C	Botanical collared shirt over tee and jeans; leaning pose and loose torso.
+69	reject	?	?	?	U	Repeated botanical shirt outfit from ordinal 68.
+70	seated	1.5	?	?	C	Sweatshirt over collared shirt with tailored shorts; seated wide stance.
+71	reject	?	?	?	U	Repeated sweatshirt ensemble from ordinal 70.
+72	detail	?	?	?	U	Cropped repeat of full outfit at ordinal 73; shoulders absent.
+73	full	1.5	?	?	C	Printed collared shirt, tailored trousers and loafers; hands in pockets.
+74	partial	2	?	?	M	White collared dress shirt and black trousers; raised hand and loose hem.
+75	detail	?	?	?	U	Shirt cuffs and tie crop without shoulders.
+76	partial	2	?	?	M	Black dress shirt and patterned tailored trousers; hand over chest.
+77	reject	?	?	?	U	Repeated black shirt ensemble from ordinal 76.
+78	detail	?	?	?	U	Hood and upper-torso crop; raised arms.
+79	detail	?	?	?	U	Quilted zip close-up.
+80	detail	?	?	?	U	Sleeve cuff close-up.
+81	back	?	?	?	U	Rear grey tee view.
+82	detail	?	?	?	U	Shoulder fabric close-up.
+83	reject	?	?	?	U	Repeated brown tee seated ensemble from ordinal 8.
+84	reject	?	?	?	U	Repeated brown tee seated ensemble from ordinal 8.
+85	partial	2	?	?	U	Green tee and black trousers; front view, loose hem conceals hips.
+86	reject	?	?	?	U	Seated repeat of green tee ensemble retained at ordinal 85.
+87	reject	?	?	?	U	Burgundy tee variation of repetitive casual ensemble.
+88	detail	?	?	?	U	Tee sleeve close-up.
+89	partial	2.5	?	?	U	Brown long-sleeved top and black trousers; front view with loose hip coverage.
+90	reject	?	?	?	U	Seated repeat of long-sleeved top retained at ordinal 89.
+91	reject	?	?	?	U	Repeated green long-sleeved ensemble from ordinal 16.
+92	reject	?	?	?	U	Repeated green long-sleeved ensemble from ordinal 16.
+93	partial	3	?	?	U	Brown tee and tan trousers; front view, long loose hem hides hips.
+94	reject	?	?	?	U	Repeated brown tee front view from ordinal 93.
+95	full	2.5	?	?	C	Black collared shirt, olive trousers and boots; loose shirt conceals waist.
+96	reject	?	?	?	U	Repeated full outfit from ordinal 95.
+97	detail	?	?	?	U	Trouser hem and boot close-up.
+98	back	?	?	?	U	Rear quarter-zip top.
+99	detail	?	?	?	U	Back collar close-up.
+100	detail	?	?	?	U	Upper torso close-up; lower body absent.
+101	partial	3	?	?	C	Pale collared quarter-zip and black trousers; hands across torso, loose hem.
+102	reject	?	?	?	U	Repetitive varsity jacket view from ordinal 28; tighter crop.
+103	reject	?	?	?	U	Repetitive varsity jacket view from ordinal 28.
+104	reject	?	?	?	U	Repeated grey tee outfit from ordinal 30; leaning seated pose.
+105	full	3	?	?	U	Grey tee, dark shorts and white trainers; clasped hands and loose hem.
+106	detail	?	?	?	U	Head and upper torso crop.
+107	full	3	?	?	U	Grey tee, black trousers and white shoes; oblique pose and loose hip coverage.
+108	detail	?	?	?	U	Neckline close-up.
+109	detail	?	?	?	U	Sweater shoulder close-up.
+110	detail	?	?	?	U	Sweater pocket close-up.
+111	full	1.5	?	?	D	Grey sweater, black wrap skirt and boots; bulky top and straight skirt hide contours.
+112	reject	?	?	?	U	Repeated wrap skirt outfit from ordinal 111.
+113	detail	?	?	?	U	Coverall waistband close-up.
+114	back	?	?	?	U	Rear black coverall.
+115	detail	?	?	?	U	Striped shirt wrap detail without complete shoulders.
+116	reject	?	?	?	U	Two equally prominent subjects.
+117	detail	?	?	?	U	Suit lapel close-up.
+118	detail	?	?	?	U	Suit pocket close-up.
+119	detail	?	?	?	U	Trouser pocket close-up.

@@ -1,6 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 6,747 photos; 3,465 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 6,899 photos; 3,313 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Latest continuation: archive and targeted galleries
+
+Batches `2026-09-17T1600-training` and `2026-09-17T1610-masculine` directly inspect 240 candidates on 15 bound sheets, with nine original-image enlargements. They add 152 photos, 131 build observations and no complete references. Additions: 26 masculine, 74 feminine, two mixed and 50 unclear outfits. Current totals: 6,899 photos, 6,658 body records, 5,399 build observations and 285 complete references. The 54-match broader-build benchmark and all 45 sampled body-filter counts remain unchanged. This pass adds outfit variety, not new required-three-axis matches.
+
+Half the review budget targeted masculine/fuller-build retail sources. Bounded searches inspected ONE BONE's 191-product listing, Wildfang's 222-product listing and Kirrin Finch's 71-product listing. The initial 78 unique downloads plus 42 alternate-gallery candidates yield 38 admissions. Kirrin Finch produced no new candidates in that listing. FullBody filename hints helped find full outfits, but most alternatives were repetitive or detail crops; labels still came only from direct inspection. Seventeen retail admissions have build 2.5 or 3; most neutral tees remain presentation-unclear.
+
+Training collection ordinals 720–839 yield 114 admissions. The original archive remains unchanged; its reviewed partition is now 720 + 120, with exactly 3,960 pending rows beginning at ordinal 840. `doubling-continuation-preservation.json` records exact prior-prefix preservation, image/sheet bindings and pending exclusion. All 6,747 earlier presentation rows and 6,362 prior expansion photo/asset/body rows remain unchanged. The ledger now records 11,433 sampled pages, 40,325 deferred pages and 43 runs across 43 source keys. No new archive download is claimed.
+
+Current validation: admission replay, all local image bindings, original-photo identity, library audit, typechecking, complete presentation bindings and all 86 browser checks pass. The unit suite passed 130 checks; the archive provenance/restore check took 5.90 seconds and exceeded its five-second default. Its focused rerun passes in 5.72 seconds with every assertion retained; that test now has a 30-second allowance. All 131 unit checks pass across the full run and focused rerun. The exhaustive sequencing check passes in the full run. All 45 sampled selections agree with the application matcher. The sections below preserve earlier checkpoint history and their then-current queues.
 
 ## Training prefix continuation
 

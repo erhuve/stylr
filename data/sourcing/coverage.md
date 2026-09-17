@@ -15,7 +15,7 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | copperunion | 30 | 60 | 60 | 32 | 1 | 82 |
 | dapperboi | 30 | 60 | 60 | 11 | 1 | 16 |
 | disturbia | 24 | 48 | 48 | 37 | 3 | 0 |
-| fashionpedia | 7263 | 7263 | 3183 | 2890 | 34 | 37631 |
+| fashionpedia | 7263 | 7263 | 3303 | 3004 | 34 | 37631 |
 | flickr.com | 93 | 237 | 0 | 0 | 0 | 0 |
 | forestink | 99 | 195 | 168 | 80 | 5 | 0 |
 | forthefit | 27 | 44 | 44 | 4 | 1 | 45 |
@@ -28,7 +28,7 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | mochipan | 102 | 227 | 199 | 133 | 2 | 35 |
 | morningwitch | 51 | 86 | 35 | 13 | 0 | 123 |
 | myviolet | 105 | 227 | 197 | 144 | 2 | 25 |
-| onebone | 75 | 166 | 166 | 53 | 0 | 108 |
+| onebone | 94 | 237 | 237 | 71 | 0 | 89 |
 | pettilia | 8 | 16 | 5 | 5 | 0 | 0 |
 | pexels.com | 40 | 40 | 0 | 0 | 0 | 0 |
 | punkrave | 78 | 156 | 110 | 60 | 6 | 133 |
@@ -48,7 +48,7 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | universalworks | 68 | 153 | 153 | 17 | 0 | 157 |
 | unsplash.com | 2 | 2 | 0 | 0 | 0 | 0 |
 | wear | 611 | 611 | 611 | 592 | 0 | 0 |
-| wildfang | 159 | 317 | 290 | 159 | 13 | 28 |
+| wildfang | 179 | 366 | 339 | 179 | 13 | 8 |
 
 ## Presentation coverage
 

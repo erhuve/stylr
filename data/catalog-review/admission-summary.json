@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9022,
-  "admittedPhotos": 6362,
-  "totalPhotos": 6747,
+  "reviewedCandidates": 9262,
+  "admittedPhotos": 6514,
+  "totalPhotos": 6899,
   "axisSupport": {
-    "build": 5144,
+    "build": 5275,
     "shoulderHip": 299,
     "waist": 586
   },
   "completeReferences": 243,
-  "sourcePages": 5818,
+  "sourcePages": 5967,
   "excludedReasons": {
-    "non-outfit-view": 2602,
+    "non-outfit-view": 2690,
     "existing-source-page": 58
   },
   "excluded": [
@@ -10652,6 +10652,358 @@
     },
     {
       "id": "fashionpedia-expansion-18801",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10695",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16048",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20500",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9828",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17904",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12385",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10143725879615-image-52076311511359",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10143728009535-image-52089367068991",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10127134851391-image-51467152916799",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10127133245759-image-52076310888767",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10127126757695-image-52076309053759",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118590300479-image-52085601632575",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118590300479-image-52085601567039",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118590595391-image-52085591671103",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118590595391-image-52085591703871",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118589645119-image-52077173014847",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118589645119-image-52077172949311",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118589546815-image-52077173408063",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118588039487-image-52076263702847",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118588039487-image-52076263768383",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118586302783-image-52235346575679",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118586302783-image-52089654116671",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118585844031-image-52235339170111",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118585844031-image-52089567838527",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118458605887-image-52086897574207",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118456017215-image-52086777053503",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10114881945919-image-52089284559167",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10111453036863-image-52035863314751",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10097340154175-image-53012883374399",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10097340154175-image-53012883145023",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10101135802687-image-53955641639231",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10101135802687-image-52039736623423",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10097355686207-image-52235111203135",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-8242260705461-image-36721499111605",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-8242260705461-image-36721499340981",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10540675662005-image-35706412040373",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7478759719093-image-35687122337973",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7478308274357-image-72763126120629",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7478308274357-image-72763125956789",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7440991355061-image-74481165336757",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7328435699893-image-34399162368181",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10540711313589-image-34387547259061",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10540711313589-image-34387624951989",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7227352481973-image-73337856786613",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10279095042229-image-72885667627189",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7150227423413-image-72908757532853",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7150226342069-image-73337962496181",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7159788110005-image-35687648526517",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10404694982837-image-75012166287541",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-6885794349237-image-31137970716853",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10404705632437-image-39471890628789",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-5706496082083-image-38876935225525",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-6325649211573-image-73439380046005",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10279095664821-image-75440416751797",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10143728009535-image-52089367101759",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10127134851391-image-51467152851263",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10127134851391-image-51467153015103",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10127133245759-image-52076310790463",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10127133245759-image-52076310855999",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10127126757695-image-52076309152063",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10127126757695-image-52076309119295",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118590300479-image-52085601599807",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118590595391-image-52085591638335",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118590595391-image-52085591605567",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118589645119-image-52077172982079",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118589546815-image-52077173473599",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118589546815-image-52077173440831",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118588039487-image-52076263801151",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118586302783-image-52089654083903",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118585844031-image-52089567772991",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118458605887-image-52086897410367",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118458605887-image-52086897475903",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10118456017215-image-52086777184575",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10114881945919-image-51402845356351",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10114881945919-image-51402845389119",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10111453036863-image-52035863281983",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10097340154175-image-53012883439935",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10101135802687-image-53955641475391",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10097355686207-image-52089245008191",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10097355686207-image-52089245040959",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-8242260705461-image-36721499439285",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10540675662005-image-35706414039221",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-10540675662005-image-35706412269749",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7478759719093-image-35687122206901",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7478759719093-image-35687122108597",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7478308274357-image-72763125924021",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7478308274357-image-72763125989557",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wildfang-7478308536501-image-72763215184053",
       "reason": "non-outfit-view"
     }
   ]

@@ -31,8 +31,8 @@ const photo = z.object({
 }).strict();
 const hash = (bytes: Uint8Array) => createHash('sha256').update(bytes).digest('hex');
 
-test('expanded library has 6747 distinct, source-linked and schema-valid references', () => {
-  expect(PHOTOS).toHaveLength(6747);
+test('expanded library has 6899 distinct, source-linked and schema-valid references', () => {
+  expect(PHOTOS).toHaveLength(6899);
   expect(LEGACY_PHOTOS).toHaveLength(42);
   expect(PHOTOS.filter(p => p.id.startsWith('archive-'))).toHaveLength(237);
   expect(PHOTOS.filter(p => p.id.startsWith('street-'))).toHaveLength(106);

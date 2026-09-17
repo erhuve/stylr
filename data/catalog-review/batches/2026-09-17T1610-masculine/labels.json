@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "onebone-10143725879615-image-52076311544127",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-navy",
+    "localPath": "images/onebone-10143725879615-image-52076311544127.webp",
+    "sha256": "ec6990803d1b45eab374474d485b8f9fd317f12a3b7ca599172c51d9492ff299",
+    "ordinal": 0,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy patterned tee and tan trousers; loose hem and lower crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10143725879615-image-52076311511359",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-navy",
+    "localPath": "images/onebone-10143725879615-image-52076311511359.webp",
+    "sha256": "3aea7081b56421225d1b4718afa6c3b4a1282505a574b1a67ce0b686f204a26a",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated navy tee outfit from ordinal 0.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10143728009535-image-52089367134527",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-l-s-hoodie-paisley",
+    "localPath": "images/onebone-10143728009535-image-52089367134527.webp",
+    "sha256": "347b879fb5fed25206f4ff53099e4fe40ef0133beb43ced0d5295aacd3fe7ac8",
+    "ordinal": 2,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Patterned grey hoodie and black trousers; loose torso hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10143728009535-image-52089367068991",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-l-s-hoodie-paisley",
+    "localPath": "images/onebone-10143728009535-image-52089367068991.webp",
+    "sha256": "8e547feda0773b2966c27c470f4c90713c576332efb80a33976f917e522a2a27",
+    "ordinal": 3,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear hoodie view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127134851391-image-51467152949567",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-coffee",
+    "localPath": "images/onebone-10127134851391-image-51467152949567.webp",
+    "sha256": "db2b88e9bd2a7c268fd1fd7eafe7b92ccb899130c8b49c4699da5a6ceff7ad67",
+    "ordinal": 4,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown bomber over black separates; jacket hides waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127134851391-image-51467152916799",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-coffee",
+    "localPath": "images/onebone-10127134851391-image-51467152916799.webp",
+    "sha256": "ee58b3ac5a415e3a905dfae4d7ba13ab6b8784b6f43e227b8d3a53b7343de0af",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated brown bomber outfit from ordinal 4.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127133245759-image-52076310921535",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+    "localPath": "images/onebone-10127133245759-image-52076310921535.webp",
+    "sha256": "f8c5b54533511c8813c36bbeebc18cd60980fa840d32cfe015b272852d7f39dd",
+    "ordinal": 6,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Grey textured tee and black trousers; oblique pose and loose hem.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127133245759-image-52076310888767",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+    "localPath": "images/onebone-10127133245759-image-52076310888767.webp",
+    "sha256": "5172586f932c5ece7640334d55effbc646b4c00b00f846bc70a4eee80f1b4b72",
+    "ordinal": 7,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated grey tee outfit from ordinal 6.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127126757695-image-52076309184831",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-coffee",
+    "localPath": "images/onebone-10127126757695-image-52076309184831.webp",
+    "sha256": "a60c733c405632219b18b0504edf2e7fc7b20faa0dbb65465b58a8feaf54e43d",
+    "ordinal": 8,
+    "view": "seated",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown textured tee and trousers; seated contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127126757695-image-52076309053759",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-coffee",
+    "localPath": "images/onebone-10127126757695-image-52076309053759.webp",
+    "sha256": "8bebcaa695ea920a30216fb3dcc153c686c1bef520acf4806d248249cf42a052",
+    "ordinal": 9,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear brown tee view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118590300479-image-52085601632575",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-green",
+    "localPath": "images/onebone-10118590300479-image-52085601632575.webp",
+    "sha256": "e1831d68f6f5a50b32a1be451f178943ceb96dcf8308c0762af075b2ca5bafc2",
+    "ordinal": 10,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated repeat; clearer standing green tee view retained at ordinal 85.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118590300479-image-52085601567039",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-green",
+    "localPath": "images/onebone-10118590300479-image-52085601567039.webp",
+    "sha256": "a0207d941e579ada84fa00607973489af6b1efbffcce339aadef07118905712a",
+    "ordinal": 11,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Neckline and fabric close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118590595391-image-52085591671103",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-purple",
+    "localPath": "images/onebone-10118590595391-image-52085591671103.webp",
+    "sha256": "9fd1635618d1ec3e38a23613eb2099221f5ecbfc45853ba76f9d8ce28f811082",
+    "ordinal": 12,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Minor tee color variation of ordinal 6 ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118590595391-image-52085591703871",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-purple",
+    "localPath": "images/onebone-10118590595391-image-52085591703871.webp",
+    "sha256": "c507a4c93136ed567f759b1ac90507500109a40c000be8669ef3b64ceaa6fee9",
+    "ordinal": 13,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated burgundy tee ensemble from ordinal 12.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118589645119-image-52077173014847",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-coffee",
+    "localPath": "images/onebone-10118589645119-image-52077173014847.webp",
+    "sha256": "fbc4bc69ce550e2c728d72df72c0ce685e8850d5d84a24e798778797184937e7",
+    "ordinal": 14,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated repeat; clearer standing long-sleeved top retained at ordinal 89.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118589645119-image-52077172949311",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-coffee",
+    "localPath": "images/onebone-10118589645119-image-52077172949311.webp",
+    "sha256": "1c4caa9c6b8d5b9a7ad8b26905a4743200d76ffbad29c65999aea828a5984d2a",
+    "ordinal": 15,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear long-sleeved top.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118589546815-image-52077173506367",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-dark-green",
+    "localPath": "images/onebone-10118589546815-image-52077173506367.webp",
+    "sha256": "ea4f68e8931c3cf1d72781c537873c6141e8a408843dbecada572a42e0459876",
+    "ordinal": 16,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green long-sleeved top and trousers; side pose and loose hem.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118589546815-image-52077173408063",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-dark-green",
+    "localPath": "images/onebone-10118589546815-image-52077173408063.webp",
+    "sha256": "a831e36d7f9d12d6c528f6b0bca2ed47a6644574284f89e85fb7eab647d85916",
+    "ordinal": 17,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear green top.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118588039487-image-52076263702847",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-tee-coffee",
+    "localPath": "images/onebone-10118588039487-image-52076263702847.webp",
+    "sha256": "2cb56e2fb96afe256258eddb9a7c6cdb64e838cf25d2802942f004186b82196b",
+    "ordinal": 18,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated repeat; clearer standing brown tee view retained at ordinal 93.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118588039487-image-52076263768383",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-tee-coffee",
+    "localPath": "images/onebone-10118588039487-image-52076263768383.webp",
+    "sha256": "02590395101032f3fb00ed67ab5d6b294c27c2f87ac11284ec9326fde2309b3f",
+    "ordinal": 19,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated brown tee and tan trouser ensemble from ordinal 18.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118586302783-image-52235346575679",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+    "localPath": "images/onebone-10118586302783-image-52235346575679.webp",
+    "sha256": "3c003ee59ff0d7cf611710e5cabbc7e7d51c8af842d4b5fc8905e45b44e285ff",
+    "ordinal": 20,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser crop with shoulders absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118586302783-image-52089654116671",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+    "localPath": "images/onebone-10118586302783-image-52089654116671.webp",
+    "sha256": "fb364a6daf3e83e7aac531c744770d017cdfc54b2da1d9059caee0f9802f0a33",
+    "ordinal": 21,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser crop with shoulders absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118585844031-image-52235339170111",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-black",
+    "localPath": "images/onebone-10118585844031-image-52235339170111.webp",
+    "sha256": "1eab5644183a6039f3b696bcbefed5442359682f4ba5b48f618f38b15d762450",
+    "ordinal": 22,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser crop with shoulders absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118585844031-image-52089567838527",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-black",
+    "localPath": "images/onebone-10118585844031-image-52089567838527.webp",
+    "sha256": "e967973bc7ebcdcfff0811d605efa0c173bb72d22afefe224d13ca7450755a15",
+    "ordinal": 23,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lower torso and trousers; shoulders absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118458605887-image-52086897508671",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+    "localPath": "images/onebone-10118458605887-image-52086897508671.webp",
+    "sha256": "696cbeb759376c52c8a94dc006ddf77dedf316229973f77e841445b20dc40bca",
+    "ordinal": 24,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Quarter-zip collared top and tan trousers; hands and seated pose obscure waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118458605887-image-52086897574207",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+    "localPath": "images/onebone-10118458605887-image-52086897574207.webp",
+    "sha256": "f0299a3a1d5d67eef8282c17f83f1ca1dc844a5ef938b66d7ca4ae81f4cde9cf",
+    "ordinal": 25,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated quarter-zip ensemble from ordinal 24.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118456017215-image-52086777119039",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+    "localPath": "images/onebone-10118456017215-image-52086777119039.webp",
+    "sha256": "321538fa06e8a3cf3b80418f4a2fc7acfa17c8b85c85f6a48684ac43595cb0b5",
+    "ordinal": 26,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale collared quarter-zip and brown trousers; oblique stance, loose torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118456017215-image-52086777053503",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+    "localPath": "images/onebone-10118456017215-image-52086777053503.webp",
+    "sha256": "8946b41ff2a326dbd3e69a1b92d514d3d9aaed2ff4b2e94ffa446357155810ed",
+    "ordinal": 27,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Collar and zip close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10114881945919-image-52089284657471",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+    "localPath": "images/onebone-10114881945919-image-52089284657471.webp",
+    "sha256": "828247c6d4a2bf867953df10bd21d2cfae459bb866695eac84e618bd589e98bf",
+    "ordinal": 28,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Varsity jacket, tan trousers and white trainers; seated contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10114881945919-image-52089284559167",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+    "localPath": "images/onebone-10114881945919-image-52089284559167.webp",
+    "sha256": "d69b6ccb01933d4b5b0a2db001c6e8db4f51fd00e095a60d3f061e48933f67ad",
+    "ordinal": 29,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear varsity jacket.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10111453036863-image-52035863347519",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-grey-mix",
+    "localPath": "images/onebone-10111453036863-image-52035863347519.webp",
+    "sha256": "cb7e0bb93f8daeb67a8f746bf8388178f316102710d1dceecf860b84a6d524b0",
+    "ordinal": 30,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Grey tee and dark trousers; oblique pose and loose hem.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10111453036863-image-52035863314751",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-grey-mix",
+    "localPath": "images/onebone-10111453036863-image-52035863314751.webp",
+    "sha256": "b63de7729bf5971327964d209893efb75308973299e0b620b094aaf82465a7b6",
+    "ordinal": 31,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated grey tee ensemble from ordinal 30.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10097340154175-image-53012883374399",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+    "localPath": "images/onebone-10097340154175-image-53012883374399.webp",
+    "sha256": "0a81fba7ebb066219c104d9f898079f269bd515121aa666182c8e2622c9067d8",
+    "ordinal": 32,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Neck and shoulder close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10097340154175-image-53012883145023",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+    "localPath": "images/onebone-10097340154175-image-53012883145023.webp",
+    "sha256": "069e6b1e25d1ddc7f92564b1d930585e49a7661c26a3a88f3d1476a0e2856224",
+    "ordinal": 33,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sleeve and upper arm close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10101135802687-image-53955641639231",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+    "localPath": "images/onebone-10101135802687-image-53955641639231.webp",
+    "sha256": "d1e868940b35dae07c8c6785005091712c97a056664c4e5bb960cbd2546e4808",
+    "ordinal": 34,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped repeat of fuller standing outfit retained at ordinal 107.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10101135802687-image-52039736623423",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+    "localPath": "images/onebone-10101135802687-image-52039736623423.webp",
+    "sha256": "7afe93cf1aa3e49f64ac2286d3f2a9261733bd86e8903d4a88507ec7a192a975",
+    "ordinal": 35,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repetitive grey tee and black trouser styling already retained.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10097355686207-image-52235111203135",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+    "localPath": "images/onebone-10097355686207-image-52235111203135.webp",
+    "sha256": "509c99388a26295da91ece7181816b43d53209288aa841ac8257b7c4761f01e7",
+    "ordinal": 36,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped repeat of fuller outfit at ordinal 37.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10097355686207-image-52089245106495",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+    "localPath": "images/onebone-10097355686207-image-52089245106495.webp",
+    "sha256": "c1ada838ad78104ccc4661cc8cf69afd3c20464d1dfa20aca4cc1b4effdf44c9",
+    "ordinal": 37,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Light sweater, olive trousers and boots; hands across waist and loose hem.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-8242260705461-image-36721499111605",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+    "localPath": "images/wildfang-8242260705461-image-36721499111605.webp",
+    "sha256": "dd5c82b7b85138e595087051b1963599870d35456af682ca5ac162aa1332d66b",
+    "ordinal": 38,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Two subjects with equal prominence.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-8242260705461-image-36721499340981",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+    "localPath": "images/wildfang-8242260705461-image-36721499340981.webp",
+    "sha256": "d7e1ff16a0b872a73bfa59f6d11508a27649e68c3d619358f981352c663aacf6",
+    "ordinal": 39,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Waistband and pocket close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10540675662005-image-35706412040373",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+    "localPath": "images/wildfang-10540675662005-image-35706412040373.webp",
+    "sha256": "9cedf6fa877f6acf63dd4fb204919f9c2448ab3fef8ad11c7d7989f6db697b9b",
+    "ordinal": 40,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated repeat of coverall outfit at ordinal 41.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10540675662005-image-35706412499125",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+    "localPath": "images/wildfang-10540675662005-image-35706412499125.webp",
+    "sha256": "e06f3b2a3d3e23f0b406cb43f9201269af929153716618942b016b8227b516a7",
+    "ordinal": 41,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black collared coverall and loafers; turned torso and loose hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478759719093-image-35687122305205",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+    "localPath": "images/wildfang-7478759719093-image-35687122305205.webp",
+    "sha256": "d6119715f452e46fcd4dbd7d2681ae9dfa213ab7fb4934b43b1ea83aec4cdd1e",
+    "ordinal": 42,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Long striped collared shirt and dark trousers; wrap and drape hide waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478759719093-image-35687122337973",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+    "localPath": "images/wildfang-7478759719093-image-35687122337973.webp",
+    "sha256": "f6e47922a579d881156d81c95998c4c0b2cfa14b07045ee67892bead123319b6",
+    "ordinal": 43,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated striped-shirt outfit with shirt opened.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478308274357-image-72763126120629",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+    "localPath": "images/wildfang-7478308274357-image-72763126120629.webp",
+    "sha256": "bf4c20ba8351f9d22d35a1e1c2281b726db9939fa1739e77d6bc3eb1f35c835c",
+    "ordinal": 44,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped repeat of patterned suit shown fully at ordinal 47.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478308274357-image-72763125956789",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+    "localPath": "images/wildfang-7478308274357-image-72763125956789.webp",
+    "sha256": "2f9f61becd5a8b7fc06eb12b688658598d1ff9810c2065c059adf44603e9390c",
+    "ordinal": 45,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated patterned suit, cropped.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478308536501-image-72763214889141",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+    "localPath": "images/wildfang-7478308536501-image-72763214889141.webp",
+    "sha256": "8a6bee2e587f03d6587c904ffae6751c8964ab5f15c6fdc755d246957da75a2e",
+    "ordinal": 46,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black collared shirt with patterned trousers; pocket pose and tailored hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478308536501-image-72763126251701",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+    "localPath": "images/wildfang-7478308536501-image-72763126251701.webp",
+    "sha256": "ed2d7ae3356444c2c7075b877f40b56bfa79828f93f320f3ca32773378907dd3",
+    "ordinal": 47,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Patterned suit, matching tie and black shirt; open jacket and bent leg.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7440991355061-image-74481165336757",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+    "localPath": "images/wildfang-7440991355061-image-74481165336757.webp",
+    "sha256": "d0e0d038caaa5689afb91cd9a1a9de8f22c442ef854561e73d57b3ecdff43c42",
+    "ordinal": 48,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shorts crop with shoulders absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7440991355061-image-74481165107381",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+    "localPath": "images/wildfang-7440991355061-image-74481165107381.webp",
+    "sha256": "cb8167d07435b94656d923d1472d1c0163ca796c29799f6001a146bebb33ccb1",
+    "ordinal": 49,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tailored long shorts and mock-neck with pointed heeled boots; side pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7385040519349-image-73338107068597",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+    "localPath": "images/wildfang-7385040519349-image-73338107068597.webp",
+    "sha256": "bef542193a5b7feda0b7b79f78d80861793a058827c62e419cfe035a3c354dbc",
+    "ordinal": 50,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black short-sleeved collared shirt and grey trousers; tilted torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7385040519349-image-73338106970293",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+    "localPath": "images/wildfang-7385040519349-image-73338106970293.webp",
+    "sha256": "49d253a2f4b497a697b31f87bea8ade3529ac8a4c99ee237045ed4e5f77de539",
+    "ordinal": 51,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black collared shirt, patterned tie and tailored trousers; raised arm.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7328435699893-image-34399162433717",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+    "localPath": "images/wildfang-7328435699893-image-34399162433717.webp",
+    "sha256": "c5e0b54730ae7b4272a9f19fa670cc8d9e97e52e878a701bbea65cf9dc1f06c4",
+    "ordinal": 52,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Printed collared shirt, cap and burgundy trousers; hand on hip and loose hem.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7328435699893-image-34399162368181",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+    "localPath": "images/wildfang-7328435699893-image-34399162368181.webp",
+    "sha256": "a917fd1095825612eae00488089c68299be74ef297a3ede5530dec71f0429998",
+    "ordinal": 53,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shirt fabric and label close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10540711313589-image-34387547259061",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+    "localPath": "images/wildfang-10540711313589-image-34387547259061.webp",
+    "sha256": "af011b3baec45d21bef259822e7d5b6ef68dde37dc872758476d215b1305f83a",
+    "ordinal": 54,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser framing cuts off shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10540711313589-image-34387624951989",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+    "localPath": "images/wildfang-10540711313589-image-34387624951989.webp",
+    "sha256": "c36ab32a126b881fb42adfb5efd3c8d25ec5bfe570c4059235fbc91a63bbae08",
+    "ordinal": 55,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pocket and hand close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7227352481973-image-73337856917685",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+    "localPath": "images/wildfang-7227352481973-image-73337856917685.webp",
+    "sha256": "da12780f78b03f77f0379907900cc538ce0eb3bb73904de44accc0aee03b30a4",
+    "ordinal": 56,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multicolored camp shirt and grey trousers; loose shirt and hand at collar.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7227352481973-image-73337856786613",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+    "localPath": "images/wildfang-7227352481973-image-73337856786613.webp",
+    "sha256": "2d3729991cf43c958989e5c5d2065d03242f061ec849db86fe3c5961173abd4e",
+    "ordinal": 57,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated multicolored shirt outfit from ordinal 56.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10279095042229-image-72885667594421",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+    "localPath": "images/wildfang-10279095042229-image-72885667594421.webp",
+    "sha256": "c709413bfd5cce2c26c020f1f3a1b43a049f07c3146924cadc2e79a376c38ea5",
+    "ordinal": 58,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Utility coverall with pointed patterned heeled boots; loose waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10279095042229-image-72885667627189",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+    "localPath": "images/wildfang-10279095042229-image-72885667627189.webp",
+    "sha256": "6f2f65e4e69e18b438ef9226f2b85387f0d8b77abd4730a965a52708d263e7b3",
+    "ordinal": 59,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated navy coverall outfit from ordinal 58.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7150227423413-image-72908757467317",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+    "localPath": "images/wildfang-7150227423413-image-72908757467317.webp",
+    "sha256": "c248f4ebf87b59323073feff7ce8ce03e00899de7dca6e6720dbcede86fd6d15",
+    "ordinal": 60,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Floral camp shirt and jeans; hand at hip and loose hem.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7150227423413-image-72908757532853",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+    "localPath": "images/wildfang-7150227423413-image-72908757532853.webp",
+    "sha256": "d5636f3c884b3e09cecdacee87d56eb2be3c4c4dc9fe5e4a9763f6d6a0a89959",
+    "ordinal": 61,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated floral shirt outfit from ordinal 60.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7150226342069-image-73337962627253",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+    "localPath": "images/wildfang-7150226342069-image-73337962627253.webp",
+    "sha256": "bd32b285bfa4a21757a5d6957d8721e0f497bf69c2c274260990150b55b394cf",
+    "ordinal": 62,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Eye-print collared shirt and jeans; loose shirt and angled pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7150226342069-image-73337962496181",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+    "localPath": "images/wildfang-7150226342069-image-73337962496181.webp",
+    "sha256": "e616106de939363db84287faca3bb5b4a704d956d65d858d2ef22d606f360fc7",
+    "ordinal": 63,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated eye-print shirt outfit from ordinal 62.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7159788110005-image-35687648690357",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+    "localPath": "images/wildfang-7159788110005-image-35687648690357.webp",
+    "sha256": "9f4a6e7ce49693ce519c01afbff2a3f70b3d7147d66731a8dddfca0a84cad842",
+    "ordinal": 64,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black long-sleeved coverall and brogues; bent knee and hand at waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7159788110005-image-35687648526517",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+    "localPath": "images/wildfang-7159788110005-image-35687648526517.webp",
+    "sha256": "b824d1f30cb1b79060b9a27fe6f68850d86e32fd10a1e539fffad1f803d4f08d",
+    "ordinal": 65,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear coverall view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10404694982837-image-75012166123701",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+    "localPath": "images/wildfang-10404694982837-image-75012166123701.webp",
+    "sha256": "79896afd7d01d0082d69e452cf32b1ad6eb4119c427b4b23a20c0eafc8092de0",
+    "ordinal": 66,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Patterned overalls and sleeveless top; loose bib conceals waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10404694982837-image-75012166287541",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+    "localPath": "images/wildfang-10404694982837-image-75012166287541.webp",
+    "sha256": "32d8ed49ff26123f2ceaf64093c2582617dec38071b5513f2b15c9928d45e43b",
+    "ordinal": 67,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear patterned overalls.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-6885794349237-image-31168818020533",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+    "localPath": "images/wildfang-6885794349237-image-31168818020533.webp",
+    "sha256": "9ac750c4b1c5aac90b61ac95f84e95f3a2d02e0f99ef7a2d1bb98520435dc9c5",
+    "ordinal": 68,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Botanical collared shirt over tee and jeans; leaning pose and loose torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-6885794349237-image-31137970716853",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+    "localPath": "images/wildfang-6885794349237-image-31137970716853.webp",
+    "sha256": "559711cffbfcbd4af4e71296cb0e027c281efedec352bc6be0ca3e273de791d9",
+    "ordinal": 69,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated botanical shirt outfit from ordinal 68.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10404705632437-image-39468668616885",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+    "localPath": "images/wildfang-10404705632437-image-39468668616885.webp",
+    "sha256": "85d2015e51f2531cfdd3efd9ce06c9ed88bed58160fafd70506c192be9255e66",
+    "ordinal": 70,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sweatshirt over collared shirt with tailored shorts; seated wide stance.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10404705632437-image-39471890628789",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+    "localPath": "images/wildfang-10404705632437-image-39471890628789.webp",
+    "sha256": "09e1e333f36726d49c1c51148cdb54d9aae92edcbfc00c50eaf0b9f7578d2d59",
+    "ordinal": 71,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated sweatshirt ensemble from ordinal 70.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-5706496082083-image-38876935225525",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+    "localPath": "images/wildfang-5706496082083-image-38876935225525.webp",
+    "sha256": "c08de10301d92251eee9684944c88f503971bb1cdb61131eea9b0082538b5f08",
+    "ordinal": 72,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped repeat of full outfit at ordinal 73; shoulders absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-5706496082083-image-38876935127221",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+    "localPath": "images/wildfang-5706496082083-image-38876935127221.webp",
+    "sha256": "50ed3ac491358246a1a300d91cc9ec6e1bbb163e90ad61b653cc7f5a0ff046f7",
+    "ordinal": 73,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Printed collared shirt, tailored trousers and loafers; hands in pockets.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-6325649211573-image-73652849049781",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+    "localPath": "images/wildfang-6325649211573-image-73652849049781.webp",
+    "sha256": "4667ba3ef4ef0d9a4f69daa8009d37482f5778da7b2118da2aae4cdd1d5bcaa1",
+    "ordinal": 74,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White collared dress shirt and black trousers; raised hand and loose hem.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-6325649211573-image-73439380046005",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+    "localPath": "images/wildfang-6325649211573-image-73439380046005.webp",
+    "sha256": "d385a0f210faea5771b5aff05cb86826157144acf0af43557719436cd5ea2113",
+    "ordinal": 75,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shirt cuffs and tie crop without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10279095664821-image-75440416850101",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+    "localPath": "images/wildfang-10279095664821-image-75440416850101.webp",
+    "sha256": "3be80b7c4837e352f74dbf151413645e2952c32765c3740cabc62d25a8061d1b",
+    "ordinal": 76,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black dress shirt and patterned tailored trousers; hand over chest.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10279095664821-image-75440416751797",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+    "localPath": "images/wildfang-10279095664821-image-75440416751797.webp",
+    "sha256": "56f012e69f5750afb2325308cb50dbc320e61b5396e20497e7d5dbfcbabf7724",
+    "ordinal": 77,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated black shirt ensemble from ordinal 76.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10143728009535-image-52089367101759",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-l-s-hoodie-paisley",
+    "localPath": "images/onebone-10143728009535-image-52089367101759.webp",
+    "sha256": "60d21d64c9433ee3078a74b83894d4778bbd2aa12a828dedc629b2adbe8c5fb7",
+    "ordinal": 78,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Hood and upper-torso crop; raised arms.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127134851391-image-51467152851263",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-coffee",
+    "localPath": "images/onebone-10127134851391-image-51467152851263.webp",
+    "sha256": "1ba864ca609a23bd3e1aadb4c86ac72703f4c4911a4e5474a778db8ae470190b",
+    "ordinal": 79,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Quilted zip close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127134851391-image-51467153015103",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-coffee",
+    "localPath": "images/onebone-10127134851391-image-51467153015103.webp",
+    "sha256": "4e54410694d7bf6617f0418f923908ee99269be2febd64982f489bbe0b237e16",
+    "ordinal": 80,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sleeve cuff close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127133245759-image-52076310790463",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+    "localPath": "images/onebone-10127133245759-image-52076310790463.webp",
+    "sha256": "5f6f7f26c6b27d8c7813923828a293e5dbfac0c990b85b5abd9818c3404ae5d8",
+    "ordinal": 81,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear grey tee view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127133245759-image-52076310855999",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+    "localPath": "images/onebone-10127133245759-image-52076310855999.webp",
+    "sha256": "f400378987a64bd13f690a5c7de5c2a2e153507c6dabbef3f717322dea4d4b83",
+    "ordinal": 82,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulder fabric close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127126757695-image-52076309152063",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-coffee",
+    "localPath": "images/onebone-10127126757695-image-52076309152063.webp",
+    "sha256": "79da9ea8132097f63c3c267fe73cb56449a5a11e7794a0c5e12d88fd1aad8952",
+    "ordinal": 83,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated brown tee seated ensemble from ordinal 8.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10127126757695-image-52076309119295",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-coffee",
+    "localPath": "images/onebone-10127126757695-image-52076309119295.webp",
+    "sha256": "efbf43eae52ef421037d98bff470681ad29e23fd466134d1a568371d7f950216",
+    "ordinal": 84,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated brown tee seated ensemble from ordinal 8.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118590300479-image-52085601698111",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-green",
+    "localPath": "images/onebone-10118590300479-image-52085601698111.webp",
+    "sha256": "59b8754c5738bfb4d9100a3537a22699ecd19ffe5f6643c090cdd04efa74cb9b",
+    "ordinal": 85,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green tee and black trousers; front view, loose hem conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118590300479-image-52085601599807",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-green",
+    "localPath": "images/onebone-10118590300479-image-52085601599807.webp",
+    "sha256": "d23cd36f1654205d54fb35058f8857bab9677450ca0414580dc5c74f025b05b0",
+    "ordinal": 86,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated repeat of green tee ensemble retained at ordinal 85.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118590595391-image-52085591638335",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-purple",
+    "localPath": "images/onebone-10118590595391-image-52085591638335.webp",
+    "sha256": "1fc311753cb87cb0ea768ca0f928e1ad2443b59c658f07413ec32ac6253824ce",
+    "ordinal": 87,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy tee variation of repetitive casual ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118590595391-image-52085591605567",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-purple",
+    "localPath": "images/onebone-10118590595391-image-52085591605567.webp",
+    "sha256": "2266531da2a9c3bee434e8ddad707036cf825e76f7385ccb4cad470a66c613c2",
+    "ordinal": 88,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tee sleeve close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118589645119-image-52077173047615",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-coffee",
+    "localPath": "images/onebone-10118589645119-image-52077173047615.webp",
+    "sha256": "3e4b3641d2036623ea74264fb5bc7910f719cf1dccd6b8c56927f47090aed9b4",
+    "ordinal": 89,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown long-sleeved top and black trousers; front view with loose hip coverage.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118589645119-image-52077172982079",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-coffee",
+    "localPath": "images/onebone-10118589645119-image-52077172982079.webp",
+    "sha256": "c60ae1a444995584878ae605e058676f861d82326e1e878c31b867c467ef3278",
+    "ordinal": 90,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated repeat of long-sleeved top retained at ordinal 89.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118589546815-image-52077173473599",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-dark-green",
+    "localPath": "images/onebone-10118589546815-image-52077173473599.webp",
+    "sha256": "582b52aee7f0aef33326ddb73b0c426e534bb9cf12316d27361797ce6f0fe6b5",
+    "ordinal": 91,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated green long-sleeved ensemble from ordinal 16.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118589546815-image-52077173440831",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-dark-green",
+    "localPath": "images/onebone-10118589546815-image-52077173440831.webp",
+    "sha256": "17cd77d653225a2eb482f31289c1811b710a580d41b602ff9cc2fc0f1b82caf9",
+    "ordinal": 92,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated green long-sleeved ensemble from ordinal 16.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118588039487-image-52076263735615",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-tee-coffee",
+    "localPath": "images/onebone-10118588039487-image-52076263735615.webp",
+    "sha256": "11715e4009c637d03ec4ea58ee23f56aa4f3511c8f126a916a3c0cc20125aec3",
+    "ordinal": 93,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown tee and tan trousers; front view, long loose hem hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118588039487-image-52076263801151",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/bullet-tee-coffee",
+    "localPath": "images/onebone-10118588039487-image-52076263801151.webp",
+    "sha256": "9a8fc10b7f0a78bc27aa743936fb91d8bc098fb212a445885187f04da6628bb1",
+    "ordinal": 94,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated brown tee front view from ordinal 93.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118586302783-image-52089654051135",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+    "localPath": "images/onebone-10118586302783-image-52089654051135.webp",
+    "sha256": "42c228b2135100e7300abb8ecc8c38a3d689d67102e8096e69bf0f2a973b4544",
+    "ordinal": 95,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black collared shirt, olive trousers and boots; loose shirt conceals waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118586302783-image-52089654083903",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+    "localPath": "images/onebone-10118586302783-image-52089654083903.webp",
+    "sha256": "c0fc4df4795b30ca23e3e8e751bab48566c6253c3424a04737b6d34ae2341f9a",
+    "ordinal": 96,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated full outfit from ordinal 95.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118585844031-image-52089567772991",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-black",
+    "localPath": "images/onebone-10118585844031-image-52089567772991.webp",
+    "sha256": "d159957e1afba932e18dce4d682822217f6484fe1e460e159c57b096f392fc20",
+    "ordinal": 97,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser hem and boot close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118458605887-image-52086897410367",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+    "localPath": "images/onebone-10118458605887-image-52086897410367.webp",
+    "sha256": "af5531697ff7c2c8dc019691f3b4b87e7bd4210673e8f9b900670ab20bfb7b7b",
+    "ordinal": 98,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear quarter-zip top.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118458605887-image-52086897475903",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+    "localPath": "images/onebone-10118458605887-image-52086897475903.webp",
+    "sha256": "22ef034169e49bbd64d4f5091f2e80348f1e30b189c9b58a6bcb385f94fb4e31",
+    "ordinal": 99,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Back collar close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118456017215-image-52086777184575",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+    "localPath": "images/onebone-10118456017215-image-52086777184575.webp",
+    "sha256": "c6989f73c563311a0c883627a3e6462c18f2a611486ab98aaf18d0a5f077faad",
+    "ordinal": 100,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Upper torso close-up; lower body absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10118456017215-image-52086777217343",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+    "localPath": "images/onebone-10118456017215-image-52086777217343.webp",
+    "sha256": "a37c6d24d7353f37425432374a25669795b77aad774a1a75014eb54061930b3d",
+    "ordinal": 101,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale collared quarter-zip and black trousers; hands across torso, loose hem.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10114881945919-image-51402845356351",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+    "localPath": "images/onebone-10114881945919-image-51402845356351.webp",
+    "sha256": "ab0777cd7cc52ec4d1f20e276aa48a326d5ef0db797278ec16ce6fed9052b51f",
+    "ordinal": 102,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repetitive varsity jacket view from ordinal 28; tighter crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10114881945919-image-51402845389119",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+    "localPath": "images/onebone-10114881945919-image-51402845389119.webp",
+    "sha256": "4ee830fa989716733d4d92fc9c0cdca0ee550c6d02b3ecef0f073dec45a5ca55",
+    "ordinal": 103,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repetitive varsity jacket view from ordinal 28.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10111453036863-image-52035863281983",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-grey-mix",
+    "localPath": "images/onebone-10111453036863-image-52035863281983.webp",
+    "sha256": "f0fb22d6a49329c64f2a4a8d37d5686ebb4f1df3d2b69cd55f4beb0210d9ff49",
+    "ordinal": 104,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated grey tee outfit from ordinal 30; leaning seated pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10097340154175-image-53012883571007",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+    "localPath": "images/onebone-10097340154175-image-53012883571007.webp",
+    "sha256": "40e1351c321402edb07a7383cf3cd5d0af03274e0c01fd5a77df072d07f728cc",
+    "ordinal": 105,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Grey tee, dark shorts and white trainers; clasped hands and loose hem.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10097340154175-image-53012883439935",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+    "localPath": "images/onebone-10097340154175-image-53012883439935.webp",
+    "sha256": "7882ff770ca46d2c4f397598ebabf2a07892879e911acaf63a67e2be0e169830",
+    "ordinal": 106,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Head and upper torso crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10101135802687-image-53955641573695",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+    "localPath": "images/onebone-10101135802687-image-53955641573695.webp",
+    "sha256": "5eca682f444de1c13f39382ad8d23975fef2c9d8ebeb935f197fe0a9d21fb8b5",
+    "ordinal": 107,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Grey tee, black trousers and white shoes; oblique pose and loose hip coverage.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10101135802687-image-53955641475391",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+    "localPath": "images/onebone-10101135802687-image-53955641475391.webp",
+    "sha256": "f0561b790939ce07a3309fb1ffa957bcffd03264dd2e4000d0088b67ada082c0",
+    "ordinal": 108,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Neckline close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10097355686207-image-52089245008191",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+    "localPath": "images/onebone-10097355686207-image-52089245008191.webp",
+    "sha256": "b93769f38e4a5c8d93917a5f4f713ee9b92843efc9b5ae7d3f3d8f12da04a3ec",
+    "ordinal": 109,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sweater shoulder close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "onebone-10097355686207-image-52089245040959",
+    "source": "onebone",
+    "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+    "localPath": "images/onebone-10097355686207-image-52089245040959.webp",
+    "sha256": "c76a2f2b9b2ef5c437b4c93d185c80caf970a1fb1777aaf223fb2daa0202102e",
+    "ordinal": 110,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sweater pocket close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-8242260705461-image-36721499078837",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+    "localPath": "images/wildfang-8242260705461-image-36721499078837.webp",
+    "sha256": "c7a43ac8782412d29bcea8575e2cec5106d295f84569e3bf93b4c587c0a1d9c6",
+    "ordinal": 111,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Grey sweater, black wrap skirt and boots; bulky top and straight skirt hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-8242260705461-image-36721499439285",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+    "localPath": "images/wildfang-8242260705461-image-36721499439285.webp",
+    "sha256": "967903bfa341f7d4fd9298906d8259fe03b7ed343caea784eb6d8025b799042b",
+    "ordinal": 112,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated wrap skirt outfit from ordinal 111.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10540675662005-image-35706414039221",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+    "localPath": "images/wildfang-10540675662005-image-35706414039221.webp",
+    "sha256": "a10b9b8a446b6b3f4b3d4fc945f46879f090e172deecb7e80f19f80d92de5e80",
+    "ordinal": 113,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Coverall waistband close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10540675662005-image-35706412269749",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+    "localPath": "images/wildfang-10540675662005-image-35706412269749.webp",
+    "sha256": "710cb5d840ce377ccd8cbeba53d1479f8aa557912fd0809f6b6e460c961fe227",
+    "ordinal": 114,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear black coverall.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478759719093-image-35687122206901",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+    "localPath": "images/wildfang-7478759719093-image-35687122206901.webp",
+    "sha256": "76ec6401b08e1c502b6e2354addbccfc00db4af11e6c6832517e8f68a88b2c04",
+    "ordinal": 115,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped shirt wrap detail without complete shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478759719093-image-35687122108597",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+    "localPath": "images/wildfang-7478759719093-image-35687122108597.webp",
+    "sha256": "2809bd948cac0acb937022ce21341fc15771492643365cca98dba63ce48683dd",
+    "ordinal": 116,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Two equally prominent subjects.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478308274357-image-72763125924021",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+    "localPath": "images/wildfang-7478308274357-image-72763125924021.webp",
+    "sha256": "10e9a3fa92fa01234aef85e62ed8a998cf87e2a47787c1966cad3d6be11c26aa",
+    "ordinal": 117,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Suit lapel close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478308274357-image-72763125989557",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+    "localPath": "images/wildfang-7478308274357-image-72763125989557.webp",
+    "sha256": "d1419021e528f7f94970bafe92897b101f89d86cb7c98db4a6cb4641ef61f6c6",
+    "ordinal": 118,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Suit pocket close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-7478308536501-image-72763215184053",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+    "localPath": "images/wildfang-7478308536501-image-72763215184053.webp",
+    "sha256": "408df314bb9fcdbb3f51505539dbac30fbc20511132d637f97b5cd4dfd24e7d5",
+    "ordinal": 119,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser pocket close-up.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

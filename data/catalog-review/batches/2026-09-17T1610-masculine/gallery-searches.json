@@ -1,0 +1,2056 @@
+{
+  "scope": "At most two unused gallery images per already-selected product, maximum 42 downloads. FullBody filename hints prioritized for framing only; every downloaded image still requires direct review.",
+  "decisions": [
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-navy",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Navy-Q-LOW_REZ-MediumShot2.jpg?v=1769390712",
+      "id": "onebone-10143725879615-image-52076311544127",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-navy",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Navy-Q-LOW_REZ-MediumShot1.jpg?v=1769390712",
+      "id": "onebone-10143725879615-image-52076311511359",
+      "galleryIndex": 1,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-l-s-hoodie-paisley",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB267-SplitHemHoodie-Paisley-Q-LOW_REZ-MediumShot1.jpg?v=1769467341",
+      "id": "onebone-10143728009535-image-52089367134527",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-l-s-hoodie-paisley",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB267-SplitHemHoodie-Paisley-Q-LOW_REZ-Lifestyle1.jpg?v=1769467341",
+      "id": "onebone-10143728009535-image-52089367101759",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "60d21d64c9433ee3078a74b83894d4778bbd2aa12a828dedc629b2adbe8c5fb7"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-l-s-hoodie-paisley",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB267-SplitHemHoodie-Paisley-Q-LOW_REZ-Back1.jpg?v=1769467341",
+      "id": "onebone-10143728009535-image-52089367068991",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/Drop20-_0006_OB117-QUILTBOMBER-COFFEE-TONY--14.jpg?v=1760501258",
+      "id": "onebone-10127134851391-image-51467152949567",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/Drop20-_0001_OB117-QUILTBOMBER-COFFEE-TONY--35.jpg?v=1760538158",
+      "id": "onebone-10127134851391-image-51467152851263",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "1ba864ca609a23bd3e1aadb4c86ac72703f4c4911a4e5474a778db8ae470190b"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/Drop20-_0005_OB117-QUILTBOMBER-COFFEE-TONY--16.jpg?v=1760538158",
+      "id": "onebone-10127134851391-image-51467152916799",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/Drop20-_0000_OB117-QUILTBOMBER-COFFEE-TONY--36.jpg?v=1760538158",
+      "id": "onebone-10127134851391-image-51467153015103",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "4e54410694d7bf6617f0418f923908ee99269be2febd64982f489bbe0b237e16"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/Drop20-_0003_OB117-QUILTBOMBER-COFFEE-TONY--21_1.jpg?v=1760538158",
+      "id": "onebone-10127134851391-image-51467152818495",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Grey-Dimitri-LOW_REZ-MediumShot3.jpg?v=1769390680",
+      "id": "onebone-10127133245759-image-52076310921535",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Grey-Dimitri-LOW_REZ-Back2.jpg?v=1769390680",
+      "id": "onebone-10127133245759-image-52076310790463",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "5f6f7f26c6b27d8c7813923828a293e5dbfac0c990b85b5abd9818c3404ae5d8"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Grey-Dimitri-LOW_REZ-Lifestyle1.jpg?v=1769390680",
+      "id": "onebone-10127133245759-image-52076310888767",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Grey-Dimitri-LOW_REZ-Detail3.jpg?v=1769390680",
+      "id": "onebone-10127133245759-image-52076310855999",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "f400378987a64bd13f690a5c7de5c2a2e153507c6dabbef3f717322dea4d4b83"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Grey-Dimitri-LOW_REZ-Back1.jpg?v=1769390680",
+      "id": "onebone-10127133245759-image-52076310757695",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-grey",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Grey-Dimitri-LOW_REZ-Detail1.jpg?v=1769390680",
+      "id": "onebone-10127133245759-image-52076310823231",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Brown-ChrisVZ-LOW_REZ-Lifestyle3.jpg?v=1769390605",
+      "id": "onebone-10127126757695-image-52076309184831",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Brown-ChrisVZ-LOW_REZ-Lifestyle2.jpg?v=1769390605",
+      "id": "onebone-10127126757695-image-52076309152063",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "79da9ea8132097f63c3c267fe73cb56449a5a11e7794a0c5e12d88fd1aad8952"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Brown-ChrisVZ-LOW_REZ-Back1.jpg?v=1769390605",
+      "id": "onebone-10127126757695-image-52076309053759",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Brown-ChrisVZ-LOW_REZ-Lifestyle1.jpg?v=1769390605",
+      "id": "onebone-10127126757695-image-52076309119295",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "efbf43eae52ef421037d98bff470681ad29e23fd466134d1a568371d7f950216"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/quilt-scoop-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB120A-QuiltScoop-Brown-ChrisVZ-LOW_REZ-Detail1.jpg?v=1769390605",
+      "id": "onebone-10127126757695-image-52076309086527",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBulletTee-DarkGreen-Bernard-LOW_REZ-Lifestyle3.jpg?v=1769442528",
+      "id": "onebone-10118590300479-image-52085601632575",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBulletTee-DarkGreen-Bernard-LOW_REZ-MediumShot2.jpg?v=1769442528",
+      "id": "onebone-10118590300479-image-52085601698111",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "59b8754c5738bfb4d9100a3537a22699ecd19ffe5f6643c090cdd04efa74cb9b"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBulletTee-DarkGreen-Bernard-LOW_REZ-Detail1.jpg?v=1769442528",
+      "id": "onebone-10118590300479-image-52085601567039",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBulletTee-DarkGreen-Bernard-LOW_REZ-Lifestyle1.jpg?v=1769442528",
+      "id": "onebone-10118590300479-image-52085601599807",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "d23cd36f1654205d54fb35058f8857bab9677450ca0414580dc5c74f025b05b0"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBulletTee-DarkGreen-Bernard-LOW_REZ-MediumShot1.jpg?v=1769442528",
+      "id": "onebone-10118590300479-image-52085601665343",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-purple",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-BulletTee-DarkPurple-Dimitri-LOW_REZ-MediumShot1.jpg?v=1769442098",
+      "id": "onebone-10118590595391-image-52085591671103",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-purple",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-BulletTee-DarkPurple-Dimitri-LOW_REZ-Lifestyle1.jpg?v=1769442098",
+      "id": "onebone-10118590595391-image-52085591638335",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "1fc311753cb87cb0ea768ca0f928e1ad2443b59c658f07413ec32ac6253824ce"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-purple",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-BulletTee-DarkPurple-Dimitri-LOW_REZ-MediumShot2.jpg?v=1769442098",
+      "id": "onebone-10118590595391-image-52085591703871",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-dark-purple",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-BulletTee-DarkPurple-Dimitri-LOW_REZ-Detail1.jpg?v=1769442098",
+      "id": "onebone-10118590595391-image-52085591605567",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "2266531da2a9c3bee434e8ddad707036cf825e76f7385ccb4cad470a66c613c2"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-Coffee-ChrisVZ-LOW_REZ-Lifestyle3.jpg?v=1769395474",
+      "id": "onebone-10118589645119-image-52077173014847",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-Coffee-ChrisVZ-LOW_REZ-MediumShot1.jpg?v=1769395474",
+      "id": "onebone-10118589645119-image-52077173047615",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "3e4b3641d2036623ea74264fb5bc7910f719cf1dccd6b8c56927f47090aed9b4"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-Coffee-ChrisVZ-LOW_REZ-Back1.jpg?v=1769395474",
+      "id": "onebone-10118589645119-image-52077172949311",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-Coffee-ChrisVZ-LOW_REZ-Lifestyle2.jpg?v=1769395474",
+      "id": "onebone-10118589645119-image-52077172982079",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "c60ae1a444995584878ae605e058676f861d82326e1e878c31b867c467ef3278"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-dark-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-DarkGreen-ChrisCarter-LOW_REZ-MediumShot1.jpg?v=1769395539",
+      "id": "onebone-10118589546815-image-52077173506367",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-dark-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-DarkGreen-ChrisCarter-LOW_REZ-Lifestyle2.jpg?v=1769395539",
+      "id": "onebone-10118589546815-image-52077173473599",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "582b52aee7f0aef33326ddb73b0c426e534bb9cf12316d27361797ce6f0fe6b5"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-dark-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-DarkGreen-ChrisCarter-LOW_REZ-Back1.jpg?v=1769395539",
+      "id": "onebone-10118589546815-image-52077173408063",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-dark-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB152-L_SBulletTee-DarkGreen-ChrisCarter-LOW_REZ-Lifestyle1.jpg?v=1769395539",
+      "id": "onebone-10118589546815-image-52077173440831",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "17cd77d653225a2eb482f31289c1811b710a580d41b602ff9cc2fc0f1b82caf9"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-tee-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-Coffee-ChrisCarter-LOW_REZ-Lifestyle1.jpg?v=1769389484",
+      "id": "onebone-10118588039487-image-52076263702847",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-tee-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-Coffee-ChrisCarter-LOW_REZ-MediumShot1.jpg?v=1769389483",
+      "id": "onebone-10118588039487-image-52076263735615",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "11715e4009c637d03ec4ea58ee23f56aa4f3511c8f126a916a3c0cc20125aec3"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-tee-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-Coffee-ChrisCarter-LOW_REZ-MediumShot2.jpg?v=1769389483",
+      "id": "onebone-10118588039487-image-52076263768383",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/bullet-tee-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-Coffee-ChrisCarter-LOW_REZ-MediumShot3.jpg?v=1769389484",
+      "id": "onebone-10118588039487-image-52076263801151",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "9a8fc10b7f0a78bc27aa743936fb91d8bc098fb212a445885187f04da6628bb1"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Green-ChrisVZ-LOW_REZ-FullBody1.jpg?v=1770065063",
+      "id": "onebone-10118586302783-image-52089654051135",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "42c228b2135100e7300abb8ecc8c38a3d689d67102e8096e69bf0f2a973b4544"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Green-ChrisVZ-LOW_REZ-FullBody2.jpg?v=1770065056",
+      "id": "onebone-10118586302783-image-52089654083903",
+      "galleryIndex": 4,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "c0fc4df4795b30ca23e3e8e751bab48566c6253c3424a04737b6d34ae2341f9a"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Green-ChrisVZ-LOW_REZ-MediumShot1Better.jpg?v=1770065063",
+      "id": "onebone-10118586302783-image-52235346575679",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Green-ChrisVZ-LOW_REZ-MediumShot1.jpg?v=1770065063",
+      "id": "onebone-10118586302783-image-52089654116671",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Green-ChrisVZ-LOW_REZ-Back1.jpg?v=1770065056",
+      "id": "onebone-10118586302783-image-52089653952831",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Green-ChrisVZ-LOW_REZ-Detail2.jpg?v=1770065056",
+      "id": "onebone-10118586302783-image-52089654018367",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-green",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Green-ChrisVZ-LOW_REZ-Detail1.jpg?v=1770065056",
+      "id": "onebone-10118586302783-image-52089653985599",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Black-Dimitri-LOW_RES-MediumShot1Better.jpg?v=1770064936",
+      "id": "onebone-10118585844031-image-52235339170111",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Black-Dimitri-LOW_RES-Detail1.jpg?v=1770064936",
+      "id": "onebone-10118585844031-image-52089567772991",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "d159957e1afba932e18dce4d682822217f6484fe1e460e159c57b096f392fc20"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB269-OutworkPantV2-Black-Dimitri-LOW_RES-MediumShot2.jpg?v=1770064936",
+      "id": "onebone-10118585844031-image-52089567838527",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Coffee-ChrisCarter-LOW_REZ-Lifestyle2.jpg?v=1769452324",
+      "id": "onebone-10118458605887-image-52086897508671",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Coffee-ChrisCarter-LOW_REZ-Back1.jpg?v=1769452324",
+      "id": "onebone-10118458605887-image-52086897410367",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "af5531697ff7c2c8dc019691f3b4b87e7bd4210673e8f9b900670ab20bfb7b7b"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Coffee-ChrisCarter-LOW_REZ-MediumSHot1.jpg?v=1769452324",
+      "id": "onebone-10118458605887-image-52086897574207",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Coffee-ChrisCarter-LOW_REZ-Lifestyle1.jpg?v=1769452324",
+      "id": "onebone-10118458605887-image-52086897475903",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "22ef034169e49bbd64d4f5091f2e80348f1e30b189c9b58a6bcb385f94fb4e31"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Coffee-ChrisCarter-LOW_REZ-Lifestyle3.jpg?v=1769452324",
+      "id": "onebone-10118458605887-image-52086897541439",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-coffee",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Coffee-ChrisCarter-LOW_REZ-Detail1.jpg?v=1769452324",
+      "id": "onebone-10118458605887-image-52086897443135",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Bone-Dimitri-LOW_REZ-MediumShot1.jpg?v=1769451814",
+      "id": "onebone-10118456017215-image-52086777119039",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Bone-Q-LOW_REZ-Lifestyle1.jpg?v=1769451814",
+      "id": "onebone-10118456017215-image-52086777184575",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "c6989f73c563311a0c883627a3e6462c18f2a611486ab98aaf18d0a5f077faad"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Bone-Dimitri-LOW_REZ-Detail1.jpg?v=1769451814",
+      "id": "onebone-10118456017215-image-52086777053503",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Bone-Q-LOW_REZ-MediumShot1.jpg?v=1769451814",
+      "id": "onebone-10118456017215-image-52086777217343",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "a37c6d24d7353f37425432374a25669795b77aad774a1a75014eb54061930b3d"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Bone-Dimitri-LOW_REZ-Lifestyle1.jpg?v=1769451814",
+      "id": "onebone-10118456017215-image-52086777086271",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Bone-Dimitri-LOW_REZ-Back1.jpg?v=1769451814",
+      "id": "onebone-10118456017215-image-52086777020735",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/french-terry-quarter-zip-bone",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB234-FrenchTerryQuarterZip-Bone-Q-LOW_REZ-Detail1.jpg?v=1769451814",
+      "id": "onebone-10118456017215-image-52086777151807",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB261-VarsityJacket-OffField-BlackCharcoal-ChrisCarter-LOW_REZ-Lifestyle1.jpg?v=1769467063",
+      "id": "onebone-10114881945919-image-52089284657471",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/LaneVarsityLifestyle.jpg?v=1769467063",
+      "id": "onebone-10114881945919-image-51402845356351",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "ab0777cd7cc52ec4d1f20e276aa48a326d5ef0db797278ec16ce6fed9052b51f"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB261-VarsityJacket-OffField-BlackCharcoal-ChrisCarter-LOW_REZ-Back1.jpg?v=1769467063",
+      "id": "onebone-10114881945919-image-52089284559167",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/VarsityCreedLifestylePDP.jpg?v=1769467063",
+      "id": "onebone-10114881945919-image-51402845389119",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "4ee830fa989716733d4d92fc9c0cdca0ee550c6d02b3ecef0f073dec45a5ca55"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB261-VarsityJacket-OffField-BlackCharcoal-ChrisCarter-LOW_REZ-Detail2.jpg?v=1769467063",
+      "id": "onebone-10114881945919-image-52089284624703",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB261-VarsityJacket-OffField-BlackCharcoal-ChrisCarter-LOW_REZ-MediumShot1.jpg?v=1769467063",
+      "id": "onebone-10114881945919-image-52089284690239",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/off-field-varsity-jacket-black-charcoal",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB261-VarsityJacket-OffField-BlackCharcoal-ChrisCarter-LOW_REZ-Detail1.jpg?v=1769467063",
+      "id": "onebone-10114881945919-image-52089284591935",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-GreyMix-Bernard-LOW_REZ-MediumShot1.jpg?v=1769201893",
+      "id": "onebone-10111453036863-image-52035863347519",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-GreyMix-Bernard-LOW_REZ-Lifestyle1.jpg?v=1769178371",
+      "id": "onebone-10111453036863-image-52035863281983",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "f0fb22d6a49329c64f2a4a8d37d5686ebb4f1df3d2b69cd55f4beb0210d9ff49"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/scoop-t-shirt-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB102-ScoopTee-GreyMix-Bernard-LOW_REZ-Lifestyle2.jpg?v=1769178371",
+      "id": "onebone-10111453036863-image-52035863314751",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB110-V-NeckTee-GreyMix-Dimitri-WebUse-FullBody1.jpg?v=1776276691",
+      "id": "onebone-10097340154175-image-53012883571007",
+      "galleryIndex": 5,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "40e1351c321402edb07a7383cf3cd5d0af03274e0c01fd5a77df072d07f728cc"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB110-V-NeckTee-GreyMix-Dimitri-WebUse-Detail4.jpg?v=1776276691",
+      "id": "onebone-10097340154175-image-53012883374399",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB110-V-NeckTee-GreyMix-Dimitri-WebUse-Lifestyle1.jpg?v=1776276691",
+      "id": "onebone-10097340154175-image-53012883439935",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "7882ff770ca46d2c4f397598ebabf2a07892879e911acaf63a67e2be0e169830"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB110-V-NeckTee-GreyMix-Dimitri-WebUse-Detail3.jpg?v=1776276691",
+      "id": "onebone-10097340154175-image-53012883145023",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB110-V-NeckTee-GreyMix-Dimitri-WebUse-Back1.jpg?v=1776276691",
+      "id": "onebone-10097340154175-image-53012882948415",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/v-neck-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB110-V-NeckTee-GreyMix-Dimitri-WebUse-Detail2.jpg?v=1776276691",
+      "id": "onebone-10097340154175-image-53012883013951",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB103-SplitHemTee-GreyMix-Nick-WebUse-FullBody.jpg?v=1787161761",
+      "id": "onebone-10101135802687-image-53955641573695",
+      "galleryIndex": 7,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "5eca682f444de1c13f39382ad8d23975fef2c9d8ebeb935f197fe0a9d21fb8b5"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB103-SplitHemTee-GreyMix-Nick-WebUse-MediumShot2.jpg?v=1787161760",
+      "id": "onebone-10101135802687-image-53955641639231",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB103-SplitHemTee-GreyMix-Nick-WebUse-Detail3.jpg?v=1787161761",
+      "id": "onebone-10101135802687-image-53955641475391",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "f0561b790939ce07a3309fb1ffa957bcffd03264dd2e4000d0088b67ada082c0"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB103-SplitHemTee-GreyMix-Dimitri-LOW_REZ-MediumShot2.jpg?v=1769198878",
+      "id": "onebone-10101135802687-image-52039736623423",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB103-SplitHemTee-GreyMix-Nick-WebUse-Detail2.jpg?v=1787161761",
+      "id": "onebone-10101135802687-image-53955641442623",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB103-SplitHemTee-GreyMix-Nick-WebUse-Detail1.jpg?v=1787161761",
+      "id": "onebone-10101135802687-image-53955641409855",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB103-SplitHemTee-GreyMix-Nick-WebUse-Detail5.jpg?v=1787161761",
+      "id": "onebone-10101135802687-image-53955641540927",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB103-SplitHemTee-GreyMix-Nick-WebUse-Back.jpg?v=1787161761",
+      "id": "onebone-10101135802687-image-53955641377087",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/split-hem-cotton-95-5-grey-mix",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB103-SplitHemTee-GreyMix-Dimitri-LOW_REZ-Lifestyle2.jpg?v=1769198878",
+      "id": "onebone-10101135802687-image-52039736557887",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB260-HoneycombSweater-Chalk-ChrisVZ-LOW_REZ-FullBody1.jpg?v=1770064098",
+      "id": "onebone-10097355686207-image-52089245106495",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB260-HoneycombSweater-Chalk-ChrisVZ-LOW_REZ-MidBody.jpg?v=1770064098",
+      "id": "onebone-10097355686207-image-52235111203135",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB260-HoneycombSweater-Chalk-ChrisVZ-LOW_REZ-Detail2.jpg?v=1770064098",
+      "id": "onebone-10097355686207-image-52089245008191",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "b93769f38e4a5c8d93917a5f4f713ee9b92843efc9b5ae7d3f3d8f12da04a3ec"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB260-HoneycombSweater-Chalk-ChrisVZ-LOW_REZ-Detail3.jpg?v=1770064098",
+      "id": "onebone-10097355686207-image-52089245040959",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "c76a2f2b9b2ef5c437b4c93d185c80caf970a1fb1777aaf223fb2daa0202102e"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB260-HoneycombSweater-Chalk-ChrisVZ-LOW_REZ-Detail1.jpg?v=1770064098",
+      "id": "onebone-10097355686207-image-52089244975423",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-chalk",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB260-HoneycombSweater-Chalk-ChrisVZ-LOW_REZ-Detail4.jpg?v=1770064098",
+      "id": "onebone-10097355686207-image-52089245073727",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALUTILITYWRAPSKIRT_BLACK01.jpg?v=1758200695",
+      "id": "wildfang-8242260705461-image-36721499111605",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALUTILITYWRAPSKIRT_BLACK04.jpg?v=1758200673",
+      "id": "wildfang-8242260705461-image-36721499078837",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "c7a43ac8782412d29bcea8575e2cec5106d295f84569e3bf93b4c587c0a1d9c6"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALUTILITYWRAPSKIRT_BLACK07.jpg?v=1758200710",
+      "id": "wildfang-8242260705461-image-36721499340981",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALUTILITYWRAPSKIRT_BLACK05.jpg?v=1758200717",
+      "id": "wildfang-8242260705461-image-36721499439285",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "967903bfa341f7d4fd9298906d8259fe03b7ed343caea784eb6d8025b799042b"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALUTILITYWRAPSKIRT_BLACK06.jpg?v=1758200714",
+      "id": "wildfang-8242260705461-image-36721499275445",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALUTILITYWRAPSKIRT_BLACK08.jpg?v=1758200707",
+      "id": "wildfang-8242260705461-image-36721499209909",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALUTILITYWRAPSKIRT_BLACK09.jpg?v=1758200703",
+      "id": "wildfang-8242260705461-image-36721499177141",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-utility-wrap-skirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALUTILITYWRAPSKIRT_BLACK10.jpg?v=1758200699",
+      "id": "wildfang-8242260705461-image-36721499144373",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialShortSleeveHighWaistedCoverall_BLACK_HERO_1.jpg?v=1759853883",
+      "id": "wildfang-10540675662005-image-35706412040373",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialShortSleeveHighWaistedCoverall_BLACK_3_1_0e01ff71-e6d4-49e6-84fb-f8f895ce39c4.jpg?v=1759853861",
+      "id": "wildfang-10540675662005-image-35706414039221",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "a10b9b8a446b6b3f4b3d4fc945f46879f090e172deecb7e80f19f80d92de5e80"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialShortSleeveHighWaistedCoverall_BLACK_1_1.jpg?v=1759853933",
+      "id": "wildfang-10540675662005-image-35706412499125",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialShortSleeveHighWaistedCoverall_BLACK_2_1.jpg?v=1759853933",
+      "id": "wildfang-10540675662005-image-35706412269749",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "710cb5d840ce377ccd8cbeba53d1479f8aa557912fd0809f6b6e460c961fe227"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialShortSleeveHighWaistedCoverall_BLACK_5_1.jpg?v=1759853933",
+      "id": "wildfang-10540675662005-image-35706412302517",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_HIGH_WAISTED_COVERALL_IN_BLACK_EXTENDED.jpg?v=1759853933",
+      "id": "wildfang-10540675662005-image-73338702069941",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_HIGH_WAISTED_COVERALL_IN_BLACK_EXTENDED_6.jpg?v=1759853933",
+      "id": "wildfang-10540675662005-image-73338702233781",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_HIGH_WAISTED_COVERALL_IN_BLACK_EXTENDED_2.jpg?v=1759853933",
+      "id": "wildfang-10540675662005-image-73338702102709",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_HIGH_WAISTED_COVERALL_IN_BLACK_EXTENDED_3.jpg?v=1759853933",
+      "id": "wildfang-10540675662005-image-73338702201013",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_HIGH_WAISTED_COVERALL_IN_BLACK_EXTENDED_4.jpg?v=1759853933",
+      "id": "wildfang-10540675662005-image-73338702135477",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_HIGH_WAISTED_COVERALL_IN_BLACK_EXTENDED_5.jpg?v=1759853933",
+      "id": "wildfang-10540675662005-image-73338702168245",
+      "galleryIndex": 10,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-4",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_HIGH_WAISTED_COVERALL_IN_BLACK_EXTENDED_7_Large_e9ba4f1e-70af-41f1-8f0f-4261cedfc093.jpg?v=1758053085",
+      "id": "wildfang-10540675662005-image-73338702495925",
+      "galleryIndex": 11,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_4.jpg?v=1788381399",
+      "id": "wildfang-7478759719093-image-35687122305205",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_5.jpg?v=1757974151",
+      "id": "wildfang-7478759719093-image-35687122206901",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "76ec6401b08e1c502b6e2354addbccfc00db4af11e6c6832517e8f68a88b2c04"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_1.jpg?v=1788381430",
+      "id": "wildfang-7478759719093-image-35687122337973",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_HERO.jpg?v=1788381463",
+      "id": "wildfang-7478759719093-image-35687122108597",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "2809bd948cac0acb937022ce21341fc15771492643365cca98dba63ce48683dd"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_6.jpg?v=1788381477",
+      "id": "wildfang-7478759719093-image-35687122043061",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_2.jpg?v=1788381495",
+      "id": "wildfang-7478759719093-image-35687122141365",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_3.jpg?v=1788381510",
+      "id": "wildfang-7478759719093-image-35687122436277",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_7.jpg?v=1757974060",
+      "id": "wildfang-7478759719093-image-35687122501813",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_8.jpg?v=1788381599",
+      "id": "wildfang-7478759719093-image-35687122370741",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_10.jpg?v=1788381623",
+      "id": "wildfang-7478759719093-image-35687122567349",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-gingham-long-sleeve-oversized-convertible-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOversizedConvertibleButtonUp_GINGHAMSTRIPENAVY_11.jpg?v=1788381572",
+      "id": "wildfang-7478759719093-image-35687122272437",
+      "galleryIndex": 10,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK5.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763126120629",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK1.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763125924021",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "10e9a3fa92fa01234aef85e62ed8a998cf87e2a47787c1966cad3d6be11c26aa"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK2.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763125956789",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK3.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763125989557",
+      "galleryIndex": 3,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "d1419021e528f7f94970bafe92897b101f89d86cb7c98db4a6cb4641ef61f6c6"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK6.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763126251701",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK4.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763126153397",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK9.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763126186165",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK8.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763125891253",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK7.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763126022325",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK10.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763126218933",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-double-breasted-blazer-5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK11.jpg?v=1774375313",
+      "id": "wildfang-7478308274357-image-72763126055093",
+      "galleryIndex": 10,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERSLIMCROPPANTSERPENTINEBLACK6_6bf61673-a8fd-4865-b929-75c8510ac3e3.jpg?v=1753192586",
+      "id": "wildfang-7478308536501-image-72763214889141",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERSLIMCROPPANTSERPENTINEBLACK10_d14fbabb-aa0e-4a60-9090-0908fd57a81d.jpg?v=1753193563",
+      "id": "wildfang-7478308536501-image-72763215184053",
+      "galleryIndex": 1,
+      "decision": "selected",
+      "outcome": "downloaded-unique",
+      "sha256": "408df314bb9fcdbb3f51505539dbac30fbc20511132d637f97b5cd4dfd24e7d5"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERDOUBLEBREASTEDBLAZERSERPENTINEBLACK6.jpg?v=1774375313",
+      "id": "wildfang-7478308536501-image-72763126251701",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERSLIMCROPPANTSERPENTINEBLACK8_41550893-854f-49b3-9643-80da9570fdf5.jpg?v=1753193563",
+      "id": "wildfang-7478308536501-image-72763215020213",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERSLIMCROPPANTSERPENTINEBLACK9_d48c83c8-dfe5-41cf-aae1-8b84003e0a2e.jpg?v=1757520565",
+      "id": "wildfang-7478308536501-image-72763215249589",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERSLIMCROPPANTSERPENTINEBLACK1_9bc74f59-c69b-4fd9-9194-24dc58751bf9.jpg?v=1757520565",
+      "id": "wildfang-7478308536501-image-72763214954677",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERSLIMCROPPANTSERPENTINE.jpg?v=1753205127",
+      "id": "wildfang-7478308536501-image-72808944402613",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERSLIMCROPPANTSERPENTINEBLACK4_ed266533-7e94-41c6-b43d-a5ce4ad2cabb.jpg?v=1753205127",
+      "id": "wildfang-7478308536501-image-72763215085749",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-2",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERSLIMCROPPANTSERPENTINEBLACK3_6399720f-12f3-4e4d-a012-6fe17aa5ae33.jpg?v=1757520565",
+      "id": "wildfang-7478308536501-image-72763214921909",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/March_26_pdp9744.jpg?v=1771879263",
+      "id": "wildfang-7440991355061-image-74481165336757",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/March_26_pdp1924.jpg?v=1771622942",
+      "id": "wildfang-7440991355061-image-74481165172917",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/March_26_pdp1841.jpg?v=1771622942",
+      "id": "wildfang-7440991355061-image-74481165107381",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/March_26_pdp1878.jpg?v=1771622942",
+      "id": "wildfang-7440991355061-image-74481165140149",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/March_26_pdp73862.jpg?v=1771623153",
+      "id": "wildfang-7440991355061-image-74481165205685",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/March_26_pdp74741.jpg?v=1771623153",
+      "id": "wildfang-7440991355061-image-74481165303989",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/March_26_pdp74351.jpg?v=1771623144",
+      "id": "wildfang-7440991355061-image-74481165238453",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-empower-wide-leg-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/March_26_pdp74491.jpg?v=1771622942",
+      "id": "wildfang-7440991355061-image-74481165271221",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_SS_BUTTON_UP_IN_BLACK.jpg?v=1760020036",
+      "id": "wildfang-7385040519349-image-73338107068597",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_SS_BUTTON_UP_IN_BLACK_2.jpg?v=1760020036",
+      "id": "wildfang-7385040519349-image-73338106937525",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_SS_BUTTON_UP_IN_BLACK_6.jpg?v=1760020036",
+      "id": "wildfang-7385040519349-image-73338106970293",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_SS_BUTTON_UP_IN_BLACK_3.jpg?v=1758040946",
+      "id": "wildfang-7385040519349-image-73338107592885",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_SS_BUTTON_UP_IN_BLACK_4.jpg?v=1758040946",
+      "id": "wildfang-7385040519349-image-73338107003061",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_SS_BUTTON_UP_IN_BLACK_5.jpg?v=1758040946",
+      "id": "wildfang-7385040519349-image-73338107134133",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_BUTTON_UP_IN_BLACK_EXTENDED.jpg?v=1758040946",
+      "id": "wildfang-7385040519349-image-73338107101365",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_BUTTON_UP_IN_BLACK_EXTENDED_4.jpg?v=1758040946",
+      "id": "wildfang-7385040519349-image-73338107625653",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_BUTTON_UP_IN_BLACK_EXTENDED_2.jpg?v=1758040946",
+      "id": "wildfang-7385040519349-image-73338107166901",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oxford-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OXFORD_BUTTON_UP_IN_BLACK_EXTENDED_3.jpg?v=1758040946",
+      "id": "wildfang-7385040519349-image-73338107035829",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialShortSleeveButtonUpWILDFLOWER__6.jpg?v=1760373241",
+      "id": "wildfang-7328435699893-image-34399162433717",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialShortSleeveButtonUpWILDFLOWER__5.jpg?v=1760373237",
+      "id": "wildfang-7328435699893-image-34399162597557",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialShortSleeveButtonUpWILDFLOWER__7.jpg?v=1760373244",
+      "id": "wildfang-7328435699893-image-34399162368181",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialShortSleeveButtonUpWILDFLOWER__4.jpg?v=1760373234",
+      "id": "wildfang-7328435699893-image-34399162532021",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialShortSleeveButtonUpWILDFLOWER__3_59e30979-07e8-457b-bc68-aa2266363fc9.jpg?v=1760373221",
+      "id": "wildfang-7328435699893-image-34399170166965",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialShortSleeveButtonUpWILDFLOWER__2.jpg?v=1760373229",
+      "id": "wildfang-7328435699893-image-34399162859701",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialShortSleeveButtonUpWILDFLOWER__1.jpg?v=1760373304",
+      "id": "wildfang-7328435699893-image-34399162466485",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-button-up-6",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialShortSleeveButtonUpWILDFLOWER.jpg?v=1760373304",
+      "id": "wildfang-7328435699893-image-34399162138805",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialTrouserMerlot_5.jpg?v=1784561164",
+      "id": "wildfang-10540711313589-image-34387547259061",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialTrouserMerlot_6.jpg?v=1784561189",
+      "id": "wildfang-10540711313589-image-34387623837877",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialTrouserMerlot_8.jpg?v=1758224860",
+      "id": "wildfang-10540711313589-image-34387624951989",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/TheEssentialTrouserMerlot_7.jpg?v=1784561208",
+      "id": "wildfang-10540711313589-image-34387624558773",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERTROUSERS_MERLOT01.jpg?v=1784561249",
+      "id": "wildfang-10540711313589-image-36352883261621",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERTROUSERS_MERLOT02_92df4de2-6142-47f5-8837-9b1fad6602af.jpg?v=1758224895",
+      "id": "wildfang-10540711313589-image-36352884474037",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERTROUSERS_MERLOT03.jpg?v=1784561139",
+      "id": "wildfang-10540711313589-image-36352883327157",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-trouser-3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEEMPOWERTROUSERS_MERLOT04.jpg?v=1784561228",
+      "id": "wildfang-10540711313589-image-36352883294389",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUPINOASISCORE.jpg?v=1760374755",
+      "id": "wildfang-7227352481973-image-73337856917685",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUPINOASISCORE3.jpg?v=1760374763",
+      "id": "wildfang-7227352481973-image-73337856819381",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUPINOASISCORE2.jpg?v=1760374766",
+      "id": "wildfang-7227352481973-image-73337856786613",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUPINOASISCORE5.jpg?v=1760374758",
+      "id": "wildfang-7227352481973-image-73337856884917",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUPINOASISCORE4.jpg?v=1760374760",
+      "id": "wildfang-7227352481973-image-73337856852149",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTON_UP_IN_OASIS_EXTENDED2.jpg?v=1758039556",
+      "id": "wildfang-7227352481973-image-73334034104501",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTON_UP_IN_OASIS_EXTENDED_4.jpg?v=1758039556",
+      "id": "wildfang-7227352481973-image-73334034137269",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTON_UP_IN_OASIS_EXTENDED_5.jpg?v=1758039556",
+      "id": "wildfang-7227352481973-image-73334034071733",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTON_UP_IN_OASIS_EXTENDED.jpg?v=1758039556",
+      "id": "wildfang-7227352481973-image-73334034235573",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-oasis-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTON_UP_IN_OASIS_EXTENDED6.jpg?v=1758039556",
+      "id": "wildfang-7227352481973-image-73334034268341",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_Sleeveless_High_Waisted_Coverall_Navy_Core1.jpg?v=1759977933",
+      "id": "wildfang-10279095042229-image-72885667594421",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_Sleeveless_High_Waisted_Coverall_Navy_Core3.jpg?v=1762276923",
+      "id": "wildfang-10279095042229-image-72885667659957",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_Sleeveless_High_Waisted_Coverall_Navy_Core2.jpg?v=1762276923",
+      "id": "wildfang-10279095042229-image-72885667627189",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_Sleeveless_High_Waisted_Coverall_Navy_Core4.jpg?v=1759977946",
+      "id": "wildfang-10279095042229-image-72885667692725",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_Sleeveless_High_Waisted_Coverall_Navy_Core5.jpg?v=1760373066",
+      "id": "wildfang-10279095042229-image-72885680013493",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_HW_Coverall_Navy_Extended.jpg?v=1759849248",
+      "id": "wildfang-10279095042229-image-73227592466613",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_HW_Coverall_Navy_Extended_2.jpg?v=1759849244",
+      "id": "wildfang-10279095042229-image-73227592433845",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_HW_Coverall_Navy_Extended_4.jpg?v=1759849235",
+      "id": "wildfang-10279095042229-image-73227592302773",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_HW_Coverall_Navy_Extended_7.jpg?v=1759849253",
+      "id": "wildfang-10279095042229-image-73227592597685",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-sleeveless-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/The_Essential_HW_Coverall_Navy_Extended_6.jpg?v=1760392900",
+      "id": "wildfang-10279095042229-image-73227592401077",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialButtonUp_GardenMulit.jpg?v=1759770795",
+      "id": "wildfang-7150227423413-image-72908757467317",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_GARDEN.jpg?v=1759770687",
+      "id": "wildfang-7150227423413-image-73520425304245",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialButtonUp_GardenMulit2.jpg?v=1759770796",
+      "id": "wildfang-7150227423413-image-72908757532853",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialButtonUp_GardenMulti3.jpg?v=1759770802",
+      "id": "wildfang-7150227423413-image-72908757565621",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_GARDEN_MULTI.jpg?v=1760374131",
+      "id": "wildfang-7150227423413-image-73565878354101",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/EssentialButtonUpGardenMulti.jpg?v=1760374131",
+      "id": "wildfang-7150227423413-image-73358231404725",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/EssentialButtonUpGardenMulti4.jpg?v=1760374142",
+      "id": "wildfang-7150227423413-image-73358231503029",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-garden-short-sleeve-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/EssentialButtonUpGardenMulti3.jpg?v=1760374142",
+      "id": "wildfang-7150227423413-image-73358231470261",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTTON_UP_IN_WINK_187eebfa-ee22-4271-bd39-cf927c70cd9d.jpg?v=1758040113",
+      "id": "wildfang-7150226342069-image-73337962627253",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTTON_UP_IN_WINK.jpg?v=1758040113",
+      "id": "wildfang-7150226342069-image-73337949356213",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTTON_UP_IN_WINK_4.jpg?v=1758040113",
+      "id": "wildfang-7150226342069-image-73337962496181",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTTON_UP_IN_WINK_5.jpg?v=1758040113",
+      "id": "wildfang-7150226342069-image-73337962660021",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTTON_UP_IN_WINK_6.jpg?v=1758040113",
+      "id": "wildfang-7150226342069-image-73337962594485",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTTON_UP_IN_WINK_8.jpg?v=1758040113",
+      "id": "wildfang-7150226342069-image-73337962528949",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTTON_UP_IN_WINK_7.jpg?v=1758040113",
+      "id": "wildfang-7150226342069-image-73337962692789",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-wink-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_BUTTTON_UP_IN_WINK9.jpg?v=1758040113",
+      "id": "wildfang-7150226342069-image-73337962463413",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveHighWaistedCoverall_BLACK_3.jpg?v=1760020392",
+      "id": "wildfang-7159788110005-image-35687648690357",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveHighWaistedCoverall_BLACK_6.jpg?v=1758199430",
+      "id": "wildfang-7159788110005-image-35687648657589",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveHighWaistedCoverall_BLACK_5.jpg?v=1760020413",
+      "id": "wildfang-7159788110005-image-35687648526517",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveHighWaistedCoverall_BLACK_4.jpg?v=1758199446",
+      "id": "wildfang-7159788110005-image-35687648493749",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveHighWaistedCoverall_BLACK_7.jpg?v=1758199433",
+      "id": "wildfang-7159788110005-image-35687648428213",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALLSHIGHWAISTEDCOVERALLINBLACKEXTENDED.jpg?v=1758053608",
+      "id": "wildfang-7159788110005-image-73338830880949",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALLSHIGHWAISTEDCOVERALLINBLACKEXTENDED1.jpg?v=1758053608",
+      "id": "wildfang-7159788110005-image-73338830717109",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALLSHIGHWAISTEDCOVERALLINBLACKEXTENDED2.jpg?v=1758053608",
+      "id": "wildfang-7159788110005-image-73338830749877",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALLSHIGHWAISTEDCOVERALLINBLACKEXTENDED4.jpg?v=1758053608",
+      "id": "wildfang-7159788110005-image-73338830815413",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-high-waisted-coverall-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALLSHIGHWAISTEDCOVERALLINBLACKEXTENDED3.jpg?v=1758053608",
+      "id": "wildfang-7159788110005-image-73338830782645",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OVERALL_PAINT_STROKE_WHITE_6.jpg?v=1776781466",
+      "id": "wildfang-10404694982837-image-75012166123701",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OVERALL_PAINT_STROKE_WHITE_7.jpg?v=1776873142",
+      "id": "wildfang-10404694982837-image-75012165927093",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OVERALL_PAINT_STROKE_WHITE_8.jpg?v=1777038485",
+      "id": "wildfang-10404694982837-image-75012166287541",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OVERALL_PAINT_STROKE_WHITE_5.jpg?v=1776873012",
+      "id": "wildfang-10404694982837-image-75012166156469",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OVERALL_PAINT_STROKE_WHITE_1.jpg?v=1776781466",
+      "id": "wildfang-10404694982837-image-75012166090933",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OVERALL_PAINT_STROKE_WHITE_2.jpg?v=1776781466",
+      "id": "wildfang-10404694982837-image-75012166254773",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OVERALL_PAINT_STROKE_WHITE_3.jpg?v=1776781466",
+      "id": "wildfang-10404694982837-image-75012165894325",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-overall-12",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_OVERALL_PAINT_STROKE_WHITE_4.jpg?v=1777475758",
+      "id": "wildfang-10404694982837-image-75012166222005",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/1_8.18.21_LEAF_ESSENTIAL_BU_39e75ae8-d03b-4a12-97f4-832d1fe2ab47.jpg?v=1759771158",
+      "id": "wildfang-6885794349237-image-31168818020533",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/5_8.18.21_LEAF_ESSENTIAL_BU.jpg?v=1753909931",
+      "id": "wildfang-6885794349237-image-31137970978997",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/3_8.18.21_LEAF_ESSENTIAL_BU.jpg?v=1759771178",
+      "id": "wildfang-6885794349237-image-31137970716853",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/products/4_8.18.21_LEAF_ESSENTIAL_BU.jpg?v=1759770915",
+      "id": "wildfang-6885794349237-image-31137971339445",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_LEAF_NAVY06_64e45afa-8dbb-47d8-b297-fc1cfe96c7a0.jpg?v=1759770933",
+      "id": "wildfang-6885794349237-image-36575859802293",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_LEAF_NAVY01.jpg?v=1753910257",
+      "id": "wildfang-6885794349237-image-36575853281461",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_LEAF_NAVY04.jpg?v=1759770955",
+      "id": "wildfang-6885794349237-image-36575853248693",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_LEAF_NAVY05.jpg?v=1759770958",
+      "id": "wildfang-6885794349237-image-36575853183157",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_LEAF_NAVY02.jpg?v=1753910143",
+      "id": "wildfang-6885794349237-image-36575853346997",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-leaf-ss-button-up",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALBUTTONUP_LEAF_NAVY07.jpg?v=1759770938",
+      "id": "wildfang-6885794349237-image-36575856132277",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/Wild_Feminist_Fleece_Crew_5-min.jpg?v=1737507642",
+      "id": "wildfang-10404705632437-image-39468668616885",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/Wild_Feminist_Fleece_Crew_1-min.jpg?v=1774966126",
+      "id": "wildfang-10404705632437-image-39468668649653",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/WildFeministFleeceCrew_3-min.jpg?v=1774966592",
+      "id": "wildfang-10404705632437-image-39471890628789",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/WildFeministFleeceCrew_4-min.jpg?v=1774966592",
+      "id": "wildfang-10404705632437-image-39471890596021",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/Wild_Feminist_Fleece_Crew_7-min.jpg?v=1774966592",
+      "id": "wildfang-10404705632437-image-39468668682421",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/Wild_Feminist_Fleece_Crew_9-min.jpg?v=1774966592",
+      "id": "wildfang-10404705632437-image-39468668518581",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/Wild_Feminist_Fleece_Crew_8-min.jpg?v=1774966592",
+      "id": "wildfang-10404705632437-image-39468668485813",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-wild-feminist-crew-neck-sweatshirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/Wild_Feminist_Fleece_Crew_6-min.jpg?v=1774966592",
+      "id": "wildfang-10404705632437-image-39468668584117",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/ESSENTIALTROUSER_BLACK.jpg?v=1758223547",
+      "id": "wildfang-5706496082083-image-38876935225525",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/ESSENTIALTROUSER_BLACK3_de37383a-f4e4-46d5-a91c-9669d7deeb03.jpg?v=1758223538",
+      "id": "wildfang-5706496082083-image-38889217818805",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/ESSENTIALTROUSER_BLACK2.jpg?v=1758223566",
+      "id": "wildfang-5706496082083-image-38876935127221",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/ESSENTIALTROUSER_BLACK4.jpg?v=1758223562",
+      "id": "wildfang-5706496082083-image-38876935258293",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/ESSENTIALTROUSER_BLACK5.jpg?v=1758223558",
+      "id": "wildfang-5706496082083-image-38876935159989",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/ESSENTIALTROUSER_BLACK6.jpg?v=1758223552",
+      "id": "wildfang-5706496082083-image-38876935192757",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_TROUSER_IN_BLACK_EXTENDED.jpg?v=1759854053",
+      "id": "wildfang-5706496082083-image-73227602985141",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_TROUSER_IN_BLACK_EXTENDED_3.jpg?v=1759854064",
+      "id": "wildfang-5706496082083-image-73227603148981",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_TROUSER_IN_BLACK_EXTENDED_2.jpg?v=1759854058",
+      "id": "wildfang-5706496082083-image-73227603050677",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/ace-trouser-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_TROUSER_IN_BLACK_EXTENDED_4.jpg?v=1761574767",
+      "id": "wildfang-5706496082083-image-73227603116213",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THEESSENTIALLONGSLEEVEOXFORDBUTTONUP_WHITE_CORE.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73652849049781",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOxfordButtonUp.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73439380111541",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOxfordButtonUp5.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73439380046005",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOxfordButtonUp3.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73439379980469",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOxfordButtonUp4.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73439380013237",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/TheEssentialLongSleeveOxfordButtonUp6.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73439380078773",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LS_OXFORD_BUTTON_UP_IN_WHITE_2.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73334020800693",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LS_OXFORD_BUTTON_UP_IN_WHITE_3.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73334020866229",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LS_OXFORD_BUTTON_UP_IN_WHITE_4.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73334020833461",
+      "galleryIndex": 8,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-ls-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LS_OXFORD_BUTTON_UP_IN_WHITE_5.jpg?v=1761575415",
+      "id": "wildfang-6325649211573-image-73334027976885",
+      "galleryIndex": 9,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LONG_SLEEVE_OXFORD_BUTTON_UP_BLACK_1.jpg?v=1779293187",
+      "id": "wildfang-10279095664821-image-75440416850101",
+      "galleryIndex": 0,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LONG_SLEEVE_OXFORD_BUTTON_UP_BLACK_5.jpg?v=1779293187",
+      "id": "wildfang-10279095664821-image-75440416882869",
+      "galleryIndex": 1,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LONG_SLEEVE_OXFORD_BUTTON_UP_BLACK_3.jpg?v=1779380123",
+      "id": "wildfang-10279095664821-image-75440416751797",
+      "galleryIndex": 2,
+      "decision": "previously-sampled"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LONG_SLEEVE_OXFORD_BUTTON_UP_BLACK_4.jpg?v=1779380098",
+      "id": "wildfang-10279095664821-image-75440416784565",
+      "galleryIndex": 3,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LS_OXFORD_BUTTON_UP_IN_BLACK_1.jpg?v=1762277216",
+      "id": "wildfang-10279095664821-image-73332562755765",
+      "galleryIndex": 4,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LS_OXFORD_BUTTON_UP_IN_BLACK_3.jpg?v=1762277216",
+      "id": "wildfang-10279095664821-image-73332562919605",
+      "galleryIndex": 5,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LS_OXFORD_BUTTON_UP_IN_BLACK.jpg?v=1762277216",
+      "id": "wildfang-10279095664821-image-73332562952373",
+      "galleryIndex": 6,
+      "decision": "eligible-deferred"
+    },
+    {
+      "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-button-up-1",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0417/7870/8643/files/THE_ESSENTIAL_LS_OXFORD_BUTTON_UP_IN_BLACK_4.jpg?v=1762277216",
+      "id": "wildfang-10279095664821-image-73332562886837",
+      "galleryIndex": 7,
+      "decision": "eligible-deferred"
+    }
+  ]
+}
