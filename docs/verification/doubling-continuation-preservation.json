@@ -1,47 +1,15 @@
 {
-  "baselineCommit": "42aed1d",
+  "baselineCommit": "a2316ec",
   "preservedPrefixes": {
-    "scripts/reviewed-photos.json": 6740,
-    "scripts/reviewed-assets.json": 6740,
-    "data/catalog-review/admitted-body.json": 6740
+    "scripts/reviewed-photos.json": 6771,
+    "scripts/reviewed-assets.json": 6771,
+    "data/catalog-review/admitted-body.json": 6771
   },
-  "preservedPresentationRows": 7125,
-  "trainingPartition": [
-    720,
-    120,
-    48,
-    48,
-    48,
-    48,
-    24,
-    3744
-  ],
-  "pendingExcluded": true,
-  "batches": [
-    {
-      "batch": "2026-09-17T2200-training",
-      "reviewed": 24,
-      "admitted": 19,
-      "build": 17,
-      "complete": 0,
-      "presentationEvidence": {
-        "D": 13,
-        "U": 4,
-        "F": 2
-      }
-    },
-    {
-      "batch": "2026-09-17T2210-targeted",
-      "reviewed": 49,
-      "admitted": 12,
-      "build": 10,
-      "complete": 0,
-      "presentationEvidence": {
-        "U": 9,
-        "C": 3
-      }
-    }
-  ],
-  "totalPhotos": 7156,
-  "remainingToTarget": 3056
+  "preservedPresentationRows": 7156,
+  "trainingPending": 3744,
+  "trainingPendingUnchanged": true,
+  "reviewed": 32,
+  "admitted": 12,
+  "buildAdditions": 11,
+  "completeAdditions": 1
 }

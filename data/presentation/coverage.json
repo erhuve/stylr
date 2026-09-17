@@ -1,8 +1,8 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7156,
-  "reviewedPhotos": 7156,
+  "catalogPhotos": 7168,
+  "reviewedPhotos": 7168,
   "unreviewedPhotos": 0,
   "categories": [
     {
@@ -30,23 +30,23 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4021,
+      "photos": 4026,
       "percent": 56.2,
-      "sourcePages": 3581,
+      "sourcePages": 3584,
       "sourceHosts": 28,
-      "completeReferences": 147,
+      "completeReferences": 148,
       "byBuild": {
         "1": 27,
-        "2": 388,
-        "3": 238,
+        "2": 389,
+        "3": 239,
         "unknown": 573,
         "1.5": 2525,
-        "2.5": 270
+        "2.5": 273
       },
       "completeByBuild": {
         "1": 7,
         "2": 24,
-        "3": 19,
+        "3": 20,
         "1.5": 67,
         "2.5": 30
       }
@@ -70,18 +70,18 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1772,
+      "photos": 1779,
       "percent": 24.8,
-      "sourcePages": 1650,
-      "sourceHosts": 45,
+      "sourcePages": 1656,
+      "sourceHosts": 46,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
-        "2": 151,
+        "2": 152,
         "3": 207,
-        "1.5": 794,
-        "unknown": 510,
-        "2.5": 103
+        "1.5": 797,
+        "unknown": 511,
+        "2.5": 105
       },
       "completeByBuild": {
         "1": 2,
@@ -2235,21 +2235,21 @@
         },
         {
           "presentation": "feminine",
-          "photos": 220,
-          "percent": 74.8,
-          "sourcePages": 151,
+          "photos": 225,
+          "percent": 74.3,
+          "sourcePages": 154,
           "sourceHosts": 1,
-          "completeReferences": 16,
+          "completeReferences": 17,
           "byBuild": {
-            "2": 45,
-            "3": 55,
-            "2.5": 94,
+            "2": 46,
+            "3": 56,
+            "2.5": 97,
             "1.5": 24,
             "unknown": 2
           },
           "completeByBuild": {
             "2": 2,
-            "3": 8,
+            "3": 9,
             "2.5": 6
           }
         },
@@ -2265,17 +2265,17 @@
         },
         {
           "presentation": "unclear",
-          "photos": 73,
-          "percent": 24.8,
-          "sourcePages": 60,
+          "photos": 77,
+          "percent": 25.4,
+          "sourcePages": 63,
           "sourceHosts": 1,
           "completeReferences": 2,
           "byBuild": {
-            "2": 14,
+            "2": 15,
             "3": 25,
             "1.5": 10,
-            "2.5": 21,
-            "unknown": 3
+            "2.5": 23,
+            "unknown": 4
           },
           "completeByBuild": {
             "2.5": 2
@@ -3403,6 +3403,63 @@
             "3": 3,
             "1.5": 6
           }
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "woolandprince.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 3,
+          "percent": 100,
+          "sourcePages": 3,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 3
+          },
+          "completeByBuild": {}
         },
         {
           "presentation": "unreviewed",

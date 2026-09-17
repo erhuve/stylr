@@ -1,0 +1,30 @@
+{
+  "retrievedAt": "2026-09-17T21:32:37.446525+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "cuts",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://www.cutsclothing.com/products.json?limit=250&page=1",
+          "error": "404 Client Error: Not Found for url: https://www.cutsclothing.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "bylt",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://byltbasics.com/products.json?limit=250&page=1",
+          "error": "404 Client Error: Not Found for url: https://byltbasics.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    }
+  ]
+}

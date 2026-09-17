@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7156/7156; unreviewed: 0.
+Reviewed: 7168/7168; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | masculine | 1195 | 16.7% | 1130 | 39 | 44 |
-| feminine | 4021 | 56.2% | 3581 | 28 | 147 |
+| feminine | 4026 | 56.2% | 3584 | 28 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1772 | 24.8% | 1650 | 45 | 97 |
+| unclear | 1779 | 24.8% | 1656 | 46 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -21,9 +21,9 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
 | masculine | {"1":3,"2":138,"3":65,"unknown":363,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":388,"3":238,"unknown":573,"1.5":2525,"2.5":270} | {"1":7,"2":24,"3":19,"1.5":67,"2.5":30} |
+| feminine | {"1":27,"2":389,"3":239,"unknown":573,"1.5":2525,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":151,"3":207,"1.5":794,"unknown":510,"2.5":103} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":152,"3":207,"1.5":797,"unknown":511,"2.5":105} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -61,7 +61,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | punkrave.ch | 13 | 35 | 5 | 7 | 0 |
 | shinybynature.com | 0 | 77 | 0 | 31 | 0 |
 | shopmyviolet.com | 0 | 137 | 0 | 7 | 0 |
-| snagtights.com | 1 | 220 | 0 | 73 | 0 |
+| snagtights.com | 1 | 225 | 0 | 77 | 0 |
 | stateandliberty.com | 26 | 0 | 0 | 2 | 0 |
 | strongsize.com | 4 | 0 | 0 | 9 | 0 |
 | superfithero.com | 0 | 6 | 0 | 32 | 0 |
@@ -79,6 +79,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | unsplash.com | 2 | 0 | 0 | 0 | 0 |
 | wear.jp | 269 | 57 | 11 | 255 | 0 |
 | wildfang.com | 102 | 9 | 3 | 65 | 0 |
+| woolandprince.com | 0 | 0 | 0 | 3 | 0 |
 
 Source-page counts can overlap between categories. Repeated models, shoots and gallery poses are not independent people. Counts establish image coverage only.
 

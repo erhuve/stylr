@@ -1,0 +1,33 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	detail	?	?	?	U	Brown button shirt shown without a person; product-only image excluded.
+1	back	?	?	?	U	Brown shirt and jeans viewed from behind; excluded.
+2	detail	?	?	?	U	Blue button shirt shown without a person; product-only image excluded.
+3	back	?	?	?	U	Blue collared shirt and dark jeans viewed from behind; excluded.
+4	detail	?	?	?	U	Blue tee shown without a person; excluded.
+5	full	1.5	1	?	U	Blue crew tee with straight dark jeans and white sneakers; enlarged view supports wider shoulders, but loose tee hides waist indentation.
+6	detail	?	?	?	U	Lilac tee shown without a person; excluded.
+7	back	?	?	?	U	Lilac tee rear view with hands behind back; excluded.
+8	detail	?	?	?	U	Black zip hoodie shown without a person; excluded.
+9	partial	1.5	?	?	U	Black zip hoodie over white tee with gray trousers; hand in pocket and thick hem obscure waist and hips.
+10	detail	?	?	?	U	Tan long-sleeve crewneck shown without a person; excluded.
+11	partial	1.5	1	?	U	Tan crewneck and black trousers; enlarged view supports wider shoulders but straight draped torso does not establish waist indentation.
+12	detail	?	?	?	U	Black long-sleeve crewneck shown without a person; excluded.
+13	back	?	?	?	U	Black long-sleeve top and gray shorts from behind; excluded.
+14	detail	?	?	?	U	Gray long-sleeve crewneck shown without a person; excluded.
+15	reject	?	?	?	U	Gray crewneck and jeans repeat the preceding basic long-sleeve ensemble as a colorway; excluded.
+16	seated	?	?	?	U	Cream loose knit separates while reclining with raised arms; pose prevents body-axis judgment.
+17	full	2.5	?	?	U	Cream loose knit top and wide trousers with pink crossbody bag; knit blousing hides waist and hip boundaries.
+18	reject	?	?	?	U	Another cream knit separates view repeats the preceding outfit; excluded.
+19	reject	?	?	?	U	Cream knit seated crossed-leg view repeats ordinal 16; excluded.
+20	partial	2.5	?	?	U	Burgundy relaxed knit top and trousers; raised arm and long hem hide contours.
+21	reject	?	?	?	U	Another burgundy knit trouser ensemble repeats ordinal 20; excluded.
+22	full	2.5	?	?	F	Purple lightning oversized knit with fishnets and platform boots; raised arm and loose hem obscure body axes.
+23	reject	?	?	?	F	Purple lightning knit with fishnets and boots repeats ordinal 22; excluded.
+24	full	2.5	?	?	F	Orange long coat over pink knit and blue fitted leggings with sneakers; coat hides shoulders and waist boundaries.
+25	full	2	?	?	F	Plaid cropped jacket over pink top with blue leggings and heels; arms and handbag obscure torso contours.
+26	back	?	?	?	D	Black top and gray plaid skirt shown from rear three-quarter angle; excluded.
+27	back	?	?	?	D	Sheer black top and gray plaid skirt viewed from behind; excluded.
+28	full	2.5	?	?	D	Burgundy crop with black mesh sleeves, flared plaid skirt, fishnets and boots; enlarged view confirms skirt and pocketed hands hide hip contour.
+29	full	3	-1	1	F	Burgundy crop and mesh sleeves with fitted black shorts and white sneakers; enlarged front view supports fuller build, hips wider than shoulders and moderate waist indentation.
+30	partial	2	?	?	U	Black tee and pale jeans with black handbag; loose hem and hands obscure waist and hips.
+31	reject	?	?	?	U	Black tee and pale jeans repeat ordinal 30 in another pose; excluded.

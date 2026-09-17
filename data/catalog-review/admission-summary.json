@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9758,
-  "admittedPhotos": 6771,
-  "totalPhotos": 7156,
+  "reviewedCandidates": 9790,
+  "admittedPhotos": 6783,
+  "totalPhotos": 7168,
   "axisSupport": {
-    "build": 5502,
-    "shoulderHip": 307,
-    "waist": 598
+    "build": 5513,
+    "shoulderHip": 310,
+    "waist": 599
   },
-  "completeReferences": 248,
-  "sourcePages": 6218,
+  "completeReferences": 249,
+  "sourcePages": 6227,
   "excludedReasons": {
-    "non-outfit-view": 2929,
+    "non-outfit-view": 2949,
     "existing-source-page": 58
   },
   "excluded": [
@@ -11960,6 +11960,86 @@
     },
     {
       "id": "onebone-10097350869311-image-52075980226879",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8556013289560-image-45764512677976",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8556013289560-image-45764512546904",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8556012929112-image-45764505567320",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8556012929112-image-45764505534552",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8222095048792-image-43721456943192",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8415338758232-image-38686911103064",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8415338758232-image-38686911070296",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8472017371224-image-45615253553240",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8556013191256-image-45570853896280",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8556013125720-image-45570852913240",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8556013125720-image-45570852782168",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8556012798040-image-45570811789400",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "woolandprince-8556012798040-image-45570811723864",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7484987179050-image-33050140409898",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7484987179050-image-33050140377130",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7484987146282-image-34884489510954",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7471237824554-image-32891943649322",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7700080394282-image-34938800734250",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7700080394282-image-34938800668714",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7660894421034-image-36257050918954",
       "reason": "non-outfit-view"
     }
   ]
