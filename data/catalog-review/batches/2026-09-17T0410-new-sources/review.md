@@ -1,0 +1,11 @@
+# Additional publishers and activewear galleries
+
+2026-09-17. Directly inspected 57 candidates on five numbered, hash-bound sheets. The final 12 admissions include six masculine-styled and six neutral/unclear outfits. All 12 support apparent build; three support all axes, including one masculine-styled shirt ensemble and two neutral activewear ensembles.
+
+The first 48 candidates came from eight unseen product pages each at Tapered Menswear, American Tall and Superfit Hero. Tapered Menswear and American Tall are new catalog publishers. The bounded first listing contained 71, 250 and 77 products respectively; no request failed. The two masculine-targeted searches supplied 32 of the initial 48 candidates. Many images repeated the same styling in new colorways or side/rear poses; those remain excluded. Retailer measurements and range descriptions did not supply body labels or presentation judgments.
+
+Superfit Hero's initial images frequently omitted shoulders. Nine additional gallery images were downloaded from the same eight products using index 1 and one index 4 front-view candidate. `gallery-searches.json` records every gallery position and selection/download outcome. These append to the original 48 records without rebinding their ordinals or hashes; the external `initial-intake.json` preserves that original selection. `sources.json` describes the initial collection, while `gallery-searches.json` describes the supplementary pass. Filenames selected candidates for inspection, never labels.
+
+The gallery pass yielded three further usable views, including one complete reference. Raised arms, tilted torsos, repeated activewear colorways and obscured contours remained excluded or unknown. Enlarged rechecks at ordinals 4, 37 and 51 retained two observations and corrected ordinal 37's waist from moderate to little indentation. The straight-waist reference improves a different filter setting from the moderate-waist benchmark.
+
+Original images, raw listings and sheets remain in `/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0410-new-sources`. The existing archive backlog remains untouched. See `docs/verification/fitted-sourcing-continuation.md` for combined validation and deployment status.

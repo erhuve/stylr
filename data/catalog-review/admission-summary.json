@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 6649,
-  "admittedPhotos": 4674,
-  "totalPhotos": 5059,
+  "reviewedCandidates": 6795,
+  "admittedPhotos": 4721,
+  "totalPhotos": 5106,
   "axisSupport": {
-    "build": 3561,
-    "shoulderHip": 263,
-    "waist": 478
+    "build": 3608,
+    "shoulderHip": 272,
+    "waist": 489
   },
-  "completeReferences": 213,
-  "sourcePages": 4147,
+  "completeReferences": 219,
+  "sourcePages": 4190,
   "excludedReasons": {
-    "non-outfit-view": 1917,
+    "non-outfit-view": 2016,
     "existing-source-page": 58
   },
   "excluded": [
@@ -7912,6 +7912,402 @@
     },
     {
       "id": "fashionpedia-expansion-18299",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10219485987135-image-52124171567423",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10224280273215-image-52159615271231",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9692767748415-image-53012915519807",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9692767748415-image-53012915454271",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10173571957055-image-52076308005183",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9860721377599-image-52085608448319",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9194404282687-image-52076291850559",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9414059786559-image-52086181691711",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9429459108159-image-52232925348159",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-9429459108159-image-52086185263423",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10158959493439-image-53190548881727",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onebone-10158895464767-image-52076403589439",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10130709840170-image-53190922109226",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10130709840170-image-53190922076458",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10130726355242-image-53193552724266",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10130726355242-image-53193552691498",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10130731598122-image-53194413015338",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10130731598122-image-53194412982570",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-9928544354602-image-50410239721770",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10104608227626-image-52819911541034",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10104608227626-image-52819911508266",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10103360749866-image-52806634668330",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10103360749866-image-52806634635562",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10103363174698-image-52806858866986",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10103363174698-image-52806858834218",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10101915451690-image-52796299149610",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10101862924586-image-52786003214634",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10101871575338-image-52793669878058",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10101871575338-image-52793669845290",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10101891858730-image-52795973173546",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10095851995434-image-52749360857386",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15706952499281-image-69456169271377",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15732051804241-image-69456170025041",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15890673434705-image-69462974562385",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15706956333137-image-69439256461393",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15662690795601-image-69439226740817",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15706956103761-image-69439238176849",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15706956267601-image-69439246565457",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15706956267601-image-69439246630993",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15662689157201-image-69439211700305",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-4725786083409-image-30077770465361",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-4725786083409-image-31578147061841",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-7703350083665-image-69421178060881",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7719837663274-image-35119669018666",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7719837663274-image-35119669215274",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7484987211818-image-33050139590698",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7484987113514-image-33050139394090",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7705214976042-image-34970855866410",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7543249535018-image-33478934659114",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7543248879658-image-33478927056938",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7543248617514-image-33478920765482",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7543248584746-image-33478920994858",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7543248551978-image-34893170671658",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7543248519210-image-33478921584682",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15442419581306-image-22632566653113",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15442419351930-image-39005618405618",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15442419351930-image-39005642588402",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441159782778-image-29309747724473",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441157390714-image-29309764042937",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441157390714-image-29309764468921",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441151623546-image-14268209954900",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441151623546-image-14268209922132",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441145627002-image-29493041168569",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441176887674-image-14233798672468",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441176887674-image-14233798639700",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441175740794-image-14233795133524",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441175740794-image-22632484044985",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15669062828113-image-69405926195281",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15669062828113-image-69405926326353",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933093969-image-69417976692817",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933126737-image-69417983279185",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933192273-image-69417980854353",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933192273-image-69417980985425",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933257809-image-69417982296145",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651933257809-image-69417982427217",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15664955883601-image-69631777603665",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15664955949137-image-69418094461009",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15664955949137-image-69418094362705",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651932930129-image-69418319085649",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americantall-15651932930129-image-69418318102609",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8725497610452-image-42624782926036",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8725497610452-image-42624784957652",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8725494071508-image-42625312620756",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8725494071508-image-42625312686292",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8725491908820-image-42625061519572",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8591611855060-image-41671597129940",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8591595176148-image-41671529529556",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8591595176148-image-41671529464020",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8579384017108-image-43210092085460",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8591609626836-image-41671647527124",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8591609626836-image-41671647592660",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8591622504660-image-41670769803476",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8591622504660-image-41670769934548",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8725497610452-image-42624782991572",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8725494071508-image-42625312719060",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8725491908820-image-42625061290196",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8591611855060-image-41671597162708",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8579384017108-image-43210092150996",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "superfithero-8591609626836-image-41671647559892",
       "reason": "non-outfit-view"
     }
   ]

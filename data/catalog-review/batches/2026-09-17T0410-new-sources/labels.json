@@ -1,0 +1,914 @@
+[
+  {
+    "id": "taperedmenswear-15442419581306-image-39005738238194",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/navy-denim-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15442419581306-image-39005738238194.webp",
+    "sha256": "fa977f1db48d07d1a2d55af6eec4363d362cf55af5a320a186c2fbf04c183c54",
+    "ordinal": 0,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": 1.0,
+      "waist": null
+    },
+    "evidence": "Dark fitted button shirt and dark jeans; broad shoulders, but untucked hem obscures waist contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15442419581306-image-22632566653113",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/navy-denim-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15442419581306-image-22632566653113.webp",
+    "sha256": "0d822187f0ebede887902c9a87ae51c7baba929748c6801aaff1751c8abe8001",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of dark shirt ensemble; printed measurements are not labeling evidence.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15442419351930-image-39005618405618",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/light-wash-denim-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15442419351930-image-39005618405618.webp",
+    "sha256": "fbf9a5e0dd71b9f9f140b351e571ce6e61b170460bb3636c19a6d3d636501ed5",
+    "ordinal": 2,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated untucked shirt and dark jeans styling in a pale colorway.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15442419351930-image-39005642588402",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/light-wash-denim-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15442419351930-image-39005642588402.webp",
+    "sha256": "065f88b4add9f1a38fcf1a12755c8e7c0074a471db1fdeaf0f9d43df82a03f47",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of pale shirt ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441159782778-image-29309753622713",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/light-blue-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441159782778-image-29309753622713.webp",
+    "sha256": "36cc63b251b1139fbe210474d9231f7e92f0c0b6decc91303a32aec74d888b10",
+    "ordinal": 4,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": 1.0,
+      "waist": 1.0
+    },
+    "evidence": "Pale blue tucked fitted shirt with black tailored trousers; broad shoulders and moderate waist taper visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441159782778-image-29309747724473",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/light-blue-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441159782778-image-29309747724473.webp",
+    "sha256": "87fc9b0121bc7342438345a6f98394e2c19b69d29965d8263f83d9357c5bc01b",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Same blue shirt and trouser ensemble with added tie repeats retained view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441157390714-image-29309764042937",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/pink-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441157390714-image-29309764042937.webp",
+    "sha256": "fb4ff7acb26c6f951c249fe37df04a43defd6dbb3055c913dae91ad9ed2419c3",
+    "ordinal": 6,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated tucked shirt and black trousers styling in pink.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441157390714-image-29309764468921",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/pink-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441157390714-image-29309764468921.webp",
+    "sha256": "7df5ed7d8d683f1210fe429f11167ae2864c42756e9d86c86e1ee4abd99c1d0d",
+    "ordinal": 7,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of pink shirt ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441151623546-image-14268209954900",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/burgundy-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441151623546-image-14268209954900.webp",
+    "sha256": "e3a92fbcd7de203840f92d5ca0a0baacb33fd8c1f76958e434ab936fa50efc63",
+    "ordinal": 8,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated tucked shirt and black trousers styling in burgundy.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441151623546-image-14268209922132",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/burgundy-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441151623546-image-14268209922132.webp",
+    "sha256": "8a02a1401e9753664d0db0f315d85a2a5d2cc8db66d989d904dea7aa4bfdf54d",
+    "ordinal": 9,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear shirt view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441145627002-image-29493041660089",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/navy-short-sleeve-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441145627002-image-29493041660089.webp",
+    "sha256": "e8223746b54486092f05aad25fe08b4bcd6b2dee0346c7f0b77805d7c7f77332",
+    "ordinal": 10,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": 1.0,
+      "waist": null
+    },
+    "evidence": "Navy short-sleeve collared shirt and jeans; broad shoulders but long curved hem conceals waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441145627002-image-29493041168569",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/navy-short-sleeve-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441145627002-image-29493041168569.webp",
+    "sha256": "aaf5f83f880c60028b868b7253eceec9437d8ceff15217c3eca58e3c81bad499",
+    "ordinal": 11,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of navy short-sleeve ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441176887674-image-14233798672468",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/white-short-sleeve-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441176887674-image-14233798672468.webp",
+    "sha256": "711cdacbf42685d8230c54c7a7b89c400a0d1fb693211adafd8ecccac73edb28",
+    "ordinal": 12,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated short-sleeve shirt and jeans styling in white.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441176887674-image-14233798639700",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/white-short-sleeve-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441176887674-image-14233798639700.webp",
+    "sha256": "a6419e64160abb33537d19383f9eb68d7198e20d0cc2a9ea059f5411945a664c",
+    "ordinal": 13,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear short-sleeve shirt view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441175740794-image-14233795133524",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/blue-short-sleeve-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441175740794-image-14233795133524.webp",
+    "sha256": "57a689667eb51143e37a509866f28618b7c5370f9e98c1bfc43975c46d6672d6",
+    "ordinal": 14,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated short-sleeve shirt and jeans styling in pale blue.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "taperedmenswear-15441175740794-image-22632484044985",
+    "source": "taperedmenswear",
+    "sourceUrl": "https://taperedmenswear.com/products/blue-short-sleeve-tapered-fit-bodybuilder-shirt",
+    "localPath": "images/taperedmenswear-15441175740794-image-22632484044985.webp",
+    "sha256": "ec2baf106d91308f32d31163c2ad663b5c75201807caa9670b8e9ef0ea0062db",
+    "ordinal": 15,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of pale short-sleeve shirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15669062828113-image-69405926195281",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/pull-on-breezy-wide-leg-pant-in-aubergine",
+    "localPath": "images/americantall-15669062828113-image-69405926195281.webp",
+    "sha256": "43d8bf200d528b4eab30243f97694249c03f68ad6a11b7de250457678aa21f7c",
+    "ordinal": 16,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Wide-leg trouser crop omits shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15669062828113-image-69405926326353",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/pull-on-breezy-wide-leg-pant-in-aubergine",
+    "localPath": "images/americantall-15669062828113-image-69405926326353.webp",
+    "sha256": "c57538c496038e2702e503b165bbf42b5b7113ef0f652abae15ce12f3b6ef11f",
+    "ordinal": 17,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side trouser crop omits shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933093969-image-69417976561745",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-marron-plaid",
+    "localPath": "images/americantall-15651933093969-image-69417976561745.webp",
+    "sha256": "13f7659f9c87f04bd4aa37c46cdf0346f0797501e19fc60360360e10a7319116",
+    "ordinal": 18,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rust plaid overshirt over white tee and jeans; loose layers and clasped hands hide waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933093969-image-69417976692817",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-marron-plaid",
+    "localPath": "images/americantall-15651933093969-image-69417976692817.webp",
+    "sha256": "ed7e00a1f3a950c3890c0b3546d128e41fb71205b98a0febc27c9e5b9aa3c5e3",
+    "ordinal": 19,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated rust overshirt ensemble side pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933126737-image-69417983148113",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-blue-granite-plaid",
+    "localPath": "images/americantall-15651933126737-image-69417983148113.webp",
+    "sha256": "e8a71c642ba29f9d889308fc2125eb30727212f4ba9a75cbce30014b9966f359",
+    "ordinal": 20,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lavender plaid shirt with black trousers; untucked loose hem and pocket pose conceal waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933126737-image-69417983279185",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-blue-granite-plaid",
+    "localPath": "images/americantall-15651933126737-image-69417983279185.webp",
+    "sha256": "dc9214689cb09cc732aa6cc7ec65b1624e39751c1fc40a64856d38d821cecfe6",
+    "ordinal": 21,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated lavender plaid shirt ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933192273-image-69417980854353",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-dark-seagrass-plaid",
+    "localPath": "images/americantall-15651933192273-image-69417980854353.webp",
+    "sha256": "a6d53e98bc47df7a78edf2a65fd9bfb5bb7cf6958e4def99579195a5b3eaf22e",
+    "ordinal": 22,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated plaid shirt and trouser styling in a green colorway.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933192273-image-69417980985425",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-dark-seagrass-plaid",
+    "localPath": "images/americantall-15651933192273-image-69417980985425.webp",
+    "sha256": "aa178958549ac7a7ea7424780655068167728a1f0d7e1a20c3bb7a2bf1a56a17",
+    "ordinal": 23,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated green plaid shirt ensemble side pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933257809-image-69417982296145",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-boreal-forest-tartan",
+    "localPath": "images/americantall-15651933257809-image-69417982296145.webp",
+    "sha256": "d51a761c92828ab50aeae44e6028c033989f52e5daf25bce9d70387f63aac0e5",
+    "ordinal": 24,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated plaid shirt and trouser styling in dark green.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651933257809-image-69417982427217",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-boreal-forest-tartan",
+    "localPath": "images/americantall-15651933257809-image-69417982427217.webp",
+    "sha256": "75667753f45103a372062b51fcaac4e12931bffed2b20f0b113c249168f1ff10",
+    "ordinal": 25,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of dark plaid shirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15664955883601-image-69631777734737",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/oxford-cloth-button-down-shirt-in-dark-brown",
+    "localPath": "images/americantall-15664955883601-image-69631777734737.webp",
+    "sha256": "835728f1e22e0e37bcd13e2b8cb9ec894cb9e19179bec169505474f3648d776a",
+    "ordinal": 26,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown pocket shirt and jeans; loose untucked hem conceals body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15664955883601-image-69631777603665",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/oxford-cloth-button-down-shirt-in-dark-brown",
+    "localPath": "images/americantall-15664955883601-image-69631777603665.webp",
+    "sha256": "864f9c0861dfb2ecbed677a38d4b6c3fc03944bda0316d26b8a30008467d8356",
+    "ordinal": 27,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of brown shirt ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15664955949137-image-69418094461009",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/oxford-cloth-button-down-shirt-in-blue-granite",
+    "localPath": "images/americantall-15664955949137-image-69418094461009.webp",
+    "sha256": "d16651bb2e15eb6f9fd4db5d6037d6c332c258301eeecb57c892e32aaaff5327",
+    "ordinal": 28,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated plain pocket shirt and jeans styling in lavender.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15664955949137-image-69418094362705",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/oxford-cloth-button-down-shirt-in-blue-granite",
+    "localPath": "images/americantall-15664955949137-image-69418094362705.webp",
+    "sha256": "3ab115c3c61fd0efc5e558f262066608d0d085e75f25e38ec57f26aba450db90",
+    "ordinal": 29,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of lavender shirt ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651932930129-image-69418319085649",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-boreal-forest-houndstooth",
+    "localPath": "images/americantall-15651932930129-image-69418319085649.webp",
+    "sha256": "f00465ba38d9facf3c1512f99f28fc304290b798d0acfdfcabbb78a1701469f6",
+    "ordinal": 30,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated plain pocket shirt and jeans styling in green.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "americantall-15651932930129-image-69418318102609",
+    "source": "americantall",
+    "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-boreal-forest-houndstooth",
+    "localPath": "images/americantall-15651932930129-image-69418318102609.webp",
+    "sha256": "685469ce77b181bd6f10e5ea000ef8db52c9cbbe92bf1f9d08527622eac419bd",
+    "ordinal": 31,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of green shirt ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725497610452-image-42624782926036",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-capris-heather-gray",
+    "localPath": "images/superfithero-8725497610452-image-42624782926036.webp",
+    "sha256": "e11da44f661c3d6d559285a1b83d42ef239d1a1fae46825db6834d13c1fd9857",
+    "ordinal": 32,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Activewear crop omits shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725497610452-image-42624784957652",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-capris-heather-gray",
+    "localPath": "images/superfithero-8725497610452-image-42624784957652.webp",
+    "sha256": "72aeaea70e4450c400a89fed91de8181c9161eecb7751d37110951a9a2866cf5",
+    "ordinal": 33,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear gray activewear view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725494071508-image-42625312620756",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-capris-heather-black",
+    "localPath": "images/superfithero-8725494071508-image-42625312620756.webp",
+    "sha256": "8822bd881fcff72184849d6a6516ef0b4d3bf2ff70d885ec0f4113ede76a833f",
+    "ordinal": 34,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Legging product crop lacks shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725494071508-image-42625312686292",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-capris-heather-black",
+    "localPath": "images/superfithero-8725494071508-image-42625312686292.webp",
+    "sha256": "3abdfd1d535d6d4b4d121b05a8f5ac94ba0511ff7ed2c859446c4176df1a6c6c",
+    "ordinal": 35,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear strappy activewear view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725491908820-image-42625061519572",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-leggings-heather-black",
+    "localPath": "images/superfithero-8725491908820-image-42625061519572.webp",
+    "sha256": "97b9d783c11bdd1dcd4715de8a85a5b3fc0e3e84b0064de07a9d3a041aa00ffa",
+    "ordinal": 36,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side legging crop lacks shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725491908820-image-42625061617876",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-leggings-heather-black",
+    "localPath": "images/superfithero-8725491908820-image-42625061617876.webp",
+    "sha256": "a1da2518e0cd7a24afabb45f2d933f40212ce80db7f8c6355b5ebdb5c47a6272",
+    "ordinal": 37,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": 0.0,
+      "waist": 0.0
+    },
+    "evidence": "Gray fitted activewear set; enlarged view supports similar shoulder and hip breadth with little waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591611855060-image-41671597129940",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-bike-shorts-navy",
+    "localPath": "images/superfithero-8591611855060-image-41671597129940.webp",
+    "sha256": "5e559e6ae8c9ba740acd735c0204edd5432dd6a9346df1b13e9dbde12ae4694e",
+    "ordinal": 38,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shorts crop lacks shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591611855060-image-41671571210452",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-bike-shorts-navy",
+    "localPath": "images/superfithero-8591611855060-image-41671571210452.webp",
+    "sha256": "6435d7d093f26c537290f61be7b64148beb8fb9f7cea24417fa3da34403132c8",
+    "ordinal": 39,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Navy cropped activewear top and shorts with white sneakers; moderate waist contour but raised arm distorts shoulder comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591595176148-image-41671529529556",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-ankle-leggings-navy",
+    "localPath": "images/superfithero-8591595176148-image-41671529529556.webp",
+    "sha256": "2106f863400ddc5ca2ff9291eea87d422542ad3ff34e3fe306057dde58120b1d",
+    "ordinal": 40,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Arms-up cropped navy activewear pose; retained clearer outfit at 43.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591595176148-image-41671529464020",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-ankle-leggings-navy",
+    "localPath": "images/superfithero-8591595176148-image-41671529464020.webp",
+    "sha256": "f603a3afd00e4e959719a1875e72a4613480e50d05d9f1b913d789358361082e",
+    "ordinal": 41,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear navy activewear view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8579384017108-image-43210092085460",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-7-8-leggings-navy",
+    "localPath": "images/superfithero-8579384017108-image-43210092085460.webp",
+    "sha256": "6325cef859ae0210d06ada57f780efebf01f9dedb8d08a3a077bb668977a8c2c",
+    "ordinal": 42,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy activewear crop omits shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8579384017108-image-45390828011732",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-7-8-leggings-navy",
+    "localPath": "images/superfithero-8579384017108-image-45390828011732.webp",
+    "sha256": "8aa9e2c523d26a16f745b76711056aa48fc6678bd8b5a9e987e648f0cc3d237a",
+    "ordinal": 43,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Navy asymmetric sports top and leggings with sneakers; waist indentation visible, but angled kicking pose prevents reliable shoulder-hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591609626836-image-41671647527124",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-capris-navy",
+    "localPath": "images/superfithero-8591609626836-image-41671647527124.webp",
+    "sha256": "4c6080ae7270956f36b7f7ddb79d6bee5c7fc9ce0bd590a9b410b49545072112",
+    "ordinal": 44,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Capri-legging crop lacks shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591609626836-image-41671647592660",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-capris-navy",
+    "localPath": "images/superfithero-8591609626836-image-41671647592660.webp",
+    "sha256": "b9bdf01ab0f0bef0d5b2b9d00fe55606603eedd46ea89219578580fe434562a6",
+    "ordinal": 45,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear navy activewear view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591622504660-image-41670769803476",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-straight-leggings-black",
+    "localPath": "images/superfithero-8591622504660-image-41670769803476.webp",
+    "sha256": "f889d9fabefc6afec724169316f110376572e55fbb15abe1f12682d10f7fef06",
+    "ordinal": 46,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pocket and trouser crop lacks shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591622504660-image-41670769934548",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-straight-leggings-black",
+    "localPath": "images/superfithero-8591622504660-image-41670769934548.webp",
+    "sha256": "24ad8b91ab03f140ee6bc954450b0c2f017060e80c96b1e70bb8e60015924450",
+    "ordinal": 47,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Wide-leg activewear crop lacks shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725497610452-image-42624782991572",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-capris-heather-gray",
+    "localPath": "images/superfithero-8725497610452-image-42624782991572.webp",
+    "sha256": "5ec16dadc6005e0ce3f378f006a67a410f0930c50a47b996f7a29543aa9b139d",
+    "ordinal": 48,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Raised-arm gray capri set repeats clearer gray outfit at 51.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725494071508-image-42625312719060",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-capris-heather-black",
+    "localPath": "images/superfithero-8725494071508-image-42625312719060.webp",
+    "sha256": "2eaf91696dfc38e3a9cd141eaa6bc90053713ceeb0586d4331bc2c0282ab4abc",
+    "ordinal": 49,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray activewear tree pose repeats retained outfit and obscures contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725491908820-image-42625061290196",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-leggings-heather-black",
+    "localPath": "images/superfithero-8725491908820-image-42625061290196.webp",
+    "sha256": "580ce205ab9ecf07d8b78618151c6425764496d60dc3ab78f23e82ba6ff89782",
+    "ordinal": 50,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Raised-arm gray legging set repeats clearer view at 51.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8725491908820-image-42625061650644",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-leggings-heather-black",
+    "localPath": "images/superfithero-8725491908820-image-42625061650644.webp",
+    "sha256": "b6dbdf0f6a8f860fcbd4221fe328d74a1065c01bde72c99ad1e52d03f8432d80",
+    "ordinal": 51,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Gray fitted crop top and leggings; similar shoulder and hip widths with moderate waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591611855060-image-41671597162708",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-bike-shorts-navy",
+    "localPath": "images/superfithero-8591611855060-image-41671597162708.webp",
+    "sha256": "110c28de46b021bce065e6820845af3445e089d3c61b93ade9a66f053fc26335",
+    "ordinal": 52,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Raised-arm dancing repeat of navy shorts ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591595176148-image-41671529365716",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-ankle-leggings-navy",
+    "localPath": "images/superfithero-8591595176148-image-41671529365716.webp",
+    "sha256": "7832808d0fcbdd1a2089687df6bcb2d244ece74beed2d6a5e19c93eb95681ae3",
+    "ordinal": 53,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Navy racerback crop top and ankle leggings with white sneakers; waist indentation visible but lifted arms obscure shoulder comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8579384017108-image-43210092150996",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-7-8-leggings-navy",
+    "localPath": "images/superfithero-8579384017108-image-43210092150996.webp",
+    "sha256": "e83dfecc9372d318cb1a534a3a81c6d5c64e1d23807429a251e9195886ddcd8f",
+    "ordinal": 54,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy colorway of retained gray fitted set; avoid counting repeated styling as coverage.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591609626836-image-41671647559892",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-capris-navy",
+    "localPath": "images/superfithero-8591609626836-image-41671647559892.webp",
+    "sha256": "4b87ba16feed1518836e8c3c6793e1e2fb12bc7c12cb008f8c760fbacb2da09a",
+    "ordinal": 55,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy capri variation repeats gray activewear ensemble already retained.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "superfithero-8591622504660-image-41670769705172",
+    "source": "superfithero",
+    "sourceUrl": "https://superfithero.com/products/pocket-straight-leggings-black",
+    "localPath": "images/superfithero-8591622504660-image-41670769705172.webp",
+    "sha256": "9dd049642b36a2af081813eae3ac13d0b894d7d3922584f0aa83802cede56a64",
+    "ordinal": 56,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Black crop top and straight-leg active trousers with white sneakers; waist indentation visible but tilted pose and pocket hands limit shoulder-hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

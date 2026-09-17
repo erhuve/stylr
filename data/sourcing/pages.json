@@ -872,6 +872,132 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-boreal-forest-houndstooth",
+    "source": "americantall",
+    "candidateIds": [
+      "americantall-15651932930129-image-69418318102609",
+      "americantall-15651932930129-image-69418319085649"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://americantall.com/products/oxford-cloth-button-down-shirt-in-blue-granite",
+    "source": "americantall",
+    "candidateIds": [
+      "americantall-15664955949137-image-69418094362705",
+      "americantall-15664955949137-image-69418094461009"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://americantall.com/products/oxford-cloth-button-down-shirt-in-dark-brown",
+    "source": "americantall",
+    "candidateIds": [
+      "americantall-15664955883601-image-69631777603665",
+      "americantall-15664955883601-image-69631777734737"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://americantall.com/products/pull-on-breezy-wide-leg-pant-in-aubergine",
+    "source": "americantall",
+    "candidateIds": [
+      "americantall-15669062828113-image-69405926195281",
+      "americantall-15669062828113-image-69405926326353"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-blue-granite-plaid",
+    "source": "americantall",
+    "candidateIds": [
+      "americantall-15651933126737-image-69417983148113",
+      "americantall-15651933126737-image-69417983279185"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-boreal-forest-tartan",
+    "source": "americantall",
+    "candidateIds": [
+      "americantall-15651933257809-image-69417982296145",
+      "americantall-15651933257809-image-69417982427217"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-dark-seagrass-plaid",
+    "source": "americantall",
+    "candidateIds": [
+      "americantall-15651933192273-image-69417980854353",
+      "americantall-15651933192273-image-69417980985425"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://americantall.com/products/twin-pocket-flannel-button-shirt-in-marron-plaid",
+    "source": "americantall",
+    "candidateIds": [
+      "americantall-15651933093969-image-69417976561745",
+      "americantall-15651933093969-image-69417976692817"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/berry-pima-cotton-crew-neck-tee",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10101862924586-image-52786003214634",
+      "ashanderie-10101862924586-image-52786003247402"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/black-dress-shirt-1",
     "source": "ashanderie",
     "candidateIds": [
@@ -880,6 +1006,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0300-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/black-hybrid-xyz-chino-short",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10103363174698-image-52806858834218",
+      "ashanderie-10103363174698-image-52806858866986"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -912,6 +1052,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/burgundy-stripes-pique-daily-polo",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10095851995434-image-52749360857386",
+      "ashanderie-10095851995434-image-52749360890154"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://ashanderie.com/products/charcoal-easy-chino-short",
@@ -970,6 +1124,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://ashanderie.com/products/green-melange-short-sleeve-henley",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10101891858730-image-52795973173546",
+      "ashanderie-10101891858730-image-52795973206314"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/green-windowpane-wrinkle-free-shirt",
     "source": "ashanderie",
     "candidateIds": [
@@ -1012,6 +1180,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://ashanderie.com/products/heather-brown-crew-neck-tee",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10101915451690-image-52796299149610",
+      "ashanderie-10101915451690-image-52796299182378"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/heather-clay-pivot-jacket",
     "source": "ashanderie",
     "candidateIds": [
@@ -1023,6 +1205,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/ice-blue-washed-stretch-chino",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10130709840170-image-53190922076458",
+      "ashanderie-10130709840170-image-53190922109226"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -1090,6 +1286,34 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0300-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/khaki-pima-cotton-crew-neck-tee",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10101871575338-image-52793669845290",
+      "ashanderie-10101871575338-image-52793669878058"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/light-wash-summerweight-jeans",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10104608227626-image-52819911508266",
+      "ashanderie-10104608227626-image-52819911541034"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -1194,6 +1418,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://ashanderie.com/products/oat-cashmere-blend-quarter-zip",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-9928544354602-image-50410239721770",
+      "ashanderie-9928544354602-image-50410239754538"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/olive-textured-hybrid-jogger",
     "source": "ashanderie",
     "candidateIds": [
@@ -1202,6 +1440,48 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0300-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/quarry-grey-hybrid-xyz-chino-short",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10103360749866-image-52806634635562",
+      "ashanderie-10103360749866-image-52806634668330"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/rose-taupe-lightweight-signature-chino-short",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10130731598122-image-53194412982570",
+      "ashanderie-10130731598122-image-53194413015338"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/rose-taupe-washed-stretch-chino",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10130726355242-image-53193552691498",
+      "ashanderie-10130726355242-image-53193552724266"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -41965,6 +42245,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-black",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-9414059786559-image-52086181658943",
+      "onebone-9414059786559-image-52086181691711"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-chive",
     "source": "onebone",
     "candidateIds": [
@@ -42006,6 +42300,20 @@
     ],
     "reviewedCandidates": 3,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-short-black",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-9429459108159-image-52086185263423",
+      "onebone-9429459108159-image-52232925348159"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -42078,6 +42386,20 @@
     ],
     "reviewedCandidates": 3,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/bullet-l-s-carbon-grey",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-9692767748415-image-53012915454271",
+      "onebone-9692767748415-image-53012915519807"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -42392,6 +42714,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://onebonebrand.com/products/french-terry-cardigan-black",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10224280273215-image-52159615172927",
+      "onebone-10224280273215-image-52159615271231"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://onebonebrand.com/products/french-terry-hoodie-black",
     "source": "onebone",
     "candidateIds": [
@@ -42400,6 +42736,34 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0310-breadth/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/henley-navy",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10158895464767-image-52076403589439",
+      "onebone-10158895464767-image-52076403654975"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/henley-oatmeal",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10158959493439-image-53190548848959",
+      "onebone-10158959493439-image-53190548881727"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -42491,6 +42855,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://onebonebrand.com/products/michael-navy",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-9194404282687-image-52076291785023",
+      "onebone-9194404282687-image-52076291850559"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://onebonebrand.com/products/outwork-pant-v2-navy-blazer",
     "source": "onebone",
     "candidateIds": [
@@ -42502,6 +42880,34 @@
       "data/catalog-review/batches/2026-09-16T2045-menswear/intake.json"
     ],
     "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/performance-quarter-zip",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10219485987135-image-52124171567423",
+      "onebone-10219485987135-image-52124171632959"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/quilt-bomber-grey",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10173571957055-image-52076308005183",
+      "onebone-10173571957055-image-52076308070719"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -42663,6 +43069,20 @@
     ],
     "reviewedCandidates": 3,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-navy",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-9860721377599-image-52085608448319",
+      "onebone-9860721377599-image-52085608579391"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -42874,6 +43294,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://onebonebrand.com/products/velour-tee-emerald-green",
+    "source": "onebone",
+    "candidateIds": [
+      "onebone-10175226904895-image-52089834438975",
+      "onebone-10175226904895-image-52089834537279"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 0
   },
   {
@@ -47864,6 +48298,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/fluffy-cardigan-cherry",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7705214976042-image-34970855866410",
+      "snag-7705214976042-image-34970855931946"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/fruity-jumper",
     "source": "snag",
     "candidateIds": [
@@ -48043,6 +48491,33 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/knit-longline-jumper-petal-de-rose",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7484987113514-image-33050139394090"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/knit-rib-wide-leg-trousers-petale-de-rose",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7484987211818-image-33050139590698",
+      "snag-7484987211818-image-33050139689002"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -48410,6 +48885,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/midi-knitted-cocoon-dress-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7543248519210-image-33478921584682",
+      "snag-7543248519210-image-33478921650218"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/midi-knitted-cocoon-dress-hot-chocolate",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7543248584746-image-33478920798250",
+      "snag-7543248584746-image-33478920994858"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/midi-knitted-cocoon-dress-oatmeal",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7543248617514-image-33478920667178",
+      "snag-7543248617514-image-33478920765482"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/mini-flare-skirt-charcoal",
     "source": "snag",
     "candidateIds": [
@@ -48462,6 +48979,48 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-knitted-cocoon-dress-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7543248551978-image-34893170606122",
+      "snag-7543248551978-image-34893170671658"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-knitted-cocoon-dress-hot-chocolate",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7543248879658-image-33478926958634",
+      "snag-7543248879658-image-33478927056938"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-knitted-cocoon-dress-oatmeal",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7543249535018-image-33478934593578",
+      "snag-7543249535018-image-33478934659114"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
@@ -48911,6 +49470,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/running-leggings",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7719837630506-image-35119669608490",
+      "snag-7719837630506-image-35119669706794"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 0
   },
   {
@@ -49444,6 +50017,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/v2-leggings-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7719837663274-image-35119669018666",
+      "snag-7719837663274-image-35119669215274"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/v2-mini-flare-skirt-gosh-black",
     "source": "snag",
     "candidateIds": [
@@ -49597,6 +50184,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/wrap-top-velvet-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7742304026666-image-35328370704426",
+      "snag-7742304026666-image-35328370769962"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/3-button-overcoat-charcoal-herringbone",
     "source": "stateandliberty",
     "candidateIds": [
@@ -49635,6 +50236,20 @@
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-blazer-light-blue-plaid",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15732051804241-image-69456169599057",
+      "stateandliberty-15732051804241-image-69456170025041"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -49679,6 +50294,19 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-ash-brown-crosshatch",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15890673172561-image-69455365767249"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-ash-grey-plaid",
     "source": "stateandliberty",
     "candidateIds": [
@@ -49704,6 +50332,19 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-light-blue-plaid",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15890673434705-image-69462974562385"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -49747,6 +50388,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-pants-light-blue-plaid",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15706952499281-image-69456169107537",
+      "stateandliberty-15706952499281-image-69456169271377"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
   },
   {
     "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-pants-solid-grey",
@@ -49802,6 +50457,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-tuxedo-pants-solid-navy",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-4725786083409-image-30077770465361",
+      "stateandliberty-4725786083409-image-31578147061841"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -49875,6 +50544,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://stateandliberty.com/products/the-andy-black-diamond-geo",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15706956103761-image-69439234703441",
+      "stateandliberty-15706956103761-image-69439238176849"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/the-eisenhower-sport-shirt-navy-with-white-grid-1",
     "source": "stateandliberty",
     "candidateIds": [
@@ -49887,6 +50570,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-hugo-navy-pinstripe",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-7703350083665-image-69421177995345",
+      "stateandliberty-7703350083665-image-69421178060881"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://stateandliberty.com/products/the-kellen-light-blue-mini-patterned",
@@ -49942,6 +50639,62 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-robin-light-blue-mini-diamond-jacquard",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15706956267601-image-69439246565457",
+      "stateandliberty-15706956267601-image-69439246630993"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-rocky-powder-blue-with-white-stripes",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15662689157201-image-69439211569233",
+      "stateandliberty-15662689157201-image-69439211700305"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-summit-graphite-blue-and-grey-textured-grid",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15662690795601-image-69439226609745",
+      "stateandliberty-15662690795601-image-69439226740817"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-thorpe-light-blue-brown-faded-cross-stripe",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15706956333137-image-69439246860369",
+      "stateandliberty-15706956333137-image-69439256461393"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -50002,7 +50755,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/hi-lo-jersey-tank-dress",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-7876937908436-image-39366223462612",
       "superfit-7876937908436-image-40179698827476"
@@ -50016,7 +50769,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/hold-my-hand-sweater-black",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-7799599431892-image-40179843596500",
       "superfit-7799599431892-image-40179843662036"
@@ -50030,7 +50783,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/lounge-pocket-shorts",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-7876936564948-image-40179889242324",
       "superfit-7876936564948-image-40179895238868"
@@ -50044,7 +50797,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/plus-size-zip-up-thumbhole-hoodie",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-7876934598868-image-38808526356692",
       "superfit-7876934598868-image-40179480625364"
@@ -50058,7 +50811,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/pocket-7-8-leggings-carbon",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8923785134292-image-45390139850964",
       "superfit-8923785134292-image-45390139916500"
@@ -50071,8 +50824,23 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://superfithero.com/products/pocket-7-8-leggings-navy",
+    "source": "superfithero",
+    "candidateIds": [
+      "superfithero-8579384017108-image-43210092085460",
+      "superfithero-8579384017108-image-43210092150996",
+      "superfithero-8579384017108-image-45390828011732"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://superfithero.com/products/pocket-ankle-leggings-carbon",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8923783889108-image-45390566719700",
       "superfit-8923783889108-image-45390566785236"
@@ -50086,7 +50854,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/pocket-ankle-leggings-deep-purple",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8780509184212-image-43138592473300",
       "superfit-8780509184212-image-43138592571604"
@@ -50099,8 +50867,23 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://superfithero.com/products/pocket-ankle-leggings-navy",
+    "source": "superfithero",
+    "candidateIds": [
+      "superfithero-8591595176148-image-41671529365716",
+      "superfithero-8591595176148-image-41671529464020",
+      "superfithero-8591595176148-image-41671529529556"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://superfithero.com/products/pocket-bike-shorts-11-inch-black",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8780510888148-image-43210240426196",
       "superfit-8780510888148-image-43210240458964"
@@ -50114,7 +50897,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/pocket-bike-shorts-11-inch-deep-purple",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8780512002260-image-43210002923732",
       "superfit-8780512002260-image-43210003054804"
@@ -50128,7 +50911,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/pocket-bike-shorts-6-inch-black",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8780515803348-image-43210171646164",
       "superfit-8780515803348-image-43210189832404"
@@ -50142,7 +50925,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/pocket-bike-shorts-6-inch-deep-purple",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8780515246292-image-43209868804308",
       "superfit-8780515246292-image-43209868869844"
@@ -50156,7 +50939,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/pocket-bike-shorts-9-inch-deep-purple",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8780508922068-image-43138753233108",
       "superfit-8780508922068-image-43138753331412"
@@ -50169,8 +50952,23 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://superfithero.com/products/pocket-bike-shorts-navy",
+    "source": "superfithero",
+    "candidateIds": [
+      "superfithero-8591611855060-image-41671571210452",
+      "superfithero-8591611855060-image-41671597129940",
+      "superfithero-8591611855060-image-41671597162708"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://superfithero.com/products/pocket-capris-carbon",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8923752956116-image-45390626128084",
       "superfit-8923752956116-image-45390626193620"
@@ -50184,7 +50982,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/pocket-capris-deep-purple",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8780506726612-image-43138696020180",
       "superfit-8780506726612-image-43138696118484"
@@ -50197,8 +50995,23 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://superfithero.com/products/pocket-capris-navy",
+    "source": "superfithero",
+    "candidateIds": [
+      "superfithero-8591609626836-image-41671647527124",
+      "superfithero-8591609626836-image-41671647559892",
+      "superfithero-8591609626836-image-41671647592660"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://superfithero.com/products/pocket-flare-leggings-carbon",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8923787395284-image-45390187823316",
       "superfit-8923787395284-image-45390187856084"
@@ -50211,8 +51024,23 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://superfithero.com/products/pocket-straight-leggings-black",
+    "source": "superfithero",
+    "candidateIds": [
+      "superfithero-8591622504660-image-41670769705172",
+      "superfithero-8591622504660-image-41670769803476",
+      "superfithero-8591622504660-image-41670769934548"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://superfithero.com/products/pocket-straight-leggings-carbon",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8923795620052-image-45390448263380",
       "superfit-8923795620052-image-45390448296148"
@@ -50226,7 +51054,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/supercool-pocket-ankle-leggings-black",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-9076399603924-image-46633474523348",
       "superfit-9076399603924-image-46633474654420"
@@ -50240,7 +51068,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/supercool-pocket-ankle-leggings-cinnamon",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-9076409663700-image-46633543729364",
       "superfit-9076409663700-image-46633543991508"
@@ -50254,7 +51082,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/supercool-pocket-shorts-9-inch-black",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-9076410745044-image-46634083221716",
       "superfit-9076410745044-image-46634083647700"
@@ -50268,7 +51096,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/supercool-pocket-shorts-9-inch-cinnamon",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-9076409827540-image-46633696231636",
       "superfit-9076409827540-image-46633696297172"
@@ -50282,7 +51110,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/superhold-7-8-leggings-chocolate",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-9292160729300-image-48444302622932",
       "superfit-9292160729300-image-48444302721236"
@@ -50296,7 +51124,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/superhold-ankle-leggings-chocolate",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-9292153487572-image-48445589029076",
       "superfit-9292153487572-image-48445589127380"
@@ -50310,7 +51138,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/superhold-pocket-bike-shorts-evergreen",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-6047879168189-image-38841094013140",
       "superfit-6047879168189-image-40975986294996"
@@ -50324,7 +51152,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/superhold-skirted-capri",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-9004083314900-image-46633405317332",
       "superfit-9004083314900-image-46633406038228"
@@ -50338,7 +51166,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/supersoft-cinch-tank-heather-black",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8725504622804-image-42625437597908",
       "superfit-8725504622804-image-42625437630676"
@@ -50352,7 +51180,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/supersoft-cinch-tank-heather-gray",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8725507014868-image-42624776405204",
       "superfit-8725507014868-image-42624776470740"
@@ -50366,7 +51194,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/supersoft-cinch-tank-heather-navy",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8725509603540-image-42625671758036",
       "superfit-8725509603540-image-42625671790804"
@@ -50379,8 +51207,38 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-capris-heather-black",
+    "source": "superfithero",
+    "candidateIds": [
+      "superfithero-8725494071508-image-42625312620756",
+      "superfithero-8725494071508-image-42625312686292",
+      "superfithero-8725494071508-image-42625312719060"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-capris-heather-gray",
+    "source": "superfithero",
+    "candidateIds": [
+      "superfithero-8725497610452-image-42624782926036",
+      "superfithero-8725497610452-image-42624782991572",
+      "superfithero-8725497610452-image-42624784957652"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 3,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://superfithero.com/products/supersoft-pocket-capris-heather-navy",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8725499019476-image-42625596424404",
       "superfit-8725499019476-image-42625596489940"
@@ -50393,8 +51251,24 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://superfithero.com/products/supersoft-pocket-leggings-heather-black",
+    "source": "superfithero",
+    "candidateIds": [
+      "superfithero-8725491908820-image-42625061290196",
+      "superfithero-8725491908820-image-42625061519572",
+      "superfithero-8725491908820-image-42625061617876",
+      "superfithero-8725491908820-image-42625061650644"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 4,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 2
+  },
+  {
     "sourceUrl": "https://superfithero.com/products/supersoft-skort-heather-black",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-8725501509844-image-42624877166804",
       "superfit-8725501509844-image-42624877199572"
@@ -50408,7 +51282,7 @@
   },
   {
     "sourceUrl": "https://superfithero.com/products/white-cotton-tee",
-    "source": "superfit",
+    "source": "superfithero",
     "candidateIds": [
       "superfit-7669260615892-image-37356510281940",
       "superfit-7669260615892-image-37356510380244"
@@ -50418,6 +51292,118 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/blue-short-sleeve-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441175740794-image-14233795133524",
+      "taperedmenswear-15441175740794-image-22632484044985"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/burgundy-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441151623546-image-14268209922132",
+      "taperedmenswear-15441151623546-image-14268209954900"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/light-blue-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441159782778-image-29309747724473",
+      "taperedmenswear-15441159782778-image-29309753622713"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/light-wash-denim-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15442419351930-image-39005618405618",
+      "taperedmenswear-15442419351930-image-39005642588402"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/navy-denim-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15442419581306-image-22632566653113",
+      "taperedmenswear-15442419581306-image-39005738238194"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/navy-short-sleeve-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441145627002-image-29493041168569",
+      "taperedmenswear-15441145627002-image-29493041660089"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/pink-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441157390714-image-29309764042937",
+      "taperedmenswear-15441157390714-image-29309764468921"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/white-short-sleeve-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441176887674-image-14233798639700",
+      "taperedmenswear-15441176887674-image-14233798672468"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

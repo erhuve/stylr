@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 5059/5059; unreviewed: 0.
+Reviewed: 5106/5106; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 830 | 16.4% | 770 | 27 | 34 |
-| feminine | 2863 | 56.6% | 2427 | 26 | 135 |
+| masculine | 849 | 16.6% | 789 | 29 | 38 |
+| feminine | 2873 | 56.3% | 2436 | 26 | 135 |
 | mixed-androgynous | 127 | 2.5% | 120 | 10 | 2 |
-| unclear | 1239 | 24.5% | 1132 | 34 | 84 |
+| unclear | 1257 | 24.6% | 1148 | 34 | 86 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":68,"3":47,"unknown":338,"2.5":36,"1.5":338} | {"1":1,"2":10,"3":3,"2.5":7,"1.5":13} |
-| feminine | {"1":27,"2":248,"3":208,"unknown":517,"1.5":1605,"2.5":258} | {"1":7,"2":23,"3":18,"1.5":58,"2.5":29} |
+| masculine | {"1":3,"2":72,"3":49,"unknown":338,"2.5":44,"1.5":343} | {"1":1,"2":11,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":250,"3":212,"unknown":517,"1.5":1605,"2.5":262} | {"1":7,"2":23,"3":18,"1.5":58,"2.5":29} |
 | mixed-androgynous | {"1":1,"2":6,"unknown":79,"1.5":41} | {"1.5":2} |
-| unclear | {"1":7,"2":69,"3":159,"1.5":480,"unknown":440,"2.5":84} | {"1":2,"2":5,"3":35,"1.5":30,"2.5":12} |
+| unclear | {"1":7,"2":72,"3":170,"1.5":481,"unknown":440,"2.5":87} | {"1":2,"2":5,"3":37,"1.5":30,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -32,7 +32,8 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | --- | ---: | ---: | ---: | ---: | ---: |
 | acdcrag.com | 1 | 22 | 3 | 19 | 0 |
 | activetruth.com.au | 0 | 0 | 0 | 2 | 0 |
-| ashanderie.com | 8 | 0 | 0 | 2 | 0 |
+| americantall.com | 3 | 0 | 0 | 0 | 0 |
+| ashanderie.com | 10 | 0 | 0 | 5 | 0 |
 | bigbudpress.com | 6 | 30 | 0 | 118 | 0 |
 | chubstr.com | 22 | 0 | 0 | 5 | 0 |
 | disturbia.co.uk | 0 | 32 | 0 | 5 | 0 |
@@ -47,15 +48,16 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | midnighthour.com | 23 | 95 | 1 | 25 | 0 |
 | mochipan.com | 8 | 111 | 0 | 14 | 0 |
 | morningwitch.com | 2 | 5 | 0 | 6 | 0 |
-| onebonebrand.com | 10 | 0 | 0 | 33 | 0 |
+| onebonebrand.com | 13 | 0 | 0 | 40 | 0 |
 | pettilia.com | 0 | 4 | 0 | 1 | 0 |
 | pexels.com | 9 | 16 | 1 | 14 | 0 |
 | punkrave.ch | 13 | 35 | 5 | 7 | 0 |
 | shinybynature.com | 0 | 77 | 0 | 31 | 0 |
 | shopmyviolet.com | 0 | 137 | 0 | 7 | 0 |
-| snagtights.com | 1 | 210 | 0 | 71 | 0 |
-| stateandliberty.com | 15 | 0 | 0 | 2 | 0 |
-| superfithero.com | 0 | 3 | 0 | 16 | 0 |
+| snagtights.com | 1 | 220 | 0 | 73 | 0 |
+| stateandliberty.com | 23 | 0 | 0 | 2 | 0 |
+| superfithero.com | 0 | 3 | 0 | 22 | 0 |
+| taperedmenswear.com | 3 | 0 | 0 | 0 | 0 |
 | teddyfresh.com | 1 | 0 | 0 | 1 | 0 |
 | tokyofashion.com | 130 | 389 | 87 | 165 | 0 |
 | tombolocompany.com | 17 | 2 | 0 | 7 | 0 |

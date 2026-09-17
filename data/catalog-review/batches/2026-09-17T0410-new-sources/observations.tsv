@@ -1,0 +1,58 @@
+ordinal	view	build	shoulderHip	waist	evidence	presentation
+0	partial	2.5	1	?	Dark fitted button shirt and dark jeans; broad shoulders, but untucked hem obscures waist contour.	C
+1	reject	?	?	?	Side repeat of dark shirt ensemble; printed measurements are not labeling evidence.	U
+2	reject	?	?	?	Repeated untucked shirt and dark jeans styling in a pale colorway.	U
+3	reject	?	?	?	Side repeat of pale shirt ensemble.	U
+4	partial	2.5	1	1	Pale blue tucked fitted shirt with black tailored trousers; broad shoulders and moderate waist taper visible.	M
+5	reject	?	?	?	Same blue shirt and trouser ensemble with added tie repeats retained view.	U
+6	reject	?	?	?	Repeated tucked shirt and black trousers styling in pink.	U
+7	reject	?	?	?	Side repeat of pink shirt ensemble.	U
+8	reject	?	?	?	Repeated tucked shirt and black trousers styling in burgundy.	U
+9	back	?	?	?	Rear shirt view.	U
+10	partial	2.5	1	?	Navy short-sleeve collared shirt and jeans; broad shoulders but long curved hem conceals waist.	C
+11	reject	?	?	?	Side repeat of navy short-sleeve ensemble.	U
+12	reject	?	?	?	Repeated short-sleeve shirt and jeans styling in white.	U
+13	back	?	?	?	Rear short-sleeve shirt view.	U
+14	reject	?	?	?	Repeated short-sleeve shirt and jeans styling in pale blue.	U
+15	reject	?	?	?	Side repeat of pale short-sleeve shirt.	U
+16	detail	?	?	?	Wide-leg trouser crop omits shoulders.	U
+17	detail	?	?	?	Side trouser crop omits shoulders.	U
+18	partial	1.5	?	?	Rust plaid overshirt over white tee and jeans; loose layers and clasped hands hide waist.	C
+19	reject	?	?	?	Repeated rust overshirt ensemble side pose.	U
+20	partial	1.5	?	?	Lavender plaid shirt with black trousers; untucked loose hem and pocket pose conceal waist and hips.	C
+21	reject	?	?	?	Repeated lavender plaid shirt ensemble.	U
+22	reject	?	?	?	Repeated plaid shirt and trouser styling in a green colorway.	U
+23	reject	?	?	?	Repeated green plaid shirt ensemble side pose.	U
+24	reject	?	?	?	Repeated plaid shirt and trouser styling in dark green.	U
+25	reject	?	?	?	Side repeat of dark plaid shirt.	U
+26	partial	1.5	?	?	Brown pocket shirt and jeans; loose untucked hem conceals body contours.	C
+27	reject	?	?	?	Side repeat of brown shirt ensemble.	U
+28	reject	?	?	?	Repeated plain pocket shirt and jeans styling in lavender.	U
+29	reject	?	?	?	Side repeat of lavender shirt ensemble.	U
+30	reject	?	?	?	Repeated plain pocket shirt and jeans styling in green.	U
+31	reject	?	?	?	Side repeat of green shirt ensemble.	U
+32	detail	?	?	?	Activewear crop omits shoulders.	U
+33	back	?	?	?	Rear gray activewear view.	U
+34	detail	?	?	?	Legging product crop lacks shoulders.	U
+35	back	?	?	?	Rear strappy activewear view.	U
+36	detail	?	?	?	Side legging crop lacks shoulders.	U
+37	full	3	0	0	Gray fitted activewear set; enlarged view supports similar shoulder and hip breadth with little waist indentation.	U
+38	detail	?	?	?	Shorts crop lacks shoulders.	U
+39	full	3	?	1	Navy cropped activewear top and shorts with white sneakers; moderate waist contour but raised arm distorts shoulder comparison.	U
+40	reject	?	?	?	Arms-up cropped navy activewear pose; retained clearer outfit at 43.	U
+41	back	?	?	?	Rear navy activewear view.	U
+42	detail	?	?	?	Navy activewear crop omits shoulders.	U
+43	full	3	?	1	Navy asymmetric sports top and leggings with sneakers; waist indentation visible, but angled kicking pose prevents reliable shoulder-hip comparison.	U
+44	detail	?	?	?	Capri-legging crop lacks shoulders.	U
+45	back	?	?	?	Rear navy activewear view.	U
+46	detail	?	?	?	Pocket and trouser crop lacks shoulders.	U
+47	detail	?	?	?	Wide-leg activewear crop lacks shoulders.	U
+48	reject	?	?	?	Raised-arm gray capri set repeats clearer gray outfit at 51.	U
+49	reject	?	?	?	Gray activewear tree pose repeats retained outfit and obscures contours.	U
+50	reject	?	?	?	Raised-arm gray legging set repeats clearer view at 51.	U
+51	full	3	0	1	Gray fitted crop top and leggings; similar shoulder and hip widths with moderate waist indentation.	U
+52	reject	?	?	?	Raised-arm dancing repeat of navy shorts ensemble.	U
+53	full	3	?	1	Navy racerback crop top and ankle leggings with white sneakers; waist indentation visible but lifted arms obscure shoulder comparison.	U
+54	reject	?	?	?	Navy colorway of retained gray fitted set; avoid counting repeated styling as coverage.	U
+55	reject	?	?	?	Navy capri variation repeats gray activewear ensemble already retained.	U
+56	full	3	?	1	Black crop top and straight-leg active trousers with white sneakers; waist indentation visible but tilted pose and pocket hands limit shoulder-hip comparison.	U
