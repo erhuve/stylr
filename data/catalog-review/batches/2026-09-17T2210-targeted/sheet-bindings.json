@@ -1,0 +1,351 @@
+[
+  {
+    "sheet": 0,
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2210-targeted/sheets/00.jpg",
+    "sha256": "f03237ea10697dd123c4ce810480b5b10eef0d9d79f77ce3ee99bc63b4b7c68c",
+    "ordinals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "originalCollectionOrdinals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "images": [
+      {
+        "id": "bearbottom-8133198250123-image-40772723769483",
+        "sha256": "a5716347376067776291b19dbe5c63f4647bc5dd72fe01cbf5ffeb52c247c7dc"
+      },
+      {
+        "id": "bearbottom-8133198250123-image-40772723835019",
+        "sha256": "d0eeb565a042447cae6f5f15a0a35e748cb262cbecd34208c626df92f27b339c"
+      },
+      {
+        "id": "bearbottom-8245969420427-image-42465966129291",
+        "sha256": "1411b1867ec78dc5fda5aa5286d035f1bc45c62b995d23055a25be2ec7e46fd1"
+      },
+      {
+        "id": "bearbottom-8245969420427-image-42465966030987",
+        "sha256": "3ff7ff1e19a54c657090549c29f708c9c88d076354dcbc95704973676a2aed12"
+      },
+      {
+        "id": "bearbottom-7953114398859-image-38920909783179",
+        "sha256": "edeacffe4a69c3fa7aacf47a9f26238d00006378eb38f5f05b040655bddfd9a7"
+      },
+      {
+        "id": "bearbottom-7953114398859-image-38920909717643",
+        "sha256": "96399334e6feb8dcd97fac0673fb2ac62672742859dcaf00dbaf04964ec08267"
+      },
+      {
+        "id": "bearbottom-8221065937035-image-42059999379595",
+        "sha256": "c281b3e536f07d327d630d03638880ade8d0d600c76c7b0085b42836e75e0b64"
+      },
+      {
+        "id": "bearbottom-8221065937035-image-42059999445131",
+        "sha256": "95cd180cb9c0c258f40b78101cb6bc6de03b88a95a2983a051bad4b4969f6d41"
+      },
+      {
+        "id": "bearbottom-8219621720203-image-42060549456011",
+        "sha256": "a1749b958b6406978532ae3b00cf12d457e389d73963fe771854acb0fef8162a"
+      },
+      {
+        "id": "bearbottom-8219621720203-image-42060549521547",
+        "sha256": "8449bc93aa01acad446d705d6bfa109f7ebfd64a3b00c017638572174c3c839f"
+      },
+      {
+        "id": "bearbottom-8220758966411-image-42060285378699",
+        "sha256": "7014cbf31eace1787613495ac90880aa3c09cb832217a4719f2888942d98e8a1"
+      },
+      {
+        "id": "bearbottom-8220758966411-image-42060285444235",
+        "sha256": "0069a102c1569f3867982cbd1ea564969e40b77e7a5f3db757abe9441256c959"
+      }
+    ]
+  },
+  {
+    "sheet": 1,
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2210-targeted/sheets/01.jpg",
+    "sha256": "2d9a19a0ec485fb303b1df58308e01e6334ba07a807ab74f4d1cc41ff71c71de",
+    "ordinals": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "originalCollectionOrdinals": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "images": [
+      {
+        "id": "bearbottom-8220759228555-image-42060388892811",
+        "sha256": "ac601155ce19d2867599c8eb5129a2fdd9ee8d3b15585cb955d7f21875df49d3"
+      },
+      {
+        "id": "bearbottom-8220759228555-image-42060388958347",
+        "sha256": "e99fe84e5e85f2a3d55ace165b1da03daa4cd6c88b4b1c8671a494b3eccb6e16"
+      },
+      {
+        "id": "bearbottom-8220759883915-image-42060342624395",
+        "sha256": "4ef19decc702d06673a301ae77b9534d80cf176a216734dd01c8635b8ddd6e9c"
+      },
+      {
+        "id": "bearbottom-8220759883915-image-42060342689931",
+        "sha256": "735c7020cc10e2783388545f9b2712bfb76d2272e91b84bb711c0b514c33328d"
+      },
+      {
+        "id": "bearbottom-8221060169867-image-42060249432203",
+        "sha256": "3a79b62534652e3cf0d24f60f6014d55e6404c6064d8aad81ab8be7a521179bd"
+      },
+      {
+        "id": "bearbottom-8221060169867-image-42060249497739",
+        "sha256": "a3debfbe8c5b5da36ca47f88dcff4e1129222e8e3fde2bd2b8a810d7c4516b7d"
+      },
+      {
+        "id": "bearbottom-8174263468171-image-41421542195339",
+        "sha256": "cedde8730f2917d493a4dc5df7919b8a0873a4f992c6ffcde34b7c11b5d98535"
+      },
+      {
+        "id": "bearbottom-8169088876683-image-41276529180811",
+        "sha256": "977df56aa5e97159215f694ab9880a7fd3ac7784bb3ba18e723b562b1fb1ee8c"
+      },
+      {
+        "id": "bearbottom-8169081077899-image-41275192049803",
+        "sha256": "545cde8ad836dfa902255afc6870656f2b3b6e17fcaed0d808432f155b1da045"
+      },
+      {
+        "id": "onebone-10416006922559-image-53959587365183",
+        "sha256": "7afe824e4d8feaf02e1bc914c83ea80f61390bc11cc6eac2d8a60976bb571d4e"
+      },
+      {
+        "id": "onebone-10416006922559-image-53959587430719",
+        "sha256": "fcc5ebf1ec88c6e8652f4d53aea4ea85b957ed39600f6d72bbc965e7f2a2d144"
+      },
+      {
+        "id": "onebone-10416006627647-image-53959584022847",
+        "sha256": "b6e579f23f5e59895efa945d3ae174bc41bf87518670f4a5d04e3ed9d997ec2e"
+      }
+    ]
+  },
+  {
+    "sheet": 2,
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2210-targeted/sheets/02.jpg",
+    "sha256": "28ace289e50069b0c7d1b6b649ef85e6ca65ced98901b733072d7c16c153e9e0",
+    "ordinals": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "originalCollectionOrdinals": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "images": [
+      {
+        "id": "onebone-10416006627647-image-53959584121151",
+        "sha256": "379df08ef05384da3a8e7622365d24ed630123bd341d38d8477d1c45dd348c06"
+      },
+      {
+        "id": "onebone-10417440391487-image-53959622525247",
+        "sha256": "81705c69d3c12dbb25aae2cc8c71a442ff5d30c4c5a5c4a4404f77c4ab12202b"
+      },
+      {
+        "id": "onebone-10417440391487-image-53959622132031",
+        "sha256": "a2930690af5a500f992def71c2322993d3a6f00dcb328d16bab12f11ea8f82ad"
+      },
+      {
+        "id": "onebone-10417435509055-image-53959616561471",
+        "sha256": "9a8b0debdb59e55f93fe4cc070c8ab7e00f386f7a4effe6ee0d08528bd9f42d5"
+      },
+      {
+        "id": "onebone-10417435509055-image-53959618560319",
+        "sha256": "bc9c4b4f09509ef60429728776d77f2c0cbc4fa90e610d11376b2ab5cb897f3f"
+      },
+      {
+        "id": "onebone-10097354768703-image-53190312722751",
+        "sha256": "6a047f77899a6d37691bfd1cfac6dbbee64a5ca213ff5c224ffbc1a8fff575e5"
+      },
+      {
+        "id": "onebone-10097354768703-image-53190312657215",
+        "sha256": "f056eeb03443f9f5df49e33a8c78dc9074d6d72c20d3ed63b44f18fef1fb4753"
+      },
+      {
+        "id": "onebone-10097350869311-image-52075980259647",
+        "sha256": "d7747d8e9a4690ab5fbb7d9e2fbddaf4d9d1f846195d4f5fc0673f1bac61ce31"
+      },
+      {
+        "id": "onebone-10097350869311-image-52075980390719",
+        "sha256": "441d84b8b0b067d9ad44ce8ee79be277de81afc0f33cf86eb45f9041d2fa03f3"
+      },
+      {
+        "id": "onebone-10097334387007-image-52086310535487",
+        "sha256": "03bc3813c3d6ca6e147323ac6b3933e382ab74f4c2308b42b1e53d52570929e6"
+      },
+      {
+        "id": "onebone-10097334387007-image-52086310437183",
+        "sha256": "530db4fa145b258fd591cb073e258ca1cf1cade242020bb844aed9656ded748d"
+      },
+      {
+        "id": "onebone-10097327931711-image-52089293340991",
+        "sha256": "0b5b834ba3f780944c56eafd5d34fcadb03115c9dd251dd40ba4d697c5108998"
+      }
+    ]
+  },
+  {
+    "sheet": 3,
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2210-targeted/sheets/03.jpg",
+    "sha256": "67ddb7795a94a5b40e899d33db32c57712b4a6eb9750b04b7d3c39029b0428ec",
+    "ordinals": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "originalCollectionOrdinals": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "images": [
+      {
+        "id": "onebone-10097327931711-image-52089293373759",
+        "sha256": "a6a84b92400dc7894fafe20505ba77b9136904ccb8875c3c81295887ddbc5287"
+      },
+      {
+        "id": "onebone-10097321836863-image-52086150136127",
+        "sha256": "db8d00d4a0e4c89a3de23941e55b588cd504fad0ab49df9158a751bd98d0f802"
+      },
+      {
+        "id": "onebone-10097321836863-image-52086150168895",
+        "sha256": "abb7cc986f49f6ed5bad533bed862633791ea3dcb712bacf59fe123d15c4f6b2"
+      },
+      {
+        "id": "onebone-10097203315007-image-52076292604223",
+        "sha256": "4176f85f8149d917b288b682f478e02ba81e507bafd57d5892c1542c9309d5c5"
+      },
+      {
+        "id": "onebone-10097203315007-image-52076292538687",
+        "sha256": "31c79613df427f6080dd4966c9339e346cf0245b83c7d4e123d399eea00277a7"
+      },
+      {
+        "id": "onebone-10097156653375-image-52089250677055",
+        "sha256": "837506f248cddc1ad20c35b1fcc5dbba28f1c69195dec62bc377962b9589b1da"
+      },
+      {
+        "id": "onebone-10097156653375-image-52089250611519",
+        "sha256": "66728050e4e346d391022d98f4157bc494ce233f9b2caaba2e40eadf43e48da2"
+      },
+      {
+        "id": "onebone-10416006922559-image-53959587299647",
+        "sha256": "54da367f2739c4df0fca79c8434b36a869a47ed5561240e22501b04a1fda3459"
+      },
+      {
+        "id": "onebone-10416006627647-image-53959585792319",
+        "sha256": "b775b5ee44c36b8559acb81521a462fadc4aaa734ab412092df8e72db30e65c7"
+      },
+      {
+        "id": "onebone-10417440391487-image-53959622066495",
+        "sha256": "7e68113cb45ebe066adb291fe5f5d55248ac46fc340af464650e4ff6b56e7ca1"
+      },
+      {
+        "id": "onebone-10417440391487-image-53959622459711",
+        "sha256": "dc3d3fd82ce0bf0c9449c90b1524e22812d8854a18544ab5646481e611b16473"
+      },
+      {
+        "id": "onebone-10097354768703-image-53190312624447",
+        "sha256": "19130fa7511bf79270c233d2672ba02362592820e1ddfad6eab8a393cc8ea834"
+      }
+    ]
+  },
+  {
+    "sheet": 4,
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2210-targeted/sheets/04.jpg",
+    "sha256": "2503b633310f1b72a5e454e349c44442160a92b5574fe070085e97b5765003c5",
+    "ordinals": [
+      48
+    ],
+    "originalCollectionOrdinals": [
+      48
+    ],
+    "images": [
+      {
+        "id": "onebone-10097350869311-image-52075980226879",
+        "sha256": "9e0e22a11799f738047d7db32a9fe6d894d54728e99cbddb390f0674e6018a21"
+      }
+    ]
+  }
+]

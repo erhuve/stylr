@@ -1,0 +1,351 @@
+{
+  "retrievedAt": "2026-09-17T21:02:34.395560+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "bearbottom",
+      "pages": [
+        {
+          "url": "https://bearbottomclothing.com/products.json?limit=250&page=1",
+          "products": 189,
+          "retrievedAt": "2026-09-17T21:02:26.489243+00:00",
+          "snapshotSha256": "52d4d273ce79a6d08ed60ded55fb0b6cbd25c268a3cbd0bb972b5d2c15a07016"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "bearbottom-8133198250123-image-40772723769483",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Bamboo-LS-Tee-Cocoa-Model-A-1.webp?v=1775244960",
+          "sourceUrl": "https://bearbottomclothing.com/products/bamboo-long-sleeve-tee",
+          "sha256": "a5716347376067776291b19dbe5c63f4647bc5dd72fe01cbf5ffeb52c247c7dc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8133198250123-image-40772723835019",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Bamboo-LS-Tee-Cocoa-Model-A-3.webp?v=1775244960",
+          "sourceUrl": "https://bearbottomclothing.com/products/bamboo-long-sleeve-tee",
+          "sha256": "d0eeb565a042447cae6f5f15a0a35e748cb262cbecd34208c626df92f27b339c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8245969420427-image-42465966129291",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Volley-Land-Short-5-Fern-Model-B-1_rev.jpg?v=1782139194",
+          "sourceUrl": "https://bearbottomclothing.com/products/volley-land-short",
+          "sha256": "1411b1867ec78dc5fda5aa5286d035f1bc45c62b995d23055a25be2ec7e46fd1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8245969420427-image-42465966030987",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Volley-Land-Short-5-Fern-Model-B-3_rev.jpg?v=1782139228",
+          "sourceUrl": "https://bearbottomclothing.com/products/volley-land-short",
+          "sha256": "3ff7ff1e19a54c657090549c29f708c9c88d076354dcbc95704973676a2aed12",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-7953114398859-image-38920909783179",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Stretch-Utility-Pant-Natural-Model-C-1.jpg?v=1761593873",
+          "sourceUrl": "https://bearbottomclothing.com/products/stretch-utility-pant",
+          "sha256": "edeacffe4a69c3fa7aacf47a9f26238d00006378eb38f5f05b040655bddfd9a7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-7953114398859-image-38920909717643",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Stretch-Utility-Pant-Natural-Model-B-4.jpg?v=1761593873",
+          "sourceUrl": "https://bearbottomclothing.com/products/stretch-utility-pant",
+          "sha256": "96399334e6feb8dcd97fac0673fb2ac62672742859dcaf00dbaf04964ec08267",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8221065937035-image-42059999379595",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Cable-Stitch-Sweater-Crewneck-Grey-Model-A-1.jpg?v=1779298087",
+          "sourceUrl": "https://bearbottomclothing.com/products/cable-stitch-sweater-crewneck",
+          "sha256": "c281b3e536f07d327d630d03638880ade8d0d600c76c7b0085b42836e75e0b64",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8221065937035-image-42059999445131",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Cable-Stitch-Sweater-Crewneck-Grey-Model-A-3.jpg?v=1779298088",
+          "sourceUrl": "https://bearbottomclothing.com/products/cable-stitch-sweater-crewneck",
+          "sha256": "95cd180cb9c0c258f40b78101cb6bc6de03b88a95a2983a051bad4b4969f6d41",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8219621720203-image-42060549456011",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Textured-Knit-Sweater-Polo-Navy-Model-A-1.jpg?v=1779304208",
+          "sourceUrl": "https://bearbottomclothing.com/products/textured-knit-sweater-polo",
+          "sha256": "a1749b958b6406978532ae3b00cf12d457e389d73963fe771854acb0fef8162a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8219621720203-image-42060549521547",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Textured-Knit-Sweater-Polo-Navy-Model-A-3.jpg?v=1779304208",
+          "sourceUrl": "https://bearbottomclothing.com/products/textured-knit-sweater-polo",
+          "sha256": "8449bc93aa01acad446d705d6bfa109f7ebfd64a3b00c017638572174c3c839f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8220758966411-image-42060285378699",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Diamond-Knit-Sweater-Polo-Shark-Grey-Model-B-1.jpg?v=1779300476",
+          "sourceUrl": "https://bearbottomclothing.com/products/diamond-knit-sweater-polo",
+          "sha256": "7014cbf31eace1787613495ac90880aa3c09cb832217a4719f2888942d98e8a1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8220758966411-image-42060285444235",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Diamond-Knit-Sweater-Polo-Shark-Grey-Model-B-3.jpg?v=1779300476",
+          "sourceUrl": "https://bearbottomclothing.com/products/diamond-knit-sweater-polo",
+          "sha256": "0069a102c1569f3867982cbd1ea564969e40b77e7a5f3db757abe9441256c959",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8220759228555-image-42060388892811",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Ladder-Knit-Sweater-Polo-White-Model-A-1.jpg?v=1779302536",
+          "sourceUrl": "https://bearbottomclothing.com/products/ladder-knit-sweater-polo",
+          "sha256": "ac601155ce19d2867599c8eb5129a2fdd9ee8d3b15585cb955d7f21875df49d3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8220759228555-image-42060388958347",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Ladder-Knit-Sweater-Polo-White-Model-A-3.jpg?v=1779302537",
+          "sourceUrl": "https://bearbottomclothing.com/products/ladder-knit-sweater-polo",
+          "sha256": "e99fe84e5e85f2a3d55ace165b1da03daa4cd6c88b4b1c8671a494b3eccb6e16",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8220759883915-image-42060342624395",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Honeycomb-Sweater-Polo-Driftwood-Model-B-1.jpg?v=1779301609",
+          "sourceUrl": "https://bearbottomclothing.com/products/honeycomb-sweater-polo",
+          "sha256": "4ef19decc702d06673a301ae77b9534d80cf176a216734dd01c8635b8ddd6e9c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8220759883915-image-42060342689931",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Honeycomb-Sweater-Polo-Driftwood-Model-B-3.jpg?v=1779301609",
+          "sourceUrl": "https://bearbottomclothing.com/products/honeycomb-sweater-polo",
+          "sha256": "735c7020cc10e2783388545f9b2712bfb76d2272e91b84bb711c0b514c33328d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8221060169867-image-42060249432203",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Zip-Sweater-Polo-Alpine-Model-A-1.jpg?v=1779299579",
+          "sourceUrl": "https://bearbottomclothing.com/products/zip-sweater-polo",
+          "sha256": "3a79b62534652e3cf0d24f60f6014d55e6404c6064d8aad81ab8be7a521179bd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8221060169867-image-42060249497739",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Zip-Sweater-Polo-Alpine-Model-A-3.jpg?v=1779299579",
+          "sourceUrl": "https://bearbottomclothing.com/products/zip-sweater-polo",
+          "sha256": "a3debfbe8c5b5da36ca47f88dcff4e1129222e8e3fde2bd2b8a810d7c4516b7d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8174263468171-image-41421542195339",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/midweight-supima-tee-bundle.png?v=1777992153",
+          "sourceUrl": "https://bearbottomclothing.com/products/midweight-supima-tee-bundle",
+          "sha256": "cedde8730f2917d493a4dc5df7919b8a0873a4f992c6ffcde34b7c11b5d98535",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8169088876683-image-41276529180811",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Bamboo-Hoodie-Bundle.png?v=1777481936",
+          "sourceUrl": "https://bearbottomclothing.com/products/bamboo-hoodie-bundle",
+          "sha256": "977df56aa5e97159215f694ab9880a7fd3ac7784bb3ba18e723b562b1fb1ee8c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bearbottom-8169081077899-image-41275192049803",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0822/1457/files/Bambo-Pocket-Tee.png?v=1777481370",
+          "sourceUrl": "https://bearbottomclothing.com/products/bamboo-pocket-tee-bundle",
+          "sha256": "545cde8ad836dfa902255afc6870656f2b3b6e17fcaed0d808432f155b1da045",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 21
+    },
+    {
+      "source": "onebone",
+      "pages": [
+        {
+          "url": "https://onebonebrand.com/products.json?limit=250&page=1",
+          "products": 195,
+          "retrievedAt": "2026-09-17T21:02:31.830404+00:00",
+          "snapshotSha256": "a09945c4e36a5fdf00e4fa8b57571d4618fc24e82496ed0cc6a03938111198e7"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "onebone-10416006922559-image-53959587365183",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB287-KnitDressShirt-CanyonGreen-Peter-WebUse-Lifestyle1.jpg?v=1787237773",
+          "sourceUrl": "https://onebonebrand.com/products/knit-dress-shirt-canyon-green",
+          "sha256": "7afe824e4d8feaf02e1bc914c83ea80f61390bc11cc6eac2d8a60976bb571d4e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10416006922559-image-53959587430719",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB287-KnitDressShirt-CanyonGreen-Peter-WebUse-Lifestyle3.jpg?v=1787237773",
+          "sourceUrl": "https://onebonebrand.com/products/knit-dress-shirt-canyon-green",
+          "sha256": "fcc5ebf1ec88c6e8652f4d53aea4ea85b957ed39600f6d72bbc965e7f2a2d144",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10416006627647-image-53959584022847",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB287-KnitDressShirt-Ink-Q-WebUse-Lifestyle2.jpg?v=1787237619",
+          "sourceUrl": "https://onebonebrand.com/products/knit-dress-shirt-ink",
+          "sha256": "b6e579f23f5e59895efa945d3ae174bc41bf87518670f4a5d04e3ed9d997ec2e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10416006627647-image-53959584121151",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB287-KnitDressShirt-Ink-Q-WebUse-Lifestyle5.jpg?v=1787237620",
+          "sourceUrl": "https://onebonebrand.com/products/knit-dress-shirt-ink",
+          "sha256": "379df08ef05384da3a8e7622365d24ed630123bd341d38d8477d1c45dd348c06",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10417440391487-image-53959622525247",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB291-WafflePant-OB29-WaffleHoodie-Ink-Q-WebUse-Lifestyle2.jpg?v=1787239035",
+          "sourceUrl": "https://onebonebrand.com/products/waffle-pant-ink",
+          "sha256": "81705c69d3c12dbb25aae2cc8c71a442ff5d30c4c5a5c4a4404f77c4ab12202b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10417440391487-image-53959622132031",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB291-WafflePant-Ink-Peter-WebUse-Detail1.jpg?v=1787239032",
+          "sourceUrl": "https://onebonebrand.com/products/waffle-pant-ink",
+          "sha256": "a2930690af5a500f992def71c2322993d3a6f00dcb328d16bab12f11ea8f82ad",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10417435509055-image-53959616561471",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB291-WafflePant-OB29-WaffleHoodie-Ink-Q-WebUse-Lifestyle1.jpg?v=1787238905",
+          "sourceUrl": "https://onebonebrand.com/products/waffle-hoodie-ink",
+          "sha256": "9a8b0debdb59e55f93fe4cc070c8ab7e00f386f7a4effe6ee0d08528bd9f42d5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10417435509055-image-53959618560319",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB290-WaffleHoodie-Ink-Q-WebUse-Lifestyle1_cb477fc7-77ea-4b40-830b-7a9212def5e4.jpg?v=1787238952",
+          "sourceUrl": "https://onebonebrand.com/products/waffle-hoodie-ink",
+          "sha256": "bc9c4b4f09509ef60429728776d77f2c0cbc4fa90e610d11376b2ab5cb897f3f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10219261985087-image-52121237225791",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB211A-AirflowYachtShirt-Navy-ChrisVZ-LOW_REZ-Lifestyle7.jpg?v=1769616311",
+          "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-short-navy",
+          "sha256": "c187b0f3d0c85bcb9aa4be04afa1e469039dde679a00d86c325b0e45e11fc7ae",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "onebone-10219261985087-image-52121237094719",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB211A-AirflowYachtShirt-Navy-ChrisVZ-low_rez-Lifestyle2.jpg?v=1769616286",
+          "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-short-navy",
+          "sha256": "501d28a62fcc479060e980b50d73f17a013e481c4a10fb4c46eb420c9b66858f",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "onebone-10097354768703-image-53190312722751",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB107-L_SSplitHemTee-CarbonGreen-Tom-WEBUSE-Lifestyle3.jpg?v=1778521603",
+          "sourceUrl": "https://onebonebrand.com/products/l-s-split-hem-cotton-95-5-carbon-green",
+          "sha256": "6a047f77899a6d37691bfd1cfac6dbbee64a5ca213ff5c224ffbc1a8fff575e5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097354768703-image-53190312657215",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB107-L_SSplitHemTee-CarbonGreen-Tom-WEBUSE-Lifestyle1.jpg?v=1778521603",
+          "sourceUrl": "https://onebonebrand.com/products/l-s-split-hem-cotton-95-5-carbon-green",
+          "sha256": "f056eeb03443f9f5df49e33a8c78dc9074d6d72c20d3ed63b44f18fef1fb4753",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097350869311-image-52075980259647",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB107-L_SSplitHemTee-GreyMix-ChrisVZ-LOW_RES-Lifestyle2.jpg?v=1769386837",
+          "sourceUrl": "https://onebonebrand.com/products/l-s-split-hem-cotton-95-5-grey-mix",
+          "sha256": "d7747d8e9a4690ab5fbb7d9e2fbddaf4d9d1f846195d4f5fc0673f1bac61ce31",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097350869311-image-52075980390719",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB107-L_SSplitHemTee-GreyMix-Coulter-LOW_REZ-MediumShot1.jpg?v=1769386837",
+          "sourceUrl": "https://onebonebrand.com/products/l-s-split-hem-cotton-95-5-grey-mix",
+          "sha256": "441d84b8b0b067d9ad44ce8ee79be277de81afc0f33cf86eb45f9041d2fa03f3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097334387007-image-52086310535487",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB218-EverywearPantV2-Green-ChrisCarter-LOW_REZ-Lifestyle1.jpg?v=1769448022",
+          "sourceUrl": "https://onebonebrand.com/products/everywear-pant-v2-military-green",
+          "sha256": "03bc3813c3d6ca6e147323ac6b3933e382ab74f4c2308b42b1e53d52570929e6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097334387007-image-52086310437183",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB218-EverywearPantV2-Green-ChrisCarter-LOW_REZ-Detail1.jpg?v=1769448022",
+          "sourceUrl": "https://onebonebrand.com/products/everywear-pant-v2-military-green",
+          "sha256": "530db4fa145b258fd591cb073e258ca1cf1cade242020bb844aed9656ded748d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097327931711-image-52089293340991",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB264-JacquardTee-Floral-Q-LOW_REZ-Lifestyle1.jpg?v=1769467137",
+          "sourceUrl": "https://onebonebrand.com/products/jacquard-tee-grey-floral",
+          "sha256": "0b5b834ba3f780944c56eafd5d34fcadb03115c9dd251dd40ba4d697c5108998",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097327931711-image-52089293373759",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB264-JacquardTee-Floral-Q-LOW_REZ-MediumShot1.jpg?v=1769467137",
+          "sourceUrl": "https://onebonebrand.com/products/jacquard-tee-grey-floral",
+          "sha256": "a6a84b92400dc7894fafe20505ba77b9136904ccb8875c3c81295887ddbc5287",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097321836863-image-52086150136127",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBulletTee-Red-Q-LOW_RES-MediumShot1.jpg?v=1769445241",
+          "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-red",
+          "sha256": "db8d00d4a0e4c89a3de23941e55b588cd504fad0ab49df9158a751bd98d0f802",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097321836863-image-52086150168895",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB210-SplitHemBulletTee-Red-Q-LOW_REZ-Lifestyle1.jpg?v=1769445260",
+          "sourceUrl": "https://onebonebrand.com/products/split-hem-bullet-tee-red",
+          "sha256": "abb7cc986f49f6ed5bad533bed862633791ea3dcb712bacf59fe123d15c4f6b2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097203315007-image-52076292604223",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-Red-Dimitri-LOW_REZ-Lifestyle2.jpg?v=1769390136",
+          "sourceUrl": "https://onebonebrand.com/products/bullet-tee-red",
+          "sha256": "4176f85f8149d917b288b682f478e02ba81e507bafd57d5892c1542c9309d5c5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097203315007-image-52076292538687",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB115-BulletTee-Red-Dimitri-LOW_REZ-Back1.jpg?v=1769390136",
+          "sourceUrl": "https://onebonebrand.com/products/bullet-tee-red",
+          "sha256": "31c79613df427f6080dd4966c9339e346cf0245b83c7d4e123d399eea00277a7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097156653375-image-52089250677055",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB260-HoneycombSweater-Grey-Q-LOW_REZ-MediumShot1.jpg?v=1769466787",
+          "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-stone-grey",
+          "sha256": "837506f248cddc1ad20c35b1fcc5dbba28f1c69195dec62bc377962b9589b1da",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onebone-10097156653375-image-52089250611519",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2218/2875/files/OB260-HoneycombSweater-Grey-Q-LOW_REZ-Lifestyle1.jpg?v=1769466787",
+          "sourceUrl": "https://onebonebrand.com/products/honeycomb-crewneck-sweater-stone-grey",
+          "sha256": "66728050e4e346d391022d98f4157bc494ce233f9b2caaba2e40eadf43e48da2",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 22
+    }
+  ]
+}

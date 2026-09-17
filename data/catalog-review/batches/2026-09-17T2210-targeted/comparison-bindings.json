@@ -1,0 +1,375 @@
+[
+  {
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2210-targeted/prior-onebone-0.jpg",
+    "sha256": "8be40d1b4935c366c5506aa235b24d02ef58ca2449b4a0253ddcf7e95c0268ce",
+    "baselineCommit": "42aed1d",
+    "ordinals": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "images": [
+      {
+        "id": "onebone-10278752911679-image-53468130935103",
+        "sha256": "3b4c0f2b896c642cb40aa04dff5f8df1fdbecbe8678f842d571ee54aa6b426d6"
+      },
+      {
+        "id": "onebone-10278589563199-image-53191270531391",
+        "sha256": "4c0224a3168c97ecc2803afdc3fac15261b5eca507648187fdf9818424f92ad0"
+      },
+      {
+        "id": "onebone-10278584189247-image-53191239303487",
+        "sha256": "6880f16a295310783ef4f60228fe185c8416740bcfb4b3f667b0e54bf3381e69"
+      },
+      {
+        "id": "onebone-10278594511167-image-53191283540287",
+        "sha256": "6e894ec9c004909a84443eafd17d3ac92ca3d198613593388fc3b5df0e555c1d"
+      },
+      {
+        "id": "onebone-10278594511167-image-53191280427327",
+        "sha256": "4671ed7b28087fde53c3eed08ed979e3fdd7fcac486253811cacda3f666c81aa"
+      },
+      {
+        "id": "onebone-9710458110271-image-53959471464767",
+        "sha256": "c0693f74443015184311289c44626775104fde32aec6100944b846341aea9ab0"
+      },
+      {
+        "id": "onebone-10477722894655-image-53959447118143",
+        "sha256": "c44b37f0080d7ddb6828e14e8cc843097a036ebf8c2a50ee7d5cb790ce26dbfd"
+      },
+      {
+        "id": "onebone-10477718569279-image-53959477723455",
+        "sha256": "fa4c2807e321c8000b10366ef17953cfcf1396021ef70fe965e2e6c78780bd5f"
+      },
+      {
+        "id": "onebone-10477714440511-image-53955712319807",
+        "sha256": "0573ea5cab6c4bf2f2a673f5cb3403aeef9f08271c8f047dcaba545cd8b2ebdf"
+      },
+      {
+        "id": "onebone-10477706740031-image-53959440892223",
+        "sha256": "d484211f0fb1ea28c16f425e9beb242dc1227c3bf3846a3b7be7e016c38c5c04"
+      },
+      {
+        "id": "onebone-10417577787711-image-53959483556159",
+        "sha256": "346bb907c623dbb6fc510f7eab488a5e19b00e2a32d51bcfeca048d6d2d2bc5e"
+      },
+      {
+        "id": "onebone-9988815257919-image-53959558463807",
+        "sha256": "fdc3e95b4d73b228ecdf5c08fa1283bdfe7aa8b123c4072b9ca5d4c65020eba4"
+      },
+      {
+        "id": "onebone-10278582321471-image-53191237796159",
+        "sha256": "ef4033faaf175154b7fbc24badbcaac4eb0c9b59b61f7fb8fb5c6567e58351eb"
+      },
+      {
+        "id": "onebone-10278760907071-image-53191210500415",
+        "sha256": "cb4ad5640c3393acb662a94698c103606334a44d65d7eeb700c0357bf3ed6f7b"
+      },
+      {
+        "id": "onebone-10278757925183-image-53191219806527",
+        "sha256": "4d8a78571d20b265ffb89c823219ea68438466f4633863802571418a65d47b41"
+      },
+      {
+        "id": "onebone-10278737051967-image-53191352320319",
+        "sha256": "e4d7ae9c2cb356b529e7cb9a776a3319ab6d456399bd56b1bf0de4495436fe3c"
+      },
+      {
+        "id": "onebone-10278694945087-image-53191330398527",
+        "sha256": "6f4d76de22b87389df12d21970e0aba4e1e80712180bd0f6f523d8a71e4dbd45"
+      },
+      {
+        "id": "onebone-10278690357567-image-53191322730815",
+        "sha256": "7f9a07f23e37734a19e682a588f276ef56d2c7f867a2d029bd82f6cea9e5e356"
+      },
+      {
+        "id": "onebone-10278646415679-image-53022422630719",
+        "sha256": "1179fa59737f54f4fb519ff7cd3a7ff848254a82ea0ae012f2418af3ad50a777"
+      },
+      {
+        "id": "onebone-10278658867519-image-53022418501951",
+        "sha256": "c43bf742ad41e501ae65dd59a1a59d56e78922ce639839abf353ca86d751f924"
+      },
+      {
+        "id": "onebone-10278741279039-image-53053070836031",
+        "sha256": "f3215f6e47fdef2c757ab97a8c180eecd42b5f79c3be6b7a69d70ab9ccac3842"
+      },
+      {
+        "id": "onebone-10278610436415-image-53022365385023",
+        "sha256": "576caadf7dade9e42596c9b07b36ef3c75f907d5d4f894e706204d25d39bb730"
+      },
+      {
+        "id": "onebone-10278765756735-image-52821639495999",
+        "sha256": "cef748f1e4bd73e6ea68f3a9b9c8298f71e0e864df494c0736955719697cef39"
+      },
+      {
+        "id": "onebone-10278764642623-image-52821650211135",
+        "sha256": "f53b3b9daf4df95c0dc357eacbdd655ed745dc7e2becc0d18c1507e21902b392"
+      },
+      {
+        "id": "onebone-10277938954559-image-52821715190079",
+        "sha256": "8143cbe7ea66e6deb59114f3c5a42b1e39b23c055f4b3a1d72a77f09109f72ac"
+      },
+      {
+        "id": "onebone-10277936791871-image-52821748777279",
+        "sha256": "df5ec51f4d3bfd23c91a1ff0f50e274ec202f55d5b80bf49af77d43234a98dfd"
+      },
+      {
+        "id": "onebone-10277927780671-image-52821758345535",
+        "sha256": "4c9c572689f6b3407dab9ed0090d3eb98894b570014371d96d517d27d7599f9b"
+      },
+      {
+        "id": "onebone-10277920932159-image-52821765226815",
+        "sha256": "b7b62824c2082660ea3fe206c61a7341f4e6ef07a3b7628fc68fc0c5f6d6fa84"
+      },
+      {
+        "id": "onebone-10276853743935-image-52821817884991",
+        "sha256": "440f44ee5114e900db14f05d6b7cbaced2e6d4c659f6d610eea225bb564cb12e"
+      },
+      {
+        "id": "onebone-10276842832191-image-52821848031551",
+        "sha256": "099dccdeac83c74ba667a99286320bf8e43ab691d6d4449f3ed188f024ecfbd8"
+      },
+      {
+        "id": "onebone-10276809834815-image-52821989065023",
+        "sha256": "285787fcb6398c6dba3b9fb2cabbb154194e79ded351dd2ae7d1e85cf4df0a99"
+      },
+      {
+        "id": "onebone-10276808622399-image-52821990605119",
+        "sha256": "43509c8fd7e68a7f8c6a73731b18510dd2671fe6daf40c8a3f310b3d2062f28a"
+      },
+      {
+        "id": "onebone-10259282035007-image-52506845380927",
+        "sha256": "a5def863c4d258e48df7d63600d783183b41e403e876dc9639e800bd5b34c9e3"
+      },
+      {
+        "id": "onebone-10259296878911-image-52506880409919",
+        "sha256": "fdbf1550061b64533d11b6d944a939d5da928ff3bfd9d0a8e968ec642e5f1694"
+      },
+      {
+        "id": "onebone-10259314377023-image-52506995753279",
+        "sha256": "6d8ffca88d58554143feeb5be72c1b558b22fdc5ceb3dc721cc937bbc500b1c1"
+      },
+      {
+        "id": "onebone-10237771841855-image-52270820917567",
+        "sha256": "b2643c0e76fc5dbe3bd4c28ebde68305d4fb9780305b9c1d48d3bcaec5524629"
+      }
+    ]
+  },
+  {
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2210-targeted/prior-onebone-1.jpg",
+    "sha256": "70c67dbc8c58bc50bda3dcb07a2a3fa4661f42e234f83c581b755f4ecf27bcd7",
+    "baselineCommit": "42aed1d",
+    "ordinals": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "images": [
+      {
+        "id": "onebone-10144293945663-image-52086965305663",
+        "sha256": "2ceb31a11f44164ff97d3d85e2e78ee80d88d9fa6886f66834d4463eba0b3f6d"
+      },
+      {
+        "id": "onebone-10144295354687-image-52086964519231",
+        "sha256": "d94248c2b7a2f17f0d542c14944f43b9d4d3f3de50f47bfb80e350a73ef0fc83"
+      },
+      {
+        "id": "onebone-10218933911871-image-52119399825727",
+        "sha256": "52b6fc1ffe6256ea7ac6ef2a02556dd99b98c8dea2251cf38915a2196a2f355c"
+      },
+      {
+        "id": "onebone-10218964386111-image-52121237225791",
+        "sha256": "c187b0f3d0c85bcb9aa4be04afa1e469039dde679a00d86c325b0e45e11fc7ae"
+      },
+      {
+        "id": "onebone-10219283448127-image-52122628489535",
+        "sha256": "895bbe39b0abc3997bea0326a33e91cc9297eb3ed02a945c065b255942429c74"
+      },
+      {
+        "id": "onebone-10219455906111-image-52122690224447",
+        "sha256": "b3ae4ada32701375c856b7ad2f09a444aa805821909eea82262af25843d8f79f"
+      },
+      {
+        "id": "onebone-10219455906111-image-52122690158911",
+        "sha256": "61cfe5379dff62e3bb9e8cbceb19126f95cf8aa768f539a5d6da8c5f5715f64a"
+      },
+      {
+        "id": "onebone-10219485987135-image-52124171632959",
+        "sha256": "0a41a0bcb2ce0764c1f321b53ce6a22078ff9c88763db10a5bd4f0f147646302"
+      },
+      {
+        "id": "onebone-10224280273215-image-52159615172927",
+        "sha256": "8a98b3f4a3f20719998c7e4b2b074cc08cfce0d252a099a5514370d12c7d016d"
+      },
+      {
+        "id": "onebone-10173571957055-image-52076308070719",
+        "sha256": "f613481723ab928606b16466aad97af62ae10d5a4625ae7a3835d67816ba03ca"
+      },
+      {
+        "id": "onebone-10175226904895-image-52089834438975",
+        "sha256": "2f93df04e62a28184a89afaeed138153203353bb61ad314c3a35d43c8dbe210c"
+      },
+      {
+        "id": "onebone-10175226904895-image-52089834537279",
+        "sha256": "d9d51dd896b1d2238e6b29c10fc953f8d514a5acf09dbe84bfb48a9c9b101b5d"
+      },
+      {
+        "id": "onebone-9860721377599-image-52085608579391",
+        "sha256": "b0d526b4983299ea662abcabc55366b1c0041facc30acd0c60cd5f210c525778"
+      },
+      {
+        "id": "onebone-9194404282687-image-52076291785023",
+        "sha256": "caf27fb9810002b8ee41824fb64cc57476b2282ed52f206e7bf2d128cdf7a5cf"
+      },
+      {
+        "id": "onebone-9414059786559-image-52086181658943",
+        "sha256": "74886672cdbaa11d96ef04d0bd52e3a6159312adc4e05f326a12343a4355f050"
+      },
+      {
+        "id": "onebone-10158959493439-image-53190548848959",
+        "sha256": "bf9cb371277ce8292220e97837e4a8a15b832438bd77af5b58bccc9d97489eef"
+      },
+      {
+        "id": "onebone-10158895464767-image-52076403654975",
+        "sha256": "68987841dd75d9e04827d33213a32e40d186fa0aafd7593a48705be32357fcdf"
+      },
+      {
+        "id": "onebone-10143725879615-image-52076311544127",
+        "sha256": "ec6990803d1b45eab374474d485b8f9fd317f12a3b7ca599172c51d9492ff299"
+      },
+      {
+        "id": "onebone-10143728009535-image-52089367134527",
+        "sha256": "347b879fb5fed25206f4ff53099e4fe40ef0133beb43ced0d5295aacd3fe7ac8"
+      },
+      {
+        "id": "onebone-10127134851391-image-51467152949567",
+        "sha256": "db2b88e9bd2a7c268fd1fd7eafe7b92ccb899130c8b49c4699da5a6ceff7ad67"
+      },
+      {
+        "id": "onebone-10127133245759-image-52076310921535",
+        "sha256": "f8c5b54533511c8813c36bbeebc18cd60980fa840d32cfe015b272852d7f39dd"
+      },
+      {
+        "id": "onebone-10127126757695-image-52076309184831",
+        "sha256": "a60c733c405632219b18b0504edf2e7fc7b20faa0dbb65465b58a8feaf54e43d"
+      },
+      {
+        "id": "onebone-10118589546815-image-52077173506367",
+        "sha256": "ea4f68e8931c3cf1d72781c537873c6141e8a408843dbecada572a42e0459876"
+      },
+      {
+        "id": "onebone-10118458605887-image-52086897508671",
+        "sha256": "696cbeb759376c52c8a94dc006ddf77dedf316229973f77e841445b20dc40bca"
+      },
+      {
+        "id": "onebone-10118456017215-image-52086777119039",
+        "sha256": "321538fa06e8a3cf3b80418f4a2fc7acfa17c8b85c85f6a48684ac43595cb0b5"
+      },
+      {
+        "id": "onebone-10114881945919-image-52089284657471",
+        "sha256": "828247c6d4a2bf867953df10bd21d2cfae459bb866695eac84e618bd589e98bf"
+      },
+      {
+        "id": "onebone-10111453036863-image-52035863347519",
+        "sha256": "cb7e0bb93f8daeb67a8f746bf8388178f316102710d1dceecf860b84a6d524b0"
+      },
+      {
+        "id": "onebone-10097355686207-image-52089245106495",
+        "sha256": "c1ada838ad78104ccc4661cc8cf69afd3c20464d1dfa20aca4cc1b4effdf44c9"
+      },
+      {
+        "id": "onebone-10118590300479-image-52085601698111",
+        "sha256": "59b8754c5738bfb4d9100a3537a22699ecd19ffe5f6643c090cdd04efa74cb9b"
+      },
+      {
+        "id": "onebone-10118589645119-image-52077173047615",
+        "sha256": "3e4b3641d2036623ea74264fb5bc7910f719cf1dccd6b8c56927f47090aed9b4"
+      },
+      {
+        "id": "onebone-10118588039487-image-52076263735615",
+        "sha256": "11715e4009c637d03ec4ea58ee23f56aa4f3511c8f126a916a3c0cc20125aec3"
+      },
+      {
+        "id": "onebone-10118586302783-image-52089654051135",
+        "sha256": "42c228b2135100e7300abb8ecc8c38a3d689d67102e8096e69bf0f2a973b4544"
+      },
+      {
+        "id": "onebone-10118456017215-image-52086777217343",
+        "sha256": "a37c6d24d7353f37425432374a25669795b77aad774a1a75014eb54061930b3d"
+      },
+      {
+        "id": "onebone-10097340154175-image-53012883571007",
+        "sha256": "40e1351c321402edb07a7383cf3cd5d0af03274e0c01fd5a77df072d07f728cc"
+      },
+      {
+        "id": "onebone-10101135802687-image-53955641573695",
+        "sha256": "5eca682f444de1c13f39382ad8d23975fef2c9d8ebeb935f197fe0a9d21fb8b5"
+      }
+    ]
+  }
+]

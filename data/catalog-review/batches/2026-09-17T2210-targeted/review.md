@@ -1,0 +1,9 @@
+# Bearbottom and ONE BONE continuation
+
+Two bounded first-page listings contain 189 Bearbottom and 195 ONE BONE products. Every listing decision and snapshot digest is retained. Twelve new product pages per source are selected; exact-image deduplication leaves 43 initial candidates. A supplemental search of the selected ONE BONE galleries records all 68 image decisions: 22 previously sampled images, 39 deferred non-FullBody filenames, six unique downloads and one exact duplicate. Filename hints select candidates only; all labels come from direct inspection.
+
+All 49 candidates were inspected on five bound sheets. Original-image enlargements at ordinals 8, 10, 36 and 45 confirmed that knit blousing, pocketed hands, angled poses and long loose hems obscure required waist/hip contours. Only ordinal 8 supports shoulder/hip balance; no new complete reference is established. Two comparison sheets cover all 71 preceding ONE BONE admissions; repetitive gray/green crewneck outfits, plain-tee colorways, alternate crops and poses are excluded. The comparison sheets remain in the external corpus alongside the collection scripts and raw snapshots.
+
+Twelve admissions include three masculine-styled collared ensembles and nine neutral/unclear looks. Ten have build observations; six have build 2.5 or 3. Bearbottom adds a new publisher with five admissions; ONE BONE adds seven. Neutral tees and hoodies remain presentation-unclear rather than inheriting a department or model label. These are photo counts, not distinct people.
+
+The search improves outfit variety but none of the required-three-axis body settings gains a match. Prioritize fitted front views from other publishers next; these first-page polo colorways and loose ONE BONE layers have low contour yield. New pages, exclusions, alternative-image decisions, image hashes and the remaining queue are recorded. No deployment.

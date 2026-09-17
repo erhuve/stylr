@@ -1,8 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,125 photos; 3,087 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,156 photos; 3,056 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
 
-## Current continuation: Twillory, Barbell Apparel and saved archive
+## Current continuation: Bearbottom, ONE BONE and saved archive
+
+Batches `2026-09-17T2200-training` and `2026-09-17T2210-targeted` directly review 73 candidates and admit 31 photos: three masculine-styled, 15 feminine-styled and 13 unclear. Four enlarged original-image checks and comparison with all 71 prior ONE BONE admissions exclude repeated views and colorways. Twenty-seven additions support build, including six retail references at build 2.5 or 3. No new complete reference is established. Totals: 7,156 photos, 5,626 build observations and 290 complete references, including 44 masculine-styled. The broader-build benchmark remains 54; all 45 sampled body-filter counts are unchanged and twelve remain empty.
+
+Two bounded listings retain all 384 product decisions. Alternate ONE BONE galleries add six unique candidates from 68 recorded image decisions. Bearbottom adds a publisher, but cropped knit ensembles and loose ONE BONE layers remain low-yield for required body axes. Next sourcing should favor other publishers with fitted front views. Provenance distinguishes source selection from reviewed presentation and body labels.
+
+All 6,740 preceding expansion photo/asset/body rows and 7,125 presentation rows are unchanged. The original 4,800-image training collection reconstructs from seven reviewed partitions plus 3,744 pending rows beginning at original ordinal 1056. Continue after `2026-09-17T2210-targeted`; pending images remain excluded. Admission replay, image bindings, original-photo identity, complete presentation coverage and typechecking pass. All 131 unit tests pass (174,415 assertions, 382.62 seconds), and all 86 browser checks pass (3.6 minutes), including all 7,156 image loads. Image audit reports no exact duplicates. The 45-point coverage grid agrees with the app matcher; no tolerance or behavior changed. No deployment.
+
+## Previous continuation: Twillory, Barbell Apparel and saved archive
 
 Batches `2026-09-17T2100-training` and `2026-09-17T2110-targeted` contain 105 direct reviews and admit 57 photos: five masculine-styled, 31 feminine-styled, two mixed and 19 unclear. Six enlarged contour checks support one new complete masculine-styled reference. Totals are 7,125 photos, 5,599 build observations and 290 complete references, including 44 masculine-styled references. The broader-build benchmark remains 54; three sampled body settings gain one match and twelve remain empty.
 
