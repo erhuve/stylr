@@ -1,0 +1,3 @@
+# Retail breadth intake
+
+758 candidates; 278 admissions, 268 build observations and four complete references. Saved observations 0–575 were retained and the remaining 182 candidates directly inspected to finish the batch. Enlarged rechecks covered 277, 281, 304, 305 and 419. Ordinal 277 lost shoulder/waist labels because satin drape and pose concealed contours; the other four retained complete labels. Repetitive colorways, flat product shots, cropped details and back views are excluded where recorded. See `docs/verification/five-thousand-sourcing.md` for combined validation and deployment status.

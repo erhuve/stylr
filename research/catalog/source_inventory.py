@@ -23,6 +23,7 @@ def inventory():
     subprocess.run(['bun', str(REPO / 'scripts/audit-presentation.ts')], cwd=REPO, check=True)
     manifests = [DATA / 'baseline.json', DATA / 'intake.json']
     manifests += sorted((DATA / 'batches').glob('*/intake.json'))
+    manifests += sorted((DATA / 'batches').glob('*/pending-intake.json'))
     source_names = {urlsplit(row['sourceUrl']).netloc.removeprefix('www.'): row['source'] for manifest in manifests for row in read(manifest) if row.get('source')}
     pages = {}
     for manifest in manifests:

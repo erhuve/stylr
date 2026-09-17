@@ -1,0 +1,460 @@
+ordinal	view	build	shoulderHip	waist	evidence
+0	partial	2	?	?	Blue polo, crossed hands obscure waist.
+1	detail	?	?	?	Hem detail.
+2	partial	2	?	?	Navy cardigan over checked shirt; knit layers obscure contours.
+3	back	?	?	?	Rear cardigan.
+4	partial	2	?	?	Navy long-sleeve tee; bent torso and arm obscure waist.
+5	back	?	?	?	Rear tee.
+6	partial	1.5	?	?	Navy work jacket; jacket and hands hide contours.
+7	back	?	?	?	Rear jacket.
+8	partial	1.5	0	1	Pale blue fitted shirt with grey trousers; enlarged review shows approximately balanced widths and mild waist taper.
+9	back	?	?	?	Rear shirt.
+10	reject	?	?	?	White colorway repeats 8.
+11	back	?	?	?	Rear white shirt.
+12	reject	?	?	?	Black colorway repeats fitted shirt ensemble.
+13	back	?	?	?	Rear black shirt.
+14	detail	?	?	?	Shorts crop without shoulders.
+15	back	?	?	?	Rear shorts crop.
+16	detail	?	?	?	Shorts crop without shoulders.
+17	back	?	?	?	Rear shorts crop.
+18	detail	?	?	?	Shorts crop without shoulders.
+19	back	?	?	?	Rear shorts crop.
+20	detail	?	?	?	Shorts crop without shoulders.
+21	back	?	?	?	Rear shorts crop.
+22	partial	2	1	?	Pale striped polo and light trousers; shoulders broader, enlarged review shows draped hem obscuring waist.
+23	back	?	?	?	Rear polo.
+24	reject	?	?	?	White polo repeats polo styling.
+25	back	?	?	?	Rear polo.
+26	detail	?	?	?	Trouser crop.
+27	back	?	?	?	Rear trouser crop.
+28	detail	?	?	?	Jeans crop.
+29	back	?	?	?	Rear jeans crop.
+30	partial	2	1	?	Blue patterned polo and black trousers; shoulders broader, enlarged review shows draped hem obscuring waist.
+31	back	?	?	?	Rear polo.
+32	partial	1.5	?	?	Short sleeve pale shirt and beige trousers; shirt hem conceals waist.
+33	back	?	?	?	Rear shirt.
+34	reject	?	?	?	Lilac variant repeats short sleeve shirt ensemble.
+35	back	?	?	?	Rear shirt.
+36	reject	?	?	?	Blue variant repeats short sleeve shirt ensemble.
+37	back	?	?	?	Rear shirt.
+38	partial	1.5	?	?	Green checked shirt and black trousers; shirt hem hides indentation.
+39	back	?	?	?	Rear checked shirt.
+40	detail	?	?	?	Cropped jeans.
+41	back	?	?	?	Rear jeans crop.
+42	detail	?	?	?	Cropped trousers.
+43	back	?	?	?	Rear trousers crop.
+44	detail	?	?	?	Cropped trousers.
+45	back	?	?	?	Rear trousers crop.
+46	detail	?	?	?	Cropped shorts.
+47	back	?	?	?	Rear shorts crop.
+48	detail	?	?	?	Cropped shorts.
+49	back	?	?	?	Rear shorts crop.
+50	partial	1.5	?	?	Taupe zip hoodie and dark pants; hoodie hides waist.
+51	back	?	?	?	Rear hoodie.
+52	detail	?	?	?	Cropped joggers.
+53	back	?	?	?	Rear joggers crop.
+54	detail	?	?	?	Cropped joggers.
+55	back	?	?	?	Rear joggers crop.
+56	detail	?	?	?	Cropped shorts.
+57	back	?	?	?	Rear shorts crop.
+58	detail	?	?	?	Cropped shorts.
+59	back	?	?	?	Rear shorts crop.
+60	reject	?	?	?	Green hoodie scene has uncertain photographic authenticity; excluded pending verification.
+61	detail	?	?	?	Cropped blue trousers.
+62	back	?	?	?	Rear trousers crop.
+63	reject	?	?	?	Grey sweater scene has uncertain photographic authenticity; excluded pending verification.
+64	back	?	?	?	Rear grey sweater scene.
+65	reject	?	?	?	Grey sweater street scene has uncertain photographic authenticity; excluded pending verification.
+66	full	2	1	1	Black fitted tee and blue trousers; shoulders wider than hips, mild waist taper.
+67	back	?	?	?	Rear tee and trousers.
+68	reject	?	?	?	Grey tee walking scene has uncertain photographic authenticity; excluded pending verification.
+69	detail	?	?	?	Cropped sweatpants.
+70	partial	2	?	?	Blue fitted tee and grey sweats; clasped hands hide waist and angle limits shoulder comparison.
+71	reject	?	?	?	White shirt walking scene has uncertain photographic authenticity; excluded pending verification.
+72	partial	1.5	?	?	Cream lace-shoulder blouse and denim; flared blouse hides waist and hips.
+73	back	?	?	?	Rear blouse.
+74	reject	?	?	?	Apparent synthetic promotional scene; not a verified original outfit photograph.
+75	reject	?	?	?	Apparent synthetic promotional scene; not a verified original outfit photograph.
+76	reject	?	?	?	Apparent blank garment mockup; authenticity uncertain.
+77	detail	?	?	?	Flat hoodie.
+78	reject	?	?	?	Apparent synthetic hoodie scene.
+79	reject	?	?	?	Apparent synthetic hoodie scene.
+80	reject	?	?	?	Apparent synthetic hoodie scene.
+81	reject	?	?	?	Apparent blank garment mockup; authenticity uncertain.
+82	reject	?	?	?	Apparent blank garment mockup; authenticity uncertain.
+83	reject	?	?	?	Apparent synthetic street scene.
+84	detail	?	?	?	Fabric detail.
+85	reject	?	?	?	Apparent synthetic park scene.
+86	reject	?	?	?	Apparent synthetic walking scene.
+87	detail	?	?	?	Folded jeans.
+88	detail	?	?	?	Jeans crop without shoulders.
+89	reject	?	?	?	Apparent blank garment mockup; authenticity uncertain.
+90	reject	?	?	?	Apparent blank garment mockup; authenticity uncertain.
+91	reject	?	?	?	Apparent synthetic walking scene.
+92	reject	?	?	?	Promotional jacket mockup; authenticity uncertain.
+93	reject	?	?	?	Promotional jacket mockup; authenticity uncertain.
+94	reject	?	?	?	Apparent synthetic interior scene.
+95	detail	?	?	?	Lounge pants crop.
+96	detail	?	?	?	Lounge pants crop.
+97	reject	?	?	?	Apparent synthetic interior scene.
+98	reject	?	?	?	Apparent synthetic interior scene.
+99	detail	?	?	?	Jeans crop.
+100	back	?	?	?	Rear jeans crop.
+101	reject	?	?	?	Apparent synthetic resort scene.
+102	full	1.5	?	?	Printed short sleeve shirt and grey shorts; bent torso and draped hem obscure contours.
+103	detail	?	?	?	Shorts crop.
+104	reject	?	?	?	Closer version of fitted striped outfit at 105.
+105	full	2	1	1	Green striped fitted shirt and black trousers; shoulders broader, mild waist taper.
+106	reject	?	?	?	Closer version of outfit at 107.
+107	full	2	1	1	Blue striped shirt and white trousers; shoulders broader and mild waist taper.
+108	partial	2.5	1	1	Fitted checked shirt and black trousers; broad shoulders and mild waist taper visible.
+109	reject	?	?	?	Clasped-hands repeat of checked shirt outfit.
+110	partial	2.5	?	?	Beige knit hoodie and black trousers; clasped hands obscure waist.
+111	reject	?	?	?	Crossed-arms repeat of knit hoodie outfit.
+112	partial	2	?	?	Black formal coat with shirt and tie; structure hides body contours.
+113	back	?	?	?	Rear formal coat.
+114	partial	2.5	1	1	Fitted pale striped shirt and navy trousers; shoulders broader, mild waist taper.
+115	reject	?	?	?	Side repeat of striped shirt outfit.
+116	full	2	?	?	Light checked suit with white shirt; tailoring obscures body shape.
+117	back	?	?	?	Rear checked suit.
+118	partial	2	1	1	Blue tucked shirt, orange belt and dark trousers; shoulders broader with visible waist taper.
+119	reject	?	?	?	Side repeat of blue shirt outfit.
+120	reject	?	?	?	Dark shirt colorway repeats tucked shirt ensemble.
+121	reject	?	?	?	Side repeat of dark shirt ensemble.
+122	reject	?	?	?	Cuff-adjusting repeat of outfit at 123.
+123	full	2	1	1	Checked fitted shirt with navy trousers and tan shoes; shoulders wider, moderate waist taper.
+124	detail	?	?	?	Trouser crop.
+125	detail	?	?	?	Trouser crop.
+126	detail	?	?	?	Trouser crop.
+127	detail	?	?	?	Trouser crop.
+128	reject	?	?	?	Closer white tuxedo view; full ensemble retained at 129.
+129	full	2.5	?	?	White tuxedo and black bow tie; suit structure hides body axes.
+130	reject	?	?	?	Closer version of navy knit outfit at 131.
+131	full	2	1	1	Navy knit polo and white trousers; fitted outline shows broad shoulders and mild indentation.
+132	reject	?	?	?	Beige variant repeats knit polo styling.
+133	reject	?	?	?	Beige variant repeats knit polo styling.
+134	reject	?	?	?	Black variant repeats knit polo styling.
+135	reject	?	?	?	Black variant repeats knit polo styling.
+136	partial	2	?	?	Black velvet tuxedo and bow tie; structured tailoring hides contours.
+137	reject	?	?	?	Cuff-adjusting repeat of tuxedo.
+138	reject	?	?	?	Clasped hands version of black turtleneck outfit at 139.
+139	partial	2	1	1	Black fitted turtleneck and white trousers; broad shoulders and mild waist taper.
+140	full	2	?	?	Olive suit with white shirt; suit structure obscures contours.
+141	detail	?	?	?	Suit sleeve detail.
+142	detail	?	?	?	Trouser crop.
+143	reject	?	?	?	Repeat olive suit.
+144	reject	?	?	?	Repeat olive suit.
+145	reject	?	?	?	Brown variant repeats open-collar suit styling.
+146	reject	?	?	?	Brown variant repeats open-collar suit styling.
+147	detail	?	?	?	Trouser crop.
+148	reject	?	?	?	White colorway repeats tucked shirt styling.
+149	partial	2.5	1	1	Grey fitted shirt and black trousers; shoulders broader and mild indentation visible.
+150	detail	?	?	?	Sleeve-adjusting closeup.
+151	detail	?	?	?	Trouser crop.
+152	full	2	?	?	Grey suit with black tie; jacket structure conceals contours.
+153	reject	?	?	?	Closer repeat of grey suit.
+154	back	?	?	?	Rear suit.
+155	detail	?	?	?	Trouser crop.
+156	full	2	1	1	White fitted shirt, brown tie and cream trousers; broad shoulders and visible taper.
+157	reject	?	?	?	Cream suit colorway repeats existing suit styling.
+158	reject	?	?	?	Closer cream suit repeat.
+159	detail	?	?	?	Suit sleeve detail.
+160	detail	?	?	?	Flat tee.
+161	detail	?	?	?	Flat tee.
+162	detail	?	?	?	Flat overalls.
+163	detail	?	?	?	Flat overalls.
+164	detail	?	?	?	Flat dress.
+165	detail	?	?	?	Flat dress.
+166	detail	?	?	?	Flat tee.
+167	detail	?	?	?	Flat tee.
+168	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+169	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+170	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+171	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+172	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+173	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+174	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+175	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+176	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+177	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+178	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+179	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+180	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+181	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+182	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+183	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+184	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+185	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+186	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+187	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+188	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+189	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+190	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+191	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+192	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+193	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+194	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+195	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+196	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+197	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+198	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+199	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+200	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+201	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+202	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+203	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+204	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+205	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+206	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+207	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+208	detail	?	?	?	Flat garment with no person; directly inspected on sheets 14-17.
+209	partial	1.5	?	?	Speckled overshirt and dark jeans; loose shirt hides waist and hips.
+210	detail	?	?	?	Flat hoodie.
+211	partial	1.5	?	?	Pastel graphic hoodie and shorts; oversized top conceals contours.
+212	detail	?	?	?	Flat garment with no person.
+213	detail	?	?	?	Flat garment with no person.
+214	detail	?	?	?	Flat garment with no person.
+215	detail	?	?	?	Flat garment with no person.
+216	detail	?	?	?	Flat garment with no person.
+217	detail	?	?	?	Flat garment with no person.
+218	detail	?	?	?	Flat garment with no person.
+219	detail	?	?	?	Trouser crop without shoulders.
+220	full	1.5	0	1	Black fitted sleeveless bodysuit with socks and sneakers; balanced shoulders/hips, moderate indentation.
+221	reject	?	?	?	Kneeling repeat of black bodysuit.
+222	full	1.5	?	1	Black long-sleeve bodysuit; waist visible, raised arms distort shoulder comparison.
+223	reject	?	?	?	Stretching repeat of bodysuit.
+224	full	1.5	?	1	Black short-sleeve bodysuit; visible indentation, tilted stance limits width comparison.
+225	detail	?	?	?	Neckline crop.
+226	reject	?	?	?	Pale colorway repeats bodysuit styles already retained.
+227	reject	?	?	?	Pale colorway repeats bodysuit styles already retained.
+228	reject	?	?	?	Pale colorway repeats bodysuit styles already retained.
+229	reject	?	?	?	Pale colorway repeats bodysuit styles already retained.
+230	full	1.5	0	1	Pale long-sleeve bodysuit with relaxed arms; shoulders/hips balanced, moderate indentation.
+231	reject	?	?	?	Side repeat of pale bodysuit.
+232	full	1.5	?	1	Pale sleeveless mini dress; fitted torso shows indentation, slight skirt flare obscures hip width.
+233	back	?	?	?	Rear mini dress.
+234	reject	?	?	?	Pink colorway repeats sleeveless bodysuit.
+235	reject	?	?	?	Pink colorway repeats sleeveless bodysuit.
+236	full	1.5	?	1	Pale long-sleeve mini dress; torso indentation visible, skirt flare obscures hips.
+237	back	?	?	?	Rear dress.
+238	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+239	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+240	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+241	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+242	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+243	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+244	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+245	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+246	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+247	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+248	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+249	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+250	reject	?	?	?	Repeated pink/blue colorways of bodysuits and mini dresses; no distinct ensemble added.
+251	back	?	?	?	Rear blue dress.
+252	reject	?	?	?	Orange colorways repeat reviewed bodysuit and dress styles.
+253	reject	?	?	?	Orange colorways repeat reviewed bodysuit and dress styles.
+254	reject	?	?	?	Orange colorways repeat reviewed bodysuit and dress styles.
+255	reject	?	?	?	Orange colorways repeat reviewed bodysuit and dress styles.
+256	reject	?	?	?	Orange colorways repeat reviewed bodysuit and dress styles.
+257	reject	?	?	?	Orange colorways repeat reviewed bodysuit and dress styles.
+258	reject	?	?	?	Orange colorways repeat reviewed bodysuit and dress styles.
+259	back	?	?	?	Rear orange dress crop.
+260	detail	?	?	?	Leggings crop without shoulders.
+261	detail	?	?	?	Leggings crop without shoulders.
+262	detail	?	?	?	Leggings crop without shoulders.
+263	back	?	?	?	Rear leggings crop.
+264	full	1.5	0	1	Pink fitted athletic crop and leggings; balanced shoulders/hips and moderate indentation.
+265	reject	?	?	?	Repeat pink activewear outfit.
+266	full	1.5	0	1	Olive athletic halter and cycling shorts; balanced shoulders/hips and moderate indentation.
+267	reject	?	?	?	Stretching repeat of olive shorts outfit.
+268	reject	?	?	?	Repeat olive leggings outfit; clearer front view retained at 270.
+269	reject	?	?	?	Repeat olive leggings outfit; clearer front view retained at 270.
+270	full	1.5	0	1	Olive scoop athletic top and leggings; balanced widths and moderate indentation.
+271	reject	?	?	?	Repeated pose or taupe colorway of activewear ensembles.
+272	reject	?	?	?	Repeated pose or taupe colorway of activewear ensembles.
+273	reject	?	?	?	Repeated pose or taupe colorway of activewear ensembles.
+274	detail	?	?	?	Leggings crop without shoulders.
+275	reject	?	?	?	Taupe/brown colorways and alternate poses repeat retained activewear ensembles.
+276	reject	?	?	?	Taupe/brown colorways and alternate poses repeat retained activewear ensembles.
+277	reject	?	?	?	Taupe/brown colorways and alternate poses repeat retained activewear ensembles.
+278	reject	?	?	?	Taupe/brown colorways and alternate poses repeat retained activewear ensembles.
+279	reject	?	?	?	Taupe/brown colorways and alternate poses repeat retained activewear ensembles.
+280	detail	?	?	?	Leggings crop without shoulders.
+281	detail	?	?	?	Leggings crop without shoulders.
+282	detail	?	?	?	Leggings crop without shoulders.
+283	back	?	?	?	Rear activewear.
+284	full	3	0	1	Black athletic top and cycling shorts; enlarged review shows approximately balanced widths and moderate indentation.
+285	full	3	0	1	Black athletic top and cycling shorts; approximately balanced widths and moderate indentation.
+286	detail	?	?	?	Shorts or leggings crop without shoulders.
+287	detail	?	?	?	Shorts or leggings crop without shoulders.
+288	detail	?	?	?	Shorts or leggings crop without shoulders.
+289	full	3	?	?	Black athletic top and leggings; profile angle prevents frontal contour judgment.
+290	partial	3	?	?	Burgundy athletic set with knee lifted; pose obscures contours.
+291	detail	?	?	?	Side leggings crop.
+292	reject	?	?	?	Closer repeat of black layered outfit at 293.
+293	full	2.5	?	?	Black cardigan, tank and joggers; layers conceal body contours.
+294	detail	?	?	?	Waistband detail.
+295	partial	3	?	?	Teal athletic top and shorts; pulled waistband and spread arms distort widths.
+296	full	2.5	?	?	Teal asymmetric dress; side angle and drape hide body axes.
+297	back	?	?	?	Rear teal dress.
+298	full	2.5	?	1	Blue athletic top and black shorts; waist indentation visible, turned torso obscures shoulder balance.
+299	detail	?	?	?	Shorts crop.
+300	partial	2.5	?	?	Black athletic jacket over blue top and shorts; jacket hides waist.
+301	partial	3	?	?	White athletic top, black jacket and shorts; leaning pose and jacket obscure axes.
+302	partial	3	?	?	White tee and blue leggings; side angle and loose hem hide axes.
+303	back	?	?	?	Rear tee and leggings.
+304	detail	?	?	?	Skirt and leggings crop.
+305	full	3	?	?	Black athletic top, skirt and cropped leggings; skirt hides hip width.
+306	detail	?	?	?	Cropped flared trousers.
+307	full	3	0	1	Grey athletic top and fitted flares; enlarged review shows approximately balanced widths and moderate indentation.
+308	detail	?	?	?	Waist and flare crop.
+309	back	?	?	?	Rear activewear.
+310	detail	?	?	?	Side leggings crop.
+311	full	3	?	1	Grey athletic top and leggings; indentation visible, raised arms distort shoulders.
+312	reject	?	?	?	Cropped repeats of retained grey athletic set.
+313	reject	?	?	?	Cropped repeats of retained grey athletic set.
+314	reject	?	?	?	Cropped repeats of retained grey athletic set.
+315	reject	?	?	?	Walking repeat of grey athletic set.
+316	detail	?	?	?	Cycling shorts crop.
+317	full	3	0	1	Black high-neck athletic crop and shorts; approximately balanced widths and moderate indentation.
+318	back	?	?	?	Rear shorts.
+319	detail	?	?	?	Shorts crops without shoulders.
+320	detail	?	?	?	Shorts crops without shoulders.
+321	detail	?	?	?	Shorts crops without shoulders.
+322	reject	?	?	?	Repeat black cycling outfit from 284.
+323	back	?	?	?	Rear shorts.
+324	detail	?	?	?	Leggings crop.
+325	full	3	?	1	Purple athletic set; visible waist indentation, raised arms prevent shoulder comparison.
+326	reject	?	?	?	Purple shorts colorway repeats black shorts outfit.
+327	back	?	?	?	Rear shorts.
+328	detail	?	?	?	Leggings crop.
+329	back	?	?	?	Rear leggings.
+330	full	3	?	?	Charcoal athletic top and skirt; skirt covers hip contour.
+331	reject	?	?	?	Lifted-skirt repeat of charcoal ensemble.
+332	partial	3	0	1	Blue fitted athletic tank and cropped leggings; balanced widths and moderate indentation visible.
+333	reject	?	?	?	Dancing repeat of blue athletic ensemble.
+334	reject	?	?	?	Closer version of charcoal tank ensemble at 335.
+335	full	3	?	?	Charcoal ruched tank and cropped leggings; raised arm and angled pose obscure axes.
+336	reject	?	?	?	Charcoal colorway repeats blue athletic ensemble.
+337	reject	?	?	?	Charcoal colorway repeats blue athletic ensemble.
+338	detail	?	?	?	Leggings crop.
+339	reject	?	?	?	Rear-side repeat of blue athletic outfit.
+340	detail	?	?	?	Shorts crop.
+341	back	?	?	?	Rear shorts set.
+342	detail	?	?	?	Flat sleeveless top.
+343	detail	?	?	?	Flat sleeveless top.
+344	detail	?	?	?	Flat sleeveless top.
+345	detail	?	?	?	Flat sleeveless top.
+346	full	1.5	?	?	Red flowing top and wide trousers; drape obscures waist and hips.
+347	detail	?	?	?	Flat sleeveless top; no person.
+348	detail	?	?	?	Flat sleeveless top; no person.
+349	detail	?	?	?	Flat sleeveless top; no person.
+350	detail	?	?	?	Flat sleeveless top; no person.
+351	detail	?	?	?	Flat sleeveless top; no person.
+352	detail	?	?	?	Flat sleeveless top; no person.
+353	detail	?	?	?	Flat sleeveless top; no person.
+354	detail	?	?	?	Flat sleeveless top; no person.
+355	detail	?	?	?	Flat sleeveless top; no person.
+356	detail	?	?	?	Flat sleeveless top; no person.
+357	detail	?	?	?	Flat sleeveless top; no person.
+358	detail	?	?	?	Flat sleeveless top; no person.
+359	detail	?	?	?	Flat sleeveless top; no person.
+360	detail	?	?	?	Flat sleeveless top; no person.
+361	detail	?	?	?	Flat sleeveless top; no person.
+362	detail	?	?	?	Flat sleeveless top; no person.
+363	detail	?	?	?	Flat sleeveless top; no person.
+364	detail	?	?	?	Flat sleeveless top; no person.
+365	detail	?	?	?	Flat sleeveless top; no person.
+366	detail	?	?	?	Flat sleeveless top; no person.
+367	detail	?	?	?	Flat sleeveless top; no person.
+368	detail	?	?	?	Flat sleeveless top; no person.
+369	detail	?	?	?	Flat sleeveless top; no person.
+370	detail	?	?	?	Flat sleeveless top; no person.
+371	detail	?	?	?	Flat sleeveless top; no person.
+372	detail	?	?	?	Flat sleeveless top; no person.
+373	detail	?	?	?	Flat sleeveless top; no person.
+374	detail	?	?	?	Flat sleeveless top; no person.
+375	detail	?	?	?	Flat sleeveless top; no person.
+376	detail	?	?	?	Flat sleeveless top; no person.
+377	detail	?	?	?	Flat sleeveless top; no person.
+378	detail	?	?	?	Flat sleeveless top; no person.
+379	detail	?	?	?	Flat sleeveless top; no person.
+380	detail	?	?	?	Flat sleeveless top; no person.
+381	detail	?	?	?	Flat sleeveless top; no person.
+382	detail	?	?	?	Flat sleeveless top; no person.
+383	detail	?	?	?	Flat sleeveless top; no person.
+384	detail	?	?	?	Flat sleeveless top; no person.
+385	detail	?	?	?	Flat sleeveless top; no person.
+386	detail	?	?	?	Flat sleeveless top; no person.
+387	detail	?	?	?	Flat sleeveless top; no person.
+388	reject	?	?	?	Red ensemble repeats 346.
+389	reject	?	?	?	Red ensemble repeats 346.
+390	detail	?	?	?	Flat sleeveless top.
+391	detail	?	?	?	Flat sleeveless top.
+392	detail	?	?	?	Flat sleeveless top.
+393	detail	?	?	?	Flat sleeveless top.
+394	full	1.5	?	?	Pink sleeveless top and black wide trousers; flowing clothing hides contours.
+395	detail	?	?	?	Flat top.
+396	reject	?	?	?	Pale blue variant repeats sleeveless ensemble at 394.
+397	detail	?	?	?	Flat top.
+398	detail	?	?	?	Flat top.
+399	detail	?	?	?	Flat top.
+400	partial	2.5	?	?	Olive skirt suit and lilac turtleneck; jacket and skirt obscure axes.
+401	full	2.5	0	1	Lilac fitted turtleneck and jeans; balanced shoulders/hips with moderate indentation.
+402	full	2.5	0	1	Lilac V-neck fitted tee, belted dark trousers and heeled boots; balanced widths and moderate indentation.
+403	back	?	?	?	Rear tee.
+404	full	2.5	?	?	Lilac square-neck top with brown skirt; skirt conceals hips.
+405	partial	2.5	?	?	Lilac tee with purple skirt; angle and skirt obscure body axes.
+406	full	1.5	0	1	Lilac fitted tee and cropped jeans; balanced shoulders/hips and moderate indentation.
+407	back	?	?	?	Rear tee.
+408	full	2.5	0	1	Lilac V-neck top, cropped jeans and heeled boots; balanced widths and moderate indentation.
+409	reject	?	?	?	Closer repeat of lilac V-neck ensemble.
+410	reject	?	?	?	Near-identical lilac top and jeans ensemble already retained.
+411	back	?	?	?	Rear lilac top.
+412	full	1.5	?	?	Pink collared sweater, grey underlayer and dark pencil skirt; layered waist hides indentation.
+413	reject	?	?	?	Repeat pink sweater and skirt.
+414	full	1.5	?	?	Green double-breasted top and wide trousers; structured top and wide hips obscure axes.
+415	full	3	?	?	Charcoal tailored top and wide trousers with draped layer; body contours hidden.
+416	detail	?	?	?	Blouse neckline and sleeve crop.
+417	full	3	?	?	Pink knit and dark flared skirt; skirt hides hip contour.
+418	full	3	?	?	Blue collared knit and brown skirt; skirt obscures hip width.
+419	full	1.5	?	?	Black short-sleeve fit-and-flare dress and boots; skirt hides hip contour.
+420	back	?	?	?	Rear black dress.
+421	detail	?	?	?	Face and neckline crop.
+422	detail	?	?	?	Upper-body knit detail.
+423	full	1.5	?	?	Mustard collared knit and green pencil skirt; loose knit hides waist.
+424	full	3	?	?	Green skirt suit; structured layers hide waist and hip contour.
+425	reject	?	?	?	Closer repeat of green skirt suit.
+426	partial	3	?	?	Olive jacket and trousers over white top; layers obscure axes.
+427	full	1.5	?	?	Mustard knit and belted dark flared skirt; skirt hides hips.
+428	reject	?	?	?	Untucked repeat of mustard knit skirt ensemble.
+429	reject	?	?	?	Dark colorway repeats wide-trouser tailored ensemble at 415.
+430	reject	?	?	?	Dark colorway repeats wide-trouser tailored ensemble at 415.
+431	detail	?	?	?	Collar and face detail.
+432	partial	1.5	?	?	Taupe turtleneck and black trousers; profile limits width comparison.
+433	full	1.5	0	1	Taupe fitted V-neck and cuffed jeans with boots; balanced widths and moderate indentation.
+434	back	?	?	?	Rear tee.
+435	reject	?	?	?	Near-identical taupe top and cropped jeans styling.
+436	back	?	?	?	Rear tee.
+437	partial	2.5	0	1	Taupe fitted tee and dark jeans; balanced shoulders/hips with moderate indentation.
+438	reject	?	?	?	Untucked repeat of taupe tee.
+439	reject	?	?	?	Taupe variant repeats fitted tee and cropped jeans styling.
+440	back	?	?	?	Rear top.
+441	full	1.5	?	?	Taupe fitted top and green wide pleated trousers; pleats hide hip contour.
+442	reject	?	?	?	Closer repeat of taupe top and jeans.
+443	detail	?	?	?	Upper-body knit detail.
+444	detail	?	?	?	Face and neckline detail.
+445	full	2.5	?	?	Blue collared knit and green flared skirt; knit and skirt hide contours.
+446	reject	?	?	?	Repeat blue knit and green skirt.
+447	full	1.5	?	?	Green cape over wide trousers and taupe top; cape obscures shoulder and waist.
+448	reject	?	?	?	Side repeat of top and green trousers at 441.
+449	partial	1.5	?	?	Black structured top over lilac turtleneck and dark trousers; layers hide axes.
+450	full	2.5	?	?	Black structured jacket with wide trousers; layers hide body contours.
+451	full	3	?	?	Burgundy dress with black jacket; layers and distant framing obscure axes.
+452	detail	?	?	?	Face and sleeve detail.
+453	full	1.5	?	?	Black jacket over lilac turtleneck and pencil skirt; layers conceal waist and hips.
+454	reject	?	?	?	Blue colorway repeats collared knit and pencil skirt styling.
+455	reject	?	?	?	Repeat pink sweater and pencil skirt at 412.
+456	reject	?	?	?	Repeat pink sweater and pencil skirt at 412.
+457	partial	2.5	?	?	Burgundy off-shoulder draped top and shorts; gathers and turned pose hide contours.
+458	reject	?	?	?	Repeat burgundy ensemble.

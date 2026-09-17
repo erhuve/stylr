@@ -1,10 +1,9 @@
-import { test, expect } from './fixture';
+import { test, expect, exhaustedPhotoSession } from './fixture';
 import { PHOTOS } from '../../src/lib/photo-catalog';
 import { freshPhotoSession, nextPhoto, PHOTO_KEY, votePhoto } from '../../src/lib/photo-session';
 
 test('exhausted positive selection does not claim insufficient discovery', async ({ page }) => {
-  let s = freshPhotoSession();
-  for (let i = 0; i < PHOTOS.length; i++) s = votePhoto(s, nextPhoto(s, PHOTOS)!.id, 'wear', PHOTOS);
+  const s = exhaustedPhotoSession('wear');
   s.step = 'portrait';
   await page.addInitScript(({ s, key }) => localStorage.setItem(key, JSON.stringify(s)), { s, key: PHOTO_KEY });
   await page.goto('/');

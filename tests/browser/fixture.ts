@@ -1,6 +1,18 @@
 import { test as base, expect, type Page } from '@playwright/test';
 import { readFile } from 'node:fs/promises';
 import path from 'node:path';
+import { PHOTOS } from '../../src/lib/photo-catalog';
+import { freshPhotoSession, nextPhoto, votePhoto } from '../../src/lib/photo-session';
+import type { PhotoReaction, PhotoSession } from '../../src/lib/photo-types';
+
+export function exhaustedPhotoSession(reaction: PhotoReaction): PhotoSession {
+  const session = freshPhotoSession();
+  session.votes = PHOTOS.slice(0, -1).map(photo => ({ photoId: photo.id, reaction, more: [], less: [], note: '' }));
+  const result = votePhoto(session, nextPhoto(session, PHOTOS)!.id, reaction, PHOTOS);
+  expect(result.votes).toHaveLength(PHOTOS.length);
+  expect(nextPhoto(result, PHOTOS)).toBeUndefined();
+  return result;
+}
 
 export const test = base.extend({
   context: async ({ context }, use) => {

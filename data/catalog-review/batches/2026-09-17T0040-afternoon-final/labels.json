@@ -1,0 +1,2290 @@
+[
+  {
+    "id": "wildfang-10365911040181-image-74481062412469",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tee-2",
+    "localPath": "images/wildfang-10365911040181-image-74481062412469.webp",
+    "sha256": "583683b917582aa816c6a68115a3744b9b089363ac7d7a7fbfde68ce895b4f38",
+    "ordinal": 0,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White fitted tee with floral trousers; seated pose obscures hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10365911040181-image-74481062478005",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tee-2",
+    "localPath": "images/wildfang-10365911040181-image-74481062478005.webp",
+    "sha256": "15f0c24834d014c8a0b2905c25411b8ecc722f594c253d10d024ec8e9dfc0070",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Face and neckline crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10365911138485-image-74481069031605",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tee-3",
+    "localPath": "images/wildfang-10365911138485-image-74481069031605.webp",
+    "sha256": "df227d809f4fb2a8b763bb86537cc1047d6f4092ed04b545df26b9c1f110cd21",
+    "ordinal": 2,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown tee and black trousers; pulled hem obscures waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10365911138485-image-74481069064373",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-mock-neck-tee-3",
+    "localPath": "images/wildfang-10365911138485-image-74481069064373.webp",
+    "sha256": "debdf15419a6bf2d846efbdb411cc40e74ca4bb88056c5171e6dd7a33fad5dc0",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of tee outfit at 2.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10398915199157-image-74801308401845",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-zip-up-shirt",
+    "localPath": "images/wildfang-10398915199157-image-74801308401845.webp",
+    "sha256": "e9391edd46684d69ba7d86b4aeb6da6c3623385098a1addcd9b20a91fc3291aa",
+    "ordinal": 4,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White zip collar shirt and black trousers; shirt drape hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10398915199157-image-74801308467381",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-long-sleeve-oxford-zip-up-shirt",
+    "localPath": "images/wildfang-10398915199157-image-74801308467381.webp",
+    "sha256": "f10a339bc27b94db2b658f50fd3965d030d0bfcefbb97676ca116eb53f040820",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Same zip shirt outfit as 4 with raised arm.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10365913268405-image-74849200832693",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/juliette-lewis-x-wildfang-notch-lapel-blazer",
+    "localPath": "images/wildfang-10365913268405-image-74849200832693.webp",
+    "sha256": "af7b34054c89699beb7dd8528cbd7bd8f1d3d8e7c3217db25e2bbb47c8579a70",
+    "ordinal": 6,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Printed blazer with black shirt and tie; structured jacket covers contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10365913268405-image-74849200865461",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/juliette-lewis-x-wildfang-notch-lapel-blazer",
+    "localPath": "images/wildfang-10365913268405-image-74849200865461.webp",
+    "sha256": "dfc29c2448bdb48d485f4962a5e5e7f8e8bf4aa466975f50772ae11aebcf3627",
+    "ordinal": 7,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeat blazer and tie outfit at 6.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10398913200309-image-75089093492917",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-zipper-double-breasted-blazer",
+    "localPath": "images/wildfang-10398913200309-image-75089093492917.webp",
+    "sha256": "e96b578f8b92f543a3c31d85545c79676954d81bb2eb8d1530325ef1918188a9",
+    "ordinal": 8,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Checked suit and vest; jacket obscures contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10398913200309-image-74801294868661",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-zipper-double-breasted-blazer",
+    "localPath": "images/wildfang-10398913200309-image-74801294868661.webp",
+    "sha256": "0e65241cc382bea420860378fece4f4518d2190b4d3219e6c21def772282e55c",
+    "ordinal": 9,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated repeat of checked suit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10365910614197-image-74481100128437",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-6",
+    "localPath": "images/wildfang-10365910614197-image-74481100128437.webp",
+    "sha256": "6f4b450f204970be06c6298ee7dec4bf8eb78513988fd3cd5078be490bd0ab72",
+    "ordinal": 10,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser crop without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10365910614197-image-74481100161205",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-slim-crop-pant-6",
+    "localPath": "images/wildfang-10365910614197-image-74481100161205.webp",
+    "sha256": "9eddf20e0b577c36ff6e923d5d810ce8ae83ae95380790fa97bc1fc21f685a1b",
+    "ordinal": 11,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sheer black top and floral pants with heels; side angle prevents width comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10398912643253-image-74801284186293",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-zipper-slim-crop-pant",
+    "localPath": "images/wildfang-10398912643253-image-74801284186293.webp",
+    "sha256": "719a5ff92226a26a0a5c587175f38ad4349b0e2479b0f15a77135cf20f65e69c",
+    "ordinal": 12,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Checked vest and trousers; seated splayed legs and jacket on shoulder obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10398912643253-image-74801283924149",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-zipper-slim-crop-pant",
+    "localPath": "images/wildfang-10398912643253-image-74801283924149.webp",
+    "sha256": "99a4e692ddadc26784beb73f13f1e86b98b4bb4e6910a869eb89a32dc3d76250",
+    "ordinal": 13,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lower-body detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10187777540277-image-72772197941429",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-wildfang-tee",
+    "localPath": "images/wildfang-10187777540277-image-72772197941429.webp",
+    "sha256": "e0244714ab0f2b92967e9d9b99d7a5a5d7dd3f18e0a59388a0a691dbe9516c8d",
+    "ordinal": 14,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Logo tee and pinstripe trousers; loose tucked hem obscures indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10187777540277-image-72772197744821",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-wildfang-tee",
+    "localPath": "images/wildfang-10187777540277-image-72772197744821.webp",
+    "sha256": "b341a9f61bd16b68436d21e236065c88f19c1288e3cbd79d3276d1f253ace7dc",
+    "ordinal": 15,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeat logo tee outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10342622789813-image-74265122701493",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-high-waisted-coverall-3",
+    "localPath": "images/wildfang-10342622789813-image-74265122701493.webp",
+    "sha256": "8287c312c9602826d28aa315cb2b2e4460553ba2f2f06835555788f27fa0b0c9",
+    "ordinal": 16,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green utility coverall; constructed waistband and loose hips hide body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10342622789813-image-74265122996405",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-high-waisted-coverall-3",
+    "localPath": "images/wildfang-10342622789813-image-74265122996405.webp",
+    "sha256": "0c0eb5b8fda99cfa474794b6eef6df81796ffb135ebd2831282519e92d45e324",
+    "ordinal": 17,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fabric pocket detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10342613221557-image-74265038913717",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-trouser-10",
+    "localPath": "images/wildfang-10342613221557-image-74265038913717.webp",
+    "sha256": "e92a27a36504fb400f25f534b396c557d754fe6ec95d73f84fdc71d351e4a347",
+    "ordinal": 18,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black tee and red trousers; loose shirt and trouser volume conceal contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10342613221557-image-74265038979253",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-empower-trouser-10",
+    "localPath": "images/wildfang-10342613221557-image-74265038979253.webp",
+    "sha256": "a278b05d000c026ce49e26b0fd5bab2e3422a845afa76c6534d602a024977409",
+    "ordinal": 19,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear trouser crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10365911597237-image-74481011851445",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-sweater-polo-3",
+    "localPath": "images/wildfang-10365911597237-image-74481011851445.webp",
+    "sha256": "ff3c4ec9cc25eb8c0a6141db07e65c2b4aba3b5822e0464989be578105d3569e",
+    "ordinal": 20,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black polo and belted trousers; upper hip crop limits comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10365911597237-image-74481011916981",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-sweater-polo-3",
+    "localPath": "images/wildfang-10365911597237-image-74481011916981.webp",
+    "sha256": "4f8ca86e9fc04db650b6bcd3b0101291d902ee16356bc0c53664696ef5cbbdd6",
+    "ordinal": 21,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sleeve closeup.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10342615253173-image-74265150161077",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-cotton-twill-utility-jacket",
+    "localPath": "images/wildfang-10342615253173-image-74265150161077.webp",
+    "sha256": "4abe42f76a41da7c0f297fc2bef7ccc685ee1f1530c3759b6ed5bc1f456d29d3",
+    "ordinal": 22,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped jacket over white shirt and tie; layering covers waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10342615253173-image-74265150259381",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-cotton-twill-utility-jacket",
+    "localPath": "images/wildfang-10342615253173-image-74265150259381.webp",
+    "sha256": "470eec5d63a09e2808bc078a228b1ecf37edbcdec42d0de232ad2765f313cdb4",
+    "ordinal": 23,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closed-jacket repeat of 22.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10342624198837-image-74265164873909",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-pocket-tee-2",
+    "localPath": "images/wildfang-10342624198837-image-74265164873909.webp",
+    "sha256": "4993531002d7cbc2df9e1502bd325519f754f39278aa11e7614870b1338de9e7",
+    "ordinal": 24,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black tee and red trousers repeated from 18.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10342624198837-image-74265164939445",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-pocket-tee-2",
+    "localPath": "images/wildfang-10342624198837-image-74265164939445.webp",
+    "sha256": "55326c1968e5f8d234ee314ff644d34fe9ac2f631c4c177ee20efb12839d2549",
+    "ordinal": 25,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of black tee and red trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10229231714485-image-73307296530613",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-jacket-2",
+    "localPath": "images/wildfang-10229231714485-image-73307296530613.webp",
+    "sha256": "bba6d20f93331725976378d761ba76aca949c6337dba23f13b6efb2c82cdb267",
+    "ordinal": 26,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black work jacket and green top; raised arm and jacket obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10229231714485-image-73307296596149",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-jacket-2",
+    "localPath": "images/wildfang-10229231714485-image-73307296596149.webp",
+    "sha256": "39e7e257ca7675a849af1bbc2d6a37b897d050b0eb89107be62d80b2a0d3a543",
+    "ordinal": 27,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeat work jacket outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10228582056117-image-73306408124597",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-pant-1",
+    "localPath": "images/wildfang-10228582056117-image-73306408124597.webp",
+    "sha256": "2f744d8a8b136a50e4da853d5d6379efd770ca4de59a2114179a5d067c2c6469",
+    "ordinal": 28,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser crop without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10228582056117-image-73303185522869",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-utility-pant-1",
+    "localPath": "images/wildfang-10228582056117-image-73303185522869.webp",
+    "sha256": "32005e08d4ca25d38de66d41d29807d6a44d075e394909e01e46a37570e7ac61",
+    "ordinal": 29,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green mockneck with dark utility trousers; profile angle obscures shoulder/hip widths.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10201458016437-image-72974085292213",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/debbie-harry-x-wildfang-long-sleeve-button-up-2",
+    "localPath": "images/wildfang-10201458016437-image-72974085292213.webp",
+    "sha256": "3cdb41e4f21d5c2cb53e771601462b13ce652ea93a694b9f7d9ee06f88899617",
+    "ordinal": 30,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black collared shirt and checked trousers; loose hem covers waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10201458016437-image-72974085390517",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/debbie-harry-x-wildfang-long-sleeve-button-up-2",
+    "localPath": "images/wildfang-10201458016437-image-72974085390517.webp",
+    "sha256": "4629f17f6cb036aa1dfcedf0a3681122092721360c2b1d8a814b0174e737e63b",
+    "ordinal": 31,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of shirt outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10229085896885-image-73338727563445",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-long-sleeve-high-waisted-coverall-2",
+    "localPath": "images/wildfang-10229085896885-image-73338727563445.webp",
+    "sha256": "2b72465bec0529bd79bda7fd1b1d197c60fdb2e035a0a4dbfe0ad221fbe73661",
+    "ordinal": 32,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue coveralls and boots; utility silhouette hides body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10229085896885-image-73306654015669",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-essential-denim-long-sleeve-high-waisted-coverall-2",
+    "localPath": "images/wildfang-10229085896885-image-73306654015669.webp",
+    "sha256": "c21c7d39a8c3ae062be97b245f3e400505920a1d5e9351b2ac4dfd7f5aee272d",
+    "ordinal": 33,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of coveralls.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10228613546165-image-73306611450037",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-crew-neck-sweater-1",
+    "localPath": "images/wildfang-10228613546165-image-73306611450037.webp",
+    "sha256": "629213c7c56dbf1987e6d14ee293d04ebeb0ff1d4edf37cc1132381a7c40b47c",
+    "ordinal": 34,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lilac sweater over white collar with black trousers; knit drapes over waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wildfang-10228613546165-image-73306611220661",
+    "source": "wildfang",
+    "sourceUrl": "https://www.wildfang.com/products/the-everyday-crew-neck-sweater-1",
+    "localPath": "images/wildfang-10228613546165-image-73306611220661.webp",
+    "sha256": "27b277a4c31594c6730c53e3fd9f8e43b1ab9a75aecffb1ea546b9dc448314d3",
+    "ordinal": 35,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear sweater view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-15006921130360-image-75787205116280",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/brown-twill-three-button-jacket",
+    "localPath": "images/universalworks-15006921130360-image-75787205116280.webp",
+    "sha256": "cd3dcd8c07ff7ff6cbe917ae9e9d2dc6a3800c13de73f9d124d20896204cee79",
+    "ordinal": 36,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-15006921130360-image-75781052629368",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/brown-twill-three-button-jacket",
+    "localPath": "images/universalworks-15006921130360-image-75781052629368.webp",
+    "sha256": "85646d5f2dc10509c3c71da655d4b4654b5f17922d750b4a5bfe0eeb80331e54",
+    "ordinal": 37,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14895811821944-image-74283622236536",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-cardigan-in-green-wool-fleece-1",
+    "localPath": "images/universalworks-14895811821944-image-74283622236536.webp",
+    "sha256": "b2a79efa9d617b7a20297aae1fec2ba848b7b42eee3532c8ac8a769ceb3288b2",
+    "ordinal": 38,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14895811821944-image-74377052029304",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-cardigan-in-green-wool-fleece-1",
+    "localPath": "images/universalworks-14895811821944-image-74377052029304.webp",
+    "sha256": "b3e05ddfe9ff399caf96b13bd28875123a83c9367ee7963c14f77d384a66ad23",
+    "ordinal": 39,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354157432-image-73682759188856",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-travail-overshirt-in-lemon-linen-cotton-shirting",
+    "localPath": "images/universalworks-14867354157432-image-73682759188856.webp",
+    "sha256": "ce83630c42d0ed394c86e0e0ebe228f86be010cc50c48f6ae387b9690a80c24e",
+    "ordinal": 40,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354157432-image-73726232756600",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-travail-overshirt-in-lemon-linen-cotton-shirting",
+    "localPath": "images/universalworks-14867354157432-image-73726232756600.webp",
+    "sha256": "218df1fb2bc90339e35bcc075789d3edfc9eb81ae7fbe2a7c165189cbb98d155",
+    "ordinal": 41,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353928056-image-73657615253880",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-dockside-overshirt-in-sand-military-cotton",
+    "localPath": "images/universalworks-14867353928056-image-73657615253880.webp",
+    "sha256": "e2a193deac257785695666a4453d7791a17bf40cb066e7ed96c044ba47e733c1",
+    "ordinal": 42,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353928056-image-73726109581688",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-dockside-overshirt-in-sand-military-cotton",
+    "localPath": "images/universalworks-14867353928056-image-73726109581688.webp",
+    "sha256": "0971a973b0f6adae1772140005bda21ee82be68d8c37f88da9f7243ac30f60c5",
+    "ordinal": 43,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867352060280-image-73645059441016",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-cancun-jacket-in-olive-dobby-check",
+    "localPath": "images/universalworks-14867352060280-image-73645059441016.webp",
+    "sha256": "3b76cbd6e3383e3b0f1173ea2f3170f189ea1503fb581cde1fc06efb43984816",
+    "ordinal": 44,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867352060280-image-73725211148664",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-cancun-jacket-in-olive-dobby-check",
+    "localPath": "images/universalworks-14867352060280-image-73725211148664.webp",
+    "sha256": "7dc63062e4c1fe84259e50c0d60e1329ea9af52cf142e7213cecb2acf6709158",
+    "ordinal": 45,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354386808-image-73645771161976",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-road-shirt-in-olive-dobby-check",
+    "localPath": "images/universalworks-14867354386808-image-73645771161976.webp",
+    "sha256": "71a90cda9855a55b7454622d448f00c8170aea6e61106028cfe6db12d04312a5",
+    "ordinal": 46,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354386808-image-73726531273080",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-road-shirt-in-olive-dobby-check",
+    "localPath": "images/universalworks-14867354386808-image-73726531273080.webp",
+    "sha256": "777cc7e007ab9436976ac413120e35e35051cdf630ab610b8f33d926018ba6b7",
+    "ordinal": 47,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354354040-image-73682799952248",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-work-shirt-in-camel-mitla-weave",
+    "localPath": "images/universalworks-14867354354040-image-73682799952248.webp",
+    "sha256": "24f95d4df888eb3668c897e62bd8619160392785b13f209441d15ff936aa0883",
+    "ordinal": 48,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354354040-image-73726440702328",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-work-shirt-in-camel-mitla-weave",
+    "localPath": "images/universalworks-14867354354040-image-73726440702328.webp",
+    "sha256": "34916966bec295bcbde05ce6c7f21d560cd713bd5df1fd24aad2af61651df964",
+    "ordinal": 49,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354321272-image-73657855639928",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-minari-shirt-in-ecru-poplin-1",
+    "localPath": "images/universalworks-14867354321272-image-73657855639928.webp",
+    "sha256": "786a0b8e8bf419f0b212c03af26a560950c7cf0efbf8d26e15f04bdcfe43a7ab",
+    "ordinal": 50,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354321272-image-73726375395704",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-minari-shirt-in-ecru-poplin-1",
+    "localPath": "images/universalworks-14867354321272-image-73726375395704.webp",
+    "sha256": "200767892f8cc14f2dbd9a92bb2cc94c2973156571dc83b450f9d7cfdd64349e",
+    "ordinal": 51,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354288504-image-73657833128312",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-road-shirt-in-charcoal-cotton-lattice-2",
+    "localPath": "images/universalworks-14867354288504-image-73657833128312.webp",
+    "sha256": "f6ac8d03d4b47f7290d7072689212f0d17da43756fa38c06537ffd728a1ef52e",
+    "ordinal": 52,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354288504-image-73726336795000",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-road-shirt-in-charcoal-cotton-lattice-2",
+    "localPath": "images/universalworks-14867354288504-image-73726336795000.webp",
+    "sha256": "ce0d620b234a7a7d0605b0227d6a0e6c8fca62cac420251c6c147a024f1f466f",
+    "ordinal": 53,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354222968-image-73657797935480",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-road-shirt-in-grey-yellow-cotton-lattice",
+    "localPath": "images/universalworks-14867354222968-image-73657797935480.webp",
+    "sha256": "8f0c1d064547dff9572c9b91c9fbda228a0f09068d0953bdba7acd7d8e2dc3b6",
+    "ordinal": 54,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354222968-image-73726324015480",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-road-shirt-in-grey-yellow-cotton-lattice",
+    "localPath": "images/universalworks-14867354222968-image-73726324015480.webp",
+    "sha256": "b6d1086e579aa70671c6fb4772f43b94d8281b2c51f548b2d9d11aac4229af68",
+    "ordinal": 55,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354190200-image-73682773213560",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-work-shirt-in-ecru-acapulco-weave",
+    "localPath": "images/universalworks-14867354190200-image-73682773213560.webp",
+    "sha256": "109b382d42f17184596f069d29f3bcfc4ae0f29ce717ac763023de12cac53235",
+    "ordinal": 56,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354190200-image-73726274208120",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-work-shirt-in-ecru-acapulco-weave",
+    "localPath": "images/universalworks-14867354190200-image-73726274208120.webp",
+    "sha256": "7ee72940ca49c1aa3ba7a08f4740db4b482ebdd4009fa8b8360449511a3ec983",
+    "ordinal": 57,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354059128-image-73657760055672",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-patched-shirt-in-blue-vila-stripes",
+    "localPath": "images/universalworks-14867354059128-image-73657760055672.webp",
+    "sha256": "f6f9b73f53b757f83dfe400bd2e1728de8e64cc6d99d148b777ab6afe1d2fab6",
+    "ordinal": 58,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867354059128-image-73726220370296",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-patched-shirt-in-blue-vila-stripes",
+    "localPath": "images/universalworks-14867354059128-image-73726220370296.webp",
+    "sha256": "907cf2e6f912ebb6618011ba71477da85443734e05d76ebaaa507760b7a5007e",
+    "ordinal": 59,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353993592-image-73657700745592",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-tech-overshirt-in-khaki-summer-cord",
+    "localPath": "images/universalworks-14867353993592-image-73657700745592.webp",
+    "sha256": "13a5faf30b82de528e437e74a4a44db27e0da246836b1948f068c10713892e6a",
+    "ordinal": 60,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353993592-image-73726140121464",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-tech-overshirt-in-khaki-summer-cord",
+    "localPath": "images/universalworks-14867353993592-image-73726140121464.webp",
+    "sha256": "1230d1db5ea8638129f1067e7e768a902e72b8a2d9f39ff59d82feb55b281bc9",
+    "ordinal": 61,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353960824-image-73657641271672",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-sal-road-shirt-in-blue-vila-stripes",
+    "localPath": "images/universalworks-14867353960824-image-73657641271672.webp",
+    "sha256": "0b986c60b14b629f9c7b488f9162721a3edffb45260ef6bdcdce5ad33a6a2025",
+    "ordinal": 62,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353960824-image-73726127276408",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-sal-road-shirt-in-blue-vila-stripes",
+    "localPath": "images/universalworks-14867353960824-image-73726127276408.webp",
+    "sha256": "da2c3224888069f84749eedf3e4f63b4e325ab41fb4c5a227bceca5fa4510033",
+    "ordinal": 63,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353796984-image-73657518489976",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-utility-ss-shirt-in-grey-end-on-end-cotton",
+    "localPath": "images/universalworks-14867353796984-image-73657518489976.webp",
+    "sha256": "3c4f8079eccd084f260f79ec13a3ef0917011d05d0c3d9da0fede051d5af90bc",
+    "ordinal": 64,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353796984-image-73726070456696",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-utility-ss-shirt-in-grey-end-on-end-cotton",
+    "localPath": "images/universalworks-14867353796984-image-73726070456696.webp",
+    "sha256": "8f4e0a58f9235a099f1e6db177523a2442d9688b4539448662c49f11d6fc6694",
+    "ordinal": 65,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353731448-image-73746585518456",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-smock-overshirt-in-ecru-deffe-self-stripe-1",
+    "localPath": "images/universalworks-14867353731448-image-73746585518456.webp",
+    "sha256": "df8ce9006128d5f418090d54d067b9634c317c79ec0d2baa6bfc48548d5f7853",
+    "ordinal": 66,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353731448-image-73726055580024",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-smock-overshirt-in-ecru-deffe-self-stripe-1",
+    "localPath": "images/universalworks-14867353731448-image-73726055580024.webp",
+    "sha256": "274211f1a859fb57c179820e00119edbd8a7144fa4efd44211a68777fbe9e81f",
+    "ordinal": 67,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353698680-image-73682746081656",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-road-shirt-in-navy-mitla-print-cotton",
+    "localPath": "images/universalworks-14867353698680-image-73682746081656.webp",
+    "sha256": "0102d8fa83365d6b86e2d3e78a16e8ef4cb811f73989478777e761f075b7a35e",
+    "ordinal": 68,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353698680-image-73726035886456",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-road-shirt-in-navy-mitla-print-cotton",
+    "localPath": "images/universalworks-14867353698680-image-73726035886456.webp",
+    "sha256": "bfeaf378e760773b3708b7068bf5338abaf51cc7397c9639996b660ec9280b02",
+    "ordinal": 69,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353665912-image-73657378537848",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-minari-shirt-in-ecru-deffe-self-stripe",
+    "localPath": "images/universalworks-14867353665912-image-73657378537848.webp",
+    "sha256": "a9b9cbe3b65f522b00564bdf9b0461c2d6996db15cb94a0f8f77bf3f545647b2",
+    "ordinal": 70,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat garment without person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14867353665912-image-73726027432312",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-minari-shirt-in-ecru-deffe-self-stripe",
+    "localPath": "images/universalworks-14867353665912-image-73726027432312.webp",
+    "sha256": "85f3a211396af80e33469c3e3b043480658d1678397f85d502e90af54960d84d",
+    "ordinal": 71,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear garment view; front outfit not visible.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10997121024193-image-50509394968769",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/burly-jersey-vintage-tee-white",
+    "localPath": "images/bigbudpress-10997121024193-image-50509394968769.webp",
+    "sha256": "d73bd12dbff5a9109d92cd4f0ebcb3f24adc8fc790d96327943bd82246900176",
+    "ordinal": 72,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White sports tee and denim shorts; loose hem obscures waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10997121024193-image-50509395034305",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/burly-jersey-vintage-tee-white",
+    "localPath": "images/bigbudpress-10997121024193-image-50509395034305.webp",
+    "sha256": "23e2b158bf3aa736b96e5a3a292436d580eb6dc34bb11648a4d8da6e5e5cd251",
+    "ordinal": 73,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Crossed arms and neckline closeup.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10997121122497-image-50500629790913",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/burly-jersey-basic-black",
+    "localPath": "images/bigbudpress-10997121122497-image-50500629790913.webp",
+    "sha256": "4409fc0878394755639eb60d53dfd40518b20074cf1e9fe9017100fd7b905258",
+    "ordinal": 74,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer version of outfit retained at 75.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10997121122497-image-50500629856449",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/burly-jersey-basic-black",
+    "localPath": "images/bigbudpress-10997121122497-image-50500629856449.webp",
+    "sha256": "b57dac997b5ed38233f4bedb897d8aec8a34ace4095d055994078951fa7633b7",
+    "ordinal": 75,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black oversized tee and denim shorts; draping conceals waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10997120762049-image-50500880629953",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/burly-jersey-navy",
+    "localPath": "images/bigbudpress-10997120762049-image-50500880629953.webp",
+    "sha256": "c452703d0e3f4390428882d8bb4ababcd49f233d6313cd32f851aef987906989",
+    "ordinal": 76,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Near-identical navy colorway of 75.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10997120762049-image-50500880695489",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/burly-jersey-navy",
+    "localPath": "images/bigbudpress-10997120762049-image-50500880695489.webp",
+    "sha256": "8938de2e991ab59008bd340648ae1c7651d5b2f306126072e1f55b7911899a25",
+    "ordinal": 77,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Near-identical tee and shorts styling of 75.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10997120663745-image-50500634280129",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/burly-jersey-evergreen",
+    "localPath": "images/bigbudpress-10997120663745-image-50500634280129.webp",
+    "sha256": "a2141954aa02c36b8643a7e8f5d860b4652295fc7fd9115a5a3f1fd766b4da44",
+    "ordinal": 78,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green oversized tee and shorts; wide shirt hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10997120663745-image-50500634345665",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/burly-jersey-evergreen",
+    "localPath": "images/bigbudpress-10997120663745-image-50500634345665.webp",
+    "sha256": "2858eeff95883d2a16e400ffe8727495b617552cd62f3c9962c1b120ba87bbc9",
+    "ordinal": 79,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side repeat of green tee outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-7150654750913-image-49822789075137",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-vintage-off-white",
+    "localPath": "images/bigbudpress-7150654750913-image-49822789075137.webp",
+    "sha256": "162374cae2f00fe0c346691261f72010b252a647ec0a24bc17141bc4eaf5b5e9",
+    "ordinal": 80,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream tee and pleated denim trousers; pleats obscure hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-7150654750913-image-49822789107905",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-vintage-off-white",
+    "localPath": "images/bigbudpress-7150654750913-image-49822789107905.webp",
+    "sha256": "4f169e267fe649afbf03c68b0e85dbbf9bf6222abf3d1e15edd9e5a182f2f459",
+    "ordinal": 81,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Untucked repeat of cream tee and jeans.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10955834687681-image-50226262114497",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-red-wine-1",
+    "localPath": "images/bigbudpress-10955834687681-image-50226262114497.webp",
+    "sha256": "af74bba549133e15041ee909de1cccffbfe9379da285715802de122f82e850c1",
+    "ordinal": 82,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy fitted tee and jeans; loose hip volume prevents shoulder comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10955834687681-image-50226262180033",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/the-organic-vintage-tee-red-wine-1",
+    "localPath": "images/bigbudpress-10955834687681-image-50226262180033.webp",
+    "sha256": "50fdfaffa8bea0897d47f0ae7fa8d510b950a7a91021a60f5cc9973f0e2c3a9c",
+    "ordinal": 83,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tucked repeat of burgundy tee outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572661953-image-50462109892801",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-lagoon",
+    "localPath": "images/bigbudpress-10992572661953-image-50462109892801.webp",
+    "sha256": "f744580fa44f270850b46eb9d0143cbea2a931f020b35fc898137e6748017a8a",
+    "ordinal": 84,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer version of outfit at 85.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572661953-image-50462109958337",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-lagoon",
+    "localPath": "images/bigbudpress-10992572661953-image-50462109958337.webp",
+    "sha256": "3e892a22972c8d15715db33720280ed9e0df806056c6c09f9d1171ac3fd794cc",
+    "ordinal": 85,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Teal fitted crop and loose denim trousers; visible moderate waist indentation, hip volume obscured.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572727489-image-50462103306433",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-faded-grape",
+    "localPath": "images/bigbudpress-10992572727489-image-50462103306433.webp",
+    "sha256": "958fe20fb8613b9adec46f7d1638202e9084f4c4661d66040f1fb5b4d1463ced",
+    "ordinal": 86,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated repeat of lavender outfit at 87.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572727489-image-50462103371969",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-faded-grape",
+    "localPath": "images/bigbudpress-10992572727489-image-50462103371969.webp",
+    "sha256": "e96fa31749ec0d93b25ec733713a3327753b8e0efbeee30054d105b93e44795d",
+    "ordinal": 87,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Lavender crop and loose denim pants; moderate visible waist indentation, hip drape uncertain.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572432577-image-50462093082817",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-burnt-terracotta",
+    "localPath": "images/bigbudpress-10992572432577-image-50462093082817.webp",
+    "sha256": "660124eb4e05cc5a86890d27d559387c58d936f48dc8ffd9f9cb31539516cc45",
+    "ordinal": 88,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Orange colorway repeats cropped tee and denim styling.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572432577-image-50462093148353",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-burnt-terracotta",
+    "localPath": "images/bigbudpress-10992572432577-image-50462093148353.webp",
+    "sha256": "91479d8cadca242ff1c0140350c6014fa0af07d3d6424fa28e659bb1ba29ed3e",
+    "ordinal": 89,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated cropped tee and denim styling.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572858561-image-50462105764033",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-fudgesicle-brown",
+    "localPath": "images/bigbudpress-10992572858561-image-50462105764033.webp",
+    "sha256": "3076f764c028adbaa3f8d423817a45cd413ce06f28b09aae540c3acebd6bf79b",
+    "ordinal": 90,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Kneeling brown colorway of cropped tee outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572858561-image-50462105829569",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-fudgesicle-brown",
+    "localPath": "images/bigbudpress-10992572858561-image-50462105829569.webp",
+    "sha256": "5a19ad0696e4047d4a7df2efe296576945200e9bb37e82c8e370b97b37024a75",
+    "ordinal": 91,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown colorway repeats crop and denim styling.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572563649-image-50462097146049",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-evergreen",
+    "localPath": "images/bigbudpress-10992572563649-image-50462097146049.webp",
+    "sha256": "998428dd8a4459fa5741880895729e1663db4d7cd0dd02379d3b3610b9bb3295",
+    "ordinal": 92,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green colorway repeats crop and denim styling.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992572563649-image-50462097211585",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-evergreen",
+    "localPath": "images/bigbudpress-10992572563649-image-50462097211585.webp",
+    "sha256": "6cebb082a13967978402398eea42f0e689c586685ff9a0f0ee67f9e4eab945d8",
+    "ordinal": 93,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Neckline fabric detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992573022401-image-50462118248641",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-vintage-off-white",
+    "localPath": "images/bigbudpress-10992573022401-image-50462118248641.webp",
+    "sha256": "4d50d82747ef8dbbcc242b798ddff57b0256768e8dfc31ffac2a26b63f8745b2",
+    "ordinal": 94,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream colorway repeats crop and denim styling.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992573022401-image-50462118314177",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/cropped-baby-tee-vintage-off-white",
+    "localPath": "images/bigbudpress-10992573022401-image-50462118314177.webp",
+    "sha256": "f3224cc02b1deb8a33cbef11a395cea59d175ca7ab17abdb791f9a90d1e3cf7b",
+    "ordinal": 95,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Upper-body crop of cream tee without hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992491331777-image-50462045077697",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-mustard-yellow",
+    "localPath": "images/bigbudpress-10992491331777-image-50462045077697.webp",
+    "sha256": "417984a0e6a3e51ef8a78c39558f28783efac3bd278c97e25762fe6c0b33ec84",
+    "ordinal": 96,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Yellow cutout tank and black trousers; moderate waist indentation visible, hips hidden by gathers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992491331777-image-50462045143233",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-mustard-yellow",
+    "localPath": "images/bigbudpress-10992491331777-image-50462045143233.webp",
+    "sha256": "2513d34b845d7b7a4727c78347b57c34507826d81f15acca83b5ddd07c7b2b4c",
+    "ordinal": 97,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cutout neckline closeup.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992492150977-image-50462035116225",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-fudgesicle-brown",
+    "localPath": "images/bigbudpress-10992492150977-image-50462035116225.webp",
+    "sha256": "072cd8005a8e758cdece0ff0146611f7c9a0e854d218b36bf5eeddf18e3caa3d",
+    "ordinal": 98,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Reclining repeat of brown tank outfit at 99.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992492150977-image-50462035181761",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-fudgesicle-brown",
+    "localPath": "images/bigbudpress-10992492150977-image-50462035181761.webp",
+    "sha256": "ca751f01537858d1ffb0ff7ff24d013f2371322ab52b2169486fa71103981ed4",
+    "ordinal": 99,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Brown cutout tank and black trousers; waist visible, trouser volume obscures hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992491561153-image-50462047371457",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-royal-blue",
+    "localPath": "images/bigbudpress-10992491561153-image-50462047371457.webp",
+    "sha256": "3dff4188f1d1c6b3d67062c87fa30a02b59a58c940fc811307a3a0364bbf413b",
+    "ordinal": 100,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue tank neckline detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992491561153-image-50462047436993",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-royal-blue",
+    "localPath": "images/bigbudpress-10992491561153-image-50462047436993.webp",
+    "sha256": "8855437fc365832c508df84ef8d7c56d1e3af1fe6e8aea25f26d1d852420c2b0",
+    "ordinal": 101,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue colorway repeats cutout tank and black trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992489169089-image-50462044258497",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-hot-pink",
+    "localPath": "images/bigbudpress-10992489169089-image-50462044258497.webp",
+    "sha256": "f68055832d0c5f0a88ecc4609b5c5be3d36204a4217e62fc11ca1e529fc36991",
+    "ordinal": 102,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink colorway repeats cutout tank and black trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992489169089-image-50462044324033",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-hot-pink",
+    "localPath": "images/bigbudpress-10992489169089-image-50462044324033.webp",
+    "sha256": "6aa7c9f094e7a99aefcddfeefc5a39db1dad08b58e86b95e8dace9e1fbce2aa4",
+    "ordinal": 103,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Full pink colorway of same tank outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992491856065-image-50462064378049",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-washed-grey",
+    "localPath": "images/bigbudpress-10992491856065-image-50462064378049.webp",
+    "sha256": "78168267d33647976af1db67b853bd6970fdec583fc26d575a934356765d55b8",
+    "ordinal": 104,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Grey colorway repeats yellow tank styling.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992491856065-image-50462064443585",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-washed-grey",
+    "localPath": "images/bigbudpress-10992491856065-image-50462064443585.webp",
+    "sha256": "d35500046b6e32def95e0502cb059d9ef9b9bc98242f47abd79870ee20c82c99",
+    "ordinal": 105,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Full grey colorway of same cutout tank outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992491233473-image-50462046453953",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-red-wine",
+    "localPath": "images/bigbudpress-10992491233473-image-50462046453953.webp",
+    "sha256": "1553542956af8a3c59dfac15d441635b803ed6bbcc355312be2b486278dfba15",
+    "ordinal": 106,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Reclining burgundy colorway repeats tank outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bigbudpress-10992491233473-image-50462046519489",
+    "source": "bigbudpress",
+    "sourceUrl": "https://bigbudpress.com/products/porthole-tank-red-wine",
+    "localPath": "images/bigbudpress-10992491233473-image-50462046519489.webp",
+    "sha256": "ca0d0f433c60bb1bc1bdda295e2ad8b5a85b75b67aadbacfd05b15b3e85b70ab",
+    "ordinal": 107,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy colorway repeats cutout tank outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7851866554410-image-36495836971050",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-smokey-grape",
+    "localPath": "images/snag-7851866554410-image-36495836971050.webp",
+    "sha256": "d3297555e091cfba8e83531cfa6f9635cad43f9076d269e95f3aed2f3964b5aa",
+    "ordinal": 108,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow dress with magenta scarf; lifted skirt and moving pose hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7851866554410-image-36563379912746",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-smokey-grape",
+    "localPath": "images/snag-7851866554410-image-36563379912746.webp",
+    "sha256": "8e2379555a865e8b59e15569708cd5c50f3515ff38b494229dbb0f17b139f36c",
+    "ordinal": 109,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black lace-up dress with lilac shorts visible; bent leg and structured waist obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7851866619946-image-36495836184618",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-lavender-violet",
+    "localPath": "images/snag-7851866619946-image-36495836184618.webp",
+    "sha256": "2e04c2a9423e931a8eb380702993b365f68d33c3409cb9c0248c14ed354b7bd3",
+    "ordinal": 110,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black puff-sleeve dress and hat; seated limbs and drape obscure ratios.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7851866619946-image-36496665411626",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-lavender-violet",
+    "localPath": "images/snag-7851866619946-image-36496665411626.webp",
+    "sha256": "69f8d28f2ef2d4b984ec9e82956817d9f4cb47bc91c8b20d204d973e3a4d18da",
+    "ordinal": 111,
+    "view": "seated",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped shirt and blue shorts; loose shirt and seated pose hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7851866652714-image-36495835955242",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-director-blue",
+    "localPath": "images/snag-7851866652714-image-36495835955242.webp",
+    "sha256": "96410f9bfb4af55cdd167f98c0eb885ce3851ec2761748cb175a77c9871aea57",
+    "ordinal": 112,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Purple dress and blue shorts; seated pose and drape obscure body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7851866652714-image-36495835988010",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-director-blue",
+    "localPath": "images/snag-7851866652714-image-36495835988010.webp",
+    "sha256": "9ecc756123d09d9fb61dbb5f24b366a3c3a55c8cfabf074e95fe2b50ff3d7858",
+    "ordinal": 113,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shorts crop without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7851866718250-image-36495839297578",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-pinkpeacock",
+    "localPath": "images/snag-7851866718250-image-36495839297578.webp",
+    "sha256": "2625d5ce49927964a582f4cfcd3d9c8fff661f44a367b8999a081e3af671e72a",
+    "ordinal": 114,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red dress with pink shorts; lifted flared hem conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7851866718250-image-36495839363114",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-pinkpeacock",
+    "localPath": "images/snag-7851866718250-image-36495839363114.webp",
+    "sha256": "12e54606d4ccbfbb6b0604688902f2f3a1ab2ae0399de486d1da7aa6fdc510d6",
+    "ordinal": 115,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Leopard dress and boots; laced bodice and flared skirt obscure body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6808358027306-image-36497102143530",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/chub-rub-shorts-dragon-fruit",
+    "localPath": "images/snag-6808358027306-image-36497102143530.webp",
+    "sha256": "3d741d3e06d4fa683a70ae6edcdaf3f742dd116b72398994e39c2ae564827188",
+    "ordinal": 116,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Patterned red dress; draped fabric and raised hem conceal waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-6808358027306-image-30569619488810",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/chub-rub-shorts-dragon-fruit",
+    "localPath": "images/snag-6808358027306-image-30569619488810.webp",
+    "sha256": "eb4d5f04eaa0e674262791c2dcbb613d0d74bb5cb7294d05cde64d0ecfc78892",
+    "ordinal": 117,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink tiered dress; voluminous skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7129159499818-image-36495967911978",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-mimosa",
+    "localPath": "images/snag-7129159499818-image-36495967911978.webp",
+    "sha256": "4e74b891d08f1cc13c7d41fea11a9d08f3c2483299e6325122886a64489a86d6",
+    "ordinal": 118,
+    "view": "seated",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Printed belted shirt-dress with heels in wheelchair; seated pose obscures axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7129159499818-image-36495967977514",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-mimosa",
+    "localPath": "images/snag-7129159499818-image-36495967977514.webp",
+    "sha256": "c8f0062452f4bcec616a2581b2e3e97c0db2b58ec86fc394ff0f0bd2016a48e5",
+    "ordinal": 119,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bag and lap closeup.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7840944095274-image-36452241932330",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-mesh-skirt-pomegranate",
+    "localPath": "images/snag-7840944095274-image-36452241932330.webp",
+    "sha256": "160e75107c5744a46449b761a6bbb34b62673021b90105153f36d78e820f4e16",
+    "ordinal": 120,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink wrap top and tiered skirt; skirt volume conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7840944095274-image-36452241997866",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/mini-mesh-skirt-pomegranate",
+    "localPath": "images/snag-7840944095274-image-36452241997866.webp",
+    "sha256": "087d1bec1052919f9fee19f945f758864e74302dbee4c454b58ecbbf46e3f303",
+    "ordinal": 121,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black cropped jacket with pink tiered skirt and beret; layers obscure waist/hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7840944029738-image-36428182421546",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/wrap-top-pomegranate",
+    "localPath": "images/snag-7840944029738-image-36428182421546.webp",
+    "sha256": "df9ee80220fedf63520df483197cafd1a718d41fbbaa81d3fff9b9d4f40b18f7",
+    "ordinal": 122,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink wrap top and black layered skirt; gathered skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7840944029738-image-36428185239594",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/wrap-top-pomegranate",
+    "localPath": "images/snag-7840944029738-image-36428185239594.webp",
+    "sha256": "c97acdbee1a86effe1a9269b2b295d3093dcbb3b03e3a6ea4e28208264662089",
+    "ordinal": 123,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Two-person image.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7840944062506-image-36428186255402",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/wrap-top-lavender-fields",
+    "localPath": "images/snag-7840944062506-image-36428186255402.webp",
+    "sha256": "3c96d2e739071f3d901ac58e19f6f1755e2cebe0e28bc5cd6e9156dcc777d05c",
+    "ordinal": 124,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lilac wrap top and tiered skirt; flared skirt hides hip contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7840943996970-image-36452240949290",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/skirt-mesh-mini-black",
+    "localPath": "images/snag-7840943996970-image-36452240949290.webp",
+    "sha256": "6d28f65ec83043d917cca3ead8d688930cfe2aa091f019cc7be14c6fc982654f",
+    "ordinal": 125,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black wrap top and layered skirt; skirt conceals hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7840943996970-image-36452241014826",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/skirt-mesh-mini-black",
+    "localPath": "images/snag-7840943996970-image-36452241014826.webp",
+    "sha256": "235377f6f6185c1423830fa7b30471a1d4a95297997847eeb396a3440309a289",
+    "ordinal": 126,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Graphic tee with pink drape and black tiered skirt; waist and hips obscured.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7840943964202-image-36452242522154",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/skirt-mesh-mini-lavender",
+    "localPath": "images/snag-7840943964202-image-36452242522154.webp",
+    "sha256": "e761dd6fb868e8c1204093216fbd87fec2efcf81686d9da10352791d38b7259e",
+    "ordinal": 127,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lime jacket and lilac skirt; raised arm and flared skirt obscure ratios.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7840943964202-image-36452242587690",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/skirt-mesh-mini-lavender",
+    "localPath": "images/snag-7840943964202-image-36452242587690.webp",
+    "sha256": "51563bf37deb1d6c670945934ca67950641a485e212e1218f61e1a355ae4aa94",
+    "ordinal": 128,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Skirt and tights crop without shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7547806318634-image-36428184158250",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/long-sleeve-wrap-top-black",
+    "localPath": "images/snag-7547806318634-image-36428184158250.webp",
+    "sha256": "54f83d2d43ed1a032ba259e1403fba4ee32d8e5923f044a66f1e85974ffb7e82",
+    "ordinal": 129,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black wrap top and belted red trousers; angle and belted waist prevent body-axis judgment.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7547806318634-image-36428185305130",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/long-sleeve-wrap-top-black",
+    "localPath": "images/snag-7547806318634-image-36428185305130.webp",
+    "sha256": "e23cb94345ebca84b36807e2923dd597218f1b6d6427e3aeed5754e52466f176",
+    "ordinal": 130,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Black fitted wrap top and jeans; approximately balanced shoulders/hips and moderate indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7591603306538-image-34032235151402",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/tee-burnout-arabesque",
+    "localPath": "images/snag-7591603306538-image-34032235151402.webp",
+    "sha256": "02c2944eb7e1d473835bc3bf6dc7ee32816e25f8de4ebc4220cb511d4f541843",
+    "ordinal": 131,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue loose tee and shorts; long hem conceals waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7591603306538-image-34032235085866",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/tee-burnout-arabesque",
+    "localPath": "images/snag-7591603306538-image-34032235085866.webp",
+    "sha256": "890fdd89ac401bc352104bc45f97cf57f5df72d1a541a0f79e93e27563f3efda",
+    "ordinal": 132,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer repeat of blue tee outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7591603241002-image-34032233906218",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/tee-burnout-black",
+    "localPath": "images/snag-7591603241002-image-34032233906218.webp",
+    "sha256": "579e663bb2ff6dac0cbef315f7602f78b788bdb52f51d2cd55648a773a9cb116",
+    "ordinal": 133,
+    "view": "seated",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black lounge tee while seated cross-legged; drape and pose obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7591603241002-image-34032234037290",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/tee-burnout-black",
+    "localPath": "images/snag-7591603241002-image-34032234037290.webp",
+    "sha256": "7d2e16a3815f2411c2c9799aa07594439a5dc98124880ba6fbcf26d39578e5df",
+    "ordinal": 134,
+    "view": "seated",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Grey lounge tee and shorts; seated pose and blanket conceal axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7660895109162-image-36350126719018",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/bamboo-lounge-long-sleeve-top",
+    "localPath": "images/snag-7660895109162-image-36350126719018.webp",
+    "sha256": "654f162f4abfd84f47829d965f570341ef0d24a3edc087d540e372a99630ca3c",
+    "ordinal": 135,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black fitted top, shorts, fishnets and tied plaid shirt; shirt covers hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7660895109162-image-36350126784554",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/bamboo-lounge-long-sleeve-top",
+    "localPath": "images/snag-7660895109162-image-36350126784554.webp",
+    "sha256": "e226e68e5d65201372de2817b48e3f5be9626247bc80dad38bf0a3e9076eceaf",
+    "ordinal": 136,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Draped black top and shorts; angled stance and loose torso hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833249087530-image-36287731957802",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/unisex-tee-the-lovers-black",
+    "localPath": "images/snag-7833249087530-image-36287731957802.webp",
+    "sha256": "175b29afccc2a146015d4fdf1783428a53aedea12a17e259d41562a92edc6dad",
+    "ordinal": 137,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear graphic tee view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833249087530-image-36287732023338",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/unisex-tee-the-lovers-black",
+    "localPath": "images/snag-7833249087530-image-36287732023338.webp",
+    "sha256": "9004e6aa5e07ac0b7ac0f96b2f539b81b387d57f362079fa056bea2f55788a67",
+    "ordinal": 138,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear graphic tee view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833245810730-image-36334200946730",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/celestial-wrap-dress-purple-gold",
+    "localPath": "images/snag-7833245810730-image-36334200946730.webp",
+    "sha256": "1949cf19f873a57cfa86032ed2b6ebb2f09e581fcd3aeddc53d49f9d6685fdc0",
+    "ordinal": 139,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Purple wrap dress and boots; skirt drape hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833245810730-image-36334200848426",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/celestial-wrap-dress-purple-gold",
+    "localPath": "images/snag-7833245810730-image-36334200848426.webp",
+    "sha256": "aa0cb2bf1f0c7715ee1481a052e29ccf79e6ac80aa05263dc1c738fa4bf11b96",
+    "ordinal": 140,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Purple dress while seated with raised arms; pose obscures contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833245777962-image-36287731564586",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/unisex-tee-death-black",
+    "localPath": "images/snag-7833245777962-image-36287731564586.webp",
+    "sha256": "6158c651babe17c4e620252155d7f27c6749ab2b9cb7c8a8b7fd985c213d3a05",
+    "ordinal": 141,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear graphic tee view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "snag-7833245777962-image-36287731630122",
+    "source": "snag",
+    "sourceUrl": "https://snagtights.com/products/unisex-tee-death-black",
+    "localPath": "images/snag-7833245777962-image-36287731630122.webp",
+    "sha256": "b5dfa32865c572772cce5424ea71075ad510a60a3477dfa494d7ce6a040188f4",
+    "ordinal": 142,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear graphic tee view.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

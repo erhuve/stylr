@@ -120,6 +120,8 @@ def assemble(image_root=None, check=False):
             'dimensions': dimensions, 'metadataBasis': 'visual-review',
         })
         assets.append({'id': row['id'], 'src': src, 'url': asset['imageUrl'], 'sha256': row['sha256'], 'sourceUrl': row['sourceUrl'], 'reviewedView': view})
+        if asset.get('archive'):
+            assets[-1]['archive'] = asset['archive']
         references.append({'id': row['id'], **row['body']})
     summary = {
         'reviewedCandidates': len(records), 'admittedPhotos': len(photos),

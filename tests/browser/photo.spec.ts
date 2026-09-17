@@ -1,7 +1,7 @@
-import { test, expect, type Page } from './fixture';
+import { test, expect, exhaustedPhotoSession, type Page } from './fixture';
 import AxeBuilder from '@axe-core/playwright';
 import { PHOTOS } from '../../src/lib/photo-catalog';
-import { freshPhotoSession, nextPhoto, PHOTO_KEY, votePhoto } from '../../src/lib/photo-session';
+import { PHOTO_KEY } from '../../src/lib/photo-session';
 import { STORAGE_KEY, freshSession } from '../../src/lib/style-engine';
 import type { PhotoSession } from '../../src/lib/photo-types';
 
@@ -39,19 +39,34 @@ for (const width of [320, 390, 768, 1440]) {
   });
 }
 test('all color catalog assets load from same origin and retain original aspect ratio', async ({ page }) => {
+  test.setTimeout(120000);
   await page.goto('/');
-  const result = await page.evaluate(async photos => Promise.all(photos.map(p => new Promise<{id:string;ok:boolean;chroma:number}>(resolve => {
-    const im = new Image();
-    im.onerror = () => resolve({id:p.id,ok:false,chroma:0});
-    im.onload = () => {
-      const canvas = document.createElement('canvas');canvas.width = 80;canvas.height = 80;
-      const ctx = canvas.getContext('2d')!;ctx.drawImage(im,0,0,80,80);const data=ctx.getImageData(0,0,80,80).data;
-      let total=0;for(let i=0;i<data.length;i+=4)total+=Math.max(data[i],data[i+1],data[i+2])-Math.min(data[i],data[i+1],data[i+2]);
-      resolve({id:p.id,ok:im.naturalWidth>0,chroma:total/6400});
-    };im.src=p.src;
-  }))), PHOTOS);
+  const result = await page.evaluate(async photos => {
+    const results: {id:string;ok:boolean;chroma:number}[] = [];
+    for (let offset = 0; offset < photos.length; offset += 64) {
+      results.push(...await Promise.all(photos.slice(offset, offset + 64).map(photo => new Promise<{id:string;ok:boolean;chroma:number}>(resolve => {
+        const image = new Image();
+        image.onerror = () => resolve({ id: photo.id, ok: false, chroma: 0 });
+        image.onload = () => {
+          const canvas = document.createElement('canvas');
+          canvas.width = 80;
+          canvas.height = 80;
+          const context = canvas.getContext('2d')!;
+          context.drawImage(image, 0, 0, 80, 80);
+          const data = context.getImageData(0, 0, 80, 80).data;
+          let total = 0;
+          for (let index = 0; index < data.length; index += 4) {
+            total += Math.max(data[index], data[index + 1], data[index + 2]) - Math.min(data[index], data[index + 1], data[index + 2]);
+          }
+          resolve({ id: photo.id, ok: image.naturalWidth > 0, chroma: total / 6400 });
+        };
+        image.src = photo.src;
+      }))));
+    }
+    return results;
+  }, PHOTOS);
   expect(result).toHaveLength(PHOTOS.length);
-  const reviewedLowChroma = new Set(['punkrave-10637255213403-image-74479643525467', 'punkrave-10715135639899-image-75345792794971']);
+  const reviewedLowChroma = new Set(['punkrave-10637255213403-image-74479643525467', 'punkrave-10715135639899-image-75345792794971', 'foxblood-8576948338880-image-53838823653568']);
   expect(result.filter(p => !p.ok || p.chroma < (reviewedLowChroma.has(p.id) ? 0.5 : 1))).toEqual([]);
   await page.getByRole('button', { name: 'Browse the photo collection' }).click();
   await expect(page.locator('.photo-tile')).toHaveCount(PHOTOS.length);
@@ -132,7 +147,7 @@ test('unknown stored version remains untouched until explicit clear; legacy unto
   expect(await page.evaluate(k=>localStorage.getItem(k),STORAGE_KEY)).toBe('legacy-data');
 });
 test('no matches and exhaustion stay usable without fabricated portrait claims',async({page})=>{
-  let s=freshPhotoSession();for(let i=0;i<PHOTOS.length;i++)s=votePhoto(s,nextPhoto(s,PHOTOS)!.id,'unsure',PHOTOS);s.step='discover';
+  const s=exhaustedPhotoSession('unsure');s.step='discover';
   await page.addInitScript(({k,s})=>localStorage.setItem(k,JSON.stringify(s)),{k:PHOTO_KEY,s});await page.goto('/');
   await expect(page.getByRole('heading',{name:'You’ve explored this selection.'})).toBeVisible();
   await page.getByRole('button',{name:'View my portrait'}).click();

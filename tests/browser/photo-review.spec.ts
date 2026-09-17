@@ -1,6 +1,6 @@
-import { test, expect } from './fixture';
+import { test, expect, exhaustedPhotoSession } from './fixture';
 import { PHOTOS } from '../../src/lib/photo-catalog';
-import { freshPhotoSession, nextPhoto, PHOTO_KEY, votePhoto } from '../../src/lib/photo-session';
+import { PHOTO_KEY } from '../../src/lib/photo-session';
 
 test('setup mosaic respects clothing range and exclusions', async ({ page }) => {
   await page.goto('/');
@@ -13,8 +13,7 @@ test('setup mosaic respects clothing range and exclusions', async ({ page }) => 
 });
 
 test('the last reaction is undoable after catalog exhaustion', async ({ page }) => {
-  let s = freshPhotoSession();
-  for (let i = 0; i < PHOTOS.length; i++) s = votePhoto(s, nextPhoto(s, PHOTOS)!.id, 'unsure', PHOTOS);
+  const s = exhaustedPhotoSession('unsure');
   s.step = 'discover';
   const last = s.votes.at(-1)!.photoId;
   await page.addInitScript(({ s, key }) => localStorage.setItem(key, JSON.stringify(s)), { s, key: PHOTO_KEY });

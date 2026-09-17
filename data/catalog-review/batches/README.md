@@ -29,3 +29,8 @@ python scripts/import-reviewed-catalog.py --check
 ```
 
 Raw product responses are saved outside Git. A source being selected for coverage is not a claim that each picture supports that coverage. Unknowns never qualify for required axes.
+# September 17 continuation
+
+The four batches ending `0040-afternoon-final`, `0300-contours`, `0310-breadth` and `0320-fashionpedia` review 2,992 candidates and admit 1,920 photos, reaching 5,059 repository photos. See `docs/verification/five-thousand-sourcing.md` for results and release status.
+
+The Fashionpedia batch's `intake.json` contains only the reviewed 1,632-image prefix. Its `pending-intake.json` retains the remaining 831 downloaded candidates, still unreviewed and excluded from admission. `sources.json` and `searches.json` cover the full collection; selected means downloaded for review, not admitted. Never compile pending rows as rejects to satisfy completeness. A continuation must move reviewed candidates into a new, fully reviewed batch without duplicating their sampled records or rebinding hashes. Ordinals in `observations.tsv` refer to the reviewed intake; archived contact sheets retain original collection ordinals. `contour-recheck.tsv` records the 42 enlarged-image checks.
