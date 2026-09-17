@@ -1,0 +1,21 @@
+{
+  "retrievedAt": "2026-09-17T04:28:55.456203+00:00",
+  "scope": "Direct review of original training collection ordinals 840\u2013887 from saved pending intake; no new network retrieval.",
+  "sources": [
+    {
+      "source": "fashionpedia",
+      "pages": [
+        {
+          "url": "https://s3.amazonaws.com/ifashionist-dataset/annotations/attributes_train2020.json",
+          "products": 45623,
+          "snapshotSha256": "5e5271adaca8e990824189cbef508e4383c83a9a4a3c34c03ba5149b2ad94267"
+        }
+      ],
+      "archiveUrl": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "archiveSha256": "d896792104a4c35efa7859a18cf605fddae779f5c2372e87e08d7b45949244e2",
+      "errors": []
+    }
+  ],
+  "resumedFrom": "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json",
+  "originalCollectionOffset": 840
+}

@@ -1,0 +1,9 @@
+# Targeted masculine styling and contour review
+
+September 17, 2026. Directly inspected all 66 candidates on six hash-bound sheets, followed by enlarged original-image checks of ordinals 20, 28, 31, 33 and 48. Three successful bounded listings cover 88 Strongsize, 249 State and Liberty and 250 Ash and Erie products, with at most 12 new product pages selected per source. Every listing selection/defer/reject and download outcome is preserved. This is not an exhaustive source search.
+
+Eleven photos are admitted. Three fitted-shirt references support all three body axes: ordinals 20, 31 and 33 have apparent build 2, shoulders wider than hips and moderate waist indentation. These judgments describe visible clothed contours, not measurements. Ordinal 48 supports build and shoulder balance only; its loose polo obscures the waist. Fuller-build Strongsize layers add build observations but no complete reference. Neutral hoodies remain presentation-unclear.
+
+All 54 previously admitted photos from these three retailers were directly compared on four bound sheets, recorded in prior-comparison.json. Three further candidates (4, 23 and 28) were excluded as repetitive ensembles after that comparison. Remaining frontal fitted-shirt additions offer clearer contour evidence than the existing hand-in-pocket, angled or crossed-arm examples. No label transfers between photos and no identity inference are used. Cross-page photos are not a count of independent people.
+
+Most Strongsize first/third images are product bundles or trouser crops; Ash and Erie supplies repeated polo colorways, back views and trouser details. Prefer unsampled full-front galleries and new publishers on the next search. Avoid resampling these pages or padding admissions with minor colorways. Targeted review occupies 66/114 candidates this continuation; styling imbalance and fuller-build contour gaps remain. Not deployed.

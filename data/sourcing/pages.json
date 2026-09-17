@@ -1029,6 +1029,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://ashanderie.com/products/alabaster-stripes-knit-polo",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10052058546474-image-52113420288298",
+      "ashanderie-10052058546474-image-52113420321066"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/berry-pima-cotton-crew-neck-tee",
     "source": "ashanderie",
     "candidateIds": [
@@ -1071,6 +1085,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://ashanderie.com/products/black-knit-polo",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10052020928810-image-52112984178986",
+      "ashanderie-10052020928810-image-52112984211754"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/black-signature-chino",
     "source": "ashanderie",
     "candidateIds": [
@@ -1099,6 +1127,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://ashanderie.com/products/blue-linen-shirt",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-8320803602730-image-55359256920362",
+      "ashanderie-8320803602730-image-55359257018666"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/blue-twill-dress-shirt",
     "source": "ashanderie",
     "candidateIds": [
@@ -1111,6 +1153,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/boulder-grey-weekend-jeans",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-7065373147247-image-50465172488490",
+      "ashanderie-7065373147247-image-50465172521258"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://ashanderie.com/products/burgundy-stripes-pique-daily-polo",
@@ -1197,6 +1253,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://ashanderie.com/products/dancing-lobsters-tech-polo",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10059440849194-image-52204240437546",
+      "ashanderie-10059440849194-image-52204240535850"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/dark-grey-tech-polo",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10058773397802-image-52204783829290",
+      "ashanderie-10058773397802-image-52204783862058"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/dark-navy-cashmere-shawl-cardigan-sweater",
     "source": "ashanderie",
     "candidateIds": [
@@ -1275,6 +1359,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0300-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/grey-button-knit-polo",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10052065263914-image-52113697538346",
+      "ashanderie-10052065263914-image-52113697571114"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -1480,6 +1578,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://ashanderie.com/products/light-blue-tech-polo",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10059383406890-image-52204126830890",
+      "ashanderie-10059383406890-image-52204126863658"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/light-wash-summerweight-jeans",
     "source": "ashanderie",
     "candidateIds": [
@@ -1665,6 +1777,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://ashanderie.com/products/night-sky-weekend-jeans",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-7065372262511-image-52991322980650",
+      "ashanderie-7065372262511-image-52991323013418"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/oat-cashmere-blend-quarter-zip",
     "source": "ashanderie",
     "candidateIds": [
@@ -1687,6 +1813,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0300-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/plum-textured-stripe-tech-polo",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10059461132586-image-52203550015786",
+      "ashanderie-10059461132586-image-52203550048554"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -1729,6 +1869,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0400-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/sandstone-weekend-jeans",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-9637603082538-image-47620516675882",
+      "ashanderie-9637603082538-image-47620516905258"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -1858,6 +2012,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0300-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://ashanderie.com/products/true-navy-tech-polo",
+    "source": "ashanderie",
+    "candidateIds": [
+      "ashanderie-10058776772906-image-52204528566570",
+      "ashanderie-10058776772906-image-52204528599338"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -9123,10 +9291,10 @@
       "fashionpedia-expansion-13253"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -19952,10 +20120,10 @@
       "fashionpedia-expansion-17629"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20004,10 +20172,10 @@
       "fashionpedia-expansion-16351"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20017,10 +20185,10 @@
       "fashionpedia-expansion-10049"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20134,10 +20302,10 @@
       "fashionpedia-expansion-17212"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20355,10 +20523,10 @@
       "fashionpedia-expansion-12133"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20472,10 +20640,10 @@
       "fashionpedia-expansion-18774"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20485,9 +20653,9 @@
       "fashionpedia-expansion-16211"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
+    "reviewedCandidates": 1,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
@@ -20498,10 +20666,10 @@
       "fashionpedia-expansion-19447"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20550,10 +20718,10 @@
       "fashionpedia-expansion-9978"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20615,10 +20783,10 @@
       "fashionpedia-expansion-10234"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20693,10 +20861,10 @@
       "fashionpedia-expansion-14961"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20719,10 +20887,10 @@
       "fashionpedia-expansion-12577"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20797,10 +20965,10 @@
       "fashionpedia-expansion-12469"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -20849,10 +21017,10 @@
       "fashionpedia-expansion-18321"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21096,10 +21264,10 @@
       "fashionpedia-expansion-10669"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21200,10 +21368,10 @@
       "fashionpedia-expansion-16770"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21369,9 +21537,9 @@
       "fashionpedia-expansion-9776"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
+    "reviewedCandidates": 1,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
@@ -21382,9 +21550,9 @@
       "fashionpedia-expansion-18876"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
+    "reviewedCandidates": 1,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
@@ -21460,10 +21628,10 @@
       "fashionpedia-expansion-16429"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21499,10 +21667,10 @@
       "fashionpedia-expansion-15990"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21590,10 +21758,10 @@
       "fashionpedia-expansion-9839"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21733,10 +21901,10 @@
       "fashionpedia-expansion-9950"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21772,10 +21940,10 @@
       "fashionpedia-expansion-15929"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21798,10 +21966,10 @@
       "fashionpedia-expansion-15905"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21811,10 +21979,10 @@
       "fashionpedia-expansion-9276"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21824,10 +21992,10 @@
       "fashionpedia-expansion-13724"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -21837,10 +22005,10 @@
       "fashionpedia-expansion-17885"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -22149,10 +22317,10 @@
       "fashionpedia-expansion-20451"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -22279,10 +22447,10 @@
       "fashionpedia-expansion-20666"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -29819,10 +29987,10 @@
       "fashionpedia-expansion-15353"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -32354,10 +32522,10 @@
       "fashionpedia-expansion-15765"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -33459,10 +33627,10 @@
       "fashionpedia-expansion-18351"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -35968,10 +36136,10 @@
       "fashionpedia-expansion-10578"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -37658,10 +37826,10 @@
       "fashionpedia-expansion-17961"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -38607,10 +38775,10 @@
       "fashionpedia-expansion-9570"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -40752,10 +40920,10 @@
       "fashionpedia-expansion-13602"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -41545,10 +41713,10 @@
       "fashionpedia-expansion-9739"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -42026,9 +42194,9 @@
       "fashionpedia-expansion-18236"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
+    "reviewedCandidates": 1,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
@@ -42039,10 +42207,10 @@
       "fashionpedia-expansion-16109"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -79349,10 +79517,10 @@
       "fashionpedia-expansion-11273"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -79427,10 +79595,10 @@
       "fashionpedia-expansion-20111"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -79479,10 +79647,10 @@
       "fashionpedia-expansion-8959"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -91556,10 +91724,10 @@
       "fashionpedia-expansion-19316"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -98693,10 +98861,10 @@
       "fashionpedia-expansion-16013"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -98823,10 +98991,10 @@
       "fashionpedia-expansion-11948"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -99044,10 +99212,10 @@
       "fashionpedia-expansion-12427"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -99057,10 +99225,10 @@
       "fashionpedia-expansion-19337"
     ],
     "manifests": [
-      "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json"
+      "data/catalog-review/batches/2026-09-17T1840-training/intake.json"
     ],
-    "reviewedCandidates": 0,
-    "admittedExpansionPhotos": 0,
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -114692,6 +114860,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://stateandliberty.com/products/the-arlington-sport-shirt-white-with-lilac-stripe",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15652313006161-image-69380326654033",
+      "stateandliberty-15652313006161-image-69380326686801"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/the-eisenhower-sport-shirt-navy-with-white-grid-1",
     "source": "stateandliberty",
     "candidateIds": [
@@ -114734,6 +114916,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://stateandliberty.com/products/the-lawrence-sport-shirt-light-blue-with-navy-windowpane",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15652313825361-image-70085062426705",
+      "stateandliberty-15652313825361-image-70085062459473"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/the-longshore-green-grey-crosshatch-windowpane",
     "source": "stateandliberty",
     "candidateIds": [
@@ -114760,6 +114956,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-portland-sport-shirt-light-pink-with-light-blue-mini-check",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15652315201617-image-69380327112785",
+      "stateandliberty-15652315201617-image-69380327178321"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://stateandliberty.com/products/the-prescott-abstract-black-and-grey-houndstooth",
@@ -114804,6 +115014,34 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://stateandliberty.com/products/the-soho-light-blue-windowpane-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859350208593-image-69405836476497",
+      "stateandliberty-15859350208593-image-69405836509265"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-stafford-solid-white-weave-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859353321553-image-69405843128401",
+      "stateandliberty-15859353321553-image-69405843161169"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/the-summit-graphite-blue-and-grey-textured-grid",
     "source": "stateandliberty",
     "candidateIds": [
@@ -114832,6 +115070,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://stateandliberty.com/products/the-tucker-mid-blue-bengal-stripe-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859355975761-image-69405860495441",
+      "stateandliberty-15859355975761-image-69405860528209"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-vernor-light-blue-square-check-print",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859357089873-image-69405876518993",
+      "stateandliberty-15859357089873-image-69405876551761"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/the-wellington-sport-shirt-light-olive-and-white-bengal-stripe",
     "source": "stateandliberty",
     "candidateIds": [
@@ -114844,6 +115110,48 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-west-coast-light-blue-mini-chevron-with-navy-dots",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859357745233-image-69405895262289",
+      "stateandliberty-15859357745233-image-69405895295057"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-westfield-solid-sage-green-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859358531665-image-69079658037329",
+      "stateandliberty-15859358531665-image-69079658201169"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-weston-light-blue-pink-black-plaid-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859359744081-image-69629161046097",
+      "stateandliberty-15859359744081-image-69629161078865"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://stateandliberty.com/products/the-winslow-navy-brown-check",
@@ -114874,6 +115182,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://stateandliberty.com/products/the-xavier-lavender-with-white-windowpane-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859361611857-image-69629137059921",
+      "stateandliberty-15859361611857-image-69629137092689"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/tuxedo-jacket-black-velvet-peak",
     "source": "stateandliberty",
     "candidateIds": [
@@ -114888,6 +115210,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://strongsize.com/products/10-motion-short-v2",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8464182476985-image-37796770545849",
+      "strongsize-8464182476985-image-40840211005625"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://strongsize.com/products/10-motion-short-v2-2-pack",
     "source": "strongsize",
     "candidateIds": [
@@ -114896,6 +115232,34 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0530-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/10-motion-short-v2-3-pack",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8468210090169-image-40840200126649",
+      "strongsize-8468210090169-image-40840200290489"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/10-motion-short-v2-5-pack",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8468215267513-image-40840204484793",
+      "strongsize-8468215267513-image-40840204550329"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -115042,6 +115406,61 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://strongsize.com/products/flannel-sweater-shirt-2-pack-big-and-tall",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8260890001593-image-39198463131833",
+      "strongsize-8260890001593-image-39198463164601"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/flannel-sweater-shirt-big-and-tall",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8243134103737-image-39090696061113"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/jogger-pant-2-pack-big-and-tall",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8260974215353-image-39198455529657",
+      "strongsize-8260974215353-image-39198455562425"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/jogger-pant-big-and-tall",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8243167461561-image-39090689441977",
+      "strongsize-8243167461561-image-39090691440825"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://strongsize.com/products/motion-short-sleeve-shirt",
     "source": "strongsize",
     "candidateIds": [
@@ -115053,6 +115472,19 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/motion-short-sleeve-shirt-v2",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8450440954041-image-40908735119545"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -115155,6 +115587,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie-4-pack",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8236134039737-image-39029760098489",
+      "strongsize-8236134039737-image-39944092188857"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://strongsize.com/products/warmup-short",
     "source": "strongsize",
     "candidateIds": [
@@ -115204,6 +115650,34 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0530-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/zip-hoodie-2-pack-big-and-tall",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8260963500217-image-39198471946425",
+      "strongsize-8260963500217-image-39198471979193"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/zip-hoodie-big-and-tall",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8243139969209-image-39090683936953",
+      "strongsize-8243139969209-image-39090686427321"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T1850-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,

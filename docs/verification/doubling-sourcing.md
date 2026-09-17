@@ -1,6 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 6,899 photos; 3,313 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 6,954 photos; 3,258 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Latest continuation: fitted shirts and saved archive
+
+Batches `2026-09-17T1840-training` and `2026-09-17T1850-targeted` directly inspect 114 candidates: 48 saved archive photos and 66 targeted retail photos. Eight bound sheets, seven enlarged original-image rereads and four comparison sheets covering all 54 prior admissions from the three targeted retailers yield 55 additions. New styling counts: 10 masculine, 24 feminine and 21 unclear. Three new complete references are masculine-styled fitted-shirt views with build 2, shoulderHip 1 and waist 1. Complete masculine references rise from 40 to 43; total complete references rise from 285 to 288. The broader-build benchmark stays at 54. Twelve of 45 sampled body settings still have no matches; the new references improve three sampled settings relative to the preceding checkpoint.
+
+Current totals are 6,954 photos, 6,713 body records and 5,449 build observations. All 6,899 preceding presentation records and 6,514 expansion photo/asset/body records are preserved exactly. Training collection ordinals 0–887 are now reviewed; 3,912 pending records start at ordinal 888. The original 4,800-row collection reconstructs exactly from the three reviewed partitions plus pending intake. No archive download was repeated and no pending photo is admitted.
+
+Three bounded retail listings record 88 Strongsize, 249 State and Liberty and 250 Ash and Erie products; every observed listing and download outcome is retained. The inventory now has 11,467 sampled pages, 40,292 deferred pages and 45 recorded runs across 43 source keys. Strongsize first/third gallery positions mostly produce bundles and trouser crops; Ash and Erie repeats polo colorways and rear views. Three extra repetitive ensembles were removed after comparison with prior photos. Favor new publishers and full-front fuller-build galleries next; the three complete additions do not close fuller-build gaps. Source/photo counts do not establish independent people.
+
+Admission/image bindings, prior-record preservation, presentation completeness, original-photo identity, library audit and typechecking pass. All 131 unit checks pass in one full run (338.09 seconds, 170,041 assertions), and all 86 browser checks pass (3.5 minutes). All 6,954 images validate with no duplicate asset hashes; the 45-point coverage grid is recomputed through the application matcher. This remains an undeployed checkpoint. Earlier sections below retain their historical validation and queue counts.
 
 ## Latest continuation: archive and targeted galleries
 

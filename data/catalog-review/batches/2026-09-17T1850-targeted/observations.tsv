@@ -1,0 +1,67 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	reject	?	?	?	U	Product-only shorts bundle; no worn outfit.
+1	detail	?	?	?	U	Close crop of shorts and lower shirt; shoulders absent.
+2	reject	?	?	?	U	Product-only shorts bundle; no worn outfit.
+3	detail	?	?	?	U	White shorts detail crop; upper torso absent.
+4	reject	?	?	?	C	Olive collared short-sleeve shirt repeats previously admitted Strongsize ensemble structure; no clearer contours.
+5	detail	?	?	?	U	Blue shorts and lower-shirt crop; no complete upper torso.
+6	detail	?	?	?	U	Beige shorts close crop; upper torso absent.
+7	reject	?	?	?	U	Product-only jogger bundle.
+8	detail	?	?	?	U	Joggers cropped above waist; shoulders and torso absent.
+9	reject	?	?	?	U	Product-only hoodie bundle.
+10	partial	3	?	?	U	Black zip-neck hoodie and dark trousers; loose layered torso hides proportions.
+11	reject	?	?	?	U	Product-only collared-shirt bundle.
+12	partial	3	?	?	C	Dark utility overshirt and jeans; shirt hem conceals waist and hips.
+13	detail	?	?	?	U	Black jogger crop; shoulders absent.
+14	detail	?	?	?	U	Side crop of grey joggers and lower tee.
+15	reject	?	?	?	U	Repeated black zip-neck hoodie outfit from ordinal 10.
+16	partial	3	?	?	U	Color-block zip hoodie and grey joggers; thick hoodie conceals axes.
+17	partial	3	?	?	C	Pale plaid overshirt and jeans; angled torso and untucked hem conceal proportions.
+18	reject	?	?	?	U	Product-only hoodie bundle.
+19	reject	?	?	?	U	Product-only hoodie bundle.
+20	partial	2	1	1	C	Enlarged frontal fitted blue check shirt and dark trousers; shoulders wider than hips, moderate visible waist taper.
+21	reject	?	?	?	C	Repeated blue check-shirt outfit from ordinal 20; crossed arms add no contour evidence.
+22	reject	?	?	?	C	Closer duplicate of white striped-shirt outfit at ordinal 23; both excluded after prior-outfit comparison.
+23	reject	?	?	?	C	Untucked pale shirt and dark-trouser styling repeats prior State and Liberty admissions; crossed arms prevent new contour evidence.
+24	reject	?	?	?	C	Minor pink-shirt colorway of untucked pale shirt and dark-trouser styling at ordinal 23; both repeat prior catalog ensembles.
+25	reject	?	?	?	C	Repeated pink untucked-shirt colorway and dark-trouser ensemble.
+26	reject	?	?	?	C	Repetitive pale blue tucked-shirt and dark-trouser styling; retain frontal full view at ordinal 33.
+27	reject	?	?	?	C	Repeated pale blue tucked-shirt outfit with hands across waist.
+28	reject	?	?	?	M	Enlarged shirt-and-tie outfit repeats prior light-shirt/navy-tie tailoring; pocketed hand adds no clearer complete contours.
+29	reject	?	?	?	C	Repeated blue shirt and dark-trouser outfit from ordinal 28, without tie and turned sideways.
+30	reject	?	?	?	C	Close variant of sage-shirt and pale-trouser ensemble; fuller frontal view retained at ordinal 31.
+31	full	2	1	1	C	Enlarged frontal fitted sage shirt, pale trousers and brown shoes; shoulders wider than hips and moderate waist taper.
+32	reject	?	?	?	C	Close view of blue shirt and dark trousers; fuller view retained at ordinal 33.
+33	full	2	1	1	C	Enlarged fitted pale blue shirt and dark trousers; visible wider shoulders and moderate waist taper, arms clear of torso.
+34	reject	?	?	?	C	Minor pale-trouser colorway of blue-shirt ensemble at ordinal 33.
+35	reject	?	?	?	C	Repeated pale-trouser colorway; no additional outfit construction.
+36	reject	?	?	?	C	Repetitive pale blue tucked-shirt and dark-trouser combination; ordinal 33 retained.
+37	reject	?	?	?	C	Repeated pale blue tucked-shirt ensemble, hand in pocket and angled stance.
+38	reject	?	?	?	C	Minor white-shirt and blue-trouser colorway of retained fitted tailoring.
+39	reject	?	?	?	C	Repeated white-shirt and blue-trouser colorway; no new construction.
+40	reject	?	?	?	C	Repetitive light check shirt and dark trousers; earlier check-shirt styling retained at 20 and 28.
+41	reject	?	?	?	C	Repeated light check-shirt styling; hip-shifted pose adds no contour certainty.
+42	reject	?	?	?	C	Close version of patterned short-sleeve collared-shirt outfit; fuller view retained at 43.
+43	full	1.5	?	?	C	Small-pattern short-sleeve collared shirt, beige chinos and sneakers; hands and loose hem conceal waist.
+44	reject	?	?	?	C	Grey polo variant; retain clearer frontal polo view at ordinal 48 rather than repetitive colorways.
+45	back	?	?	?	C	Rear view of grey polo outfit.
+46	reject	?	?	?	C	Minor navy colorway of polo and grey trousers at ordinal 44; clearer frontal polo view retained at ordinal 48.
+47	back	?	?	?	C	Rear view of navy polo outfit.
+48	partial	1.5	1	?	C	Enlarged light blue polo and beige chinos; shoulders wider than visible hips, loose shirt obscures waist.
+49	reject	?	?	?	C	Repeated light blue polo outfit; hand in pocket makes contours less clear than ordinal 48.
+50	reject	?	?	?	C	Purple striped polo variant; repeated polo styling retained at ordinal 48.
+51	back	?	?	?	C	Rear view of purple polo outfit.
+52	reject	?	?	?	C	Close version of blue button-down and tan chinos; fuller view retained at ordinal 53.
+53	full	1.5	?	?	C	Blue button-down, tan chinos and brown shoes; untucked hem obscures waist.
+54	detail	?	?	?	U	Grey trouser front detail; upper torso cropped out.
+55	back	?	?	?	U	Rear trouser detail crop.
+56	detail	?	?	?	U	Taupe trouser crop; shoulders absent.
+57	back	?	?	?	U	Rear taupe trouser crop.
+58	detail	?	?	?	U	Black trouser crop below chest; shoulders absent.
+59	back	?	?	?	U	Rear black trouser crop.
+60	partial	1.5	?	?	C	Textured pale knit polo and dark trousers; loose ribbed hem obscures waist.
+61	back	?	?	?	C	Rear view of pale knit polo.
+62	reject	?	?	?	C	Minor striped pale knit-polo variant; same ensemble structure retained at ordinal 60.
+63	back	?	?	?	C	Rear view of striped knit polo.
+64	reject	?	?	?	C	Dark knit-polo colorway; repetitive collared knit styling without clearer proportions.
+65	back	?	?	?	C	Rear angled view of dark knit polo.

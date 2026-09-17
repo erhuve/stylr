@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9262,
-  "admittedPhotos": 6514,
-  "totalPhotos": 6899,
+  "reviewedCandidates": 9376,
+  "admittedPhotos": 6569,
+  "totalPhotos": 6954,
   "axisSupport": {
-    "build": 5275,
-    "shoulderHip": 299,
-    "waist": 586
+    "build": 5325,
+    "shoulderHip": 303,
+    "waist": 592
   },
-  "completeReferences": 243,
-  "sourcePages": 5967,
+  "completeReferences": 246,
+  "sourcePages": 6022,
   "excludedReasons": {
-    "non-outfit-view": 2690,
+    "non-outfit-view": 2749,
     "existing-source-page": 58
   },
   "excluded": [
@@ -11004,6 +11004,242 @@
     },
     {
       "id": "wildfang-7478308536501-image-72763215184053",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-18876",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16211",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9776",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-18236",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8468210090169-image-40840200126649",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8468210090169-image-40840200290489",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8468215267513-image-40840204484793",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8468215267513-image-40840204550329",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8450440954041-image-40908735119545",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8464182476985-image-37796770545849",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8464182476985-image-40840211005625",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8260974215353-image-39198455562425",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8260974215353-image-39198455529657",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8260963500217-image-39198471979193",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8260890001593-image-39198463164601",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8243167461561-image-39090689441977",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8243167461561-image-39090691440825",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8243139969209-image-39090683936953",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8236134039737-image-39029760098489",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8236134039737-image-39944092188857",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15652313825361-image-70085062459473",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15652313006161-image-69380326654033",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15652313006161-image-69380326686801",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15652315201617-image-69380327112785",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15652315201617-image-69380327178321",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859361611857-image-69629137059921",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859361611857-image-69629137092689",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859359744081-image-69629161078865",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859359744081-image-69629161046097",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859358531665-image-69079658037329",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859357745233-image-69405895295057",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859357089873-image-69405876551761",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859357089873-image-69405876518993",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859355975761-image-69405860495441",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859355975761-image-69405860528209",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859353321553-image-69405843128401",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859353321553-image-69405843161169",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859350208593-image-69405836509265",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859350208593-image-69405836476497",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10059440849194-image-52204240535850",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10058773397802-image-52204783862058",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10058773397802-image-52204783829290",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10058776772906-image-52204528599338",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10058776772906-image-52204528566570",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10059383406890-image-52204126863658",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10059461132586-image-52203550015786",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10059461132586-image-52203550048554",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-8320803602730-image-55359256920362",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-7065373147247-image-50465172521258",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-7065373147247-image-50465172488490",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-9637603082538-image-47620516905258",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-9637603082538-image-47620516675882",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-7065372262511-image-52991323013418",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-7065372262511-image-52991322980650",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10052065263914-image-52113697571114",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10052058546474-image-52113420288298",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10052058546474-image-52113420321066",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10052020928810-image-52112984178986",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ashanderie-10052020928810-image-52112984211754",
       "reason": "non-outfit-view"
     }
   ]

@@ -1,0 +1,555 @@
+{
+  "retrievedAt": "2026-09-17T18:55:08.789809+00:00",
+  "scope": "3 sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "strongsize",
+      "pages": [
+        {
+          "url": "https://strongsize.com/products.json?limit=250&page=1",
+          "products": 88,
+          "retrievedAt": "2026-09-17T18:54:55.480559+00:00",
+          "snapshotSha256": "60d542283dd590b2e54cd90b79f13a9e8b18f440ee4939a1708d8a9d28d53182"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "strongsize-8464346284217-image-40835936747705",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT18_SILVER_GRAY_01.jpg?v=1776137968",
+          "sourceUrl": "https://strongsize.com/products/apex-textured-t-shirt",
+          "sha256": "5258eb5460eca6be278c980d78dcda5be65898eb520f143a2fae1a017aab6c83",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "strongsize-8464346284217-image-40835935764665",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT18_BLACK_01.jpg?v=1776139889",
+          "sourceUrl": "https://strongsize.com/products/apex-textured-t-shirt",
+          "sha256": "6f921a5858d2f41225e648a846c775aad93624b9d0f4c47f18493053b0364920",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "strongsize-8468210090169-image-40840200126649",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/16-3-NOF_01.jpg?v=1776192602",
+          "sourceUrl": "https://strongsize.com/products/10-motion-short-v2-3-pack",
+          "sha256": "c0a9de22e6db47923448be45f7078906409c8c3b09a502dc87910d5de5b61787",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8468210090169-image-40840200290489",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/16-3-NOF_02.jpg?v=1776192603",
+          "sourceUrl": "https://strongsize.com/products/10-motion-short-v2-3-pack",
+          "sha256": "5c338254d075b0a28d3a01a7f0118ab4e1871d3165f82f0543359cd6d745cc17",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8468215267513-image-40840204484793",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/16-5-2BNOF_01.jpg?v=1776192624",
+          "sourceUrl": "https://strongsize.com/products/10-motion-short-v2-5-pack",
+          "sha256": "e65325f7c71178ac8054a6bf2451142af681d2d928b611e307838f7eb708695b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8468215267513-image-40840204550329",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/16-5-2BNOF_04.jpg?v=1776192625",
+          "sourceUrl": "https://strongsize.com/products/10-motion-short-v2-5-pack",
+          "sha256": "063c16c5d2d54d7c222276bebdecd28dca558639e5c5d4b8e08852c4ee7b124a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8450440954041-image-40908735119545",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT43-OLIVE_01_e32dad2e-5377-4f4d-9d28-981ef7b389ef.jpg?v=1776867098",
+          "sourceUrl": "https://strongsize.com/products/motion-short-sleeve-shirt-v2",
+          "sha256": "76d2e5377c290fce87a8b2567e0fbbad917dfe51d6b572da6240bd4dd660b8d8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8450440954041-image-40835959161017",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT43-BLACK_01.jpg?v=1776196654",
+          "sourceUrl": "https://strongsize.com/products/motion-short-sleeve-shirt-v2",
+          "sha256": "787f8677db94bc4a5e56571130edd71a3fae9627a7a13c7553d13765db9b30b1",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "strongsize-8464182476985-image-37796770545849",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZB10_MIDNIGHT_01.jpg?v=1747150999",
+          "sourceUrl": "https://strongsize.com/products/10-motion-short-v2",
+          "sha256": "a6abc85f698f38aeb4e1c190f8c02be0495632237d23e8dbf5cf1087ff1e016c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8464182476985-image-40840211005625",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZB16-DESERT_01.jpg?v=1776192668",
+          "sourceUrl": "https://strongsize.com/products/10-motion-short-v2",
+          "sha256": "e2c54cba50515f49b6a682dba650e889e57b6a63571f3a053e9ca319f586899b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8260974215353-image-39198455562425",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZB15-2-BG_01.jpg?v=1761845360",
+          "sourceUrl": "https://strongsize.com/products/jogger-pant-2-pack-big-and-tall",
+          "sha256": "9c927d80e4dca90ff897973e6af9afe82bec4d00445a9557cf5e17a5f604bfa9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8260974215353-image-39198455529657",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZB15-2-BG_02.jpg?v=1761845360",
+          "sourceUrl": "https://strongsize.com/products/jogger-pant-2-pack-big-and-tall",
+          "sha256": "d0d5d60b35768d3464720202bdd6dad6450c98e2748fb26b91d578f03476a159",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8260963500217-image-39198471979193",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT14-2-BG_01.jpg?v=1761845640",
+          "sourceUrl": "https://strongsize.com/products/zip-hoodie-2-pack-big-and-tall",
+          "sha256": "9e51ac0888a9df94e5930cc0322c8a66a1caf48ea080b677ef05c2578f50932d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8260963500217-image-39198471946425",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT14-2-BG_03.jpg?v=1761845640",
+          "sourceUrl": "https://strongsize.com/products/zip-hoodie-2-pack-big-and-tall",
+          "sha256": "80cabb2ba17f84674ffb9483ea524e9cb983a21d4dd88a8dc915c0a4ff71b5b6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8260890001593-image-39198463164601",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT11-2-BC_01.jpg?v=1761845514",
+          "sourceUrl": "https://strongsize.com/products/flannel-sweater-shirt-2-pack-big-and-tall",
+          "sha256": "b4299e5fe22fb510cf9e71cdb527ff7ec8031186350b6fbf9ebb527948c82323",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8260890001593-image-39198463131833",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT11-2-BC_02.jpg?v=1761845514",
+          "sourceUrl": "https://strongsize.com/products/flannel-sweater-shirt-2-pack-big-and-tall",
+          "sha256": "95c4ae47ff47a6e3ed2b11136519b4cd0f17521a90a420800cd94260e5508f43",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8243167461561-image-39090689441977",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZB15_BLACK_01.jpg?v=1774448224",
+          "sourceUrl": "https://strongsize.com/products/jogger-pant-big-and-tall",
+          "sha256": "62e84ef9921d63676ee193d47445f7b5fb3f46439bb6745ad89b4ce98153667e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8243167461561-image-39090691440825",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZB15_GRAY_02.jpg?v=1774448224",
+          "sourceUrl": "https://strongsize.com/products/jogger-pant-big-and-tall",
+          "sha256": "20c7aefe8b940be77ab6bcd83ec2217710dae2839ef3d24eae93bc5aee86f34a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8243139969209-image-39090683936953",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT14_BLACK_01.jpg?v=1760647824",
+          "sourceUrl": "https://strongsize.com/products/zip-hoodie-big-and-tall",
+          "sha256": "e4dda2137124c5daea186fe19fa3181cb9013d883a2b1e69cb04db759e677890",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8243139969209-image-39090686427321",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT14_GRAYNAVY_01.jpg?v=1760650339",
+          "sourceUrl": "https://strongsize.com/products/zip-hoodie-big-and-tall",
+          "sha256": "ae5e3b1d93bf9f3e1b35cd4922d5ff41dabf68ef0017dde878237f9861a22edd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8243134103737-image-39090696061113",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT11_CALI_WINE_PLAID_01.jpg?v=1760648251",
+          "sourceUrl": "https://strongsize.com/products/flannel-sweater-shirt-big-and-tall",
+          "sha256": "7380a32dfe2d05c8ac4c717c72129f67192cda58b05e2f2bc1d4f3c8af741a02",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8243134103737-image-39090693701817",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT11_BLACK_HEATHER_TWILL_01.jpg?v=1760649918",
+          "sourceUrl": "https://strongsize.com/products/flannel-sweater-shirt-big-and-tall",
+          "sha256": "95c4ae47ff47a6e3ed2b11136519b4cd0f17521a90a420800cd94260e5508f43",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "strongsize-8236134039737-image-39029760098489",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/742-3-PLHN_01.jpg?v=1759941101",
+          "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie-4-pack",
+          "sha256": "fe08f64cdc3f510c3369ffe4b9912fcf4aac54daa992e91a95d4dedac73b1af9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "strongsize-8236134039737-image-39944092188857",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/742-4-LLHH_01.jpg?v=1768947489",
+          "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie-4-pack",
+          "sha256": "c2edd8195f52f15171dc4c0afe622392285865eaaa1990b48baffb6e99f772f6",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 20
+    },
+    {
+      "source": "stateandliberty",
+      "pages": [
+        {
+          "url": "https://stateandliberty.com/products.json?limit=250&page=1",
+          "products": 249,
+          "retrievedAt": "2026-09-17T18:54:59.952297+00:00",
+          "snapshotSha256": "dddd7df7c468570939b6fef154ca3f521dcf300317903979da716b9f8693bde8"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "stateandliberty-15652313825361-image-70085062426705",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/thelawrence-sportshirt-0012-evoto-shopify_cf593aae-af4a-4b84-a22c-b8c428f9c55c.jpg?v=1789556282",
+          "sourceUrl": "https://stateandliberty.com/products/the-lawrence-sport-shirt-light-blue-with-navy-windowpane",
+          "sha256": "d02f684011091cb5e55234a397512c2e2763ef9ca2596e28e0a5010587d325a1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15652313825361-image-70085062459473",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/thelawrence-sportshirt-0014-evoto-shopify_dba09059-1c3c-4d9e-a29c-c63061e05685.jpg?v=1789556282",
+          "sourceUrl": "https://stateandliberty.com/products/the-lawrence-sport-shirt-light-blue-with-navy-windowpane",
+          "sha256": "a52e49df5f0f489e4c590e2636a207b54596d39c56bc3b6a699b448fdf8ffbf3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15942314098769-image-69550470332497",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-4_8c0527ad-c2d6-4c49-9a0f-39825b2a46f5.jpg?v=1785789285",
+          "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+          "sha256": "c76d17d30fa52904769f4a9a2e4bc75107ed411e1867f23c08ab91279af9cd35",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "stateandliberty-15942314098769-image-69550470365265",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-3_396dd929-45fd-4d41-b01f-f293ea345eee.jpg?v=1785789285",
+          "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+          "sha256": "55f82b9de52b8abc62f4a8f1a913d97d0e97b6b23f65b55bc2338919b1484c7e",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "stateandliberty-15652313006161-image-69380326654033",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/state-liberty-sport-shirt-arlington-2.jpg?v=1784305654",
+          "sourceUrl": "https://stateandliberty.com/products/the-arlington-sport-shirt-white-with-lilac-stripe",
+          "sha256": "03759538532a2c8c7bdc48f6a4e10a4e38de6314380288c62790250cc509e93e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15652313006161-image-69380326686801",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/state-liberty-sport-shirt-arlington-3.jpg?v=1784305654",
+          "sourceUrl": "https://stateandliberty.com/products/the-arlington-sport-shirt-white-with-lilac-stripe",
+          "sha256": "b3d623e0fdd4a6f3e4f7e372e8fdfcee492725149210c45e16c4bad10675b9cf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15652315201617-image-69380327112785",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/state-liberty-sport-shirt-portland-2.jpg?v=1784305681",
+          "sourceUrl": "https://stateandliberty.com/products/the-portland-sport-shirt-light-pink-with-light-blue-mini-check",
+          "sha256": "3c8b132f411c26169f9461bf74be0a942767421d55cae24aa90cdff5b8f9218d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15652315201617-image-69380327178321",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/state-liberty-sport-shirt-portland-4.jpg?v=1784305681",
+          "sourceUrl": "https://stateandliberty.com/products/the-portland-sport-shirt-light-pink-with-light-blue-mini-check",
+          "sha256": "175e5362f9f615679d44db109562791bf5d58a056e5df0b513052fa36cf7a9d8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859361611857-image-69629137059921",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/xavier-0001_8db7419d-1a9f-47c5-9bbc-741075102465.jpg?v=1786454470",
+          "sourceUrl": "https://stateandliberty.com/products/the-xavier-lavender-with-white-windowpane-1",
+          "sha256": "8bb623d8e882d3b161f80806322798348bb4ccbba9209d6c68421dcc18cc3ef4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859361611857-image-69629137092689",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/xavier-0002_e8ce75da-8847-4a69-81e3-c5207d271579.jpg?v=1786454469",
+          "sourceUrl": "https://stateandliberty.com/products/the-xavier-lavender-with-white-windowpane-1",
+          "sha256": "b725e20bee3cd8eed97d41617dd25e407ed17acb12e7e58f03c21056dcecb80f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859359744081-image-69629161078865",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/weston-0004_9334803e-4c81-4d1c-96f5-f8e07bb0a3fd.jpg?v=1786454564",
+          "sourceUrl": "https://stateandliberty.com/products/the-weston-light-blue-pink-black-plaid-1",
+          "sha256": "3ada4a046310333f11c50802f91d4ed0fbc04ff9935d824f7595f01314414ccb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859359744081-image-69629161046097",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/weston-0003_36cbdea6-39de-4bcc-bf08-113f6c4a9516.jpg?v=1786454563",
+          "sourceUrl": "https://stateandliberty.com/products/the-weston-light-blue-pink-black-plaid-1",
+          "sha256": "f3e8754029878d7719f4a78a82bd6350d5875df9a5ff026fc25ea81349200f57",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859358531665-image-69079658037329",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/state-liberty-dress-shirt-westfield-1_a49c86b9-66ef-469b-b543-0831ed0014b3.jpg?v=1781722306",
+          "sourceUrl": "https://stateandliberty.com/products/the-westfield-solid-sage-green-1",
+          "sha256": "074ff7ea4218b4b0de2627697cfb064569867dd28c0de2b44e50761af9936fc0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859358531665-image-69079658201169",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/state-liberty-dress-shirt-westfield-6_ee311bd0-3102-4014-a058-3d84644a338f.jpg?v=1781722305",
+          "sourceUrl": "https://stateandliberty.com/products/the-westfield-solid-sage-green-1",
+          "sha256": "260a8429165b09f6836ccba86f8940b5316748133888a37600ca9a5bf4cae139",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859357745233-image-69405895295057",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/west-coast-0002.jpg?v=1784738513",
+          "sourceUrl": "https://stateandliberty.com/products/the-west-coast-light-blue-mini-chevron-with-navy-dots",
+          "sha256": "71c6b2afc64a88f10cf9e26bca926425c5a4bd71ead9d060b78a67eedd0007df",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859357745233-image-69405895262289",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/west-coast-0001.jpg?v=1784738514",
+          "sourceUrl": "https://stateandliberty.com/products/the-west-coast-light-blue-mini-chevron-with-navy-dots",
+          "sha256": "7c86881b8924d0fe5fb1cac19eb8d18a9a81d6bc3fb479e270a02d0a71c468f1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859357089873-image-69405876551761",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/vernor-0002.jpg?v=1784738075",
+          "sourceUrl": "https://stateandliberty.com/products/the-vernor-light-blue-square-check-print",
+          "sha256": "3198da6e9e27412b5a26443176e377b9f751843de9010fde3481255176a7a779",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859357089873-image-69405876518993",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/vernor-0001.jpg?v=1784738075",
+          "sourceUrl": "https://stateandliberty.com/products/the-vernor-light-blue-square-check-print",
+          "sha256": "d32a86cf6d10fc8e572e34c776a3181ee2751fe536b63f3cb55b5285d75954d1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859355975761-image-69405860495441",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/tucker-0001.jpg?v=1784737421",
+          "sourceUrl": "https://stateandliberty.com/products/the-tucker-mid-blue-bengal-stripe-1",
+          "sha256": "874b5ced32ace20a12bd79ed6382fedbb09a9a6a5383e18b6382ae7f101371aa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859355975761-image-69405860528209",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/tucker-0002.jpg?v=1784737421",
+          "sourceUrl": "https://stateandliberty.com/products/the-tucker-mid-blue-bengal-stripe-1",
+          "sha256": "3c1567060a7e936756159f5a9c952d4f928bd2361afea99c2c4c1d23a46a80c2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859353321553-image-69405843128401",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/stafford-0001.jpg?v=1784736651",
+          "sourceUrl": "https://stateandliberty.com/products/the-stafford-solid-white-weave-1",
+          "sha256": "bbaae0cf3b4c5f1b2320e365a6505fbe0b7c003791f7bef9055235781fcc5429",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859353321553-image-69405843161169",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/stafford-0002.jpg?v=1784736651",
+          "sourceUrl": "https://stateandliberty.com/products/the-stafford-solid-white-weave-1",
+          "sha256": "a69a0ed84ba484feb4e2515a22a55bc7f5a08bd6b0395a82fbcad60a9db018e4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859350208593-image-69405836509265",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/soho-0002.jpg?v=1784736400",
+          "sourceUrl": "https://stateandliberty.com/products/the-soho-light-blue-windowpane-1",
+          "sha256": "b6b4b59722dde4ad1802931a2d0392738c317de43062fc97753ad2f355e2b769",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859350208593-image-69405836476497",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/soho-0001.jpg?v=1784736401",
+          "sourceUrl": "https://stateandliberty.com/products/the-soho-light-blue-windowpane-1",
+          "sha256": "067c5fca48dba2bd26c1e86d3618922d7308327ce86784985441e81af7cb34b8",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 22
+    },
+    {
+      "source": "ashanderie",
+      "pages": [
+        {
+          "url": "https://ashanderie.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-17T18:55:05.418681+00:00",
+          "snapshotSha256": "8493c3c5b1c50a9a73c1d0b66a82e7bf6f5568068f70b4932fe964bb549e125b"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "ashanderie-10059440849194-image-52204240535850",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-dancing-lobsters-tech-polo-1226817069.jpg?v=1773189009",
+          "sourceUrl": "https://ashanderie.com/products/dancing-lobsters-tech-polo",
+          "sha256": "7b142fb63eb2a252239bf30ec0df179d1489a68b13c01ccaf3ffe8308aa53941",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10059440849194-image-52204240437546",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-dancing-lobsters-tech-polo-1226817072.jpg?v=1773188890",
+          "sourceUrl": "https://ashanderie.com/products/dancing-lobsters-tech-polo",
+          "sha256": "ca85884107caef1811b368709b74cfa1e2f24407971fe1e1110c517d64e2ec1b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10058773397802-image-52204783862058",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-dark-grey-tech-polo-1226817048.jpg?v=1773190448",
+          "sourceUrl": "https://ashanderie.com/products/dark-grey-tech-polo",
+          "sha256": "c7915c8818d606d9154ccb95d50cfa3b9a66af8b6af685bf6695ecbfe78f0169",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10058773397802-image-52204783829290",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-dark-grey-tech-polo-1226817049.jpg?v=1773190329",
+          "sourceUrl": "https://ashanderie.com/products/dark-grey-tech-polo",
+          "sha256": "2a28615483e1d8b95d37fe48a61ed638aa8420094f69197a675225822bf514b9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10058776772906-image-52204528599338",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-true-navy-tech-polo-1226817062.jpg?v=1773190087",
+          "sourceUrl": "https://ashanderie.com/products/true-navy-tech-polo",
+          "sha256": "7fcefe43703432976e5d8577f4ebf28fbec9def9ee712b67522b3329bc9fa46d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10058776772906-image-52204528566570",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-true-navy-tech-polo-1226817063.jpg?v=1773189968",
+          "sourceUrl": "https://ashanderie.com/products/true-navy-tech-polo",
+          "sha256": "9db615458d488ff41490a33f9c4f0af6f5dfc643309b165db32a06f8c82c9e9d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10059383406890-image-52204126830890",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-light-blue-tech-polo-1226817075.jpg?v=1773189728",
+          "sourceUrl": "https://ashanderie.com/products/light-blue-tech-polo",
+          "sha256": "0ff7bfdc190f4745d4c28725a96ea0d6b2410f0baca095bcac5f21f1e69e0938",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10059383406890-image-52204126863658",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-light-blue-tech-polo-1226817074.jpg?v=1773189608",
+          "sourceUrl": "https://ashanderie.com/products/light-blue-tech-polo",
+          "sha256": "041839b6bd8e892ce4b186242a170afcc40fa4e11ff0e02f8fe40782c8e46f01",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10059461132586-image-52203550015786",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-plum-textured-stripe-tech-polo-1226811328.jpg?v=1773181808",
+          "sourceUrl": "https://ashanderie.com/products/plum-textured-stripe-tech-polo",
+          "sha256": "14deeadc0c992d52b9277cef80697c882d1095647c58a6e6bad95e1fb1ab8a48",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10059461132586-image-52203550048554",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/tech-polo-shirt-plum-textured-stripe-tech-polo-1226811327.jpg?v=1773181689",
+          "sourceUrl": "https://ashanderie.com/products/plum-textured-stripe-tech-polo",
+          "sha256": "64f170d72bf1fd643bc70753db1d31e4e9acdbb2a84c03d1735319a19a181018",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-8320803602730-image-55359256920362",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/everyday-shirts-blue-linen-shirt-1255842995.jpg?v=1787718430",
+          "sourceUrl": "https://ashanderie.com/products/blue-linen-shirt",
+          "sha256": "23f1f0fcfb25b336458486cba4b0546a86542519c296b8e7fb6030f1d8ff967e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-8320803602730-image-55359257018666",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/everyday-shirts-blue-linen-shirt-1255842992.jpg?v=1787718308",
+          "sourceUrl": "https://ashanderie.com/products/blue-linen-shirt",
+          "sha256": "a90d16fa8c40a3381ec7e8f801457d93e0089e2f94bb7ad7eca18b6f997d0ea9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-7065373147247-image-50465172521258",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/weekend-jeans-boulder-grey-weekend-jeans-1202908022.jpg?v=1762295452",
+          "sourceUrl": "https://ashanderie.com/products/boulder-grey-weekend-jeans",
+          "sha256": "53f7eccc550f293147711a9ecdcdb5fac895a8335f781c45fcd78d0b56787a1b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-7065373147247-image-50465172488490",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/weekend-jeans-boulder-grey-weekend-jeans-1202908023.jpg?v=1762295463",
+          "sourceUrl": "https://ashanderie.com/products/boulder-grey-weekend-jeans",
+          "sha256": "f341fca2fa83c8f4213e1a6e7a920049a2f4c9ba371c503433d7358a21cef908",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-9637603082538-image-47620516905258",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/weekend-jeans-sandstone-weekend-jeans-47620516905258.jpg?v=1762460031",
+          "sourceUrl": "https://ashanderie.com/products/sandstone-weekend-jeans",
+          "sha256": "5e44758b368d70cf053677dc421779de4436ee177554b2b128a7bedf65b782d7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-9637603082538-image-47620516675882",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/weekend-jeans-sandstone-weekend-jeans-47620516675882.jpg?v=1735252815",
+          "sourceUrl": "https://ashanderie.com/products/sandstone-weekend-jeans",
+          "sha256": "28d71a9b14ef7f3b0228b7449967181919f3814818e124bf9ffef69ec8b56449",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-7065372262511-image-52991323013418",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/weekend-jeans-night-sky-weekend-jeans-1236938072.jpg?v=1778092871",
+          "sourceUrl": "https://ashanderie.com/products/night-sky-weekend-jeans",
+          "sha256": "c0029446f3ba4b085f5fb3a71c87b68523d08d40d47f6eb40195d999eb3f5843",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-7065372262511-image-52991322980650",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/weekend-jeans-night-sky-weekend-jeans-1236938073.jpg?v=1778092750",
+          "sourceUrl": "https://ashanderie.com/products/night-sky-weekend-jeans",
+          "sha256": "7fae105301c2e195565ea8867021428d91035b13bbffa75534d80e06b02300cd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10052065263914-image-52113697538346",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-grey-button-knit-polo-1224871755.jpg?v=1772584208",
+          "sourceUrl": "https://ashanderie.com/products/grey-button-knit-polo",
+          "sha256": "5d924568854d0c49a21d1b76cb1a52f9441d5733e677c0229d7c6748ad65a1b6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10052065263914-image-52113697571114",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-grey-button-knit-polo-1224871754.jpg?v=1772584089",
+          "sourceUrl": "https://ashanderie.com/products/grey-button-knit-polo",
+          "sha256": "af124c7bd5aeb063126f354a1c85f064862eab94ff7bde94e49043085e1c3150",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10052058546474-image-52113420288298",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-alabaster-stripes-knit-polo-1224871764.jpg?v=1772584568",
+          "sourceUrl": "https://ashanderie.com/products/alabaster-stripes-knit-polo",
+          "sha256": "7cbc82564459b1d7af83341d1a813f2835e5d0f959db29590f44c5605b53c86c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10052058546474-image-52113420321066",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-alabaster-stripes-knit-polo-1224871760.jpg?v=1772584448",
+          "sourceUrl": "https://ashanderie.com/products/alabaster-stripes-knit-polo",
+          "sha256": "a8e0e52a8cfff3dd39977b9061d56f6d702db51927ee394f6f95af345e6e1452",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10052020928810-image-52112984178986",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-black-knit-polo-1224864792.jpg?v=1772577008",
+          "sourceUrl": "https://ashanderie.com/products/black-knit-polo",
+          "sha256": "35896a1c1b6a6362eb8d9a412bf5043a13c30f66e4188078786aba2994b85e8e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "ashanderie-10052020928810-image-52112984211754",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-black-knit-polo-1224864791.jpg?v=1772576888",
+          "sourceUrl": "https://ashanderie.com/products/black-knit-polo",
+          "sha256": "8262fd9bf885a703bef75af43ca23685b8fe99c07b33a34f47eb8739b5232d2e",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 24
+    }
+  ]
+}
