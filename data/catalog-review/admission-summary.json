@@ -1,5 +1,5 @@
 {
-  "reviewedCandidates": 9838,
+  "reviewedCandidates": 9862,
   "admittedPhotos": 6792,
   "totalPhotos": 7177,
   "axisSupport": {
@@ -10,7 +10,7 @@
   "completeReferences": 249,
   "sourcePages": 6235,
   "excludedReasons": {
-    "non-outfit-view": 2988,
+    "non-outfit-view": 3012,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12196,6 +12196,102 @@
     },
     {
       "id": "copperunion-8760303026398-image-42995615695070",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9351588053300-image-48084887470388",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9351588053300-image-48341671772468",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-8784071065908-image-46135886774580",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-8784071065908-image-43191292199220",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9160679653684-image-46697497592116",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9160679653684-image-46452152074548",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9244194963764-image-47796321943860",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9244194963764-image-47666654576948",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9064628683060-image-46129330094388",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9064628683060-image-45577659744564",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-7568382329026-image-46129273372980",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-7568382329026-image-39864299651380",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-5783939874980-image-46129267802420",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-5783939874980-image-21582526578882",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9150032478516-image-46135890215220",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9150032478516-image-46135890247988",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9150032412980-image-46135889822004",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9150032412980-image-46135889854772",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9244195979572-image-47514644087092",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9244195979572-image-47514644119860",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9213642408244-image-46970565132596",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9213642408244-image-46970565099828",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9274078167348-image-48400975757620",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "poncho-9274078167348-image-48400975888692",
       "reason": "non-outfit-view"
     }
   ]

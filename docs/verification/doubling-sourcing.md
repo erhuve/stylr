@@ -2,7 +2,17 @@
 
 Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,177 photos; 3,035 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
 
-## Current continuation: Mugsy, Goodlife and Copper Union
+## Current continuation: Poncho source exclusions
+
+The 23:01 UTC run directly reviews 24 candidates in `2026-09-17T2310-poncho` on two hash-bound sheets. All are excluded: 22 flat products/details and two rear views. No admissions, body-filter gains or presentation additions occur. Totals remain 7,177 photos, 5,646 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear), and 54 broader-build benchmark matches. Presentation totals remain 1,195 masculine, 4,029 feminine, 168 mixed and 1,785 unclear. All 45 sampled body settings are unchanged; twelve remain empty. The target still requires 3,035 admissions.
+
+One new publisher's first listing preserves all 249 decisions, retrieval time, snapshot hash and 24 image outcomes. Its first/third gallery positions are unsuitable; inspect alternate galleries for full-front collared outfits before further sampling. Continue independent fuller-build sourcing while preserving all presentation coverage. The ledger now records 11,621 sampled pages, 41,739 deferred pages, 53 source keys and 59 runs. The 3,744 pending training records remain byte-identical from original ordinal 1056. Append after `2026-09-17T2310-poncho`; no source is declared exhausted.
+
+The abandoned prior lock was recovered after checking local and Zo process state and saved work. The prior run's 48 reviews had already been pushed as `3b3c4e8`; all 40 local saved files matched that commit except its stale validation paragraph. That local snapshot is preserved in a named Git stash, and the checkout fast-forwarded to the remote checkpoint. `origin/main` is an ancestor. No prior reviews are counted again.
+
+Current verification passes: all new image, sheet and listing bindings; every preceding photo, expansion asset, body label and presentation row unchanged, including all 6,792 expansion asset digests; admission replay; complete presentation audit; original-photo identity; typecheck; all six focused catalog/sourcing tests (60,947 assertions, 15.53 seconds); and diff whitespace checks. Application/test sources and the body-coverage grid are byte-identical. The preceding exhaustive 131-unit/86-browser results remain applicable to the unchanged application and admitted catalog; those costly suites are not duplicated. No checks are pending or failing. Deployment remains pending.
+
+## Previous continuation: Mugsy, Goodlife and Copper Union
 
 The 22:31 UTC scheduled run reviews 48 new candidates in `2026-09-17T2250-targeted` and `2026-09-17T2255-contours`, admitting nine: three feminine-styled and six unclear outfits. Five bound sheets, six enlarged originals and two comparison sheets covering all 32 previous Copper Union admissions support the review. All nine additions have apparent-build observations, including seven fuller-build references; none supports every required axis. Totals are 7,177 photos, 5,646 build observations and 291 complete references (44 masculine, 148 feminine, two mixed and 97 unclear). Masculine styling coverage stays at 1,195 photos. All 45 sampled body selections remain unchanged; twelve are empty and the broader-build benchmark remains 54.
 

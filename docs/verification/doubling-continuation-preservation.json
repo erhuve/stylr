@@ -1,25 +1,26 @@
 {
-  "baselineCommit": "09a5173",
-  "preservedPrefixes": {
-    "scripts/reviewed-photos.json": 6783,
-    "scripts/reviewed-assets.json": 6783,
-    "data/catalog-review/admitted-body.json": 6783
-  },
+  "baselineCommit": "3b3c4e8",
+  "byteIdenticalFiles": [
+    "scripts/reviewed-photos.json",
+    "scripts/reviewed-assets.json",
+    "data/catalog-review/admitted-body.json",
+    "data/presentation/review.json",
+    "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json",
+    "docs/verification/doubling-body-grid.json"
+  ],
+  "preservedPhotos": 7177,
+  "preservedExpansionAssetDigests": 6792,
+  "preservedPresentationRows": 7177,
+  "trainingPendingUnchanged": true,
+  "trainingPending": 3744,
   "batches": [
     {
-      "batch": "2026-09-17T2250-targeted",
-      "reviewed": 32,
-      "admitted": 2,
-      "listingDecisions": 404
-    },
-    {
-      "batch": "2026-09-17T2255-contours",
-      "reviewed": 16,
-      "admitted": 7,
-      "listingDecisions": 190
+      "batch": "2026-09-17T2310-poncho",
+      "reviewed": 24,
+      "admitted": 0,
+      "listingDecisions": 249,
+      "verifiedSheets": 2
     }
   ],
-  "preservedPresentationRows": 7168,
-  "trainingPendingUnchanged": true,
-  "trainingPending": 3744
+  "applicationAndTestSourcesUnchanged": true
 }

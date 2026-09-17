@@ -4,6 +4,8 @@
 
 ## From sources to the application
 
+Latest source review: `2026-09-17T2310-poncho` inspects 24 images and excludes all products/details/rear views. No admissions or body-filter gains; totals remain 7,177 photos and 291 complete references. All prior records and pending training bindings are unchanged. See the active doubling handoff for verification; earlier checkpoints follow.
+
 Current half-hour checkpoint: 7,177 photos, 291 complete references and 54 broader-build benchmark matches; not deployed. Two batches ending `2026-09-17T2255-contours` review 48 candidates and add nine photographs, with no required-body-filter gain. All preceding records and all 3,744 pending training candidates retain their bindings. The active doubling handoff records validation; checkpoint paragraphs below are historical.
 
 Latest half-hour sprint checkpoint: 7,168 photos, 291 complete references and 54 broader-build benchmark matches; not deployed. Batch `2026-09-17T2240-targeted` adds 12 photos from 32 direct reviews, including one fuller-build feminine complete reference and no masculine complete reference. Two sampled body settings gain one match. All 3,744 pending training candidates retain their original ordinal/hash bindings. See the active doubling handoff for validation; earlier checkpoint paragraphs below are historical.

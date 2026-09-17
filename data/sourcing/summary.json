@@ -280,6 +280,15 @@
       "deferredPages": 0
     },
     {
+      "source": "poncho",
+      "sampledPages": 12,
+      "candidateImages": 24,
+      "reviewedExpansionCandidates": 24,
+      "admittedExpansionPhotos": 0,
+      "completeExpansionReferences": 0,
+      "deferredPages": 211
+    },
+    {
       "source": "punkrave",
       "sampledPages": 78,
       "candidateImages": 156,
@@ -38872,6 +38881,196 @@
             }
           ],
           "downloadedUnique": 16
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T2310-poncho/sources.json",
+      "retrievedAt": "2026-09-17T23:03:42.925270+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "poncho",
+          "pages": [
+            {
+              "url": "https://www.ponchooutdoors.com/products.json?limit=250&page=1",
+              "products": 249,
+              "retrievedAt": "2026-09-17T23:03:36.935698+00:00",
+              "snapshotSha256": "5c14c8313168b39fb46c79b3ee79c353ecff7ee040249200ec4cc94f2fd12cad"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "poncho-9351588053300-image-48084887470388",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/DeepintheHeart-Back_bf67d763-b731-48c0-b470-646971832f30.png?v=1785789393",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-deep-in-the-heart-t-shirt",
+              "sha256": "3c456e50501f758c27a85f9be3e3b2655e6c146fad69479026966a4929a58179",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9351588053300-image-48341671772468",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/DeepintheHeartTee-Lifestyle.jpg?v=1787841651",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-deep-in-the-heart-t-shirt",
+              "sha256": "3fb14f5e0fb235432c1a87dc1a282a159fc5ab0d0ef7b943c936f6d0142e9ffc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-8784071065908-image-46135886774580",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/TanBuck-Back.png?v=1752590753",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/tan-buck-t-shirt",
+              "sha256": "30a90d65f53fd84dcef12adcbd3cdb4f16087338e6ad1d7b9610672fd8b1e1fd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-8784071065908-image-43191292199220",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/IMG_6151.jpg?v=1752590753",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/tan-buck-t-shirt",
+              "sha256": "8065bc997e8ed6321074666e8ffa50a26422a68ec5b71255baa7db681c63a137",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9160679653684-image-46697497592116",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/The_Boone_-_Front_1.png?v=1757688456",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-boone",
+              "sha256": "578dc15f89f0f5c010abc65e4531b8a0e2dc91694f88f3a6bc52f7daded3a0eb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9160679653684-image-46452152074548",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/Frame_7412ed97-b76a-47d2-b65f-743228d9de95.jpg?v=1760387596",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-boone",
+              "sha256": "2946067453fbcd79292dde868d401574b2a98160c104ceac9cf0916d9832ca60",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9244194963764-image-47796321943860",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/TheUncleSam-Front_e404c0c6-fb4f-4190-af3c-a725974af71a.png?v=1781705297",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-uncle-sam",
+              "sha256": "a4477c4a4d83b2cb8048c3ff3841a069b6f61a30d65e7e5f99f003abb13e008e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9244194963764-image-47666654576948",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/TheUncleSam-Features1.png?v=1779125903",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-uncle-sam",
+              "sha256": "e01bd42371e17f18fac0fc02c76aafe88a00042820ec77b95165013a12cca463",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9064628683060-image-46129330094388",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/cordonblue-no-bg.png?v=1752590606",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-cordon-bleu",
+              "sha256": "4e758601ce313721676e11ecc0aac944e492f9f428510dbdbc158f2246f0f31d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9064628683060-image-45577659744564",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/the-cordon-blue-product-feature-1.jpg?v=1752590607",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-cordon-bleu",
+              "sha256": "5e02db6174fd7cb0358d4f103cadf43524e2374540fca7f3cc9a4d5ff35b213f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-7568382329026-image-46129273372980",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/savannah-no-bg.png?v=1746365972",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-savannah",
+              "sha256": "6678bf16d7a9fa8687a91f7b68b9afa69240e0219f1dfcc779654ad8fc6d75ce",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-7568382329026-image-39864299651380",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/products/Savannah-lens-cloth.jpg?v=1746365972",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-savannah",
+              "sha256": "3e71cd544f7060157b068a5f671fcbc4eb7fb24eca83e8183b97ba36bf4499a2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-5783939874980-image-46129267802420",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/paloduro-no-bg.png?v=1752591072",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-palo-duro",
+              "sha256": "1739082d5b5a32923863a4f1821974bfa9ca7888e68213e098159ecd58e5febf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-5783939874980-image-21582526578882",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/products/closeup_zippocket3.jpg?v=1752591072",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-palo-duro",
+              "sha256": "3a102021aa13b45f91621bb0940ee1afc76e126e3f84f145c90cb83df2e68ef7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9150032478516-image-46135890215220",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/QuailofNorthAmericaBack.png?v=1746576844",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/quail-of-north-america-t-shirt",
+              "sha256": "3411cdeb059bc4ac067314627b5ebfb27ebf8f79a58ca363f5048e9d725922db",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9150032478516-image-46135890247988",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/QuailofNorthAmericaFront.png?v=1746576845",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/quail-of-north-america-t-shirt",
+              "sha256": "30f3497fabdff0b4dd257a51e3ecc9eb8eb8e6d2e4482a179c2b2551bf312683",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9150032412980-image-46135889822004",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/FlyFishing-Back.png?v=1746576826",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/fly-fishing-t-shirt",
+              "sha256": "4e70827d5d7e6b19ecdfec809b506e4216de0c4a182d180d732ea4fa727e1fbe",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9150032412980-image-46135889854772",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/FlyFishing.png?v=1746576826",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/fly-fishing-t-shirt",
+              "sha256": "6b9efb4c09cb81df0342186f97c50dcfc35b8f767df32ab75634fb93ab80a135",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9244195979572-image-47514644087092",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/TheLibertyBell-Front.png?v=1776192004",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-liberty-bell",
+              "sha256": "b192c7f719243bb0b76fe3fdb8896f0444d98737284a848d9bb31b3d0c6d8399",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9244195979572-image-47514644119860",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/TheLibertyBell-Features1.png?v=1776192006",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-liberty-bell",
+              "sha256": "d56710090c09e7b0fc5fc4919453b3b0b39149c67d97f007ed9f43703c79bb42",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9213642408244-image-46970565132596",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/TheGrisGris-Front.png?v=1765379941",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-gris-gris",
+              "sha256": "f99c1205290cfac35b216f4e76237934c815915b37f56a7a3ba66ffd1607916f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9213642408244-image-46970565099828",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/TheGrisGris-Features_c2bab929-a648-4e6e-b3c5-242934a43a2c.png?v=1769109943",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-gris-gris",
+              "sha256": "e2ec53ac1d53256d2e1b0cd9483d638aa991cd86de43cef140581ee19d435865",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9274078167348-image-48400975757620",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/TheHotSauce-Front.png?v=1788541929",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-hot-sauce",
+              "sha256": "49efe7fb10d27dc002cb6a4ca27fb30422a56ff8db4c7ed3a6b3dba5f241110f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "poncho-9274078167348-image-48400975888692",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0030/2963/1035/files/TheHotSauce-Features2.png?v=1788541938",
+              "sourceUrl": "https://www.ponchooutdoors.com/products/the-hot-sauce",
+              "sha256": "1e4a6ef79a512ad25db87f8927aa088964a39647491032f8b86a849eae8eb18e",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 24
         }
       ]
     }
