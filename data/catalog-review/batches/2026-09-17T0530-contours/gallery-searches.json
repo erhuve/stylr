@@ -1,0 +1,465 @@
+{
+  "retrievedAt": "2026-09-17T04:16:49.984081+00:00",
+  "scope": "Supplementary indices 1,3,4 from nineteen already sampled product galleries; bounded full-front search after first/third crops. No filename-derived labels.",
+  "selections": [
+    {
+      "id": "superfithero-6713580978365-image-38160343433428",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superfit-pocket-short-bodysuit-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/products/Plus_Size_Bodysuit_Shorts_Pockets_black_back2_26c7f595-ac63-4c12-ba36-b50fc0b0b907.jpg?v=1667104289",
+      "galleryIndex": 1,
+      "sha256": "62d07001d3f0fca0c9f38cd2ca70ecc8e27ae4b64e080d1332d531b99b3514bc",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "superfithero-6713580978365-image-38160343531732",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superfit-pocket-short-bodysuit-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/products/Plus_Size_Bodysuit_Shorts_Pockets_black_profile_Jessica_964ceacd-1edf-43b7-99e4-76949773e692.jpg?v=1667104289",
+      "galleryIndex": 3,
+      "sha256": "fd9a3ebe0230be44cf0ace37de8ace4e4c3f6cccc335febc7dde09205c661e04",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "superfithero-6047885557949-image-38837342109908",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superhold-pocket-leggings-evergreen",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/products/plus-size-leggings-detail-pocket_Superfit-Hero_481ebe82-f188-4faf-9400-c5bb16befa31.jpg?v=1680733703",
+      "galleryIndex": 1,
+      "sha256": "45f0ae1730733d4eb9dfdccf0d72b5ced40233e0750bd52f58007198ec8dfa9c",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "superfithero-6047885557949-image-38837342011604",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superhold-pocket-leggings-evergreen",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/products/plus-size-leggings-with-pockets-profile-full_Superfit-Hero-citlali.jpg?v=1680733703",
+      "galleryIndex": 3,
+      "sha256": "f1cbfc6c462bcfff750ed762e6e6944246d2ec42253328f9a63f48b0ee684398",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "superfithero-6047885557949-image-38837341946068",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superhold-pocket-leggings-evergreen",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/products/plus-size-leggings-high-compression-waistband-close-up_Superfit-Hero_982ab2c2-cbe0-477d-91d2-edc1634a435e.jpg?v=1680733703",
+      "galleryIndex": 4,
+      "sha256": "f5a52f8dfb37fac8111e6b150a1ecde4510e8f99bda964c67d4be116fb2c2777",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "superfithero-6697823174845-image-40976350478548",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superhold-pocket-7-8-leggings-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/files/black_78_fullbody.jpg?v=1717452452",
+      "galleryIndex": 1,
+      "sha256": "1a4c12023dfcc0bc0b9c2ef9cc70ae9f4d31f82974cfe2fa0d4cb8ff0cceda7e",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "superfithero-6697823174845-image-38869784428756",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superhold-pocket-7-8-leggings-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/products/plus-size-78-leggings-black_phone_pocket.jpg?v=1717452452",
+      "galleryIndex": 3,
+      "sha256": "1b97c6226b13fc62007c86040839a6e31e19c71199a723f8630279755e7581bd",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "superfithero-6697674014909-image-41671041810644",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superhold-pocket-flare-leggings-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/files/Black_flare_profile_pocket.jpg?v=1725303312",
+      "galleryIndex": 1,
+      "sha256": "313898bcd67cb3fc706bb576b7dbe251bc5d8ac5b03bb3fc1ca15671188c739c",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "superfithero-6697674014909-image-41671041712340",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superhold-pocket-flare-leggings-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/files/Black_flare_profile_fun.jpg?v=1725303312",
+      "galleryIndex": 3,
+      "sha256": "bbc87288d728535248adfbf3fa56731382a53c5779dcf22a6140148b18a9fe03",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "superfithero-6697674014909-image-38868731396308",
+      "source": "superfithero",
+      "sourceUrl": "https://superfithero.com/products/superhold-pocket-flare-leggings-black",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/9135/products/BLACK_compression-flare-pocket-leggings-plus-size-women_profile3_full_Jennifer.jpg?v=1725303336",
+      "galleryIndex": 4,
+      "sha256": "7a000413286566b5863d5a2338f240679d2b48a90b493d8561f3b324faf59ace",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-7349620801599-image-31479992385599",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/terrace-high-rise-run-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4013_RunShort_Terrace_5_web.jpg?v=1714170121",
+      "galleryIndex": 1,
+      "sha256": "5ab9a1f26da5d37986896d35b76a2fa06ee2f96d5c9ff55eb8e0bed31f227dc8",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-7349620801599-image-31479992156223",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/terrace-high-rise-run-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4013_RunShort_Terrace_3_web.jpg?v=1714169176",
+      "galleryIndex": 3,
+      "sha256": "f697537e7e71e4986ba01703f2a336a97b77157277aac60d02beef0a9857b1a5",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-7349620801599-image-31479992320063",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/terrace-high-rise-run-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4013_RunShort_Terrace_4_web.jpg?v=1714170755",
+      "galleryIndex": 4,
+      "sha256": "5be51a4de65c164c71bd4a92d5f836fcb50a139722f9bcb3a6ef270f89ac054d",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-635601354815-image-31489885765695",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/black-high-rise-run-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4013_RunShort_Black_04_web.jpg?v=1714404713",
+      "galleryIndex": 1,
+      "sha256": "701b60b2be61f1a4e57b15e801bbb83ded75967dd1eaa1dcddd2da4be180083c",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-635601354815-image-31489885831231",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/black-high-rise-run-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4013_RunShort_Black_03_web.jpg?v=1714521879",
+      "galleryIndex": 3,
+      "sha256": "280b04ed419f4dd0e85c87f7cc766c8ad0fbc4811ca3b1f011dbb501ed5a6241",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-635601354815-image-31489885405247",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/black-high-rise-run-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4013_RunShort_Black_02_web.jpg?v=1714522152",
+      "galleryIndex": 4,
+      "sha256": "92c91a5dceb9b3ba19e11c38fe819e411d6add363a2c9e471771d30a1319dcad",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-7349620310079-image-31479979409471",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/skyline-high-rise-bike-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4011_BikeShort_Skyline_02_web.jpg?v=1714169315",
+      "galleryIndex": 1,
+      "sha256": "3d10c4bd9dfa118b2b66bdcd79e25629eade7db6de77c50a7e86ebb1eefe2cbe",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-7349620310079-image-31479979245631",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/skyline-high-rise-bike-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4011_BikeShort_Skyline_03_web.jpg?v=1714168896",
+      "galleryIndex": 3,
+      "sha256": "ca5f9a8c96d116d51acc48b0d1e8f118525a2d11454308e0b3fc063fd5341d43",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-7349620310079-image-31479979311167",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/skyline-high-rise-bike-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4011_BikeShort_Skyline_04_web.jpg?v=1714168997",
+      "galleryIndex": 4,
+      "sha256": "fdce6ad86367c1c66ff91d7dfcdee16b388ac16f9a7a87cea3db59fccc85e436",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-7349619851327-image-31479978885183",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/cafe-high-rise-bike-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4011_BikeShort_Cafe_2_web.jpg?v=1714081949",
+      "galleryIndex": 1,
+      "sha256": "c5234936da14ca334814cfa297c5c982ad12a4fb589b4abc87ce1c089ab5c6fe",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-7349619851327-image-31479978950719",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/cafe-high-rise-bike-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4011_BikeShort_Cafe_4_web.jpg?v=1714169055",
+      "galleryIndex": 3,
+      "sha256": "d1a2974dbd41a8db4befd0a4690fa3f147042228edafec2234363fa35a0ab641",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "girlfriend-7349619851327-image-31479979016255",
+      "source": "girlfriend",
+      "sourceUrl": "https://girlfriend.com/products/cafe-high-rise-bike-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0019/2217/0943/files/4011_BikeShort_Cafe_5_web.jpg?v=1714169900",
+      "galleryIndex": 4,
+      "sha256": "024bb319102c3d3b342e06458a7d87440e68cc5cecfe7ea7c2e3e30ace0f011e",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "strongsize-8458633085113-image-40835934421177",
+      "source": "strongsize",
+      "sourceUrl": "https://strongsize.com/products/core-classic-t-shirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT17-IRON_GRAY_04.jpg?v=1776139305",
+      "galleryIndex": 1,
+      "sha256": "e78768dc9308ba0b0a33c8e74b54b7ab57d6171fb07df7f3b1086a08eeff34e2",
+      "outcome": "exact-duplicate"
+    },
+    {
+      "id": "strongsize-8458633085113-image-40835931898041",
+      "source": "strongsize",
+      "sourceUrl": "https://strongsize.com/products/core-classic-t-shirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT17-BLACK_01.jpg?v=1776137878",
+      "galleryIndex": 3,
+      "sha256": "fe1026ccc07bf7b996a0e7f57c02831d7ddf1a923e75df74d689cf4a9b0aabe6",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "strongsize-8456119615673-image-40835949428921",
+      "source": "strongsize",
+      "sourceUrl": "https://strongsize.com/products/titan-active-t-shirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT33-STORM_BLUE_04.jpg?v=1776139026",
+      "galleryIndex": 1,
+      "sha256": "ba68b1ee86eab2178129d984cdfb8edfbbe147793e216350629e07e0c8a20ce1",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "strongsize-8456119615673-image-40835946315961",
+      "source": "strongsize",
+      "sourceUrl": "https://strongsize.com/products/titan-active-t-shirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT33-CRIMSON_RED_01.jpg?v=1776139026",
+      "galleryIndex": 3,
+      "sha256": "f5de8532e6433c71ee705c40c1cb3c949053bc104a81821927e432393513b4fa",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "strongsize-8458630463673-image-40835942154425",
+      "source": "strongsize",
+      "sourceUrl": "https://strongsize.com/products/warmup-short-sleeve-hoodie",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT30-SLATE_BLUE_02.jpg?v=1776139246",
+      "galleryIndex": 1,
+      "sha256": "d23cfcc507c943f33c64edb51585a3930f1f8a129396a38ae2273f042d991e8f",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7657062891606-image-36686979530838",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/slim-thick-fit-denkhaki-slate",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/D_6728_Denkhaki_SlimThick_Slate_Compressed.jpg?v=1776671667",
+      "galleryIndex": 1,
+      "sha256": "e6e9c607a6de1d44fb1a03d7777f345f135a91207f93135b69b3b33e4ebb37d3",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7657062891606-image-36686979432534",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/slim-thick-fit-denkhaki-slate",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/C_6730_Denkhaki_SlimThick_Slate_Compressed.jpg?v=1776671667",
+      "galleryIndex": 3,
+      "sha256": "e413d104b83e27580c5f096ad30e5014bee2a120f10003882821b430e1487cf8",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7657062891606-image-36686979366998",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/slim-thick-fit-denkhaki-slate",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/E_6725_Denkhaki_SlimThick_Slate_Compressed.jpg?v=1776671667",
+      "galleryIndex": 4,
+      "sha256": "565b5b8c0cf61e16c179707274dae2843face37cfe3ee6d487746aaa7547744b",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7551497601110-image-36686973534294",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/athletic-fit-sage-denkhaki",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/D_7842_Denkhaki_Athletic_Sage_Compressed.jpg?v=1776671485",
+      "galleryIndex": 1,
+      "sha256": "f3811a27d95eb00054c0268ef09082455a4f48e7abb5b80288abeb6996c0adae",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7551497601110-image-36686973435990",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/athletic-fit-sage-denkhaki",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/C_7844_Denkhaki_Athletic_Sage_Compressed.jpg?v=1776671485",
+      "galleryIndex": 3,
+      "sha256": "435d6673c40eb3264343252149965309e244cb6fb406f6f5287a66f0e247e154",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7551497601110-image-36686973403222",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/athletic-fit-sage-denkhaki",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/E_7838_Denkhaki_Athletic_Sage_Compressed.jpg?v=1776671485",
+      "galleryIndex": 4,
+      "sha256": "602b86860705423393f1fc7c77e477d8f4c52827fa665e9c2a19609d70c3f02f",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7666462130262-image-37201993269334",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/everyday-comfort-shorts-athletic-fit-slate",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/B_4725_ComfortShorts_Athletic_Slate_Compressed.jpg?v=1782198439",
+      "galleryIndex": 1,
+      "sha256": "f00106848c4fecfbfa409f164ce64e28675b21502abc9c400951fe2210b1b31c",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7666462130262-image-37201993302102",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/everyday-comfort-shorts-athletic-fit-slate",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/D_4734_ComfortShorts_Athletic_Slate_Compressed.jpg?v=1782198439",
+      "galleryIndex": 3,
+      "sha256": "3179be64808cec92af2cd41109e6eb6302dcef5171e315c9401e3cb164a32974",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7666462130262-image-37201993171030",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/everyday-comfort-shorts-athletic-fit-slate",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/E_4711_ComfortShorts_Athletic_Slate_Compressed.jpg?v=1782198439",
+      "galleryIndex": 4,
+      "sha256": "a56e086fd42de7c10967e2b41d85267432fa44547ba7cb023bf7fd8169b123e4",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7613621403734-image-34445103956054",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/organic-athletic-fit-crew-neck-t-shirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/IMG_8839_Navy_89578470-a43b-4751-a0c7-c2a8b68704dd.jpg?v=1762269243",
+      "galleryIndex": 1,
+      "sha256": "23eef9d03cb72d8fda4b0c3c3cfa1fee1fb52b758dcb99e1d95deda693f13d06",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7613621403734-image-34428337455190",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/organic-athletic-fit-crew-neck-t-shirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/athletic-crew-shirt-white-cropped.jpg?v=1762269246",
+      "galleryIndex": 3,
+      "sha256": "3f179607dc890ecbb8e495be4a02528dc1cdfec33be93205eb22f29d4e53ff04",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "theperfectjean-7613621403734-image-34428338667606",
+      "source": "theperfectjean",
+      "sourceUrl": "https://theperfectjean.nyc/products/organic-athletic-fit-crew-neck-t-shirt",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0259/7588/1814/files/athletic-crew-shirt-black-cropped.jpg?v=1762269243",
+      "galleryIndex": 4,
+      "sha256": "5e445123e302c1d4e2e09db64403df176df7cf8b3c0ca4b715e75b77e614b94c",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-10095849046314-image-52749802996010",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/navy-stripes-pique-daily-polo",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-navy-stripes-pique-daily-polo-1232810939.jpg?v=1776465609",
+      "galleryIndex": 1,
+      "sha256": "f6a7a0372062407965e67c202340942f600369086ba837363282af8c6c64aa4f",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-10095849046314-image-52749803094314",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/navy-stripes-pique-daily-polo",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-navy-stripes-pique-daily-polo-1232810936.jpg?v=1776465490",
+      "galleryIndex": 3,
+      "sha256": "63366487da1f0a5d241e4a15f37748a53ab26a3c0bd4f001922d592ccedee2f5",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-10095849046314-image-52749803127082",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/navy-stripes-pique-daily-polo",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/short-sleeve-polo-shirt-navy-stripes-pique-daily-polo-1232810935.jpg?v=1776465433",
+      "galleryIndex": 4,
+      "sha256": "21eea75cf5d58663b39912c051aa39385962e06de44a0d58a8b0ec705d15a0e0",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-10097409753386-image-52721431478570",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/khaki-lightweight-signature-chino",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/signature-chino-pants-khaki-lightweight-signature-chino-1232523383.jpg?v=1776299650",
+      "galleryIndex": 1,
+      "sha256": "9d8849c3b1d672019c8ec4ac7d32aaee0f0600fad922fd4f0a4e0e8bc36203bd",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-10097409753386-image-52721431609642",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/khaki-lightweight-signature-chino",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/signature-chino-pants-khaki-lightweight-signature-chino-1232523379.jpg?v=1776299529",
+      "galleryIndex": 3,
+      "sha256": "6c8a8d782c87ddbdd9b37e6e5a209c7e72d7a99d22bd9e09b68d6f722a140e93",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-10097409753386-image-52721431642410",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/khaki-lightweight-signature-chino",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/signature-chino-pants-khaki-lightweight-signature-chino-1232523378.jpg?v=1776299468",
+      "galleryIndex": 4,
+      "sha256": "94e0f78d500ece52f6ccd29ff76cfb4ae9ebc9274660e81220989dd9ac53b223",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-9742453440810-image-48437627060522",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/5-teak-lightweight-signature-chino-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/chino-shorts-5-teak-lightweight-stretch-chino-short-1152079271.jpg?v=1743082617",
+      "galleryIndex": 1,
+      "sha256": "6bd347c6cfd20d5770f7a6940c75c250dea2d80ba6fbe6e92f06980dc7de3159",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-9742453440810-image-48437627093290",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/5-teak-lightweight-signature-chino-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/chino-shorts-5-teak-lightweight-stretch-chino-short-1152079274.jpg?v=1743082726",
+      "galleryIndex": 3,
+      "sha256": "26b5d3b98f2fb893abc21695a58e093fb7e321a1ccc222bc986294f61c6a65a5",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-9742453440810-image-48437627158826",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/5-teak-lightweight-signature-chino-short",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/chino-shorts-5-teak-lightweight-stretch-chino-short-1152079273.jpg?v=1743082623",
+      "galleryIndex": 4,
+      "sha256": "35196eb5fd93a97a5de69c88c728ae92f2b327775ac4daf7b1e3dde6f25e7937",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-10040675926314-image-51960766824746",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/straight-fit-night-sky-weekend-jeans",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/straight-fit-jeans-straight-fit-night-sky-weekend-jeans-1221673752.jpg?v=1771506615",
+      "galleryIndex": 1,
+      "sha256": "f2c5bf05ad505133705a1482f852ae0fee7ebfd325be606937a38f0edd1d10b9",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-10040675926314-image-51960766890282",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/straight-fit-night-sky-weekend-jeans",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/straight-fit-jeans-straight-fit-night-sky-weekend-jeans-1221673750.jpg?v=1771506495",
+      "galleryIndex": 3,
+      "sha256": "013d400d8909dd0bee7b3ad7b342e0410b4655fc9f793251641d4f69333406d0",
+      "outcome": "downloaded-unique"
+    },
+    {
+      "id": "ashanderie-10040675926314-image-51960766923050",
+      "source": "ashanderie",
+      "sourceUrl": "https://ashanderie.com/products/straight-fit-night-sky-weekend-jeans",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0932/9384/files/straight-fit-jeans-straight-fit-night-sky-weekend-jeans-1221673749.jpg?v=1771506434",
+      "galleryIndex": 4,
+      "sha256": "f9aac2b5299fa7f29f38c377623681653bda8d7575b65623f1a84529b2e14a0e",
+      "outcome": "downloaded-unique"
+    }
+  ]
+}

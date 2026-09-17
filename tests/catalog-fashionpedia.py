@@ -9,7 +9,7 @@ import sys
 import tempfile
 import unittest
 from unittest.mock import patch
-from zipfile import ZipFile
+from zipfile import BadZipFile, ZipFile
 
 from PIL import Image
 
@@ -59,24 +59,51 @@ class ArchiveSourcing(unittest.TestCase):
             self.assertEqual(records[0]['sourceLicense'], metadata['licenses'][0])
             self.assertEqual(records[0]['sha256'], hashlib.sha256((root / records[0]['localPath']).read_bytes()).hexdigest())
 
-    def test_pending_photos_are_tracked_but_not_admitted(self):
+    def test_resumed_pending_photos_have_individual_reviews(self):
         batch = REPO / 'data/catalog-review/batches/2026-09-17T0320-fashionpedia'
         pending = json.loads((batch / 'pending-intake.json').read_text())
         admitted = {row['id'] for row in json.loads((REPO / 'scripts/reviewed-assets.json').read_text())}
         reviewed = {row['id'] for row in json.loads((batch / 'labels.json').read_text())}
-        self.assertEqual(len(pending), 831)
+        self.assertEqual(len(pending), 0)
         self.assertFalse({row['id'] for row in pending} & (admitted | reviewed))
+        resumed = REPO / 'data/catalog-review/batches/2026-09-17T0520-archive'
+        candidates = json.loads((resumed / 'intake.json').read_text())
+        labels = json.loads((resumed / 'labels.json').read_text())
+        self.assertEqual(len(candidates), 831)
+        self.assertEqual({row['id']: row['sha256'] for row in candidates}, {row['id']: row['sha256'] for row in labels})
+        self.assertFalse({row['id'] for row in candidates} & reviewed)
         with tempfile.TemporaryDirectory() as directory:
             output = Path(directory)
             with patch.object(inventory, 'OUTPUT', output), patch.object(inventory.subprocess, 'run'):
                 inventory.inventory()
             pages = {row['sourceUrl']: row for row in json.loads((output / 'pages.json').read_text())}
-            for candidate in pending:
+            for candidate in candidates:
                 page = pages[candidate['sourceUrl']]
                 self.assertIn(candidate['id'], page['candidateIds'])
-                self.assertEqual(page['reviewedCandidates'], 0)
-                self.assertEqual(page['admittedExpansionPhotos'], 0)
-                self.assertEqual(page['completeExpansionReferences'], 0)
+                self.assertGreaterEqual(page['reviewedCandidates'], 1)
+
+    def test_training_split_preserves_archive_and_individual_source(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            output = root / 'batch'
+            raw = output / 'raw'
+            raw.mkdir(parents=True)
+            metadata = {'images': [{'id': 7, 'file_name': '7.jpg', 'original_url': 'https://live.staticflickr.com/1/7_abc.jpg', 'license': 1}], 'licenses': [{'id': 1, 'name': 'fixture'}]}
+            collector.save(raw / 'attributes_train2020.json', metadata)
+            buffer = io.BytesIO()
+            Image.new('RGB', (48, 64), (90, 120, 180)).save(buffer, format='JPEG')
+            with ZipFile(raw / 'train2020.zip', 'w') as archive:
+                archive.writestr('train/7.jpg', buffer.getvalue())
+            with patch.object(collector, 'REPO', root), patch.object(collector.pilot, 'ROOT', root), patch.object(collector, 'sheets'), patch.object(collector.pilot, 'fetch', side_effect=AssertionError('Unexpected network')):
+                collector.collect(output, 1, 'training')
+                with self.assertRaisesRegex(ValueError, 'Unknown archive split'):
+                    collector.collect(root / 'invalid', 1, 'invalid')
+            record = json.loads((output / 'intake.json').read_text())[0]
+            self.assertEqual(record['archive']['url'], 'https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip')
+            self.assertEqual(record['archive']['member'], 'train/7.jpg')
+            self.assertEqual(record['sourceUrl'], collector.flickr_link(7))
+            self.assertIsNone(record['body'])
+            self.assertEqual(record['reviewStatus'], 'unreviewed')
 
     def test_reviewed_archive_restores_exact_bytes_and_rejects_changed_member(self):
         raw = io.BytesIO()
@@ -95,7 +122,7 @@ class ArchiveSourcing(unittest.TestCase):
                 record = {**asset, 'archive': {**asset['archive'], **({'sha256': 'changed'} if changed else {})}}
                 for name in fetcher.MANIFESTS:
                     (root / 'scripts' / name).write_text(json.dumps([record] if name == 'reviewed-assets.json' else []))
-                with patch.object(fetcher, 'ROOT', root), patch.object(fetcher, 'download', return_value=zipped.getvalue()) as download, patch('sys.argv', ['fetch-photos.py']):
+                with patch.object(fetcher, 'ROOT', root), patch.object(fetcher, 'download_archive', side_effect=lambda url, target: target.write_bytes(zipped.getvalue())) as download, patch('sys.argv', ['fetch-photos.py']):
                     if changed:
                         with self.assertRaisesRegex(ValueError, 'Archive source checksum mismatch'):
                             fetcher.main()
@@ -103,7 +130,25 @@ class ArchiveSourcing(unittest.TestCase):
                     else:
                         fetcher.main()
                         self.assertEqual((root / 'public/photos/fixture.webp').read_bytes(), expected.getvalue())
-                    download.assert_called_once_with(asset['archive']['url'], fetcher.MAX_ARCHIVE_BYTES)
+                    download.assert_called_once()
+                    self.assertEqual(download.call_args.args[0], asset['archive']['url'])
+
+    def test_archive_streaming_limit_and_atomic_cleanup(self):
+        zipped = io.BytesIO()
+        with ZipFile(zipped, 'w') as archive:
+            archive.writestr('fixture', b'content')
+        for limit, data, fails in [(1000, zipped.getvalue(), False), (10, zipped.getvalue(), True), (1000, b'not a zip', True)]:
+            with self.subTest(limit=limit, fails=fails), tempfile.TemporaryDirectory() as directory:
+                target = Path(directory) / 'archive.zip'
+                with patch.object(fetcher, 'MAX_ARCHIVE_BYTES', limit), patch.object(fetcher.urllib.request, 'urlopen', return_value=io.BytesIO(data)):
+                    if fails:
+                        with self.assertRaises((ValueError, BadZipFile)):
+                            fetcher.download_archive('https://example.com/archive.zip', target)
+                        self.assertFalse(target.exists())
+                    else:
+                        fetcher.download_archive('https://example.com/archive.zip', target)
+                        self.assertEqual(target.read_bytes(), data)
+                self.assertFalse(target.with_suffix('.pending').exists())
 
     def test_import_retains_archive_restore_metadata(self):
         batch = REPO / 'data/catalog-review/batches/2026-09-17T0320-fashionpedia'

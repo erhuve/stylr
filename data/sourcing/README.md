@@ -31,6 +31,12 @@ Latest interactive continuation: `2026-09-16T2045-menswear` reviews 153 candidat
 
 4 p.m. scheduled run completed 119 candidate reviews from Wildfang, Big Bud Press and Snag, admitting 58 photos. Kirrin Finch's same bounded first listing again supplied zero new candidates. Current inventory has 1,572 sampled pages and 1,249 deferred URLs; earlier figures below describe previous passes. Prefer new full-outfit tailoring/workwear galleries and documented Chubstr/street-style sources. Wildfang's first/third selections often crop the outfit; Big Bud Press tank/polo color variants and Snag wrap/flared skirts offer limited additional contour coverage. Inspect alternative galleries or later listings with separately recorded scope rather than repeating the same selection. See the `2026-09-16T2005-tailoring` and `2026-09-16T2010-fitted` batch reviews.
 
+### Active doubling continuation
+
+The current request targets 10,212 admitted photos from 5,106, while retaining extensive coverage of both presentations and all body builds. `docs/verification/doubling-sourcing.md` is the active handoff. The 6,123-photo checkpoint has 283 complete references and 54 broader-build benchmark matches; the old 831 pending archive images are fully reviewed. Earlier backlog/count paragraphs above and below are historical, not current work queues. Use the generated ledger and presentation cross-tabs for actual scope and gaps.
+
+Training archive collection is a separate, unreviewed intake. Raw image count cannot substitute for complete matching coverage. Continue full-front masculine/fuller-build sources alongside archive breadth, consult recorded alternative gallery outcomes and reject redundant colorways. Downloaded candidates are never admitted without direct visual observations and image-bound presentation reviews.
+
 ### Presentation balance
 
 Latest September 16 clarification supersedes the earlier roughly-equal-share target: extensive coverage of both masculine and feminine presentations across apparent builds matters; imbalance is acceptable. No 50/50 quota or removal of existing photos is required. Retain mixed/androgynous and unclear examples separately without forced binary assignment. Presentation describes visible outfit styling, not a person's sex or gender identity; body proportions, faces, names and retailer departments do not establish it. This priority qualifies the older source recommendations below.

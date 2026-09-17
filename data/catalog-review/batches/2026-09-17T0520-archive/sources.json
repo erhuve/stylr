@@ -1,0 +1,26 @@
+{
+  "retrievedAt": "2026-09-17T02:35:17.882496+00:00",
+  "scope": "Review of the 831 previously downloaded pending candidates from 2026-09-17T0320-fashionpedia. No new network collection; original retrieval metadata retained.",
+  "sources": [
+    {
+      "source": "fashionpedia",
+      "pages": [
+        {
+          "url": "https://s3.amazonaws.com/ifashionist-dataset/annotations/info_test2020.json",
+          "products": 2044,
+          "snapshotSha256": "7bb567494e727920810847aae2cd248dd980b3e752329f1dd8e79e02290317f4"
+        },
+        {
+          "url": "https://s3.amazonaws.com/ifashionist-dataset/annotations/instances_attributes_val2020.json",
+          "products": 1158,
+          "snapshotSha256": "f831f415edad12d52acde8b138fe7ebd1592b57bf0dcd6a3b63ba8cabd208223"
+        }
+      ],
+      "archiveUrl": "https://s3.amazonaws.com/ifashionist-dataset/images/val_test2020.zip",
+      "archiveSha256": "44eb1685364b6ed6bda4595fe0dc07a252e9b923112b97b24ff4d440751a2acc",
+      "errors": []
+    }
+  ],
+  "resumedFrom": "data/catalog-review/batches/2026-09-17T0320-fashionpedia/pending-intake.json",
+  "reviewedAt": "2026-09-17"
+}

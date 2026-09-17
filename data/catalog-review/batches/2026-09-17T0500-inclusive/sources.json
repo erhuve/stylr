@@ -1,0 +1,1335 @@
+{
+  "retrievedAt": "2026-09-17T03:41:27.240316+00:00",
+  "scope": "5 sources, at most three pages of 250 products each and 30 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "dapperboi",
+      "pages": [
+        {
+          "url": "https://www.dapperboi.com/products.json?limit=250&page=1",
+          "products": 66,
+          "retrievedAt": "2026-09-17T03:40:59.473859+00:00",
+          "snapshotSha256": "20bc42249df823b38b6ac06890713c7b908837772ed3788ae1749e92547bed0e"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "dapperboi-7701756674221-image-38925341524141",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/1_7a84f16e-c4ca-454b-bf7e-3b24b2eed8b0.png?v=1767098701",
+          "sourceUrl": "https://www.dapperboi.com/products/ivory-short-sleeve-button-up-with-elastic-cuff",
+          "sha256": "2da22bc2fdea3ce465c50ec9c63f5783d9f23f5c7ee29869524ff26bfe78d56c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7701756674221-image-38925341589677",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/5_358af3e6-5f31-4975-a270-bfd1294cacd6.png?v=1767098702",
+          "sourceUrl": "https://www.dapperboi.com/products/ivory-short-sleeve-button-up-with-elastic-cuff",
+          "sha256": "0cfb4de04381d0d529c575038ba3505032077a85b74b5b15c8bb52035bd96a97",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7701765030061-image-38925342146733",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/18.png?v=1767098706",
+          "sourceUrl": "https://www.dapperboi.com/products/olive-short-sleeve-button-up-with-elastic-cuff",
+          "sha256": "abab05dfcffc2ea541abe4c36fe297829f9b67f7580f5a43e7e26611985c8d57",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7701765030061-image-38925342212269",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/25.png?v=1767098705",
+          "sourceUrl": "https://www.dapperboi.com/products/olive-short-sleeve-button-up-with-elastic-cuff",
+          "sha256": "736a9e42bc43022511770c0d26a750e1fb6df1cff8b724a428f08774ccad438d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-6048668287149-image-38925308625069",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-bottoms-deep-red-db-joggers-29766031147181.png?v=1767098383",
+          "sourceUrl": "https://www.dapperboi.com/products/deep-red-db-joggers",
+          "sha256": "3582703a3065329d073c18265d55e30e2996d14db80a8d1fb20a7d7332bbe501",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-6048668287149-image-38925308690605",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-bottoms-deep-red-db-joggers-29710394130605.png?v=1767098383",
+          "sourceUrl": "https://www.dapperboi.com/products/deep-red-db-joggers",
+          "sha256": "efb9a1a5eca4d9ee285931bf3153e14581139057c4a7981d367259379f69ff20",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7388701229229-image-38925335298221",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-jeans-slim-light-grey-jeans-red-label-version-33276069380269.png?v=1767098654",
+          "sourceUrl": "https://www.dapperboi.com/products/slim-light-grey-jeans-red-label",
+          "sha256": "5df8e9cb9b7953402aeb9818eb5f7b64b72b27a11b7174e6ba0b2bbbe09da836",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7388701229229-image-38925335363757",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-jeans-slim-light-grey-jeans-red-label-version-33276082946221.png?v=1767098654",
+          "sourceUrl": "https://www.dapperboi.com/products/slim-light-grey-jeans-red-label",
+          "sha256": "ee82b3ba44cab25ccfcabd4bbe864b38097118528491a32f259a34af904a391a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7701764145325-image-38925341851821",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/28.png?v=1767098703",
+          "sourceUrl": "https://www.dapperboi.com/products/black-short-sleeve-button-up-with-elastic-cuff",
+          "sha256": "7514570738446590b8fe20db4bb45809b2c4c71dac7875c3ed4d68e5ed9fbf4c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7701764145325-image-38925341917357",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/31.png?v=1767098703",
+          "sourceUrl": "https://www.dapperboi.com/products/black-short-sleeve-button-up-with-elastic-cuff",
+          "sha256": "c4a66c2aecee20c6a4d29395e69ff838500f4c47d525bf96ab11e9ebe7f2ac79",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7701766045869-image-38925342539949",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/10_4d4832e3-65f3-442d-a95a-b347181595d6.png?v=1767098707",
+          "sourceUrl": "https://www.dapperboi.com/products/dark-grey-short-sleeve-button-up-with-elastic-cuff",
+          "sha256": "b414c05f07c71621e52d7aedffd7f926d0f21e8cfbac2c3bb97dda64ca9042c3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7701766045869-image-38925342605485",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/16.png?v=1767098707",
+          "sourceUrl": "https://www.dapperboi.com/products/dark-grey-short-sleeve-button-up-with-elastic-cuff",
+          "sha256": "d430dd36c25a71b194d07e583e4276dc9da43ee701bd8d1d26ce9e144cf99aeb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7342184890541-image-38925331464365",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shirts-short-sleeve-henley-3-pack-32975150383277.png?v=1767098622",
+          "sourceUrl": "https://www.dapperboi.com/products/short-sleeve-henley-3-pack-1",
+          "sha256": "6901eab9dd540c6f8c063caec50dac31b6f1c207924351b7c83cf2b7c033c409",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7342184890541-image-38925331529901",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shirts-short-sleeve-henley-3-pack-32975151956141.png?v=1767098622",
+          "sourceUrl": "https://www.dapperboi.com/products/short-sleeve-henley-3-pack-1",
+          "sha256": "8994d7e98a98e4e3789364a4f0b5f972b050d0d5e41014d646706047b7635c4b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456952152237-image-38925334216877",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shirts-black-essential-drop-shoulder-tee-33282435252397.png?v=1767853594",
+          "sourceUrl": "https://www.dapperboi.com/products/db-essential-drop-shoulder-tee",
+          "sha256": "83b8d87acdc7be4225826c01998ea7924ba0f7705afd1f8796160a11164bb560",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456952152237-image-38925334249645",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shirts-black-essential-drop-shoulder-tee-33282435317933.png?v=1767853616",
+          "sourceUrl": "https://www.dapperboi.com/products/db-essential-drop-shoulder-tee",
+          "sha256": "47f5b5cd5efa2732f368ee9022cd57bb948aa49df638906af040a96d24ceab78",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456952348845-image-38925344669869",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shirts-essential-drop-cut-crew-neck-4-pack-33205516271789_3ee8e9de-5e63-4d69-8c1b-33a3c4ce2f66.png?v=1772053590",
+          "sourceUrl": "https://www.dapperboi.com/products/essential-t-shirt-4-pack",
+          "sha256": "635dc6bca36d62ddb16dc9fa0ea73295705f172390197b483b8364f0c2ad958b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456952348845-image-38925314228397",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shirts-pre-order-essential-premium-v-neck-4-pack-29716007583917_3da68b19-070d-4997-a548-7f7ab8c85907.png?v=1767098425",
+          "sourceUrl": "https://www.dapperboi.com/products/essential-t-shirt-4-pack",
+          "sha256": "e4f2a06ba12c91e141d7c1ab9efe347c540c197c5995b477faafae978e2eff16",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456951955629-image-38946194882733",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shirts-black-db-drop-shoulder-tee-33282423816365.png?v=1767853723",
+          "sourceUrl": "https://www.dapperboi.com/products/db-drop-shoulder-tee",
+          "sha256": "d3e3a2c0e512c50447d25a07f176acfb84f154e1b2bf9f2b97c98a61ea4bb663",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456951955629-image-38946194948269",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shirts-black-db-drop-shoulder-tee-33282423718061.png?v=1767853723",
+          "sourceUrl": "https://www.dapperboi.com/products/db-drop-shoulder-tee",
+          "sha256": "3c7314e8b5b49ac5dfa0529a6184069b52e6d0482d76c72b8cddfb95145292a9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456954314925-image-38925318095021",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/18_6799e431-0aee-48c4-a3f1-4e81c756953e.png?v=1783429731",
+          "sourceUrl": "https://www.dapperboi.com/products/jean-shorts",
+          "sha256": "6dd75fefd16ff96df31217a60de8395ec163bd4162e7f17194e4393c9243618d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456954314925-image-38925318160557",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/20_e4840343-9a33-4a81-920f-d930f4f06d64.png?v=1783429768",
+          "sourceUrl": "https://www.dapperboi.com/products/jean-shorts",
+          "sha256": "5d08888227b6545ffc4d758379a12b8b34402924523cac5f6944e7812e14fde5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456954511533-image-38925319897261",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shorts-black-sweatshorts-30064068493485_11e7dc0e-fe55-4a4f-b353-1a446b56ebf9.png?v=1783493008",
+          "sourceUrl": "https://www.dapperboi.com/products/db-sweat-shorts",
+          "sha256": "72256c3802ef5f538d0347523ef65128522e06a4f4d649f1ac1024c8ea8f2d60",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456954511533-image-38925320093869",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-shorts-black-sweatshorts-30064068526253.png?v=1783493051",
+          "sourceUrl": "https://www.dapperboi.com/products/db-sweat-shorts",
+          "sha256": "7a956b830e2d88d48a28e735e18b841db75a92eb1c636b737f42ad88420e2898",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456953823405-image-38946201796781",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/46_f3ac2610-cd38-4969-bd16-33df179e7f70.png?v=1783430311",
+          "sourceUrl": "https://www.dapperboi.com/products/casual-knit-shorts",
+          "sha256": "a93af42cb9abc434a92c53fede256ebafea4ba3a40c5c79ca45c88cbb65ca012",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456953823405-image-38946201829549",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/72_1a608d14-188a-4611-b9d6-f2cf062536c9.png?v=1783430333",
+          "sourceUrl": "https://www.dapperboi.com/products/casual-knit-shorts",
+          "sha256": "add0e0b355d19292393dd7995667bd4d26fad5fdd44cd99fafc37696bd9100fe",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456953528493-image-38925308199085",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-bottoms-camel-db-joggers-29753921831085_a8be6b53-dbaf-4c0d-a0b9-6d4a295ad0f3.png?v=1767098379",
+          "sourceUrl": "https://www.dapperboi.com/products/db-joggers",
+          "sha256": "74355093ed9be231bd9be62393b0bb256682029cfeb48dc4be019d46dd0a418d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456953528493-image-38925308264621",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-bottoms-camel-db-joggers-29777561223341_af9287b8-a0c6-4fe6-88d8-1741e6dc936e.png?v=1767098379",
+          "sourceUrl": "https://www.dapperboi.com/products/db-joggers",
+          "sha256": "4334f5c165f67a83cb250c764281277108aac9a08ceef43a73fdade3ff021895",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456954740909-image-38925348667565",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/2_f5d75fa3-517d-4516-b55d-4a3ac7212807.png?v=1767098763",
+          "sourceUrl": "https://www.dapperboi.com/products/chino-shorts",
+          "sha256": "357ef9a6a298bb6796ccf54b19cfa0ae29c3414db50f3ad31c7f7eb96be2491e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456954740909-image-38925348700333",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/17_2ab9ddf6-6f8a-43a9-9fd7-cd6ae5d45393.png?v=1767098763",
+          "sourceUrl": "https://www.dapperboi.com/products/chino-shorts",
+          "sha256": "3051d5db57772518c0b3fdc620ae68841b28d12151714a20a701558be4f022b7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456953299117-image-38925335789741",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/Capture_One_Catalog8597.jpg?v=1767098658",
+          "sourceUrl": "https://www.dapperboi.com/products/casual-knit-blazer",
+          "sha256": "4543501b3e3aa917bafbe3672e6d8e63618e122294b658b4d1febf4e1d4683af",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456953299117-image-38925335855277",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/Capture_One_Catalog8600.jpg?v=1767098659",
+          "sourceUrl": "https://www.dapperboi.com/products/casual-knit-blazer",
+          "sha256": "ad9daaf60fdb49083bed4a47319aa813df302e251c5358ade4cd6285fb5399ff",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456954937517-image-38925340803245",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/Untitleddesign_25_97bac08f-05ea-4830-b959-79e6817fbc09.png?v=1767098695",
+          "sourceUrl": "https://www.dapperboi.com/products/skinny-jeans",
+          "sha256": "adbf3071f7945c244949730b5960f95b5c26422ce71b776e78c2cfa864edddbc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456954937517-image-38925340868781",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/19_34e6ea7a-dc08-433e-bc05-674517bb0fe2.png?v=1767098695",
+          "sourceUrl": "https://www.dapperboi.com/products/skinny-jeans",
+          "sha256": "646fc694f990f5818cd935b49596b0ad799d32ee17af1f5cff5dbf672b1b5bcc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456953069741-image-38925337755821",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/Capture_One_Catalog8577.jpg?v=1767098670",
+          "sourceUrl": "https://www.dapperboi.com/products/casual-knit-pants",
+          "sha256": "9787bbbf6c28c1f476fb4b639ac0db87b3511ab040ea27c478fee6dc1aad9f42",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456953069741-image-38925337821357",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/Capture_One_Catalog8582.jpg?v=1767098670",
+          "sourceUrl": "https://www.dapperboi.com/products/casual-knit-pants",
+          "sha256": "daaae79f681a026c1b82a7cfe91ed95da131b94532d5aee5f2de06302b7fded0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456955134125-image-38925299187885",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/5_296887bf-34fa-421a-92d3-f352294e6518.png?v=1767912472",
+          "sourceUrl": "https://www.dapperboi.com/products/slim-straight-jeans",
+          "sha256": "b0d71d9f743c54bf69ed7f451a4b81aff36066f279e21c8d40d7e96e7415655f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456955134125-image-38925299253421",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/Capture_One_Catalog8516_7e197d09-0cb2-4854-9219-e5d9ba091614.jpg?v=1767912472",
+          "sourceUrl": "https://www.dapperboi.com/products/slim-straight-jeans",
+          "sha256": "4c2110824b6e502761865c3ea4ebe8592b850c7f79e577ee062be9182a47cd11",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456955363501-image-38925342998701",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/3_f4878594-9d9f-4bbb-afae-97d1a71e992f.png?v=1767790400",
+          "sourceUrl": "https://www.dapperboi.com/products/slim-jeans",
+          "sha256": "4bee0b4913f26064c7f9775ee75f84e4cf7fa64661a39b451e21f650e560d115",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456955363501-image-38925343064237",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/Capture_One_Catalog8453_52d13679-4d6d-4c21-9cf9-453aaa4a395d.jpg?v=1767790400",
+          "sourceUrl": "https://www.dapperboi.com/products/slim-jeans",
+          "sha256": "d30a3e641a7a1b96647da1ab4aee5b86dc09758c5a9387319edd3a887d91be5a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456952545453-image-38925328253101",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-bottoms-slim-olive-chino-pants-31336383938733_d2044bbf-9d47-411d-81ee-6558d2575bd4.png?v=1767914144",
+          "sourceUrl": "https://www.dapperboi.com/products/slim-chino-pants",
+          "sha256": "63b5f2f71f6a267c55a1ee3e7e686690b8f4db410c46563105edb41b49493ee7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8456952545453-image-38925328318637",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-bottoms-slim-olive-chino-pants-31336398880941_bfe7b698-0cc6-480e-80c5-c7b1c05c67f7.png?v=1767914144",
+          "sourceUrl": "https://www.dapperboi.com/products/slim-chino-pants",
+          "sha256": "65f8d26eab438544f03bafb12e81c2ef5786372caffe0e58865371eb71e500bd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222245519533-image-38925350797485",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/34_f00499ec-4107-4c08-82e1-8d0473d1896e.png?v=1767098779",
+          "sourceUrl": "https://www.dapperboi.com/products/light-grey-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "cf520464662996fe5d3a46dbeeb249c3de7b76a9e1737dbc6ce4a238f0ef3c10",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222245519533-image-38925350863021",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/36_c1d315f2-9ef8-4464-b8b6-ccdd8564b6af.png?v=1767098779",
+          "sourceUrl": "https://www.dapperboi.com/products/light-grey-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "3d007f498aa554e7264c99571bcf0988ac553c8b6acb37a318219f99c2345ca7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222245060781-image-38925350568109",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/5_4992da05-879f-49ab-a86f-046f14f4440d.png?v=1767098778",
+          "sourceUrl": "https://www.dapperboi.com/products/olive-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "2a0915c8e75a8f2b20a97d1082385f75a7452280ad11040daa04b5010e3dbb14",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222245060781-image-38925350633645",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/1_8f68c672-11aa-4aaa-91ea-d09a6561a0fc.png?v=1767098778",
+          "sourceUrl": "https://www.dapperboi.com/products/olive-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "fd00081431b8c520ccda72bee00949fd5efd59c20d0a47161c4507880f175b13",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222244602029-image-38925350371501",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/41.png?v=1767098776",
+          "sourceUrl": "https://www.dapperboi.com/products/navy-geo-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "037c3b17bc96af34d4a359c8d4e7b27bdfd9244c69a939fea7224b8982c5a208",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222244602029-image-38925350437037",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/43_528f2753-3ada-48c0-9b1c-3370a5e1e871.png?v=1767098776",
+          "sourceUrl": "https://www.dapperboi.com/products/navy-geo-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "b8a640c5584ca2bf8038eecff60105cd925ac51a797335c5d72e4d3a06965275",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222244208813-image-38925350109357",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/14_f587523c-ec12-40bd-bdb2-12f962b476b4.png?v=1767098774",
+          "sourceUrl": "https://www.dapperboi.com/products/black-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "69b6bbec62b28bb6fc5cd3f5ae1196892d82586316772f6053fe79817bb411ee",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222244208813-image-38925350174893",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/2_92235e3f-81a2-4904-af98-e88f0d4f5b38.png?v=1767098775",
+          "sourceUrl": "https://www.dapperboi.com/products/black-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "2bb4bde03b2057a2b3b4fcd6dcbacf62c96f27312fb837ae6714cb305438efe5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222243881133-image-38925349945517",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/47_22cbbc79-5341-4b5b-a8ac-17e5f23e3f58.png?v=1767098773",
+          "sourceUrl": "https://www.dapperboi.com/products/white-floral-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "bf3fa5402d305f8a9d5d097c8598433dfc6e9c3b60393eff662ffd5aa8c0c5af",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222243881133-image-38925350011053",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/49_c1cc6b7c-ca36-4f67-af2a-23fa65e747bc.png?v=1767098773",
+          "sourceUrl": "https://www.dapperboi.com/products/white-floral-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "5f84721199df29a765a06b0f5e396a6a86f50e67b3e07b30ecac1c5383558f4d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222241783981-image-38925349388461",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/24_f437799d-4ca2-4d21-8bd9-0d8ad139f485.png?v=1767098770",
+          "sourceUrl": "https://www.dapperboi.com/products/blue-floral-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "9a34f7bebfdcdc4cc63ddad76cf8d301b073feda69bcd757e43cb29c34a58985",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-8222241783981-image-38925349453997",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/3_0fd1e729-7166-4d8d-b662-ce09fc6dfe89.png?v=1767098771",
+          "sourceUrl": "https://www.dapperboi.com/products/blue-floral-short-sleeve-button-up-with-ribbed-cuff",
+          "sha256": "343d27cbfbbd40758f67a456009462e0d919d2d4d1475287f74a7fb451147c9a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7983224848557-image-38925347061933",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/Capture_One_Catalog8631_1db26061-a5fc-446e-890a-5b84e1d29d8e.jpg?v=1767098746",
+          "sourceUrl": "https://www.dapperboi.com/products/chocolate-brown-corduroy-shacket",
+          "sha256": "9050869917c4cb83438d5a4bd7e9fcddf53248d4aab6f889c8efa4f91351a155",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7983224848557-image-38925347127469",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/2_a55b3c36-7841-44b8-bfa7-2f123509ff60.png?v=1767098747",
+          "sourceUrl": "https://www.dapperboi.com/products/chocolate-brown-corduroy-shacket",
+          "sha256": "21d73b78ea68e8559bd37f4195c201e4a509a925d6301dd81fba705ad17a43ff",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7112858730669-image-38925328941229",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-corduroy-shacket-black-front_2648bbbb-dd6e-4db9-9924-0a231dbbf2f5.jpg?v=1767098580",
+          "sourceUrl": "https://www.dapperboi.com/products/black-corduroy-shacket",
+          "sha256": "f5bbb3d039c1820d3a6a26bb82b3c05c188b4189f09ca593e482c79d4b51011b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-7112858730669-image-38925329006765",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/Capture_One_Catalog8641.jpg?v=1767098580",
+          "sourceUrl": "https://www.dapperboi.com/products/black-corduroy-shacket",
+          "sha256": "4335c97d5e03a19e2f34d278b831670f0b0fd1105f99b14b3e551e2c062f1e9f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-6076004860077-image-38925310230701",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-robes-black-db-hoodie-robe-29762589098157.png?v=1767098397",
+          "sourceUrl": "https://www.dapperboi.com/products/black-db-hoodie-robe",
+          "sha256": "4d2383d9af8518729324ec44ad444a56c5ee94c030011996fa43e879b49d8a4a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dapperboi-6076004860077-image-38925310296237",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0876/1046/files/dapper-boi-robes-black-db-hoodie-robe-23082967826605.png?v=1767098397",
+          "sourceUrl": "https://www.dapperboi.com/products/black-db-hoodie-robe",
+          "sha256": "054af57041290d9f5dcee5c2de527626be718c320a3c1705046ee9e87724b494",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 60
+    },
+    {
+      "source": "bothand",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://www.bothandapparel.com/products.json?limit=250&page=1",
+          "error": "404 Client Error: Not Found for url: https://www.bothandapparel.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "chubbies",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://www.chubbiesshorts.com/products.json?limit=250&page=1",
+          "error": "404 Client Error: Not Found for url: https://www.chubbiesshorts.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "trueclassic",
+      "pages": [
+        {
+          "url": "https://www.trueclassictees.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-17T03:41:07.814863+00:00",
+          "snapshotSha256": "220bca62c31443720c352b67cd14beb3c5286d3db3fdc1f79591203bb8ed8ca8"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "trueclassic-7133948805192-image-32748377669704",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/40396packblackwhitenavy_c3120144-fc85-4583-85d4-a9928ba465d9.jpg?v=1781177416",
+          "sourceUrl": "https://www.trueclassictees.com/products/heavyweight-curved-hem-crew-6-pack",
+          "sha256": "7889c8d43a9f4bdfe9c0d4f4a9731f9022612acdf207114cff52bab7942a8cd2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133948805192-image-32745206284360",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/True_Classic_x_ECOM1418_udgwfc_c017gz.jpg?v=1781040901",
+          "sourceUrl": "https://www.trueclassictees.com/products/heavyweight-curved-hem-crew-6-pack",
+          "sha256": "2e1a7983d02617171f16641021fd81e58b456c19908a54c7f442e4621a8fa67d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133948444744-image-32748359024712",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/40396packwhite_6f705633-578e-4ab8-ad48-1b7355e6912e.jpg?v=1781176917",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-white-heavyweight-curved-hem-crew-6-pack",
+          "sha256": "2e6fd9b0734fdbbdd4532b42bfaae5b2bb5fbe62f9333a7232c996be20977cb4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133948444744-image-32745915318344",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/HeavyweightCurvedHem-White-1.jpg?v=1781119536",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-white-heavyweight-curved-hem-crew-6-pack",
+          "sha256": "36aea3afa95de59a7747d2b5edb47f2885ff18936d3b7d75cc412533fd875369",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133939662920-image-32748351750216",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/40396packblack_d5daab1e-af21-4ded-b28a-bb8bd1249829.jpg?v=1781176720",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-black-heavyweight-curved-hem-crew-6-pack",
+          "sha256": "1e721b81af528ca7840352f568cca8feb470bc8d5cba929820c288491c80fec8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133939662920-image-32745915252808",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/HeavyweightCurvedHem-Black-1.jpg?v=1781119536",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-black-heavyweight-curved-hem-crew-6-pack",
+          "sha256": "e505e64c92d7ad273bf43ef3d54063fbefcb12d6870f6ef08fb261a09ec22b21",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133932027976-image-32748356796488",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT40393packwhite_30e42c8e-60ff-4ceb-ba77-936148ce8e37.jpg?v=1781176861",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-white-heavyweight-curved-hem-crew-3-pack",
+          "sha256": "a19d90102ca23c3787edafb4c3282008c5f863769ac0696c8de1708ab873397e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133932027976-image-32745915318344",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/HeavyweightCurvedHem-White-1.jpg?v=1781119536",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-white-heavyweight-curved-hem-crew-3-pack",
+          "sha256": "36aea3afa95de59a7747d2b5edb47f2885ff18936d3b7d75cc412533fd875369",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "trueclassic-7133931077704-image-32748345065544",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT40393packblack_83a2e08b-b6bc-4383-b498-9965186d8e09.jpg?v=1781176549",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-black-heavyweight-curved-hem-crew-3-pack",
+          "sha256": "b633b20dfac7e1e48e48ef2777843256daadfcddd0db63610d2a21a4faa502c5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133931077704-image-32745915252808",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/HeavyweightCurvedHem-Black-1.jpg?v=1781119536",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-black-heavyweight-curved-hem-crew-3-pack",
+          "sha256": "e505e64c92d7ad273bf43ef3d54063fbefcb12d6870f6ef08fb261a09ec22b21",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "trueclassic-7133930651720-image-32745908764744",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT40393pack.jpg?v=1781117145",
+          "sourceUrl": "https://www.trueclassictees.com/products/heavyweight-curved-hem-crew-3-pack",
+          "sha256": "2b94bb7dac4469e026b6273cd8fcdbdcb29140d07fb3b44cd5a10f60ff7cd0ea",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133930651720-image-32745915252808",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/HeavyweightCurvedHem-Black-1.jpg?v=1781119536",
+          "sourceUrl": "https://www.trueclassictees.com/products/heavyweight-curved-hem-crew-3-pack",
+          "sha256": "e505e64c92d7ad273bf43ef3d54063fbefcb12d6870f6ef08fb261a09ec22b21",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "trueclassic-7133054959688-image-31989186232392",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Navy-Tall-Straight-Hem-Crew-Neck-T-Shirt.jpg?v=1758951417",
+          "sourceUrl": "https://www.trueclassictees.com/products/classic-tall-straight-hem-crew-neck-t-shirt-pack",
+          "sha256": "a6c86676440cfa896466b181e79c229b7dbfd005f5c75cea5d1b8101ab879ab1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133054959688-image-31989192261704",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4501_NAVY_6_882e475c-63c4-46f0-a49d-ca73d9e82cf0.jpg?v=1766478063",
+          "sourceUrl": "https://www.trueclassictees.com/products/classic-tall-straight-hem-crew-neck-t-shirt-pack",
+          "sha256": "f41102b98d5f3fe3bb920345ce650602f026a951a26c164230d8c2095e20d8c9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133054926920-image-31198250565704",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Classic-Tall-Straight-Hem-Crew-Neck-T-Shirt-3-Pack2.jpg?v=1762286325",
+          "sourceUrl": "https://www.trueclassictees.com/products/classic-tall-straight-hem-crew-neck-t-shirt-3-pack",
+          "sha256": "830baa40072c23c290408958cff66ba61a16559deaf5af74244d06056b606bef",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133054926920-image-31763882147912",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4501_Short-Sleeve-Classic-Crew-Tall_BLACK_Large_Ecomm_2025_MAR_1_75529cfe-0646-43f9-ab29-6ad4d64183ae.jpg?v=1765342115",
+          "sourceUrl": "https://www.trueclassictees.com/products/classic-tall-straight-hem-crew-neck-t-shirt-3-pack",
+          "sha256": "98c5f22a00ddcefe0196a11e4d2d0bcab14d72f77fd8b4fd6b25631bef41c5a1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133054599240-image-32467487752264",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/StapleTallStraightHemTshirt3pack_3134efb2-dd0f-4300-a67f-18e7a6be23d7.jpg?v=1771986535",
+          "sourceUrl": "https://www.trueclassictees.com/products/color-tall-straight-hem-crew-neck-t-shirt-3-pack",
+          "sha256": "4610ffda854e0c9e866d48ee16e1046df455d813202915386315b4eef478d97b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133054599240-image-31763882147912",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4501_Short-Sleeve-Classic-Crew-Tall_BLACK_Large_Ecomm_2025_MAR_1_75529cfe-0646-43f9-ab29-6ad4d64183ae.jpg?v=1765342115",
+          "sourceUrl": "https://www.trueclassictees.com/products/color-tall-straight-hem-crew-neck-t-shirt-3-pack",
+          "sha256": "98c5f22a00ddcefe0196a11e4d2d0bcab14d72f77fd8b4fd6b25631bef41c5a1",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "trueclassic-7133053976648-image-30757220778056",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/MilitaryGreenTallStraightHemCrewNecktshirt.jpg?v=1762283987",
+          "sourceUrl": "https://www.trueclassictees.com/products/staple-tall-straight-hem-crew-neck-t-shirt-3-pack",
+          "sha256": "7c543f6be35888615db60c14a73efdc534d611f129f72974aa55ebfb1ad09b35",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133053976648-image-31259787657288",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4501_Short-Sleeve-Classic-Crew-Tall_BLACK_Large_Ecomm_2025_MAR_1.jpg?v=1744067222",
+          "sourceUrl": "https://www.trueclassictees.com/products/staple-tall-straight-hem-crew-neck-t-shirt-3-pack",
+          "sha256": "98c5f22a00ddcefe0196a11e4d2d0bcab14d72f77fd8b4fd6b25631bef41c5a1",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "trueclassic-7133046571080-image-30085234360392",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/AllWhiteTallStraightHemTshirt3pack.jpg?v=1762281262",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-white-tall-straight-hem-t-shirt-3-pack",
+          "sha256": "c36dff0ac51c38b900a8b838750fe7bff98df09953ab6e92202fa8d1418af53d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133046571080-image-31763984121928",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4501_Short-Sleeve-Classic-Crew-Tall_WHITE_Large_Ecomm_2025_MAR_1_b11f44ce-ce5d-4072-ad4b-4cc6c42519cd.jpg?v=1753065013",
+          "sourceUrl": "https://www.trueclassictees.com/products/all-white-tall-straight-hem-t-shirt-3-pack",
+          "sha256": "cba01faacd205b821eb3869fa5343ff9498d4a0d49c711bd3a09e04435e8cb1c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133044310088-image-29635613524040",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/products/TallStraightHemCrew.jpg?v=1762279007",
+          "sourceUrl": "https://www.trueclassictees.com/products/tall-straight-hem-crew-pack-all-black",
+          "sha256": "90ef6c4af4faca0aaee2cd9ecd008feff0fe431918e0adc828d4f730f4c59230",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133044310088-image-31763882147912",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4501_Short-Sleeve-Classic-Crew-Tall_BLACK_Large_Ecomm_2025_MAR_1_75529cfe-0646-43f9-ab29-6ad4d64183ae.jpg?v=1765342115",
+          "sourceUrl": "https://www.trueclassictees.com/products/tall-straight-hem-crew-pack-all-black",
+          "sha256": "98c5f22a00ddcefe0196a11e4d2d0bcab14d72f77fd8b4fd6b25631bef41c5a1",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "trueclassic-7133003546696-image-32112658251848",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/DressyCrewNeckSweater3-Pack_64fe86c4-1690-4870-ab88-01343553d8b7.jpg?v=1761857664",
+          "sourceUrl": "https://www.trueclassictees.com/products/dressy-crew-neck-sweater-3-pack",
+          "sha256": "f8a2b4f1a462e2b15842004c2154a5f4b57b03a9509549cdf9167ef94008e02c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133003546696-image-31183339782216",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4202_NAVY_4_21d815c7-3ea5-49dd-ada0-26927b34a2c9.jpg?v=1742008355",
+          "sourceUrl": "https://www.trueclassictees.com/products/dressy-crew-neck-sweater-3-pack",
+          "sha256": "e4afdd4f9a44f6db8535c37757a8aaa85c4e4a809b333970d82806f8771d3e9f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133002793032-image-31864855232584",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Black-Crew-Neck-Sweater-3-Pack.jpg?v=1755214465",
+          "sourceUrl": "https://www.trueclassictees.com/products/black-crew-neck-sweater-3-pack",
+          "sha256": "1a261ed3793b775152a1b958d8df8d33a111c27608bb383b37ca4af4b2ee8b19",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133002793032-image-31183331328072",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4202_BLACK_4_a9d203f3-5bd3-4c91-9d03-48906c0d3c30.jpg?v=1742008266",
+          "sourceUrl": "https://www.trueclassictees.com/products/black-crew-neck-sweater-3-pack",
+          "sha256": "5739fb52b299e349b3f39c50c279db01f5c6f7d42064af81ebd21a593023bb90",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133002137672-image-30908718645320",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/3pack.jpg?v=1762284905",
+          "sourceUrl": "https://www.trueclassictees.com/products/crew-neck-sweater-3-pack",
+          "sha256": "029ac4ba780de69b7f7729e3e7150a299a175e99bb1f0c08c70d0026716214ce",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133002137672-image-31183340798024",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4202_MOSS_4_b2051dfd-4f86-40c0-90bc-59ba558ab0cf.jpg?v=1742008402",
+          "sourceUrl": "https://www.trueclassictees.com/products/crew-neck-sweater-3-pack",
+          "sha256": "61b5d867c7cf2231513a5b6b3076e3ba03028677a96ed4d06f2f30476e272f00",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133001285704-image-30878012342344",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/NavyMossCrewNeckSweater3pack.jpg?v=1762284651",
+          "sourceUrl": "https://www.trueclassictees.com/products/navy-moss-crew-neck-sweater-3-pack",
+          "sha256": "0ee3873ead23730c2ba918e415119211d2415b62e2e2748c5a0fc87205a0e8da",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7133001285704-image-31183331328072",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4202_BLACK_4_a9d203f3-5bd3-4c91-9d03-48906c0d3c30.jpg?v=1742008266",
+          "sourceUrl": "https://www.trueclassictees.com/products/navy-moss-crew-neck-sweater-3-pack",
+          "sha256": "5739fb52b299e349b3f39c50c279db01f5c6f7d42064af81ebd21a593023bb90",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "trueclassic-7132970352712-image-32112657399880",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/DressyCrewNeckSweater2-Pack_1.jpg?v=1761857633",
+          "sourceUrl": "https://www.trueclassictees.com/products/heather-gray-fiord-crew-neck-sweater-2-pack",
+          "sha256": "644e66db70a310dfd7053f9cfef1e13d589a4c977b9bc2dff7dcebebf0a722dd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132970352712-image-32018061066312",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4202_FIORD_4_lofmie.jpg?v=1759769627",
+          "sourceUrl": "https://www.trueclassictees.com/products/heather-gray-fiord-crew-neck-sweater-2-pack",
+          "sha256": "f0a2906b6e5890c5f82538a80220d30f7ddd1e12b26e45482634c064e852bfad",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132969664584-image-31864855134280",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Black-_-Navy-Crew-Neck-Sweater-2-Pack.jpg?v=1755214447",
+          "sourceUrl": "https://www.trueclassictees.com/products/black-navy-crew-neck-sweater-2-pack",
+          "sha256": "4143ee16ddc5b32fd4e5acdc325c55164b465be1c9aaed4918804eb28c124dba",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132969664584-image-31183331328072",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4202_BLACK_4_a9d203f3-5bd3-4c91-9d03-48906c0d3c30.jpg?v=1742008266",
+          "sourceUrl": "https://www.trueclassictees.com/products/black-navy-crew-neck-sweater-2-pack",
+          "sha256": "5739fb52b299e349b3f39c50c279db01f5c6f7d42064af81ebd21a593023bb90",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "trueclassic-7132969041992-image-31864855068744",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Black-_-Moss-Crew-Neck-Sweater-2-Pack.jpg?v=1755214440",
+          "sourceUrl": "https://www.trueclassictees.com/products/black-moss-crew-neck-sweater-2-pack",
+          "sha256": "90ab697bdfd3f0dbb4c320f57226481b04a0850c82e776ae4328f5ee3bf84726",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132969041992-image-31183331328072",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4202_BLACK_4_a9d203f3-5bd3-4c91-9d03-48906c0d3c30.jpg?v=1742008266",
+          "sourceUrl": "https://www.trueclassictees.com/products/black-moss-crew-neck-sweater-2-pack",
+          "sha256": "5739fb52b299e349b3f39c50c279db01f5c6f7d42064af81ebd21a593023bb90",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "trueclassic-7132968255560-image-30878014046280",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TruffleHeatherGrayCrewNeckSweater2pack.jpg?v=1759448804",
+          "sourceUrl": "https://www.trueclassictees.com/products/truffle-heather-gray-crew-neck-sweater-2-pack",
+          "sha256": "08dbddfd49ce7628113574ce18d9f1affc3f5fabc1c3f89ef845d5de600f98fe",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132968255560-image-31183330672712",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4202_TRUFFLE_4_daf8af8d-5091-477c-a672-1e2c1c5b3677.jpg?v=1742008226",
+          "sourceUrl": "https://www.trueclassictees.com/products/truffle-heather-gray-crew-neck-sweater-2-pack",
+          "sha256": "e343d3cc3a8b1781cf368a39a81a2eb365a051e7acc972bac299b71c29c37a3d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-6953110044744-image-31239123140680",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4241_Stretch-Oxford-Long-Sleeve-Shirt_NAVY_Large_Ecomm_2025_MAR_2_455d6fcb-6a78-41ae-9e08-f9d54630495b.jpg?v=1759467120",
+          "sourceUrl": "https://www.trueclassictees.com/products/blue-classic-stretch-oxford-2-0",
+          "sha256": "9ceaa31ad6960f4d554ee25d00736426585edd7823c353940ceec5217cf74f87",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-6953110044744-image-31239123271752",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4241_Stretch-Oxford-Long-Sleeve-Shirt_NAVY_Large_Ecomm_2025_MAR_8_d7aedac9-de97-49b7-afac-2c59bee607b0.jpg?v=1743648612",
+          "sourceUrl": "https://www.trueclassictees.com/products/blue-classic-stretch-oxford-2-0",
+          "sha256": "24b46d5c5b8d58e2b80aca75900bc64e9f41f464fee4c1de63b04c6105caff54",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-6975804080200-image-31530774986824",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4400_Pocket-Crew_BALSAM_Large_Ecomm_2025_May_7.jpg?v=1762287696",
+          "sourceUrl": "https://www.trueclassictees.com/products/balsam-pocket-crew-tee",
+          "sha256": "771b13bf0c9f3ca74a524a807128408a6b3157af15ac505591de8ae39522e365",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-6975804080200-image-31530774855752",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4400_Pocket-Crew_BALSAM_Large_Ecomm_2025_May_5.jpg?v=1750794554",
+          "sourceUrl": "https://www.trueclassictees.com/products/balsam-pocket-crew-tee",
+          "sha256": "0ccc651f3af2bed7750a3249095422439b0f6c6ba4d16e73b083003322deaa98",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7047823917128-image-32590393180232",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4000_Short-Sleeve-Classic-Crew_SHADOW_Medium_Ecomm_2025_MAY_1_2_afzbca.jpg?v=1777654071",
+          "sourceUrl": "https://www.trueclassictees.com/products/shadow-classic-crew-neck",
+          "sha256": "160307ec0c1261d87f40920392dabb4320049a67a8d2b0a8dd6feb4864f11e26",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7047823917128-image-32590393147464",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4000_Short-Sleeve-Classic-Crew_SHADOW_Medium_Ecomm_2025_MAY_1_1_amtxi6.jpg?v=1777654071",
+          "sourceUrl": "https://www.trueclassictees.com/products/shadow-classic-crew-neck",
+          "sha256": "feee6301f41793b6dea36d4ea2ae4b381ca887e5f990a71d0d2557d7efed2003",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-6913257537608-image-31306535141448",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Short_Sleeve_Crew_Neck_Fiord_2_1.jpg?v=1762284000",
+          "sourceUrl": "https://www.trueclassictees.com/products/fiord-short-sleeve-crew-neck-tee",
+          "sha256": "8cd6971541245311b22c9fcf3a674c6136d26e002ebc971353fe6427e7486f80",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-6913257537608-image-31306535206984",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Short_Sleeve_Crew_Neck_Fiord_5_53d82666-77d5-4d9c-bff1-4e21c556798a.jpg?v=1745364713",
+          "sourceUrl": "https://www.trueclassictees.com/products/fiord-short-sleeve-crew-neck-tee",
+          "sha256": "fa2b42223df45ada0d9d05e46807b545649b86cfd9c46279b8d15e95ca82dc31",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7004758704200-image-32018068176968",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4608_Fleece-Pullover-Hoodie_Medium_Neptune_2025_AUG_JJ_10_ez4fms_1_ciixbd.jpg?v=1759770286",
+          "sourceUrl": "https://www.trueclassictees.com/products/neptune-fleece-french-terry-pullover-hoodie",
+          "sha256": "bbd3b60fe6946b2def75c5343976161c4efd0ac088ad0aaf30eb4690e7040236",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7004758704200-image-32018068144200",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4608_Fleece-Pullover-Hoodie_Medium_Neptune_2025_AUG_JJ_6_cqwdxw_kmykyg.jpg?v=1759770286",
+          "sourceUrl": "https://www.trueclassictees.com/products/neptune-fleece-french-terry-pullover-hoodie",
+          "sha256": "01f38465699e70c954be8228c7a7ff70cc4f01af4ca00b4e08377605f9d28bb8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7114263887944-image-32979989135432",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4000-Tan499-_-MGRN-pack.jpg?v=1786941163",
+          "sourceUrl": "https://www.trueclassictees.com/products/classic-crews-2-pack",
+          "sha256": "6a856030e4887a7433efc436fd92148e466b85735e8caaea797a2ffd2d7e2d6e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7114263887944-image-31462303989832",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4000_XXL_Tan_01.jpg?v=1750844096",
+          "sourceUrl": "https://www.trueclassictees.com/products/classic-crews-2-pack",
+          "sha256": "ccc9a9b3bd9321e9ad9ea89dd1f8cce403e45233e14be9fb6bd9815878eb037e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7078690816072-image-28888115314760",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/products/COLOR_3PACK_585fb834-1307-47ee-b52a-20dbbbf08955.jpg?v=1771789313",
+          "sourceUrl": "https://www.trueclassictees.com/products/the-crew-color-pack",
+          "sha256": "ad88b355b094d650d48201b64e253c8364ff0ab23470449cd5fb8eca307469c2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7078690816072-image-32464001597512",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Classic_Crew_-_Military_Green--DETAILS_5335b85e-224c-4831-9e6d-ea1bd871c6f3.jpg?v=1774028463",
+          "sourceUrl": "https://www.trueclassictees.com/products/the-crew-color-pack",
+          "sha256": "85f9d1b741e2e1ef21a25e5ee552fca0cae77ac279bed9bcc18f6c3b5803f2f8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132484206664-image-33147165048904",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/tct4511.jpg?v=1789416217",
+          "sourceUrl": "https://www.trueclassictees.com/products/tall-active-polo-3-pack",
+          "sha256": "c66b94f27145a26b062f968f4f99663c8c348063043b71f48b578725362c823d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132484206664-image-31686408110152",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4511_Short-Sleeve-Tall-Active-Polo-HEATHERMILITARYGREEN_Med_Ecomm_2025_APR_1.jpg?v=1752270896",
+          "sourceUrl": "https://www.trueclassictees.com/products/tall-active-polo-3-pack",
+          "sha256": "f51ddb31ca05e4be9b500fefe20c8cc58fed653c342936fcd455dc7e0786ca85",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132483256392-image-33147169734728",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT4002.jpg?v=1789416464",
+          "sourceUrl": "https://www.trueclassictees.com/products/short-sleeve-classic-polos-3-pack",
+          "sha256": "b08b8ff074215b34de46774fa9d9cf55eb6240caf18621e5fb5e6659b5d394a3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132483256392-image-32170839310408",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/cloudinary__trueclassictees__image__upload__TCT_4002_Short-Sleeve-Classic-Polo_Charcoal-Heather-Gray_Medium_Lifestyle_2025_NOV_2_uq4qxf_j4osym__cld.jpg?v=1773281141",
+          "sourceUrl": "https://www.trueclassictees.com/products/short-sleeve-classic-polos-3-pack",
+          "sha256": "cd4bae92a644b66b37baf13ebde94d30222860fd4da8202d7f942b009b7b4ff8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132483125320-image-33147075756104",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT4000-6-Pack1_94a8932a-32c3-4ebf-95d8-368b31721e3e.jpg?v=1789411206",
+          "sourceUrl": "https://www.trueclassictees.com/products/tc-short-sleeve-classic-crew-neck-6-pack",
+          "sha256": "a6bc93f131388020a3d1605f32f8e5cc6128f5a8bad590f28d1a63d2833f7812",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "trueclassic-7132483125320-image-30965614346312",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4000_HNAVY_3_01d77b3b-5eab-48a2-931f-2465002ec0e1.jpg?v=1736294604",
+          "sourceUrl": "https://www.trueclassictees.com/products/tc-short-sleeve-classic-crew-neck-6-pack",
+          "sha256": "6387fe0e003a640773ad30f704ed1cdfaaf43f93f799f1934ef227c422865879",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 51
+    },
+    {
+      "source": "copperunion",
+      "pages": [
+        {
+          "url": "https://copperunionapparel.com/products.json?limit=250&page=1",
+          "products": 190,
+          "retrievedAt": "2026-09-17T03:41:15.157730+00:00",
+          "snapshotSha256": "5dc092c7733e2a3561db9fa2f05b3551870dc88d229c26036fe542199e7607e7"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "copperunion-9334124052702-image-47827850428638",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2445.heic?v=1789075437",
+          "sourceUrl": "https://copperunionapparel.com/products/striped-chambray-elyse-pants",
+          "sha256": "f8652117ef5407903bd5e46e535b4fe21f01750fb5154b2821d447b21afb3399",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9334124052702-image-47827850494174",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2447.heic?v=1789075436",
+          "sourceUrl": "https://copperunionapparel.com/products/striped-chambray-elyse-pants",
+          "sha256": "7bd48d55d6dcdbe48c67d6a6312b7eaa4f8d04095021db8a3dda804b316496c4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9321892839646-image-47724319441118",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2347.heic?v=1787862208",
+          "sourceUrl": "https://copperunionapparel.com/products/mesh-jersey-dress",
+          "sha256": "e7289476eaa29a5a405f7d17b951adb8c92301bbbbf917a8c0081b15b48159f6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9321892839646-image-47724319506654",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2350.heic?v=1787862208",
+          "sourceUrl": "https://copperunionapparel.com/products/mesh-jersey-dress",
+          "sha256": "cd0665096de96f65026360c032b60f714123c98b6a1745a6b1f169851016cee5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8138364682462-image-47299213590750",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2373.heic?v=1784244509",
+          "sourceUrl": "https://copperunionapparel.com/products/knock-out-sara-shrug",
+          "sha256": "b0e9d6a15d5d579055d6bbcc7d4528bf8e1914b84e16b5f253952dcdfbfc496a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8138364682462-image-47299213623518",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2374.heic?v=1784244508",
+          "sourceUrl": "https://copperunionapparel.com/products/knock-out-sara-shrug",
+          "sha256": "652877892d9c23713730af223d465fda97108f4fd5d5189fa05df042eb0498cd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9212917448926-image-47133036839134",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2345.jpg?v=1781816361",
+          "sourceUrl": "https://copperunionapparel.com/products/windowpane-chiffon-shirt-dress",
+          "sha256": "08068235a85cbeabe31c289d5b873007aa1e69235ff48f8456622f26ea398a99",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9212917448926-image-47133036740830",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_23412.jpg?v=1781816361",
+          "sourceUrl": "https://copperunionapparel.com/products/windowpane-chiffon-shirt-dress",
+          "sha256": "3e77d159e73886e6eb469579ea16863466771a98911dbd69f7e1bd845aaf6849",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9270249226462-image-47299205759198",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2364.heic?v=1784244225",
+          "sourceUrl": "https://copperunionapparel.com/products/polka-dot-chiffon-shirt-dress",
+          "sha256": "9041d10ddb69c76a87d768043ad9747805eba0bd11bbf518d3c869f7630a4076",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9270249226462-image-47299205726430",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2363.heic?v=1784244225",
+          "sourceUrl": "https://copperunionapparel.com/products/polka-dot-chiffon-shirt-dress",
+          "sha256": "75ed4c0c7346cd40da7453c28259e1e50ba5e4480c6be7def11e6d480a220aa2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9270252339422-image-47299207889118",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2381.heic?v=1784244277",
+          "sourceUrl": "https://copperunionapparel.com/products/polka-dot-mesh-cardigan",
+          "sha256": "630206ccb3021b65985ac019bca6d94c24be5dc4f14e9da85673a64130137c38",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9270252339422-image-47299207921886",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2382.heic?v=1784244276",
+          "sourceUrl": "https://copperunionapparel.com/products/polka-dot-mesh-cardigan",
+          "sha256": "90eba058ce89142bb2c1dc1bd341c51683e3e93233f457cbbb7b5a5d7db927ff",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9270253912286-image-47299209658590",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2396.heic?v=1784244332",
+          "sourceUrl": "https://copperunionapparel.com/products/shades-of-grey-silk-crop-top",
+          "sha256": "d5cfbbde3eca200be3ccd1e58850ebb36ce6f8463d6cb4bf536f6f8141306659",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9270253912286-image-47299209724126",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2398.heic?v=1784244332",
+          "sourceUrl": "https://copperunionapparel.com/products/shades-of-grey-silk-crop-top",
+          "sha256": "33cb7fc27239ff1183f8706786782d629a162e7432e27c5fe816a165313a54e2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9247265685726-image-47299202875614",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2387.heic?v=1784244130",
+          "sourceUrl": "https://copperunionapparel.com/products/veggies-crop-top",
+          "sha256": "6449652e674674806d0d2f34b05bef83ed57001c6105f5ad47d2d04d516ab334",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9247265685726-image-47299202908382",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2388.heic?v=1784244130",
+          "sourceUrl": "https://copperunionapparel.com/products/veggies-crop-top",
+          "sha256": "2d21a4d0bec63bec1cf217ad5a679195316ea5edff1e16852b94ae536ae2bc69",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9212903260382-image-47133051748574",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_23152.jpg?v=1781816541",
+          "sourceUrl": "https://copperunionapparel.com/products/yellow-floral-crop-top-copy",
+          "sha256": "b331dd6e9bceb2aa59687108882ea5fa8e345c9389890ec9d48129ba99122509",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9212903260382-image-47133051781342",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_23142.jpg?v=1781816542",
+          "sourceUrl": "https://copperunionapparel.com/products/yellow-floral-crop-top-copy",
+          "sha256": "fc74be0ed6fa98e50a1f1120ec71a741ffafba165a63f18b55db4f443d355079",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7931636613342-image-38918457852126",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/CUAnna8x10-32.jpg?v=1675118920",
+          "sourceUrl": "https://copperunionapparel.com/products/custom-crop-top",
+          "sha256": "f64af9e0027b0e5f4dcb4ea35ab9e3cf534f2c3aab3e337a06b2617a7dae404c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7931636613342-image-38918469320926",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/SLG_5094-Edit_web.webp?v=1675118972",
+          "sourceUrl": "https://copperunionapparel.com/products/custom-crop-top",
+          "sha256": "62a2d91a86c7eb732594ec18bcf18ac521abafff08ff2f6db705dde640a9535e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7931624063198-image-38918481182942",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/IMG_4458_1dd9af15-4d29-4d31-b4ef-be706b4e4800.webp?v=1675119379",
+          "sourceUrl": "https://copperunionapparel.com/products/custom-shirt-dress",
+          "sha256": "cd1020f4bccea7758d13fb0a345ae539ab369c32b408746d550c5b343fbe27eb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7931624063198-image-38918482100446",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/IMG_5146.webp?v=1675119202",
+          "sourceUrl": "https://copperunionapparel.com/products/custom-shirt-dress",
+          "sha256": "4419cadecee8d74f126fa9e0958a1be1f9455c2b70998e83f68213f3154b2b85",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7931619049694-image-38918493405406",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/IMG_8245_45239f2d-ee5f-43a6-aaa1-fab3c9c59924.webp?v=1675119371",
+          "sourceUrl": "https://copperunionapparel.com/products/custom-ty-dress",
+          "sha256": "9c732533a6718719d0f83f0d99fe1fb939b04e6ea645d7a845ed1bcbb14c42b3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7931619049694-image-38918493438174",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/IMG-8426_7cdc933e-e7a2-4c74-81af-7dc0f94341e5.webp?v=1675119368",
+          "sourceUrl": "https://copperunionapparel.com/products/custom-ty-dress",
+          "sha256": "ac2090804e6745cbd2b4a981766feae320757fa8ccd0a12bbbcf8637d17649d1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7857333600478-image-38454587916510",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/image_0993dd21-a5a1-4368-8b1e-9d2b13c5bef1.jpg?v=1679680973",
+          "sourceUrl": "https://copperunionapparel.com/products/black-lucy-midi-dress",
+          "sha256": "489e4be24580011edc05c8be17cdfd9b707e5ad403a9dcfee9f4ab98814347f1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7857333600478-image-38454589751518",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/image_0ddd1004-b300-4d65-846d-a50b39357c18.jpg?v=1668026886",
+          "sourceUrl": "https://copperunionapparel.com/products/black-lucy-midi-dress",
+          "sha256": "a841b081fed054acf70f42a06edb84f6924fb7b8dda8da2b5ce3c2fb715f8f6f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9160995242206-image-46492063498462",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2229.heic?v=1774561243",
+          "sourceUrl": "https://copperunionapparel.com/products/waterfall-cloud-pants",
+          "sha256": "145d14ccf13e49334ec07de807f7d206c42a8ac6757cb58a5c1083ca694f622c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9160995242206-image-46492063563998",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2231.heic?v=1774561243",
+          "sourceUrl": "https://copperunionapparel.com/products/waterfall-cloud-pants",
+          "sha256": "600bebebf248a6a62c64ee7d3123174f51b1448941b83d32dea2bec0c2f12de7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9164040536286-image-46517111947486",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2238.heic?v=1774995024",
+          "sourceUrl": "https://copperunionapparel.com/products/blue-tie-dye-katie-dress",
+          "sha256": "ecb9a02070ce150d9de127b78e8b7e78b200544c36d542a5a6f6bce7d9c6a9fa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9164040536286-image-46517112013022",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2240.heic?v=1774995024",
+          "sourceUrl": "https://copperunionapparel.com/products/blue-tie-dye-katie-dress",
+          "sha256": "42e5a2b64c1200b0ebca04572bc48821b7d4df88c4deda2ec8395ee5805274bc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9081244844254-image-46516918321374",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2251.heic?v=1774994518",
+          "sourceUrl": "https://copperunionapparel.com/products/holiday-party-shirt-dress",
+          "sha256": "624f90b6355b0719d953e09abee678f1312ffb21d138eeefe00c310c24cddd9d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9081244844254-image-46516918386910",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2253.heic?v=1774994518",
+          "sourceUrl": "https://copperunionapparel.com/products/holiday-party-shirt-dress",
+          "sha256": "aa7791a84e1c9bcc17f6dce13c85d2924c3e31a5f0361dcbe6a531885b297387",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9164037980382-image-46516909015262",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2244.heic?v=1774994240",
+          "sourceUrl": "https://copperunionapparel.com/products/silver-shimmer-base-dress",
+          "sha256": "fb156f099e3d94bf04da9f76a7437ef32131fc120c96701cd682836e8efb4c03",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9164037980382-image-46516909080798",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2246.heic?v=1774994239",
+          "sourceUrl": "https://copperunionapparel.com/products/silver-shimmer-base-dress",
+          "sha256": "8e593022a14830357a524d946010cf9e53b764a42879d107653d841f42b76c3c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9081248612574-image-46516893352158",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2265.heic?v=1774994002",
+          "sourceUrl": "https://copperunionapparel.com/products/holiday-party-base-dress",
+          "sha256": "9c68c4a532a61956903a8caba08a23ac3f287e59ef1fdaea407a1cf10add8c29",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9081248612574-image-46516893384926",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2266.heic?v=1774993788",
+          "sourceUrl": "https://copperunionapparel.com/products/holiday-party-base-dress",
+          "sha256": "8c1105440eb7346c5ec38b8660518bd2e63b043ed5150ab270a887878624c4a0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7510450372830-image-36485796724958",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/image.png?v=1641499569",
+          "sourceUrl": "https://copperunionapparel.com/products/final-sale-esther-sweatpants-overalls",
+          "sha256": "d448fbe45b42d7cbdcf1a96d3d71ecc32487e8b051910316dd1b137bd09d7045",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7510450372830-image-36485797806302",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/image_5f724efd-9aff-4055-b678-07e36f341022.png?v=1641499612",
+          "sourceUrl": "https://copperunionapparel.com/products/final-sale-esther-sweatpants-overalls",
+          "sha256": "a396c1ddf308800ac58720aee9e16d35ba55b8b1eb2747338bdbd4199daa6112",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7462974161118-image-36197922701534",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/IMG_0682_39876911-7cb4-42b2-ab32-20cf926b9d60.jpg?v=1637820679",
+          "sourceUrl": "https://copperunionapparel.com/products/leopard-print-esther-overalls",
+          "sha256": "b0888527101857de643f2252f4fcb10fb4c820f34e2c1a86e38935fb9e55669d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7462974161118-image-36197922767070",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/IMG_0681_55d50d1b-d567-41d6-a6c0-8e8179e5ed4b.jpg?v=1637820679",
+          "sourceUrl": "https://copperunionapparel.com/products/leopard-print-esther-overalls",
+          "sha256": "55028e19c12ef0e3953bd54d0a2d3cb4c141c95cb1f907d2871e04ac82d531de",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7652208541918-image-37230545666270",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/image_5b197ff4-1fa7-4ba5-92fe-a9a0e338d1c3.heic?v=1652216596",
+          "sourceUrl": "https://copperunionapparel.com/products/half-and-half-overalls",
+          "sha256": "b9bb495497e78f2ce8a1431f8e66f8e58421e1c5bca72c559716fa1e9d597b4b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7652208541918-image-37230546157790",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/image_ad5d0e3a-3e2f-41cc-a862-e25968fc02e2.heic?v=1652216607",
+          "sourceUrl": "https://copperunionapparel.com/products/half-and-half-overalls",
+          "sha256": "44bc3ffaf2f727fc1e9a3c4ca1dfefcca56c73912bb7c128d27fe7d490e2495a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7898907017438-image-38632060027102",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/image_c30a8fdf-1910-4b4f-a59b-6aece0a7fafd.jpg?v=1670614426",
+          "sourceUrl": "https://copperunionapparel.com/products/heather-sweatpants-overalls",
+          "sha256": "66bf4ac880c6a11bfb0505375bee845ed447119828af5132ee2d6bb0bff8e8a5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7898907017438-image-38632058126558",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/image_d0536d1d-13f5-4797-a49f-e5570472e270.jpg?v=1670614426",
+          "sourceUrl": "https://copperunionapparel.com/products/heather-sweatpants-overalls",
+          "sha256": "052f119593744e82b09e3990ed298118d00b9b0ef357b09d891420a17ef90145",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9161006743774-image-46492088205534",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2221.heic?v=1774561930",
+          "sourceUrl": "https://copperunionapparel.com/products/ice-dye-overall-dress",
+          "sha256": "8cbeeca0eb7b2905dd72ed5256bef5a5ba7cb1162c5bf19d5cbf05e20cf90291",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9161006743774-image-46492088271070",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2226.heic?v=1774561930",
+          "sourceUrl": "https://copperunionapparel.com/products/ice-dye-overall-dress",
+          "sha256": "ff0478590060eb12b562ccfe5723a085d62516a33bede19723690bed2344deeb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9161002778846-image-46492077850846",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2208.heic?v=1774561592",
+          "sourceUrl": "https://copperunionapparel.com/products/stars-sweatsuit",
+          "sha256": "89b8a5a9116d5c2400550ff5341b2cf0b63167c5eb0ae621cd49081ae53587c8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9161002778846-image-46492078637278",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2204.heic?v=1774561735",
+          "sourceUrl": "https://copperunionapparel.com/products/stars-sweatsuit",
+          "sha256": "2fee2547a817933a9896ba6ea1650a5cda61496c19e8a0d39e0193d0fa53638a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9147544731870-image-46357184020702",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2186.heic?v=1773255672",
+          "sourceUrl": "https://copperunionapparel.com/products/cloud-pants-copy",
+          "sha256": "122d85f26fbdba50c261b2367988bef1afe95deb6c2fd27d95896386d2879b3b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-9147544731870-image-46357184119006",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2194.heic?v=1773255673",
+          "sourceUrl": "https://copperunionapparel.com/products/cloud-pants-copy",
+          "sha256": "b9cac1745dfa433d503bbfe6f2d8c65742d23b51562916a3a691f26221bd3fd2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8169244459230-image-39957082013918",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/Screenshot2023-10-25at12.33.04PM.png?v=1698262630",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-cage-mini-dress",
+          "sha256": "a2335c11ea1eefbe030148131818515949e26eec99a76470acfcb80350318c02",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8169244459230-image-39957081948382",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/Screenshot2023-10-25at12.34.41PM.png?v=1698262629",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-cage-mini-dress",
+          "sha256": "fa97c53c4fecf84e0df991100070f02ff5505496174329703bcad455118364bc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7944702460126-image-38931088212190",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/FLOWTEE.png?v=1675288604",
+          "sourceUrl": "https://copperunionapparel.com/products/flow-tee",
+          "sha256": "45bd5456a13144cb3884cf4a8af1b2c4b33a43451ce214f42780251f14a45276",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7944702460126-image-38931088244958",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/FLOWTeeShirtArt.jpg?v=1675288605",
+          "sourceUrl": "https://copperunionapparel.com/products/flow-tee",
+          "sha256": "f58f7e8be4bc927af5303bf15b3e61a27d311279e43b7479b77ff98922032c8c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7944702197982-image-38931089490142",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/FattitudeTeeShirt.png?v=1675288629",
+          "sourceUrl": "https://copperunionapparel.com/products/fatitiude-crop-tee",
+          "sha256": "35cd03452830c86b7bedfa78432db52ac0fc7e63dc04a1b700520149b5f22a47",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7944702197982-image-38931089457374",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/FattitudeCrop2.png?v=1675288629",
+          "sourceUrl": "https://copperunionapparel.com/products/fatitiude-crop-tee",
+          "sha256": "33cb55ddab999a981bb8ee3ec607adf24298e16031b2a986a305df79f7c6dc4c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940996235486-image-38908448178398",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_118.jpg?v=1674858118",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-short-sleeve-tee-1",
+          "sha256": "e3d73fe26c3af6cf06c7f6ce8e73590c41f8c1d1a105aa678acfe8e6249e0a61",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940996235486-image-38908447883486",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_119.jpg?v=1674858118",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-short-sleeve-tee-1",
+          "sha256": "5fe9acef4ac6a4148dbd9fcf05ef3f9ed7b01b91efd5a54c94b56954a2f933f3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940423188702-image-38903340564702",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_113.jpg?v=1674771841",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-short-sleeve-tee",
+          "sha256": "bbe78ddb54b0de33e08c52215e4ff586d6667d967d48928c7b028b00820eb90a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940423188702-image-38903340531934",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_079.jpg?v=1674771841",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-short-sleeve-tee",
+          "sha256": "304d79c6140c6321cfd85a47ce7e3c56a0acfd05f2c2491c8e6da105944cab52",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 60
+    }
+  ]
+}

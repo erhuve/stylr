@@ -1,0 +1,832 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	full	1.5	?	?	F	Metallic shorts ensemble; angled pose.
+1	partial	2	?	1	D	Fitted floral dress; upper hips cropped.
+2	full	1.5	?	?	D	Striped knit and dark skirt; skirt obscures hips.
+3	full	1.5	?	?	F	Layered top and geometric leggings; covered waist.
+4	full	1.5	?	?	D	Cardigan and pleated skirt; loose hips.
+5	full	1.5	?	?	F	Black jacket, jeans and platform heels; covered torso.
+6	reject	?	?	?	D	Repeated cardigan/skirt runway outfit from 4.
+7	full	1.5	?	?	F	Diamond vest and dotted trousers with heels; garment-shaped hips.
+8	full	1.5	?	?	D	Pink jacket and printed dress; layered contours.
+9	full	1.5	?	?	D	Ruffled strapless gown; structured bodice and skirt.
+10	partial	2	?	?	U	Grey tee and shorts; loose draped hem.
+11	partial	1.5	?	?	C	Cap, open jacket, shirt and shorts; layered torso.
+12	partial	1.5	?	?	D	White lace and pleated dress; crop and fabric fullness.
+13	full	1.5	?	?	D	Pale draped dress; skirt hides hips.
+14	back	?	?	?	D	Rear green gown.
+15	back	?	?	?	D	Rear black dress.
+16	partial	1.5	?	?	D	Blue flared dress; skirt volume.
+17	partial	1.5	?	?	D	Purple fitted-bodice gown; flared skirt.
+18	back	?	?	?	D	Rear white dress.
+19	full	1.5	?	?	D	Red strapless gown; structured bodice and skirt.
+20	full	1.5	?	?	F	Belted trench and leggings with heels; coat-shaped contour.
+21	full	1.5	?	?	F	Belted coat and coral trousers; coat hides waist.
+22	partial	1.5	?	?	D	Dark coat over mini skirt; layered torso.
+23	full	1.5	?	?	D	Long printed tank mini; loose hem.
+24	full	1.5	?	?	D	Black sheer long dress; dark layered contour.
+25	full	1.5	?	?	D	Metallic long sheer dress; garment drape.
+26	partial	1.5	?	?	D	Floral dress with fuzzy jacket; covered shoulders.
+27	full	2	0	1	D	Fitted red mini dress; front contours; recheck.
+28	full	1.5	?	?	U	Bare torso and black trousers; turned torso, raised arm.
+29	partial	2.5	?	?	C	Red jacket over plaid shirt; cropped torso.
+30	partial	1.5	?	?	C	Collared layer and sweater vest with trousers; hips cropped.
+31	seated	1.5	?	?	C	Plaid shirt and jeans; seated side pose.
+32	full	?	?	?	C	Distant collared shirt and jeans; insufficient contour detail.
+33	partial	1.5	?	?	M	Grey blazer, collared shirt and jeans; layers obscure waist.
+34	full	2	1	1	U	Mustard tank and green fitted trousers; front contours; recheck.
+35	seated	2	?	?	M	Blazer and pale trousers; seated folded posture.
+36	full	1.5	?	?	U	Graphic green tee and tan trousers; loose top.
+37	full	2	0	?	C	Checked tucked shirt and grey trousers; enlarged check shows waist hidden by loose fabric.
+38	partial	2	?	?	U	Floral sports tee and jeans; raised arm and crop.
+39	full	1.5	1	?	C	Checked tucked shirt and jeans; enlarged check shows waist hidden by loose fabric.
+40	full	1.5	?	?	C	Cap, oversized graphic tee and wide trousers; crossed arms.
+41	reject	?	?	?	U	Distant rear figure in landscape.
+42	partial	2	?	?	U	Graphic tank; arm blocks waist and hips cropped.
+43	partial	2	?	?	U	Graphic tee; angled cropped torso.
+44	full	1.5	?	?	C	Printed button shirt and dark trousers; raised arms.
+45	full	1.5	?	?	U	Red graphic tee and white trousers; walking pose and loose top.
+46	full	2	?	?	M	Tan three-piece tailoring; structured layers.
+47	full	1.5	?	?	C	Blue shirt and dark jogger trousers; loose hem.
+48	full	1.5	?	?	C	Brown jacket and white trousers; layered torso.
+49	full	1.5	?	?	F	Hat, layered jacket, mini and platform boots; side pose.
+50	partial	?	?	?	C	Leather jacket and scarf performance crop; raised arm.
+51	partial	1.5	?	?	U	Graphic raglan tee; lower torso cropped.
+52	partial	?	?	?	U	Loose white knit; hidden contours.
+53	partial	?	?	?	F	Tied white top and red skirt; distant torso crop.
+54	back	?	?	?	U	Rear denim jacket.
+55	partial	1.5	?	?	U	Patterned cardigan over white tee; crop hides hips.
+56	partial	?	?	?	C	Striped shirt and vest; cropped lower torso.
+57	full	1.5	?	?	F	Dark jacket, mini and heeled boots; turned stance.
+58	seated	1.5	?	?	F	Coral crop and denim shorts; crouched skating pose.
+59	full	1.5	?	?	U	Pale shirt and shorts; side stance and raised arm.
+60	full	1.5	?	?	D	Graphic short dress; overhead camera and bent posture.
+61	partial	1.5	?	?	D	Dotted dress and cardigan; flared skirt.
+62	partial	1.5	?	1	F	Tied denim crop and white shorts; raised arms prevent width comparison.
+63	seated	1.5	?	?	U	Blue tee and shorts; reclined seated posture.
+64	full	1.5	?	?	F	Jacket and short patterned ensemble; layered torso.
+65	seated	1.5	?	?	F	White off-shoulder crop and jeans with platforms; side seated pose.
+66	full	1.5	?	?	D	Striped fitted skirt ensemble; bent side pose.
+67	partial	1.5	?	?	U	Grey tee and shorts; turned torso.
+68	partial	1.5	?	?	U	White top and denim shorts; side pose with arms raised.
+69	partial	1.5	?	?	D	Dotted dress and hat; side view.
+70	full	1.5	?	?	F	Black crop and plum skirt; side view and raised arm.
+71	seated	1.5	?	?	F	Sleeveless denim layer and shorts; bent seated pose.
+72	partial	1.5	?	?	F	Black top and pale mini skirt; angled torso.
+73	full	1.5	?	?	D	Black slip dress; leaning pose.
+74	partial	1.5	?	?	U	Brown top and denim shorts; side lean, raised arms.
+75	partial	1.5	?	1	U	Fitted black tank and camouflage shorts; turned hips.
+76	partial	1.5	?	?	F	Floral crop and shorts; side leaning pose.
+77	partial	1.5	?	?	D	Leopard flared dress; raised arms and skirt volume.
+78	seated	?	?	?	U	Distant seated grey casual outfit.
+79	back	?	?	?	D	Rear pink dress.
+80	seated	1.5	?	?	U	Tank and shorts; wide seated pose.
+81	full	1.5	?	?	F	Dark blouse and green shorts with heels; raised arms.
+82	seated	1.5	?	?	D	Pale patterned dress; seated diagonal posture.
+83	back	?	?	?	F	Rear black crop/shorts ensemble.
+84	partial	1.5	?	?	D	Long black skirt and sleeveless top; side view.
+85	partial	1.5	?	?	F	Leather jacket and shorts; layered torso.
+86	full	?	?	?	U	Oversized light top and skirt; face and torso obscured.
+87	partial	1.5	?	1	F	Black crop and denim shorts; raised arms.
+88	full	1.5	?	?	D	Light jacket and pink skirt; angled camera.
+89	full	?	?	?	D	Distant white dress with balloons; jumping posture.
+90	seated	1.5	?	?	F	Dark crop and pale skirt with heels; crossed seated legs.
+91	partial	1.5	?	?	F	Black strapless crop and skirt; raised arm, structured bodice.
+92	partial	1.5	?	?	D	Checked dress and hat; raised arms.
+93	full	1.5	?	?	D	Pale dress and pink shoes; side pose.
+94	seated	1.5	?	?	U	Beige shirt and dark shorts; turned seated posture.
+95	full	1.5	?	?	D	Dark asymmetric gown; angled hips and extended train.
+96	full	1.5	?	?	D	Light dress and long cardigan; layered torso.
+97	partial	1.5	?	?	D	White pleated dress; flared skirt.
+98	full	?	?	?	D	Distant forest dress; low light obscures body.
+99	full	2	?	?	D	Black belted top and striped skirt; belt shapes waist.
+100	partial	2	?	?	D	Black off-shoulder top and metallic mini; leaning pose.
+101	seated	1.5	?	?	D	Black mini dress; wide seated posture.
+102	full	1.5	?	?	U	Black tank and loose grey trousers; side stance.
+103	full	2	?	1	D	Olive fitted dress; angled hips prevent balance judgment.
+104	full	1.5	?	?	F	Loose pale blouse and leggings; draped waist.
+105	seated	1.5	?	?	U	Cream tee and shorts; forward seated lean.
+106	partial	1.5	?	?	D	White shirt dress; turned body and loose fabric.
+107	seated	1.5	?	?	F	White blouse and pink shorts; reclined pose.
+108	back	?	?	?	F	Rear cutout black ensemble.
+109	partial	2	?	?	C	Leather jacket, striped tee and denim shorts; covered contour.
+110	seated	1.5	?	?	D	Blue dress and heels; reclined seated pose.
+111	full	1.5	?	?	C	Layered jacket, shirt and dark trousers; covered torso.
+112	partial	1.5	?	?	M	Grey blazer and printed tee; hips cropped.
+113	full	1.5	?	?	F	Long knit, fitted trousers and heeled boots; knit hides torso.
+114	partial	1.5	?	?	D	Blazer and mini skirt; layered contours.
+115	full	1.5	?	?	F	Light crop and blue jeans with heels; side stance.
+116	seated	1.5	?	?	F	White tied shirt and dark shorts; seated pose.
+117	partial	1.5	?	?	D	White belted dress; side view.
+118	partial	1.5	?	?	F	Denim jacket, crop and patterned skirt; jacket hides shoulders.
+119	back	?	?	?	F	Rear white tank and denim shorts.
+120	full	1.5	?	?	C	Denim jacket and black trousers; layered torso.
+121	seated	1.5	?	?	F	White tee, denim shorts and tall boots; seated pose.
+122	full	1.5	?	?	C	Pink jacket and black trousers; obscured torso.
+123	full	1.5	?	?	F	Black textured jacket and fitted trousers with heeled boots; layers.
+124	reject	?	?	?	U	Stroller and second person obscure outfit.
+125	full	1.5	?	?	F	Blue shirt, dark vest and tall boots; layered torso.
+126	seated	1.5	?	?	X	Collared tailored layers with short hem, tights and strap shoes; seated.
+127	seated	1.5	?	?	U	White tee and black shorts; crouched pose.
+128	partial	2	?	?	D	Striped gathered dress; skirt conceals hips.
+129	full	1.5	?	?	U	Printed tee and skinny jeans; crossed legs and hand obscure contour.
+130	full	?	?	?	F	Distant red top and denim shorts; side view.
+131	partial	1.5	?	?	F	Gold plunge top and black shorts; loose high waist.
+132	partial	2	?	?	D	Blue asymmetric belted dress; belt and drape obscure axes.
+133	partial	2	?	1	U	Black tank and denim shorts; angled hips.
+134	partial	1.5	?	?	D	Plunge embellished feather mini dress; structured contour.
+135	partial	2	?	1	F	Green fitted crop and white shorts; tilted hips.
+136	partial	1.5	?	?	D	Sheer white beach dress; side pose.
+137	partial	1.5	?	?	D	Red cardigan and blue skirt; layers obscure contour.
+138	seated	1.5	?	?	U	Striped tank and denim shorts; seated angle.
+139	full	?	?	?	U	Distant light top and dark trousers; backlighting.
+140	full	1.5	?	?	F	Graphic crop, mini skirt and thigh boots; arms raised.
+141	seated	1.5	?	?	D	White lace dress; folded seated posture.
+142	full	1.5	?	?	D	Green metallic flared dress; held-out skirt obscures hips.
+143	seated	1.5	?	?	U	Blue sports jersey and shorts; seated wide pose.
+144	full	1.5	?	?	D	Graphic tee over mini and tights; loose layered silhouette.
+145	full	1.5	?	?	D	Dark coat, mini and tights; bowed torso and bag.
+146	partial	1.5	?	?	U	White top and black trousers; bag and side view.
+147	full	1.5	?	?	D	White bridal gown; long draped train.
+148	full	1.5	?	?	C	Leather jacket, scarf and jeans; layers hide waist.
+149	partial	1.5	?	?	D	Black short dress; tilted shoulders.
+150	full	1.5	?	?	F	Black crop and patterned shorts; side stance.
+151	partial	1.5	?	1	F	Yellow crop and dark jeans; arms raised.
+152	reject	?	?	?	F	Repeated yellow crop outfit from 151.
+153	partial	1.5	?	?	D	Tan skirt and fur-textured layers; covered waist.
+154	partial	1.5	?	?	D	Tan jacket and skirt over white blouse; layers.
+155	seated	1.5	?	?	D	White top and red skirt; crossed seated posture.
+156	full	1.5	?	?	U	Black short outfit; raised knee and turned body.
+157	partial	1.5	?	?	M	Tan tailored coat, grey top and white trousers; layers.
+158	partial	1.5	?	?	F	Striped open shirt, crop and leather shorts; layers.
+159	full	1.5	?	?	D	Floral crop and long grey skirt; turned waist.
+160	reject	?	?	?	D	Repeated floral-crop and grey-skirt look.
+161	full	1.5	?	?	F	Patterned short ensemble and heels; side stance.
+162	partial	1.5	?	?	U	Textured long jacket; turned torso.
+163	seated	1.5	?	?	F	Red knit and jeans with sandals; seated crop.
+164	partial	1.5	?	?	F	Dark crop and denim shorts; raised arm and tilt.
+165	seated	1.5	?	?	D	Red short dress; reclined pose.
+166	full	2	?	?	D	Belted pale shirt dress; garment-shaped contour.
+167	seated	1.5	?	?	U	White tee and shorts; side seated pose.
+168	seated	1.5	?	?	D	Red asymmetric satin dress; seated contours.
+169	partial	1.5	?	?	D	Distant dark strapless dress; loose hem.
+170	full	1.5	?	?	D	Color-block cardigan, printed skirt and tights; layers.
+171	full	1.5	?	?	D	Black short dress and boots; dress silhouette.
+172	full	2	?	?	U	Printed raglan tee and wide jeans; loose hips.
+173	seated	1.5	?	?	D	Red ruffled dress with belt; seated.
+174	partial	1.5	?	1	D	Fitted purple mini; side torso prevents width comparison.
+175	full	1.5	?	?	D	White tank and blue pencil skirt; loose waist tuck.
+176	full	2	?	?	U	Red top and blue jeans; side view and elastic hem.
+177	seated	1.5	?	?	C	Checked shirt and shorts; seated raised knee.
+178	seated	1.5	?	?	U	Grey draped top and jeans; reclined posture.
+179	full	1.5	?	?	F	Graphic crop and ripped black jeans; tilt and hand at waist.
+180	full	1.5	?	?	D	White shirt and pleated mini; skirt obscures hips.
+181	full	1.5	?	1	F	White crop and denim shorts with heels; angled hip stance.
+182	seated	1.5	?	?	D	Orange patterned dress; leaned-back pose.
+183	partial	1.5	?	?	C	Long dark coat and layered top; covered contour.
+184	seated	2	?	?	D	Floral mini dress; seated side pose.
+185	seated	1.5	?	?	D	Yellow dress and black boots; seated angle.
+186	full	1.5	?	?	D	Pink mini dress; side pose with bent knee.
+187	partial	1.5	?	?	D	Floral dress; arm raised, flared waist.
+188	full	1.5	?	?	D	Dark jacket and mini skirt; distant framing.
+189	full	?	?	?	D	Distant light long top/dress; backlighting.
+190	full	1.5	?	?	D	Blue gathered dress; loose drape.
+191	full	1.5	?	?	D	White printed beach dress; side pose.
+192	seated	?	?	?	C	Coat, scarf and jeans; bundled seated figure.
+193	partial	1.5	?	?	C	Leather jacket; close angled crop.
+194	partial	1.5	?	?	U	Colorful blouse and dark shorts; loose torso.
+195	full	2	?	?	U	Grey tank and red trousers; loose top and stance.
+196	partial	1.5	?	?	D	Color-block dress; flared skirt.
+197	seated	1.5	?	?	D	White belted short dress; seated crossed legs.
+198	full	1.5	?	?	U	Black sports top and leggings; deep lunge.
+199	seated	1.5	?	?	D	Red sheer-panel dress; seated side angle.
+200	seated	1.5	?	?	U	Dark fitted top and trousers; curled seated pose.
+201	partial	?	?	?	U	Red structured coat; garment hides body.
+202	full	?	?	?	C	Distant long coat in hall; insufficient contour detail.
+203	back	?	?	?	F	Rear crop and denim shorts.
+204	full	1.5	?	?	F	Tied top and dark culottes; angled stance.
+205	full	?	?	?	D	Distant dark tee and grey skirt; tiny figure.
+206	full	1.5	?	1	D	Green fitted dress; side pose obscures width comparison.
+207	full	1.5	?	?	D	Pink flared dress; side walking pose.
+208	full	1.5	?	?	F	Black top and white shorts; distant figure.
+209	full	1.5	?	?	D	Green patterned dress; distant walking figure.
+210	partial	1.5	?	?	U	Denim jacket over graphic tee; arms raised, hips cropped.
+211	detail	?	?	?	U	Overhead face/shoulder portrait; no outfit view.
+212	partial	1.5	?	?	D	Dark patterned dress; low light and crop.
+213	full	2	?	1	U	Mint sports top and leggings; arm hides shoulder, waist visible.
+214	reject	?	?	?	D	Curled theatrical pose obscures outfit and body.
+215	partial	2	?	?	D	Black dress and long scarf; torso covered.
+216	partial	2	?	?	D	Floral dress; turned cropped torso.
+217	seated	1.5	?	?	U	White tank and plaid waist layer; seated.
+218	seated	1.5	?	?	F	Printed top, shorts and tall boots; crossed seated legs.
+219	partial	1.5	?	?	D	Pink tee and floral mini; turned hips.
+220	partial	2	?	1	F	Black lace halter and trousers; hair and raised arm obscure shoulder comparison on enlargement.
+221	reject	?	?	?	D	Repeated pink tee/floral skirt ensemble from 219.
+222	back	?	?	?	D	Rear patterned fitted dress.
+223	partial	2	?	?	C	Camo open jacket, white tank and trousers; cropped layered contour.
+224	back	?	?	?	U	Rear tank, backpack and jeans.
+225	full	1.5	?	?	F	Coral blouse and patterned shorts; side stance.
+226	full	?	?	?	F	Distant dancing figure in pale top and shorts.
+227	full	1.5	?	?	D	Pink coat/dress with scarf; covered torso.
+228	partial	1.5	?	?	D	White blouse and fringed skirt; side pose.
+229	full	1.5	?	?	F	Red jacket and ripped jeans with heels; leaning.
+230	full	2	?	?	D	Pink dotted shift dress; loose silhouette.
+231	full	1.5	?	?	D	Printed bell-sleeve mini and tall sandals; extended arms.
+232	full	2	?	?	D	Yellow belted maxi dress; belt and gathered skirt.
+233	seated	1.5	?	?	U	Pink hoodie and dark trousers; seated.
+234	partial	1.5	?	?	D	Red knit and dark skirt; leaning torso.
+235	partial	1.5	?	?	D	Light top and short dark skirt; side lean.
+236	seated	2	?	?	U	Orange top and pale trousers; folded seated legs.
+237	full	1.5	?	?	D	Long patterned dress; arms raised.
+238	full	1.5	?	?	D	White embellished mini; angled hips.
+239	partial	1.5	?	?	D	Pale lace short dress; loose drape.
+240	seated	?	?	?	U	Distant tank and jeans; seated against stone wall.
+241	full	1.5	?	?	D	Printed short dress; loose bodice.
+242	seated	?	?	?	D	Dress while riding horse; obscured seated contour.
+243	full	3	?	?	D	Black top and striped maxi skirt; hip volume concealed.
+244	partial	1.5	?	1	C	Fitted white button shirt and jeans; arms raised.
+245	seated	1.5	?	?	F	Plum top, shorts and tall socks; seated side pose.
+246	partial	1.5	?	?	D	Structured pink strapless bodice and black skirt; corset shaping.
+247	full	1.5	?	?	M	Dark blazer and wide trousers with white shirt; layers.
+248	partial	1.5	?	?	D	Teal dress and heels; neck crop and side view.
+249	full	1.5	?	?	F	Black sleeveless top and red trousers; turned stance.
+250	partial	1.5	?	?	D	Graphic black tee and metallic pleated skirt; hips hidden.
+251	seated	1.5	?	?	C	Denim jacket and black trousers; seated and layered.
+252	back	?	?	?	D	Rear lime maxi dress.
+253	full	2	?	?	D	White strapless flared dress; structured waist.
+254	back	?	?	?	F	Rear black tank and printed shorts.
+255	full	1.5	?	?	F	Grey tee and coral trousers with heels; side walking pose.
+256	seated	1.5	?	?	U	Striped tank and pale shorts; seated wide legs.
+257	partial	1.5	?	?	C	Leather jacket and jeans; angled layered body.
+258	partial	?	?	?	U	Silver jacket and printed top; arms cover torso, hips cropped.
+259	full	1.5	?	?	F	Yellow belted coat, red leggings and heeled boots; coat shaped.
+260	partial	1.5	?	?	D	White strapless gown; structured bodice and skirt.
+261	seated	1.5	?	?	U	Graphic tee and shorts; seated sideways.
+262	partial	2	?	1	D	Teal striped fitted mini; angled hips.
+263	seated	1.5	?	?	F	Red halter top and white shorts; seated.
+264	partial	1.5	?	?	D	Color-block fitted dress; raised arm and side stance.
+265	partial	1.5	?	?	D	Blue flared mini; hands cover waist.
+266	full	1.5	?	?	D	Green mini dress and black tights; garment contour.
+267	partial	?	?	?	C	Blue belted utility jacket; neck crop and covered torso.
+268	back	?	?	?	D	Rear green maxi dress.
+269	partial	1.5	?	?	C	Black tank, cap and jeans; side stage pose.
+270	full	1.5	?	?	F	Dark coat and tall boots; hidden torso.
+271	partial	2	?	?	D	Black-white print shift dress; raised arm and loose shape.
+272	partial	1.5	?	?	U	White knit and blue jeans; hands and crop limit contours.
+273	back	?	?	?	U	Rear mustard top and hat.
+274	full	2	?	?	U	Grey cardigan and cropped leggings; layered torso.
+275	full	1.5	?	?	D	White blouse and tailored skirt; walking stance.
+276	full	1.5	?	?	D	Black off-shoulder dress; wide tilted stance.
+277	partial	1.5	?	?	M	Light blazer and black trousers with hat/scarf; torso covered.
+278	back	?	?	?	F	Rear black top and blue jeans.
+279	partial	1.5	?	?	D	Green blouse and pleated mini; loose hips.
+280	seated	2	?	?	D	Red shirt dress; seated and draped.
+281	full	1.5	?	?	D	Peach ruffled dress; angled pose and loose skirt.
+282	partial	2	?	?	F	Sheer black top and dark bottom; low light and crop.
+283	partial	2	?	?	D	Teal layer over orange dress with purple belt; garment shaping.
+284	seated	2	?	?	D	Purple short dress; side seated view.
+285	partial	2	?	?	D	Color-block fitted mini; strong side bend.
+286	reject	?	?	?	D	Repeated color-block dress from 285.
+287	seated	1.5	?	?	D	Pale patterned dress; reclined posture.
+288	partial	2	?	?	D	White halter dress; flared drape and angled crop.
+289	seated	1.5	?	?	D	Teal dress; reclined across ledge.
+290	back	?	?	?	D	Rear patterned halter maxi.
+291	partial	1.5	?	?	F	Pink lace tunic and pale shorts; side stance.
+292	full	1.5	?	?	D	Pale blouse and patterned ruffled skirt; side pose.
+293	reject	?	?	?	D	Repeated blouse/skirt look from 292.
+294	seated	2	?	?	D	Black dress in hammock; seated spread arms.
+295	full	2	?	?	D	Black belted ruffled dress; raised arm and garment shaping.
+296	seated	1.5	?	?	D	Black lace top and coral maxi; seated and draped.
+297	partial	1.5	?	?	F	Red oversized knit and tall socks; leaning torso.
+298	back	?	?	?	D	Rear black dress with bag.
+299	full	1.5	?	?	D	White asymmetric long dress; draped hips.
+300	partial	1.5	?	?	U	Oversized graphic tee; garment hides contours.
+301	seated	2	?	?	F	White halter top and jeans; folded seated pose.
+302	full	1.5	?	?	D	Red belted maxi; belt and long skirt.
+303	partial	1.5	?	?	D	Red-black sleeveless dress; draped skirt.
+304	full	1.5	?	?	U	Striped tank and shorts; side stance.
+305	full	1.5	?	?	D	Green cropped two-piece skirt outfit; arms raised.
+306	partial	1.5	?	?	D	Black wrap blazer and dark skirt; structured waist.
+307	full	1.5	?	?	D	Denim shirt dress with bright trainers; loose drape.
+308	seated	2.5	?	?	D	Teal long dress; seated contour.
+309	full	1.5	?	?	F	Dark jacket, crop and patterned trousers; leaned pose.
+310	full	2	?	?	D	Long red dress; turned body and draped skirt.
+311	seated	2	?	?	D	Black tank and printed skirt; seated.
+312	seated	1.5	?	?	D	White short dress; deep seated lean.
+313	full	1.5	?	?	D	White shirt mini; arms spread and wide stance.
+314	seated	1.5	?	?	D	Grey loose dress; knees drawn up.
+315	full	1.5	?	?	F	White cropped jacket, black top and jeans with heels; layers.
+316	partial	1.5	?	?	F	White sleeveless blouse and gathered leather shorts; garment-shaped hips.
+317	partial	1.5	?	?	D	Pink patterned belted dress; loose silhouette.
+318	partial	1.5	?	1	F	Graphic crop and frayed denim shorts; tilted pose.
+319	seated	1.5	?	?	D	Lace black mini and heels; crouched seated pose.
+320	partial	1.5	?	?	M	Dark blazer and layered top with trousers; distant crop.
+321	full	1.5	?	?	U	White top and wide cropped jeans; leaning skateboard pose.
+322	partial	1.5	?	?	C	Long dark jacket and pale top; torso covered.
+323	partial	?	?	?	F	Oversized pale fur-textured coat; body contours hidden.
+324	full	2	?	?	F	Black vest/tank and pale shorts with heels; turned hips.
+325	full	2	?	?	C	Checked long shirt and jeans; loose torso.
+326	full	1.5	?	?	C	Light utility shirt, shorts and boots; raised knee.
+327	seated	?	?	?	U	Oversized heart knit; head cropped and seated legs.
+328	seated	1.5	?	?	U	Red graphic tee and black trousers; crossed seated legs.
+329	seated	1.5	?	?	D	Turquoise patterned mini; seated angle.
+330	seated	2	?	?	U	Striped tank and jeans; crouched seated pose.
+331	full	1.5	?	?	D	Teal tank and draped grey skirt; skirt held out.
+332	full	1.5	?	?	F	Striped crop and wide black culottes; arms raised.
+333	partial	2	?	?	D	Pink wrap dress; raised arm and wrap shaping.
+334	full	1.5	?	?	D	Black-white short dress; crossed legs and loose hem.
+335	full	1.5	?	?	D	Blue floral maxi and hat; side view.
+336	reject	?	?	?	D	Repeated denim shirt dress from 307.
+337	partial	1.5	?	?	D	Long patterned stage dress; structured bodice.
+338	full	1.5	?	?	D	Pink top and flared patterned mini; skirt hides hips.
+339	full	1.5	?	?	D	Floral dress and thigh boots; side view.
+340	partial	2	?	?	D	Black floral dress and hat; flared skirt.
+341	partial	?	?	?	D	Off-shoulder floral dress; neck crop and loose silhouette.
+342	partial	1.5	?	?	U	White printed sweatshirt and jeans; draped waist.
+343	partial	2	?	?	D	Striped loose tee dress; bent body.
+344	partial	1.5	?	?	D	Red plaid dress; extreme side bend.
+345	partial	?	?	?	U	Hooded coat portrait; torso and hips obscured.
+346	partial	1.5	?	?	U	Graphic grey tee and black trousers; loose top.
+347	partial	1.5	?	?	C	Leather jacket, scarf and patterned jeans; layers.
+348	back	?	?	?	U	Rear long white outfit.
+349	full	2	?	?	D	Green wrap maxi dress; garment shaping.
+350	full	1.5	?	?	U	Striped sweater and jeans; loose torso.
+351	full	1.5	?	?	C	Red jacket and blue jeans with scarf; layered body.
+352	full	1.5	?	?	C	Dark coat and blue jeans; leaning stance.
+353	partial	1.5	?	?	C	Brown jacket and backpack; turned torso.
+354	full	1.5	?	?	D	White floral dress and hat; long skirt.
+355	partial	1.5	?	1	D	Black fitted mini dress; crossed arms hide shoulder contour.
+356	full	1.5	?	?	F	Yellow cropped blazer and decorated jeans; layers.
+357	partial	1.5	?	?	D	Dark draped dress; leaning torso.
+358	partial	2	?	?	U	Black hooded top and jeans; tilt and loose waist.
+359	partial	2	?	?	U	Green hoodie and jeans; layered torso.
+360	partial	1.5	?	?	U	Loose black tee and frayed shorts; angled torso.
+361	full	1.5	?	?	F	White sleeveless blouse, dark trousers and heels; leaning pose.
+362	partial	1.5	?	?	D	White lace bodice and full skirt; structured contour.
+363	partial	2	?	?	D	White blazer, red top and blue skirt; layered waist.
+364	full	2	?	?	U	Black long top and jeans; raised arm.
+365	partial	?	?	?	C	Long tan vest and black layers; hidden contour.
+366	full	1.5	?	?	D	Pale slip dress; loose silhouette.
+367	full	1.5	?	?	U	Oversized colorful top and shorts; jumping pose.
+368	full	2	?	?	D	Patterned full dress; flared skirt.
+369	partial	1.5	?	?	D	Dark zip top and brown skirt; layered hips.
+370	full	1.5	?	?	C	Dark waistcoat and shorts with flat shoes; structured torso.
+371	full	2	?	?	D	Black coat and white lace dress; layered contours.
+372	partial	1.5	?	?	D	White structured bodice and tulle skirt; garment shaping.
+373	full	1.5	?	?	D	Pale shirt dress; loose fabric.
+374	full	2	?	1	F	Floral asymmetric crop and wide trousers; uneven shoulders and loose hips.
+375	partial	1.5	0	1	D	Fitted gold-patterned mini; near-front contours; recheck.
+376	full	2	?	?	D	Pink textured dress; shift silhouette.
+377	full	1.5	?	?	D	Navy flared dress; angled hips and skirt volume.
+378	full	1.5	?	?	D	Printed mini dress; side runway stance.
+379	partial	1.5	?	?	D	Black sheer draped mini; fabric conceals waist.
+380	full	2	?	?	D	White corseted bridal gown; structured bodice.
+381	partial	2	?	?	U	Loose patterned blouse and green trousers; hips cropped.
+382	back	?	?	?	D	Rear red gown.
+383	full	1.5	?	?	D	Red draped slit gown; raised arm and side pose.
+384	partial	2	?	?	D	Red embellished asymmetric dress; loose skirt.
+385	partial	1.5	?	?	F	Dark embellished top and shorts; structured layers.
+386	partial	1.5	?	?	D	Metallic blouse and patterned skirt; side and audience occlusion.
+387	partial	1.5	?	?	D	Cream peplum dress; structured waist and angled hips.
+388	partial	1.5	?	?	D	Black-white panel dress; structured bodice.
+389	full	1.5	?	?	D	White bridal gown; skirt hides hips.
+390	full	1.5	?	?	D	Red-blue asymmetric dress; loose drape.
+391	full	1.5	?	?	F	Black top and embellished shorts; distant crossing stance.
+392	full	2	?	?	D	Pink belted dress; belt shapes waist.
+393	full	2	?	1	D	Navy fitted dress; elevated tilted camera prevents shoulder comparison on enlargement.
+394	full	1.5	?	?	F	Strapless pale top and tailored shorts; structured bodice.
+395	full	2	?	?	D	Purple asymmetric dress; angled hips and skirt.
+396	back	?	?	?	D	Rear purple dress.
+397	back	?	?	?	D	Rear burgundy gown.
+398	back	?	?	?	D	Rear flowing purple gown.
+399	full	1.5	?	?	D	Leather jacket and metallic skirt; covered torso.
+400	full	1.5	?	?	D	Black short dress; loose hip outline.
+401	full	1.5	?	?	D	Black-white strapless gown; structured bodice.
+402	partial	1.5	?	?	D	Teal gathered dress with white sleeves; hidden hip contour.
+403	partial	1.5	0	1	F	Fitted floral halter and pale trousers; near-front contour; recheck.
+404	full	1.5	?	?	F	Lilac top and wide white trousers; loose hips.
+405	full	1.5	?	?	D	White belted shirt mini; garment-shaped waist.
+406	full	1.5	?	?	D	Black full-skirt dress; side walking pose.
+407	full	1.5	?	?	D	Pale lace dress; side walking pose.
+408	partial	1.5	?	?	D	White lace sleeve shift; loose drape.
+409	partial	1.5	?	?	C	Black leather jacket and trousers; layers.
+410	full	1.5	?	?	M	Plum trouser suit; structured tailoring.
+411	partial	1.5	?	?	D	Dark long-sleeve dress; side profile.
+412	partial	?	?	?	C	Tan coat; distant side view.
+413	full	1.5	?	?	D	Black pencil skirt and sleeveless blouse; side pose.
+414	full	1.5	?	?	F	Embellished fitted top and pale shorts; distant profile.
+415	full	1.5	0	1	D	Fitted orange long dress; front contours; recheck.
+416	full	1.5	?	?	D	Black belted flared coatdress; garment-shaped silhouette.
+417	full	1.5	?	?	D	White lace gown with sheer skirt; structured waist.
+418	full	1.5	?	?	M	Black suit and patterned blouse; tailoring hides waist.
+419	full	1.5	?	?	D	Black mesh-panel dress; partly opaque contour.
+420	full	1.5	?	?	D	Olive dress with wide yellow belt; garment shaping.
+421	full	1.5	?	?	D	Dark strapless full gown; corseted bodice.
+422	full	1.5	?	?	D	Silver shift dress; loose waist.
+423	full	1.5	?	?	D	Black sleeveless mini; straight garment silhouette.
+424	full	1.5	?	?	F	Long white tunic and leggings with heels; side pose.
+425	full	1.5	?	?	D	Bow blouse, short skirt and blue tights; structured waist.
+426	full	1.5	?	?	D	Dark green dress and white collar; garment contour.
+427	full	2	?	?	D	Black-white lace dress; flared skirt.
+428	full	1.5	?	?	D	Cream embellished gown; layered drape.
+429	full	2.5	?	?	D	Teal belted flared dress; skirt hides hips.
+430	full	1.5	?	?	D	Yellow full gown; garment volume.
+431	full	1.5	?	?	D	Striped short flared dress; skirt volume.
+432	full	1.5	?	?	C	Black jacket, scarf and shorts; loose layers.
+433	back	?	?	?	D	Rear black mini and thigh boots.
+434	full	2	?	?	D	Black lace gown; hands compress waist and structured gown prevents reliable axes on enlargement.
+435	full	1.5	?	?	D	Long zebra-patterned dress; skirt obscures hips.
+436	full	1.5	?	?	U	Tan flowing wide-leg ensemble; fabric hides contour.
+437	partial	1.5	?	?	D	Pale strapless belted gown; structured bodice.
+438	partial	1.5	?	?	D	Plum dress and dark cardigan; layered waist.
+439	full	1.5	?	?	D	Burgundy jacket and black dress; layers.
+440	partial	1.5	?	?	M	Burgundy tailored suit and bow blouse; structured silhouette.
+441	partial	2	?	?	D	Pale skirt suit; structured jacket.
+442	full	1.5	?	?	D	Teal shift mini; loose torso.
+443	full	1.5	?	?	U	Loose white long top and pale trousers; draped contour.
+444	full	1.5	0	1	D	Rainbow fitted pencil dress; front contour; recheck.
+445	full	1.5	?	?	D	Textured pale skirt suit; jacket hides waist.
+446	full	2	?	?	D	White bridal gown; structured bodice and full skirt.
+447	partial	1.5	?	?	F	White cutout top and black shorts; tilted posture.
+448	full	1.5	?	?	D	White asymmetric dress; draped waist.
+449	full	1.5	?	?	D	Black strapless high-low gown; corset shaping.
+450	partial	1.5	?	?	D	Black leather coatdress; structured tailoring.
+451	full	1.5	?	?	D	Dark long-sleeve mini and thigh boots; dress-shaped contour.
+452	full	1.5	?	?	D	Dark zip coatdress and boots; structured waist.
+453	full	1.5	?	1	D	Teal fitted mini; tilted hips prevent width comparison.
+454	full	1.5	?	?	D	Printed sleeveless blouse and black skirt; distant figure.
+455	full	1.5	?	1	F	Orange bandeau and long pale skirt; side pose.
+456	full	1.5	?	?	D	Black lace top and gathered skirt; skirt volume.
+457	full	1.5	?	?	D	Black wrap dress and belt; garment shaping.
+458	full	1.5	0	1	U	Black fitted tee and blue jeans; front contours; recheck.
+459	full	?	?	?	D	Loose grey blouse and floral skirt; hidden torso.
+460	partial	1.5	?	?	D	White loose short dress; flared drape.
+461	full	1.5	?	?	D	Floral pencil dress with blue belt; belt-shaped waist.
+462	full	?	?	?	D	Distant white full bridal gown; structured layers.
+463	partial	1.5	?	?	D	Pink gathered dress with blue lace; hips obscured.
+464	full	1.5	?	?	D	Olive shift dress; loose contour.
+465	full	1.5	?	?	D	Orange floral maxi; flowing silhouette.
+466	full	1.5	?	?	D	Cream embellished mini; loose waist contour.
+467	full	1.5	?	?	D	White strapless flared mini; bodice shaping.
+468	full	1.5	?	?	D	White printed maxi; loose drape.
+469	full	1.5	0	1	D	Black-white fitted long dress; front contour; recheck.
+470	full	2	?	?	D	Black top and ruffled pencil skirt; textured hips.
+471	full	1.5	?	?	D	Dark sleeveless top and ruffled skirt; skirt volume.
+472	full	1.5	?	?	D	Black strapless lace mini; lifted knee and flared skirt.
+473	full	1.5	?	?	D	Colorful gathered mini; garment-shaped waist.
+474	full	1.5	?	?	D	Pale halter mini; structured bodice and tilted hips.
+475	full	1.5	?	?	D	Black shiny strapless gown; corseted bodice.
+476	full	1.5	?	1	F	Fitted top and purple jeans; low angle and hand on hip obscure shoulder comparison on enlargement.
+477	reject	?	?	?	F	Repeated fitted top/jeans runway styling in another colorway.
+478	reject	?	?	?	F	Repeated fitted top/jeans runway styling in another colorway.
+479	back	?	?	?	F	Rear top and decorated pale jeans.
+480	full	1.5	?	?	F	Long dark vest and lime trousers with heels; layered contour.
+481	full	2	?	?	D	Blue plaid belted dress; side camera and belt.
+482	full	1.5	?	?	D	Orange dress and black sheer layer; gathered skirt.
+483	full	2	?	?	D	White fitted top and grey lace skirt; hip contour hidden.
+484	full	1.5	?	?	D	Red loose halter dress; draped body.
+485	full	1.5	?	?	D	Red-black loose dress and tall boots; hidden waist.
+486	full	1.5	?	?	D	Black printed loose dress; garment contour.
+487	full	1.5	?	?	U	Navy tank and pale capri trousers; loose upper hips.
+488	partial	1.5	?	?	D	Gold satin belted dress; garment shaping.
+489	full	1.5	?	?	D	Gold embellished pencil dress; structured shoulders and waist prevent reliable axes on enlargement.
+490	full	1.5	?	?	D	White lace gown; structured bodice and layered train.
+491	full	1.5	?	?	D	Black short dress with long train and parasol; skirt shaping.
+492	reject	?	?	?	D	Repeated parasol and black train dress from 491.
+493	back	?	?	?	D	Rear white shift dress.
+494	partial	1.5	?	?	F	Black belted blouse and glossy trousers; belt obscures waist.
+495	partial	1.5	?	?	D	Black embellished mini and yellow tights; angled hips.
+496	partial	1.5	?	?	D	Patterned knit and dark mini; bulky torso.
+497	full	1.5	?	?	D	Black patterned mini and tights; loose contour.
+498	full	1.5	?	?	D	Grey geometric shift dress; hidden waist.
+499	full	1.5	?	?	U	Black halter wide-leg jumpsuit; draped hips.
+500	back	?	?	?	D	Rear white strapless gown.
+501	full	1.5	?	?	D	Lime long gown; flared skirt obscures hips.
+502	full	1.5	?	?	F	Grey cropped knit and leather shorts; loose waist.
+503	full	?	?	?	D	Distant long brown dress; contour too small.
+504	full	2.5	?	?	D	Red offshoulder gown; structured drape hides axes.
+505	full	2	?	?	U	Black sleeveless top and slim trousers; loose torso.
+506	full	1.5	?	?	D	White sheer gown; flowing skirt hides hips.
+507	full	1.5	?	?	U	Orange long coat and leggings; covered torso.
+508	full	2	?	?	D	Black belted mini; garment cinches waist.
+509	partial	1.5	?	?	D	White structured cutout gown; bodice shapes contour.
+510	full	1.5	?	?	D	Fur collar and brown full skirt; layered contour.
+511	full	1.5	?	?	D	Pale lace shift; loose waist.
+512	partial	1.5	?	1	D	Pink embellished fitted dress; hip extent cropped.
+513	seated	1.5	?	?	F	Black sleeveless top and red trousers; raised leg changes hips.
+514	full	2	?	?	D	Black lace mermaid gown; structured bodice and skirt.
+515	full	1.5	?	?	D	Green cutout sleeve top and printed mini; loose torso.
+516	full	2	?	?	D	Grey textured belted mini; garment shapes waist.
+517	full	2	?	?	D	Blue patterned halter dress; raised arms and drape.
+518	back	?	?	?	U	Rear view in white top and orange maxi.
+519	partial	2	?	?	F	Black lace top and white shorts; raised hands obscure shoulders.
+520	full	1.5	?	?	D	Black top and pencil skirt; bent torso.
+521	partial	2	?	1	D	Navy velvet fitted short dress; angled shoulders and cropped hips.
+522	partial	?	?	?	U	Chunky white knit and black trousers; bulky top hides build.
+523	partial	2	?	?	D	White strapless bridal gown; structured bodice.
+524	full	1.5	?	?	F	Floral strapless wide leg jumpsuit; loose hips.
+525	partial	1.5	?	?	D	Orange dress with huge shoulder ruffle; side pose.
+526	partial	2	?	?	U	Loose tan knit; draped torso hides axes.
+527	full	1.5	?	?	D	Black offshoulder midi; walking twist.
+528	full	1.5	?	?	D	Pale embellished full skirt gown; skirt hides hips.
+529	partial	2	?	?	D	Pink empire dress; angled and draped waist.
+530	full	1.5	?	?	D	Black jacket and striped skirt; low angle side view.
+531	full	1.5	?	?	D	White bridal halter gown; side pose.
+532	full	1.5	?	?	D	White bridal gown; flowing skirt hides hips.
+533	full	1.5	?	?	D	White flowing gown in profile.
+534	full	2	?	?	D	Red dress with wide belt; cinched garment.
+535	full	1.5	?	?	D	White button shirt and patterned skirt; loose shirt.
+536	partial	1.5	?	?	D	Metallic cape over white dress; covered side view.
+537	full	1.5	?	?	D	Pastel printed skirt ensemble; draped silhouette.
+538	full	1.5	?	?	D	Blue peplum and yellow pencil skirt; peplum obscures waist.
+539	full	1.5	?	?	D	Loose green tank and white mini; waist concealed.
+540	full	1.5	?	?	D	Grey blazer and black mini; layered torso.
+541	full	1.5	?	1	D	Coral fitted mini; hair obscures shoulder boundary on enlargement.
+542	full	1.5	?	?	F	Graphic tank and black skinny trousers with heels; angled hips.
+543	full	1.5	?	?	D	Striped flared midi; skirt hides hips.
+544	full	1.5	?	?	D	Colorful printed shift; hand on hip and loose waist.
+545	full	1.5	?	?	D	Geometric loose mini; draped torso.
+546	full	1.5	?	?	D	Teal mini in side runway pose.
+547	full	2	?	?	D	Grey draped long dress; garment hides waist and hips.
+548	full	?	?	?	D	Oversized olive gathered dress; build concealed.
+549	full	1.5	?	?	C	Black jacket and cropped trousers; layered torso.
+550	full	1.5	?	?	D	Black sheer top and red highlow skirt; skirt obscures hips.
+551	full	2	?	?	D	Black asymmetric long gown; sleeve and drape obscure axes.
+552	full	1.5	?	?	F	Red black lace romper; loose silhouette.
+553	full	1.5	?	?	F	Denim jacket and jeans with heels; layered torso.
+554	full	2	?	?	F	White tank denim vest and jeans with heels; raised arm and leg.
+555	partial	1.5	?	?	D	Grey asymmetric dress; draped contour.
+556	partial	1.5	?	?	X	Tailored long vest and wide trousers with orange crop; layers obscure axes.
+557	partial	1.5	?	?	D	Blue flared dress and white cardigan; layered waist.
+558	full	1.5	?	?	D	Black shiny mini and gloves; belt shapes waist.
+559	full	2	?	?	D	Purple black halter mini and tights; wide belt.
+560	full	2	?	?	D	Black ruched strapless mini; structured gathering.
+561	full	1.5	?	?	D	Furry jacket and glossy mini; covered torso.
+562	full	1.5	?	?	F	Plum coat and black trousers; scarf and coat hide torso.
+563	full	1.5	?	1	D	Fitted patterned sleeveless dress; tilted camera limits shoulder comparison.
+564	full	1.5	?	?	D	Orange scarf and grey mini; small distant contours.
+565	full	1.5	?	?	D	Grey draped mini; waist obscured.
+566	full	1.5	?	?	D	Purple asymmetric dress; garment drape hides hips.
+567	back	?	?	?	U	Rear view of purple dress.
+568	partial	1.5	?	?	D	Black gathered strapless mini; structured bodice.
+569	full	1.5	?	?	M	Yellow blazer and black slim trousers; tailored layers hide waist.
+570	full	1.5	?	?	D	Bright patterned sheath mini; crossed legs change hip contour.
+571	full	2	?	?	D	White collared flared mini; skirt obscures hips.
+572	full	1.5	?	?	D	Leather mini with train and gloves; corset shapes waist.
+573	full	1.5	?	?	D	Black floral wrap mini; wrap obscures waist contour.
+574	full	1.5	?	?	C	Leather jacket and slim leather trousers; layered torso.
+575	full	1.5	?	?	D	Black dotted fitflare dress; full skirt hides hips.
+576	full	1.5	?	?	D	Lace straight dress; loose waist.
+577	full	1.5	0	1	D	Black fitted mini; front contour candidate for enlarged check.
+578	full	2	?	?	D	Black layered gown; corseted waist and full skirt.
+579	full	2	?	?	D	Black tulle dress; high camera and flared skirt.
+580	full	1.5	?	?	F	Black plunge jumpsuit; high camera and loose waist.
+581	full	1.5	?	?	D	Plaid flared mini; high camera and hands at waist.
+582	full	1.5	?	?	D	Patterned long split dress; high camera and drape.
+583	full	1.5	?	?	D	Black leather feather hem dress; high camera.
+584	full	1.5	?	?	D	Black mini with white collar; high camera and structured shoulders.
+585	partial	1.5	?	?	D	Black mini with printed scarf; high camera and hands at waist.
+586	partial	1.5	?	?	D	Dark fitted sleeveless dress; side pose and dark crop.
+587	full	1.5	?	?	C	Black jacket scarf and patterned trousers; covered torso.
+588	full	1.5	?	?	D	Orange printed flowing gown in profile.
+589	full	1.5	?	?	D	Black lace shift; high camera and loose waist.
+590	full	1.5	?	?	D	Blue ruffled dress; high camera and drape.
+591	full	1.5	?	?	D	Orange fringed dress in profile.
+592	partial	1.5	?	?	D	Metallic coat and mini with striped tights; layered contour.
+593	full	1.5	?	?	D	White fringe shirt and grey skirt; waist hidden.
+594	full	1.5	?	?	D	Pale jacket and pencil skirt; layered torso.
+595	partial	1.5	?	?	D	White short dress in side view.
+596	back	?	?	?	U	Rear view of gold gown.
+597	full	2	?	?	D	Green embellished gown; structured bodice and skirt.
+598	full	1.5	0	?	D	Navy mini; gathered elastic waist obscures underlying indentation on enlargement.
+599	full	1.5	0	1	D	Black gold fitted mini nearfront; contour candidate for enlarged check.
+600	full	1.5	?	?	F	Black ruffled blouse and white trousers; shoulder volume and tucked waist.
+601	full	1.5	?	?	D	Yellow ruffled blouse and printed skirt; obscured shoulders.
+602	full	2	?	?	D	Printed straight fringe dress; loose waist.
+603	full	1.5	?	?	C	Printed blazer and black slim trousers; loose layers.
+604	full	1.5	?	?	D	Black corseted ruffle gown; garment shapes contour.
+605	full	1.5	?	?	D	Black blouse and pencil skirt; tucked fabric hides waist.
+606	full	2	?	?	U	Loose white tank and black leggings; waist hidden.
+607	full	1.5	?	?	D	Pink bow dress; bodice gathering hides waist.
+608	full	1.5	?	?	D	Loose pale shirt and grey skirt; layered torso.
+609	full	1.5	?	?	F	Floral loose tunic and jeans with heels; waist hidden.
+610	full	?	?	?	M	Distant dark tailored suit; small low angle contours.
+611	full	1.5	?	?	D	Red sleeveless dress in profile.
+612	full	1.5	?	?	D	Long printed shift; loose waist and hips.
+613	full	2	?	?	D	Pale loose shift; draped torso.
+614	partial	1.5	?	?	U	Pale tee and trousers; angled cropped legs and loose top.
+615	partial	1.5	?	?	U	Black top and checked trousers; low contrast loose waist.
+616	full	?	?	?	D	Distant white jacket and printed mini; small contours.
+617	full	?	?	?	D	Distant patterned dress; small contours.
+618	full	1.5	?	?	D	Pink floral loose shift; waist hidden.
+619	full	2	?	?	D	Blue orange printed shirtdress; loose waist.
+620	full	1.5	?	?	D	Furry black short dress; low angle and bulky contour.
+621	full	?	?	?	M	Distant brown blazer and black trousers; small contours.
+622	full	1.5	?	?	D	Lime strapless dress; angled pose and hand at waist.
+623	full	1.5	?	?	D	Metallic straight dress; draped waist.
+624	full	1.5	?	?	D	Blazer and brown mini over leggings; covered torso.
+625	full	1.5	?	?	D	White flowing gown; turned pose and skirt.
+626	full	1.5	?	?	D	White sheer lace gown; skirt drapes across hips.
+627	partial	2	?	?	D	Printed wrap dress; hand on waist and cropped hips.
+628	back	?	?	?	U	Rear view of white bridal gown.
+629	full	?	?	?	D	Distant white gown; contours too small.
+630	partial	2	?	?	D	Red lace dress; profile and cropped hips.
+631	full	1.5	?	1	D	Black fitted dress; turned shoulder and hand at waist.
+632	full	1.5	?	?	D	White embellished gown; tilted camera and structured bodice.
+633	full	2	?	1	D	Red fitted gown; hair covers shoulder outline.
+634	full	?	?	?	D	Distant black gown; small contours.
+635	partial	1.5	?	?	D	White bridal skirt and lace top; side pose and full skirt.
+636	full	2	?	?	D	Grey lace pencil dress; wide waist panel and angled pose.
+637	full	1.5	?	1	D	Blue fitted strapless mini; hair covers shoulders.
+638	reject	?	?	?	U	Repeated metallic mini outfit as 637 in another color.
+639	partial	1.5	?	?	D	Teal draped mini; garment gathers across waist.
+640	full	1.5	?	?	D	Green sheer gown; structured bodice and skirt.
+641	partial	1.5	?	?	D	White strapless flared gown; structured bodice.
+642	full	1.5	?	?	D	Loose pale short dress; waist and hips concealed.
+643	full	1.5	?	?	D	Dark top and patterned mini; draped top hides waist.
+644	full	1.5	?	?	F	Printed top jeans and heels; loose top and wide stance.
+645	partial	1.5	?	?	D	Orange strapless loose gown; waist concealed.
+646	partial	2	?	?	D	Black structured dress; angled crop and hand over hips.
+647	full	1.5	?	?	D	White sleeveless shirtdress; loose waist and turned pose.
+648	back	?	?	?	U	Rear view of silver dress.
+649	back	?	?	?	U	Rear view of grey peplum suit.
+650	full	1.5	?	?	D	White satin dress; turned torso and hands on waist.
+651	full	2	?	?	D	Dark asymmetric dress; loose shoulder and hand on hip.
+652	full	2	?	?	F	Printed sleeveless top black trousers and heels; top hides waist.
+653	full	1.5	?	?	D	White lace draped dress; skirt gathered at hips.
+654	full	?	?	?	D	Distant white mini; small contours.
+655	full	1.5	?	?	D	Metallic one shoulder gown; bodice drape and belt.
+656	full	1.5	?	?	D	White bridal gown; structured bodice and full skirt.
+657	partial	1.5	?	?	D	Pale pink draped dress; waist gathering.
+658	partial	1.5	?	?	D	Orange top and gathered skirt; loose waist and side pose.
+659	back	?	?	?	U	Rear view of brown draped dress.
+660	full	2	?	?	D	Brown shirtdress; loose silhouette.
+661	full	1.5	?	?	D	Pale asymmetric dress; loose waist and hips.
+662	full	1.5	?	?	D	White short dress; side pose and flared skirt.
+663	full	1.5	?	?	D	Yellow coat dress; shoulders and waist shaped by tailoring.
+664	full	1.5	?	?	D	Floral offshoulder long dress; peplum hides hips.
+665	full	1.5	?	?	D	Gold sheer layered dress; draped waist.
+666	full	1.5	?	?	D	Brown knit top and pencil skirt; top falls loosely at waist.
+667	full	1.5	?	?	D	Fur vest and gold short dress; covered torso.
+668	full	1.5	?	?	D	Black peplum dress; belt and flare obscure waist.
+669	full	1.5	?	?	D	White printed collared dress; loose waist.
+670	full	1.5	?	1	U	Black fitted tank and jeans; hair obscures shoulder boundary on enlargement.
+671	full	2	?	?	D	Black strapless gown; wide structured waist band.
+672	full	?	?	?	D	Small low angle black long dress; contour uncertain.
+673	full	2	?	?	D	White lace gown; arms cover waist and skirt flares.
+674	full	1.5	?	?	D	Red embellished gown; low angle and hair cover shoulders.
+675	full	1.5	?	?	D	Blue embellished mermaid gown; structured contour.
+676	full	1.5	?	?	D	Purple strapless gown; structured bodice and full skirt.
+677	full	1.5	?	?	D	Pink blouse and dark pencil skirt; angled shoulders and tucked blouse.
+678	full	1.5	?	?	D	White tee and blue tiered mini; skirt hides hips.
+679	full	1.5	?	?	D	Black flared midi; skirt hides hips.
+680	full	1.5	?	1	D	Navy fitted dress; turned shoulders and hand at waist.
+681	full	2	?	1	D	Grey fitted mini; wide stance and hands obscure hip comparison.
+682	full	1.5	?	?	D	Black strapless long gown; gathered skirt and structured bodice.
+683	full	1.5	?	?	F	Black corset and trousers; structured torso.
+684	full	1.5	?	?	D	Blue patterned knee dress; straight waist with ruffles.
+685	full	2	?	?	D	Black tailored sleeveless dress; structured waist.
+686	full	1.5	?	?	X	Printed blazer and trousers with short tie blouse; layered contour.
+687	full	1.5	?	?	C	Plaid jacket tank and jeans; layered torso.
+688	full	2	?	?	M	Black tailored trouser suit; jacket shapes waist.
+689	full	1.5	?	?	D	Fur collar jacket and grey pencil skirt; layered waist.
+690	full	1.5	?	?	C	Brown fur collar coat and trousers; covered torso.
+691	full	1.5	?	?	M	White blazer and slim trousers; layered waist.
+692	full	1.5	?	?	D	Red gathered mini; drape hides waist and hips.
+693	full	1.5	?	?	D	Grey lace gown; gathered hip fabric.
+694	full	1.5	?	?	D	White strapless feather gown; structured torso and bulky skirt.
+695	full	1.5	?	?	D	Pale peplum blouse and white mini; peplum hides waist.
+696	full	1.5	?	?	D	Grey lace mini; side pose and small contour.
+697	back	?	?	?	U	Rear view of printed strapless dress.
+698	back	?	?	?	U	Rear view of blue top and black skirt.
+699	back	?	?	?	U	Rear view of dark jacket and trousers.
+700	full	1.5	?	?	F	Black gold top shorts and printed leggings; loose waist.
+701	full	1.5	?	?	D	Pink blue loose long dress; waist hidden.
+702	full	1.5	?	?	D	Printed shift with black sleeves; waist drapes.
+703	full	1.5	?	1	U	Fitted black tank and loose patterned trousers; hips hidden.
+704	partial	1.5	?	?	U	Loose pale sleeveless top and burgundy leggings; waist covered.
+705	full	1.5	?	?	F	Graphic tank jeans and heels; loose torso.
+706	full	1.5	?	?	D	Printed long strapless dress; structured bodice.
+707	full	1.5	?	?	M	Textured dark trouser suit; loose jacket.
+708	full	1.5	?	?	D	Blue loose shirt and pink mini with tights; covered waist.
+709	full	2.5	0	1	D	Grey fitted short sleeve dress; nearfront contour candidate for enlarged check.
+710	full	1.5	0	1	U	Pink fitted tank and dark short shorts; nearfront contour candidate for enlarged check.
+711	full	1.5	?	?	D	Black split tunic and patterned skirt; layered torso.
+712	full	1.5	?	?	D	Blue draped dress and red sleeves; scarf hides shoulders.
+713	full	2	?	?	D	Striped top and sheer long skirt; loose waist.
+714	full	1.5	?	?	F	Black strapless top and leggings with colored panels; structured waist.
+715	back	?	?	?	U	Rear view of red flared dress.
+716	back	?	?	?	U	Rear view of dark jacket and skirt.
+717	full	2	?	?	U	Black loose jumpsuit over white tee; torso hidden.
+718	full	1.5	?	?	D	Black long dress with striped neckline; draped waist.
+719	full	1.5	?	?	M	Black wrap blazer and tailored trousers; jacket shapes waist.
+720	full	2	?	?	D	Black dress and printed scarf; shoulder edges covered.
+721	full	1.5	?	?	D	Black mermaid gown and textured shoulders; structured contour.
+722	back	?	?	?	U	Rear view of black mermaid gown.
+723	full	1.5	?	?	D	Brown jacket and white long dress; covered torso.
+724	full	2	?	?	D	Black strapless satin dress; structured bodice and hip panels.
+725	back	?	?	?	U	Rear view of white lace bridal gown.
+726	full	1.5	?	?	D	Pale asymmetric shift; loose waist.
+727	full	1.5	?	?	D	White full skirt bridal gown; structured waist.
+728	full	2	?	?	D	White lace bridal gown; flared skirt hides hips.
+729	full	2	?	?	D	Gold strapless embellished gown; structured contour.
+730	full	1.5	?	?	D	Black tailored pencil dress; garment shapes waist.
+731	full	1.5	?	?	D	Black long textured dress; bulky shoulder trim.
+732	full	2	?	?	D	Pale loose midi; waist concealed.
+733	full	1.5	?	?	D	Green red full skirt gown in profile.
+734	full	1.5	?	?	D	Checked short dress in side view.
+735	back	?	?	?	U	Rear view of white printed dress.
+736	full	1.5	?	?	D	Black lace offshoulder gown; structured bodice.
+737	partial	1.5	?	1	D	Grey fitted skirt and draped top; shoulder volume obscures comparison.
+738	full	1.5	?	?	D	Red black flared midi; skirt conceals hips.
+739	full	1.5	?	?	D	Black tiered flared dress in profile.
+740	partial	1.5	?	?	M	Checked blazer shirt tie and trousers; layered contour.
+741	full	1.5	?	?	C	Black jacket scarf shirt and slim trousers; covered torso.
+742	reject	?	?	?	U	Additional cropped view of tank and patterned trousers already reviewed at 703.
+743	full	1.5	?	?	U	Loose grey long sleeve top and blue leggings; waist concealed.
+744	full	1.5	?	?	C	Long dark jacket patterned top and slim trousers; covered torso.
+745	full	1.5	?	?	D	Pink flared lace mini; skirt hides hips.
+746	full	1.5	?	?	D	White short bridal dress with train; profile.
+747	partial	1.5	?	?	D	White bridal full skirt gown; side view.
+748	full	1.5	?	?	D	White dress with pleated collar and train; profile.
+749	partial	?	?	?	D	Distant red patterned dress with raised arms; build uncertain.
+750	back	?	?	?	U	Distant rear view of striped dress.
+751	full	1.5	?	?	D	Black colorblock long dress in profile.
+752	full	1.5	?	?	D	Black flared mini and lace bodice; profile.
+753	back	?	?	?	U	Rear view of loose white black hem dress.
+754	partial	1.5	?	?	D	Tan long sleeve dress; side crop.
+755	partial	1.5	?	?	D	Red belted dress; side view.
+756	full	1.5	?	?	D	Black belted mini with lace hem; profile.
+757	reject	?	?	?	U	Additional crop of pale loose dress already reviewed at 732.
+758	partial	1.5	?	?	D	Purple full skirt gown; side distant crop.
+759	partial	1.5	?	?	D	Blue printed tunic dress; loose contour.
+760	full	1.5	?	?	F	Striped long sleeve jumpsuit; profile.
+761	partial	1.5	?	?	D	Black loose sleeveless dress; side crop.
+762	full	1.5	?	?	D	Printed sleeve top and black mini; profile.
+763	full	1.5	?	?	M	Black tailored trouser suit in profile.
+764	full	?	?	?	F	Distant pale patterned jumpsuit; small contours.
+765	full	1.5	?	?	D	Red top and pale pencil skirt; profile.
+766	full	1.5	?	?	D	Mauve short dress; profile.
+767	partial	1.5	?	1	D	Black fitted long sleeve mini; hips cropped and walking angle.
+768	full	1.5	?	?	D	Black sheer long dress; loose contour.
+769	full	1.5	?	?	D	Blue draped mini; fabric gathering hides waist.
+770	full	2	?	?	D	Black offshoulder short dress; turned torso.
+771	back	?	?	?	U	Rear view of dark lace up mini.
+772	full	1.5	?	?	F	White top and cropped leather trousers with heels; profile.
+773	partial	1.5	?	?	D	Red gathered mini; waist shaped by garment.
+774	full	1.5	?	?	F	Mustard draped blouse and cropped trousers with heels; waist concealed.
+775	full	1.5	?	1	D	Silver fitted strapless mini; hair covers shoulder edges.
+776	full	2	?	?	D	Black flared short sleeve dress; skirt hides hips.
+777	full	1.5	?	?	D	Floral crop and wrap mini; high camera and angled pose.
+778	full	?	?	?	D	Distant pale top and grey skirt; small contour.
+779	full	1.5	?	?	D	White lace panel flared mini; skirt obscures hips.
+780	full	1.5	?	?	D	Burgundy lace long dress; draped waist and hips.
+781	full	1.5	?	?	F	Blue floral blazer yellow trousers and heels; covered torso.
+782	full	1.5	?	?	D	Strapless blue printed maxi; structured waist and long skirt.
+783	full	1.5	?	?	D	Asymmetric printed dress with train; angled hip contour.
+784	full	1.5	?	?	D	Green flared short dress; hand on waist and full skirt.
+785	partial	1.5	?	?	D	Grey belted jacket and white mini; covered waist.
+786	full	1.5	?	?	D	Grey fitted dress with pale scarf; distant angled contour.
+787	partial	1.5	?	?	D	Blue green printed dress; side pose and cropped feet.
+788	partial	1.5	?	?	D	Leopard asymmetric mini; hand on waist and angled crop.
+789	full	1.5	?	?	D	White strapless gathered mini; draped waist.
+790	partial	1.5	?	?	D	Peach jacket green top and floral mini; layered waist.
+791	partial	1.5	?	?	D	Brown jacket striped shirt tie and textured mini; covered contour.
+792	partial	1.5	?	?	U	Pale jacket loose top and tan trousers; waist hidden.
+793	partial	1.5	?	?	M	Textured grey jacket black turtleneck and trousers; covered contour.
+794	partial	1.5	?	?	D	White jacket black top and white lace skirt; waist hidden.
+795	full	1.5	?	?	F	Black draped top white shorts and heels; loose waist.
+796	full	1.5	?	?	D	Black cream panel dress; loose waist.
+797	full	1.5	?	?	D	Printed boxy blouse and orange pencil skirt; waist concealed.
+798	full	?	?	?	D	Distant pink pencil dress; small contours and hands at waist.
+799	full	?	?	?	M	Distant white blouse and black tailored wide trousers; small contour.
+800	full	?	?	?	D	Distant dark lace pencil dress; small contour.
+801	full	?	?	?	M	Distant dark tailored trouser suit; small contour.
+802	full	?	?	?	D	Distant red flared dress; small contour.
+803	full	2	?	?	D	Red draped long dress; cinched belt and hands at waist.
+804	partial	1.5	?	?	D	Pale floral flared mini; turned torso and hand at waist.
+805	partial	1.5	?	?	D	Teal blazer and pleated skirt; torso covered.
+806	full	1.5	?	?	F	White structured peplum and slim satin trousers; peplum hides waist.
+807	full	1.5	?	?	D	Fur jacket over red long dress; layered contour.
+808	full	1.5	?	?	D	Dark long sleeve gown; tilted camera and draped hips.
+809	reject	?	?	?	U	Distant duplicate of fur jacket red dress at 807.
+810	full	2	?	?	D	Red wrap mini; hair covers shoulders and sash shapes waist.
+811	full	1.5	?	?	D	Metallic asymmetric fitted mini; crossed legs and hands on waist.
+812	full	1.5	?	?	D	Gold flared strapless dress; structured bodice and skirt.
+813	back	?	?	?	U	Rear view of blue flowing dress.
+814	full	1.5	?	?	F	Black blouse and printed shorts; turned torso and hand on waist.
+815	full	1.5	?	?	D	Strapless printed long gown; structured bodice and skirt.
+816	full	1.5	?	?	D	Pink jacket and dark printed mini; layered contour.
+817	partial	1.5	?	?	D	Orange flowing dress; profile.
+818	partial	1.5	?	?	D	White floral fitflare mini; flared skirt hides hips.
+819	partial	1.5	?	?	D	Pale lace mini; raised arm and loose waist.
+820	full	?	?	?	D	Distant multicolor draped midi; small contour.
+821	full	?	?	?	D	Distant brown layered short dress; small contour.
+822	partial	1.5	?	?	C	Olive long jacket red tee and trousers; covered torso.
+823	partial	1.5	?	?	F	Pale halter top and black trousers; profile and hand at waist.
+824	partial	1.5	?	?	D	Pink loose crop and orange printed mini; shoulder width and waist hidden.
+825	full	?	?	?	D	Distant black patterned flared gown; small contour.
+826	partial	1.5	?	?	U	Skull tank and black shorts; loose torso and head cropped.
+827	full	1.5	?	?	D	Green embellished flared tunic and trousers; full skirt hides hips.
+828	full	1.5	?	?	D	Pale belted trench dress; structured waist.
+829	partial	1.5	?	?	D	White loose asymmetrical mini; torso concealed.
+830	full	1.5	?	?	D	Blue patterned flared mini; skirt hides hips.

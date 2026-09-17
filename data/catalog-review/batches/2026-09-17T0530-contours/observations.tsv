@@ -1,0 +1,306 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	detail	?	?	?	U	Product-only tee pack.
+1	partial	2	?	?	U	Grey tee and jeans; loose hem and angled hips.
+2	detail	?	?	?	U	Product-only tee pack.
+3	reject	?	?	?	U	Repeated tee and jeans colorway; fuller view retained at 5.
+4	detail	?	?	?	U	Product-only brown tee.
+5	full	2	?	?	U	Brown tee and dark jeans; loose waist and turned torso.
+6	detail	?	?	?	U	Product-only burgundy tee.
+7	detail	?	?	?	U	Neckline and sleeve crop; crossed arm and no hips.
+8	reject	?	?	?	U	Repeated cropped olive sweatshirt; fuller view at 9.
+9	full	2	?	?	U	Olive sweatshirt and dark jeans; arms cover waist.
+10	reject	?	?	?	U	Repeated cropped olive hoodie; fuller view at 11.
+11	full	2	?	?	U	Olive hoodie and brown trousers; loose waist.
+12	detail	?	?	?	U	Product-only tee pack.
+13	partial	2	?	?	U	Black fitted tee and tan trousers; pulling hem distorts waist.
+14	reject	?	?	?	U	Repeated cropped burgundy tee outfit; fuller view at 15.
+15	full	2	?	?	U	Burgundy tee and black wide jeans; tucked waist and loose hips.
+16	reject	?	?	?	U	Near-repeat burgundy tee outfit of 15 with neckline change.
+17	reject	?	?	?	U	Near-repeat burgundy tee outfit of 15 with neckline change.
+18	reject	?	?	?	U	Repeated tee outfit colorway of 15.
+19	back	?	?	?	U	Rear view of pink tee.
+20	reject	?	?	?	U	Repeated cropped teal tee; fuller view at 21.
+21	full	2	?	?	U	Teal tee and dark wide jeans; tucked waist and loose hips.
+22	reject	?	?	?	U	Repeated teal tee neckline variant of 21.
+23	reject	?	?	?	U	Repeated teal tee neckline variant of 21.
+24	detail	?	?	?	U	Pack packaging only.
+25	detail	?	?	?	U	Product-only mystery tee pack.
+26	detail	?	?	?	U	Product-only patterned button shirt.
+27	full	2	?	?	C	White patterned short sleeve shirt and chinos; loose torso.
+28	detail	?	?	?	U	Product-only shirt pack.
+29	reject	?	?	?	U	Repeated shirt and chinos colorway of 27.
+30	detail	?	?	?	U	Product-only navy shirt.
+31	reject	?	?	?	U	Repeated shirt and chinos colorway of 27.
+32	detail	?	?	?	U	Product-only tops pack.
+33	reject	?	?	?	U	Repeated white fitted tee; less obstructed view at 35.
+34	detail	?	?	?	U	Product-only white tee pack.
+35	partial	1.5	?	1	U	White fitted tee and blue jeans; turned shoulders prevent width comparison.
+36	detail	?	?	?	U	Product-only tee pack.
+37	detail	?	?	?	U	Product-only tops pack.
+38	reject	?	?	?	U	Repeated navy tee; fuller view at 39.
+39	full	2	?	1	U	Navy fitted tee and wide dark jeans; tilted torso and loose hips.
+40	detail	?	?	?	U	Product-only dresses pack.
+41	reject	?	?	?	U	Repeated teal tank dress; front view at 42.
+42	full	1.5	?	1	D	Teal fitted tank dress; angled hips and hand at waist.
+43	detail	?	?	?	U	Trouser-only crop below chest.
+44	detail	?	?	?	U	Trouser-only side crop.
+45	partial	2.5	?	?	C	Black zip hoodie olive tee and jeans; layered torso.
+46	detail	?	?	?	U	Hoodie shoulder detail only.
+47	partial	2	?	?	C	White zip hoodie dark tee and jeans; covered waist.
+48	back	?	?	?	U	Rear view of white hoodie.
+49	partial	2.5	?	?	C	Dark overshirt olive tee and jeans; layered torso.
+50	reject	?	?	?	U	Repeated side view of overshirt at 49.
+51	partial	2	?	?	C	Tan overshirt olive tee and jeans; layered torso.
+52	back	?	?	?	U	Rear view of tan overshirt.
+53	reject	?	?	?	U	Repeated quarter zip crop; full view at 54.
+54	full	2	?	?	C	Black quarter zip and pale chinos; raised hand and loose waist.
+55	detail	?	?	?	U	Chino-only crop below waist.
+56	detail	?	?	?	U	Chino side detail crop.
+57	detail	?	?	?	U	Shorts crop below torso.
+58	detail	?	?	?	U	Shorts side detail crop.
+59	detail	?	?	?	U	Shorts crop with shoulders absent.
+60	detail	?	?	?	U	Shorts side detail crop.
+61	detail	?	?	?	U	Pale trouser crop below torso.
+62	detail	?	?	?	U	Rear trouser detail crop.
+63	detail	?	?	?	U	Pale trouser crop below torso.
+64	detail	?	?	?	U	Pale trouser side detail.
+65	detail	?	?	?	U	Navy trouser crop below torso.
+66	detail	?	?	?	U	Navy trouser side detail.
+67	detail	?	?	?	U	Dark trouser crop below torso.
+68	detail	?	?	?	U	Rear dark trouser crop.
+69	detail	?	?	?	U	Navy trouser crop below torso.
+70	detail	?	?	?	U	Navy trouser side detail.
+71	detail	?	?	?	U	Dark trouser crop below torso.
+72	detail	?	?	?	U	Dark trouser side detail.
+73	detail	?	?	?	U	Dark trouser crop below torso.
+74	detail	?	?	?	U	Dark trouser side detail.
+75	detail	?	?	?	U	Red shorts crop below torso.
+76	detail	?	?	?	U	Red shorts side detail.
+77	detail	?	?	?	U	Red shorts crop below torso.
+78	detail	?	?	?	U	Red shorts side detail.
+79	detail	?	?	?	U	Green shorts crop below torso.
+80	detail	?	?	?	U	Green shorts side detail.
+81	detail	?	?	?	U	Green shorts crop below torso.
+82	detail	?	?	?	U	Green shorts side detail.
+83	detail	?	?	?	U	Product-only tee pack.
+84	detail	?	?	?	U	Product-only tee pack.
+85	detail	?	?	?	U	Product-only tee pack.
+86	detail	?	?	?	U	Product-only tee pack.
+87	partial	2	?	?	U	Dark tee and jeans; loose hem hides waist.
+88	partial	2.5	?	?	U	Pale tee and dark trousers; hands pull hem.
+89	detail	?	?	?	U	Product-only tee pack.
+90	partial	2	?	?	U	White tee and jeans; loose hem hides waist and hips cropped.
+91	partial	3	?	?	C	Black short sleeve button shirt and trousers; loose torso and slight turn.
+92	partial	3	?	?	C	Navy short sleeve button shirt and tan trousers; loose waist.
+93	detail	?	?	?	U	Product-only long sleeve tee pack.
+94	partial	2.5	?	?	U	Navy long sleeve tee and jeans; angled torso and hip crop.
+95	detail	?	?	?	U	Product-only shorts pack.
+96	detail	?	?	?	U	Grey shorts crop below torso.
+97	detail	?	?	?	U	Product-only shorts pack.
+98	detail	?	?	?	U	Product-only shorts pack.
+99	detail	?	?	?	U	Product-only tee pack.
+100	detail	?	?	?	U	Product-only tee pack.
+101	detail	?	?	?	U	Product-only short sleeve hoodie pack.
+102	partial	3	?	?	U	Blue short sleeve hoodie and shorts; turned torso and hands in pocket.
+103	detail	?	?	?	U	Product-only shorts pack.
+104	detail	?	?	?	U	Blue shorts crop below torso.
+105	detail	?	?	?	U	Product-only tee pack.
+106	detail	?	?	?	U	Grey tee upper torso crop without waist or hips.
+107	detail	?	?	?	U	Product-only tee pack.
+108	detail	?	?	?	U	Product-only tee pack.
+109	detail	?	?	?	U	Product-only tee pack.
+110	reject	?	?	?	U	Repeated tee colorway; front view retained at 116.
+111	detail	?	?	?	U	Product-only tee pack.
+112	partial	3	?	?	U	Grey tee and dark trousers; angled torso and loose hem.
+113	detail	?	?	?	U	Black shorts crop below torso.
+114	detail	?	?	?	U	Black shorts crop below torso.
+115	reject	?	?	?	U	Repeated grey tee outfit of 112.
+116	partial	3	?	?	U	Blue tee and dark trousers; front but loose hem hides hips and waist.
+117	partial	3	?	?	U	Black short sleeve hoodie and trousers; turned torso and pocketed hand.
+118	reject	?	?	?	U	Repeated tee colorway of 112 with arms crossing torso.
+119	reject	?	?	?	U	Repeated tee colorway of 116.
+120	detail	?	?	?	U	Product-only tee pack.
+121	detail	?	?	?	U	Product-only tee pack.
+122	detail	?	?	?	U	Product-only tee pack.
+123	detail	?	?	?	U	Product-only tee pack.
+124	detail	?	?	?	U	Product-only tee pack.
+125	detail	?	?	?	U	Product-only button shirt pack.
+126	reject	?	?	?	U	Repeated button shirt colorway of 92.
+127	detail	?	?	?	U	Product-only button shirt pack.
+128	reject	?	?	?	U	Repeated button shirt colorway of 91.
+129	detail	?	?	?	U	Product-only button shirt pack.
+130	detail	?	?	?	U	Product-only button shirt pack.
+131	detail	?	?	?	U	Product-only shorts pack.
+132	detail	?	?	?	U	Product-only shorts pack.
+133	full	3	?	?	U	Black active crop and loose trousers; turned torso and raised arm.
+134	back	?	?	?	U	Rear activewear crop.
+135	full	3	?	?	D	Purple short sleeve long dress; elastic waist and flared skirt.
+136	reject	?	?	?	U	Repeated side view of purple dress at 135.
+137	full	3	?	1	D	Grey active crop and skort; hand at waist and flared skirt hide hip comparison.
+138	back	?	?	?	U	Rear grey skort outfit.
+139	full	3	?	1	D	Blue active crop and skort; pulling skirt and broad stance alter hip contour.
+140	back	?	?	?	U	Rear blue active crop outfit.
+141	detail	?	?	?	U	Leggings crop without shoulders.
+142	full	3	?	1	U	Grey active crop and leggings; raised arm prevents shoulder comparison.
+143	back	?	?	?	U	Rear blue leggings crop.
+144	seated	3	?	?	U	Blue active crop and leggings; seated recline changes waist and hips.
+145	partial	3	0	0	U	Black fitted tank unitard nearfront; complete contour candidate for enlargement.
+146	partial	3	?	1	U	Black fitted tank unitard; hands at waist and slightly turned shoulders.
+147	detail	?	?	?	U	Black capri leggings crop below shoulders.
+148	back	?	?	?	U	Rear black activewear outfit.
+149	back	?	?	?	U	Rear green leggings crop.
+150	full	3	?	1	U	Green active crop and leggings; hair obscures shoulder edge.
+151	detail	?	?	?	U	Green capri leggings side crop.
+152	detail	?	?	?	U	Green capri leggings pocket crop.
+153	detail	?	?	?	U	Black capri leggings crop below shoulders.
+154	full	3	?	1	U	Black active crop and capris; torso turned and hand on hip.
+155	back	?	?	?	U	Rear black shorts crop.
+156	full	3	?	1	U	Black active crop and fitted shorts; angled torso and leg extended.
+157	reject	?	?	?	U	Repeated active crop and leggings styling of 142; pulling pockets.
+158	reject	?	?	?	U	Repeated leggings colorway of 144; changed stance only.
+159	detail	?	?	?	U	Brown leggings crop below shoulders.
+160	reject	?	?	?	U	Repeated brown activewear outfit; more front view at 161.
+161	full	1.5	?	1	U	Brown fitted active crop and leggings; enlarged review shows torso twist and receding shoulder, so shoulder comparison remains unknown.
+162	reject	?	?	?	U	Repeated brown activewear outfit of 161; side stretch pose.
+163	full	1.5	0	1	U	Navy active crop and fitted shorts; nearfront contour candidate for enlargement.
+164	reject	?	?	?	U	Repeated navy shorts outfit of 163; leaning pose.
+165	reject	?	?	?	U	Repeated fitted leggings outfit colorway of 161.
+166	reject	?	?	?	U	Repeated fitted leggings outfit colorway of 161; stretching pose.
+167	detail	?	?	?	U	Navy leggings crop without shoulders.
+168	reject	?	?	?	U	Repeated fitted leggings outfit colorway of 161.
+169	detail	?	?	?	U	Blue leggings crop without shoulders.
+170	back	?	?	?	U	Rear blue active crop detail.
+171	detail	?	?	?	U	Black leggings crop without shoulders.
+172	reject	?	?	?	U	Repeated activewear outfit and bent forward pose.
+173	detail	?	?	?	U	Green shorts crop without shoulders.
+174	detail	?	?	?	U	Green activewear side torso crop without shoulders.
+175	detail	?	?	?	U	Navy shorts crop without shoulders.
+176	detail	?	?	?	U	Navy activewear side detail crop.
+177	detail	?	?	?	U	Black shorts crop without shoulders.
+178	seated	2	?	?	U	Black active crop and shorts in low lunge; pose changes contour.
+179	detail	?	?	?	U	Black shorts crop without shoulders.
+180	detail	?	?	?	U	Black shorts side crop without shoulders.
+181	detail	?	?	?	U	Green shorts crop without shoulders.
+182	back	?	?	?	U	Rear green activewear crop.
+183	detail	?	?	?	U	Navy skort crop without shoulders.
+184	detail	?	?	?	U	Navy skort side crop without shoulders.
+185	detail	?	?	?	U	Navy shorts crop without shoulders.
+186	detail	?	?	?	U	Navy shorts side crop without shoulders.
+187	detail	?	?	?	U	Navy shorts crop without shoulders.
+188	detail	?	?	?	U	Navy shorts side crop without shoulders.
+189	detail	?	?	?	U	Navy shorts crop without shoulders.
+190	detail	?	?	?	U	Navy shorts side crop without shoulders.
+191	detail	?	?	?	U	Brown skort crop without shoulders.
+192	detail	?	?	?	U	Brown skort side crop without shoulders.
+193	detail	?	?	?	U	Brown shorts crop without shoulders.
+194	back	?	?	?	U	Rear brown activewear crop.
+195	detail	?	?	?	U	Brown shorts crop without shoulders.
+196	detail	?	?	?	U	Brown shorts side crop without shoulders.
+197	detail	?	?	?	U	Brown shorts crop without shoulders.
+198	detail	?	?	?	U	Brown shorts side crop without shoulders.
+199	detail	?	?	?	U	Brown shorts crop without shoulders.
+200	seated	1.5	?	?	U	Brown active crop and shorts in kneeling stretch; bent torso.
+201	detail	?	?	?	U	Black shorts crop without shoulders.
+202	partial	1.5	?	1	U	Black active crop and shorts; profile and hand at waist.
+203	detail	?	?	?	U	Product-only black shorts.
+204	detail	?	?	?	U	Black shorts crop without shoulders.
+205	detail	?	?	?	U	Product-only brown shorts.
+206	detail	?	?	?	U	Brown shorts crop without shoulders.
+207	partial	2	?	?	C	Striped polo and chinos; loose waist and hips cropped.
+208	back	?	?	?	U	Rear striped polo view.
+209	detail	?	?	?	U	Chino crop below chest.
+210	back	?	?	?	U	Rear chino crop.
+211	detail	?	?	?	U	Grey trouser crop below chest.
+212	back	?	?	?	U	Rear grey trouser crop.
+213	detail	?	?	?	U	Navy trouser crop below chest.
+214	back	?	?	?	U	Rear navy trouser crop.
+215	detail	?	?	?	U	Pale shorts crop below chest.
+216	back	?	?	?	U	Rear pale shorts crop.
+217	detail	?	?	?	U	Tan shorts crop below torso.
+218	back	?	?	?	U	Rear tan shorts crop.
+219	detail	?	?	?	U	Blue trouser crop below torso.
+220	back	?	?	?	U	Rear blue trouser crop.
+221	detail	?	?	?	U	Navy trouser crop below torso.
+222	back	?	?	?	U	Rear navy trouser crop.
+223	detail	?	?	?	U	Grey trouser crop below torso.
+224	back	?	?	?	U	Rear grey trouser crop.
+225	detail	?	?	?	U	Tan trouser crop below torso.
+226	back	?	?	?	U	Rear tan trouser crop.
+227	detail	?	?	?	U	Pale trouser crop below torso.
+228	back	?	?	?	U	Rear pale trouser crop.
+229	detail	?	?	?	U	Blue trouser crop below torso.
+230	back	?	?	?	U	Rear blue trouser crop.
+231	detail	?	?	?	U	Black trouser crop below torso.
+232	back	?	?	?	U	Rear black trouser crop.
+233	detail	?	?	?	U	Grey trouser crop below torso.
+234	back	?	?	?	U	Rear grey trouser crop.
+235	detail	?	?	?	U	Tan shorts crop below torso.
+236	back	?	?	?	U	Rear tan shorts crop.
+237	detail	?	?	?	U	Grey shorts crop below torso.
+238	back	?	?	?	U	Rear grey shorts crop.
+239	detail	?	?	?	U	Blue shorts crop below torso.
+240	back	?	?	?	U	Rear blue shorts crop.
+241	detail	?	?	?	U	Navy shorts crop below torso.
+242	back	?	?	?	U	Rear navy shorts crop.
+243	detail	?	?	?	U	White trouser crop below torso.
+244	back	?	?	?	U	Rear white trouser crop.
+245	detail	?	?	?	U	Brown trouser crop below torso.
+246	back	?	?	?	U	Rear brown trouser crop.
+247	detail	?	?	?	U	Tan textured trouser crop below torso.
+248	back	?	?	?	U	Rear tan textured trouser crop.
+249	detail	?	?	?	U	Grey shorts crop below torso.
+250	detail	?	?	?	U	Grey shorts side crop below torso.
+251	detail	?	?	?	U	Black trouser crop below torso.
+252	back	?	?	?	U	Rear black trouser crop.
+253	detail	?	?	?	U	Grey trouser crop below torso.
+254	back	?	?	?	U	Rear grey trouser crop.
+255	back	?	?	?	U	Rear black unitard; arms raised.
+256	reject	?	?	?	U	Repeated black unitard in side pose; retain earlier front view.
+257	detail	?	?	?	U	Pocket closeup only.
+258	reject	?	?	?	U	Repeated green active outfit; side pose adds no front contour.
+259	detail	?	?	?	U	Waistband crop without shoulders.
+260	full	3	?	1	U	Black fitted active separates; hand on hip and turned shoulders prevent width comparison.
+261	detail	?	?	?	U	Phone pocket closeup.
+262	detail	?	?	?	U	Cropped black flared leggings; shoulders absent.
+263	reject	?	?	?	U	Repeated black flared active outfit with outstretched arms.
+264	full	3	?	?	U	Black active separates in side stance; side contour cannot establish frontal axes.
+265	reject	?	?	?	U	Extreme backbend yoga pose prevents useful outfit reference.
+266	detail	?	?	?	U	Rear waistband closeup.
+267	back	?	?	?	U	Rear green shorts view.
+268	full	2	?	1	U	Black fitted crop and bike shorts; enlarged review shows substantial hip tilt and torso lean, so shoulder comparison remains unknown.
+269	back	?	?	?	U	Rear black activewear view.
+270	detail	?	?	?	U	Rear shorts closeup.
+271	reject	?	?	?	U	Repeated navy active outfit with arms overhead; retain earlier frontal view.
+272	back	?	?	?	U	Rear navy shorts crop.
+273	reject	?	?	?	U	Repeated navy active outfit in side pose.
+274	reject	?	?	?	U	Repeated brown activewear in side pose.
+275	back	?	?	?	U	Rear brown shorts crop.
+276	detail	?	?	?	U	Waistband closeup only.
+277	partial	3	?	?	U	Black tee and jeans; long loose hem masks waist and hip boundary.
+278	detail	?	?	?	U	Sleeve closeup only.
+279	partial	3	?	?	U	Red athletic tee; loose long hem conceals lower torso.
+280	detail	?	?	?	U	Head and hood closeup only.
+281	detail	?	?	?	U	Trouser pocket crop.
+282	detail	?	?	?	U	Side trouser crop missing shoulders.
+283	full	1.5	?	?	U	Grey tee and dark trousers; loose hem and pocket hand conceal contour.
+284	detail	?	?	?	U	Trouser stretch closeup.
+285	detail	?	?	?	U	Trouser crop below shoulders.
+286	full	2	?	?	U	Black tee and sage trousers; hem hides waist boundary.
+287	back	?	?	?	U	Rear shorts crop.
+288	detail	?	?	?	U	Drawstring shorts closeup.
+289	full	2	?	?	U	White tee and navy shorts; tee drape masks waist.
+290	partial	1.5	?	?	U	Navy tee and grey trousers; loose hem hides waist and hips.
+291	reject	?	?	?	U	Repeated tee styling and model pose from 290 in another colorway.
+292	reject	?	?	?	U	Repeated tee styling and model pose from 290 in another colorway.
+293	full	1.5	?	?	C	Striped polo with chinos and brown boots; untucked hem hides waist.
+294	detail	?	?	?	U	Collar closeup.
+295	detail	?	?	?	U	Polo hem closeup.
+296	full	1.5	?	?	M	Tucked white shirt, belt, chinos and dress shoes; shirt ease and pocket hand obscure body contour.
+297	detail	?	?	?	U	Rear pocket closeup.
+298	detail	?	?	?	U	Ankle and shoe crop.
+299	full	1.5	?	?	C	White polo and chino shorts; polo hem conceals waist.
+300	detail	?	?	?	U	Rear shorts pocket closeup.
+301	detail	?	?	?	U	Front shorts pocket closeup.
+302	full	1.5	?	?	C	Grey tucked polo and black jeans; shirt ease and pocket hand limit contour.
+303	detail	?	?	?	U	Front jeans pocket closeup.
+304	detail	?	?	?	U	Rear jeans closeup.

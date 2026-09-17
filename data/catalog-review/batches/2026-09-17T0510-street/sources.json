@@ -1,0 +1,1479 @@
+{
+  "retrievedAt": "2026-09-17T03:45:57.418467+00:00",
+  "scope": "tokyofashion, requested pages [60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70], limit 220; one image per post, WEAR account cap 3 across prior sampled pages. Listing category is a sourcing lead only, never a presentation or body label.",
+  "sources": [
+    {
+      "source": "tokyofashion",
+      "pages": [
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=60",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:41:35.198202+00:00",
+          "snapshotSha256": "8ee67274fcf216013173ba30db2da8cbae2ca589312ec70077fd24fc29738184"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=62",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:42:34.703173+00:00",
+          "snapshotSha256": "99507981b99f7c90a4dd5583ff569322b78354c58f44abc013326d5ca60756d7"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=63",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:42:58.540783+00:00",
+          "snapshotSha256": "b4e068158f7d8ad77b2a3e4aa772dc449d1fe2f4f924295e0d000ef65ab9a219"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=64",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:43:26.523412+00:00",
+          "snapshotSha256": "4117a82ebeee3a43a5e94e40af9103aaf01c4ff7c5de8741fe2bd3be841f8d3d"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=65",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:43:58.968257+00:00",
+          "snapshotSha256": "cbf62dcad2de83ed41d9dca212628ac3aa37edaa885c05a76a19cd88cb67a199"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=66",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:44:08.616668+00:00",
+          "snapshotSha256": "e34c80bc1fcbeaaa13eb623bc6a729f053e8a6cf909b2e6cf8b2d17e620258a3"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=67",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:44:29.806757+00:00",
+          "snapshotSha256": "a3276d878c9ce03fa496b75a2dc787db18636ab08790697bb0fa01d56af90e2d"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=68",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:45:01.483646+00:00",
+          "snapshotSha256": "7a59c951146173d0ba15eb4f7ced4867a2ced74194b6dc4d0720baea881a8332"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=69",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:45:38.049229+00:00",
+          "snapshotSha256": "949e1c28cc199d685fee6075f41831d747972673bfb5a676742a051e335a10fd"
+        },
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=70",
+          "products": 20,
+          "retrievedAt": "2026-09-17T03:45:56.527574+00:00",
+          "snapshotSha256": "4d123945c640ea978659af91a2a5c4f01b9e78458beb01fd6933509b045a8e2b"
+        }
+      ],
+      "errors": [
+        {
+          "url": "https://tokyofashion.com/wp-json/wp/v2/posts?per_page=20&page=61",
+          "error": "HTTPSConnectionPool(host='tokyofashion.com', port=443): Read timed out. (read timeout=40)"
+        }
+      ],
+      "images": [
+        {
+          "id": "tokyo-archive-170321",
+          "sourceUrl": "https://tokyofashion.com/japanese-idol-harajuku-gothic-lolita-jojos-bizarre-adventure-innocent-world-vivienne-westwood/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-025-003-Harajuku-DZ7-2596.jpg",
+          "sha256": "140430b0a92c6a005a61bd4bd77ff38be544f3bc5b2f0cbbe5115081aa0e752f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170520",
+          "sourceUrl": "https://tokyofashion.com/japanese-vintage-kimono-street-style-tassel-earrings-wide-leg-pants-y3/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-037-001-Harajuku-DZ7-3294.jpg",
+          "sha256": "da6d33e8397e9c01148949cbfb34b4dbd0923d96f791963b7207146f10325c1a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170477",
+          "sourceUrl": "https://tokyofashion.com/japanese-idol-kl-alien-crop-top-clear-bag-purple-sock-boots-harajuku/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-035-013-Harajuku-DZ7-3174-2.jpg",
+          "sha256": "072ec0c8009954558b87bc031095cdcccc1af08864b271bb02f6f4b6758b78ac",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170356",
+          "sourceUrl": "https://tokyofashion.com/sasquatchfabrix-haori-style-harajuku-sun-print-ambush-lighter-necklace/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-027-001-Harajuku-DZ7-2670_1.jpg",
+          "sha256": "30f2fa05baac03552d453a0d50291d125b1d0d32d0ff785ab84831342be12f2d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-176671",
+          "sourceUrl": "https://tokyofashion.com/harajuku-guy-w-dope-shirt-mesh-sweatshirt-ripped-jeans-john-lawrence-sullivan-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/12/NK-2019-05-26-023-003-Harajuku-DZ7-2521.jpg",
+          "sha256": "b510fdce7f7e9c4058fed6b9fc81606db91181eaa3d5225deb82d655e01df9a0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170186",
+          "sourceUrl": "https://tokyofashion.com/japanese-streetwear-heihei-plaid-beret-heihei-the-four-eyed-vivienne-westwood/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-016-001-Harajuku-DZ7-2270-2_1.jpg",
+          "sha256": "f134dcc44977591d57a316a4f9a95b07f12bc96a94550cf1e323509ded40763a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169863",
+          "sourceUrl": "https://tokyofashion.com/tokyo-vintage-street-style-pinstripe-blazer-dress-pants-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-30-004-001-Harajuku-DZ7-3029.jpg",
+          "sha256": "3749e4ed22f2c2c112c4214bdc19fc11a16eb146417d0ca93a86ec293e896a00",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174759",
+          "sourceUrl": "https://tokyofashion.com/harajuku-guys-street-styles-w-bucket-hat-vintage-fashion-adidas-cycling-shorts-alexander-wang-balenciaga-esc-studio-lv-valentino-ambush-dior/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-014-001-Harajuku-DZ7-9646_1.jpg",
+          "sha256": "6b8c3772e6e7b6ad9ecdc63a7131d96ec6f66b0d25fc5da209cd8466f7069e2a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174694",
+          "sourceUrl": "https://tokyofashion.com/tokyo-street-styles-w-tall-mohawks-cheek-piercing-spiked-chokers-ys-vivienne-westwood-worlds-end-balenciaga-platform-crocs/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-010-001-Harajuku-DZ7-9234-2.jpg",
+          "sha256": "22cea28b3c6587394e75e97570a9badd70ac9fe40f7b700182e4f332e5f79b8b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174680",
+          "sourceUrl": "https://tokyofashion.com/yukata-street-styles-in-harajuku-w-furry-cat-ears-printed-yukatas-animal-print-clasp-purses-floral-boots-geta-sandals/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-009-001-Harajuku-DZ7-9170.jpg",
+          "sha256": "20bbfb9b6ecd0d438726a3edc4643caad29f7cb7c339aadcbef38ecc1553905c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174660",
+          "sourceUrl": "https://tokyofashion.com/layered-streetwear-fashion-in-harajuku-w-pink-bangs-crochet-dress-codona-de-moda-overall-dress-me-harajuku-cross-necklace-lace-up-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-008-001-Harajuku-DZ7-9134.jpg",
+          "sha256": "5b76c12e6d49aade5233cdba3271e000c5a856cba4f8ad648c7de80e10022046",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174641",
+          "sourceUrl": "https://tokyofashion.com/red-white-blue-streetwear-fashion-in-harajuku-w-american-flag-vest-nadia-zara-eyelet-dress-forever21-spinns-fjallraven-kanken-lee-and-tokyo-bopper/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-007-001-Harajuku-DZ7-9045_1.jpg",
+          "sha256": "9f2992f8596c9a136a2d5ca7a6eef81d600886daa4aeb46ec6221f2987347908",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174606",
+          "sourceUrl": "https://tokyofashion.com/rick-owens-monochrome-streetwear-style-w-arm-tattoos-im-praying-to-the-aliens-long-shirt-loose-pants-tokyo-human-experiments-rings-high-top-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-006-001-Harajuku-DZ7-8996.jpg",
+          "sha256": "fce70da39b9d33b76e39c1c7056ba591e8a91526e01dd7cf32d362672763d29f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174589",
+          "sourceUrl": "https://tokyofashion.com/japanese-model-loake-chelsea-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-005-001-Harajuku-DZ7-8940_1.jpg",
+          "sha256": "283589f387faa6fc85e418c63a9f0c2c5f2f2d09f25f6b70c1174031c65ac140",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174540",
+          "sourceUrl": "https://tokyofashion.com/harajuku-girl-in-otoe-street-style/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-015-001-Harajuku-DZ7-9703_1.jpg",
+          "sha256": "f5ba31e03bb3226d3113924cecc5edd772ed7a1b0e551548314ed59c54edf6ea",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174517",
+          "sourceUrl": "https://tokyofashion.com/harajuku-denim-style-w-pink-hair-kobinai-top-denim-jeans-adidas-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-012-001-Harajuku-DZ7-9540.jpg",
+          "sha256": "f502499b06d0553cc0a76b597eac9bdb84bb7eb62dc1e20ec0b658971bc3c0ae",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174500",
+          "sourceUrl": "https://tokyofashion.com/japanese-streetwear-styles-w-blue-pink-hair-furry-neckpiece-adidas-shorts-jenny-fax-mesh-top-tokyo-bopper-cutout-shoes-handmade-fashion/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-004-001-Harajuku-DZ7-8862.jpg",
+          "sha256": "e19869b48dcab63122af5f04b576f00d76898e24b465d6d58d59dd041311764b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174529",
+          "sourceUrl": "https://tokyofashion.com/harajuku-girl-street-style-w-mezzo-piano-innocent-world-super-dollfie-baby-the-stars-shine-bright/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-013-001-Harajuku-DZ7-9596_1.jpg",
+          "sha256": "f021e857cf24a53ac0aebd1a04dbce4549a3bc0ad43bb8e89680413333e446c4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-174490",
+          "sourceUrl": "https://tokyofashion.com/bubblegum-designer-in-harajuku-w-pink-hair-beams-flannel-shirt-supreme-pants-futura-vivienne-westwood-monochrome-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/10/NK-2019-07-27-003-001-Harajuku-DZ7-8825.jpg",
+          "sha256": "d11d7611d91a20a9331b879bf7dd5495d8ac252ae229b1e8bc673970b2f7388a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170254",
+          "sourceUrl": "https://tokyofashion.com/japanese-idol-jamie-ank-street-style-two-tone-hair-asymmetrical-skirt-bubbles-tokyo/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-021-002-Harajuku-DZ7-2444-2.jpg",
+          "sha256": "5ad39d35dc46ce76cacf947cb291d5cef5f5857df8d7a627dd8dfc4f2d1bfd88",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169878",
+          "sourceUrl": "https://tokyofashion.com/cat-street-harajuku-style-pink-hair-window00-ruffle-shirt-cutout-bow-pants/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-30-005-001-Harajuku-DZ7-3071.jpg",
+          "sha256": "c36d357825cdd8b2f8c81486b68296c8a4cbe3a3f0a9b500e7d9cc531680b57c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169788",
+          "sourceUrl": "https://tokyofashion.com/harajuku-girls-street-styles-oversized-corduroy-shorts-casper-john-aiver-me-used-focus/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-30-001-001-Harajuku-DZ7-2842.jpg",
+          "sha256": "43e3b0073b39250c0069c154e35d37b9041b50b7c521096cbdfadb95a9056630",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169608",
+          "sourceUrl": "https://tokyofashion.com/yohji-yamamoto-tokyo-street-style-sacai-guidi-zipper-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-029-001-Harajuku-DZ7-8692_1.jpg",
+          "sha256": "58c7a219113b3baee9f685fa99dc2d84b6dd21084fe6e43a6216755ec35f76f3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170620",
+          "sourceUrl": "https://tokyofashion.com/christopher-nemeth-streetwear-style-w-newsboy-cap-rope-print-badges-white-shirt-drop-crotch-overalls-leather-wingtip-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-07-15-001-001-Harajuku-DZ7-6463.jpg",
+          "sha256": "ce13cd0ae1318bf6194bba79d7416a36b948922984fb41fe3ae39824c8598e48",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170658",
+          "sourceUrl": "https://tokyofashion.com/vintage-printed-jacket-floral-shirt-dior-cuffed-pants-christopher-nemeth-furry-bag-maison-margiela-tabi-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-07-15-004-001-Harajuku-DZ7-6582-2.jpg",
+          "sha256": "6d731777b9ecea9a411afad40a4111291202cb71c23a0bd3fbdf66a054f3cadb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170676",
+          "sourceUrl": "https://tokyofashion.com/teal-braided-updo-4jigen-chandelier-earrings-furry-top-kobinai-shorts-forever21-round-sling-yosuke-cutout-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-07-15-005-001-Harajuku-DZ7-6617.jpg",
+          "sha256": "8b78163c940ce93d713e3cd5031be51194f2167ffaa32c92e14b0187db59decd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168519",
+          "sourceUrl": "https://tokyofashion.com/japanese-pianist-harajuku-glitter-mustache-milkboy-house-of-viviano-sue-body-harness-monster-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-28-015-001-Harajuku-DZ7-9645-2.jpg",
+          "sha256": "29b2bb5e3587fe04b83123a51d1fbe429a46e3bec125bc6da1b71e474cf95221",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169499",
+          "sourceUrl": "https://tokyofashion.com/dark-harajuku-street-styles-w-cat-eye-sunglasses-sex-pot-revenge-hellcat-punks-paul-smith-vivienne-westwood-new-rock-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-023-002-Harajuku-DZ7-8394-2_1.jpg",
+          "sha256": "e338b6e566dc6e101bb8bb112151a51bcf8b953a75fe9267b09bdaf59a891d3a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171947",
+          "sourceUrl": "https://tokyofashion.com/the-symbolic-tokyo-designer-in-john-lawrence-sullivan-shiny-coat-tst-shirt-jil-sanders-supreme-nike-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-07-14-003-001-Harajuku-DZ7-5958-2.jpg",
+          "sha256": "1c4d4243f85aa2b5c587f93a7493fb5f2c17a46a7fe3fa8ceef90591f8b46ad8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-172050",
+          "sourceUrl": "https://tokyofashion.com/all-black-punk-streetwear-styles-in-harajuku-w-mask-safety-pin-statement-necklace-poor-thing-shirt-abvhvn-face-shirt-tripp-nyc-blackmeans-dr-martens-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-07-14-010-001-Harajuku-DZ7-6403.jpg",
+          "sha256": "dc1b24743c6612f448017b3eb69b95f5d80aad4577a2947b43de22d624c98c12",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-172033",
+          "sourceUrl": "https://tokyofashion.com/japanese-hoodie-fashion-w-jil-sander-rick-owens-drkshdw-leather-pants-phenomenon-layered-denim-pants-raf-simons-x-adidas-mihara-yasuhiro-distressed-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-07-14-009-001-Harajuku-DZ7-6315_1.jpg",
+          "sha256": "e35e62b3e44a7c922feb7fdefe21fc249db4ba008af976c2a70d33824a54304a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-172015",
+          "sourceUrl": "https://tokyofashion.com/tokyo-teens-streetwear-fashion-w-ash-grey-hair-ombre-hair-fishnets-handmade-shirt-w-3-ties-jouetie-gallerie-sheer-skirt-panel-me-harajuku-belted-waist-harness-dr-martens-ok-kiko-knee/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-07-14-008-001-Harajuku-DZ7-6219-2_1.jpg",
+          "sha256": "23d35b99610c80361183d4d01b94237f9d7a08e11accd88138fd059fde5b8505",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-172001",
+          "sourceUrl": "https://tokyofashion.com/florida-harajuku-shop-staffs-multi-print-street-style-w-galaxy-print-denim-sweater-plaid-skirt-paisley-print-flared-pants-gucci-sling-bag-z-coil-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-07-14-007-001-Harajuku-DZ7-6151.jpg",
+          "sha256": "cc7e37c1633d4998b2ec86bcf034b4be6c93c10c5ae224c54b53cc97fde1fec3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171958",
+          "sourceUrl": "https://tokyofashion.com/japanese-musician-models-all-black-street-style-w-handmade-leather-bib-necklace-depression-coat-yohji-yamamoto-vintage-pants-nike-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-07-14-004-001-Harajuku-DZ7-5981_1.jpg",
+          "sha256": "6a8f2471a01ae6d0ec4ed2048d467cf7d9764c86f41e432e9bc46df77ca9a819",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171931",
+          "sourceUrl": "https://tokyofashion.com/japanese-models-chic-street-look-w-ombre-bob-heart-necklace-vintage-fiorucci-top-pleated-skirt-lip-print-handbag-esperanza-x-office-kiko-platform-sandals/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-07-14-002-001-Harajuku-DZ7-5877.jpg",
+          "sha256": "6e2ccbec4ae331222430a6579b19ca4d8d8965153eab94cb6b3af572c6bf926d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171916",
+          "sourceUrl": "https://tokyofashion.com/japanese-savoy-styles-w-beret-kanji-print-jacket-666-faux-leather-moto-jacket-neon-rising-sun-waist-bag-love-kills-boots-tuk-creepers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-07-14-001-001-Harajuku-DZ7-5842-2.jpg",
+          "sha256": "bdf690a1aaa22197b4b1b52d9bcd0cf8b177df23f624243de769cc90b1751418",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168712",
+          "sourceUrl": "https://tokyofashion.com/purple-haired-harajuku-girl-tongue-piercing-sister-jane-dress-office-kiko-glitter/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-006-001-Harajuku-DZ7-5856_1.jpg",
+          "sha256": "160c032f0833131c6bcad210132e66e9911b213d0be12cf36d343ef73f35df4d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169169",
+          "sourceUrl": "https://tokyofashion.com/retro-street-style-newsboy-cap-star-wars-necktie-corduroy-pants-takeo-kikuchi-vintage/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-003-001-Harajuku-DZ7-7591.jpg",
+          "sha256": "b9c1fab4c6fc111449a836384742a0e87596124dd6b53731c7b0d576ff7eeede",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169124",
+          "sourceUrl": "https://tokyofashion.com/vivienne-westwood-street-styles-harajuku-w-jeweled-horns-worlds-end-hoop-skirt-rocking-horse-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-015-002-Harajuku-DZ7-0463_1.jpg",
+          "sha256": "c8be2e770bf0002775db98735e36e79344084ae21eb2f4f9643a8de25bbb852f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168506",
+          "sourceUrl": "https://tokyofashion.com/dapper-tokyo-street-fashion-1940s-stetson-hat-pocket-square-bespoke-pinstripe-suit-dress-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-28-014-002-Harajuku-DZ7-9618.jpg",
+          "sha256": "f64dd80e0f5ff8648aff02f431d4dca72497ae35cbfcfc87921243ebb445132a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169111",
+          "sourceUrl": "https://tokyofashion.com/harajuku-style-misbhv-tee-yoshio-kubo-bag-tripp-nyc-pants-eytys-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-014-002-Harajuku-DZ7-0432-2.jpg",
+          "sha256": "463d9b561ee78d2e559d4788e339175b2bcdaca7b34768b5ee3c2a47e0781c6a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169249",
+          "sourceUrl": "https://tokyofashion.com/harajuku-stylist-fashion-kaoru-zhou-beams-japan-mm6-maison-margiela-sock-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-007-002-Harajuku-DZ7-7863_1.jpg",
+          "sha256": "0d87eb5a321835be7a2c3e8c03e11e414d58b47c1fecbde0f8b96feddfa1d601",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169156",
+          "sourceUrl": "https://tokyofashion.com/remake-japanese-street-style-harajuku-yu-gi-oh-cards-cropped-hoodie-cutout-pants/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-002-001-Harajuku-DZ7-7542-2.jpg",
+          "sha256": "3c2c1ee3371858380a73d0f9c5d4397d801517bc531549ee506385590a7c7d1a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169043",
+          "sourceUrl": "https://tokyofashion.com/kawaii-harajuku-street-styles-punyus-kobinai-acdc-rag-powerpuff-girls-uchu-hyakka/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-010-002-Harajuku-DZ7-0169.jpg",
+          "sha256": "e714450192cd30c97eed3bc96075db05cfb0ac8f5a703343380615186c7e176f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169089",
+          "sourceUrl": "https://tokyofashion.com/harajuku-girl-style-sex-pistols-t-shirt-peco-club-mickey-mouse-bag-bow-loafers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-012-002-Harajuku-DZ7-0331-2_1.jpg",
+          "sha256": "ac0d28eecea3853d84ddf5e7a0cb0c88e322251cebf8b9b83c97e975f58bc512",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168830",
+          "sourceUrl": "https://tokyofashion.com/japanese-street-styles-bucket-hat-school-uniform-pokemon-psyduck-bag-ggd-dr-martens/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-014-001-Harajuku-DZ7-6188.jpg",
+          "sha256": "70b76aa87408aa58119258c11d1f9490e402b7d351ec27278cab43cdb17ce493",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169013",
+          "sourceUrl": "https://tokyofashion.com/japanese-street-styles-butterfly-shirt-blue-suede-blazer-candy-stripper-wc-peco-club/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-009-004-Harajuku-DZ7-0078_1.jpg",
+          "sha256": "a2d9284ae6418fb9ce188a8e32d5306e3eb45fd22c88a6b15704b3ec99b69e8d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168922",
+          "sourceUrl": "https://tokyofashion.com/japanese-kawaii-pink-harajuku-street-styles-handmade-vintage-fashion-tokyo-bopper/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-003-002-Harajuku-DZ7-9776.jpg",
+          "sha256": "7974d568d5c53a2cf3a7d169a4a1faf30f26d95fe45f2b18124f8982a164ede8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168883",
+          "sourceUrl": "https://tokyofashion.com/japanese-harajuku-street-styles-myob-nyc-esc-studio-kinji-cutout-jeans-faith-tokyo-demonia/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-001-001-Harajuku-DZ7-9581-2_1.jpg",
+          "sha256": "be9d475ae7cd0104a066743d252abc24282ef6ac49e8922caa9c4ec5942f1055",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168755",
+          "sourceUrl": "https://tokyofashion.com/cinema-boy-cq-idols-harajuku-street-style-merry-jenny-gingham-shirt-ruffle-pants-rurumu-tote-bag/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-009-004-Harajuku-DZ7-5949-2.jpg",
+          "sha256": "f0d7c14671b73a1e0e97b6d1d24a380c12b1747a68481b9c8bfe67992c8f361d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168786",
+          "sourceUrl": "https://tokyofashion.com/harajuku-girls-styles-two-tone-twin-tails-harness-drug-honey-nyulycadelic-kinji-demonia/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-011-002-Harajuku-DZ7-6030-_1.jpg",
+          "sha256": "48a0de49ffc27361a4a53d293d6e8d6ff5c4fdd9d0b9cbe5575372227a15fd50",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168723",
+          "sourceUrl": "https://tokyofashion.com/japanese-harajuku-lavender-pixie-cut-un3d-ungrid-jeans-otope-gucci-rosebud/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-007-001-Harajuku-DZ7-5883.jpg",
+          "sha256": "931d182288cc8e523a9f4304bf1f79384f7733449792622a358c013129b75d26",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168566",
+          "sourceUrl": "https://tokyofashion.com/mohawk-hairstyle-harajuku-sleeveless-dress-heiligtum-fishnets-vivienne-westwood/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-16-007-002-Harajuku-DZ7-7967_1.jpg",
+          "sha256": "21b4fd5b30736e23654d8abaf6f8229aa5b30db21927bc46bafcc792abdbdb9b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168631",
+          "sourceUrl": "https://tokyofashion.com/harajuku-twin-neckties-belted-trench-coat-the-mondays-steampunk-watch-yosuke-platforms/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/Harajuku-Girl-20190511DZ75457.jpg",
+          "sha256": "24dc119aae78aee3e8d9ad516942a1002cf9e11d23b26c58c8ffdea549be91f4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169838",
+          "sourceUrl": "https://tokyofashion.com/casual-tokyo-street-style-w-partially-shaved-hair-tinted-glasses-blingee-cross-necklace-graphic-shirt-marithe-francois-girbaud-dog-harajuku-nacht-dr-martens-grommet-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-30-002-001-Harajuku-DZ7-2945.jpg",
+          "sha256": "bd54609c90ce98ff7ffc85ae1863702c1251eef844f1c0709690d35ab06bed44",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169852",
+          "sourceUrl": "https://tokyofashion.com/san-to-nibun-no-ichi-style-w-bucket-hat-striped-shirt-graphic-print-overalls-mms-backpack-leopard-print-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-30-003-001-Harajuku-DZ7-2999.jpg",
+          "sha256": "aba564ad7d071128f88957f614a4b82e7c6b7c4a1646679d2a669a00e5e59fcf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168069",
+          "sourceUrl": "https://tokyofashion.com/tokyo-street-styles-scarves-snakeskin-pants-vintage-baseball-jersey-gosha-rubchinskiy/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-019-003-Harajuku-DZ7-6837_1.jpg",
+          "sha256": "2d9258ffc6ed711532e46b5b66654ddd452a67189ec1ac255a11350fa72e1b30",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168580",
+          "sourceUrl": "https://tokyofashion.com/heiligtum-fashion-designer-harajuku-makeup-twin-tails-corset-remake-skirt-fishnets-vivienne-westwood-rocking-horse-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-16-008-002-Harajuku-DZ7-8011.jpg",
+          "sha256": "99453274f5ef1b10e1c7ee944fbf7bda21255a8db5b2d914228595d6a823e5d5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168493",
+          "sourceUrl": "https://tokyofashion.com/harajuku-streetwear-shaved-heads-undercover-kobinai-oh-pearl-yosuke/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-28-013-001-Harajuku-DZ7-9573-.jpg",
+          "sha256": "b6e6f124de45524c1d484782af926fe61ef9bbcfe8fa3449060eabcf19776873",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167786",
+          "sourceUrl": "https://tokyofashion.com/japanese-minimalist-style-junya-watanabe-pleated-trench-coat-comme-des-garcons-asami-fujikawa/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-001-001-Harajuku-DZ7-5905-3.jpg",
+          "sha256": "7eadda637b713721b32a3d0230dddae8ed6d27d251f5cffad29d20d926f80849",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168222",
+          "sourceUrl": "https://tokyofashion.com/tokyo-street-styles-color-camo-pants-more-than-dope-chrome-hearts-nike/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-029-001-Harajuku-DZ7-7327-2.jpg",
+          "sha256": "b11782a5d6ab1bf8d61c95eff0a79b1e7a4c63bc8f296673d3bc3249abbe7e9a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167996",
+          "sourceUrl": "https://tokyofashion.com/kawaii-tokyo-styles-colorful-hair-decora-clips-acdc-rag-yru-yoshida-beads/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-016-001-Harajuku-DZ7-6569-2.jpg",
+          "sha256": "909316cc4b6ee4925089e5113aba41ab18887954d1ae8bb4fc63d4b570003b90",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167941",
+          "sourceUrl": "https://tokyofashion.com/body-modification-artist-harajuku-w-split-tongue-tattoos-philipp-plein-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-012-001-Harajuku-DZ7-6381.jpg",
+          "sha256": "c743e77f1bd7ceccc1fb71e341105be09f8ecb72ca7abae13c661508b91b097a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168043",
+          "sourceUrl": "https://tokyofashion.com/tokyo-streetwear-piercings-remake-fashion-romantic-standard-focus-john-lawrence-sullivan-yosuke/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-018-002-Harajuku-DZ7-6757_1.jpg",
+          "sha256": "4eb2f44eb9b4781f29f6ff3d8fec7c5f4409c164ba5955ccf832877874d1027e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167661",
+          "sourceUrl": "https://tokyofashion.com/harajuku-styles-nirvana-in-utero-tattoo-john-lawrence-sullivan-kidill-esc-studio/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-013-001-Harajuku-DZ7-4077-3.jpg",
+          "sha256": "74d73fd55f3252b69616a273e26837ce474a01c5561ecb02538f95a861fbf43b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167966",
+          "sourceUrl": "https://tokyofashion.com/vintage-japanese-kimono-street-style-printed-headscarf-oriental-traffic-loafers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-014-001-Harajuku-DZ7-6477.jpg",
+          "sha256": "1bd7e3dbf6b5e9701772859f566ae2212aedda435e6acc4bf86b2416d93da2a3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168989",
+          "sourceUrl": "https://tokyofashion.com/sleek-japanese-streetwear-fashion-w-comme-des-garcons-homme-plus-ss2010-vest-shorts-uniqlo-cdg-coat-net-shirt-ys-maxi-skirt-tokyo-bopper-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-008-001-Harajuku-DZ7-9996-2.jpg",
+          "sha256": "0c541928942dd18cd163f5bf434cadfd5bf55104139cb650e09ee41e1fc57d03",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168020",
+          "sourceUrl": "https://tokyofashion.com/harajuku-guys-styles-marithe-francois-girbaud-cote-mer-new-order-dr-martens/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-017-001-Harajuku-DZ7-6671-2.jpg",
+          "sha256": "99936d6d478fd955334d217c0af75750c7a0ef8be67713ca2effc5ecd8b3a65d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168967",
+          "sourceUrl": "https://tokyofashion.com/harajuku-style-w-mms-sweater-dress-grommet-belt-remake-suede-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-006-001-Harajuku-DZ7-9911-2.jpg",
+          "sha256": "c6e236299245f773d7352e445a0c0bf509bb1c0f92f97b35f709643c4bdfd980",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168903",
+          "sourceUrl": "https://tokyofashion.com/tokyo-streetwear-styles-w-blonde-bob-geometric-sunglasses-hm-mesh-shirt-faith-tokyo-flame-shirt-demonia-me-harajuku-chicago-waist-bag/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-002-001-Harajuku-DZ7-9666-2_1.jpg",
+          "sha256": "ad0765cd9021a93f5d1d3005846a64590cef8b8732a477d73f26d28867e3bbf9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168954",
+          "sourceUrl": "https://tokyofashion.com/pink-tokyo-fashion-w-fringed-bob-kobinai-off-the-shoulder-ruffle-top-graphic-print-satin-pants-100-yen-shop-chains-yosuke-platform-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-005-001-Harajuku-DZ7-9869-2.jpg",
+          "sha256": "1f8277575f2f50c9b454496f9c4ad640492d9b6f3e9b1541f205a20834e8440c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169100",
+          "sourceUrl": "https://tokyofashion.com/monochrome-harajuku-streetwear-w-twin-tails-round-glasses-civarize-choker-sex-pot-revenge-flared-top-hm-plaid-skirt-ouija-board-bag-killstar-platforms/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-013-002-Harajuku-DZ7-0371-2_1.jpg",
+          "sha256": "6378b559a988a1d0a391ab2edd5e5ecd7822803bfc3aca1bdbd8f5f2bb01b008",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169075",
+          "sourceUrl": "https://tokyofashion.com/casual-harajuku-street-style-w-gold-bling-jewelry-azs-tokyo-pain-flame-beanie-pleasures-t-shirt-marithe-francois-girbaud-chrome-hearts-dog-harajuku-nacht-dr-martens-x-new-order-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-011-002-Harajuku-DZ7-0297-2.jpg",
+          "sha256": "b16cc4ba6d5303f972d5806a0f2ab22b38aa955784efeedf092b48161f16ac93",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168976",
+          "sourceUrl": "https://tokyofashion.com/japanese-asymmetrical-street-fashion-w-purple-bob-cote-mer-sweatshirt-one-legged-jeans-skull-bag-reebok-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-007-001-Harajuku-DZ7-9935-2.jpg",
+          "sha256": "7dac3a1ba44a0b7bcad0a823720c2e100d75347f3c46383da1f5da7ef16f405d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168941",
+          "sourceUrl": "https://tokyofashion.com/eclectic-tokyo-street-style-w-sports-jersey-hm-floral-shirt-remake-pinstripe-pants-spider-man-backpack-winnie-the-pooh-sling-puma-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-22-004-001-Harajuku-DZ7-9808-2_1.jpg",
+          "sha256": "1babf7682c91982119ddc17a650beeb106b85dc27c1b59b6901f75c32f674475",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168176",
+          "sourceUrl": "https://tokyofashion.com/rainbow-harajuku-street-style-pink-purple-glitter-platform-butterfly-wing-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-026-003-Harajuku-DZ7-7139_1.jpg",
+          "sha256": "1602fe4f5a3946ff2615f1ca96682328d27c021e3dc02538db7f96aaad8bc126",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167561",
+          "sourceUrl": "https://tokyofashion.com/street-harajuku-bunny-ears-angelic-pretty-nile-perch-miu-miu-nannan-special-rosemarie-seoir/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-006-001-Harajuku-DZ7-3836.jpg",
+          "sha256": "8568c7e69627034e40f3b59e19e8865b9bdf9a10b3d5aeff1e19e2576813fe12",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167916",
+          "sourceUrl": "https://tokyofashion.com/rinrin-doll-harajuku-street-style-michiko-london-rurumu-skirt-pom-pom-earrings-puma/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-010-001-Harajuku-DZ7-6295.jpg",
+          "sha256": "9941d68bcef355051183cddfdf675766c113000aaab3e0b91db944f8d6c3b310",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167931",
+          "sourceUrl": "https://tokyofashion.com/cris-miranda-fashion-harajuku-pink-blue-hair-tattoos-stripes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-011-001-Harajuku-DZ7-6344.jpg",
+          "sha256": "00b2df868df1b52b098e90440103c9912c8ec00c73cca2bdb4c604cd091118c9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167873",
+          "sourceUrl": "https://tokyofashion.com/japanese-student-style-graphic-codona-de-moda-top-comme-des-garcons-remake-pants-alien-bag/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-008-001-Harajuku-DZ7-6171.jpg",
+          "sha256": "70821516bdb12d1bbb7be9a49aab6140c8fbd9f8c3d0327ca91fc86d7f489b61",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167796",
+          "sourceUrl": "https://tokyofashion.com/japanese-designer-harajuku-dress-dior-shelly-de-titi-harness-e-hyphen-world-gallery-bonbon/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-05-12-002-002-Harajuku-DZ7-5950_1.jpg",
+          "sha256": "1247c161f57f407ae0ccff2a67ab0669570c78c9d8163bb8ecbb48bc642989d4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167769",
+          "sourceUrl": "https://tokyofashion.com/minimalist-monochrome-style-tomorrowland-maison-margiela-issey-miyake-origami-bag/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/Harajuku-Street-Fashion-20190217DZ74027.jpg",
+          "sha256": "db564a9dd53d1ea85253ce4017c5670374b50c2591c1cf64eae95a41cbf324bf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167756",
+          "sourceUrl": "https://tokyofashion.com/harajuku-street-style-flame-handkerchief-high-waist-pants-white-demonia-platforms/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/Harajuku-Street-Style-Umbrella-20190615D585986.jpg",
+          "sha256": "4118d92f60f53d2bfffc85e0807e064bf6a087d3514a0ebe7dc05695e8f15e20",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168605",
+          "sourceUrl": "https://tokyofashion.com/street-fashion-in-tokyo-w-pink-curls-heiligtum-strap-robe-graphite-shirt-ripped-fishnets-killers-accessories-shibuya-109-platforms/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-16-022-001-Harajuku-DZ7-8761-2_1.jpg",
+          "sha256": "1e1bbf7c5ba30a38a9a7ea29d7cbe1bc19b3234076976dd61fef17bc738d2b66",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167708",
+          "sourceUrl": "https://tokyofashion.com/faith-tokyo-unif-ader-error-oh-pearl-bubbles-harajuku/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-016-001-Harajuku-DZ7-4199.jpg",
+          "sha256": "d51b0f5991affa9ab3bd96a36e47ea07b1a69e33a00e64f799eb6c68771ba2ba",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166559",
+          "sourceUrl": "https://tokyofashion.com/odango-hairstyle-vintage-kimono-miho-matsuda-dress-spiny-cream-dolls-kill-killstar/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-07-004-001-Harajuku-DZ7-8873.jpg",
+          "sha256": "94891b95bef4a68a4a4bf20dc2feb225cecc66a903aa89bd72ca245d63cab217",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166930",
+          "sourceUrl": "https://tokyofashion.com/vintage-kimono-corset-top-hat-new-rock-cowboy-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-21-002-001-Harajuku-DZ7-4768.jpg",
+          "sha256": "d650ea104b592e1052fbd3cfa8e94fb7a8cff1aa36efa9aabc0a363e405c21fe",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167585",
+          "sourceUrl": "https://tokyofashion.com/harajuku-streetwear-grateful-dead-shirt-hand-painted-graffiti-jeans-nacht-dr-martens/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-007-001-Harajuku-DZ7-3891_1.jpg",
+          "sha256": "b76191a24f850ff44e3fd836854d697f34dce3f71b22ae7b4e470bb08e58217d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167650",
+          "sourceUrl": "https://tokyofashion.com/balmung-tokyo-street-style-swimmer-6dokidoki-karl-helmut-ok/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-012-002-Harajuku-DZ7-4058.jpg",
+          "sha256": "3092b296d474f7e520c00bfa0aeb0f50d586d8683ea11e5d7bfff834f8bb5c01",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167202",
+          "sourceUrl": "https://tokyofashion.com/monochrome-harajuku-style-adhoc-rope-top-trippen-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-27-003-001-Harajuku-DZ7-5673-2.jpg",
+          "sha256": "05cad5af26b432d9a16bd9bdb26187b7c21729c4b889aa2f17d962c6c104b4ce",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171307",
+          "sourceUrl": "https://tokyofashion.com/all-green-menswear-street-fashion-in-harajuku-w-ombre-green-hair-sears-corduroy-blazer-allege-mint-shirt-polka-dot-necktie-ttt_msw-pants-san-to-nibun-no-ichi-eytys-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-021-001-Harajuku-DZ7-7333-2.jpg",
+          "sha256": "856daf7447d2192ac90efb5ad004fe6426cc40edbf91fb4fb84035b8804b8bc2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167374",
+          "sourceUrl": "https://tokyofashion.com/vintage-sheer-pastel-harajuku-styles-pink-hair-etsuna-otsuka-fashion-rosemarie-seoir-theatre-products/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-27-015-003-Harajuku-DZ7-6217-.jpg",
+          "sha256": "2d6d821f645da95389edce3e8fafa321d388152595d93f2a6867d3ccbc591c55",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171354",
+          "sourceUrl": "https://tokyofashion.com/all-blue-remake-streetwear-style-w-printed-umbrella-floral-print-scarf-shirt-dress-straw-bag-slingback-sandals/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-024-001-Harajuku-DZ7-7486-4.jpg",
+          "sha256": "4832a614230b0d8cf7fe1f2c85c1a74e595b213c30f3ab109aa2f945878e03c5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171327",
+          "sourceUrl": "https://tokyofashion.com/streetwear-style-by-heiligtum-designer-w-ombre-hair-spiked-choker-vintage-jacket-wraparound-plaid-skirt-rimrock-underground-creepers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-023-001-Harajuku-DZ7-7409_1.jpg",
+          "sha256": "4fe67aacf43ed0daf064ad22155c933ce143790897811f2f764fb5d29c6d1d2b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171315",
+          "sourceUrl": "https://tokyofashion.com/japanese-vintage-fashion-buyer-model-in-vivienne-westwood-streetwear-style-w-safety-pin-cheek-piercing-tripp-nyc-cropped-jacket-printed-tunic-dress-sheer-stockings-rocking-horse-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-022-001-Harajuku-DZ7-7373.jpg",
+          "sha256": "819537eab28b80f2eab8264cc80370c1c32902c99103f742f71557743d183d82",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171275",
+          "sourceUrl": "https://tokyofashion.com/all-black-harajuku-duo-street-styles-w-ombre-pink-hair-azs-tokyo-graphic-print-shirts-pleather-skirt-pants-nacht-emoda-platforms-dr-martens-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-019-001-Harajuku-DZ7-7225-.jpg",
+          "sha256": "777ec4cee3000e2fcc9732b893da88f598c43e2c02f11cc47a6d57d9f0255531",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171264",
+          "sourceUrl": "https://tokyofashion.com/harajuku-streetwear-w-blue-twin-tails-cross-necklace-me-harajuku-24karats-sweater-balenciaga-sling-ugg-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-018-001-Harajuku-DZ7-7186.jpg",
+          "sha256": "bd00d3d09d7a41887e3c35b6b44d4308b80bdc54979ca60545f85cb997250ec3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171221",
+          "sourceUrl": "https://tokyofashion.com/harajuku-streetwear-styles-w-mazohyst-clear-choker-ragged-jeans-rainbow-shirt-kobinai-sweater-sacred-hawk-chain-top-romantic-standard-dr-martens-demonia-thigh-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-015-001-Harajuku-DZ7-7080-2.jpg",
+          "sha256": "1d7cc9172c9da191aa5deb1ec2e60171fe936f424e26e8c34416d4a2397073f5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171189",
+          "sourceUrl": "https://tokyofashion.com/japanese-kawaii-streetwear-styles-w-hair-falls-tinsel-boas-balloons-water-guns-ali-express-leopard-top-wego-pleated-skirt-yru-rainbow-sneakers-kobinai-ruffled-top-thank-you-mart-furry-bag-d/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-014-001-Harajuku-DZ7-6943.jpg",
+          "sha256": "ec164a1dc49fe6acf15290f8dcc8f2f8ed36f29ef68c685fe7fe35d8d6becad6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171156",
+          "sourceUrl": "https://tokyofashion.com/japanese-couples-colorful-street-styles-w-kangol-hat-nincompoop-capacity-cross-colours-tokyo-bopper-mismatched-sneakers-united-colors-of-benetton-bag-ripped-pants-denim-tote/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-013-001-Harajuku-DZ7-6892-2.jpg",
+          "sha256": "ed6b8fa1bc2542385ab01134461d689672a8d88732739ac04ed379997579d1fa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171173",
+          "sourceUrl": "https://tokyofashion.com/strawberry-print-hoodie-tall-boots-harajuku-street-style-w-acdc-rag-village-vanguard-yosuke-ankorock/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-012-001-Harajuku-DZ7-6852-2_1.jpg",
+          "sha256": "a22a3857850d56fa826a220f2b618b3a653f02e0b48ec17df0f000b316c36608",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171144",
+          "sourceUrl": "https://tokyofashion.com/red-black-menswear-street-fashion-w-black-mask-burberry-trench-coat-hare-notch-wide-leg-pants-saad-necklaces-bella-by-bella-tabi-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-011-001-Harajuku-DZ7-6815-2.jpg",
+          "sha256": "2fffd19a63ddd13cdb1e63db6767990aec8686f2125a406cc41b530d20e9426b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171135",
+          "sourceUrl": "https://tokyofashion.com/tokyo-vintage-street-style-w-bao-bao-issey-miyake-pierre-hardy/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-010-001-Harajuku-DZ7-6793-2.jpg",
+          "sha256": "61d440c4dbd097e8d9b3846556c38cb80a594ccea63f2ca64d1b7d0ed4b0889b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171093",
+          "sourceUrl": "https://tokyofashion.com/japanese-model-street-style-w-bucket-hat-white-pants-ggd-dr-martens/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-008-001-Harajuku-DZ7-6683-2.jpg",
+          "sha256": "3dd06f97da4819d7cf7709576ab67fb0af6c9c9d213b9e647477cb57a4392ec9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171091",
+          "sourceUrl": "https://tokyofashion.com/americana-themed-streetwear-style-in-harajuku-w-denim-bucket-hat-gallerie-hoop-earrings-tommy-hilfiger-stars-stripes-shirt-mms-backpack-converse-suede-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-007-001-Harajuku-DZ7-6646-2.jpg",
+          "sha256": "b4605373313fff6b0f699493211fdb81e078a6f8c547b20d47296183165e5df5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-171039",
+          "sourceUrl": "https://tokyofashion.com/harajuku-style-w-red-hair-fishnet-sleeves-x-large-forever-21-bershka-wego/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-004-001-Harajuku-DZ7-6477_1.jpg",
+          "sha256": "dcb365558a4b75c1572c5a3d1ace87e43886362ced0a415ca197167e0414daf4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170978",
+          "sourceUrl": "https://tokyofashion.com/tokyo-vintage-remake-streetwear-style-w-ripped-jeans-fringe-bag-wego-dr-martens-yu-gi-oh/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/08/NK-2019-06-09-001-001-Harajuku-DZ7-6370-3.jpg",
+          "sha256": "5f167d65b46f6d0dcc14d36f3d4965561c1e49de61c41f911a5d04746460d9bf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168674",
+          "sourceUrl": "https://tokyofashion.com/japanese-street-style-w-blue-hair-myob-cuffed-overalls-gallerie-bigotre-clasp-bag-eytys-grommet-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-003-001-Harajuku-DZ7-5753.jpg",
+          "sha256": "1333a94d9315e53d4753f073c8dcf11aa2e1351a02e2103c4dfc5b7bfd10ef4b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168664",
+          "sourceUrl": "https://tokyofashion.com/all-black-style-w-fringed-bob-lace-gloves-peter-pan-collar-shirt-drug-honey-flocked-skirt-heeled-baby-doll-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-002-001-Harajuku-DZ7-5722-2.jpg",
+          "sha256": "fe6cf31d1e5c3df091d75d9646fde8c021b7224f0b47091820e7640f4a3524e4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165729",
+          "sourceUrl": "https://tokyofashion.com/rainbow-decora-style-harajuku-handmade-tomoe-shinohara-doll-furry-leg-warmers-care-bears-sailor-moon-accessories/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-14-012-001-Harajuku-DZ7-2177.jpg",
+          "sha256": "4a808daf8a0bc35455d04645a9155030219d8a2cc2c901fa0a86af91edd554a4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168859",
+          "sourceUrl": "https://tokyofashion.com/heiligtum-remake-fashion-designers-streetwear-look-w-twin-tails-zipper-bow-necklace-jimsin-off-the-shoulder-top-plaid-skirt-fishnet-socks-underground-platform-creepers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-016-001-Harajuku-DZ7-6317-2.jpg",
+          "sha256": "ffec4a59a21399bf3e256332e8e967490262cb125d6f3811ca0955cfc429e3a0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168840",
+          "sourceUrl": "https://tokyofashion.com/vintage-fashion-buyer-in-harajuku-w-tall-mohawk-hair-blue-lipstick-heiligtum-shirt-dress-fishnet-tights-junya-watanabe-choker-buffalo-platform-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-015-001-Harajuku-DZ7-6222.jpg",
+          "sha256": "2a8921cb4a1a77de06b0b96af9c6c0707d12c05efbfde906828505c5b378bcc1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168817",
+          "sourceUrl": "https://tokyofashion.com/tokyo-eclectic-streetwear-style-w-heart-sunglasses-dog-harajuku-mandarin-collar-top-kobinai-satin-floral-print-pants-yosuke-lace-up-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-013-001-Harajuku-DZ7-6148_1.jpg",
+          "sha256": "8d61bbbfd3cfa98e2eee9ed6630d38b8e2a5d35f8cf6995540642b91adb4d568",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168807",
+          "sourceUrl": "https://tokyofashion.com/all-black-menswear-street-style-w-blunt-bob-red-sunglasses-ys-red-label-belted-jacket-zara-notch-wide-leg-pants-florida-y-3-saad-silver-bella-by-bella-tabi-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-012-001-Harajuku-DZ7-6120-2.jpg",
+          "sha256": "24d89ea668faf6e57a3c6fb67721342190b016c5e97a20563ee2a3fe87139162",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168769",
+          "sourceUrl": "https://tokyofashion.com/cross-colors-street-fashion-w-newsboy-cap-champion-hoodie-striped-button-fly-pants-adidas-suede-sneakers-palladium-x-smiley-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-010-001-Harajuku-DZ7-5974-2.jpg",
+          "sha256": "a51e9859b31b184ff327000ded07cb70cd536f6961d7ad4657452e780611d9fe",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168737",
+          "sourceUrl": "https://tokyofashion.com/harajuku-teens-street-style-w-orange-beanie-utility-vest-black-eye-patch-flared-pants-hawkins-suede-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-008-001-Harajuku-DZ7-5918-_1.jpg",
+          "sha256": "fba79724a789c9603ea8a85a676370a2993d6a0d94b161afa367e3d07d2b25c0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168702",
+          "sourceUrl": "https://tokyofashion.com/all-black-sporty-chic-style-in-harajuku-w-oversized-hoop-earrings-24h-party-asymmetrical-strap-shirt-champion-cap-rick-owens-thigh-high-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-005-001-Harajuku-DZ7-5828-2_1.jpg",
+          "sha256": "fa1098315f11faec25ed0e14d9bae80924e90137b234648f634d32c150134277",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168690",
+          "sourceUrl": "https://tokyofashion.com/all-black-tokyo-street-style-w-ash-hair-kawi-jamele-high-low-shirt-zara-faux-leather-shorts-hm-gallerie-yosuke-lace-up-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-004-001-Harajuku-DZ7-5789-2.jpg",
+          "sha256": "d72f43c81ef1105b8d6682975934c4a7e354ec8982a73194d8d1c04c8ad3e06e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-168652",
+          "sourceUrl": "https://tokyofashion.com/harajuku-street-style-w-red-hair-printed-scarf-denim-cowboy-shirt-remake-fringed-jeans-crossbody-bag-yosuke-snakeskin-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-06-08-001-001-Harajuku-DZ7-5692_1.jpg",
+          "sha256": "010dcb96845b7d78c673e781244c0c6a3ad5a5e87218918453e5bc203fa90d80",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167417",
+          "sourceUrl": "https://tokyofashion.com/tokyo-esc-studio-dyog-faith-tokyo-lv-coach/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-27-018-001-Harajuku-DZ7-6407.jpg",
+          "sha256": "556d8c98847f8f48a601470191dfc2949a68720e30984160b0ae0664504ad8a0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167391",
+          "sourceUrl": "https://tokyofashion.com/amni-fashion-designer-harajuku-bodysong-sailor-hat-kotohayokozawa/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-27-016-001-Harajuku-DZ7-6255-2.jpg",
+          "sha256": "0151a4d0c9ea3bad002fe80b86c91cf25a8df0937dadc9a1f8e48391f4b2c016",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167172",
+          "sourceUrl": "https://tokyofashion.com/pikachu-style-harajuku-pickachu-mask-hoodie-plushies-pikachu-tail/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-27-001-001-Harajuku-DZ7-5552-2_1.jpg",
+          "sha256": "35788cd7b35385b6865f9142b4ae1f5ed5a5fba7db85e267294cd633485ed3b6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167337",
+          "sourceUrl": "https://tokyofashion.com/harajuku-fashion-irene-japan-sleeveless-suit-mihara-yasuhiro-margiela-tabi-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-27-012-002-Harajuku-DZ7-6081-2.jpg",
+          "sha256": "5bd96561a304c01c6204840a5ea3578ff79a72aeb4e3fcdcfa50aeda8d6605d9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167281",
+          "sourceUrl": "https://tokyofashion.com/artist-harajuku-neck-tattoo-floral-knit-cardigan-a-bathing-ape-dr-martens/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-27-008-001-Harajuku-DZ7-5919-2.jpg",
+          "sha256": "140f5700716016f4d504d2136e8de58ab2795a0285cff868bf1702919aa55824",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166807",
+          "sourceUrl": "https://tokyofashion.com/tokyo-street-styles-uf9193-oy-demonia-pinnap-rrr-wego/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-07-020-001-Harajuku-DZ7-9842-.jpg",
+          "sha256": "49718c96e730d85ebe4686b1116a07afe993a7126f7c8c63933623c79c147e9f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166892",
+          "sourceUrl": "https://tokyofashion.com/kawaii-harajuku-squad-street-styles-pink-hair-sheer-pastel-fashion-cabbage-patch/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-21-009-001-Harajuku-DZ7-5062.jpg",
+          "sha256": "82d837ce46924647860350a6e6717ae8f2938276c2fbd451635ea677a12abc3d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166878",
+          "sourceUrl": "https://tokyofashion.com/japanese-streetwear-codona-de-moda-oh-pearl-kobinai-milkfed-white-demonia-platforms/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-04-21-001-001-Harajuku-DZ7-4705_1.jpg",
+          "sha256": "49f062c6efe4d67e8f7852d967be0d2ec7a55b06dde8a2979ee9f27a5985019a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166655",
+          "sourceUrl": "https://tokyofashion.com/kawaii-harajuku-hadeko-street-styles-fuzzy-monster-hat-heart-glasses/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-07-011-002-Harajuku-DZ7-9177.jpg",
+          "sha256": "aaf1d8b23cdb962bc18b6ceff85fe22e00ef02f8775e44f0f7f368eccf3e2a57",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167480",
+          "sourceUrl": "https://tokyofashion.com/harajuku-street-styles-w-jouetie-reptile-print-dress-john-lawrence-sullivan-prada-timberland-cutout-boots-maison-margiela-tabi-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-001-001-Harajuku-DZ7-3599.jpg",
+          "sha256": "fd5eecc5b50a1183edaf20a5d6b771bc43770a31ab9f8efd3ef874b90c913688",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167499",
+          "sourceUrl": "https://tokyofashion.com/tokyo-style-w-two-tone-hair-paul-smith-jun-inagawa-x-bish-comme-des-garcons-murakami-flower-bag-vaquera-whistle-necklace-nike-x-martine-rose-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-002-001-Harajuku-DZ7-3654.jpg",
+          "sha256": "fe147d7d186dcf9f67036a055533daa80c69fcf51928759e2b96ff17a2258177",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167510",
+          "sourceUrl": "https://tokyofashion.com/japanese-streetwear-style-w-cecil-mcbee-tank-top-one-spo-mesh-top-gallerie-cowboy-strap-pants-moschino-sexy-rhinestone-necklace-nike-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-003-001-Harajuku-DZ7-3691_1.jpg",
+          "sha256": "7082192c4d3b64acc593e52b0a2072708d22ee43d2153fd27191c22e09b9bc12",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167524",
+          "sourceUrl": "https://tokyofashion.com/harajuku-guys-streetwear-styles-w-dog-harajuku-marques-alemida-flared-pants-lrs-sheer-top-maison-margiela-dragon-platform-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-004-001-Harajuku-DZ7-3748-2.jpg",
+          "sha256": "fab5c060354949adfaab43bf7e5b35d65d1f7179aa33eb920754b8d632b1e826",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167544",
+          "sourceUrl": "https://tokyofashion.com/multicolored-hair-algonquins-tiered-blouse-cloud-print-pants-quilted-bag-6dokidoki-dr-martens-glitter-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-005-001-Harajuku-DZ7-3795-3.jpg",
+          "sha256": "568c7294314e6b2bdde589d333e8f4ec647da7cc9c75957b1d241b1a4cdcfe7a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167601",
+          "sourceUrl": "https://tokyofashion.com/harajuku-street-style-w-visor-glasses-floral-shirt-comme-des-garcons-undercover-palm-angels-bag-paul-smith/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-008-001-Harajuku-DZ7-3924.jpg",
+          "sha256": "dab26acf7f255d9aa1cc9801ebc56ace724948b33199cb385548d05a7ff7c831",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167612",
+          "sourceUrl": "https://tokyofashion.com/harajuku-fashion-w-rrr-tokyo-coat-7-more-pink-zebra-skirt-bubbles-little-sunny-bite-heeled-loafers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-009-001-Harajuku-DZ7-3946.jpg",
+          "sha256": "5890b65ba2d77f9e6e9726ca344b0cc49007cfb82870b3f75425dd94ca87810c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167621",
+          "sourceUrl": "https://tokyofashion.com/sushi-shop-staffer-in-harajuku-w-yellow-bob-never-desist-bucket-hat-gu-velvet-pants-geisha-print-tote-bag-pierre-hardy-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-010-001-Harajuku-DZ7-3981-2.jpg",
+          "sha256": "3e7ccd6a0c86d242d53bb6c73bc7de67d6ccdf999d4510c2697a9e0fdc47a0bd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167634",
+          "sourceUrl": "https://tokyofashion.com/harajuku-style-w-sheer-shirt-flat-suspenders-handmade-cutout-jeans-glitter-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-011-001-Harajuku-DZ7-4004_1.jpg",
+          "sha256": "83d819c4bd6610d4f0c28dd2107b77c9a83048713be09adf0efca5f39fddaf94",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167685",
+          "sourceUrl": "https://tokyofashion.com/monochrome-street-style-w-y-3-layered-shirts-ingni-long-skirt-saad-silver-bella-by-bella-tabi-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-014-001-Harajuku-DZ7-4146.jpg",
+          "sha256": "f591335c219d8a0fa3f5e5fac8d59166c6e80a23a5fcb919e2913a4bff44aa2d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-167695",
+          "sourceUrl": "https://tokyofashion.com/harajuku-street-fashion-w-spinns-bucket-hat-codona-de-moda-asymmetrical-sweatshirt-tie-dye-pants-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/06/NK-2019-06-01-015-001-Harajuku-DZ7-4158.jpg",
+          "sha256": "7db9e78e0ea907de375d499a4450ccf014ac8413bdfb519ad6bc65cbd2f13e4e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166614",
+          "sourceUrl": "https://tokyofashion.com/japanese-artist-bisuko-ezaki-aika-electronics-cyber-street-fashion/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-07-008-003-Harajuku-DZ7-9068-2_1.jpg",
+          "sha256": "6cb6f326de7de0ec6024ca23d9e4d49bf4980ed1228d2407c0b960c7be72cfd9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166775",
+          "sourceUrl": "https://tokyofashion.com/japanese-streetwear-remake-eytys-codona-de-moda-warp-never-mind-xu-mom-i-love-fashion/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-07-023-001-Harajuku-DZ7-0012-2.jpg",
+          "sha256": "c6fdfba8cf8bd19bce5e5b122ad40298eba494ab82a906e0cd6db2b2772f8836",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166284",
+          "sourceUrl": "https://tokyofashion.com/plush-rabbit-pink-hair-sheer-axes-femme-harajuku-style/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-20-023-001-Harajuku-DZ7-4473.jpg",
+          "sha256": "bb2c787493630cc5872f788f62642bd328be9f3de30863afef23f50a463c016c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166231",
+          "sourceUrl": "https://tokyofashion.com/minimalist-fashion-long-bangs-hairstyle-tokyo-marc-le-bihan-jacket/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-20-013-003-Harajuku-DZ7-3575_1.jpg",
+          "sha256": "6e28f64a0129a04f54783aa130305432d0c2a9ac51aa305a04f74f4fc0bbd952",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165749",
+          "sourceUrl": "https://tokyofashion.com/japanese-remake-fashion-harajuku-skirt-made-of-dress-shirts/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-14-013-001-Harajuku-DZ7-2341-3.jpg",
+          "sha256": "418abf08428c900b144ea328b869c26d041d3038807d371e94304d476c79830a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165330",
+          "sourceUrl": "https://tokyofashion.com/tokyo-streetwear-zara-never-mind-the-xu-snakeskin-pants-choker-chain-attagirl/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-08-010-001-Harajuku-DZ7-0955-2.jpg",
+          "sha256": "9983f7af142716d4568c49a276eb6f13bc1def960b18e48432c20c8dcedddb59",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166264",
+          "sourceUrl": "https://tokyofashion.com/all-pink-harajuku-street-style-bob-hairstyle-vintage-blouse-nadia/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-20-014-001-Harajuku-DZ7-3665.jpg",
+          "sha256": "2aca1f0c59a567783271e29eac3b6833191598b7cf1cd41d27e437fe9b253f00",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166088",
+          "sourceUrl": "https://tokyofashion.com/vintage-equestrian-inspired-japanese-street-style-red-eye-makeup-lace-red-gloves-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-20-003-002-Harajuku-DZ7-3053-2.jpg",
+          "sha256": "b9fe0f5da8c6165cf453c089d518934447b050b9d238c067faaff4e1d41da2cf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166115",
+          "sourceUrl": "https://tokyofashion.com/colorful-harajuku-styles-kobinai-graphic-fashion-decora-hair-clips-spinns-necklaces/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-20-005-002-Harajuku-DZ7-3131.jpg",
+          "sha256": "8579d4800f987e4536678d994343b583883cc970c0a0f7becc5fa42861f529e7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170559",
+          "sourceUrl": "https://tokyofashion.com/harajuku-street-style-w-red-contacts-twin-tails-glavil-by-tutuha-leather-choker-super-lovers-plaid-dress-restrange-tote-bag-demonia-skeleton-baby-doll-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-039-001-Harajuku-DZ7-3419.jpg",
+          "sha256": "45e03d91708174a811eb00bea17acfe609f8d44ccfa251246004584c051d7eb6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170585",
+          "sourceUrl": "https://tokyofashion.com/japanese-street-fashion-w-tie-dye-shirt-mouse-slit-patchwork-jeans-precious-junk-sling-paul-smith-striped-sweatshirt-wide-leg-jeans-eytys-nike-platform-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-041-001-Harajuku-DZ7-3513.jpg",
+          "sha256": "0d5035c2e12f35e69215c5b6dbae3740e66c8024d03c09cc72c22c31c86bbdaa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170507",
+          "sourceUrl": "https://tokyofashion.com/harajuku-models-casual-streetwear-w-acne-studios-sunglasses-king-size-leather-jacket-n-hoolywood-levis-ripped-jeans-diesel-backpack-asics-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-036-001-Harajuku-DZ7-3243-2.jpg",
+          "sha256": "0839d0c36d6ccb21c14dc18fc154378b79662b9e00009727287fb2fcb4c8f446",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170392",
+          "sourceUrl": "https://tokyofashion.com/tokyo-style-w-red-sunglasses-black-coat-printed-shirt-never-mind-the-xu-alpen-1200-sling-bag-never-mind-the-xu-platforms/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-030-001-Harajuku-DZ7-2750.jpg",
+          "sha256": "c7c03a9602a97a54afbdbdbc955f0d25eb65b2e1740cf9bac778db1dc136ede5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170244",
+          "sourceUrl": "https://tokyofashion.com/pink-harajuku-style-w-curly-hairstyle-candy-stripper-two-tone-peter-pan-collar-dress-alice-on-wednesday-rings-pink-house-gingham-bag-a-yosuke-platforms/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-020-001-Harajuku-DZ7-2400-2.jpg",
+          "sha256": "dba03f722dbcf058021b89abf57b12ffb481f07eb03ca23baac0fd4c5e8a060a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170154",
+          "sourceUrl": "https://tokyofashion.com/all-black-layered-minimalist-street-styles-w-embroidered-kimono-kinji-fringe-dress-3-coins-yohji-yamamoto-dulcamara-ggo-mei-slingback-sandals-suede-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-014-001-Harajuku-DZ7-2188-2.jpg",
+          "sha256": "96acd7f1ff247a86260c07990440eeab26968f59d5cf04ab477c77a40239aba3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170076",
+          "sourceUrl": "https://tokyofashion.com/colorful-harajuku-streetwear-style-w-twin-tails-decora-hair-clips-resale-kimono-dempagumi-inc-floral-top-handkerchief-glitter-skirt-ladybug-backpack-yosuke-mint-platform-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-009-001-Harajuku-DZ7-1982-.jpg",
+          "sha256": "3ebce9bd22d1efb328d824332abe8fbe993e62715f36f594ba9c0d6d8d6c3b1a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169962",
+          "sourceUrl": "https://tokyofashion.com/harajuku-style-w-purple-headband-rainbow-shirt-tiered-skirt-glitter-chain-strap-bag-ok-platform-babydoll-glitter-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-002-001-Harajuku-DZ7-1685_1.jpg",
+          "sha256": "8e1dbd183ba0496787f2cf9dc8fd8ff8b48ae4d207432f94a9bc2ffd5f098d2f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169950",
+          "sourceUrl": "https://tokyofashion.com/pink-tokyo-street-style-w-braided-buns-pink-glasses-knit-vest-printed-shirt-cherokee-cuffed-pants-fringed-bag-yosuke-two-tone-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-001-001-Harajuku-DZ7-1663-2_1.jpg",
+          "sha256": "b1dec85d3638950f34dc470c17e6ba5e06c47bef821d5b06c25b1f7d5b19b244",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169972",
+          "sourceUrl": "https://tokyofashion.com/remake-streetwear-style-in-harajuku-w-decora-hair-clips-hand-painted-jumpsuit-dinosaur-bag-platform-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-003-001-Harajuku-DZ7-1709.jpg",
+          "sha256": "b77f46fb148b5df43af60933ad1cd9b2566b2fc8b210d0865959259317fb0ff9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170009",
+          "sourceUrl": "https://tokyofashion.com/red-black-street-style-in-harajuku-w-red-hair-kobinai-lips-print-shirt-bershka-plaid-pants-guess-belt-braided-belt-adidas-suede-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-005-001-Harajuku-DZ7-1801_1.jpg",
+          "sha256": "8fca5d8ae8e84726d93f23e3c36316fed3a5051a0d73b714ec8f98f938c61eb4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170059",
+          "sourceUrl": "https://tokyofashion.com/japanese-kimono-street-style-w-red-hair-floral-headpiece-cat-hair-mask-resale-kimono-ruffle-apron-killstar-glavil-magarama-suede-creepers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-008-001-Harajuku-DZ7-1954_1.jpg",
+          "sha256": "205d68378076fecf8253d22b65de5422078425b76efce74b351e8d0396adb6a7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170101",
+          "sourceUrl": "https://tokyofashion.com/all-black-harajuku-street-style-w-purple-hair-silk-headscarf-cat-eye-sunglasses-hare-t-shirt-lowrys-farm-dr-martens-heeled-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-010-001-Harajuku-DZ7-2058-2.jpg",
+          "sha256": "09c26373df682967efc506979131b514c3b4f3c2af1481234f5ff8c059810d33",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170115",
+          "sourceUrl": "https://tokyofashion.com/denim-pink-streetwear-style-in-harajuku-w-ash-grey-hair-vintage-print-t-shirt-dickies-long-shorts-disney-denim-vest-mms-backpack-nike-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-011-001-Harajuku-DZ7-2085.jpg",
+          "sha256": "7a511d9f8e582fcbe7a1b3f9333779c59b4ffead06a21cf8fe996304156ab321",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170127",
+          "sourceUrl": "https://tokyofashion.com/rainbow-harajuku-streetwear-fashion-w-twin-tails-dolls-kill-mesh-coat-kol-me-baby-cropped-top-leopard-shorts-daiso-handmade-accessories-acdc-rag-furry-backpack-yru-platforms/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-012-001-Harajuku-DZ7-2117_1.jpg",
+          "sha256": "d4ec38afdd8fd97fc3e9339e1ddeabd4d26aa27b37a3a5c87b417dc9c9452d0a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170141",
+          "sourceUrl": "https://tokyofashion.com/harajuku-style-w-twin-neon-tails-rose-eye-patch-bodyline-ruffle-skirt-ali-express-sheer-tights-kiki2-backpack-daiso-aika-electronics-bracelet-furry-sandals/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-013-001-Harajuku-DZ7-2150.jpg",
+          "sha256": "6bc1ac66588bc142c834b525f37b6f0b4b66d6aafcab9905cdf7793e07079f0e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170173",
+          "sourceUrl": "https://tokyofashion.com/japanese-models-graphic-print-streetwear-style-w-purple-hair-chain-earrings-cote-mer-sweatshirt-tie-dye-pants-dr-martens-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-015-001-Harajuku-DZ7-2248.jpg",
+          "sha256": "32423a489396e045e5263f8739f492b80f8859df82d43c69b022515aa0094f9e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170232",
+          "sourceUrl": "https://tokyofashion.com/all-black-tokyo-street-styles-w-colored-bobs-leather-chokers-colorful-tattoos-polka-dot-skirt-cut-off-shorts-fishnets-fur-slides-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-019-001-Harajuku-DZ7-2369.jpg",
+          "sha256": "eee1f1b6aa743b8663f07cde14bd8400f0d8b2d40e003cc713fa6ceddb83b6dd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170266",
+          "sourceUrl": "https://tokyofashion.com/harajuku-street-fashion-w-long-hair-kiki-sheer-robe-rrr-half-gingham-pants-wego-clear-bag-yosuke-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-022-001-Harajuku-DZ7-2468_1.jpg",
+          "sha256": "5369e5e4aaabb71deeeb6bb5b365d7dee4753e561841491b7449b96cfe431a6c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170310",
+          "sourceUrl": "https://tokyofashion.com/all-white-harajuku-streetwear-style-w-twin-blonde-tails-tattoo-choker-x-girl-shirt-sheer-maxi-skirt-wc-oh-pearl-sling-wego-metallic-sandals/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-024-001-Harajuku-DZ7-2557-2.jpg",
+          "sha256": "62205d87ac7d581afb850564f987b4afc38888b01f14a377cfa1341c7fc7a009",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170339",
+          "sourceUrl": "https://tokyofashion.com/japanese-teens-casual-monochrome-styles-w-goggles-second-street-leopard-blouse-yosuke-purple-boots-john-lawrence-sullivan-shirt-nodress-high-waist-pants-bigotre-bag-wego-gallerie-eytys-stu/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-026-001-Harajuku-DZ7-2628_1.jpg",
+          "sha256": "862cdf01a9e3a96a7b2fc5209a78145e502d8cdcb1fdfcdd9fdbcde5bd2a3fe3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170368",
+          "sourceUrl": "https://tokyofashion.com/eclectic-streetwear-look-in-tokyo-w-two-tone-fringed-bob-leopard-print-robe-chicago-bulls-jersey-bao-bao-issey-miyake-sling-zara-pointy-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-028-001-Harajuku-DZ7-2696.jpg",
+          "sha256": "21868d707705a64315c29449ee3e3c40a760ed60f7345f62153eba6db4b675c4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170418",
+          "sourceUrl": "https://tokyofashion.com/casual-street-look-in-harajuku-w-bucket-hat-pink-sunglasses-codona-de-moda-asymmetric-sweatshirt-paisley-print-pants-adidas-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-032-001-Harajuku-DZ7-2915.jpg",
+          "sha256": "ce3314a3f800e1a79c8aa2be8c1d64928128e89883b37f8fc561b8a58e10e083",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170431",
+          "sourceUrl": "https://tokyofashion.com/japanese-girls-casual-styles-w-twin-tails-kinji-lip-print-shirt-tie-dye-shirt-me-harajuku-sling-dolls-kill-yin-yang-backpack-converse-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-033-001-Harajuku-DZ7-2940.jpg",
+          "sha256": "b3d1d79826912937f28a1c3fe6b4ade9ec40183c8ded130001bc6b04d771a9c1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170451",
+          "sourceUrl": "https://tokyofashion.com/japanese-pop-idol-model-cosplayer-in-graphic-streetwear-w-teal-hair-hellcat-punks-beret-tokyo-punkidz-h-naoto-vivienne-westwood-x-buffalo-printed-platform-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-034-001-Harajuku-DZ7-2983-3.jpg",
+          "sha256": "270b1b46052d1395bd3b7f4430b971a1c4adc3602a385609f33bfa095f010898",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170546",
+          "sourceUrl": "https://tokyofashion.com/harajuku-streetwear-style-w-gold-collar-giorgio-armani-blazer-vintage-mt-rushmore-top-kenzo-jeans-heeled-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-038-001-Harajuku-DZ7-3368.jpg",
+          "sha256": "609d7cdb863442411be2a62ff0f7ebd629f60fd07e953c00a6ec3b6c869acf19",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170571",
+          "sourceUrl": "https://tokyofashion.com/casual-minimalist-streetwear-styles-in-harajuku-w-shaggy-hair-7-up-shirt-fila-cuffed-pants-zip-off-pants-reigen-arataka-leather-boots-pink-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-040-001-Harajuku-DZ7-3469_1.jpg",
+          "sha256": "76860ec8557f4b3bf92b96a001e5f290d6f9ad8bc41bd1b3c5bbcb72443a122d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-170608",
+          "sourceUrl": "https://tokyofashion.com/the-beatles-ripped-shirt-cosmic-wonder-distressed-jeans-vivienne-westwood-orb-belt-yosuke-loafers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-26-042-001-Harajuku-DZ7-3568.jpg",
+          "sha256": "0bc97c887ed886c723290afe11147102b9e9ad7515d3798f56e31a83da7603e6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165975",
+          "sourceUrl": "https://tokyofashion.com/harajuku-pink-hair-face-mask-military-vlone-beams-converse-vivienne-westwood/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-03-16-007-001-Harajuku-DZ7-2751-2.jpg",
+          "sha256": "1ef1485fa0e340406b3449474b7e04d5466a00198d0f67f5c0c64cd151946f8c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166211",
+          "sourceUrl": "https://tokyofashion.com/japanese-idol-harajuku-twin-tails-listen-flavor-cheongsam-top-faux-leather-skirt-yosuke/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-20-012-004-Harajuku-DZ7-3419-2.jpg",
+          "sha256": "e32d51032bf638397b178104d6ea0f6ede3936d3d3404a90bf9c607fa7855590",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166343",
+          "sourceUrl": "https://tokyofashion.com/harajuku-styles-red-cowboy-hat-miho-matsuda-demonia-killstar-hellcatpunks-kera/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-20-018-001-Harajuku-DZ7-3928-2.jpg",
+          "sha256": "5b893017c3a9cae95818f7ff437ae1db8203b316919d0cb12bd8f259db258fd6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-166385",
+          "sourceUrl": "https://tokyofashion.com/vegetable-izakaya-chef-harajuku-fruits-street-style-japanese-prints/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-20-026-001-Harajuku-DZ7-4585_1.jpg",
+          "sha256": "598e6e17415005d700d934c7a26fddc507e4813935ed3f8c04ae0af075f43f12",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165622",
+          "sourceUrl": "https://tokyofashion.com/rainbow-bangs-shaved-hairstyle-colorful-harajuku-style-funktique-tokyo-vintage/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-14-002-001-Harajuku-DZ7-1741.jpg",
+          "sha256": "1744d7ba79b576fb056657b8461003aa859eb3ac26ca27f5d42aec35d47ff9fd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165888",
+          "sourceUrl": "https://tokyofashion.com/japanese-pop-harajuku-twin-tails-sinz-guitar-amp-bag-vivienne-westwood/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-03-16-003-004-Harajuku-DZ7-2520.jpg",
+          "sha256": "1e1a151826f657b29c704b7e12122ce35e8e9d483f91029b3fd09d1123745060",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165664",
+          "sourceUrl": "https://tokyofashion.com/japanese-model-vintage-streetwear-style-champion-adidas/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-14-007-001-Harajuku-DZ7-1955.jpg",
+          "sha256": "10980fb2d9574a5ab1625b69a7ca8a76d95dfddd783174fe28cfd3f2290930c7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165677",
+          "sourceUrl": "https://tokyofashion.com/harajuku-couple-colorblock-styles-w-bowler-hat-punk-cake-dr-martens-loafers-kinji-sometimes-store/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-14-009-001-Harajuku-DZ7-2031.jpg",
+          "sha256": "6691abdcf0c639b4e6dfa97e29436fdbac33304b8db66536816ccaad0ba487d7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165807",
+          "sourceUrl": "https://tokyofashion.com/harajuku-street-style-avant-garde-fashion-metal-tubing/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-14-017-002-Harajuku-DZ7-2598.jpg",
+          "sha256": "cdcdf18574dc0fd68ec28210871076bb5fbdcd4cf49c0651f1c3709cc563d7eb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165825",
+          "sourceUrl": "https://tokyofashion.com/san-to-nibun-no-ichi-pink-house-harajuku-marching-band-jacket/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-14-018-001-Harajuku-DZ7-2825.jpg",
+          "sha256": "ddf5c442d0a28d4e09e7d81cf348c54f1649dd80f10f17ea07b0749f1701958a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-165594",
+          "sourceUrl": "https://tokyofashion.com/harajuku-street-styles-broke-city-gold-denim-jacket-patched-pants-tripp-nyc-coat-marithe-francois-girbaud/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/05/NK-2019-04-14-001-001-Harajuku-DZ7-1624.jpg",
+          "sha256": "6cbc7f698f0216001c035d35589928e545be127e5a609e70d5bd55de3f3b5f54",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169586",
+          "sourceUrl": "https://tokyofashion.com/harajuku-vintage-pastel-fashion-w-pink-hair-gunne-sax-ruffle-dress-sheer-maxi-skirt-gunifuni-sheepskin-plushie-bag/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-027-001-Harajuku-DZ7-8611_1.jpg",
+          "sha256": "be14488ceaf27a48046727ce5c9f0706878f9401f40b83ea6073e13114e2e78e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169634",
+          "sourceUrl": "https://tokyofashion.com/tokyo-monochrome-streetwear-styles-w-twin-blonde-buns-disturbia-clothing-dress-audrey-and-john-wad-drug-honey-romantic-standard-top-listen-flavor-out-of-the-world-platforms/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-031-001-Harajuku-DZ7-8762-2.jpg",
+          "sha256": "74c0b41130126b1833bf7a7eaffdd0bd25383dd70ab352016f1e64ee3b44fd19",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169767",
+          "sourceUrl": "https://tokyofashion.com/japanese-streetwear-fashion-w-twin-braids-ac-dc-shirt-fringed-asymmetric-top-faith-tokyo-flared-pants-demonia-kinji-gallerie-track-pants-puma-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-039-001-Harajuku-DZ7-9175_1.jpg",
+          "sha256": "329d31709d2d50a7db65eafb75af8aeb55efac2543887753ba01a810fb0dae0c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169716",
+          "sourceUrl": "https://tokyofashion.com/tokyo-kimono-streetwear-style-w-resale-floral-kimono-neck-scarf-tiered-dress-gilli-leather-handbag-oriental-traffic-pointy-loafers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-036-001-Harajuku-DZ7-9001-2.jpg",
+          "sha256": "31c05d446aec5b8e3baaae408d4e36f0697c098c394d30f2c178402edfe4c82f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169674",
+          "sourceUrl": "https://tokyofashion.com/tokyo-mens-street-style-w-colored-hair-skull-mask-utility-vest-graphic-shirt-cuffed-pants-casio-watch-spinns-john-lawrence-sullivan-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-033-001-Harajuku-DZ7-8865.jpg",
+          "sha256": "685c3a42eced23136d53edabda4eddb0675b9fb870096b03fb6dbde9a16c4384",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169660",
+          "sourceUrl": "https://tokyofashion.com/6dokidoki-staffer-w-two-tone-hair-gauged-ears-aika-electronics-choker-wrouge-galaxxxy-hm-batman-pants-furry-bag-yru-platform-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-032-001-Harajuku-DZ7-8823-2.jpg",
+          "sha256": "b1ebcbed06963f899fcdff8e3e4c166ae7feed945522b200f14c1fed454520c5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169621",
+          "sourceUrl": "https://tokyofashion.com/rick-owens-menswear-street-style-w-blunt-bob-blazer-w-rolled-sleeves-plaid-shirt-tied-around-waist-layered-necklaces-tokyo-human-experiments-knuckle-rings-mid-calf-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-030-001-Harajuku-DZ7-8733.jpg",
+          "sha256": "5ce3f4e1b8242b2589d0b45852001fff6ec7e75cbef74331877726e6c4a92a25",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169596",
+          "sourceUrl": "https://tokyofashion.com/shibuya-fashion-walk-organizers-streetwear-style-w-red-feathers-glitter-makeup-tailcoat-tuxedo-sequin-vest-medallion-necklace-loafers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-028-001-Harajuku-DZ7-8661_1.jpg",
+          "sha256": "211595eb6460071f648509f8a0e34ab2238f877ac79c313be97ea37783b38ff4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169540",
+          "sourceUrl": "https://tokyofashion.com/edgy-monochrome-streetwear-style-w-pink-hair-skull-necklace-lewis-leathers-motorcycle-jacket-ripped-jeans-denim-belt-bag-two-tone-boots/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-025-001-Harajuku-DZ7-8493_1.jpg",
+          "sha256": "c9425944205bb475fec95a68edb8fa7bbafd30dbd92b105c8ccee3bd1b8728c6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169485",
+          "sourceUrl": "https://tokyofashion.com/harajuku-girls-street-styles-w-purple-hair-gucci-bucket-hat-vintage-blazer-faith-tokyo-another-youth-balenciaga-backpack-reebok-sullen-sakush-ysl-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-021-001-Harajuku-DZ7-8347-2_1.jpg",
+          "sha256": "53e5ead22b4b24714ad8a1f48f1b05f78b7a67a1cc813859f17e1e58474ad60e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169469",
+          "sourceUrl": "https://tokyofashion.com/eclectic-layered-street-fashion-in-harajuku-w-sailor-collar-jacket-sheer-tiered-dress-denim-pants-sling-bag-snakeskin-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-020-001-Harajuku-DZ7-8308-2_1.jpg",
+          "sha256": "413040a41eab20ef430d2852310a23f43bee50aca3abb9256d84d0fc5b7cc5d7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169444",
+          "sourceUrl": "https://tokyofashion.com/casual-tokyo-streetwear-styles-w-tie-dye-shirt-tsumori-chisato-hand-painted-jeans-stussy-raglan-shirt-columbia-convertible-pants-adidas-facetasm-x-converse-sneakers/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-018-001-Harajuku-DZ7-8257_1.jpg",
+          "sha256": "ff0acb273c651fd57e173a3426b59c7a36d692819687d72ec0bb656ae9924ecf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tokyo-archive-169419",
+          "sourceUrl": "https://tokyofashion.com/bod-mod-artist-in-casual-harajuku-streetwear-style-w-gauged-ears-tattoos-split-tongue-sclera-contacts-aoi-clothing-galaxxxy-watch-yeezy-oreo-shoes/",
+          "imageUrl": "https://tokyofashion.com/wp-content/uploads/2019/07/NK-2019-05-18-016-001-Harajuku-DZ7-8178_1.jpg",
+          "sha256": "142223137218d7dcf88312e5f81830ce6410c66b68737cc47a624790a7808844",
+          "outcome": "downloaded-unique"
+        }
+      ]
+    }
+  ]
+}

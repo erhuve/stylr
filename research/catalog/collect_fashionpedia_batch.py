@@ -13,9 +13,6 @@ import pilot
 from expand_targeted import REPO, save, sheets
 
 
-ARCHIVE_URL = 'https://s3.amazonaws.com/ifashionist-dataset/images/val_test2020.zip'
-
-
 def flickr_link(photo_id):
     alphabet = '123456789abcdefghijkmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ'
     encoded = ''
@@ -26,11 +23,16 @@ def flickr_link(photo_id):
     return 'https://flic.kr/p/' + encoded
 
 
-def collect(output, limit):
+def collect(output, limit, split='validation-test'):
+    if split not in {'validation-test', 'training'}:
+        raise ValueError('Unknown archive split')
     if (output / 'intake.json').exists():
         raise ValueError('Use a new output batch')
     raw = output / 'raw'
-    archive_path = raw / 'val_test2020.zip'
+    archive_name = 'train2020.zip' if split == 'training' else 'val_test2020.zip'
+    archive_url = 'https://s3.amazonaws.com/ifashionist-dataset/images/' + archive_name
+    archive_path = raw / archive_name
+    metadata_files = ['attributes_train2020.json'] if split == 'training' else ['info_test2020.json', 'instances_attributes_val2020.json']
     manifests = list((REPO / 'scripts').glob('*assets.json'))
     manifests += sorted((REPO / 'data/catalog-review/batches').glob('*/intake.json'))
     manifests += sorted((REPO / 'data/catalog-review/batches').glob('*/pending-intake.json'))
@@ -48,7 +50,7 @@ def collect(output, limit):
     (pilot.ROOT / 'images').mkdir(parents=True, exist_ok=True)
     with ZipFile(archive_path) as archive:
         members = {Path(member).name: member for member in archive.namelist() if member.endswith('.jpg')}
-        for filename in ['info_test2020.json', 'instances_attributes_val2020.json']:
+        for filename in metadata_files:
             metadata_path = raw / filename
             metadata = json.loads(metadata_path.read_text())
             listing = 'https://s3.amazonaws.com/ifashionist-dataset/annotations/' + filename
@@ -76,7 +78,7 @@ def collect(output, limit):
                 image.thumbnail((720, 1000))
                 path = pilot.ROOT / 'images' / f'{identifier}.webp'
                 image.save(path, 'WEBP', quality=85)
-                record = pilot.download({'id': identifier, 'source': 'fashionpedia', 'sourceUrl': source_url, 'imageUrl': original, 'title': search['title'], 'body': None, 'reviewStatus': 'unreviewed', 'datasetImageId': candidate['id'], 'sourceLicense': licenses[candidate['license']], 'archive': {'url': ARCHIVE_URL, 'member': member, 'sha256': hashlib.sha256(data).hexdigest()}})
+                record = pilot.download({'id': identifier, 'source': 'fashionpedia', 'sourceUrl': source_url, 'imageUrl': original, 'title': search['title'], 'body': None, 'reviewStatus': 'unreviewed', 'datasetImageId': candidate['id'], 'sourceLicense': licenses[candidate['license']], 'archive': {'url': archive_url, 'member': member, 'sha256': hashlib.sha256(data).hexdigest()}})
                 if record['sha256'] in hashes:
                     search['decision'] = 'exact-duplicate'
                     continue
@@ -84,7 +86,9 @@ def collect(output, limit):
                 records.append(record)
     save(output / 'intake.json', records)
     save(output / 'searches.json', searches)
-    save(output / 'sources.json', {'retrievedAt': datetime.now(timezone.utc).isoformat(), 'scope': 'Official Fashionpedia validation/test archive; only individually identified Flickr photos. Existing dataset IDs and Flickr IDs excluded. Dataset attributes never converted into reviewed labels.', 'sources': [{'source': 'fashionpedia', 'pages': statuses, 'archiveUrl': ARCHIVE_URL, 'archiveSha256': hashlib.sha256(archive_path.read_bytes()).hexdigest(), 'errors': []}]})
+    with archive_path.open('rb') as archive_stream:
+        archive_digest = hashlib.file_digest(archive_stream, 'sha256').hexdigest()
+    save(output / 'sources.json', {'retrievedAt': datetime.now(timezone.utc).isoformat(), 'scope': f'Official Fashionpedia {split} archive; only individually identified Flickr photos. Existing dataset IDs and Flickr IDs excluded. Dataset attributes never converted into reviewed labels.', 'sources': [{'source': 'fashionpedia', 'pages': statuses, 'archiveUrl': archive_url, 'archiveSha256': archive_digest, 'errors': []}]})
     sheets(output)
     print(f'{len(records)} unique unreviewed archive candidates')
 
@@ -93,7 +97,8 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Prepare individually sourced Fashionpedia photos for direct visual review from downloaded official metadata and val_test2020.zip in OUTPUT/raw.')
     parser.add_argument('--output', type=Path, required=True)
     parser.add_argument('--limit', type=int, default=2800)
+    parser.add_argument('--split', choices=['validation-test', 'training'], default='validation-test')
     args = parser.parse_args()
     if args.limit < 1:
         parser.error('Limit must be positive')
-    collect(args.output, args.limit)
+    collect(args.output, args.limit, args.split)

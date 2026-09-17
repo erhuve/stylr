@@ -1,0 +1,1392 @@
+[
+  {
+    "id": "tokyo-archive-170321",
+    "sha256": "140430b0a92c6a005a61bd4bd77ff38be544f3bc5b2f0cbbe5115081aa0e752f",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 0,
+    "sheet": 0,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-170520",
+    "sha256": "da6d33e8397e9c01148949cbfb34b4dbd0923d96f791963b7207146f10325c1a",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 1,
+    "sheet": 0,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-170477",
+    "sha256": "072ec0c8009954558b87bc031095cdcccc1af08864b271bb02f6f4b6758b78ac",
+    "evidence": "F",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 2,
+    "sheet": 0,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-170356",
+    "sha256": "30f2fa05baac03552d453a0d50291d125b1d0d32d0ff785ab84831342be12f2d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 3,
+    "sheet": 0,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-176671",
+    "sha256": "b510fdce7f7e9c4058fed6b9fc81606db91181eaa3d5225deb82d655e01df9a0",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 4,
+    "sheet": 0,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-169863",
+    "sha256": "3749e4ed22f2c2c112c4214bdc19fc11a16eb146417d0ca93a86ec293e896a00",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 6,
+    "sheet": 0,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-174660",
+    "sha256": "5b76c12e6d49aade5233cdba3271e000c5a856cba4f8ad648c7de80e10022046",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 10,
+    "sheet": 0,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/00.jpg"
+  },
+  {
+    "id": "tokyo-archive-174606",
+    "sha256": "fce70da39b9d33b76e39c1c7056ba591e8a91526e01dd7cf32d362672763d29f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 12,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-174589",
+    "sha256": "283589f387faa6fc85e418c63a9f0c2c5f2f2d09f25f6b70c1174031c65ac140",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 13,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-174540",
+    "sha256": "f5ba31e03bb3226d3113924cecc5edd772ed7a1b0e551548314ed59c54edf6ea",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 14,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-174517",
+    "sha256": "f502499b06d0553cc0a76b597eac9bdb84bb7eb62dc1e20ec0b658971bc3c0ae",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 15,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-174529",
+    "sha256": "f021e857cf24a53ac0aebd1a04dbce4549a3bc0ad43bb8e89680413333e446c4",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 17,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-174490",
+    "sha256": "d11d7611d91a20a9331b879bf7dd5495d8ac252ae229b1e8bc673970b2f7388a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 18,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-170254",
+    "sha256": "5ad39d35dc46ce76cacf947cb291d5cef5f5857df8d7a627dd8dfc4f2d1bfd88",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 19,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-169878",
+    "sha256": "c36d357825cdd8b2f8c81486b68296c8a4cbe3a3f0a9b500e7d9cc531680b57c",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 20,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-169608",
+    "sha256": "58c7a219113b3baee9f685fa99dc2d84b6dd21084fe6e43a6216755ec35f76f3",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 22,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-170620",
+    "sha256": "ce13cd0ae1318bf6194bba79d7416a36b948922984fb41fe3ae39824c8598e48",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 23,
+    "sheet": 1,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/01.jpg"
+  },
+  {
+    "id": "tokyo-archive-170658",
+    "sha256": "6d731777b9ecea9a411afad40a4111291202cb71c23a0bd3fbdf66a054f3cadb",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 24,
+    "sheet": 2,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/02.jpg"
+  },
+  {
+    "id": "tokyo-archive-170676",
+    "sha256": "8b78163c940ce93d713e3cd5031be51194f2167ffaa32c92e14b0187db59decd",
+    "evidence": "F",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 25,
+    "sheet": 2,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/02.jpg"
+  },
+  {
+    "id": "tokyo-archive-168519",
+    "sha256": "29b2bb5e3587fe04b83123a51d1fbe429a46e3bec125bc6da1b71e474cf95221",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 26,
+    "sheet": 2,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/02.jpg"
+  },
+  {
+    "id": "tokyo-archive-171947",
+    "sha256": "1c4d4243f85aa2b5c587f93a7493fb5f2c17a46a7fe3fa8ceef90591f8b46ad8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 28,
+    "sheet": 2,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/02.jpg"
+  },
+  {
+    "id": "tokyo-archive-172001",
+    "sha256": "cc7e37c1633d4998b2ec86bcf034b4be6c93c10c5ae224c54b53cc97fde1fec3",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 32,
+    "sheet": 2,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/02.jpg"
+  },
+  {
+    "id": "tokyo-archive-171958",
+    "sha256": "6a8f2471a01ae6d0ec4ed2048d467cf7d9764c86f41e432e9bc46df77ca9a819",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 33,
+    "sheet": 2,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/02.jpg"
+  },
+  {
+    "id": "tokyo-archive-171931",
+    "sha256": "6e2ccbec4ae331222430a6579b19ca4d8d8965153eab94cb6b3af572c6bf926d",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 34,
+    "sheet": 2,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/02.jpg"
+  },
+  {
+    "id": "tokyo-archive-168712",
+    "sha256": "160c032f0833131c6bcad210132e66e9911b213d0be12cf36d343ef73f35df4d",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 36,
+    "sheet": 3,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/03.jpg"
+  },
+  {
+    "id": "tokyo-archive-169169",
+    "sha256": "b9c1fab4c6fc111449a836384742a0e87596124dd6b53731c7b0d576ff7eeede",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 37,
+    "sheet": 3,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/03.jpg"
+  },
+  {
+    "id": "tokyo-archive-168506",
+    "sha256": "f64dd80e0f5ff8648aff02f431d4dca72497ae35cbfcfc87921243ebb445132a",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 39,
+    "sheet": 3,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/03.jpg"
+  },
+  {
+    "id": "tokyo-archive-169111",
+    "sha256": "463d9b561ee78d2e559d4788e339175b2bcdaca7b34768b5ee3c2a47e0781c6a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 40,
+    "sheet": 3,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/03.jpg"
+  },
+  {
+    "id": "tokyo-archive-169249",
+    "sha256": "0d87eb5a321835be7a2c3e8c03e11e414d58b47c1fecbde0f8b96feddfa1d601",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 41,
+    "sheet": 3,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/03.jpg"
+  },
+  {
+    "id": "tokyo-archive-169156",
+    "sha256": "3c2c1ee3371858380a73d0f9c5d4397d801517bc531549ee506385590a7c7d1a",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 42,
+    "sheet": 3,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/03.jpg"
+  },
+  {
+    "id": "tokyo-archive-169089",
+    "sha256": "ac0d28eecea3853d84ddf5e7a0cb0c88e322251cebf8b9b83c97e975f58bc512",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 44,
+    "sheet": 3,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/03.jpg"
+  },
+  {
+    "id": "tokyo-archive-168755",
+    "sha256": "f0d7c14671b73a1e0e97b6d1d24a380c12b1747a68481b9c8bfe67992c8f361d",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 49,
+    "sheet": 4,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/04.jpg"
+  },
+  {
+    "id": "tokyo-archive-168723",
+    "sha256": "931d182288cc8e523a9f4304bf1f79384f7733449792622a358c013129b75d26",
+    "evidence": "F",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 51,
+    "sheet": 4,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/04.jpg"
+  },
+  {
+    "id": "tokyo-archive-168566",
+    "sha256": "21b4fd5b30736e23654d8abaf6f8229aa5b30db21927bc46bafcc792abdbdb9b",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 52,
+    "sheet": 4,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/04.jpg"
+  },
+  {
+    "id": "tokyo-archive-168631",
+    "sha256": "24dc119aae78aee3e8d9ad516942a1002cf9e11d23b26c58c8ffdea549be91f4",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 53,
+    "sheet": 4,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/04.jpg"
+  },
+  {
+    "id": "tokyo-archive-169838",
+    "sha256": "bd54609c90ce98ff7ffc85ae1863702c1251eef844f1c0709690d35ab06bed44",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 54,
+    "sheet": 4,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/04.jpg"
+  },
+  {
+    "id": "tokyo-archive-169852",
+    "sha256": "aba564ad7d071128f88957f614a4b82e7c6b7c4a1646679d2a669a00e5e59fcf",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 55,
+    "sheet": 4,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/04.jpg"
+  },
+  {
+    "id": "tokyo-archive-168580",
+    "sha256": "99453274f5ef1b10e1c7ee944fbf7bda21255a8db5b2d914228595d6a823e5d5",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 57,
+    "sheet": 4,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/04.jpg"
+  },
+  {
+    "id": "tokyo-archive-167786",
+    "sha256": "7eadda637b713721b32a3d0230dddae8ed6d27d251f5cffad29d20d926f80849",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 59,
+    "sheet": 4,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/04.jpg"
+  },
+  {
+    "id": "tokyo-archive-167941",
+    "sha256": "c743e77f1bd7ceccc1fb71e341105be09f8ecb72ca7abae13c661508b91b097a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 62,
+    "sheet": 5,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/05.jpg"
+  },
+  {
+    "id": "tokyo-archive-167966",
+    "sha256": "1bd7e3dbf6b5e9701772859f566ae2212aedda435e6acc4bf86b2416d93da2a3",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 65,
+    "sheet": 5,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/05.jpg"
+  },
+  {
+    "id": "tokyo-archive-168967",
+    "sha256": "c6e236299245f773d7352e445a0c0bf509bb1c0f92f97b35f709643c4bdfd980",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 68,
+    "sheet": 5,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/05.jpg"
+  },
+  {
+    "id": "tokyo-archive-168954",
+    "sha256": "1f8277575f2f50c9b454496f9c4ad640492d9b6f3e9b1541f205a20834e8440c",
+    "evidence": "F",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 70,
+    "sheet": 5,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/05.jpg"
+  },
+  {
+    "id": "tokyo-archive-169100",
+    "sha256": "6378b559a988a1d0a391ab2edd5e5ecd7822803bfc3aca1bdbd8f5f2bb01b008",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 71,
+    "sheet": 5,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/05.jpg"
+  },
+  {
+    "id": "tokyo-archive-169075",
+    "sha256": "b16cc4ba6d5303f972d5806a0f2ab22b38aa955784efeedf092b48161f16ac93",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 72,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-168976",
+    "sha256": "7dac3a1ba44a0b7bcad0a823720c2e100d75347f3c46383da1f5da7ef16f405d",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 73,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-168941",
+    "sha256": "1babf7682c91982119ddc17a650beeb106b85dc27c1b59b6901f75c32f674475",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 74,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-168176",
+    "sha256": "1602fe4f5a3946ff2615f1ca96682328d27c021e3dc02538db7f96aaad8bc126",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 75,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-167916",
+    "sha256": "9941d68bcef355051183cddfdf675766c113000aaab3e0b91db944f8d6c3b310",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 77,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-167873",
+    "sha256": "70821516bdb12d1bbb7be9a49aab6140c8fbd9f8c3d0327ca91fc86d7f489b61",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 79,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-167796",
+    "sha256": "1247c161f57f407ae0ccff2a67ab0669570c78c9d8163bb8ecbb48bc642989d4",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 80,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-167769",
+    "sha256": "db564a9dd53d1ea85253ce4017c5670374b50c2591c1cf64eae95a41cbf324bf",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 81,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-167756",
+    "sha256": "4118d92f60f53d2bfffc85e0807e064bf6a087d3514a0ebe7dc05695e8f15e20",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 82,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-168605",
+    "sha256": "1e1bbf7c5ba30a38a9a7ea29d7cbe1bc19b3234076976dd61fef17bc738d2b66",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 83,
+    "sheet": 6,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/06.jpg"
+  },
+  {
+    "id": "tokyo-archive-167708",
+    "sha256": "d51b0f5991affa9ab3bd96a36e47ea07b1a69e33a00e64f799eb6c68771ba2ba",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 84,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-166559",
+    "sha256": "94891b95bef4a68a4a4bf20dc2feb225cecc66a903aa89bd72ca245d63cab217",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 85,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-166930",
+    "sha256": "d650ea104b592e1052fbd3cfa8e94fb7a8cff1aa36efa9aabc0a363e405c21fe",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 86,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-167585",
+    "sha256": "b76191a24f850ff44e3fd836854d697f34dce3f71b22ae7b4e470bb08e58217d",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 87,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-167650",
+    "sha256": "3092b296d474f7e520c00bfa0aeb0f50d586d8683ea11e5d7bfff834f8bb5c01",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 88,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-167202",
+    "sha256": "05cad5af26b432d9a16bd9bdb26187b7c21729c4b889aa2f17d962c6c104b4ce",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 89,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-171307",
+    "sha256": "856daf7447d2192ac90efb5ad004fe6426cc40edbf91fb4fb84035b8804b8bc2",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 90,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-171354",
+    "sha256": "4832a614230b0d8cf7fe1f2c85c1a74e595b213c30f3ab109aa2f945878e03c5",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 92,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-171327",
+    "sha256": "4fe67aacf43ed0daf064ad22155c933ce143790897811f2f764fb5d29c6d1d2b",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 93,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-171315",
+    "sha256": "819537eab28b80f2eab8264cc80370c1c32902c99103f742f71557743d183d82",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 94,
+    "sheet": 7,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/07.jpg"
+  },
+  {
+    "id": "tokyo-archive-171264",
+    "sha256": "bd00d3d09d7a41887e3c35b6b44d4308b80bdc54979ca60545f85cb997250ec3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 96,
+    "sheet": 8,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/08.jpg"
+  },
+  {
+    "id": "tokyo-archive-171173",
+    "sha256": "a22a3857850d56fa826a220f2b618b3a653f02e0b48ec17df0f000b316c36608",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 100,
+    "sheet": 8,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/08.jpg"
+  },
+  {
+    "id": "tokyo-archive-171144",
+    "sha256": "2fffd19a63ddd13cdb1e63db6767990aec8686f2125a406cc41b530d20e9426b",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 101,
+    "sheet": 8,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/08.jpg"
+  },
+  {
+    "id": "tokyo-archive-171135",
+    "sha256": "61d440c4dbd097e8d9b3846556c38cb80a594ccea63f2ca64d1b7d0ed4b0889b",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 102,
+    "sheet": 8,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/08.jpg"
+  },
+  {
+    "id": "tokyo-archive-171093",
+    "sha256": "3dd06f97da4819d7cf7709576ab67fb0af6c9c9d213b9e647477cb57a4392ec9",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 103,
+    "sheet": 8,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/08.jpg"
+  },
+  {
+    "id": "tokyo-archive-171091",
+    "sha256": "b4605373313fff6b0f699493211fdb81e078a6f8c547b20d47296183165e5df5",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 104,
+    "sheet": 8,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/08.jpg"
+  },
+  {
+    "id": "tokyo-archive-171039",
+    "sha256": "dcb365558a4b75c1572c5a3d1ace87e43886362ced0a415ca197167e0414daf4",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 105,
+    "sheet": 8,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/08.jpg"
+  },
+  {
+    "id": "tokyo-archive-170978",
+    "sha256": "5f167d65b46f6d0dcc14d36f3d4965561c1e49de61c41f911a5d04746460d9bf",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 106,
+    "sheet": 8,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/08.jpg"
+  },
+  {
+    "id": "tokyo-archive-168674",
+    "sha256": "1333a94d9315e53d4753f073c8dcf11aa2e1351a02e2103c4dfc5b7bfd10ef4b",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 107,
+    "sheet": 8,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/08.jpg"
+  },
+  {
+    "id": "tokyo-archive-168664",
+    "sha256": "fe6cf31d1e5c3df091d75d9646fde8c021b7224f0b47091820e7640f4a3524e4",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 108,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-165729",
+    "sha256": "4a808daf8a0bc35455d04645a9155030219d8a2cc2c901fa0a86af91edd554a4",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 109,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-168859",
+    "sha256": "ffec4a59a21399bf3e256332e8e967490262cb125d6f3811ca0955cfc429e3a0",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 110,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-168840",
+    "sha256": "2a8921cb4a1a77de06b0b96af9c6c0707d12c05efbfde906828505c5b378bcc1",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 111,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-168817",
+    "sha256": "8d61bbbfd3cfa98e2eee9ed6630d38b8e2a5d35f8cf6995540642b91adb4d568",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 112,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-168807",
+    "sha256": "24d89ea668faf6e57a3c6fb67721342190b016c5e97a20563ee2a3fe87139162",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 113,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-168737",
+    "sha256": "fba79724a789c9603ea8a85a676370a2993d6a0d94b161afa367e3d07d2b25c0",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 115,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-168702",
+    "sha256": "fa1098315f11faec25ed0e14d9bae80924e90137b234648f634d32c150134277",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 116,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-168690",
+    "sha256": "d72f43c81ef1105b8d6682975934c4a7e354ec8982a73194d8d1c04c8ad3e06e",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 117,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-168652",
+    "sha256": "010dcb96845b7d78c673e781244c0c6a3ad5a5e87218918453e5bc203fa90d80",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 118,
+    "sheet": 9,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/09.jpg"
+  },
+  {
+    "id": "tokyo-archive-167391",
+    "sha256": "0151a4d0c9ea3bad002fe80b86c91cf25a8df0937dadc9a1f8e48391f4b2c016",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 120,
+    "sheet": 10,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/10.jpg"
+  },
+  {
+    "id": "tokyo-archive-167172",
+    "sha256": "35788cd7b35385b6865f9142b4ae1f5ed5a5fba7db85e267294cd633485ed3b6",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 121,
+    "sheet": 10,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/10.jpg"
+  },
+  {
+    "id": "tokyo-archive-167337",
+    "sha256": "5bd96561a304c01c6204840a5ea3578ff79a72aeb4e3fcdcfa50aeda8d6605d9",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 122,
+    "sheet": 10,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/10.jpg"
+  },
+  {
+    "id": "tokyo-archive-167281",
+    "sha256": "140f5700716016f4d504d2136e8de58ab2795a0285cff868bf1702919aa55824",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 123,
+    "sheet": 10,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/10.jpg"
+  },
+  {
+    "id": "tokyo-archive-167499",
+    "sha256": "fe147d7d186dcf9f67036a055533daa80c69fcf51928759e2b96ff17a2258177",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 129,
+    "sheet": 10,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/10.jpg"
+  },
+  {
+    "id": "tokyo-archive-167510",
+    "sha256": "7082192c4d3b64acc593e52b0a2072708d22ee43d2153fd27191c22e09b9bc12",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 130,
+    "sheet": 10,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/10.jpg"
+  },
+  {
+    "id": "tokyo-archive-167544",
+    "sha256": "568c7294314e6b2bdde589d333e8f4ec647da7cc9c75957b1d241b1a4cdcfe7a",
+    "evidence": "F",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 132,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-167601",
+    "sha256": "dab26acf7f255d9aa1cc9801ebc56ace724948b33199cb385548d05a7ff7c831",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 133,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-167612",
+    "sha256": "5890b65ba2d77f9e6e9726ca344b0cc49007cfb82870b3f75425dd94ca87810c",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 134,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-167621",
+    "sha256": "3e7ccd6a0c86d242d53bb6c73bc7de67d6ccdf999d4510c2697a9e0fdc47a0bd",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 135,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-167634",
+    "sha256": "83d819c4bd6610d4f0c28dd2107b77c9a83048713be09adf0efca5f39fddaf94",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 136,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-167685",
+    "sha256": "f591335c219d8a0fa3f5e5fac8d59166c6e80a23a5fcb919e2913a4bff44aa2d",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 137,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-167695",
+    "sha256": "7db9e78e0ea907de375d499a4450ccf014ac8413bdfb519ad6bc65cbd2f13e4e",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 138,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-166284",
+    "sha256": "bb2c787493630cc5872f788f62642bd328be9f3de30863afef23f50a463c016c",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 141,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-166231",
+    "sha256": "6e28f64a0129a04f54783aa130305432d0c2a9ac51aa305a04f74f4fc0bbd952",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 142,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-165749",
+    "sha256": "418abf08428c900b144ea328b869c26d041d3038807d371e94304d476c79830a",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 143,
+    "sheet": 11,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/11.jpg"
+  },
+  {
+    "id": "tokyo-archive-165330",
+    "sha256": "9983f7af142716d4568c49a276eb6f13bc1def960b18e48432c20c8dcedddb59",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 144,
+    "sheet": 12,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/12.jpg"
+  },
+  {
+    "id": "tokyo-archive-166264",
+    "sha256": "2aca1f0c59a567783271e29eac3b6833191598b7cf1cd41d27e437fe9b253f00",
+    "evidence": "F",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 145,
+    "sheet": 12,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/12.jpg"
+  },
+  {
+    "id": "tokyo-archive-166088",
+    "sha256": "b9fe0f5da8c6165cf453c089d518934447b050b9d238c067faaff4e1d41da2cf",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 146,
+    "sheet": 12,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/12.jpg"
+  },
+  {
+    "id": "tokyo-archive-170559",
+    "sha256": "45e03d91708174a811eb00bea17acfe609f8d44ccfa251246004584c051d7eb6",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 148,
+    "sheet": 12,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/12.jpg"
+  },
+  {
+    "id": "tokyo-archive-170507",
+    "sha256": "0839d0c36d6ccb21c14dc18fc154378b79662b9e00009727287fb2fcb4c8f446",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 150,
+    "sheet": 12,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/12.jpg"
+  },
+  {
+    "id": "tokyo-archive-170392",
+    "sha256": "c7c03a9602a97a54afbdbdbc955f0d25eb65b2e1740cf9bac778db1dc136ede5",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 151,
+    "sheet": 12,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/12.jpg"
+  },
+  {
+    "id": "tokyo-archive-170244",
+    "sha256": "dba03f722dbcf058021b89abf57b12ffb481f07eb03ca23baac0fd4c5e8a060a",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 152,
+    "sheet": 12,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/12.jpg"
+  },
+  {
+    "id": "tokyo-archive-170076",
+    "sha256": "3ebce9bd22d1efb328d824332abe8fbe993e62715f36f594ba9c0d6d8d6c3b1a",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 154,
+    "sheet": 12,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/12.jpg"
+  },
+  {
+    "id": "tokyo-archive-169962",
+    "sha256": "8e1dbd183ba0496787f2cf9dc8fd8ff8b48ae4d207432f94a9bc2ffd5f098d2f",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 155,
+    "sheet": 12,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/12.jpg"
+  },
+  {
+    "id": "tokyo-archive-169950",
+    "sha256": "b1dec85d3638950f34dc470c17e6ba5e06c47bef821d5b06c25b1f7d5b19b244",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 156,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-169972",
+    "sha256": "b77f46fb148b5df43af60933ad1cd9b2566b2fc8b210d0865959259317fb0ff9",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 157,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-170009",
+    "sha256": "8fca5d8ae8e84726d93f23e3c36316fed3a5051a0d73b714ec8f98f938c61eb4",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 158,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-170059",
+    "sha256": "205d68378076fecf8253d22b65de5422078425b76efce74b351e8d0396adb6a7",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 159,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-170101",
+    "sha256": "09c26373df682967efc506979131b514c3b4f3c2af1481234f5ff8c059810d33",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 160,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-170115",
+    "sha256": "7a511d9f8e582fcbe7a1b3f9333779c59b4ffead06a21cf8fe996304156ab321",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 161,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-170127",
+    "sha256": "d4ec38afdd8fd97fc3e9339e1ddeabd4d26aa27b37a3a5c87b417dc9c9452d0a",
+    "evidence": "F",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 162,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-170141",
+    "sha256": "6bc1ac66588bc142c834b525f37b6f0b4b66d6aafcab9905cdf7793e07079f0e",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 163,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-170266",
+    "sha256": "5369e5e4aaabb71deeeb6bb5b365d7dee4753e561841491b7449b96cfe431a6c",
+    "evidence": "F",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 166,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-170310",
+    "sha256": "62205d87ac7d581afb850564f987b4afc38888b01f14a377cfa1341c7fc7a009",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 167,
+    "sheet": 13,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/13.jpg"
+  },
+  {
+    "id": "tokyo-archive-170368",
+    "sha256": "21868d707705a64315c29449ee3e3c40a760ed60f7345f62153eba6db4b675c4",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 169,
+    "sheet": 14,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/14.jpg"
+  },
+  {
+    "id": "tokyo-archive-170451",
+    "sha256": "270b1b46052d1395bd3b7f4430b971a1c4adc3602a385609f33bfa095f010898",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 172,
+    "sheet": 14,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/14.jpg"
+  },
+  {
+    "id": "tokyo-archive-170546",
+    "sha256": "609d7cdb863442411be2a62ff0f7ebd629f60fd07e953c00a6ec3b6c869acf19",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 173,
+    "sheet": 14,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/14.jpg"
+  },
+  {
+    "id": "tokyo-archive-170608",
+    "sha256": "0bc97c887ed886c723290afe11147102b9e9ad7515d3798f56e31a83da7603e6",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 175,
+    "sheet": 14,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/14.jpg"
+  },
+  {
+    "id": "tokyo-archive-165975",
+    "sha256": "1ef1485fa0e340406b3449474b7e04d5466a00198d0f67f5c0c64cd151946f8c",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 176,
+    "sheet": 14,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/14.jpg"
+  },
+  {
+    "id": "tokyo-archive-166211",
+    "sha256": "e32d51032bf638397b178104d6ea0f6ede3936d3d3404a90bf9c607fa7855590",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 177,
+    "sheet": 14,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/14.jpg"
+  },
+  {
+    "id": "tokyo-archive-166385",
+    "sha256": "598e6e17415005d700d934c7a26fddc507e4813935ed3f8c04ae0af075f43f12",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 179,
+    "sheet": 14,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/14.jpg"
+  },
+  {
+    "id": "tokyo-archive-165622",
+    "sha256": "1744d7ba79b576fb056657b8461003aa859eb3ac26ca27f5d42aec35d47ff9fd",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 180,
+    "sheet": 15,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/15.jpg"
+  },
+  {
+    "id": "tokyo-archive-165888",
+    "sha256": "1e1a151826f657b29c704b7e12122ce35e8e9d483f91029b3fd09d1123745060",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 181,
+    "sheet": 15,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/15.jpg"
+  },
+  {
+    "id": "tokyo-archive-165664",
+    "sha256": "10980fb2d9574a5ab1625b69a7ca8a76d95dfddd783174fe28cfd3f2290930c7",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 182,
+    "sheet": 15,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/15.jpg"
+  },
+  {
+    "id": "tokyo-archive-165807",
+    "sha256": "cdcdf18574dc0fd68ec28210871076bb5fbdcd4cf49c0651f1c3709cc563d7eb",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 184,
+    "sheet": 15,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/15.jpg"
+  },
+  {
+    "id": "tokyo-archive-165825",
+    "sha256": "ddf5c442d0a28d4e09e7d81cf348c54f1649dd80f10f17ea07b0749f1701958a",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 185,
+    "sheet": 15,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/15.jpg"
+  },
+  {
+    "id": "tokyo-archive-169586",
+    "sha256": "be14488ceaf27a48046727ce5c9f0706878f9401f40b83ea6073e13114e2e78e",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 187,
+    "sheet": 15,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/15.jpg"
+  },
+  {
+    "id": "tokyo-archive-169716",
+    "sha256": "31c05d446aec5b8e3baaae408d4e36f0697c098c394d30f2c178402edfe4c82f",
+    "evidence": "D",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 190,
+    "sheet": 15,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/15.jpg"
+  },
+  {
+    "id": "tokyo-archive-169674",
+    "sha256": "685c3a42eced23136d53edabda4eddb0675b9fb870096b03fb6dbde9a16c4384",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 191,
+    "sheet": 15,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/15.jpg"
+  },
+  {
+    "id": "tokyo-archive-169660",
+    "sha256": "b1ebcbed06963f899fcdff8e3e4c166ae7feed945522b200f14c1fed454520c5",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 192,
+    "sheet": 16,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/16.jpg"
+  },
+  {
+    "id": "tokyo-archive-169621",
+    "sha256": "5ce3f4e1b8242b2589d0b45852001fff6ec7e75cbef74331877726e6c4a92a25",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 193,
+    "sheet": 16,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/16.jpg"
+  },
+  {
+    "id": "tokyo-archive-169596",
+    "sha256": "211595eb6460071f648509f8a0e34ab2238f877ac79c313be97ea37783b38ff4",
+    "evidence": "M",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 194,
+    "sheet": 16,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/16.jpg"
+  },
+  {
+    "id": "tokyo-archive-169540",
+    "sha256": "c9425944205bb475fec95a68edb8fa7bbafd30dbd92b105c8ccee3bd1b8728c6",
+    "evidence": "C",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 195,
+    "sheet": 16,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/16.jpg"
+  },
+  {
+    "id": "tokyo-archive-169469",
+    "sha256": "413040a41eab20ef430d2852310a23f43bee50aca3abb9256d84d0fc5b7cc5d7",
+    "evidence": "X",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 197,
+    "sheet": 16,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/16.jpg"
+  },
+  {
+    "id": "tokyo-archive-169419",
+    "sha256": "142223137218d7dcf88312e5f81830ce6410c66b68737cc47a624790a7808844",
+    "evidence": "U",
+    "reviewedAt": "2026-09-17",
+    "ordinal": 199,
+    "sheet": 16,
+    "batch": "2026-09-17T0510-street",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T0510-street/sheets/16.jpg"
+  }
+]

@@ -15,7 +15,7 @@ from PIL import Image, ImageOps
 ROOT = Path(__file__).resolve().parent.parent
 MANIFESTS = ('photo-assets.json', 'fashionpedia-assets.json', 'streetstyle-assets.json', 'reviewed-assets.json')
 MAX_IMAGE_BYTES = 24 * 1024 * 1024
-MAX_ARCHIVE_BYTES = 350 * 1024 * 1024
+MAX_ARCHIVE_BYTES = 4 * 1024 * 1024 * 1024
 
 
 def download(url, limit):
@@ -27,6 +27,26 @@ def download(url, limit):
     if len(data) > limit:
         raise ValueError('Source exceeds download limit')
     return data
+
+
+def download_archive(url, target):
+    if not url.startswith('https://'):
+        raise ValueError(f'Expected an HTTPS source: {url}')
+    pending = target.with_suffix('.pending')
+    request = urllib.request.Request(url, headers={'User-Agent': 'Stylr-personal-study/1.0'})
+    try:
+        with urllib.request.urlopen(request, timeout=90) as response, pending.open('wb') as stream:
+            total = 0
+            while chunk := response.read(1024 * 1024):
+                total += len(chunk)
+                if total > MAX_ARCHIVE_BYTES:
+                    raise ValueError('Source exceeds download limit')
+                stream.write(chunk)
+        with ZipFile(pending):
+            pass
+        pending.replace(target)
+    finally:
+        pending.unlink(missing_ok=True)
 
 
 def main():
@@ -55,12 +75,7 @@ def main():
             cache.mkdir(parents=True, exist_ok=True)
             target = cache / (hashlib.sha256(url.encode()).hexdigest()[:16] + '.zip')
             if not target.exists():
-                data = download(url, MAX_ARCHIVE_BYTES)
-                with ZipFile(io.BytesIO(data)):
-                    pass
-                pending = target.with_suffix('.pending')
-                pending.write_bytes(data)
-                pending.replace(target)
+                download_archive(url, target)
             archives[url] = target
 
         def fetch(asset):
