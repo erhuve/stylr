@@ -1,0 +1,189 @@
+{
+  "retrievedAt": "2026-09-17T23:32:43.749191+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "saturdaysnyc",
+      "pages": [
+        {
+          "url": "https://www.saturdaysnyc.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-17T23:32:40.552402+00:00",
+          "snapshotSha256": "4c68703aa0892a0d75d82ff7965f3b9f98d7dfe52c8765c4a35e55391b7bc18e"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "saturdaysnyc-15338477715501-image-40977747181613",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/Flat_Raw_Grey_col.07_0019.jpg?v=1788661904",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56510-gray",
+          "sha256": "d42d06efacd0a05ca7f70aa40f36ee8be96062f4dd479afe44f800516e05898e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338477715501-image-40977804329005",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBM56600_c.White_BBS56510_c.Grey_12.jpg?v=1788662767",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56510-gray",
+          "sha256": "98e284173ff38ea0a28d809b94fb34d38569c3180cb2bb947f5afe6ae29accd6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338477191213-image-40977754423341",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/Flat_Raw_BlackStripe_col.02_0036.jpg?v=1788661950",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56510-blackstripe",
+          "sha256": "9cacfed5ed9789c376a4aa7601e65f7874355824582b5ceba58a3b6529a0c977",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338477191213-image-40977811603501",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBM56600_c.WhiteEBBS56510_c.BlackStripe_05.jpg?v=1788662826",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56510-blackstripe",
+          "sha256": "b6d91186dc5c1272fffef6940b38c66cb513ab998dbd79aa0e25c2f69168a7c0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338476142637-image-40977758847021",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/Flat_Raw_PlainBlack_col.01_0045.jpg?v=1788661980",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56510-blacksolid",
+          "sha256": "889c2c53ec0735169cd2b1d4e36248badd984469b376433b300efe42e157c973",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338476142637-image-40977821892653",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBM56600_c.WhiteEBBS56510_c.Black_05.jpg?v=1788662883",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56510-blacksolid",
+          "sha256": "2e7f660573f3363a18729f87ad1ad313bfe860d990a9eb81afd268aa4bcdfe78",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338476044333-image-40977716052013",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/Flat_Raw_NavyStripe_col.40__0072.jpg?v=1788661751",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56500-navy",
+          "sha256": "cfd09a545540f7df346bc32316ecdc1bd0c8d46937733872c01d9dec49079a92",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338476044333-image-40977774084141",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBM56600_c.White_BBS56500_c.40NavyStripe_08.jpg?v=1788662082",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56500-navy",
+          "sha256": "a6ca747128dd30c6a0af230c33bdc10d9cec1acc34466378af651d035b9819a3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338475946029-image-40977722409005",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/Flat_Raw_BlackStripe_col.02_0006.jpg?v=1788661795",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56500-blackstripe",
+          "sha256": "6a0bd95e597193bc999af1d057873ca737d5952f873afcc884844faebe6f7f8a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338475946029-image-40977797251117",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBM56600_c.White_BBS56500_c.BlackStripe_06.jpg?v=1788662627",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56500-blackstripe",
+          "sha256": "209697de6f49d384f8fa2a9d07042e1dd9e52dffc2799fdad67d3a5297cafcd8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338475126829-image-40977728307245",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/Flat_Raw_PlainBlack_col.01_0055.jpg?v=1788661835",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56500-blacksolid",
+          "sha256": "c7228577f64e1826a2fccb4cf28aa98e6eaf5e2b8bbba143dc5f75e0ef552e16",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15338475126829-image-40977797709869",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBM56600_c.White_BBS56500_c.Black_02.jpg?v=1788662706",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326bbs56500-blacksolid",
+          "sha256": "96dfabf284a42b3c69ead1fad01c13a83d4c36078e6dffed95426d144043b3b2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296384434221-image-40636011380781",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/0601_0329_reformatted1500x1800.jpg?v=1787113476",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326lightweightwoollstshirt-3",
+          "sha256": "6c66970b481fed5893f2ae4673a7396f50e3f09ec431201f428cec6963346049",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296384434221-image-40635653586989",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBM66340_.c.06_BBS66050_c.01_03.jpg?v=1787112016",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326lightweightwoollstshirt-3",
+          "sha256": "e21711ca36843cd87982319a597d3925ea8cfb19dedc8c1ee2a4084551a2bd97",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296384335917-image-40504605966381",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/0601_0307.jpg?v=1786651306",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326lightweightwoollstshirt-2",
+          "sha256": "222997e902a620243320adf770c54ff1c46f89c9975e1755bd58c5de535cd131",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296384335917-image-40635646181421",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBM66340_.c.20_BBS66050_c.44_03.jpg?v=1787111982",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326lightweightwoollstshirt-2",
+          "sha256": "0723e99d35e67278f9c58bc728d161e5fb155aaa546e7f6f66a20532117b1a5a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296383418413-image-40516442652717",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/0601_0316_a05cd1bb-7a0f-4365-9f0d-56ec015b387e.jpg?v=1786690352",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326lightweightwoollstshirt-1",
+          "sha256": "bb7906b369b5021f4ced7d559a00a736be13eff3c61a3bfcce26bf76c5ffe95c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296383418413-image-40635634941997",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBM66340_col.01_BBS66120_col.37_02.jpg?v=1787111936",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326lightweightwoollstshirt-1",
+          "sha256": "ea8d4d0f19ed7c22ce32cb4024d2c07e1ad348e4f7fdb997f74fa76be43b37d2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296382992429-image-40516887969837",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/0602_0317_7d795a1e-51f4-4253-a436-c8b9b380c4be.jpg?v=1786691193",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326abramssweatpant-3",
+          "sha256": "ba4e1782a99930fb9ebb33d46ae178f1f38a25aea93d22a6e3c3bc6771457f48",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296382992429-image-40635381645357",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBS66300_col.66_06.jpg?v=1787111037",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326abramssweatpant-3",
+          "sha256": "0d812b6baf0369eaeae732f9c4009186215c6e7d274f3686228c7995d6ee89fe",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296382894125-image-40504954126381",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/0602_0299.jpg?v=1786652684",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326abramssweatpant-2",
+          "sha256": "687ac409237c7ad07038396f77d92a64ff80658db386096d5d985a55b78280f3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296382894125-image-40635351007277",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBS66300_col.01_05.jpg?v=1787110917",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326abramssweatpant-2",
+          "sha256": "fd61b7d70858a26b0a510a4ff289cff3d378a5cb23d29c0e3b3eab4d6bb3230c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296382795821-image-40504861720621",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/0602_0309.jpg?v=1786652335",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326abramssweatpant-1",
+          "sha256": "e53395b63149d0f553e2f983c1506c8d0a780c0fd3d2d0348e6663448af1e7b2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "saturdaysnyc-15296382795821-image-40635337703469",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0316/5388/8045/files/BBS66300_col.08_07.jpg?v=1787110894",
+          "sourceUrl": "https://www.saturdaysnyc.com/products/326abramssweatpant-1",
+          "sha256": "528c14d7f0ab8b7e46071e637fcd47708b727d37442b24bea9168f2c5f831dad",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 24
+    }
+  ]
+}

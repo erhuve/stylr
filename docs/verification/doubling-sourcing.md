@@ -1,8 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,177 photos; 3,035 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,179 photos; 3,033 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
 
-## Current continuation: Poncho source exclusions
+## Current continuation: Saturdays NYC
+
+The 23:31 UTC run directly reviews 24 candidates in `2026-09-17T2340-targeted`, using two hash-bound sheets and two enlarged originals. Two neutral outfits are admitted; 12 flat products, nine rear trouser details and one repetitive crewneck/trouser colorway are excluded. One new apparent-build observation brings the count to 5,647. Complete references remain 291 (44 masculine, 148 feminine, two mixed, 97 unclear); all 45 sampled required-body settings remain unchanged, including 54 broader-build benchmark matches and twelve empty settings. Presentation totals are 1,195 masculine, 4,029 feminine, 168 mixed and 1,787 unclear. No complete-reference or masculine-styling gain is claimed.
+
+One new independent publisher's listing preserves all 250 product decisions, retrieval time, snapshot hash and image outcomes. Source inventory now records 11,633 sampled pages, 41,894 deferred pages, 54 source keys and 60 runs. First/third galleries are low-yield for contours: next inspect alternative front collared ensembles and independent fuller-build sources, retaining feminine/mixed coverage. Append after `2026-09-17T2340-targeted`. The 3,744 pending training candidates remain byte-identical from original ordinal 1056; no archive candidates were reviewed or moved.
+
+All 6,792 prior expansion photo/asset/body records and 7,177 presentation rows are preserved. All 6,794 expansion asset digests, image/sheet/listing bindings, admission replay, complete presentation audit, original-photo identity, library audit without duplicate assets, all 45 body-grid comparisons and typecheck pass. All 131 unit tests pass (174,947 assertions, 364.76 seconds), including the sourcing/import regressions; all 86 browser checks pass (3.5 minutes). The first browser attempt could not launch because Playwright's expected Chromium revision was absent; rerunning the existing build with the installed Chromium at `/root/.cache/ms-playwright/chromium-1169/chrome-linux/chrome` passes. Both logs remain in the external expansion directory. No checks remain pending or failing. Only exact catalog/body/source-group counts changed in tests; assertions and application behavior remain intact. Remote main is an ancestor of the starting personal-discovery checkpoint. No deployment.
+
+## Previous continuation: Poncho source exclusions
 
 The 23:01 UTC run directly reviews 24 candidates in `2026-09-17T2310-poncho` on two hash-bound sheets. All are excluded: 22 flat products/details and two rear views. No admissions, body-filter gains or presentation additions occur. Totals remain 7,177 photos, 5,646 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear), and 54 broader-build benchmark matches. Presentation totals remain 1,195 masculine, 4,029 feminine, 168 mixed and 1,785 unclear. All 45 sampled body settings are unchanged; twelve remain empty. The target still requires 3,035 admissions.
 

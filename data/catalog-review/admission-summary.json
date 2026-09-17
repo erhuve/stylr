@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9862,
-  "admittedPhotos": 6792,
-  "totalPhotos": 7177,
+  "reviewedCandidates": 9886,
+  "admittedPhotos": 6794,
+  "totalPhotos": 7179,
   "axisSupport": {
-    "build": 5522,
+    "build": 5523,
     "shoulderHip": 311,
     "waist": 602
   },
   "completeReferences": 249,
-  "sourcePages": 6235,
+  "sourcePages": 6237,
   "excludedReasons": {
-    "non-outfit-view": 3012,
+    "non-outfit-view": 3034,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12292,6 +12292,94 @@
     },
     {
       "id": "poncho-9274078167348-image-48400975888692",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338477715501-image-40977747181613",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338477715501-image-40977804329005",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338477191213-image-40977754423341",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338477191213-image-40977811603501",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338476142637-image-40977758847021",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338476142637-image-40977821892653",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338476044333-image-40977716052013",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338476044333-image-40977774084141",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338475946029-image-40977722409005",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338475946029-image-40977797251117",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338475126829-image-40977728307245",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15338475126829-image-40977797709869",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296384434221-image-40636011380781",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296384335917-image-40504605966381",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296384335917-image-40635646181421",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296383418413-image-40516442652717",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296382992429-image-40516887969837",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296382992429-image-40635381645357",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296382894125-image-40504954126381",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296382894125-image-40635351007277",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296382795821-image-40504861720621",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "saturdaysnyc-15296382795821-image-40635337703469",
       "reason": "non-outfit-view"
     }
   ]

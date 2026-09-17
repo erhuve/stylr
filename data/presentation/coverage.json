@@ -1,14 +1,14 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7177,
-  "reviewedPhotos": 7177,
+  "catalogPhotos": 7179,
+  "reviewedPhotos": 7179,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
       "photos": 1195,
-      "percent": 16.7,
+      "percent": 16.6,
       "sourcePages": 1130,
       "sourceHosts": 39,
       "completeReferences": 44,
@@ -70,17 +70,17 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1785,
+      "photos": 1787,
       "percent": 24.9,
-      "sourcePages": 1661,
-      "sourceHosts": 47,
+      "sourcePages": 1663,
+      "sourceHosts": 48,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
         "2": 153,
         "3": 210,
-        "1.5": 798,
-        "unknown": 511,
+        "1.5": 799,
+        "unknown": 512,
         "2.5": 106
       },
       "completeByBuild": {
@@ -2127,6 +2127,64 @@
           "completeByBuild": {
             "1.5": 1
           }
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "saturdaysnyc.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 2,
+          "percent": 100,
+          "sourcePages": 2,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "unknown": 1,
+            "1.5": 1
+          },
+          "completeByBuild": {}
         },
         {
           "presentation": "unreviewed",

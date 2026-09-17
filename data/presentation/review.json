@@ -68458,6 +68458,28 @@
       "sheet": 1,
       "batch": "2026-09-17T2255-contours",
       "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2255-contours/sheets/01.jpg"
+    },
+    {
+      "id": "saturdaysnyc-15296384434221-image-40635653586989",
+      "sha256": "e21711ca36843cd87982319a597d3925ea8cfb19dedc8c1ee2a4084551a2bd97",
+      "evidence": "U",
+      "reviewedAt": "2026-09-17",
+      "ordinal": 13,
+      "originalCollectionOrdinal": 13,
+      "sheet": 1,
+      "batch": "2026-09-17T2340-targeted",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2340-targeted/sheets/01.jpg"
+    },
+    {
+      "id": "saturdaysnyc-15296383418413-image-40635634941997",
+      "sha256": "ea8d4d0f19ed7c22ce32cb4024d2c07e1ad348e4f7fdb997f74fa76be43b37d2",
+      "evidence": "U",
+      "reviewedAt": "2026-09-17",
+      "ordinal": 17,
+      "originalCollectionOrdinal": 17,
+      "sheet": 1,
+      "batch": "2026-09-17T2340-targeted",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-17T2340-targeted/sheets/01.jpg"
     }
   ]
 }
