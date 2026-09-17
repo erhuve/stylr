@@ -1,7 +1,7 @@
 {
   "baselineCommit": "872e892",
   "baselinePhotos": 5106,
-  "currentPhotos": 6123,
+  "currentPhotos": 6747,
   "mode": "nearby",
   "buildTolerance": 0.5,
   "shoulderWaistTolerance": 0.75,
@@ -40,7 +40,7 @@
       "shoulderHip": 0,
       "waist": 1,
       "before": 86,
-      "after": 96
+      "after": 97
     },
     {
       "build": 1,
@@ -103,7 +103,7 @@
       "shoulderHip": 0,
       "waist": 1,
       "before": 103,
-      "after": 115
+      "after": 116
     },
     {
       "build": 1.5,
@@ -117,7 +117,7 @@
       "shoulderHip": 1,
       "waist": 0,
       "before": 16,
-      "after": 16
+      "after": 17
     },
     {
       "build": 1.5,
@@ -166,7 +166,7 @@
       "shoulderHip": 0,
       "waist": 1,
       "before": 112,
-      "after": 125
+      "after": 126
     },
     {
       "build": 2,
@@ -180,7 +180,7 @@
       "shoulderHip": 1,
       "waist": 0,
       "before": 19,
-      "after": 19
+      "after": 20
     },
     {
       "build": 2,
@@ -243,7 +243,7 @@
       "shoulderHip": 1,
       "waist": 0,
       "before": 10,
-      "after": 11
+      "after": 12
     },
     {
       "build": 2.5,
@@ -323,6 +323,6 @@
       "after": 0
     }
   ],
-  "improved": 12,
+  "improved": 14,
   "empty": 12
 }

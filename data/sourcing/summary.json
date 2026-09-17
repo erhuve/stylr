@@ -83,12 +83,12 @@
     },
     {
       "source": "fashionpedia",
-      "sampledPages": 2463,
-      "candidateImages": 2463,
-      "reviewedExpansionCandidates": 2463,
-      "admittedExpansionPhotos": 2266,
-      "completeExpansionReferences": 32,
-      "deferredPages": 0
+      "sampledPages": 7263,
+      "candidateImages": 7263,
+      "reviewedExpansionCandidates": 3183,
+      "admittedExpansionPhotos": 2890,
+      "completeExpansionReferences": 34,
+      "deferredPages": 37631
     },
     {
       "source": "flickr.com",
@@ -35123,6 +35123,26 @@
       ],
       "supplementaryGalleryManifest": "gallery-searches.json",
       "supplementaryGalleryCandidates": 50
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T0540-training/sources.json",
+      "retrievedAt": "2026-09-17T04:28:55.456203+00:00",
+      "scope": "Official Fashionpedia training archive; only individually identified Flickr photos. Existing dataset IDs and Flickr IDs excluded. Dataset attributes never converted into reviewed labels.",
+      "sources": [
+        {
+          "source": "fashionpedia",
+          "pages": [
+            {
+              "url": "https://s3.amazonaws.com/ifashionist-dataset/annotations/attributes_train2020.json",
+              "products": 45623,
+              "snapshotSha256": "5e5271adaca8e990824189cbef508e4383c83a9a4a3c34c03ba5149b2ad94267"
+            }
+          ],
+          "archiveUrl": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+          "archiveSha256": "d896792104a4c35efa7859a18cf605fddae779f5c2372e87e08d7b45949244e2",
+          "errors": []
+        }
+      ]
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 8302,
-  "admittedPhotos": 5738,
-  "totalPhotos": 6123,
+  "reviewedCandidates": 9022,
+  "admittedPhotos": 6362,
+  "totalPhotos": 6747,
   "axisSupport": {
-    "build": 4550,
-    "shoulderHip": 297,
-    "waist": 578
+    "build": 5144,
+    "shoulderHip": 299,
+    "waist": 586
   },
-  "completeReferences": 241,
-  "sourcePages": 5194,
+  "completeReferences": 243,
+  "sourcePages": 5818,
   "excludedReasons": {
-    "non-outfit-view": 2506,
+    "non-outfit-view": 2602,
     "existing-source-page": 58
   },
   "excluded": [
@@ -10268,6 +10268,390 @@
     },
     {
       "id": "ashanderie-10040675926314-image-51960766923050",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16145",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17672",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16584",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-18621",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10393",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9427",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16462",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17263",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12702",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20561",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20232",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12001",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9520",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-13153",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15825",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20626",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10050",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10945",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-13392",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-19838",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-11490",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15992",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16649",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-19365",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-14632",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17531",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-13065",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-11589",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17192",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10870",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10052",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17608",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9779",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9153",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-11365",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17394",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15658",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-13014",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15489",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15972",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17357",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17288",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12025",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10283",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17309",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-18644",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20251",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-19494",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15599",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-18932",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12314",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20198",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15267",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-11772",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9762",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12030",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20433",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-18656",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17197",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-11793",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17300",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20644",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9035",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17963",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10765",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16819",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15429",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-13311",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12563",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-19739",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10280",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12403",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-8964",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15633",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17385",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16877",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-11921",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-18952",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12939",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20039",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12352",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-15117",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-11728",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16373",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20342",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20037",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9098",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-9708",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-20408",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17581",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-17821",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16188",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-12812",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-10016",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-13440",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-18801",
       "reason": "non-outfit-view"
     }
   ]

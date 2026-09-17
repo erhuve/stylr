@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 6123/6123; unreviewed: 0.
+Reviewed: 6747/6747; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 985 | 16.1% | 923 | 34 | 40 |
-| feminine | 3555 | 58.1% | 3115 | 28 | 145 |
-| mixed-androgynous | 153 | 2.5% | 146 | 10 | 2 |
-| unclear | 1430 | 23.4% | 1314 | 40 | 96 |
+| masculine | 1134 | 16.8% | 1072 | 34 | 40 |
+| feminine | 3822 | 56.6% | 3382 | 28 | 146 |
+| mixed-androgynous | 161 | 2.4% | 154 | 10 | 2 |
+| unclear | 1630 | 24.2% | 1514 | 40 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":89,"3":51,"unknown":356,"2.5":47,"1.5":439} | {"1":1,"2":13,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":362,"3":238,"unknown":550,"1.5":2110,"2.5":268} | {"1":7,"2":24,"3":19,"1.5":65,"2.5":30} |
-| mixed-androgynous | {"1":1,"2":8,"unknown":83,"1.5":61} | {"1.5":2} |
-| unclear | {"1":7,"2":117,"3":195,"1.5":556,"unknown":460,"2.5":95} | {"1":2,"2":10,"3":39,"1.5":33,"2.5":12} |
+| masculine | {"1":3,"2":117,"3":55,"unknown":363,"2.5":57,"1.5":539} | {"1":1,"2":13,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":375,"3":238,"unknown":555,"1.5":2358,"2.5":269} | {"1":7,"2":24,"3":19,"1.5":66,"2.5":30} |
+| mixed-androgynous | {"1":1,"2":9,"unknown":83,"1.5":68} | {"1.5":2} |
+| unclear | {"1":7,"2":136,"3":195,"1.5":719,"unknown":478,"2.5":95} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -39,7 +39,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | copperunionapparel.com | 0 | 24 | 0 | 8 | 0 |
 | dapperboi.com | 3 | 0 | 0 | 8 | 0 |
 | disturbia.co.uk | 0 | 32 | 0 | 5 | 0 |
-| flic.kr | 158 | 1795 | 15 | 298 | 0 |
+| flic.kr | 307 | 2062 | 23 | 498 | 0 |
 | flickr.com | 22 | 168 | 5 | 42 | 0 |
 | forestinkclothing.com | 0 | 78 | 0 | 2 | 0 |
 | forthefit.com | 1 | 1 | 0 | 2 | 0 |

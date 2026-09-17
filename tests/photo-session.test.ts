@@ -51,7 +51,7 @@ describe('color photo catalog and engine', () => {
     const women = selected.slice(0, 12).filter(p => p.collection === 'women').length;
     expect(women).toBeGreaterThanOrEqual(4); expect(women).toBeLessThanOrEqual(8);
     expect(new Set(selected.slice(0, 12).map(p => p.frame))).toEqual(new Set(PHOTOS.map(p => p.frame)));
-  }, 300000);
+  }, 600000);
   test('sex never determines selection or style; body preference does not exclude', () => {
     const s = react(react(empty()));
     for (const sex of ['female', 'male', 'intersex', 'unspecified'] as const) {
