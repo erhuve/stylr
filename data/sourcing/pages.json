@@ -5534,6 +5534,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/floral-pleated-elyse-pants",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8304372482270-image-40529313366238",
+      "copperunion-8304372482270-image-40529313399006"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2255-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/flow-tee",
     "source": "copperunion",
     "candidateIds": [
@@ -5660,6 +5674,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/patchwork-linen-crop-top",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8760303026398-image-42995615629534",
+      "copperunion-8760303026398-image-42995615695070"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2255-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/polka-dot-chiffon-shirt-dress",
     "source": "copperunion",
     "candidateIds": [
@@ -5744,6 +5772,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/teggings-ankle-length-leggings",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-7940384882910-image-38902946726110",
+      "copperunion-7940384882910-image-38902964781278"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2255-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/teggings-cage-mini-dress",
     "source": "copperunion",
     "candidateIds": [
@@ -5755,6 +5797,34 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/teggings-extra-long-leggings",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-7940391043294-image-38903017373918",
+      "copperunion-7940391043294-image-38903017603294"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2255-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/teggings-long-sleeve-tee",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-7940401594590-image-38903108894942",
+      "copperunion-7940401594590-image-38903112204510"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2255-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -5780,6 +5850,48 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0500-inclusive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/teggings-tank-top",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-7940408312030-image-38903252123870",
+      "copperunion-7940408312030-image-38903252287710"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2255-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/teggings-tube-top",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-7940417126622-image-38903288004830",
+      "copperunion-7940417126622-image-38903288299742"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2255-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/tori-wrap-top-copy",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8570606944478-image-41390086029534",
+      "copperunion-8570606944478-image-41390086062302"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2255-contours/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -104707,6 +104819,118 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-black",
+    "source": "goodlife",
+    "candidateIds": [
+      "goodlife-9884265349411-image-49582339948835",
+      "goodlife-9884265349411-image-49582340047139"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-elfin-yellow",
+    "source": "goodlife",
+    "candidateIds": [
+      "goodlife-9884265775395-image-49582344175907",
+      "goodlife-9884265775395-image-49582344208675"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-midnight",
+    "source": "goodlife",
+    "candidateIds": [
+      "goodlife-9884265382179-image-49582341914915",
+      "goodlife-9884265382179-image-49582341947683"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-seed",
+    "source": "goodlife",
+    "candidateIds": [
+      "goodlife-9884265480483-image-49595245297955",
+      "goodlife-9884265480483-image-49595245920547"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-tandoori-spice",
+    "source": "goodlife",
+    "candidateIds": [
+      "goodlife-9884265677091-image-49582343160099",
+      "goodlife-9884265677091-image-49582343192867"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://goodlifeclothing.com/products/slub-scallop-crew-seed",
+    "source": "goodlife",
+    "candidateIds": [
+      "goodlife-9884259123491-image-52507711144227",
+      "goodlife-9884259123491-image-52507711275299"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://goodlifeclothing.com/products/slub-scallop-v-seed",
+    "source": "goodlife",
+    "candidateIds": [
+      "goodlife-9884260532515-image-49595245068579",
+      "goodlife-9884260532515-image-49595245560099"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://goodlifeclothing.com/products/supima-scallop-crew-laurel",
+    "source": "goodlife",
+    "candidateIds": [
+      "goodlife-9474242576675-image-51600219472163",
+      "goodlife-9474242576675-image-51600219537699"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://kirrinfinch.com/products/addams-easy-care-dress-shirt",
     "source": "kirrinfinch",
     "candidateIds": [
@@ -107019,6 +107243,118 @@
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mugsyjeans.com/products/carters-olive-utility-pant",
+    "source": "mugsy",
+    "candidateIds": [
+      "mugsy-6913737982039-image-30840195776599",
+      "mugsy-6913737982039-image-30848277545047"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mugsyjeans.com/products/chippers-brown-utility-pant",
+    "source": "mugsy",
+    "candidateIds": [
+      "mugsy-6913734738007-image-30848283738199",
+      "mugsy-6913734738007-image-30848283967575"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mugsyjeans.com/products/jeans-catalinas-plum",
+    "source": "mugsy",
+    "candidateIds": [
+      "mugsy-6624893730903-image-28527184347223",
+      "mugsy-6624893730903-image-28527184511063"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mugsyjeans.com/products/jeans-masons-cream",
+    "source": "mugsy",
+    "candidateIds": [
+      "mugsy-6624900186199-image-28527165964375",
+      "mugsy-6624900186199-image-31047363395671"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mugsyjeans.com/products/khaki-utility-pant",
+    "source": "mugsy",
+    "candidateIds": [
+      "mugsy-6913727234135-image-30848282591319",
+      "mugsy-6913727234135-image-31240813084759"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mugsyjeans.com/products/lake-shores-casual",
+    "source": "mugsy",
+    "candidateIds": [
+      "mugsy-7384147656791-image-32990395433047",
+      "mugsy-7384147656791-image-32990395465815"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mugsyjeans.com/products/lake-shores-tapered",
+    "source": "mugsy",
+    "candidateIds": [
+      "mugsy-7384149393495-image-32990392156247",
+      "mugsy-7384149393495-image-32990392221783"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://mugsyjeans.com/products/new-midnight-navy-canvas-utility-pants",
+    "source": "mugsy",
+    "candidateIds": [
+      "mugsy-7651823255639-image-36105252667479",
+      "mugsy-7651823255639-image-36105252700247"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-17T2250-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

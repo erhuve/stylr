@@ -1,0 +1,33 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	detail	?	?	?	U	Waist-down blue jeans stretch demonstration; upper outfit absent.
+1	detail	?	?	?	U	Waist-down blue jeans and white sneakers; upper outfit absent.
+2	reject	?	?	?	U	Blue jeans crop repeats the preceding outfit with a minor cut change.
+3	reject	?	?	?	U	Blue jeans and white sneakers repeat the preceding cropped ensemble.
+4	detail	?	?	?	U	Shoulderless white tee and dark trouser crop demonstrates stretched fabric; product-detail framing.
+5	reject	?	?	?	U	Same white tee and dark trousers as ordinal 4, repeated pose.
+6	detail	?	?	?	U	Chest-down cream jacket and olive trousers; product-detail crop omits upper ensemble.
+7	reject	?	?	?	U	Cream jacket and olive trousers repeat ordinal 6 in another pose.
+8	detail	?	?	?	U	Waist-down plaid shirt hem and tan trousers; upper outfit absent.
+9	reject	?	?	?	U	Same plaid hem and tan trousers as ordinal 8, repeated pose.
+10	detail	?	?	?	U	Waist-down pale shirt hem and taupe trousers; upper outfit absent.
+11	reject	?	?	?	U	Pale shirt hem and taupe trousers repeat ordinal 10.
+12	detail	?	?	?	U	Waist-down cream trousers being stretched; product-detail framing.
+13	reject	?	?	?	U	Cream trousers and gray tee hem repeat ordinal 12.
+14	detail	?	?	?	U	Waist-down plum trousers and white tee hem; upper ensemble absent.
+15	back	?	?	?	U	Plum trousers from the rear; excluded.
+16	full	1.5	1	?	U	Enlarged front view: sage crew tee, tan cuffed trousers and white sneakers; shoulders wider than hips, loose long tee hides waist indentation. Neutral basics.
+17	detail	?	?	?	U	Face and neckline detail of sage tee; outfit absent.
+18	detail	?	?	?	U	Cream V-neck sleeve close-up with crossed arm; product detail.
+19	detail	?	?	?	U	Cream tee laid flat without a person.
+20	detail	?	?	?	U	Cream crew tee sleeve close-up; no complete ensemble.
+21	back	?	?	?	U	Cream tee and dark trousers from behind.
+22	detail	?	?	?	U	White tank neckline and face close-up; lower outfit absent.
+23	detail	?	?	?	U	White tank laid flat without a person.
+24	detail	?	?	?	U	Navy tank chest close-up; lower outfit absent.
+25	full	2	?	?	U	Enlarged navy tank with cream cropped trousers and white sneakers; oblique torso and draped hem leave shoulder-to-hip balance and waist uncertain. Neutral ensemble.
+26	detail	?	?	?	U	Black tank chest close-up; no full outfit.
+27	reject	?	?	?	U	Black tank and cream trousers repeat ordinal 25 as a colorway and changed hand pose.
+28	detail	?	?	?	U	Yellow tank chest close-up; no full outfit.
+29	reject	?	?	?	U	Yellow tank and dark trousers repeat the tank ensemble as a colorway.
+30	detail	?	?	?	U	Orange tank neckline close-up; no full outfit.
+31	reject	?	?	?	U	Orange tank and dark trousers repeat the tank ensemble as a colorway.

@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7168/7168; unreviewed: 0.
+Reviewed: 7177/7177; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | masculine | 1195 | 16.7% | 1130 | 39 | 44 |
-| feminine | 4026 | 56.2% | 3584 | 28 | 148 |
+| feminine | 4029 | 56.1% | 3587 | 28 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1779 | 24.8% | 1656 | 46 | 97 |
+| unclear | 1785 | 24.9% | 1661 | 47 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -21,9 +21,9 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
 | masculine | {"1":3,"2":138,"3":65,"unknown":363,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":389,"3":239,"unknown":573,"1.5":2525,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| feminine | {"1":27,"2":389,"3":242,"unknown":573,"1.5":2525,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":152,"3":207,"1.5":797,"unknown":511,"2.5":105} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":210,"1.5":798,"unknown":511,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -39,7 +39,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | bigbudpress.com | 6 | 30 | 0 | 118 | 0 |
 | chubbiesshorts.com | 3 | 0 | 0 | 3 | 0 |
 | chubstr.com | 22 | 0 | 0 | 5 | 0 |
-| copperunionapparel.com | 0 | 24 | 0 | 8 | 0 |
+| copperunionapparel.com | 0 | 27 | 0 | 12 | 0 |
 | dapperboi.com | 3 | 0 | 0 | 8 | 0 |
 | disturbia.co.uk | 0 | 32 | 0 | 5 | 0 |
 | flic.kr | 313 | 2260 | 28 | 596 | 0 |
@@ -49,6 +49,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | foxblood.com | 2 | 123 | 0 | 31 | 0 |
 | freshcleantees.com | 1 | 1 | 0 | 9 | 0 |
 | girlfriend.com | 0 | 6 | 0 | 9 | 0 |
+| goodlifeclothing.com | 0 | 0 | 0 | 2 | 0 |
 | kirrinfinch.com | 66 | 0 | 0 | 9 | 0 |
 | lucyandyak.com | 1 | 7 | 0 | 26 | 0 |
 | midnighthour.com | 23 | 95 | 1 | 25 | 0 |

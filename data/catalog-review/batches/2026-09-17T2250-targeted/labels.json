@@ -1,0 +1,514 @@
+[
+  {
+    "id": "mugsy-7384149393495-image-32990392156247",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/lake-shores-tapered",
+    "localPath": "images/mugsy-7384149393495-image-32990392156247.webp",
+    "sha256": "7af1cbee374995c243ea9339f07f5565d2e87bbf0883dc0493b21d07fe6c158f",
+    "ordinal": 0,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Waist-down blue jeans stretch demonstration; upper outfit absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-7384149393495-image-32990392221783",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/lake-shores-tapered",
+    "localPath": "images/mugsy-7384149393495-image-32990392221783.webp",
+    "sha256": "bd645ecf24ee832bb2f5e00c83e9958fd8cf7a1e1720d7a3ef0b37d438d26ab8",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Waist-down blue jeans and white sneakers; upper outfit absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-7384147656791-image-32990395433047",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/lake-shores-casual",
+    "localPath": "images/mugsy-7384147656791-image-32990395433047.webp",
+    "sha256": "8886510f5cea2eea9c9bdfe573148f5f587df23197ba1c4c3beacbd32c95ff3c",
+    "ordinal": 2,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue jeans crop repeats the preceding outfit with a minor cut change.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-7384147656791-image-32990395465815",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/lake-shores-casual",
+    "localPath": "images/mugsy-7384147656791-image-32990395465815.webp",
+    "sha256": "a264c53cd16b815918187c1e91feeb3e63d8834487e85c649e19fd3b5aa5df3b",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue jeans and white sneakers repeat the preceding cropped ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-7651823255639-image-36105252667479",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/new-midnight-navy-canvas-utility-pants",
+    "localPath": "images/mugsy-7651823255639-image-36105252667479.webp",
+    "sha256": "77adb4218237ceb049ed6b4585612120ca6bf2a846fbd7cece32230b6b05126f",
+    "ordinal": 4,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulderless white tee and dark trouser crop demonstrates stretched fabric; product-detail framing.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-7651823255639-image-36105252700247",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/new-midnight-navy-canvas-utility-pants",
+    "localPath": "images/mugsy-7651823255639-image-36105252700247.webp",
+    "sha256": "6ac729d26d1af3ddc4b7d002dd2b053be96958781032e5965acab5b43ccc0de8",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Same white tee and dark trousers as ordinal 4, repeated pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6913737982039-image-30848277545047",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/carters-olive-utility-pant",
+    "localPath": "images/mugsy-6913737982039-image-30848277545047.webp",
+    "sha256": "58418f2d22bcc40d9850a5d486a6171618a3652cb71358c30f906bbca81e381a",
+    "ordinal": 6,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Chest-down cream jacket and olive trousers; product-detail crop omits upper ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6913737982039-image-30840195776599",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/carters-olive-utility-pant",
+    "localPath": "images/mugsy-6913737982039-image-30840195776599.webp",
+    "sha256": "aaa01586cc95324ef37749ee17886274fbad771c0b1d112e4d2524116a262f4d",
+    "ordinal": 7,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream jacket and olive trousers repeat ordinal 6 in another pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6913727234135-image-31240813084759",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/khaki-utility-pant",
+    "localPath": "images/mugsy-6913727234135-image-31240813084759.webp",
+    "sha256": "bcdddf27d2a74ec2353bee481bfaf253b793368354be94b7be881085c9c37adb",
+    "ordinal": 8,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Waist-down plaid shirt hem and tan trousers; upper outfit absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6913727234135-image-30848282591319",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/khaki-utility-pant",
+    "localPath": "images/mugsy-6913727234135-image-30848282591319.webp",
+    "sha256": "c5ae8539cf2ccce3c655fa9430e4c4aa3d1f5757d7a53e28a9c47fc2f249d512",
+    "ordinal": 9,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Same plaid hem and tan trousers as ordinal 8, repeated pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6913734738007-image-30848283738199",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/chippers-brown-utility-pant",
+    "localPath": "images/mugsy-6913734738007-image-30848283738199.webp",
+    "sha256": "331bdf3caf25296b4cee6b39ad39566c9b0756f43f04301962b1ce474ff0c92f",
+    "ordinal": 10,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Waist-down pale shirt hem and taupe trousers; upper outfit absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6913734738007-image-30848283967575",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/chippers-brown-utility-pant",
+    "localPath": "images/mugsy-6913734738007-image-30848283967575.webp",
+    "sha256": "50c2bbfa8a83bfea97d4ddd022670cebe8a213449b83b0c6c8369c2db6c7584a",
+    "ordinal": 11,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale shirt hem and taupe trousers repeat ordinal 10.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6624900186199-image-31047363395671",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/jeans-masons-cream",
+    "localPath": "images/mugsy-6624900186199-image-31047363395671.webp",
+    "sha256": "095abf2c1d11810856f13d78231ad49799933ede7d6eb33642fcfc7538650119",
+    "ordinal": 12,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Waist-down cream trousers being stretched; product-detail framing.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6624900186199-image-28527165964375",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/jeans-masons-cream",
+    "localPath": "images/mugsy-6624900186199-image-28527165964375.webp",
+    "sha256": "97618b59d8fb953af0bdf11fb857bc75ba37efa89677a6708738da31e86eb212",
+    "ordinal": 13,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream trousers and gray tee hem repeat ordinal 12.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6624893730903-image-28527184347223",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/jeans-catalinas-plum",
+    "localPath": "images/mugsy-6624893730903-image-28527184347223.webp",
+    "sha256": "48c065af0cb0e083dd724e8a9dd2f5d8ec7148b8f02d37ee67be21c7f5cdeafe",
+    "ordinal": 14,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Waist-down plum trousers and white tee hem; upper ensemble absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "mugsy-6624893730903-image-28527184511063",
+    "source": "mugsy",
+    "sourceUrl": "https://mugsyjeans.com/products/jeans-catalinas-plum",
+    "localPath": "images/mugsy-6624893730903-image-28527184511063.webp",
+    "sha256": "45851a0c432dcc54b0411d8ba7bb565c7ea5fa637f07b89fbbcdc5c2ccb597ed",
+    "ordinal": 15,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Plum trousers from the rear; excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9474242576675-image-51600219472163",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/supima-scallop-crew-laurel",
+    "localPath": "images/goodlife-9474242576675-image-51600219472163.webp",
+    "sha256": "5ff5883495b27e9dbb3e3ade6ac0ff38273c2f0968753e7b694bf1b928d88873",
+    "ordinal": 16,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": 1.0,
+      "waist": null
+    },
+    "evidence": "Enlarged front view: sage crew tee, tan cuffed trousers and white sneakers; shoulders wider than hips, loose long tee hides waist indentation. Neutral basics.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9474242576675-image-51600219537699",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/supima-scallop-crew-laurel",
+    "localPath": "images/goodlife-9474242576675-image-51600219537699.webp",
+    "sha256": "240801fbc9087db873324cbd72014042d587b9bcceecda2b740cd68a59909b6e",
+    "ordinal": 17,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Face and neckline detail of sage tee; outfit absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884260532515-image-49595245560099",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/slub-scallop-v-seed",
+    "localPath": "images/goodlife-9884260532515-image-49595245560099.webp",
+    "sha256": "d9ad9613c1e3b20957c44149d6f54c8ee6d3068cf7c477567681ec0cb4df1732",
+    "ordinal": 18,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream V-neck sleeve close-up with crossed arm; product detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884260532515-image-49595245068579",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/slub-scallop-v-seed",
+    "localPath": "images/goodlife-9884260532515-image-49595245068579.webp",
+    "sha256": "adf6343f24de69a174a6d8837b66eff3bc56860d7eaa7dfe0d882cecb9f69f53",
+    "ordinal": 19,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream tee laid flat without a person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884259123491-image-52507711275299",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/slub-scallop-crew-seed",
+    "localPath": "images/goodlife-9884259123491-image-52507711275299.webp",
+    "sha256": "874df7d65d2f1aaf36d8964adf5a5c24b14745b5d5c484865f4e84c0507c8416",
+    "ordinal": 20,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream crew tee sleeve close-up; no complete ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884259123491-image-52507711144227",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/slub-scallop-crew-seed",
+    "localPath": "images/goodlife-9884259123491-image-52507711144227.webp",
+    "sha256": "5fb21596d282be67be377376b1c7d7fc5874e9e45e76fd063223466629c526c4",
+    "ordinal": 21,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream tee and dark trousers from behind.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265480483-image-49595245920547",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-seed",
+    "localPath": "images/goodlife-9884265480483-image-49595245920547.webp",
+    "sha256": "326249fe734642c56deb1b30b888f12eedc58293d8fe415f205980ee86787324",
+    "ordinal": 22,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tank neckline and face close-up; lower outfit absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265480483-image-49595245297955",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-seed",
+    "localPath": "images/goodlife-9884265480483-image-49595245297955.webp",
+    "sha256": "524594e87ed2ed3478837d188256a3a7e8f79879368f4f208390ed7f876a6e44",
+    "ordinal": 23,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tank laid flat without a person.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265382179-image-49582341947683",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-midnight",
+    "localPath": "images/goodlife-9884265382179-image-49582341947683.webp",
+    "sha256": "ef4d738f701f5c64159aeaadbb25b1115180bcfdb5047ded16ac0fbfa6ea0725",
+    "ordinal": 24,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy tank chest close-up; lower outfit absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265382179-image-49582341914915",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-midnight",
+    "localPath": "images/goodlife-9884265382179-image-49582341914915.webp",
+    "sha256": "3967485cd4c9979bad1153fff13e19539f7743ae69521fe25226173cccf034c7",
+    "ordinal": 25,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Enlarged navy tank with cream cropped trousers and white sneakers; oblique torso and draped hem leave shoulder-to-hip balance and waist uncertain. Neutral ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265349411-image-49582340047139",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-black",
+    "localPath": "images/goodlife-9884265349411-image-49582340047139.webp",
+    "sha256": "a745b0c11ee70367f4efde0f23498cf2eccb03731abf8d1fec13651ee2255941",
+    "ordinal": 26,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black tank chest close-up; no full outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265349411-image-49582339948835",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-black",
+    "localPath": "images/goodlife-9884265349411-image-49582339948835.webp",
+    "sha256": "982db0a12cee0864413ecf2e78ebd0e6f625018aa4e229d71f92082fc242b2ff",
+    "ordinal": 27,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black tank and cream trousers repeat ordinal 25 as a colorway and changed hand pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265775395-image-49582344175907",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-elfin-yellow",
+    "localPath": "images/goodlife-9884265775395-image-49582344175907.webp",
+    "sha256": "53bdb23d5628c0e75719ac2eabde374f4a063db671bafbdb34190c6a7ce83f8b",
+    "ordinal": 28,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow tank chest close-up; no full outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265775395-image-49582344208675",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-elfin-yellow",
+    "localPath": "images/goodlife-9884265775395-image-49582344208675.webp",
+    "sha256": "1f57305dfc14329f4fc656c70ef8d4253ebf03281435204f5ffc41fd94093e00",
+    "ordinal": 29,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow tank and dark trousers repeat the tank ensemble as a colorway.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265677091-image-49582343192867",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-tandoori-spice",
+    "localPath": "images/goodlife-9884265677091-image-49582343192867.webp",
+    "sha256": "4096b24570b32a8b0a367d0734b537d0df4bc664b4c99e9743ea9b79276a92cb",
+    "ordinal": 30,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Orange tank neckline close-up; no full outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "goodlife-9884265677091-image-49582343160099",
+    "source": "goodlife",
+    "sourceUrl": "https://goodlifeclothing.com/products/mini-waffle-tank-top-tandoori-spice",
+    "localPath": "images/goodlife-9884265677091-image-49582343160099.webp",
+    "sha256": "e8374e9059c3eb08349efb48b0d8e92414fafd49b3bb69a54ba41782005a24c0",
+    "ordinal": 31,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Orange tank and dark trousers repeat the tank ensemble as a colorway.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

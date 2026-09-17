@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9790,
-  "admittedPhotos": 6783,
-  "totalPhotos": 7168,
+  "reviewedCandidates": 9838,
+  "admittedPhotos": 6792,
+  "totalPhotos": 7177,
   "axisSupport": {
-    "build": 5513,
-    "shoulderHip": 310,
-    "waist": 599
+    "build": 5522,
+    "shoulderHip": 311,
+    "waist": 602
   },
   "completeReferences": 249,
-  "sourcePages": 6227,
+  "sourcePages": 6235,
   "excludedReasons": {
-    "non-outfit-view": 2949,
+    "non-outfit-view": 2988,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12040,6 +12040,162 @@
     },
     {
       "id": "snag-7660894421034-image-36257050918954",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-7384149393495-image-32990392156247",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-7384149393495-image-32990392221783",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-7384147656791-image-32990395433047",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-7384147656791-image-32990395465815",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-7651823255639-image-36105252667479",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-7651823255639-image-36105252700247",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6913737982039-image-30848277545047",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6913737982039-image-30840195776599",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6913727234135-image-31240813084759",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6913727234135-image-30848282591319",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6913734738007-image-30848283738199",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6913734738007-image-30848283967575",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6624900186199-image-31047363395671",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6624900186199-image-28527165964375",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6624893730903-image-28527184347223",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "mugsy-6624893730903-image-28527184511063",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9474242576675-image-51600219537699",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884260532515-image-49595245560099",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884260532515-image-49595245068579",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884259123491-image-52507711275299",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884259123491-image-52507711144227",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884265480483-image-49595245920547",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884265480483-image-49595245297955",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884265382179-image-49582341947683",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884265349411-image-49582340047139",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884265349411-image-49582339948835",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884265775395-image-49582344175907",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884265775395-image-49582344208675",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884265677091-image-49582343192867",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodlife-9884265677091-image-49582343160099",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-7940417126622-image-38903288299742",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-7940408312030-image-38903252287710",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-7940401594590-image-38903112204510",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-7940384882910-image-38902946726110",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-7940384882910-image-38902964781278",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8304372482270-image-40529313399006",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8304372482270-image-40529313366238",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8570606944478-image-41390086062302",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8760303026398-image-42995615695070",
       "reason": "non-outfit-view"
     }
   ]

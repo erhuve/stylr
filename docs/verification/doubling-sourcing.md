@@ -1,8 +1,18 @@
 # Doubling the reviewed library
 
-Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,168 photos; 3,044 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,177 photos; 3,035 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
 
-## Current continuation: Wool&Prince and Snag
+## Current continuation: Mugsy, Goodlife and Copper Union
+
+The 22:31 UTC scheduled run reviews 48 new candidates in `2026-09-17T2250-targeted` and `2026-09-17T2255-contours`, admitting nine: three feminine-styled and six unclear outfits. Five bound sheets, six enlarged originals and two comparison sheets covering all 32 previous Copper Union admissions support the review. All nine additions have apparent-build observations, including seven fuller-build references; none supports every required axis. Totals are 7,177 photos, 5,646 build observations and 291 complete references (44 masculine, 148 feminine, two mixed and 97 unclear). Masculine styling coverage stays at 1,195 photos. All 45 sampled body selections remain unchanged; twelve are empty and the broader-build benchmark remains 54.
+
+Three successful bounded listings preserve all 594 product decisions. Mugsy adds a searched publisher but no admission; Goodlife adds two neutral full outfits. Copper Union adds seven. Product-detail crops, colorways and repeated poses dominate the two new publishers. Seek alternate full-front collared-layer galleries and independent fuller-build sources; no source is declared exhausted. Inventory now records 11,609 sampled pages, 41,528 deferred pages, 52 source keys and 58 recorded runs.
+
+All 6,783 prior expansion photo/asset/body rows and 7,168 prior presentation rows are preserved. The 3,744 pending training records remain byte-for-byte unchanged, beginning at original collection ordinal 1056. Append after `2026-09-17T2255-contours`; actual collection occurred around 22:32 UTC, independently of sorting-oriented batch names. Remote default branch `origin/main` is already an ancestor of the latest `origin/personal-discovery` checkpoint. The shared lock belongs to `con_2jMo7p2zJptaufk6` during this run.
+
+Validation passes: admission replay; all 6,792 expansion asset digests; five sheet hashes; prior-record preservation; unchanged training intake and pending exclusion; all three listing snapshot hashes and 594 decisions; complete image-bound presentation; original-photo identity; library audit with no duplicate image hashes; and typechecking. All 131 unit tests pass in one full run (174,905 assertions, 381.17 seconds), including batch, retailer, street and archive sourcing regressions and exhaustive session checks. All 86 browser checks pass in 3.6 minutes. Only exact catalog/body/source-group counts changed in tests; assertions and application behavior remain intact. Logs are retained in the external `expansion-2026-09-17T2255-contours` directory. No deployment.
+
+## Previous continuation: Wool&Prince and Snag
 
 The half-hour sprint reviews 32 new candidates in `2026-09-17T2240-targeted`, admitting 12: five feminine-styled and seven unclear ensembles. Three bound sheets, four original-image enlargements and seven comparison sheets covering all 294 prior Snag admissions support the review. Eleven additions have build observations; one fitted fuller-build Snag ensemble adds a complete feminine reference (build 3, shoulderHip -1, waist 1). Totals are 7,168 photos, 5,637 build observations and 291 complete references (44 masculine, 148 feminine, two mixed and 97 unclear). Complete masculine coverage does not improve. Two of 45 sampled body selections gain a match; twelve stay empty. The build 3 / shoulders 0 / waist 1 benchmark remains 54.
 

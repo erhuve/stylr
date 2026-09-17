@@ -1,0 +1,133 @@
+{
+  "retrievedAt": "2026-09-17T22:32:58.847984+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 8 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "copperunion",
+      "pages": [
+        {
+          "url": "https://copperunionapparel.com/products.json?limit=250&page=1",
+          "products": 190,
+          "retrievedAt": "2026-09-17T22:32:54.658807+00:00",
+          "snapshotSha256": "e1e763e2032472688f90cf1f29e8145837d071e3cf2179cabe75787d1b5a82dc"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "copperunion-7940417126622-image-38903288299742",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_069.jpg?v=1674771171",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-tube-top",
+          "sha256": "c4c5f6356658f6b55fc2d04624984fd38d54d6153737297c778918c4c923ad7d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940417126622-image-38903288004830",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_066.jpg?v=1674771169",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-tube-top",
+          "sha256": "bb60c0ea3bec3f756f4cb71d0ba90311cf4b42729b4b2e8e744ac316f57457bd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940408312030-image-38903252123870",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_130.jpg?v=1674770748",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-tank-top",
+          "sha256": "a953a7ee5ee74db6ad630c6d543488156529cd554ef5da00fde055e9d5212c89",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940408312030-image-38903252287710",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_134.jpg?v=1674770748",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-tank-top",
+          "sha256": "bbecb67002979273212dcbbf8a18102bfcea7e9e71cc50680593c034c3784fa0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940401594590-image-38903108894942",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_073.jpg?v=1674769478",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-long-sleeve-tee",
+          "sha256": "34797c188ef7c98d12be63c40cff006d0a26fbd02c870e7ffb28a271eceefa2c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940401594590-image-38903112204510",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_076.jpg?v=1674769539",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-long-sleeve-tee",
+          "sha256": "e61986a96566d48f289b9d535b5ebb6674891aaa2cee921ee725695a4fd59c17",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940391043294-image-38903017603294",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_150.jpg?v=1674768425",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-extra-long-leggings",
+          "sha256": "872048a5b4bca4ea340220979ee9d9a05589e486a29a746e59cc10cc5bcf2369",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940391043294-image-38903017373918",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_096.jpg?v=1674768481",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-extra-long-leggings",
+          "sha256": "7f9f98a452739aa098c72d090a33fce6e49278d6185b8ab89b7a45427e03b030",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940384882910-image-38902946726110",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/GroupShotAnkleLengthLeggings.jpg?v=1674767717",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-ankle-length-leggings",
+          "sha256": "09552e6fa0d61ac618cd7e34b7155046078d7ee703424a1601a6f9eeebcf0cd2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-7940384882910-image-38902964781278",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/products/2019_teggings_highres_082.jpg?v=1674767946",
+          "sourceUrl": "https://copperunionapparel.com/products/teggings-ankle-length-leggings",
+          "sha256": "0e244f0832512eadca08d01aefe6eb63cb919112f0515f2dd000d46a2173be1d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8304372482270-image-40529313399006",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1023.heic?v=1709683869",
+          "sourceUrl": "https://copperunionapparel.com/products/floral-pleated-elyse-pants",
+          "sha256": "13bd452d359b30187a50cfe8ea1a32aa2a8297e32ec2472b2d2c719cc4fdacbc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8304372482270-image-40529313366238",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1026.heic?v=1709683869",
+          "sourceUrl": "https://copperunionapparel.com/products/floral-pleated-elyse-pants",
+          "sha256": "e9a0a35ee1e9feaae912d3f43b6e1bbf14b3a27d19dc7482a4578e2a61e2a409",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8570606944478-image-41390086029534",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_0929.heic?v=1718743324",
+          "sourceUrl": "https://copperunionapparel.com/products/tori-wrap-top-copy",
+          "sha256": "821eb5e53062c255c246550e42da20fedb230d65821f0ccb2daa67669f0bf0df",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8570606944478-image-41390086062302",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_0925.heic?v=1718743324",
+          "sourceUrl": "https://copperunionapparel.com/products/tori-wrap-top-copy",
+          "sha256": "3fa661c670114b6db9f6f5753ac13c7fd7769e01879c7820ecb33d930f009c85",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8760303026398-image-42995615629534",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1661.heic?v=1733876618",
+          "sourceUrl": "https://copperunionapparel.com/products/patchwork-linen-crop-top",
+          "sha256": "581671717f9c1e32880d1bcfa98045245af7842cd4252c24f8daffa7b23e3e15",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8760303026398-image-42995615695070",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1654.heic?v=1733876618",
+          "sourceUrl": "https://copperunionapparel.com/products/patchwork-linen-crop-top",
+          "sha256": "f498f1cc7bf9d606c7a4e662aeb463271cf6d80d986e495fb401767f9e7e2bc6",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 16
+    }
+  ]
+}

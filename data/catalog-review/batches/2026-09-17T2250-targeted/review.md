@@ -1,0 +1,7 @@
+# Mugsy and Goodlife bounded search
+
+September 17, 2026. The maintained targeted collector inspected the first product listing at each new publisher: 250 Mugsy and 154 Goodlife decisions, selecting eight previously unseen product pages per publisher and first/third gallery images. All 32 downloaded candidates were directly inspected on three hash-bound sheets. Original images 16 and 25 were enlarged. Two neutral Goodlife outfits qualify; the other 30 are product details, rear views or repeated poses/colorways. Both additions support apparent build, one supports shoulder-to-hip balance, and neither establishes all three axes. No masculine-styled admission or complete-reference gain is claimed.
+
+Mugsy's sampled trouser galleries consistently omit the upper outfit. Goodlife's first/third positions mostly show necklines, flat products and repeated tank colorways. Seek alternate complete collared-layer galleries or other fuller-build publishers next; these bounded results do not establish source exhaustion. Source department, facial appearance and filenames supplied no labels. Actual retrieval timestamps are recorded in sources.json; the batch name sorts after the previous 2240 batch and is not the retrieval time.
+
+Authored observations, image-bound presentation, listing decisions and original/sheet digests are retained. Prior photos, labels and pending training intake remain unchanged. Validation results are recorded in the active doubling handoff. No deployment.

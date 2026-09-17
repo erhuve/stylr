@@ -4,6 +4,8 @@
 
 ## From sources to the application
 
+Current half-hour checkpoint: 7,177 photos, 291 complete references and 54 broader-build benchmark matches; not deployed. Two batches ending `2026-09-17T2255-contours` review 48 candidates and add nine photographs, with no required-body-filter gain. All preceding records and all 3,744 pending training candidates retain their bindings. The active doubling handoff records validation; checkpoint paragraphs below are historical.
+
 Latest half-hour sprint checkpoint: 7,168 photos, 291 complete references and 54 broader-build benchmark matches; not deployed. Batch `2026-09-17T2240-targeted` adds 12 photos from 32 direct reviews, including one fuller-build feminine complete reference and no masculine complete reference. Two sampled body settings gain one match. All 3,744 pending training candidates retain their original ordinal/hash bindings. See the active doubling handoff for validation; earlier checkpoint paragraphs below are historical.
 
 Current doubling checkpoint, September 17: 7,156 repository photos, 290 complete references and 54 broader-build benchmark matches; not deployed. The latest 24 training-archive and 49 targeted retail candidates add 31 photographs, including three masculine-styled outfits and no complete references. Bearbottom adds a publisher; alternate ONE BONE galleries add fuller-build outfits, but loose layers hide required axes. Training collection ordinals 0–1055 are reviewed and the remaining 3,744 candidates are explicitly pending. See `docs/verification/doubling-sourcing.md` and the generated coverage reports; the release paragraphs below are historical.
