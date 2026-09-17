@@ -1,0 +1,34 @@
+[
+  {
+    "ordinal": 13,
+    "id": "fashionpedia-expansion-10210",
+    "sha256": "4b2e285be74cd30d489b4c727b4db45d5cd6aeab828245b33774fe30a34e684d",
+    "localPath": "images/fashionpedia-expansion-10210.webp",
+    "evidence": "Red strapless dress and turquoise necklace; enlarged view supports moderate waist indentation, pocketed skirt obscures hip breadth.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 19,
+    "id": "fashionpedia-expansion-11028",
+    "sha256": "02d555d406e48b3ad4ead861b736cf57329dad64e9550906e832eef1ddc824d0",
+    "localPath": "images/fashionpedia-expansion-11028.webp",
+    "evidence": "Red sleeveless romper; enlarged view supports moderate waist indentation, raised arms invalidate shoulder comparison.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 33,
+    "id": "fashionpedia-expansion-12264",
+    "sha256": "31eb25c92df9f9bd412f21ecba47a24260d14a3fa25acdc579aaf115b73fb4af",
+    "localPath": "images/fashionpedia-expansion-12264.webp",
+    "evidence": "Black cutout cropped top, fitted dark trousers and burgundy boots; enlarged front view shows similar shoulders and hips with moderate visible waist indentation.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 37,
+    "id": "fashionpedia-expansion-18285",
+    "sha256": "f826c9e055c2f81f4850d1f9bb683648651b1c91a495ba88947b074744d071b8",
+    "localPath": "images/fashionpedia-expansion-18285.webp",
+    "evidence": "Red floral sleeveless romper and tall socks; enlarged view shows loose fabric across waist and hips, so those axes remain unknown.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  }
+]

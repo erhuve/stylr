@@ -94,9 +94,9 @@
       "source": "fashionpedia",
       "sampledPages": 7263,
       "candidateImages": 7263,
-      "reviewedExpansionCandidates": 3399,
-      "admittedExpansionPhotos": 3089,
-      "completeExpansionReferences": 34,
+      "reviewedExpansionCandidates": 3447,
+      "admittedExpansionPhotos": 3135,
+      "completeExpansionReferences": 35,
       "deferredPages": 37631
     },
     {
@@ -215,6 +215,15 @@
       "admittedExpansionPhotos": 71,
       "completeExpansionReferences": 0,
       "deferredPages": 89
+    },
+    {
+      "source": "perryellis",
+      "sampledPages": 12,
+      "candidateImages": 24,
+      "reviewedExpansionCandidates": 24,
+      "admittedExpansionPhotos": 8,
+      "completeExpansionReferences": 0,
+      "deferredPages": 175
     },
     {
       "source": "pettilia",
@@ -350,6 +359,15 @@
       "admittedExpansionPhotos": 12,
       "completeExpansionReferences": 6,
       "deferredPages": 198
+    },
+    {
+      "source": "under510",
+      "sampledPages": 12,
+      "candidateImages": 24,
+      "reviewedExpansionCandidates": 24,
+      "admittedExpansionPhotos": 7,
+      "completeExpansionReferences": 0,
+      "deferredPages": 108
     },
     {
       "source": "universalstandard",
@@ -36940,6 +36958,401 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Graytness_Knit_Flannel_Hoodie__346251-00_OF__2.webp?v=1737021027",
               "sourceUrl": "https://chubbiesshorts.com/products/the-graytness-knit-flannel-hoodie",
               "sha256": "80bf5651aa7edfdb116eeb6f681ba6c833ad86c9b5268e15a1ade4b47083ab9c",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 24
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T2000-training/sources.json",
+      "retrievedAt": "2026-09-17T04:28:55.456203+00:00",
+      "scope": "Direct review of original training collection ordinals 936\u2013983 from saved pending intake; no new network retrieval.",
+      "sources": [
+        {
+          "source": "fashionpedia",
+          "pages": [
+            {
+              "url": "https://s3.amazonaws.com/ifashionist-dataset/annotations/attributes_train2020.json",
+              "products": 45623,
+              "snapshotSha256": "5e5271adaca8e990824189cbef508e4383c83a9a4a3c34c03ba5149b2ad94267"
+            }
+          ],
+          "archiveUrl": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+          "archiveSha256": "d896792104a4c35efa7859a18cf605fddae779f5c2372e87e08d7b45949244e2",
+          "errors": []
+        }
+      ],
+      "resumedFrom": "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json",
+      "originalCollectionOffset": 936
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-17T2010-menswear/sources.json",
+      "retrievedAt": "2026-09-17T19:51:43.792703+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 12 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "under510",
+          "pages": [
+            {
+              "url": "https://under510.com/products.json?limit=250&page=1",
+              "products": 142,
+              "retrievedAt": "2026-09-17T19:51:35.262936+00:00",
+              "snapshotSha256": "c235be772c2ea528cdd921a5b8697eafe918238c474d926f3594593b1bc35c39"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "under510-7504496001111-image-35025485889623",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/RedesignImageBackgroundMar22026_1.png?v=1776786389",
+              "sourceUrl": "https://under510.com/products/elemental-pants-taupe",
+              "sha256": "416203758cb6af7aebef0f565041a5ed5363a25ba085f4d28aa4ae58e564b068",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7504496001111-image-34879784386647",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/clothes-for-short-men-from-under510-45_7d76105d-da69-48f2-b630-e101808195c8.jpg?v=1776786389",
+              "sourceUrl": "https://under510.com/products/elemental-pants-taupe",
+              "sha256": "1cfe4f48977751ed2e973c1ab625f5b24b581455003e8cfaee08d29c715b6a9f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7504494755927-image-35025511678039",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/elemental-pants-for-short-men-navy-1.png?v=1776786983",
+              "sourceUrl": "https://under510.com/products/elemental-pants-navy",
+              "sha256": "b81d3c78b650fdf2a45761a0a94b063cb861f0f49dac717a72eac52042d91259",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7504494755927-image-35002922598487",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/clothes-for-short-men-from-under510-62_9fd66ddb-b06f-4d31-b42a-e1d9c5d8147d.jpg?v=1776786983",
+              "sourceUrl": "https://under510.com/products/elemental-pants-navy",
+              "sha256": "eecec32004c606ef1b4db54da1dbd5c046af30bae82cd61780a3e90a8e2391de",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7504494133335-image-35025542152279",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/elemental-pants-for-short-men-onyx-1.png?v=1776787736",
+              "sourceUrl": "https://under510.com/products/elemental-pants-graphite",
+              "sha256": "a6dd3614877a526b5214eac8d9857bc4aad672aedac83e9c08da7509338e57c1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7504494133335-image-34809956597847",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/elemental-pants-for-short-men-from-under510-graphite-1_b20da7a1-f577-4383-8f6e-9e334324b487.jpg?v=1776787736",
+              "sourceUrl": "https://under510.com/products/elemental-pants-graphite",
+              "sha256": "ce2da938ffbd226aedd946e135c2e2533790d2dbe118ac34387b1d0740cea01f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7519391252567-image-34699574935639",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/blue-houndstooth-stretch-blazer-for-short-men-under510-2.jpg?v=1770743959",
+              "sourceUrl": "https://under510.com/products/stretch-blazer-blue-houndstooth",
+              "sha256": "6c42040166dd6e435f0db02402e900f5dc44ce9be6122d709b7ec1394325342e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7519391252567-image-34699574968407",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/blue-houndstooth-stretch-blazer-for-short-men-under510-4.jpg?v=1770744030",
+              "sourceUrl": "https://under510.com/products/stretch-blazer-blue-houndstooth",
+              "sha256": "eccb8a516f37db5628e80e26736db055d34429ad24eed9e12205432bfb3ca710",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7519390564439-image-34699591057495",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/blue-plaid-stretch-blazer-for-short-men-under510-2.jpg?v=1770744089",
+              "sourceUrl": "https://under510.com/products/stretch-blazer-blue-plaid",
+              "sha256": "4ba0a0a0d7f32ae45d73554724b6d89183d0b2bbdfa4facb9c0a6002647e15b3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7519390564439-image-34699591123031",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/blue-plaid-stretch-blazer-for-short-men-under510-4.jpg?v=1770744089",
+              "sourceUrl": "https://under510.com/products/stretch-blazer-blue-plaid",
+              "sha256": "039782fec65074955396cb72aaf6891ea6d12fdbcff3ede4345ff64b8b2f3b9d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7519389974615-image-34699597807703",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/tan-plaid-stretch-blazer-for-short-men-under510-1.jpg?v=1770744103",
+              "sourceUrl": "https://under510.com/products/stretch-blazer-beige-plaid",
+              "sha256": "4f97c6e071735829023361f8f59825913b2f2cc66767400cd478de4a6ba8848e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7519389974615-image-34699597873239",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/tan-plaid-stretch-blazer-for-short-men-under510-3.jpg?v=1770744103",
+              "sourceUrl": "https://under510.com/products/stretch-blazer-beige-plaid",
+              "sha256": "e355afb729b6ac7f0cbb797a06702e84d9ed891f7c6a96c57356b3ba97a29898",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451841200215-image-34510255620183",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/t-shirts-for-short-men-from-under510-taupe-long-sleeve-2.jpg?v=1766774740",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-taupe",
+              "sha256": "1866b39a2c19d950b4a3899dbda858019824b63a2f38581aaeea7c91a7ad19b5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451841200215-image-34879792513111",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/clothes-for-short-men-from-under510-24_96d8708e-9aa6-421b-a35b-6cae66f9a82b.jpg?v=1773772149",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-taupe",
+              "sha256": "9e9ca51ba8ccf461c9caaeec718a2de733599202b28eee7b397fe76c4dc93aca",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451840938071-image-34510257356887",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/t-shirts-for-short-men-from-under510-olive-long-sleeve-3.jpg?v=1766775556",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-olive",
+              "sha256": "26276996789ac8df1c0ce4530b11f37c83398f89d506f07f1dba235eede4128f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451840938071-image-34879793496151",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/clothes-for-short-men-from-under510-73_d1bb1d59-2557-436a-bddd-9c44fea8509c.jpg?v=1773772228",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-olive",
+              "sha256": "4a79639f50096fc719118f3c110b0c76f5a582e217e5b1af80a8ef6b99fc10bf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451840610391-image-34510258667607",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/t-shirts-for-short-men-from-under510-navy-long-sleeve-4.jpg?v=1766774785",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-navy",
+              "sha256": "0d16a297909690796db112c75c9e343ff21d8c7a0c178d54bdcbfedcd4005e78",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451840610391-image-34836221263959",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/clothes-for-short-men-from-under510-37_e116f80f-7416-4d32-a42e-8740615c3ac2.jpg?v=1772747516",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-navy",
+              "sha256": "f6715ede60a7993ec8ddffd0da2994c6ef1bca996fe062494f1c45753dee87a2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451840217175-image-34510259814487",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/t-shirts-for-short-men-from-under510-iron-long-sleeve-2.jpg?v=1766774814",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-iron",
+              "sha256": "0cb6e0aba788756b84f41877131c3bed42fa570611755ef229027af9ad9560c3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451840217175-image-34879798542423",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/clothes-for-short-men-from-under510-69_1e048fff-fb12-462b-98b0-8ded829bd066.jpg?v=1773772449",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-iron",
+              "sha256": "5189c3d95d6af6aee4334bf6e48cedf3dfedd58faa566807956deaf20c7adb58",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451838218327-image-34510261059671",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/t-shirts-for-short-men-from-under510-black-long-sleeve-1.jpg?v=1766774825",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-black",
+              "sha256": "daa54ee30bcd5acea97bc3fe49ee6b654875e3ee6cccbb3a539062653bd2b97a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7451838218327-image-36181380726871",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/clothes-for-short-men-from-under510_frankie-83_3719e81e-3c48-4308-8fea-5d0f21aa12f8.jpg?v=1789567201",
+              "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-black",
+              "sha256": "2aebe684dace1e3eafd2f6ed4992ccdd30f4cfe1a79609289d7d48a978c87605",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7090034999383-image-36031287787607",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/5-pocket-super-stretch-pants-for-short-men-from-under510-charcoal-5_1d38f261-c0fe-4073-b2cc-9aa8a354d3b3.jpg?v=1788383339",
+              "sourceUrl": "https://under510.com/products/super-stretch-performance-pants-5-pocket-charcoal",
+              "sha256": "f4ac8b341b9548f692a81bad56dc0cf1d6d13454183324c88c1375eb31d14c5c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "under510-7090034999383-image-36181334982743",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2618/3610/files/clothes-for-short-men-from-under510_frankie-100.jpg?v=1789566636",
+              "sourceUrl": "https://under510.com/products/super-stretch-performance-pants-5-pocket-charcoal",
+              "sha256": "14895e3cb29a974281bbe4f6d5cd3cf341a279058e39434a929bdabd4378d7c3",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 24
+        },
+        {
+          "source": "perryellis",
+          "pages": [
+            {
+              "url": "https://perryellis.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-17T19:51:42.571799+00:00",
+              "snapshotSha256": "ea2f6ad17c30b83d1f23ffbaaaa75fd97688abec3e6847c96fe19ec4310b7747"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "perryellis-8061513498702-image-53880886952014",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Light-Brown-Suit-Jacket-4.jpg?v=1788429020",
+              "sourceUrl": "https://perryellis.com/products/skinny-fit-light-brown-suit",
+              "sha256": "c5e9d8aaae5e4411495d1a80d81cff9a4338e68685e9e9f232f1323b7d21c096",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8061513498702-image-53880886362190",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Suit-Pant-5_25584ea5.jpg?v=1788429076",
+              "sourceUrl": "https://perryellis.com/products/skinny-fit-light-brown-suit",
+              "sha256": "94f59669deed41e6258004092a47de185b19495e395a0625383bff111a785547",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8061507960910-image-53880886165582",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Tonal-Plaid-Suit-Jacket-4.jpg?v=1789196751",
+              "sourceUrl": "https://perryellis.com/products/skinny-fit-navy-tonal-plaid-suit",
+              "sha256": "ca9cdf3ea15a099b166d615998c31e187750d0f2cda26f244ad3ce302e695e6a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8061507960910-image-53880886526030",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Tonal-Plaid-Suit-Pant-5.jpg?v=1786187735",
+              "sourceUrl": "https://perryellis.com/products/skinny-fit-navy-tonal-plaid-suit",
+              "sha256": "e2bc8e89247e1b97eee347b137e282fa1bd2d007b60afd85ea7955d5851cbe84",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8061498622030-image-54479176007758",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Houndstooth-Suit-Jacket-4.jpg?v=1787121509",
+              "sourceUrl": "https://perryellis.com/products/slim-fit-houndstooth-suit",
+              "sha256": "707feb22899d43473eaf95d6cdda695bc2cd6980d3be28efc8b1852163634b0d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8061498622030-image-54479176138830",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Houndstooth-Suit-Jacket-5.jpg?v=1787121510",
+              "sourceUrl": "https://perryellis.com/products/slim-fit-houndstooth-suit",
+              "sha256": "1dc1e9b355f367d83edc95172b1001ad7853e36b135c02111b8cd80c7c768cc6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8061463363662-image-55372061376590",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Mini-Plaid-Suit-Jacket-4.jpg?v=1788505633",
+              "sourceUrl": "https://perryellis.com/products/slim-fit-dark-sapphire-mini-plaid-suit",
+              "sha256": "d66a5d0663154a82a8add3afd9faca8a3f7ea8564f59b73053a9fbbedeef623e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8061463363662-image-55371949473870",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Mini-Plaid-Suit-Pants-5.jpg?v=1788505627",
+              "sourceUrl": "https://perryellis.com/products/slim-fit-dark-sapphire-mini-plaid-suit",
+              "sha256": "9f87f447e14523309d4636057c89be0eb6addecce8434346a737d1b8aab988aa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8059116814414-image-55315480215630",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Gabardine-Suit-Jacket-4.jpg?v=1788429011",
+              "sourceUrl": "https://perryellis.com/products/skinny-fit-gabardine-suit",
+              "sha256": "a99e52815ef3c429476343f1a40b03dc5c90f6b70ae55947669f941b78a45d68",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8059116814414-image-55320555356238",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Performance-Gabardine-Stretch-Pant-5.jpg?v=1788429084",
+              "sourceUrl": "https://perryellis.com/products/skinny-fit-gabardine-suit",
+              "sha256": "0d136a5339ff61bb38246c284f98b0ff263a19e9b3e90c0264b83f9eff4988a1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8049821155406-image-55375748694094",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Geometric-Jacquard-Zip-Sweater-Black.jpg?v=1789021262",
+              "sourceUrl": "https://perryellis.com/products/geometric-jacquard-full-zip-sweater-4lfg7211",
+              "sha256": "733794c305c336b8235f6cefe3bdbf7ac7e569f58fef7b8093412b3c8ab877f2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8049821155406-image-55375748726862",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Geometric-Jacquard-Zip-Sweater-3.jpg?v=1789021266",
+              "sourceUrl": "https://perryellis.com/products/geometric-jacquard-full-zip-sweater-4lfg7211",
+              "sha256": "82d1b2d37fde4b7be8fbf8a1eee02d00613661b6b2b153a9c4e781c3d3fc6707",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280497742-image-53745343004750",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Diamond-Jacquard-Button-Down-Shirt-Bright-White.jpg?v=1788505662",
+              "sourceUrl": "https://perryellis.com/products/diamond-jacquard-short-sleeve-shirt-4lfw7024",
+              "sha256": "989598174a232dc854aa71e4be353ba6ed2b5fb20a669c5839c120b681ac7b18",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280497742-image-53745343037518",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Diamond-Jacquard-Button-Down-Shirt-3.jpg?v=1788505665",
+              "sourceUrl": "https://perryellis.com/products/diamond-jacquard-short-sleeve-shirt-4lfw7024",
+              "sha256": "c0451e1537d9620afa0734d81b7ce30cbf5e9a4cf6b8bce59229fca502684ea7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280890958-image-53745341202510",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Double-Knit-Sport-Jacket-Black.jpg?v=1788936981",
+              "sourceUrl": "https://perryellis.com/products/double-knit-slim-fit-jacket-pdjfg002",
+              "sha256": "19465f5e4fc2a274dae29a288ee23168bf3d8913025c324429de5123fb0b077d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280890958-image-53745341235278",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Double-Knit-Sport-Jacket-3.jpg?v=1788936983",
+              "sourceUrl": "https://perryellis.com/products/double-knit-slim-fit-jacket-pdjfg002",
+              "sha256": "73c3bc5cca7311e23680bfe3d1f4692ae133326e166b6550a937e498b38c1ae3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280956494-image-53745343496270",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Textured-Sport-Coat-Blue.jpg?v=1788428871",
+              "sourceUrl": "https://perryellis.com/products/textured-twill-slim-fit-sport-coat-rua0327",
+              "sha256": "e2e02c9123e3b89a72411ffe76a26e1ef599473ce9213afb5d6e13acb497993a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280956494-image-53745343529038",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Textured-Sport-Coat-3_b8ba1dc3.jpg?v=1788428895",
+              "sourceUrl": "https://perryellis.com/products/textured-twill-slim-fit-sport-coat-rua0327",
+              "sha256": "bdd7f976138bc0dffc96326d6aaa9e9241e305070f20d0249b439055ba9acc35",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280366670-image-53745337139278",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Plaid-Sport-Coat-Brown.jpg?v=1788428698",
+              "sourceUrl": "https://perryellis.com/products/brown-plaid-twill-slim-fit-sport-coat-rua0349",
+              "sha256": "fcf53460f98ecaab89d5daa4d93c97298dd7c15ffef5a24a43596af0b459b499",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280366670-image-53745337172046",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Plaid-Sport-Coat-3.jpg?v=1788428704",
+              "sourceUrl": "https://perryellis.com/products/brown-plaid-twill-slim-fit-sport-coat-rua0349",
+              "sha256": "34b50ef628cbbfd81b4e68d7f6038aa5201c98eb75ebc130f19f5de7aadea817",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-7999586467918-image-55372132417614",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Shadow-Glen-Plaid-Sport-Jacket-Magnet.jpg?v=1788505636",
+              "sourceUrl": "https://perryellis.com/products/shadow-glen-plaid-sport-jacket-4lfj4413",
+              "sha256": "c046ad4e1766545fbbbbab15877fa535fc2d551a6102f78e4d5c7216fd39d237",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-7999586467918-image-55372135235662",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Shadow-Glen-Plaid-Sport-Jacket-3.jpg?v=1788505639",
+              "sourceUrl": "https://perryellis.com/products/shadow-glen-plaid-sport-jacket-4lfj4413",
+              "sha256": "9e6c3a3ad5d539a6fa027b1b98f6102ded312f265465f75f25e738c4451d79ff",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-7999586369614-image-55372058296398",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Mini-Plaid-Suit-Jacket-Dark-Sapphire.jpg?v=1788505628",
+              "sourceUrl": "https://perryellis.com/products/slim-fit-mini-plaid-suit-jacket-4lfj4405",
+              "sha256": "9bf6b0cf145fe501e4a2f8b87020ef4171ec991ac6cab31b80580793c548dbc0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-7999586369614-image-55372058984526",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Mini-Plaid-Suit-Jacket-3.jpg?v=1788505631",
+              "sourceUrl": "https://perryellis.com/products/slim-fit-mini-plaid-suit-jacket-4lfj4405",
+              "sha256": "d024e213e786a25b7b31d0c9f75e4baeb73f6ec223cc9a2c7ee660e8399dbf0e",
               "outcome": "downloaded-unique"
             }
           ],

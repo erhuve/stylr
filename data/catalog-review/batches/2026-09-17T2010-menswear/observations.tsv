@@ -1,0 +1,49 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	reject	?	?	?	U	Trouser crop repeats tan trousers shown in the fuller outfit at ordinal 1.
+1	full	1.5	?	?	U	Dark hooded long-sleeve top, tan trousers and white sneakers; loose hem hides waist contour.
+2	detail	?	?	?	U	Navy trousers crop omits shoulders and most torso.
+3	seated	1.5	?	?	U	Plain black tee and navy trousers with sneakers seated on stool; seated pose prevents body axes.
+4	reject	?	?	?	U	Shoulderless white-tee and black-trouser crop is another basic trouser variant without new contour evidence.
+5	detail	?	?	?	U	Close-up of trouser pocket and hands without an outfit view.
+6	partial	2	?	?	M	Gray blazer with white collared shirt and dark trousers; structured jacket conceals natural waist and shoulder balance.
+7	reject	?	?	?	M	Alternate crop repeats gray blazer ensemble at ordinal 6.
+8	reject	?	?	?	M	Blue variation repeats the blazer, white shirt and dark trousers styling at ordinal 6.
+9	detail	?	?	?	M	Opened jacket lining close-up rather than new outfit view.
+10	reject	?	?	?	M	Beige blazer colorway repeats the styling admitted at ordinal 6.
+11	back	?	?	?	M	Rear view of beige blazer hides front proportions.
+12	partial	2	?	?	U	Taupe long-sleeve crewneck and dark trousers; enlarged view shows loose drape across waist and pocketed hand obscuring hips.
+13	partial	1.5	?	?	U	Taupe crewneck and dark trousers in outdoor view; narrower visible torso than studio view, but bent arm and loose hem hide axes.
+14	reject	?	?	?	U	Olive crewneck colorway repeats studio basic ensemble at ordinal 12.
+15	reject	?	?	?	U	Outdoor olive crewneck repeats the neutral ensemble at ordinal 13.
+16	reject	?	?	?	U	Navy crewneck studio colorway repeats ordinal 12 without new outfit structure.
+17	full	2	?	?	U	Navy crewneck, blue jeans and brown boots; enlarged image shows forward lean and bent arms, preventing reliable waist and shoulder comparison.
+18	reject	?	?	?	U	Charcoal crewneck studio colorway repeats ordinal 12.
+19	reject	?	?	?	U	Close outdoor charcoal crewneck portrait repeats neutral styling at ordinal 13.
+20	reject	?	?	?	U	Black crewneck studio colorway repeats ordinal 12.
+21	reject	?	?	?	U	Outdoor black crewneck with trousers repeats ordinal 13 and adds no reliable contours.
+22	detail	?	?	?	U	White top and gray trousers crop cuts off shoulders and upper torso.
+23	full	1.5	?	?	C	Black polo with tailored gray trousers and white sneakers; enlarged view confirms angled stance and loose shirt hem conceal body axes.
+24	full	1.5	?	?	M	Brown two-piece suit, open white collar and dark dress shoes; structured tailoring conceals natural contours.
+25	reject	?	?	?	M	Seated alternate repeats brown suit at ordinal 24.
+26	reject	?	?	?	M	Dark suit with white shirt repeats the two-piece formal styling at ordinal 24 as a colorway.
+27	reject	?	?	?	M	Seated dark suit repeats the same formal colorway ensemble.
+28	reject	?	?	?	M	Gray suit variation repeats the formal white-shirt ensemble at ordinal 24.
+29	reject	?	?	?	M	Alternate gray suit pose repeats prior suit styling.
+30	full	1.5	?	?	M	Navy suit with light tie, belt and polished shoes; tie-led formal ensemble differs from open-collar suit, jacket still hides axes.
+31	reject	?	?	?	M	Alternate pose repeats navy suit and tie at ordinal 30.
+32	full	1.5	?	?	M	Black suit with black open-collar shirt and dark loafers; monochromatic formal ensemble, tailored layers hide body axes.
+33	reject	?	?	?	M	Seated version repeats black-on-black suit at ordinal 32.
+34	partial	1.5	?	?	C	Textured dark zip jacket over white tee and dark trousers; jacket and hands in pockets obscure waist and hips.
+35	back	?	?	?	C	Rear view of textured zip jacket.
+36	partial	1.5	?	?	C	White collared long-sleeve shirt and black trousers; enlarged view shows shirt hem draping over hips and one pocketed hand, so body axes remain unknown.
+37	back	?	?	?	C	Rear white-shirt view does not show front contours.
+38	partial	2	?	?	M	Black blazer over white crewneck with dark trousers; structured jacket conceals natural body contours.
+39	back	?	?	?	M	Rear black-blazer view.
+40	partial	2	?	?	M	Blue blazer with pale collared shirt, tan trousers and black belt; tailored separates hide natural waist and shoulders.
+41	back	?	?	?	M	Rear blue-blazer view.
+42	reject	?	?	?	M	Brown blazer colorway repeats the pale-shirt and tan-trouser styling at ordinal 40.
+43	back	?	?	?	M	Rear brown-blazer view.
+44	partial	2	?	?	M	Windowpane plaid blazer, pale blue shirt and dark jeans; distinct patterned tailoring, jacket obscures axes.
+45	back	?	?	?	M	Rear plaid-blazer view.
+46	reject	?	?	?	M	Navy suit and tie crop repeats full ensemble at ordinal 30.
+47	back	?	?	?	M	Rear navy suit view.

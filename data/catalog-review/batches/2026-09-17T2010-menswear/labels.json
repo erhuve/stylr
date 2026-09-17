@@ -1,0 +1,770 @@
+[
+  {
+    "id": "under510-7504496001111-image-35025485889623",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/elemental-pants-taupe",
+    "localPath": "images/under510-7504496001111-image-35025485889623.webp",
+    "sha256": "416203758cb6af7aebef0f565041a5ed5363a25ba085f4d28aa4ae58e564b068",
+    "ordinal": 0,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser crop repeats tan trousers shown in the fuller outfit at ordinal 1.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7504496001111-image-34879784386647",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/elemental-pants-taupe",
+    "localPath": "images/under510-7504496001111-image-34879784386647.webp",
+    "sha256": "1cfe4f48977751ed2e973c1ab625f5b24b581455003e8cfaee08d29c715b6a9f",
+    "ordinal": 1,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark hooded long-sleeve top, tan trousers and white sneakers; loose hem hides waist contour.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7504494755927-image-35025511678039",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/elemental-pants-navy",
+    "localPath": "images/under510-7504494755927-image-35025511678039.webp",
+    "sha256": "b81d3c78b650fdf2a45761a0a94b063cb861f0f49dac717a72eac52042d91259",
+    "ordinal": 2,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy trousers crop omits shoulders and most torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7504494755927-image-35002922598487",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/elemental-pants-navy",
+    "localPath": "images/under510-7504494755927-image-35002922598487.webp",
+    "sha256": "eecec32004c606ef1b4db54da1dbd5c046af30bae82cd61780a3e90a8e2391de",
+    "ordinal": 3,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Plain black tee and navy trousers with sneakers seated on stool; seated pose prevents body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7504494133335-image-35025542152279",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/elemental-pants-graphite",
+    "localPath": "images/under510-7504494133335-image-35025542152279.webp",
+    "sha256": "a6dd3614877a526b5214eac8d9857bc4aad672aedac83e9c08da7509338e57c1",
+    "ordinal": 4,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulderless white-tee and black-trouser crop is another basic trouser variant without new contour evidence.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7504494133335-image-34809956597847",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/elemental-pants-graphite",
+    "localPath": "images/under510-7504494133335-image-34809956597847.webp",
+    "sha256": "ce2da938ffbd226aedd946e135c2e2533790d2dbe118ac34387b1d0740cea01f",
+    "ordinal": 5,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close-up of trouser pocket and hands without an outfit view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7519391252567-image-34699574935639",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/stretch-blazer-blue-houndstooth",
+    "localPath": "images/under510-7519391252567-image-34699574935639.webp",
+    "sha256": "6c42040166dd6e435f0db02402e900f5dc44ce9be6122d709b7ec1394325342e",
+    "ordinal": 6,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray blazer with white collared shirt and dark trousers; structured jacket conceals natural waist and shoulder balance.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7519391252567-image-34699574968407",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/stretch-blazer-blue-houndstooth",
+    "localPath": "images/under510-7519391252567-image-34699574968407.webp",
+    "sha256": "eccb8a516f37db5628e80e26736db055d34429ad24eed9e12205432bfb3ca710",
+    "ordinal": 7,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Alternate crop repeats gray blazer ensemble at ordinal 6.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7519390564439-image-34699591057495",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/stretch-blazer-blue-plaid",
+    "localPath": "images/under510-7519390564439-image-34699591057495.webp",
+    "sha256": "4ba0a0a0d7f32ae45d73554724b6d89183d0b2bbdfa4facb9c0a6002647e15b3",
+    "ordinal": 8,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue variation repeats the blazer, white shirt and dark trousers styling at ordinal 6.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7519390564439-image-34699591123031",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/stretch-blazer-blue-plaid",
+    "localPath": "images/under510-7519390564439-image-34699591123031.webp",
+    "sha256": "039782fec65074955396cb72aaf6891ea6d12fdbcff3ede4345ff64b8b2f3b9d",
+    "ordinal": 9,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Opened jacket lining close-up rather than new outfit view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7519389974615-image-34699597807703",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/stretch-blazer-beige-plaid",
+    "localPath": "images/under510-7519389974615-image-34699597807703.webp",
+    "sha256": "4f97c6e071735829023361f8f59825913b2f2cc66767400cd478de4a6ba8848e",
+    "ordinal": 10,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Beige blazer colorway repeats the styling admitted at ordinal 6.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7519389974615-image-34699597873239",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/stretch-blazer-beige-plaid",
+    "localPath": "images/under510-7519389974615-image-34699597873239.webp",
+    "sha256": "e355afb729b6ac7f0cbb797a06702e84d9ed891f7c6a96c57356b3ba97a29898",
+    "ordinal": 11,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of beige blazer hides front proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451841200215-image-34510255620183",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-taupe",
+    "localPath": "images/under510-7451841200215-image-34510255620183.webp",
+    "sha256": "1866b39a2c19d950b4a3899dbda858019824b63a2f38581aaeea7c91a7ad19b5",
+    "ordinal": 12,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Taupe long-sleeve crewneck and dark trousers; enlarged view shows loose drape across waist and pocketed hand obscuring hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451841200215-image-34879792513111",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-taupe",
+    "localPath": "images/under510-7451841200215-image-34879792513111.webp",
+    "sha256": "9e9ca51ba8ccf461c9caaeec718a2de733599202b28eee7b397fe76c4dc93aca",
+    "ordinal": 13,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Taupe crewneck and dark trousers in outdoor view; narrower visible torso than studio view, but bent arm and loose hem hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451840938071-image-34510257356887",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-olive",
+    "localPath": "images/under510-7451840938071-image-34510257356887.webp",
+    "sha256": "26276996789ac8df1c0ce4530b11f37c83398f89d506f07f1dba235eede4128f",
+    "ordinal": 14,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Olive crewneck colorway repeats studio basic ensemble at ordinal 12.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451840938071-image-34879793496151",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-olive",
+    "localPath": "images/under510-7451840938071-image-34879793496151.webp",
+    "sha256": "4a79639f50096fc719118f3c110b0c76f5a582e217e5b1af80a8ef6b99fc10bf",
+    "ordinal": 15,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Outdoor olive crewneck repeats the neutral ensemble at ordinal 13.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451840610391-image-34510258667607",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-navy",
+    "localPath": "images/under510-7451840610391-image-34510258667607.webp",
+    "sha256": "0d16a297909690796db112c75c9e343ff21d8c7a0c178d54bdcbfedcd4005e78",
+    "ordinal": 16,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy crewneck studio colorway repeats ordinal 12 without new outfit structure.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451840610391-image-34836221263959",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-navy",
+    "localPath": "images/under510-7451840610391-image-34836221263959.webp",
+    "sha256": "f6715ede60a7993ec8ddffd0da2994c6ef1bca996fe062494f1c45753dee87a2",
+    "ordinal": 17,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy crewneck, blue jeans and brown boots; enlarged image shows forward lean and bent arms, preventing reliable waist and shoulder comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451840217175-image-34510259814487",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-iron",
+    "localPath": "images/under510-7451840217175-image-34510259814487.webp",
+    "sha256": "0cb6e0aba788756b84f41877131c3bed42fa570611755ef229027af9ad9560c3",
+    "ordinal": 18,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Charcoal crewneck studio colorway repeats ordinal 12.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451840217175-image-34879798542423",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-iron",
+    "localPath": "images/under510-7451840217175-image-34879798542423.webp",
+    "sha256": "5189c3d95d6af6aee4334bf6e48cedf3dfedd58faa566807956deaf20c7adb58",
+    "ordinal": 19,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close outdoor charcoal crewneck portrait repeats neutral styling at ordinal 13.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451838218327-image-34510261059671",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-black",
+    "localPath": "images/under510-7451838218327-image-34510261059671.webp",
+    "sha256": "daa54ee30bcd5acea97bc3fe49ee6b654875e3ee6cccbb3a539062653bd2b97a",
+    "ordinal": 20,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black crewneck studio colorway repeats ordinal 12.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7451838218327-image-36181380726871",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/long-sleeve-core-t-shirt-black",
+    "localPath": "images/under510-7451838218327-image-36181380726871.webp",
+    "sha256": "2aebe684dace1e3eafd2f6ed4992ccdd30f4cfe1a79609289d7d48a978c87605",
+    "ordinal": 21,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Outdoor black crewneck with trousers repeats ordinal 13 and adds no reliable contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7090034999383-image-36031287787607",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/super-stretch-performance-pants-5-pocket-charcoal",
+    "localPath": "images/under510-7090034999383-image-36031287787607.webp",
+    "sha256": "f4ac8b341b9548f692a81bad56dc0cf1d6d13454183324c88c1375eb31d14c5c",
+    "ordinal": 22,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White top and gray trousers crop cuts off shoulders and upper torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "under510-7090034999383-image-36181334982743",
+    "source": "under510",
+    "sourceUrl": "https://under510.com/products/super-stretch-performance-pants-5-pocket-charcoal",
+    "localPath": "images/under510-7090034999383-image-36181334982743.webp",
+    "sha256": "14895e3cb29a974281bbe4f6d5cd3cf341a279058e39434a929bdabd4378d7c3",
+    "ordinal": 23,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black polo with tailored gray trousers and white sneakers; enlarged view confirms angled stance and loose shirt hem conceal body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8061513498702-image-53880886952014",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/skinny-fit-light-brown-suit",
+    "localPath": "images/perryellis-8061513498702-image-53880886952014.webp",
+    "sha256": "c5e9d8aaae5e4411495d1a80d81cff9a4338e68685e9e9f232f1323b7d21c096",
+    "ordinal": 24,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown two-piece suit, open white collar and dark dress shoes; structured tailoring conceals natural contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8061513498702-image-53880886362190",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/skinny-fit-light-brown-suit",
+    "localPath": "images/perryellis-8061513498702-image-53880886362190.webp",
+    "sha256": "94f59669deed41e6258004092a47de185b19495e395a0625383bff111a785547",
+    "ordinal": 25,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated alternate repeats brown suit at ordinal 24.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8061507960910-image-53880886165582",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/skinny-fit-navy-tonal-plaid-suit",
+    "localPath": "images/perryellis-8061507960910-image-53880886165582.webp",
+    "sha256": "ca9cdf3ea15a099b166d615998c31e187750d0f2cda26f244ad3ce302e695e6a",
+    "ordinal": 26,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark suit with white shirt repeats the two-piece formal styling at ordinal 24 as a colorway.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8061507960910-image-53880886526030",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/skinny-fit-navy-tonal-plaid-suit",
+    "localPath": "images/perryellis-8061507960910-image-53880886526030.webp",
+    "sha256": "e2bc8e89247e1b97eee347b137e282fa1bd2d007b60afd85ea7955d5851cbe84",
+    "ordinal": 27,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated dark suit repeats the same formal colorway ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8061498622030-image-54479176007758",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/slim-fit-houndstooth-suit",
+    "localPath": "images/perryellis-8061498622030-image-54479176007758.webp",
+    "sha256": "707feb22899d43473eaf95d6cdda695bc2cd6980d3be28efc8b1852163634b0d",
+    "ordinal": 28,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray suit variation repeats the formal white-shirt ensemble at ordinal 24.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8061498622030-image-54479176138830",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/slim-fit-houndstooth-suit",
+    "localPath": "images/perryellis-8061498622030-image-54479176138830.webp",
+    "sha256": "1dc1e9b355f367d83edc95172b1001ad7853e36b135c02111b8cd80c7c768cc6",
+    "ordinal": 29,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Alternate gray suit pose repeats prior suit styling.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8061463363662-image-55372061376590",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/slim-fit-dark-sapphire-mini-plaid-suit",
+    "localPath": "images/perryellis-8061463363662-image-55372061376590.webp",
+    "sha256": "d66a5d0663154a82a8add3afd9faca8a3f7ea8564f59b73053a9fbbedeef623e",
+    "ordinal": 30,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy suit with light tie, belt and polished shoes; tie-led formal ensemble differs from open-collar suit, jacket still hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8061463363662-image-55371949473870",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/slim-fit-dark-sapphire-mini-plaid-suit",
+    "localPath": "images/perryellis-8061463363662-image-55371949473870.webp",
+    "sha256": "9f87f447e14523309d4636057c89be0eb6addecce8434346a737d1b8aab988aa",
+    "ordinal": 31,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Alternate pose repeats navy suit and tie at ordinal 30.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8059116814414-image-55315480215630",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/skinny-fit-gabardine-suit",
+    "localPath": "images/perryellis-8059116814414-image-55315480215630.webp",
+    "sha256": "a99e52815ef3c429476343f1a40b03dc5c90f6b70ae55947669f941b78a45d68",
+    "ordinal": 32,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black suit with black open-collar shirt and dark loafers; monochromatic formal ensemble, tailored layers hide body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8059116814414-image-55320555356238",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/skinny-fit-gabardine-suit",
+    "localPath": "images/perryellis-8059116814414-image-55320555356238.webp",
+    "sha256": "0d136a5339ff61bb38246c284f98b0ff263a19e9b3e90c0264b83f9eff4988a1",
+    "ordinal": 33,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated version repeats black-on-black suit at ordinal 32.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8049821155406-image-55375748694094",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/geometric-jacquard-full-zip-sweater-4lfg7211",
+    "localPath": "images/perryellis-8049821155406-image-55375748694094.webp",
+    "sha256": "733794c305c336b8235f6cefe3bdbf7ac7e569f58fef7b8093412b3c8ab877f2",
+    "ordinal": 34,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Textured dark zip jacket over white tee and dark trousers; jacket and hands in pockets obscure waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8049821155406-image-55375748726862",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/geometric-jacquard-full-zip-sweater-4lfg7211",
+    "localPath": "images/perryellis-8049821155406-image-55375748726862.webp",
+    "sha256": "82d1b2d37fde4b7be8fbf8a1eee02d00613661b6b2b153a9c4e781c3d3fc6707",
+    "ordinal": 35,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of textured zip jacket.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8005280497742-image-53745343004750",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/diamond-jacquard-short-sleeve-shirt-4lfw7024",
+    "localPath": "images/perryellis-8005280497742-image-53745343004750.webp",
+    "sha256": "989598174a232dc854aa71e4be353ba6ed2b5fb20a669c5839c120b681ac7b18",
+    "ordinal": 36,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White collared long-sleeve shirt and black trousers; enlarged view shows shirt hem draping over hips and one pocketed hand, so body axes remain unknown.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8005280497742-image-53745343037518",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/diamond-jacquard-short-sleeve-shirt-4lfw7024",
+    "localPath": "images/perryellis-8005280497742-image-53745343037518.webp",
+    "sha256": "c0451e1537d9620afa0734d81b7ce30cbf5e9a4cf6b8bce59229fca502684ea7",
+    "ordinal": 37,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear white-shirt view does not show front contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8005280890958-image-53745341202510",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/double-knit-slim-fit-jacket-pdjfg002",
+    "localPath": "images/perryellis-8005280890958-image-53745341202510.webp",
+    "sha256": "19465f5e4fc2a274dae29a288ee23168bf3d8913025c324429de5123fb0b077d",
+    "ordinal": 38,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black blazer over white crewneck with dark trousers; structured jacket conceals natural body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8005280890958-image-53745341235278",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/double-knit-slim-fit-jacket-pdjfg002",
+    "localPath": "images/perryellis-8005280890958-image-53745341235278.webp",
+    "sha256": "73c3bc5cca7311e23680bfe3d1f4692ae133326e166b6550a937e498b38c1ae3",
+    "ordinal": 39,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear black-blazer view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8005280956494-image-53745343496270",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/textured-twill-slim-fit-sport-coat-rua0327",
+    "localPath": "images/perryellis-8005280956494-image-53745343496270.webp",
+    "sha256": "e2e02c9123e3b89a72411ffe76a26e1ef599473ce9213afb5d6e13acb497993a",
+    "ordinal": 40,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue blazer with pale collared shirt, tan trousers and black belt; tailored separates hide natural waist and shoulders.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8005280956494-image-53745343529038",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/textured-twill-slim-fit-sport-coat-rua0327",
+    "localPath": "images/perryellis-8005280956494-image-53745343529038.webp",
+    "sha256": "bdd7f976138bc0dffc96326d6aaa9e9241e305070f20d0249b439055ba9acc35",
+    "ordinal": 41,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear blue-blazer view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8005280366670-image-53745337139278",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/brown-plaid-twill-slim-fit-sport-coat-rua0349",
+    "localPath": "images/perryellis-8005280366670-image-53745337139278.webp",
+    "sha256": "fcf53460f98ecaab89d5daa4d93c97298dd7c15ffef5a24a43596af0b459b499",
+    "ordinal": 42,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown blazer colorway repeats the pale-shirt and tan-trouser styling at ordinal 40.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-8005280366670-image-53745337172046",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/brown-plaid-twill-slim-fit-sport-coat-rua0349",
+    "localPath": "images/perryellis-8005280366670-image-53745337172046.webp",
+    "sha256": "34b50ef628cbbfd81b4e68d7f6038aa5201c98eb75ebc130f19f5de7aadea817",
+    "ordinal": 43,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear brown-blazer view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-7999586467918-image-55372132417614",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/shadow-glen-plaid-sport-jacket-4lfj4413",
+    "localPath": "images/perryellis-7999586467918-image-55372132417614.webp",
+    "sha256": "c046ad4e1766545fbbbbab15877fa535fc2d551a6102f78e4d5c7216fd39d237",
+    "ordinal": 44,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Windowpane plaid blazer, pale blue shirt and dark jeans; distinct patterned tailoring, jacket obscures axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-7999586467918-image-55372135235662",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/shadow-glen-plaid-sport-jacket-4lfj4413",
+    "localPath": "images/perryellis-7999586467918-image-55372135235662.webp",
+    "sha256": "9e6c3a3ad5d539a6fa027b1b98f6102ded312f265465f75f25e738c4451d79ff",
+    "ordinal": 45,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear plaid-blazer view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-7999586369614-image-55372058296398",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/slim-fit-mini-plaid-suit-jacket-4lfj4405",
+    "localPath": "images/perryellis-7999586369614-image-55372058296398.webp",
+    "sha256": "9bf6b0cf145fe501e4a2f8b87020ef4171ec991ac6cab31b80580793c548dbc0",
+    "ordinal": 46,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy suit and tie crop repeats full ensemble at ordinal 30.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "perryellis-7999586369614-image-55372058984526",
+    "source": "perryellis",
+    "sourceUrl": "https://perryellis.com/products/slim-fit-mini-plaid-suit-jacket-4lfj4405",
+    "localPath": "images/perryellis-7999586369614-image-55372058984526.webp",
+    "sha256": "d024e213e786a25b7b31d0c9f75e4baeb73f6ec223cc9a2c7ee660e8399dbf0e",
+    "ordinal": 47,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear navy suit view.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

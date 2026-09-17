@@ -1,8 +1,18 @@
 # Doubling the reviewed library
 
-Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,007 photos; 3,205 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,068 photos; 3,144 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
 
-## Current continuation: new publisher and saved archive
+## Current continuation: two new publishers and saved archive
+
+Batches `2026-09-17T2000-training` and `2026-09-17T2010-menswear` directly inspect 96 candidates on six bound sheets with eight original-image enlargements. Half of the review budget targets two new menswear publishers. They admit 61 photos: 11 masculine, 32 feminine, two mixed and 16 unclear. Fifty-nine additions have build observations; one feminine-styled fitted outfit adds a complete reference. Totals: 7,068 photos, 6,827 body records, 5,550 build observations, 289 complete references and 54 broader-build benchmark matches. Three sampled positions improve by one; 12 of 45 remain empty. Complete masculine references remain at 43.
+
+Under 5'10 and Perry Ellis first-page listings record all 392 product decisions and yield 48 unique candidates from 24 new product pages. Their 15 admissions broaden tailoring and casual coverage; suit/crewneck colorways, backs and crops limit yield. Source history now covers 11,522 sampled pages, 40,661 deferred pages, 46 source keys and 50 recorded runs. Photo/page counts do not establish distinct people.
+
+All 7,007 preceding presentation rows and 6,622 preceding expansion photo/asset/body records remain exact prefixes. The original 4,800-image training collection reconstructs from reviewed partitions 720 + 120 + 48 + 48 + 48 and 3,816 pending records beginning at ordinal 984. Pending images remain excluded. Append batch names after `2026-09-17T2010-menswear`; prioritize fuller-build front-view references and retain obscured axes as unknown.
+
+Admission replay, image/sheet/source bindings, original-photo identity, library audit, presentation completeness and typechecking pass. All 7,068 assets validate without duplicate image hashes; all 86 browser checks pass in 4.0 minutes. The full unit run passes 130 checks, including exhaustive sequencing (357.05 seconds); the additional-batch provenance check exceeds its five-second default at 5.07 seconds. With a 30-second allowance and every assertion retained, its focused rerun passes in 4.92 seconds. All 131 unit checks therefore pass across the full run and focused rerun. This checkpoint is not deployed.
+
+## Previous continuation: new publisher and saved archive
 
 Batches `2026-09-17T1920-training`, `2026-09-17T1930-targeted` and `2026-09-17T1940-chubbies` directly inspect 108 candidates on seven bound sheets with eight original-image enlargements. Sixty candidates target masculine casual/tailored sources, alongside 48 saved archive images. They admit 53 photos: six masculine, 23 feminine, one mixed and 23 unclear. Forty-two additions have build observations; none adds a complete reference. Current totals: 7,007 photos, 6,766 body records, 5,491 build observations, 288 complete references and 54 broader-build benchmark matches. All 45 sampled body-filter counts are unchanged; 12 settings remain empty.
 

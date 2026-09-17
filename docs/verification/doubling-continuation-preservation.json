@@ -1,56 +1,48 @@
 {
-  "baselineCommit": "6dc1c37",
+  "baselineCommit": "a00fcb1",
   "preservedPrefixes": {
-    "scripts/reviewed-photos.json": 6569,
-    "scripts/reviewed-assets.json": 6569,
-    "data/catalog-review/admitted-body.json": 6569
+    "scripts/reviewed-photos.json": 6622,
+    "scripts/reviewed-assets.json": 6622,
+    "data/catalog-review/admitted-body.json": 6622
   },
-  "preservedPresentationRows": 6954,
+  "preservedPresentationRows": 7007,
   "trainingPartition": [
     720,
     120,
     48,
     48,
-    3864
+    48,
+    3816
   ],
   "pendingExcluded": true,
   "batches": [
     {
-      "batch": "2026-09-17T1920-training",
+      "batch": "2026-09-17T2000-training",
       "reviewed": 48,
-      "admitted": 41,
-      "build": 32,
-      "complete": 0,
+      "admitted": 46,
+      "build": 44,
+      "complete": 1,
       "presentationEvidence": {
-        "U": 17,
-        "F": 7,
-        "D": 16,
-        "X": 1
+        "C": 1,
+        "D": 21,
+        "F": 11,
+        "X": 2,
+        "U": 11
       }
     },
     {
-      "batch": "2026-09-17T1930-targeted",
-      "reviewed": 36,
-      "admitted": 6,
-      "build": 5,
+      "batch": "2026-09-17T2010-menswear",
+      "reviewed": 48,
+      "admitted": 15,
+      "build": 15,
       "complete": 0,
       "presentationEvidence": {
-        "C": 3,
-        "U": 3
-      }
-    },
-    {
-      "batch": "2026-09-17T1940-chubbies",
-      "reviewed": 24,
-      "admitted": 6,
-      "build": 5,
-      "complete": 0,
-      "presentationEvidence": {
-        "C": 3,
-        "U": 3
+        "U": 5,
+        "M": 7,
+        "C": 3
       }
     }
   ],
-  "totalPhotos": 7007,
-  "remainingToTarget": 3205
+  "totalPhotos": 7068,
+  "remainingToTarget": 3144
 }

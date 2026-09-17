@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9484,
-  "admittedPhotos": 6622,
-  "totalPhotos": 7007,
+  "reviewedCandidates": 9580,
+  "admittedPhotos": 6683,
+  "totalPhotos": 7068,
   "axisSupport": {
-    "build": 5367,
-    "shoulderHip": 304,
-    "waist": 594
+    "build": 5426,
+    "shoulderHip": 305,
+    "waist": 597
   },
-  "completeReferences": 246,
-  "sourcePages": 6075,
+  "completeReferences": 247,
+  "sourcePages": 6135,
   "excludedReasons": {
-    "non-outfit-view": 2804,
+    "non-outfit-view": 2839,
     "existing-source-page": 58
   },
   "excluded": [
@@ -11460,6 +11460,146 @@
     },
     {
       "id": "chubbies-7329375354953-image-33782776365129",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-11129",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fashionpedia-expansion-16017",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7504496001111-image-35025485889623",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7504494755927-image-35025511678039",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7504494133335-image-35025542152279",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7504494133335-image-34809956597847",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7519391252567-image-34699574968407",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7519390564439-image-34699591057495",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7519390564439-image-34699591123031",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7519389974615-image-34699597807703",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7519389974615-image-34699597873239",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7451840938071-image-34510257356887",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7451840938071-image-34879793496151",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7451840610391-image-34510258667607",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7451840217175-image-34510259814487",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7451840217175-image-34879798542423",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7451838218327-image-34510261059671",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7451838218327-image-36181380726871",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "under510-7090034999383-image-36031287787607",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8061513498702-image-53880886362190",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8061507960910-image-53880886165582",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8061507960910-image-53880886526030",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8061498622030-image-54479176007758",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8061498622030-image-54479176138830",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8061463363662-image-55371949473870",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8059116814414-image-55320555356238",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8049821155406-image-55375748726862",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8005280497742-image-53745343037518",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8005280890958-image-53745341235278",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8005280956494-image-53745343529038",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8005280366670-image-53745337139278",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-8005280366670-image-53745337172046",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-7999586467918-image-55372135235662",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-7999586369614-image-55372058296398",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "perryellis-7999586369614-image-55372058984526",
       "reason": "non-outfit-view"
     }
   ]

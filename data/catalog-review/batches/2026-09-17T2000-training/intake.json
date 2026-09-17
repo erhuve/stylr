@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "fashionpedia-expansion-11036",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/65hehL",
+    "imageUrl": "https://farm4.staticflickr.com/3552/3330216320_1430e54771_m.jpg",
+    "title": "Fashionpedia photo 11036",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 11036,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/6b5b859acbe2d2e4dcee56c400d52e40.jpg",
+      "sha256": "4564835ffe48949973941c7803f93a62f1ce8b8991b44d810a9a4eb3ade3830d"
+    },
+    "localPath": "images/fashionpedia-expansion-11036.webp",
+    "width": 720,
+    "height": 956,
+    "sha256": "ce03b2c874ddc07a7b44c3dd6c19fd889501ef529d8e1f39ed92199207713a0f",
+    "dhash": "b3eba3a9cd05cef1"
+  },
+  {
+    "id": "fashionpedia-expansion-12736",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/68cuPM",
+    "imageUrl": "https://farm4.staticflickr.com/3595/3363242507_6fd35960c5_n.jpg",
+    "title": "Fashionpedia photo 12736",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 12736,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/d277071ae2ff555be420c36176a7852b.jpg",
+      "sha256": "47340b342c3d7738325b828fb73e53c9a0c88d13337ab7b6f5070ebd70a18bb7"
+    },
+    "localPath": "images/fashionpedia-expansion-12736.webp",
+    "width": 545,
+    "height": 1000,
+    "sha256": "e77e74887ff24b34b7b635674c586f198eb798e179758c71df9f074c1e44d5e3",
+    "dhash": "8889333360e0cbc9"
+  },
+  {
+    "id": "fashionpedia-expansion-17206",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/68gJh1",
+    "imageUrl": "https://farm4.staticflickr.com/3618/3364068208_46419e02f1_n.jpg",
+    "title": "Fashionpedia photo 17206",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 17206,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/359c5aa5cda2095ab37c0601a6bf82c7.jpg",
+      "sha256": "40576c4e61b0563ef78a1858ddd6ee1da0d30d51c284388fac66553ce201dc00"
+    },
+    "localPath": "images/fashionpedia-expansion-17206.webp",
+    "width": 720,
+    "height": 971,
+    "sha256": "35b5a56111d0e3f6803e9496e41d19563929f18260f3ccb2a88d4c666433fb8f",
+    "dhash": "c6660dc3c624e081"
+  },
+  {
+    "id": "fashionpedia-expansion-13212",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/69twLu",
+    "imageUrl": "https://farm4.staticflickr.com/3589/3377687332_432fa93938_n.jpg",
+    "title": "Fashionpedia photo 13212",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 13212,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/ba2faa58092809e759c3b9f3eab66431.jpg",
+      "sha256": "fd648a9adaff38214c999037578db8e68834279923ad3d0600360ede30adbfc3"
+    },
+    "localPath": "images/fashionpedia-expansion-13212.webp",
+    "width": 602,
+    "height": 1000,
+    "sha256": "56768140478bf549f189ac044ae11cc2833a360501878a92de92f8762997c228",
+    "dhash": "f9b9f676b4fee3cf"
+  },
+  {
+    "id": "fashionpedia-expansion-19483",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/CCMqc8",
+    "imageUrl": "https://farm6.staticflickr.com/5671/24045098925_66278edd15_n.jpg",
+    "title": "Fashionpedia photo 19483",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 19483,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/595651bd1e7815aee787fb378d2a04e6.jpg",
+      "sha256": "445ecd3fa3b6822a8717494fcc2da9907e7189525e1e59f35073aad8c9068e46"
+    },
+    "localPath": "images/fashionpedia-expansion-19483.webp",
+    "width": 664,
+    "height": 1000,
+    "sha256": "e47fead28c7d8c45c8b3d11d50fe6ea5588e09f48110476a9c3fc9a9a6f9fbaf",
+    "dhash": "173394d3533b6373"
+  },
+  {
+    "id": "fashionpedia-expansion-16054",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WrozfU",
+    "imageUrl": "https://farm5.staticflickr.com/4308/35730582212_8ef998560d_n.jpg",
+    "title": "Fashionpedia photo 16054",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 16054,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/d1d6e4ab99ce7fa5e600c2f3079edd98.jpg",
+      "sha256": "95d469ce6d771834c23e7eb571044d0b62ecc729223192517e795050d8855815"
+    },
+    "localPath": "images/fashionpedia-expansion-16054.webp",
+    "width": 720,
+    "height": 444,
+    "sha256": "5efc0903d5b4ee396a2b9fddcf6bbcf72aecddc8c8a9bdc2e1b3408372f237ac",
+    "dhash": "b5b1f1d989b9b83a"
+  },
+  {
+    "id": "fashionpedia-expansion-16400",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/XBQwrP",
+    "imageUrl": "https://farm5.staticflickr.com/4428/36505167393_0fde322d77_n.jpg",
+    "title": "Fashionpedia photo 16400",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 16400,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/742b472c9daa4a9164c7636f34dfba37.jpg",
+      "sha256": "7613b28292f56979f2915b5adc91d5d44c74e3b915c29d8ffa9ca52e6d5bb792"
+    },
+    "localPath": "images/fashionpedia-expansion-16400.webp",
+    "width": 720,
+    "height": 480,
+    "sha256": "3c36bfbcb25082696c64213d4d65f0180048756d9d5a25f732bf500c0d6d58f0",
+    "dhash": "7f676d6fcf3b1b1b"
+  },
+  {
+    "id": "fashionpedia-expansion-17214",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/XCLLcd",
+    "imageUrl": "https://farm5.staticflickr.com/4359/36515749690_2acd463ef8_n.jpg",
+    "title": "Fashionpedia photo 17214",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 17214,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/70c924dd2f55df29d5f02b8f4fd93824.jpg",
+      "sha256": "34d3b7bbe570dfdd7a23f8c0f7655aa6000924d19a755b3c97c6ed56d3b8d42b"
+    },
+    "localPath": "images/fashionpedia-expansion-17214.webp",
+    "width": 667,
+    "height": 1000,
+    "sha256": "2e22e4e25db79be518fc7d24954601d4c0a35ca60571d98e4608fd4c288fd583",
+    "dhash": "0f0646686131386c"
+  },
+  {
+    "id": "fashionpedia-expansion-11953",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/24ni8GA",
+    "imageUrl": "https://farm1.staticflickr.com/952/40278752070_a3935e6572_n.jpg",
+    "title": "Fashionpedia photo 11953",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 11953,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/590919772c905d92672f64eb15071703.jpg",
+      "sha256": "2eec409d27aeb0262513adfc43cb499491a139c15f9f819ff601eaf2d2da6002"
+    },
+    "localPath": "images/fashionpedia-expansion-11953.webp",
+    "width": 720,
+    "height": 480,
+    "sha256": "880c24ec050e7d8a65bbd6400987fc36cc5e1468d33538e8dfa36058599cde2d",
+    "dhash": "1213135749471f1f"
+  },
+  {
+    "id": "fashionpedia-expansion-18063",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6bCKnd",
+    "imageUrl": "https://farm4.staticflickr.com/3606/3402118714_1ba5d05bf4_n.jpg",
+    "title": "Fashionpedia photo 18063",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 18063,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/aef28c5356eb9b86282bb28af5ba70bf.jpg",
+      "sha256": "3607f10349c165b2648c56a9b13bcd2202eb0c8dc261120e534d61b90b2e05e3"
+    },
+    "localPath": "images/fashionpedia-expansion-18063.webp",
+    "width": 540,
+    "height": 1000,
+    "sha256": "003a47c2b90b2ced47423d74ad660615a8a8a46136f1bc12ad5ffcf0a60f4c3b",
+    "dhash": "6aeaac2ca0a0c3e4"
+  },
+  {
+    "id": "fashionpedia-expansion-16744",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6bTYE6",
+    "imageUrl": "https://farm4.staticflickr.com/3608/3405090105_fa1f8a5417_n.jpg",
+    "title": "Fashionpedia photo 16744",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 16744,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/4bdda6ee9dc6ff10326bab63fc5898fd.jpg",
+      "sha256": "474fb46dfb1fe1b38e38ae01de9a946ee5b6a7385977b1f9170fbe169c52698f"
+    },
+    "localPath": "images/fashionpedia-expansion-16744.webp",
+    "width": 720,
+    "height": 924,
+    "sha256": "09b76a3b4aed59baf43c0f0c5f9a583701d7fb232d13ca1dbec1400b1628c85c",
+    "dhash": "d2f2f039f999cd93"
+  },
+  {
+    "id": "fashionpedia-expansion-11395",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6bUcQp",
+    "imageUrl": "https://farm4.staticflickr.com/3641/3405134435_9077e59f22_n.jpg",
+    "title": "Fashionpedia photo 11395",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 11395,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/cec4efd9aa49f34978ee9273c9b757ac.jpg",
+      "sha256": "c3cad024ed0abcf830bd48dca8c042a3ba52a661117c2fe80665bfb8f7c20fa2"
+    },
+    "localPath": "images/fashionpedia-expansion-11395.webp",
+    "width": 638,
+    "height": 1000,
+    "sha256": "7b83e8a5b14e8c1168a7f84aff4334e5dd6b85c4f3a5b4b424e24a76d2816772",
+    "dhash": "3392d28a1e3c1414"
+  },
+  {
+    "id": "fashionpedia-expansion-18755",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6bUySn",
+    "imageUrl": "https://farm4.staticflickr.com/3569/3405205193_6253d35bd9_n.jpg",
+    "title": "Fashionpedia photo 18755",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 18755,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/265263299dd383a3a4ad2d798d611d1a.jpg",
+      "sha256": "0a11161da82f433715f539bb558c948a906b3fe8e63854a9fa7d1467851bdf37"
+    },
+    "localPath": "images/fashionpedia-expansion-18755.webp",
+    "width": 562,
+    "height": 1000,
+    "sha256": "7e5877eca534841fde645b50551ec90af230372af7e1c102e171e5369b7aa0e5",
+    "dhash": "183971f19b9e1b11"
+  },
+  {
+    "id": "fashionpedia-expansion-10210",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6bUzaT",
+    "imageUrl": "https://farm4.staticflickr.com/3422/3405206209_7de4b1b03c_n.jpg",
+    "title": "Fashionpedia photo 10210",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 10210,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/8ff3602a21221beee31f112710cca547.jpg",
+      "sha256": "3cf514f227d6a21f1a3da2f91f1f53b480f9af28f345cc58a6b4b3736e067c30"
+    },
+    "localPath": "images/fashionpedia-expansion-10210.webp",
+    "width": 565,
+    "height": 1000,
+    "sha256": "4b2e285be74cd30d489b4c727b4db45d5cd6aeab828245b33774fe30a34e684d",
+    "dhash": "3019b8b9782e4c4e"
+  },
+  {
+    "id": "fashionpedia-expansion-17646",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6bUHjr",
+    "imageUrl": "https://farm4.staticflickr.com/3253/3405233617_16b171e37a_n.jpg",
+    "title": "Fashionpedia photo 17646",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 17646,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/6e5a61848ee06b92040f49653996f776.jpg",
+      "sha256": "19f3703ac9c4b255a19cef79340b5454f65f97450f61de3003aa456759e9fad1"
+    },
+    "localPath": "images/fashionpedia-expansion-17646.webp",
+    "width": 579,
+    "height": 1000,
+    "sha256": "237d6f2562f61868ec2df5bc29733db259dc54e2ce01f31efc913e6162bde85c",
+    "dhash": "4b4769d5470b0a0f"
+  },
+  {
+    "id": "fashionpedia-expansion-13054",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6bYPVu",
+    "imageUrl": "https://farm4.staticflickr.com/3621/3406036282_6239999089_n.jpg",
+    "title": "Fashionpedia photo 13054",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 13054,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/4de78adeb7751acb7d8833da840600a2.jpg",
+      "sha256": "9c05d5e248b6e3ec40cf1bfb5a523e00ebfd74bd83b286015bdf07acd150922d"
+    },
+    "localPath": "images/fashionpedia-expansion-13054.webp",
+    "width": 720,
+    "height": 944,
+    "sha256": "f57b2cefd0bebeb14566a9e75477bc483ddff439186259019d87ba31862023a8",
+    "dhash": "87971119183c8b0f"
+  },
+  {
+    "id": "fashionpedia-expansion-19374",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6e8FNR",
+    "imageUrl": "https://farm4.staticflickr.com/3301/3430397985_7885a8c836_n.jpg",
+    "title": "Fashionpedia photo 19374",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 19374,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/ea97036b067a660a8aaa5d511aaf48f3.jpg",
+      "sha256": "bfcadd2accd2ea050b903294076268d08a3f2b44cfcfca7d9c31c6e2fc23fed4"
+    },
+    "localPath": "images/fashionpedia-expansion-19374.webp",
+    "width": 562,
+    "height": 1000,
+    "sha256": "9f9b5998d0d7c4efd5fcaeade303c6ff540fd38979f75a0c5b583beb6411093f",
+    "dhash": "e9edcfdbd9c78632"
+  },
+  {
+    "id": "fashionpedia-expansion-19150",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6jvYug",
+    "imageUrl": "https://farm4.staticflickr.com/3394/3491329039_8c11a4262a_m.jpg",
+    "title": "Fashionpedia photo 19150",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 19150,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/01984124b1af253b42c6e12c050458db.jpg",
+      "sha256": "0b8baebfb86f5e6f6cbc134715e91f99bef3a715bf5d99e92993cb3b538c3ec2"
+    },
+    "localPath": "images/fashionpedia-expansion-19150.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "ed876690ca0ec73aa2c4c65c4c57af7df1e3c21e054b7a4df5ef44160b3249c0",
+    "dhash": "1733f3496162633b"
+  },
+  {
+    "id": "fashionpedia-expansion-9875",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/UemwRG",
+    "imageUrl": "https://farm5.staticflickr.com/4186/34281672426_ed66dc1f4c_n.jpg",
+    "title": "Fashionpedia photo 9875",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 9875,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/39da74d25cec0275554a27fec9db829a.jpg",
+      "sha256": "b77dadf5e561a554b6aabf91e3ee1a642d56beea22f0487eaf5b2fead4d783d7"
+    },
+    "localPath": "images/fashionpedia-expansion-9875.webp",
+    "width": 720,
+    "height": 480,
+    "sha256": "265576a52dfda90b0af663155d709297bbd6dd2813aa5f4734c62898b97bbfbe",
+    "dhash": "0307131931131313"
+  },
+  {
+    "id": "fashionpedia-expansion-11028",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VUERXq",
+    "imageUrl": "https://farm5.staticflickr.com/4235/35382948802_26352778aa_n.jpg",
+    "title": "Fashionpedia photo 11028",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 11028,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/ab5ee2b62ab27eb284a65e0b69eb3786.jpg",
+      "sha256": "3a92b8a11f9e157e101d0e78ab4b3cbfec2b40cfed7caa0bdeba2dc32dcdc8cb"
+    },
+    "localPath": "images/fashionpedia-expansion-11028.webp",
+    "width": 667,
+    "height": 1000,
+    "sha256": "02d555d406e48b3ad4ead861b736cf57329dad64e9550906e832eef1ddc824d0",
+    "dhash": "0500323139393031"
+  },
+  {
+    "id": "fashionpedia-expansion-10351",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Z44NzP",
+    "imageUrl": "https://farm5.staticflickr.com/4508/37447027305_cdcc81a57f_n.jpg",
+    "title": "Fashionpedia photo 10351",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 10351,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/53a5512d83a26c4c372ef3cc452b57b3.jpg",
+      "sha256": "3e7a991e7c28d36a382c687c3adacf273c58e5c38e2809965b83c2caf11f3eca"
+    },
+    "localPath": "images/fashionpedia-expansion-10351.webp",
+    "width": 667,
+    "height": 1000,
+    "sha256": "9b00afcd70eaae6814f0b9345cd091e13870510dc731b1a8f9338f9941863967",
+    "dhash": "e7e5f3ffe7e38109"
+  },
+  {
+    "id": "fashionpedia-expansion-16445",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6o5Bcq",
+    "imageUrl": "https://farm3.staticflickr.com/2021/3531645602_073d0afdb1_m.jpg",
+    "title": "Fashionpedia photo 16445",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 16445,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/390b6dd4e169aa0f7dc045885c632585.jpg",
+      "sha256": "b92bd8f552d933caf81501531735da60228bafe792e7b66c0f908e2fabf19e36"
+    },
+    "localPath": "images/fashionpedia-expansion-16445.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "720a7ba6286d8c27d5827b365bfb7a83bf2c91d583a076be8f48522e3f11c7e6",
+    "dhash": "4bd72c2c2537b733"
+  },
+  {
+    "id": "fashionpedia-expansion-15241",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6q4zz4",
+    "imageUrl": "https://farm4.staticflickr.com/3581/3554078009_01e4d48cd5_m.jpg",
+    "title": "Fashionpedia photo 15241",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 15241,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/fa5c9f34e4cd818763493077beb8002d.jpg",
+      "sha256": "f353c6573ec18fb76c7b0d8d603cf04b745e7f2d959b744a258729256ac70ae2"
+    },
+    "localPath": "images/fashionpedia-expansion-15241.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "e32305c05f90f6a4174fdf291ce15235c3baa1eb2ea42b87df64bec154d29cc7",
+    "dhash": "0e1e34110fc98f76"
+  },
+  {
+    "id": "fashionpedia-expansion-18777",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6tPuUz",
+    "imageUrl": "https://farm4.staticflickr.com/3306/3596596737_03566778d2_n.jpg",
+    "title": "Fashionpedia photo 18777",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 18777,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/eba026d7ab6dcbf77c05e9e1fce9f98b.jpg",
+      "sha256": "22c881162c823c5c7f4140f5d35cc10ad9474c893d218d6c36450db0454e9c1b"
+    },
+    "localPath": "images/fashionpedia-expansion-18777.webp",
+    "width": 720,
+    "height": 405,
+    "sha256": "8e5f73ddc4dd8f2086ac6f7065fc8d3f1736a516f191842e26a5d0b23b752ed1",
+    "dhash": "a7e7c343c1d17c2c"
+  },
+  {
+    "id": "fashionpedia-expansion-12492",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6tPy4z",
+    "imageUrl": "https://farm4.staticflickr.com/3305/3596607351_a8c8b7cd54_n.jpg",
+    "title": "Fashionpedia photo 12492",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 12492,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/54f41276e6978f1c64a0425845b46b67.jpg",
+      "sha256": "0d3a89f4edeae9fd89c61e5c380446e8bdfd88425d9043b3e8c2dca5f28ebf7a"
+    },
+    "localPath": "images/fashionpedia-expansion-12492.webp",
+    "width": 562,
+    "height": 1000,
+    "sha256": "ce65b8b613ba08473a242304dd0ff0d145f3afafd7112d1a798b0265570d1946",
+    "dhash": "f7bb5b567292b682"
+  },
+  {
+    "id": "fashionpedia-expansion-13288",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/CtdLhW",
+    "imageUrl": "https://farm2.staticflickr.com/1556/23936879382_2697f1b2fa_n.jpg",
+    "title": "Fashionpedia photo 13288",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 13288,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/314b1de833421f4420eb3dec0b91cefc.jpg",
+      "sha256": "458e9ab5daefd45aed0613b9ad809f1db3d0e3d44f7eac1d15f353cc47c8d95f"
+    },
+    "localPath": "images/fashionpedia-expansion-13288.webp",
+    "width": 720,
+    "height": 478,
+    "sha256": "e7196ba866c4bdc34a32bc3eeee886f218c96f20bb3950d587b815f204905529",
+    "dhash": "4dcf0f1ffcf4e6a7"
+  },
+  {
+    "id": "fashionpedia-expansion-11129",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/T1CVDC",
+    "imageUrl": "https://farm3.staticflickr.com/2809/33481399674_1aedc147fb_n.jpg",
+    "title": "Fashionpedia photo 11129",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 11129,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/23c7de0d199352b240c1bfbc486a2bcd.jpg",
+      "sha256": "8b2a7af97e99b94bfb88191510ec8557d7ccf74a35b9577dd2e992bca2b71202"
+    },
+    "localPath": "images/fashionpedia-expansion-11129.webp",
+    "width": 667,
+    "height": 1000,
+    "sha256": "0aa246bf56c6bccf510caf953030c9e0ea974ea4e7abac7d2f4fcb23b228122b",
+    "dhash": "1b1919593b370c1b"
+  },
+  {
+    "id": "fashionpedia-expansion-19403",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6A1uV9",
+    "imageUrl": "https://farm3.staticflickr.com/2593/3666641978_fc87a67bf3_m.jpg",
+    "title": "Fashionpedia photo 19403",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 19403,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/55f6b26b668d5e0e9d387132cccfb506.jpg",
+      "sha256": "e4f775e8fc26f70e53ecb0accad596c68db431cfee682121220d82e0f8ebb8c0"
+    },
+    "localPath": "images/fashionpedia-expansion-19403.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "11ad6fdc5cde239d999579915dcf9d9d707127f6703c0cd6f42e36b6094cd7e4",
+    "dhash": "1d70716d6e737370"
+  },
+  {
+    "id": "fashionpedia-expansion-9728",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6AVe8L",
+    "imageUrl": "https://farm3.staticflickr.com/2586/3676929822_7a570e312a_m.jpg",
+    "title": "Fashionpedia photo 9728",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 9728,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/c6532bf8142dfca0b6ca07e641c4d313.jpg",
+      "sha256": "9610224ece7e1d3eddebcbd70109064703acc208ebb8783a941f2e7ad9a4c5d3"
+    },
+    "localPath": "images/fashionpedia-expansion-9728.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "383a91dcf5ba373d53590fdc3098cee0b7d368d190ef5e87f47f41aaaf9c7a6f",
+    "dhash": "1b4f8d8c8e1f0f6b"
+  },
+  {
+    "id": "fashionpedia-expansion-13564",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6BjrfR",
+    "imageUrl": "https://farm3.staticflickr.com/2575/3681458177_bcb5c89238_n.jpg",
+    "title": "Fashionpedia photo 13564",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 13564,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/9a183f6b21de4a4ce27b049d86ebe040.jpg",
+      "sha256": "8e9c67e336825745201f79fa28cb562df183be7877341e55446bee73a587b6a2"
+    },
+    "localPath": "images/fashionpedia-expansion-13564.webp",
+    "width": 720,
+    "height": 900,
+    "sha256": "40e09b76ee9df7614c48439f043bece3d9e8312481c9fdbe8c3878a573ab3a14",
+    "dhash": "67c3d3436343c149"
+  },
+  {
+    "id": "fashionpedia-expansion-15662",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6DSUGL",
+    "imageUrl": "https://farm3.staticflickr.com/2631/3710427084_481fe85c14_n.jpg",
+    "title": "Fashionpedia photo 15662",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 15662,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/5e9e3a0eeae60683808e5ca134781f7f.jpg",
+      "sha256": "c98da9721ae99ed18dafd6e638434d95eb5886a73f0655b2a7748b8a4f237cca"
+    },
+    "localPath": "images/fashionpedia-expansion-15662.webp",
+    "width": 566,
+    "height": 1000,
+    "sha256": "cd50f81523cb8ed26963fa3c98b8e1b5c01a68edc0603f41fa69a3a26c35451f",
+    "dhash": "583c14930b33384a"
+  },
+  {
+    "id": "fashionpedia-expansion-15581",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6FM3pF",
+    "imageUrl": "https://farm3.staticflickr.com/2514/3731915325_d2db191140_n.jpg",
+    "title": "Fashionpedia photo 15581",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 15581,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/df3351ad8fb6c6c100a5137f3594048a.jpg",
+      "sha256": "57931f38d5603e2dcf46700f79ed485e88d3b23b5198c28c19c155d30f1fbcf5"
+    },
+    "localPath": "images/fashionpedia-expansion-15581.webp",
+    "width": 549,
+    "height": 1000,
+    "sha256": "d9603cde48e4efce920c5767ca3f04e359c63b9fc1b0e36173f0934df5048cc4",
+    "dhash": "3b3834458b84c6c5"
+  },
+  {
+    "id": "fashionpedia-expansion-17350",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6FR6rw",
+    "imageUrl": "https://farm3.staticflickr.com/2647/3732705972_04ce222abd_n.jpg",
+    "title": "Fashionpedia photo 17350",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 17350,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/06be049aead8c710143ef9bdf99fdc6d.jpg",
+      "sha256": "0ff321795e6f545cddf6f8746c460a4b3b8f66ddd8f74c6af5a8014b8960f9c1"
+    },
+    "localPath": "images/fashionpedia-expansion-17350.webp",
+    "width": 535,
+    "height": 1000,
+    "sha256": "6f2abf119797c14841158ce5e46c711062a1302982e316c70261f83ae06d22e0",
+    "dhash": "f319383898880252"
+  },
+  {
+    "id": "fashionpedia-expansion-12264",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6H7EDf",
+    "imageUrl": "https://farm3.staticflickr.com/2672/3747060840_82dcbd0f0d_m.jpg",
+    "title": "Fashionpedia photo 12264",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 12264,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/c15f3fbb5b16af3bf2c1bc5a041c4060.jpg",
+      "sha256": "0249d047aa77eba35c5043fc0e758b72abcf84afe18ba388b48279564ec241e6"
+    },
+    "localPath": "images/fashionpedia-expansion-12264.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "31eb25c92df9f9bd412f21ecba47a24260d14a3fa25acdc579aaf115b73fb4af",
+    "dhash": "9fbf9fddf9eb693d"
+  },
+  {
+    "id": "fashionpedia-expansion-16476",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/UT8zYj",
+    "imageUrl": "https://farm5.staticflickr.com/4210/34709173294_34bcf0b4c0_n.jpg",
+    "title": "Fashionpedia photo 16476",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 16476,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/71cecd8c985cd819812c61259e1d0b04.jpg",
+      "sha256": "5cd84413f6cd65c3ac2ad37eafdae613f1f0aececbe722d9c5788f85b7cbfbcd"
+    },
+    "localPath": "images/fashionpedia-expansion-16476.webp",
+    "width": 667,
+    "height": 1000,
+    "sha256": "409f20a77562996930182252f6d6843d753537092e1d7eea39232ee95911adb0",
+    "dhash": "0b3b717324322627"
+  },
+  {
+    "id": "fashionpedia-expansion-13387",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/SHE5LW",
+    "imageUrl": "https://farm3.staticflickr.com/2879/33289245054_3a75445336_n.jpg",
+    "title": "Fashionpedia photo 13387",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 13387,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/0cd8b9f6141bca7b6b3e1d9a9197aea6.jpg",
+      "sha256": "0442e9aebe2ed4b420ac0f61c72dc2e8181239d52b18149b88681e07cc8126c4"
+    },
+    "localPath": "images/fashionpedia-expansion-13387.webp",
+    "width": 720,
+    "height": 480,
+    "sha256": "565513a1b24fbec42c08aec4211d0c9017738b73e3e72a8d423ad9ff7c3a9306",
+    "dhash": "f1d9b9cd3d3b0905"
+  },
+  {
+    "id": "fashionpedia-expansion-10012",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WYH8D2",
+    "imageUrl": "https://farm5.staticflickr.com/4300/36085014535_888f90781b_n.jpg",
+    "title": "Fashionpedia photo 10012",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 10012,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/8b16bd100fe20f6cf01f9e62895593b8.jpg",
+      "sha256": "b6f4c5cf8020c4036ceeba7200bca94cf431a823520e9698aecf6bdb30d33465"
+    },
+    "localPath": "images/fashionpedia-expansion-10012.webp",
+    "width": 667,
+    "height": 1000,
+    "sha256": "40c8d83995be5f620acdb3d70719f8b71e2a4b300fe0f988b78aff035e8f0668",
+    "dhash": "c9fcb0b4c40808c8"
+  },
+  {
+    "id": "fashionpedia-expansion-18285",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/6Zh3FD",
+    "imageUrl": "https://farm3.staticflickr.com/2514/3929954931_bf53073f26_n.jpg",
+    "title": "Fashionpedia photo 18285",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 18285,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/787258aaa44591910492e2101e452a6a.jpg",
+      "sha256": "bf4f0c184df96be63a96061e10b146bb8da26601cabd955c77a840edb4e21d0c"
+    },
+    "localPath": "images/fashionpedia-expansion-18285.webp",
+    "width": 720,
+    "height": 932,
+    "sha256": "f826c9e055c2f81f4850d1f9bb683648651b1c91a495ba88947b074744d071b8",
+    "dhash": "3e377bfbdb1f1d18"
+  },
+  {
+    "id": "fashionpedia-expansion-12416",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/73faou",
+    "imageUrl": "https://farm3.staticflickr.com/2421/3963536748_9c1720be18_m.jpg",
+    "title": "Fashionpedia photo 12416",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 12416,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/d49c2fa09de70d8446f71f30614a50e9.jpg",
+      "sha256": "b847defd8b43f1fe021627106cd904817a8da1722ad84a36149028d48e11a4d7"
+    },
+    "localPath": "images/fashionpedia-expansion-12416.webp",
+    "width": 720,
+    "height": 480,
+    "sha256": "a2480fc7022177b47d781abb5ad7c3593de6b246d1ee083e6f8465a6dd31dfa1",
+    "dhash": "f3f3fbdbdbe3e5e3"
+  },
+  {
+    "id": "fashionpedia-expansion-17093",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/7etGPs",
+    "imageUrl": "https://farm3.staticflickr.com/2607/4090660392_a7f9fc815b_m.jpg",
+    "title": "Fashionpedia photo 17093",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 17093,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/cde75324e48c951a7250a86e4a77744d.jpg",
+      "sha256": "d0fb03b5b461dc268476e68070af2b3c165745d06d1336a556a70eecf562c313"
+    },
+    "localPath": "images/fashionpedia-expansion-17093.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "d6630db9fe6f1114df3ce2b9631032a0faa73b37ec16c31dd52c3dbb4b855a60",
+    "dhash": "040129b0d66b6353"
+  },
+  {
+    "id": "fashionpedia-expansion-11346",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/W1gah7",
+    "imageUrl": "https://farm5.staticflickr.com/4220/35446223362_b596571776_n.jpg",
+    "title": "Fashionpedia photo 11346",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 11346,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/4ebcdb53871ef6a102f623dc0fc918e4.jpg",
+      "sha256": "42454c2a91476e917eb472b16ff94989d8ea4d7c1cdcceb777a4b653cce04413"
+    },
+    "localPath": "images/fashionpedia-expansion-11346.webp",
+    "width": 667,
+    "height": 1000,
+    "sha256": "d7f9a0d4645445288a2bc9724b9a2dbc424e1ff7e5f547b57ffe40a35b6ea873",
+    "dhash": "3e1c1787313b395a"
+  },
+  {
+    "id": "fashionpedia-expansion-17481",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/7tbU23",
+    "imageUrl": "https://farm3.staticflickr.com/2648/4245812108_408f8141b8_m.jpg",
+    "title": "Fashionpedia photo 17481",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 17481,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/8b6df6784a6ab71f6ec13343c81340c0.jpg",
+      "sha256": "fe6e770483decdf1f8fdaa308257f036c95d8340ac80152a056e7f2e2d69e41a"
+    },
+    "localPath": "images/fashionpedia-expansion-17481.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "158b60779dcc4a9583f55f2d76499e43bf0c6c75317c0e10b27b4929f5956cc0",
+    "dhash": "143db3f525271331"
+  },
+  {
+    "id": "fashionpedia-expansion-16017",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VZ7C1k",
+    "imageUrl": "https://farm5.staticflickr.com/4206/35433240771_3ca598b6a6_n.jpg",
+    "title": "Fashionpedia photo 16017",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 16017,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/a7dbdec9cd88afe8a552268a40eb44e0.jpg",
+      "sha256": "6c2ffb80e49578461a048403371365a2139c1f653abe0c0681a2a9eb31775b96"
+    },
+    "localPath": "images/fashionpedia-expansion-16017.webp",
+    "width": 667,
+    "height": 1000,
+    "sha256": "12581332d213bce81098474ffb70cf7e7ddec3876958fddef0a4c63681595415",
+    "dhash": "1f1f0d26063c393d"
+  },
+  {
+    "id": "fashionpedia-expansion-15253",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/7BTfm1",
+    "imageUrl": "https://farm3.staticflickr.com/2789/4344216936_84fe7af1ea_m.jpg",
+    "title": "Fashionpedia photo 15253",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 15253,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/902a5208011e2f28ad8a5be6a84f392f.jpg",
+      "sha256": "cd92cd011f6800feae3079a4c9d510203e4e36424a04cbaed90db77d98fd9024"
+    },
+    "localPath": "images/fashionpedia-expansion-15253.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "55cc4688aead48b1a832a8c29983ab856fcb1aeff48ebebbda869be71313f653",
+    "dhash": "49d9f17076331131"
+  },
+  {
+    "id": "fashionpedia-expansion-9282",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/7L1TD9",
+    "imageUrl": "https://farm3.staticflickr.com/2762/4436240150_6c379dff32_m.jpg",
+    "title": "Fashionpedia photo 9282",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 9282,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/5559c0c61ecc6821cb19c6d496876d9a.jpg",
+      "sha256": "45805d21f83969d88e9699d44bf5860855a0cb055297ada0b5e63131ebe72534"
+    },
+    "localPath": "images/fashionpedia-expansion-9282.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "8f486b1b6ba01aecff74bb6a7da5d9c5cbf1b577d9c3cc6b2d8d6b8ef9a57934",
+    "dhash": "0f333673f2e27970"
+  },
+  {
+    "id": "fashionpedia-expansion-11241",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/7LGTo5",
+    "imageUrl": "https://farm5.staticflickr.com/4006/4444043756_2936020551_m.jpg",
+    "title": "Fashionpedia photo 11241",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 11241,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/019a0df34076ea35ce414439c2c4fa56.jpg",
+      "sha256": "500b9e46ce7c038c9128716743453e5afc040c287eede5f5c86323939d60f080"
+    },
+    "localPath": "images/fashionpedia-expansion-11241.webp",
+    "width": 666,
+    "height": 1000,
+    "sha256": "706eda3f0112643139204410f9518ca37cec3ea25865db8d3adc211227779e85",
+    "dhash": "0f3372969776b170"
+  },
+  {
+    "id": "fashionpedia-expansion-11475",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/wFMcRb",
+    "imageUrl": "https://farm1.staticflickr.com/370/20140866280_5d467ab87a_n.jpg",
+    "title": "Fashionpedia photo 11475",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 11475,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "id": 5,
+      "name": "Attribution-NonCommercial License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/2308865bee7c8b7db03de75beaf40a86.jpg",
+      "sha256": "ef55b09483d4ec6e74e91a5e80fd9d72d58fba1f8f509cbf7d1468a88909564a"
+    },
+    "localPath": "images/fashionpedia-expansion-11475.webp",
+    "width": 664,
+    "height": 1000,
+    "sha256": "e6f28454332498a37129d47a69338e73d8df6d8d1b49b2cab271d08386f3d42c",
+    "dhash": "c01a71602b470717"
+  },
+  {
+    "id": "fashionpedia-expansion-15170",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WwnBb7",
+    "imageUrl": "https://farm5.staticflickr.com/4306/35786976030_742725afe8_n.jpg",
+    "title": "Fashionpedia photo 15170",
+    "body": null,
+    "reviewStatus": "unreviewed",
+    "datasetImageId": 15170,
+    "sourceLicense": {
+      "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "id": 4,
+      "name": "Attribution-NonCommercial-NoDerivatives License"
+    },
+    "archive": {
+      "url": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+      "member": "train/b1e8b15d480aefcd5d21d989a4f20eb8.jpg",
+      "sha256": "64c70710f0fb69f3e688cb0608502103996a6ffc1c9b36d4c877688b453e64b9"
+    },
+    "localPath": "images/fashionpedia-expansion-15170.webp",
+    "width": 720,
+    "height": 480,
+    "sha256": "f99d7397bf8407de702923bf95dbef2380c5f59c31b2af35fe98407f84c22fa7",
+    "dhash": "d66662ed6dcd5f13"
+  }
+]

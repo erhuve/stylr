@@ -1,0 +1,34 @@
+[
+  {
+    "ordinal": 12,
+    "id": "under510-7451841200215-image-34510255620183",
+    "sha256": "1866b39a2c19d950b4a3899dbda858019824b63a2f38581aaeea7c91a7ad19b5",
+    "localPath": "images/under510-7451841200215-image-34510255620183.webp",
+    "evidence": "Taupe long-sleeve crewneck and dark trousers; enlarged view shows loose drape across waist and pocketed hand obscuring hips.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 17,
+    "id": "under510-7451840610391-image-34836221263959",
+    "sha256": "f6715ede60a7993ec8ddffd0da2994c6ef1bca996fe062494f1c45753dee87a2",
+    "localPath": "images/under510-7451840610391-image-34836221263959.webp",
+    "evidence": "Navy crewneck, blue jeans and brown boots; enlarged image shows forward lean and bent arms, preventing reliable waist and shoulder comparison.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 23,
+    "id": "under510-7090034999383-image-36181334982743",
+    "sha256": "14895e3cb29a974281bbe4f6d5cd3cf341a279058e39434a929bdabd4378d7c3",
+    "localPath": "images/under510-7090034999383-image-36181334982743.webp",
+    "evidence": "Black polo with tailored gray trousers and white sneakers; enlarged view confirms angled stance and loose shirt hem conceal body axes.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  },
+  {
+    "ordinal": 36,
+    "id": "perryellis-8005280497742-image-53745343004750",
+    "sha256": "989598174a232dc854aa71e4be353ba6ed2b5fb20a669c5839c120b681ac7b18",
+    "localPath": "images/perryellis-8005280497742-image-53745343004750.webp",
+    "evidence": "White collared long-sleeve shirt and black trousers; enlarged view shows shirt hem draping over hips and one pocketed hand, so body axes remain unknown.",
+    "result": "Enlarged original-image inspection; final axes recorded in labels.json."
+  }
+]
