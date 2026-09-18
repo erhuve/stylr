@@ -1,0 +1,119 @@
+{
+  "retrievedAt": "2026-09-18T06:34:31.384854+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 7 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "copperunion",
+      "pages": [
+        {
+          "url": "https://copperunionapparel.com/products.json?limit=250&page=1",
+          "products": 190,
+          "retrievedAt": "2026-09-18T06:34:27.294875+00:00",
+          "snapshotSha256": "db5daf3b619187a0dc6fc4287842801eb9bb9ef30383f931746fec9fb6198cf6"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "copperunion-8673046069470-image-42071859396830",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1318.heic?v=1726006429",
+          "sourceUrl": "https://copperunionapparel.com/products/dottie-crop-top",
+          "sha256": "335d2cf3c765cf7c95d5f5d06816ae61f3f33792a63af8221f53ca7d53e57bbf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8673046069470-image-42071859298526",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1320.heic?v=1726006428",
+          "sourceUrl": "https://copperunionapparel.com/products/dottie-crop-top",
+          "sha256": "10471465c0b1ecd5562770175e2bdadfbeb7986bcc0a6b3d0d1502ba4f4819b6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8814352138462-image-43610922647774",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1742.heic?v=1739318055",
+          "sourceUrl": "https://copperunionapparel.com/products/neon-leopard-hazel-sweater",
+          "sha256": "bda32ab954a1eee302b1f58acae16c450f380d61c4f9557d40de337f585f5c1e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8814352138462-image-43610922746078",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1748.heic?v=1739318055",
+          "sourceUrl": "https://copperunionapparel.com/products/neon-leopard-hazel-sweater",
+          "sha256": "171df85ce812677f5b2783bda9123d3a9c51eb3a47c6327c0b2f1de06d4b7920",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8810013327582-image-43550619762910",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1700.heic?v=1738880345",
+          "sourceUrl": "https://copperunionapparel.com/products/grey-sweatsuit",
+          "sha256": "27510bb4f3c7e68d4fa5ff9f3af6c6fbf7d97b4253661d5a9099dd0512759e00",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8810013327582-image-43550617436382",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1698.heic?v=1738880345",
+          "sourceUrl": "https://copperunionapparel.com/products/grey-sweatsuit",
+          "sha256": "3284f2ffaa0cafdeef74e8a376c034bb1970ac9cb60cbafea0bc6507b1c895da",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8733791650014-image-42688315359454",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_3460.heic?v=1731461523",
+          "sourceUrl": "https://copperunionapparel.com/products/vintage-red-dress",
+          "sha256": "c69d483f3bdb9ac0563ab8a379ce6543575280d98736f87d541359a0a294ad98",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8733791650014-image-42688315326686",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_3461.heic?v=1731461523",
+          "sourceUrl": "https://copperunionapparel.com/products/vintage-red-dress",
+          "sha256": "8de4a0d35c61bd07553bea73d3d91955327fb01101f2e23fa529594a61efa0c8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8252415770846-image-42418705268958",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1522.heic?v=1729199789",
+          "sourceUrl": "https://copperunionapparel.com/products/joy-ty-dress-1",
+          "sha256": "13327ba510169f428751bb72d177585ad2b447d135823ab60f63a09eb581e83d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8252415770846-image-44256501891294",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1886.heic?v=1744322454",
+          "sourceUrl": "https://copperunionapparel.com/products/joy-ty-dress-1",
+          "sha256": "95af0a533c41bcb28f33ff0934f1fca070d25c58eebd7077410187aad0d24859",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8954146029790-image-44840925069534",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2011.heic?v=1751407654",
+          "sourceUrl": "https://copperunionapparel.com/products/blue-abstract-dot-katie-dress",
+          "sha256": "35059b55ff067c31589a7e9a4fa61e1bd4651f4706b8eaf5973a744c41534d98",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8954146029790-image-44840925233374",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2013.heic?v=1751407655",
+          "sourceUrl": "https://copperunionapparel.com/products/blue-abstract-dot-katie-dress",
+          "sha256": "6be5a3d30128cf1c73b87571be8ae4965b4e35f27109771235ab0732dce32377",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8950559408350-image-45203225149662",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2075.heic?v=1755207346",
+          "sourceUrl": "https://copperunionapparel.com/products/blue-monstera-crop-top",
+          "sha256": "b4f5c740fb8e5972e429e7e3f5c8fb797f9e11bface413d933cf1a97f6764161",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "copperunion-8950559408350-image-45203225116894",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2074.heic?v=1755207346",
+          "sourceUrl": "https://copperunionapparel.com/products/blue-monstera-crop-top",
+          "sha256": "ec536cdff4a31c79c5d1bb7fb5df1f4a6a3a8387d858ea0f74483a0dfc222649",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 14
+    }
+  ]
+}

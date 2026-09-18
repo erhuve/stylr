@@ -1,0 +1,14 @@
+{
+  "baseline": "f89df55",
+  "unchangedPrefixes": {
+    "scripts/reviewed-photos.json": 6865,
+    "scripts/reviewed-assets.json": 6865,
+    "data/catalog-review/admitted-body.json": 6865,
+    "data/presentation/review.json": 7250
+  },
+  "validatedExpansionAssets": 6871,
+  "pendingTrainingUnchanged": 3744,
+  "newImageBindings": 28,
+  "listingBindings": 3,
+  "sheetBindings": 4
+}

@@ -5856,6 +5856,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/blue-abstract-dot-katie-dress",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8954146029790-image-44840925069534",
+      "copperunion-8954146029790-image-44840925233374"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0645-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/blue-monstera-crop-top",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8950559408350-image-45203225116894",
+      "copperunion-8950559408350-image-45203225149662"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0645-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/blue-tie-dye-katie-dress",
     "source": "copperunion",
     "candidateIds": [
@@ -5940,6 +5968,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/dottie-crop-top",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8673046069470-image-42071859298526",
+      "copperunion-8673046069470-image-42071859396830"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0645-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/fatitiude-crop-tee",
     "source": "copperunion",
     "candidateIds": [
@@ -5993,6 +6035,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/grey-sweatsuit",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8810013327582-image-43550617436382",
+      "copperunion-8810013327582-image-43550619762910"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0645-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -6080,6 +6136,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/joy-ty-dress-1",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8252415770846-image-42418705268958",
+      "copperunion-8252415770846-image-44256501891294"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0645-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/joy-ty-dress-copy",
     "source": "copperunion",
     "candidateIds": [
@@ -6130,6 +6200,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0500-inclusive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/neon-leopard-hazel-sweater",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8814352138462-image-43610922647774",
+      "copperunion-8814352138462-image-43610922746078"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0645-contours/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -6416,6 +6500,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/vintage-red-dress",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8733791650014-image-42688315326686",
+      "copperunion-8733791650014-image-42688315359454"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0645-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/waterfall-cloud-pants",
     "source": "copperunion",
     "candidateIds": [
@@ -6452,6 +6550,116 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0500-inclusive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://corridornyc.com/products/garment-dye-ls-tee-black",
+    "source": "corridor",
+    "candidateIds": [
+      "corridor-15065426166123-image-57427897221483",
+      "corridor-15065426166123-image-57427940901227"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0640-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://corridornyc.com/products/garment-dye-ls-tee-brown",
+    "source": "corridor",
+    "candidateIds": [
+      "corridor-15065426297195-image-57427949584747",
+      "corridor-15065426297195-image-57427978781035"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0640-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-hoodie-black",
+    "source": "corridor",
+    "candidateIds": [
+      "corridor-15081016164715-image-57129636594027"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0650-workwear/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-hoodie-grey",
+    "source": "corridor",
+    "candidateIds": [
+      "corridor-15081016361323-image-57328106963307"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0640-targeted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-sweatpant-black",
+    "source": "corridor",
+    "candidateIds": [
+      "corridor-15081016852843-image-57427470778731",
+      "corridor-15081016852843-image-57427471008107"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0640-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-sweatpant-grey",
+    "source": "corridor",
+    "candidateIds": [
+      "corridor-15081016983915-image-56540228878699",
+      "corridor-15081016983915-image-57143974429035"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0650-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://corridornyc.com/products/rinse-wash-jean-indigo",
+    "source": "corridor",
+    "candidateIds": [
+      "corridor-15067666383211-image-57367159112043",
+      "corridor-15067666383211-image-57367168909675"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0640-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://corridornyc.com/products/zocalo-zip-jacket-black",
+    "source": "corridor",
+    "candidateIds": [
+      "corridor-15067579154795-image-56539447984491",
+      "corridor-15067579154795-image-57144498848107"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0640-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,

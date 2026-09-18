@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7250/7250; unreviewed: 0.
+Reviewed: 7256/7256; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1204 | 16.6% | 1139 | 46 | 44 |
-| feminine | 4060 | 56% | 3618 | 33 | 148 |
+| masculine | 1205 | 16.6% | 1140 | 47 | 44 |
+| feminine | 4063 | 56% | 3621 | 33 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1818 | 25.1% | 1693 | 58 | 97 |
+| unclear | 1820 | 25.1% | 1695 | 59 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":141,"3":65,"unknown":368,"2.5":61,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":390,"3":250,"unknown":579,"1.5":2534,"2.5":280} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| masculine | {"1":3,"2":141,"3":65,"unknown":369,"2.5":61,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":390,"3":252,"unknown":579,"1.5":2534,"2.5":281} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":215,"1.5":817,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":215,"1.5":819,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -44,7 +44,8 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | bronsonshop.com | 2 | 0 | 0 | 0 | 0 |
 | chubbiesshorts.com | 3 | 0 | 0 | 3 | 0 |
 | chubstr.com | 22 | 0 | 0 | 5 | 0 |
-| copperunionapparel.com | 0 | 30 | 0 | 12 | 0 |
+| copperunionapparel.com | 0 | 33 | 0 | 12 | 0 |
+| corridornyc.com | 1 | 0 | 0 | 2 | 0 |
 | dapperboi.com | 3 | 0 | 0 | 8 | 0 |
 | disturbia.co.uk | 0 | 32 | 0 | 5 | 0 |
 | dixxon.com | 1 | 1 | 0 | 1 | 0 |

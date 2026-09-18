@@ -1,0 +1,226 @@
+[
+  {
+    "id": "copperunion-8673046069470-image-42071859396830",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/dottie-crop-top",
+    "localPath": "images/copperunion-8673046069470-image-42071859396830.webp",
+    "sha256": "335d2cf3c765cf7c95d5f5d06816ae61f3f33792a63af8221f53ca7d53e57bbf",
+    "ordinal": 0,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue circular-print tee and olive flowing skirt; fuller visible arms and torso; enlarged view confirms boxy hem and skirt hide waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8673046069470-image-42071859298526",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/dottie-crop-top",
+    "localPath": "images/copperunion-8673046069470-image-42071859298526.webp",
+    "sha256": "10471465c0b1ecd5562770175e2bdadfbeb7986bcc0a6b3d0d1502ba4f4819b6",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated pose of outfit retained at 0.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8814352138462-image-43610922647774",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/neon-leopard-hazel-sweater",
+    "localPath": "images/copperunion-8814352138462-image-43610922647774.webp",
+    "sha256": "bda32ab954a1eee302b1f58acae16c450f380d61c4f9557d40de337f585f5c1e",
+    "ordinal": 2,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Contrasting leopard balloon sleeves with black gathered skirt; fuller torso visible; enlarged view confirms gathered skirt and wide sleeves hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8814352138462-image-43610922746078",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/neon-leopard-hazel-sweater",
+    "localPath": "images/copperunion-8814352138462-image-43610922746078.webp",
+    "sha256": "171df85ce812677f5b2783bda9123d3a9c51eb3a47c6327c0b2f1de06d4b7920",
+    "ordinal": 3,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close crop of leopard sleeve and dress bodice; clearer outfit retained at 2.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8810013327582-image-43550619762910",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/grey-sweatsuit",
+    "localPath": "images/copperunion-8810013327582-image-43550619762910.webp",
+    "sha256": "27510bb4f3c7e68d4fa5ff9f3af6c6fbf7d97b4253661d5a9099dd0512759e00",
+    "ordinal": 4,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray balloon-sleeve and gathered-trouser coordination repeats loose matching-set styling already admitted in prior Copper Union reference 23.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8810013327582-image-43550617436382",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/grey-sweatsuit",
+    "localPath": "images/copperunion-8810013327582-image-43550617436382.webp",
+    "sha256": "3284f2ffaa0cafdeef74e8a376c034bb1970ac9cb60cbafea0bc6507b1c895da",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Full view of same gray matching-set variant; no distinct contour gain over prior loose-set reference.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8733791650014-image-42688315359454",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/vintage-red-dress",
+    "localPath": "images/copperunion-8733791650014-image-42688315359454.webp",
+    "sha256": "c69d483f3bdb9ac0563ab8a379ce6543575280d98736f87d541359a0a294ad98",
+    "ordinal": 6,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red dress hanging without wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8733791650014-image-42688315326686",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/vintage-red-dress",
+    "localPath": "images/copperunion-8733791650014-image-42688315326686.webp",
+    "sha256": "8de4a0d35c61bd07553bea73d3d91955327fb01101f2e23fa529594a61efa0c8",
+    "ordinal": 7,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear of hanging red dress without wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8252415770846-image-42418705268958",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/joy-ty-dress-1",
+    "localPath": "images/copperunion-8252415770846-image-42418705268958.webp",
+    "sha256": "13327ba510169f428751bb72d177585ad2b447d135823ab60f63a09eb581e83d",
+    "ordinal": 8,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multicolor geometric gathered dress with dark Mary Jane shoes; moderately fuller visible torso and limbs; skirt fullness and pocket pose obscure hips and waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8252415770846-image-44256501891294",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/joy-ty-dress-1",
+    "localPath": "images/copperunion-8252415770846-image-44256501891294.webp",
+    "sha256": "95af0a533c41bcb28f33ff0934f1fca070d25c58eebd7077410187aad0d24859",
+    "ordinal": 9,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated geometric gathered-dress outfit; do not multiply admissions through alternate wearer or pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8954146029790-image-44840925069534",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/blue-abstract-dot-katie-dress",
+    "localPath": "images/copperunion-8954146029790-image-44840925069534.webp",
+    "sha256": "35059b55ff067c31589a7e9a4fa61e1bd4651f4706b8eaf5973a744c41534d98",
+    "ordinal": 10,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Circular-print variant of gathered dress styling retained at 8; repeated dress construction.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8954146029790-image-44840925233374",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/blue-abstract-dot-katie-dress",
+    "localPath": "images/copperunion-8954146029790-image-44840925233374.webp",
+    "sha256": "6be5a3d30128cf1c73b87571be8ae4965b4e35f27109771235ab0732dce32377",
+    "ordinal": 11,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer repeated view of circular-print gathered dress.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8950559408350-image-45203225149662",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/blue-monstera-crop-top",
+    "localPath": "images/copperunion-8950559408350-image-45203225149662.webp",
+    "sha256": "b4f5c740fb8e5972e429e7e3f5c8fb797f9e11bface413d933cf1a97f6764161",
+    "ordinal": 12,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue printed tee and black skirt repeats printed boxy-top/skirt styling retained at 0 and prior references.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "copperunion-8950559408350-image-45203225116894",
+    "source": "copperunion",
+    "sourceUrl": "https://copperunionapparel.com/products/blue-monstera-crop-top",
+    "localPath": "images/copperunion-8950559408350-image-45203225116894.webp",
+    "sha256": "ec536cdff4a31c79c5d1bb7fb5df1f4a6a3a8387d858ea0f74483a0dfc222649",
+    "ordinal": 13,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated pose of blue printed tee and skirt variant.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

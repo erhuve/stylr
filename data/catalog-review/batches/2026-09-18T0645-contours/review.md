@@ -1,0 +1,5 @@
+# Copper Union continuation
+
+All fourteen candidates inspected directly on two bound sheets; ordinals 0, 2 and 8 enlarged. Compared against all 42 prior admitted Copper Union images on four separate comparison sheets. Three feminine-styled outfits admitted: a circular-print tee with olive skirt, a contrasting leopard-sleeve gathered dress, and a geometric gathered dress with Mary Jane shoes. Two build-3 and one build-2.5 observations; no supported shoulder/hip or waist observations. Gathered skirts, boxy hems and pocket poses hide those axes.
+
+Eight repeated poses/outfit variants and three products/details excluded. The gray matching set repeats prior loose matching-set reference 23; the additional gathered dresses and printed tees repeat retained outfit construction. No labels transferred between images or inferred from source text. The 190-product listing records every decision, including deferred alternatives; the scope does not establish source exhaustion. Exact corpus image and listing hashes remain bound. Seek fitted untied separates from independent publishers; this selection does not improve required-body-filter coverage.

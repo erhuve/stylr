@@ -1,0 +1,50 @@
+[
+  {
+    "id": "corridor-15081016983915-image-57143974429035",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-sweatpant-grey",
+    "localPath": "images/corridor-15081016983915-image-57143974429035.webp",
+    "sha256": "53744c1dfac5fe6438e00106ec69190bb726607055dececb59fddb3b91e5de94",
+    "ordinal": 0,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated pale sweatpants product.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15081016983915-image-56540228878699",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-sweatpant-grey",
+    "localPath": "images/corridor-15081016983915-image-56540228878699.webp",
+    "sha256": "640465553332d907a008f2d77fc51cef391b751409f97124af4f16cd37cbe745",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side-facing trouser crop excludes shoulders and most torso; product detail rather than outfit reference.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15081016164715-image-57129636594027",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-hoodie-black",
+    "localPath": "images/corridor-15081016164715-image-57129636594027.webp",
+    "sha256": "fc26c562cc93d2686dd07892ec5ea8f56b6dc890483a9cd6ed8ba1b867128bba",
+    "ordinal": 2,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated dark hoodie product.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

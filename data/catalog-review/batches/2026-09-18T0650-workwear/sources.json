@@ -1,0 +1,42 @@
+{
+  "retrievedAt": "2026-09-18T06:35:48.551540+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 2 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "corridor",
+      "pages": [
+        {
+          "url": "https://corridornyc.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T06:35:47.828226+00:00",
+          "snapshotSha256": "6dc5766e743e3ab9b738bd270e5b32b09649140f7382b3773ec3e34a4c384bfe"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "corridor-15081016983915-image-57143974429035",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0732/9117/files/CORRIDORNYC_AW2614428.jpg?v=1787930480",
+          "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-sweatpant-grey",
+          "sha256": "53744c1dfac5fe6438e00106ec69190bb726607055dececb59fddb3b91e5de94",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "corridor-15081016983915-image-56540228878699",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0732/9117/files/AW26_2_11168.jpg?v=1783971568",
+          "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-sweatpant-grey",
+          "sha256": "640465553332d907a008f2d77fc51cef391b751409f97124af4f16cd37cbe745",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "corridor-15081016164715-image-57129636594027",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0732/9117/files/CORRIDORNYC_AW2614417.jpg?v=1787844100",
+          "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-hoodie-black",
+          "sha256": "fc26c562cc93d2686dd07892ec5ea8f56b6dc890483a9cd6ed8ba1b867128bba",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 3
+    }
+  ]
+}

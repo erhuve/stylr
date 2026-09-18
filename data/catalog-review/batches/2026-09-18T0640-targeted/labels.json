@@ -1,0 +1,178 @@
+[
+  {
+    "id": "corridor-15065426166123-image-57427940901227",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/garment-dye-ls-tee-black",
+    "localPath": "images/corridor-15065426166123-image-57427940901227.webp",
+    "sha256": "eb288edf06acb19cf8c42c78d7ba655beb0ccb7c2ec6e457b2190ed1099e6642",
+    "ordinal": 0,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated dark crewneck product; no outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15065426166123-image-57427897221483",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/garment-dye-ls-tee-black",
+    "localPath": "images/corridor-15065426166123-image-57427897221483.webp",
+    "sha256": "489b5bfcc3259ad38ce8cb3d8aafe6e4097011ce7b31fa597ae95e7f0f393fbc",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side-facing crewneck variant; redundant neutral styling relative to the clearer standing view at 3.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15065426297195-image-57427949584747",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/garment-dye-ls-tee-brown",
+    "localPath": "images/corridor-15065426297195-image-57427949584747.webp",
+    "sha256": "79e87accce7b34d902f6ca75bbe45bfcb55226bcdb46ff26986aebf1d718b75f",
+    "ordinal": 2,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated brown crewneck product.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15065426297195-image-57427978781035",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/garment-dye-ls-tee-brown",
+    "localPath": "images/corridor-15065426297195-image-57427978781035.webp",
+    "sha256": "439a6603b34a079d68dfb905ddf2afa14c8ac80ecaf86c6320b9725f80e4d8f3",
+    "ordinal": 3,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown crewneck with loose blue jeans and orange sneakers; lean visible limbs, angled torso and loose layers hide contour axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15081016852843-image-57427470778731",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-sweatpant-black",
+    "localPath": "images/corridor-15081016852843-image-57427470778731.webp",
+    "sha256": "f6c37068d2ee8f7487197a3caade03d24887edfbacec75ba7c8dd0e8ee797c62",
+    "ordinal": 4,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated sweatpants product front.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15081016852843-image-57427471008107",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-sweatpant-black",
+    "localPath": "images/corridor-15081016852843-image-57427471008107.webp",
+    "sha256": "81074c4d4588b32793558cf55fc2b00474036493f1878df4d940edfe9385e4ee",
+    "ordinal": 5,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated sweatpants product rear.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15067666383211-image-57367159112043",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/rinse-wash-jean-indigo",
+    "localPath": "images/corridor-15067666383211-image-57367159112043.webp",
+    "sha256": "a421d728f2ac7d48f9b271518ea402448f9f37865b792dbc5bbfa314e0e6ee82",
+    "ordinal": 6,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated dark denim product.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15067666383211-image-57367168909675",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/rinse-wash-jean-indigo",
+    "localPath": "images/corridor-15067666383211-image-57367168909675.webp",
+    "sha256": "5316c44f0be43982f6c72810d6e498f3c2fdd0af44afd273511f2146464833a3",
+    "ordinal": 7,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tee with dark straight jeans and white shoes; lean limbs; enlarged original confirms loose tee and pocket pose obscure waist and hip boundary.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15081016361323-image-57328106963307",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/heavyweight-french-terry-hoodie-grey",
+    "localPath": "images/corridor-15081016361323-image-57328106963307.webp",
+    "sha256": "3e68d6efb3ab4875c165b6f145480a182776bbbaaa877466cdf8598c8a5de379",
+    "ordinal": 8,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated pale hoodie product.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15067579154795-image-57144498848107",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/zocalo-zip-jacket-black",
+    "localPath": "images/corridor-15067579154795-image-57144498848107.webp",
+    "sha256": "fb7e9a34d2f3c38f5463e2bc3fab1d006fea519bdc18785d1209fae9bf8a3123",
+    "ordinal": 9,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated checked shirt product.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "corridor-15067579154795-image-56539447984491",
+    "source": "corridor",
+    "sourceUrl": "https://corridornyc.com/products/zocalo-zip-jacket-black",
+    "localPath": "images/corridor-15067579154795-image-56539447984491.webp",
+    "sha256": "116429aaf689d636ed61b8756d96767bc895c23b6ea4e6bf5a0a25e8168ef316",
+    "ordinal": 10,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Checked collared overshirt over white tee and dark denim; lower body cropped, loose shirt hides body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

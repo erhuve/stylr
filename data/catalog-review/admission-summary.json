@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10167,
-  "admittedPhotos": 6865,
-  "totalPhotos": 7250,
+  "reviewedCandidates": 10195,
+  "admittedPhotos": 6871,
+  "totalPhotos": 7256,
   "axisSupport": {
-    "build": 5579,
+    "build": 5584,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6306,
+  "sourcePages": 6312,
   "excludedReasons": {
-    "non-outfit-view": 3244,
+    "non-outfit-view": 3266,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13220,6 +13220,94 @@
     },
     {
       "id": "free-label-8168597487705-image-36190592532569",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15065426166123-image-57427940901227",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15065426166123-image-57427897221483",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15065426297195-image-57427949584747",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15081016852843-image-57427470778731",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15081016852843-image-57427471008107",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15067666383211-image-57367159112043",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15081016361323-image-57328106963307",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15067579154795-image-57144498848107",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8673046069470-image-42071859298526",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8814352138462-image-43610922746078",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8810013327582-image-43550619762910",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8810013327582-image-43550617436382",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8733791650014-image-42688315359454",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8733791650014-image-42688315326686",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8252415770846-image-44256501891294",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8954146029790-image-44840925069534",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8954146029790-image-44840925233374",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8950559408350-image-45203225149662",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8950559408350-image-45203225116894",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15081016983915-image-57143974429035",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15081016983915-image-56540228878699",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "corridor-15081016164715-image-57129636594027",
       "reason": "non-outfit-view"
     }
   ]
