@@ -1,0 +1,49 @@
+{
+  "retrievedAt": "2026-09-18T09:04:52.530783+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 2 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "stateandliberty",
+      "pages": [
+        {
+          "url": "https://stateandliberty.com/products.json?limit=250&page=1",
+          "products": 249,
+          "retrievedAt": "2026-09-18T09:04:51.544788+00:00",
+          "snapshotSha256": "f880f57388a6292dd0953f6ef4a48df95575695dfa9341898eca69f9fdb39c3e"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "stateandliberty-15942314098769-image-69550470332497",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-4_8c0527ad-c2d6-4c49-9a0f-39825b2a46f5.jpg?v=1785789285",
+          "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+          "sha256": "c76d17d30fa52904769f4a9a2e4bc75107ed411e1867f23c08ab91279af9cd35",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "stateandliberty-15942314098769-image-69550470365265",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-3_396dd929-45fd-4d41-b01f-f293ea345eee.jpg?v=1785789285",
+          "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+          "sha256": "55f82b9de52b8abc62f4a8f1a913d97d0e97b6b23f65b55bc2338919b1484c7e",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "stateandliberty-15859322814545-image-69405267230801",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/phoenix-0001.jpg?v=1784724748",
+          "sourceUrl": "https://stateandliberty.com/products/the-phoenix-purple-lattice-print",
+          "sha256": "1d5019fcb4c2fba5aacf068e63dfd2455ce3edf0a8a5391d00d94fec84516d8b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859322814545-image-69405267263569",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/phoenix-0002.jpg?v=1784724749",
+          "sourceUrl": "https://stateandliberty.com/products/the-phoenix-purple-lattice-print",
+          "sha256": "6cb67cc3c542337f8a199e724f5f4b4c7c23078a4e56d331a3b351cf8877110d",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 2
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "stateandliberty-15859322814545-image-69405267230801",
+    "source": "stateandliberty",
+    "sourceUrl": "https://stateandliberty.com/products/the-phoenix-purple-lattice-print",
+    "localPath": "images/stateandliberty-15859322814545-image-69405267230801.webp",
+    "sha256": "1d5019fcb4c2fba5aacf068e63dfd2455ce3edf0a8a5391d00d94fec84516d8b",
+    "ordinal": 0,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale blue fitted collared shirt with black trousers repeats the earlier light-blue shirt ensemble construction; compared against all 28 prior State and Liberty admissions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "stateandliberty-15859322814545-image-69405267263569",
+    "source": "stateandliberty",
+    "sourceUrl": "https://stateandliberty.com/products/the-phoenix-purple-lattice-print",
+    "localPath": "images/stateandliberty-15859322814545-image-69405267263569.webp",
+    "sha256": "6cb67cc3c542337f8a199e724f5f4b4c7c23078a4e56d331a3b351cf8877110d",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Full-length alternate pose of 0; same blue shirt and dark trouser variant.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

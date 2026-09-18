@@ -1,6 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,279 photos; 2,933 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,287 photos; 2,925 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: tailoring and Snag separates
+
+The 09:00 UTC run directly reviews 24 candidates in `2026-09-18T0910-contours` and `2026-09-18T0915-tailoring`. Three bound sheets, four enlarged originals and six comparison sheets covering all 343 prior State and Liberty/Snag admissions support eight new outfits: one masculine tailoring ensemble and seven feminine ensembles. Sixteen repeated shirt variants, crops and poses are excluded. Half the candidate budget targets masculine tailoring; no State and Liberty candidate supplies a distinct enough outfit. Three refreshed first-page snapshots retain every listing decision and duplicate-image outcome. Searches are bounded, not source exhaustion. No new publisher is added.
+
+Totals: 7,287 photos, 5,736 build observations and 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear). Presentation totals: 1,211 masculine, 4,079 feminine, 169 mixed and 1,828 unclear. Seven build observations add no complete-reference or required-body-filter gain. The broader-build benchmark remains 54. All 3,744 pending training rows remain byte-identical from original ordinal 1056. Inventory records 11,841 sampled pages, 45,112 deferred pages, 76 source keys and 93 runs. Append after `0915-tailoring`; prioritize independent fuller-build fitted untied separates and distinct front tailoring instead of further fine-check shirt colorways. No deployment.
+
+The previous owner was absent after a container restart. Remote `4acef2c` contained its completed checks and admissions; all 50 local changed/untracked files matched that remote apart from the older pending-validation paragraph. The stale snapshot was preserved in a named Git stash before fast-forwarding; its lock-owner record is retained externally. Prior observations were neither recreated nor counted as this run's reviews.
+
+Preservation passes for all 6,894 previous expansion photo/asset/body records and 7,279 presentation rows, all 6,902 expansion asset digests, 24 candidate image bindings, three review sheets and three source snapshots. Admission replay, complete presentation audit, original-photo identity, typecheck, library audit and unchanged counts at all 45 body-filter settings pass. All 131 unit checks pass in one run (177,219 assertions, 379.38 seconds), including sourcing regressions. All 86 browser checks pass in 3.8 minutes, including every catalog image. No checks remain pending or failing. Logs are retained under external `expansion-2026-09-18T0910-contours`. Only exact catalog/body/source-group test expectations changed; assertions and budgets remain intact. Remote main is included. Deployment remains pending.
 
 ## Current continuation: Sene and Elizabeth Suzann
 

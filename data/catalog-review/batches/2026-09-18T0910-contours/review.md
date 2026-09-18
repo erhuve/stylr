@@ -1,0 +1,5 @@
+# Direct review, September 18 2026
+
+Twenty-two candidates inspected on two original image-bound sheets; ordinals 10, 12, 16 and 18 enlarged. Compared against six sheets covering all 315 prior Snag and 28 prior State and Liberty admissions. Eight distinct outfits admitted (one masculine tailoring, seven feminine), seven build observations and no complete reference. Fourteen repeated crops, poses and minor shirt variants excluded. No identity inference; covered axes stay unknown. Supplemental 0915-tailoring brings this run to 24 candidate reviews, half targeting masculine tailoring.
+
+The collector refreshed first-page listings and skipped every previously sampled page. All listing decisions and original snapshots remain bound, including two exact duplicate image outcomes in the first tailoring selection. Current 0910/0915 batches are immutable. Raw search scope is bounded, not source exhaustion. Independent fuller-build fitted untied separates remain a priority; repeated fine checks on fitted shirts provide little new outfit diversity. No deployment.

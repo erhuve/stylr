@@ -114778,6 +114778,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/archean-shift-dress-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-8025878986794-image-37626961002538",
+      "snag-8025878986794-image-37626961068074"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/archean-skater-dress-black",
+    "source": "snag",
+    "candidateIds": [
+      "snag-8025878822954-image-37626960183338",
+      "snag-8025878822954-image-37626960248874"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/audrey-dress-black",
     "source": "snag",
     "candidateIds": [
@@ -117379,6 +117407,62 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/tailored-woven-viscose-shirt-love-line",
+    "source": "snag",
+    "candidateIds": [
+      "snag-8025878102058-image-37626957955114",
+      "snag-8025878102058-image-37626958020650"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/tailored-woven-viscose-shirt-night-sky",
+    "source": "snag",
+    "candidateIds": [
+      "snag-8025877872682-image-37626957463594",
+      "snag-8025877872682-image-37626957529130"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/tailoring-viscose-jersey-button-up-top-blue-pearl",
+    "source": "snag",
+    "candidateIds": [
+      "snag-8025878298666-image-37626958610474",
+      "snag-8025878298666-image-37626958676010"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/tailoring-viscose-jersey-button-up-top-nebular-stars",
+    "source": "snag",
+    "candidateIds": [
+      "snag-8025878462506-image-37626959396906",
+      "snag-8025878462506-image-37626959462442"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/tee-burnout-arabesque",
     "source": "snag",
     "candidateIds": [
@@ -118228,6 +118312,20 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://stateandliberty.com/products/the-phoenix-purple-lattice-print",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859322814545-image-69405267230801",
+      "stateandliberty-15859322814545-image-69405267263569"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0915-tailoring/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/the-portland-sport-shirt-light-pink-with-light-blue-mini-check",
     "source": "stateandliberty",
     "candidateIds": [
@@ -118250,6 +118348,34 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0300-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-reynolds-powder-blue-and-navy-windowpane",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859325501521-image-69405591502929",
+      "stateandliberty-15859325501521-image-69405591568465"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-robby-grey-white-herringbone-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859326648401-image-69628449456209",
+      "stateandliberty-15859326648401-image-69628449554513"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -118282,6 +118408,48 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-rover-blue-mini-windowpane-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859327467601-image-69405777133649",
+      "stateandliberty-15859327467601-image-69405777264721"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-scottie-grey-white-windowpane-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859331924049-image-69405819764817",
+      "stateandliberty-15859331924049-image-69405819797585"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-shore-white-with-tan-windowpane-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859334381649-image-69405827235921",
+      "stateandliberty-15859334381649-image-69405827268689"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://stateandliberty.com/products/the-soho-light-blue-windowpane-1",

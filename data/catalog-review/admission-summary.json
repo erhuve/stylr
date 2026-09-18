@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10269,
-  "admittedPhotos": 6894,
-  "totalPhotos": 7279,
+  "reviewedCandidates": 10293,
+  "admittedPhotos": 6902,
+  "totalPhotos": 7287,
   "axisSupport": {
-    "build": 5605,
+    "build": 5612,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6335,
+  "sourcePages": 6341,
   "excludedReasons": {
-    "non-outfit-view": 3317,
+    "non-outfit-view": 3333,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13512,6 +13512,70 @@
     },
     {
       "id": "senestudio-9028296212677-image-44090418102469",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859334381649-image-69405827235921",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859334381649-image-69405827268689",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859331924049-image-69405819764817",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859331924049-image-69405819797585",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859327467601-image-69405777133649",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859327467601-image-69405777264721",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859326648401-image-69628449554513",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859326648401-image-69628449456209",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859325501521-image-69405591502929",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859325501521-image-69405591568465",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-8025878986794-image-37626961068074",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-8025878822954-image-37626960248874",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-8025878102058-image-37626958020650",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-8025877872682-image-37626957463594",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859322814545-image-69405267230801",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859322814545-image-69405267263569",
       "reason": "non-outfit-view"
     }
   ]

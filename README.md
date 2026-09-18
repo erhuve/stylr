@@ -8,7 +8,7 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
-Latest September 18 checkpoint: 7,279 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 26-candidate Sene/Elizabeth Suzann review adds five outfits and three build observations, with no required-body-filter gain. Presentation totals: 1,210 masculine, 4,072 feminine, 169 mixed and 1,828 unclear. The active doubling handoff records validation status. Not deployed.
+Latest September 18 checkpoint: 7,287 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate State and Liberty/Snag review adds eight outfits and seven build observations, with no required-body-filter gain. Presentation totals: 1,211 masculine, 4,079 feminine, 169 mixed and 1,828 unclear. The active doubling handoff records validation status. Not deployed.
 
 Latest September 18 checkpoint: 7,274 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate Outerknown/Nooworks review adds ten outfits and ten build observations, with no required-body-filter gain. Presentation totals: 1,208 masculine, 4,071 feminine, 169 mixed and 1,826 unclear. The active doubling handoff records validation status. Not deployed.
 

@@ -479,21 +479,21 @@
     },
     {
       "source": "snag",
-      "sampledPages": 230,
-      "candidateImages": 456,
-      "reviewedExpansionCandidates": 433,
-      "admittedExpansionPhotos": 315,
+      "sampledPages": 236,
+      "candidateImages": 468,
+      "reviewedExpansionCandidates": 445,
+      "admittedExpansionPhotos": 323,
       "completeExpansionReferences": 19,
-      "deferredPages": 84
+      "deferredPages": 85
     },
     {
       "source": "stateandliberty",
-      "sampledPages": 51,
-      "candidateImages": 98,
-      "reviewedExpansionCandidates": 98,
+      "sampledPages": 57,
+      "candidateImages": 110,
+      "reviewedExpansionCandidates": 110,
       "admittedExpansionPhotos": 28,
       "completeExpansionReferences": 16,
-      "deferredPages": 145
+      "deferredPages": 139
     },
     {
       "source": "strongsize",
@@ -43096,6 +43096,261 @@
             }
           ],
           "downloadedUnique": 4
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0910-contours/sources.json",
+      "retrievedAt": "2026-09-18T09:04:25.407742+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "stateandliberty",
+          "pages": [
+            {
+              "url": "https://stateandliberty.com/products.json?limit=250&page=1",
+              "products": 249,
+              "retrievedAt": "2026-09-18T09:04:20.966761+00:00",
+              "snapshotSha256": "3de85e91145e2775645a858f9fcc9b7bfb268872b9407381fcf4062bb1f92c89"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "stateandliberty-15942314098769-image-69550470332497",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-4_8c0527ad-c2d6-4c49-9a0f-39825b2a46f5.jpg?v=1785789285",
+              "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+              "sha256": "c76d17d30fa52904769f4a9a2e4bc75107ed411e1867f23c08ab91279af9cd35",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "stateandliberty-15942314098769-image-69550470365265",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-3_396dd929-45fd-4d41-b01f-f293ea345eee.jpg?v=1785789285",
+              "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+              "sha256": "55f82b9de52b8abc62f4a8f1a913d97d0e97b6b23f65b55bc2338919b1484c7e",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "stateandliberty-15859334381649-image-69405827235921",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/shore-0001.jpg?v=1784736015",
+              "sourceUrl": "https://stateandliberty.com/products/the-shore-white-with-tan-windowpane-1",
+              "sha256": "906bc90a2b0cf8ec467183b261ae5f015487b7203cd8a855552a4393d8645d18",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859334381649-image-69405827268689",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/shore-0002.jpg?v=1784736018",
+              "sourceUrl": "https://stateandliberty.com/products/the-shore-white-with-tan-windowpane-1",
+              "sha256": "a8bc5301e2370492cf55ad8b616a8ad13d858f20d8e00468bdb7b4ee79f3f47b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859331924049-image-69405819764817",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/scottie-0003.jpg?v=1784735682",
+              "sourceUrl": "https://stateandliberty.com/products/the-scottie-grey-white-windowpane-1",
+              "sha256": "320d499ce7e035e1c46f3a6450597f6f8faecdd8588eb2d3aacabb120140f3c0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859331924049-image-69405819797585",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/scottie-0004.jpg?v=1784735683",
+              "sourceUrl": "https://stateandliberty.com/products/the-scottie-grey-white-windowpane-1",
+              "sha256": "969ca7cdf00dc65a84e0a0d46399f1c9a24007899f63fdfc93ab751154a3ceac",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859327467601-image-69405777133649",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/rover-0001_7861c7a9-c262-47ba-bf85-5360b5c913a2.jpg?v=1784734570",
+              "sourceUrl": "https://stateandliberty.com/products/the-rover-blue-mini-windowpane-1",
+              "sha256": "92c793d91c67436bc4f4badd54c790edc17a08cde38d714ea86434b219db9c61",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859327467601-image-69405777264721",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/rover-0005_2ddcb33f-79e9-4b0c-bd2f-fb9518e6ffc3.jpg?v=1784734571",
+              "sourceUrl": "https://stateandliberty.com/products/the-rover-blue-mini-windowpane-1",
+              "sha256": "923147940d36911e1e7fb3a5456fbdbf83cfadfd6849b54400950d20163401b3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859326648401-image-69628449554513",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/dress-shirt-robby-_6of6.jpg?v=1786453832",
+              "sourceUrl": "https://stateandliberty.com/products/the-robby-grey-white-herringbone-1",
+              "sha256": "3660135fdc8d75410dbaaa30f00d642e2971607fb90ebd7752639be71b8f3092",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859326648401-image-69628449456209",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/dress-shirt-robby-_3of6.jpg?v=1786453832",
+              "sourceUrl": "https://stateandliberty.com/products/the-robby-grey-white-herringbone-1",
+              "sha256": "afa2a87b24b4f3d089462ce7fabce439e87dcbf3a8256c382d48b86da7898da2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859325501521-image-69405591502929",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/reynolds-0001.jpg?v=1784730813",
+              "sourceUrl": "https://stateandliberty.com/products/the-reynolds-powder-blue-and-navy-windowpane",
+              "sha256": "64c925347bbd571f3e9905ce022ca3f4097ec471416d5619cd968ab498ce876f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859325501521-image-69405591568465",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/reynolds-0003.jpg?v=1784730813",
+              "sourceUrl": "https://stateandliberty.com/products/the-reynolds-powder-blue-and-navy-windowpane",
+              "sha256": "4f2d5fe703e2a0607272b85d36e8c403d2ecde86cf853ea2ab85bea6e2606699",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 10
+        },
+        {
+          "source": "snag",
+          "pages": [
+            {
+              "url": "https://snagtights.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T09:04:23.908634+00:00",
+              "snapshotSha256": "77afa556b5196ff0104da205a2864b04d41a28c1d38de12a3bed445bc878fb6c"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "snag-8025878986794-image-37626961002538",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Selin-Size_G-Archean_Shift_Dress-Black_2.jpg?v=1789655999",
+              "sourceUrl": "https://snagtights.com/products/archean-shift-dress-black",
+              "sha256": "b3bc5abc3b3d8082abfd1bdc8a4b506c328cc0cfdc0921b4622b739041908561",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025878986794-image-37626961068074",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Selin-Size_G-Archean_Shift_Dress-Black_1.jpg?v=1789655999",
+              "sourceUrl": "https://snagtights.com/products/archean-shift-dress-black",
+              "sha256": "efe0d158ffdf616c764b5b3cc9a0e8b233692ce54270918a96117472164ba53b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025878822954-image-37626960183338",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Gianna-Size_F-Archean_Skater_Dress-Black_4.jpg?v=1789655984",
+              "sourceUrl": "https://snagtights.com/products/archean-skater-dress-black",
+              "sha256": "8d1fa6f4eca18fe297abfaff46d1e71ad283356fd94cccf39942d64783f81f7f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025878822954-image-37626960248874",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Gianna-Size_F-Archean_Skater_Dress-Black_1.jpg?v=1789655984",
+              "sourceUrl": "https://snagtights.com/products/archean-skater-dress-black",
+              "sha256": "b7b3119150363e65c8594a886e60f953ed99c8a89135a63faff639542508b6e4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025878462506-image-37626959396906",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Ashley-Size_F-Jersey_Button_Up-Nebula_Lace_Up_Underbust_Harness_4.jpg?v=1789655970",
+              "sourceUrl": "https://snagtights.com/products/tailoring-viscose-jersey-button-up-top-nebular-stars",
+              "sha256": "6a39c8e97115ee6320ee9ffa17cb206f74a7ef34b8ddf9afb36aaae75c86f614",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025878462506-image-37626959462442",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Emma-SizeD-JerseyButtonUp-Nebula_1.jpg?v=1789655970",
+              "sourceUrl": "https://snagtights.com/products/tailoring-viscose-jersey-button-up-top-nebular-stars",
+              "sha256": "1e513bd407e20e1ae5b96bad29c8664ea9efe140b12a9fc6747630b362e857cf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025878298666-image-37626958610474",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Juanita-Size_S-Jersey_Button_Up-Blue_Pearl_1.jpg?v=1789655951",
+              "sourceUrl": "https://snagtights.com/products/tailoring-viscose-jersey-button-up-top-blue-pearl",
+              "sha256": "f75b9115517f0eae46c5dc5dcbd0f2289d099d1abce4b602dabce1d762245849",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025878298666-image-37626958676010",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Teni-Size_F-Jersey_Button_Up-Blue_Pearl_4.jpg?v=1789655950",
+              "sourceUrl": "https://snagtights.com/products/tailoring-viscose-jersey-button-up-top-blue-pearl",
+              "sha256": "16566afd964d6449cda32f56fdaa8eadfc573e2ccf7fbf765fa324a1348d2623",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025878102058-image-37626957955114",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Andreea-Size_C1-Viscose_Button_Up-Love_Line_3.jpg?v=1789655933",
+              "sourceUrl": "https://snagtights.com/products/tailored-woven-viscose-shirt-love-line",
+              "sha256": "0d7ab5f4427303db9528beb73bcdb3fe18ee0111f8f397ebc7dde283630896c9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025878102058-image-37626958020650",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Andreea-SizeC1-ViscoseButtonUp-LoveLine_1.jpg?v=1789655933",
+              "sourceUrl": "https://snagtights.com/products/tailored-woven-viscose-shirt-love-line",
+              "sha256": "8a8d4e150381c7db92df7fc1bead6b879378d7d6a4bf8826813386abbc742b0a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025877872682-image-37626957463594",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Pixie-Size_C1-Night_Sky-Tailor_Viscose_Button_up_5.jpg?v=1789655919",
+              "sourceUrl": "https://snagtights.com/products/tailored-woven-viscose-shirt-night-sky",
+              "sha256": "95882be92761f1a04cfef71b3029edaf6c0ac68b5f13a256730d36eb576ca6ee",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-8025877872682-image-37626957529130",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Pixie-Size_C1-Night_Sky-Tailor_Viscose_Button_up_4.jpg?v=1789655919",
+              "sourceUrl": "https://snagtights.com/products/tailored-woven-viscose-shirt-night-sky",
+              "sha256": "f6ec920a57bdc48216191d3ce3f2f0fd8915a14c3edbdea9735e9a9a25a162c7",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0915-tailoring/sources.json",
+      "retrievedAt": "2026-09-18T09:04:52.530783+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 2 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "stateandliberty",
+          "pages": [
+            {
+              "url": "https://stateandliberty.com/products.json?limit=250&page=1",
+              "products": 249,
+              "retrievedAt": "2026-09-18T09:04:51.544788+00:00",
+              "snapshotSha256": "f880f57388a6292dd0953f6ef4a48df95575695dfa9341898eca69f9fdb39c3e"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "stateandliberty-15942314098769-image-69550470332497",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-4_8c0527ad-c2d6-4c49-9a0f-39825b2a46f5.jpg?v=1785789285",
+              "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+              "sha256": "c76d17d30fa52904769f4a9a2e4bc75107ed411e1867f23c08ab91279af9cd35",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "stateandliberty-15942314098769-image-69550470365265",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-3_396dd929-45fd-4d41-b01f-f293ea345eee.jpg?v=1785789285",
+              "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+              "sha256": "55f82b9de52b8abc62f4a8f1a913d97d0e97b6b23f65b55bc2338919b1484c7e",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "stateandliberty-15859322814545-image-69405267230801",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/phoenix-0001.jpg?v=1784724748",
+              "sourceUrl": "https://stateandliberty.com/products/the-phoenix-purple-lattice-print",
+              "sha256": "1d5019fcb4c2fba5aacf068e63dfd2455ce3edf0a8a5391d00d94fec84516d8b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "stateandliberty-15859322814545-image-69405267263569",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/phoenix-0002.jpg?v=1784724749",
+              "sourceUrl": "https://stateandliberty.com/products/the-phoenix-purple-lattice-print",
+              "sha256": "6cb67cc3c542337f8a199e724f5f4b4c7c23078a4e56d331a3b351cf8877110d",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 2
         }
       ]
     }
