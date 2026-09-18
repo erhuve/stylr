@@ -2606,6 +2606,85 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://badworkwear.com/products/bad-365-slim-fit-cuffed-work-pants",
+    "source": "badworkwear",
+    "candidateIds": [
+      "badworkwear-749043318849-image-15030077325377"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://badworkwear.com/products/bad-classic-cotton-drill-cargo-pants",
+    "source": "badworkwear",
+    "candidateIds": [
+      "badworkwear-1137292933-image-15030079029313"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://badworkwear.com/products/bad-classic-cotton-drill-cargo-work-shorts",
+    "source": "badworkwear",
+    "candidateIds": [
+      "badworkwear-401072328-image-1142912336"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://badworkwear.com/products/bad-classic-cotton-drill-short-shorts",
+    "source": "badworkwear",
+    "candidateIds": [
+      "badworkwear-402174468-image-1147252484"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://badworkwear.com/products/bad-strides-cargo-work-pants",
+    "source": "badworkwear",
+    "candidateIds": [
+      "badworkwear-1128135941-image-15030080602177"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://badworkwear.com/products/bad-strides-cargo-work-shorts",
+    "source": "badworkwear",
+    "candidateIds": [
+      "badworkwear-5385592133-image-15030080045121",
+      "badworkwear-5385592133-image-15030080077889"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://barbellapparel.com/products/adapt-jogger-carry-edition",
     "source": "barbellapparel",
     "candidateIds": [
@@ -150199,6 +150278,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.american-giant.com/products/mens-heavyweight-pocket-t-black",
+    "source": "americangiant",
+    "candidateIds": [
+      "americangiant-2111643058273-image-37106502697141",
+      "americangiant-2111643058273-image-40466610028725"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.american-giant.com/products/mens-heavyweight-pocket-t-spellbound",
+    "source": "americangiant",
+    "candidateIds": [
+      "americangiant-10567564951733-image-38170932215989",
+      "americangiant-10567564951733-image-38171309539509"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.american-giant.com/products/mens-heavyweight-pocket-t-white",
+    "source": "americangiant",
+    "candidateIds": [
+      "americangiant-2144452182113-image-37106531074229",
+      "americangiant-2144452182113-image-40466631819445"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.american-giant.com/products/mens-straight-leg-sweatpant-true-navy",
+    "source": "americangiant",
+    "candidateIds": [
+      "americangiant-10182343426229-image-73113294536885",
+      "americangiant-10182343426229-image-73172959658165"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.american-giant.com/products/womens-premium-slub-crew-t-long-sleeve-hunter-green",
+    "source": "americangiant",
+    "candidateIds": [
+      "americangiant-10302311071925-image-73890650325173",
+      "americangiant-10302311071925-image-73890654453941"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.american-giant.com/products/womens-vintage-crew-t-mineral-wash-blue-mineral",
+    "source": "americangiant",
+    "candidateIds": [
+      "americangiant-8192544374965-image-40490964320437",
+      "americangiant-8192544374965-image-40561150623925"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.billyreid.com/products/bishop-rib-crew-carbon-blue",
     "source": "billyreid",
     "candidateIds": [
@@ -153139,6 +153302,90 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.miakodanewyork.com/products/the-everyday-moon-tee-1",
+    "source": "miakoda",
+    "candidateIds": [
+      "miakoda-8757495890110-image-42133433286846",
+      "miakoda-8757495890110-image-42133433319614"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.miakodanewyork.com/products/the-everyday-tee-1",
+    "source": "miakoda",
+    "candidateIds": [
+      "miakoda-8757496447166-image-42133426897086",
+      "miakoda-8757496447166-image-42133470904510"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.miakodanewyork.com/products/the-slouchy-pant",
+    "source": "miakoda",
+    "candidateIds": [
+      "miakoda-6987490918590-image-42133486371006",
+      "miakoda-6987490918590-image-42133486469310"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.miakodanewyork.com/products/the-slouchy-pant-bottom",
+    "source": "miakoda",
+    "candidateIds": [
+      "miakoda-8844634030270-image-42133478375614",
+      "miakoda-8844634030270-image-42133478408382"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.miakodanewyork.com/products/the-trouser-jogger",
+    "source": "miakoda",
+    "candidateIds": [
+      "miakoda-8757494907070-image-42133434958014",
+      "miakoda-8757494907070-image-42133435941054"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.miakodanewyork.com/products/the-trouser-sweatpant",
+    "source": "miakoda",
+    "candidateIds": [
+      "miakoda-8699320303806-image-42133455798462",
+      "miakoda-8699320303806-image-42133456552126"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1840-independent/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,

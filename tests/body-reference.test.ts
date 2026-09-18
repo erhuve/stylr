@@ -4,8 +4,8 @@ import { PHOTOS } from '../src/lib/photo-catalog';
 import { eligiblePhotos, freshPhotoSession, parsePhotoSession, photoQueue, votePhoto, undoPhoto } from '../src/lib/photo-session';
 
 test('reviewed references bind to catalog IDs and exclude unreviewed and unknown traits', () => {
-  expect(BODY_REFERENCES.size).toBe(7182);
-  expect([...BODY_REFERENCES.values()].filter(record => record.build !== null)).toHaveLength(5851);
+  expect(BODY_REFERENCES.size).toBe(7187);
+  expect([...BODY_REFERENCES.values()].filter(record => record.build !== null)).toHaveLength(5856);
   for (const id of BODY_REFERENCES.keys()) expect(PHOTOS.some(photo => photo.id === id)).toBe(true);
   for (const build of [1, 1.5, 2, 2.5, 3]) for (const shoulderHip of [null, -1, 0, 1]) for (const waist of [null, 0, 1, 2]) {
     const body = { build, shoulderHip, waist };

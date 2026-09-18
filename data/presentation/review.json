@@ -71164,6 +71164,61 @@
       "sheet": 2,
       "batch": "2026-09-18T1750-interactive",
       "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/interactive-2026-09-18T1750/juno/sheets/02.jpg"
+    },
+    {
+      "id": "miakoda-6987490918590-image-42133486469310",
+      "sha256": "72cfcedeb5bd4a74f495b5383afab469e7efbe640245b800514c154da85f966e",
+      "evidence": "U",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 8,
+      "originalCollectionOrdinal": 8,
+      "sheet": 0,
+      "batch": "2026-09-18T1840-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1840-independent/sheets/00.jpg"
+    },
+    {
+      "id": "miakoda-8844634030270-image-42133478408382",
+      "sha256": "c50838bf53c620e9010f40d4e53a05a68f6265ff815ce01756235783986a2fa7",
+      "evidence": "U",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 10,
+      "originalCollectionOrdinal": 10,
+      "sheet": 0,
+      "batch": "2026-09-18T1840-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1840-independent/sheets/00.jpg"
+    },
+    {
+      "id": "miakoda-8757496447166-image-42133470904510",
+      "sha256": "8828281adff7e484c9ec0aee4827c98c617bf2e11d1ca9c37f819366a6d4585c",
+      "evidence": "U",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 11,
+      "originalCollectionOrdinal": 11,
+      "sheet": 0,
+      "batch": "2026-09-18T1840-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1840-independent/sheets/00.jpg"
+    },
+    {
+      "id": "americangiant-2111643058273-image-40466610028725",
+      "sha256": "ad157c319cd4b92c2520c7272b44d9872742964296f1f4c3fb6482f307d4ca10",
+      "evidence": "U",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 24,
+      "originalCollectionOrdinal": 5,
+      "sheet": 0,
+      "batch": "2026-09-18T1840-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1850-casual/sheets/00.jpg"
+    },
+    {
+      "id": "americangiant-10302311071925-image-73890650325173",
+      "sha256": "6910da440299df2108e40075a6f56c3d023b310d01538a27092cdfb2b2a6c753",
+      "evidence": "U",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 28,
+      "originalCollectionOrdinal": 9,
+      "sheet": 0,
+      "batch": "2026-09-18T1840-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1850-casual/sheets/00.jpg"
     }
   ]
 }

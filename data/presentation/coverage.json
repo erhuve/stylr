@@ -1,8 +1,8 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7423,
-  "reviewedPhotos": 7423,
+  "catalogPhotos": 7428,
+  "reviewedPhotos": 7428,
   "unreviewedPhotos": 0,
   "categories": [
     {
@@ -31,7 +31,7 @@
     {
       "presentation": "feminine",
       "photos": 4126,
-      "percent": 55.6,
+      "percent": 55.5,
       "sourcePages": 3682,
       "sourceHosts": 47,
       "completeReferences": 149,
@@ -70,16 +70,16 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1879,
-      "percent": 25.3,
-      "sourcePages": 1754,
-      "sourceHosts": 78,
+      "photos": 1884,
+      "percent": 25.4,
+      "sourcePages": 1759,
+      "sourceHosts": 80,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
-        "2": 165,
+        "2": 166,
         "3": 217,
-        "1.5": 848,
+        "1.5": 852,
         "unknown": 526,
         "2.5": 116
       },
@@ -395,6 +395,64 @@
           "byBuild": {
             "1.5": 5,
             "unknown": 2
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "american-giant.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 2,
+          "percent": 100,
+          "sourcePages": 2,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2": 1,
+            "1.5": 1
           },
           "completeByBuild": {}
         },
@@ -2813,6 +2871,63 @@
           "sourceHosts": 0,
           "completeReferences": 0,
           "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "miakodanewyork.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 3,
+          "percent": 100,
+          "sourcePages": 3,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 3
+          },
           "completeByBuild": {}
         },
         {

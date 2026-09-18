@@ -1,0 +1,19 @@
+{
+  "baseline": "5a9601c",
+  "unchangedPrefixes": {
+    "scripts/reviewed-photos.json": 7038,
+    "scripts/reviewed-assets.json": 7038,
+    "data/catalog-review/admitted-body.json": 7038,
+    "data/presentation/review.json": 7423
+  },
+  "pendingTrainingUnchanged": 3744,
+  "candidateBindings": 31,
+  "reviewCounts": {
+    "U": 5,
+    "admissions": 5,
+    "complete": 0,
+    "build": 5
+  },
+  "listingDecisions": 462,
+  "sheetBindings": 3
+}

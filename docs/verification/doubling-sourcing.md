@@ -1,6 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,423 photos; 2,789 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,428 photos; 2,784 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: independent casual separates
+
+The 18:30 UTC run (`con_yPwVGh4Sq5hwV2qG`) directly reviews 31 candidates in combined batch `2026-09-18T1840-independent`, preserving the original ordinals from external collections `1840-independent`, `1845-collared` and `1850-casual`. Three bound sheets and three enlarged originals support five admissions: three Miakoda and two American Giant outfits. All five are neutral/unclear styling, with five build observations and no complete reference. Twenty-six exclusions comprise nineteen product/detail shots, four rear views and three repeated basic ensembles. BAD Workwear supplies product montages; Ben Sherman's listing returns HTTP 404. Neither outcome establishes source exhaustion.
+
+Totals: 7,428 photos, 7,187 body records, 5,856 build observations, 294 complete references (46 masculine) and 55 broader-build benchmark matches. Presentation counts are 1,247 masculine, 4,126 feminine, 171 mixed and 1,884 unclear. All 45 sampled required-body-filter settings are unchanged; twelve remain empty. Three bounded first-page snapshots preserve 462 listing decisions. Source inventory reaches 12,174 sampled and 49,171 deferred pages. Every prior sampled/deferred record is unchanged; all 3,744 pending training bindings remain unchanged from original ordinal 1056.
+
+Baseline `5a9601c` matches fetched origin/personal-discovery and contains origin/main. Admission preserves all earlier photo/asset/body/presentation prefixes and every admitted asset digest. All 31 candidate/original-ordinal bindings, three sheet hashes and twelve original source/review-file bindings validate. Admission replay, complete presentation audit, original-photo identity, all 7,428 image assets, library audit, sourcing/batch tests, typecheck and isolated build pass. All 131 unit tests pass in one run (180,293 assertions, 429.06 seconds), and all 86 browser checks pass in 3.5 minutes with tracing disabled. Only exact count expectations changed; original assertions and timeouts remain intact. No checks remain pending or failing. The final fetch finds no concurrent branch update. Exit markers and logs remain in external `expansion-2026-09-18T1840-independent`.
+
+Append after the combined batch; do not independently reimport its external collections. Prefer fitted untied full-front fuller-build separates and collared outfits from independent sources. Avoid BAD product montages, Miakoda repeated black basic ensembles and American Giant first/third product/rear galleries. Deployment remains pending; the sprint still ends September 18 at 21:23 UTC.
 
 ## Current interactive continuation: independent sources and activewear category recovery
 

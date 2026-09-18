@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Latest scheduled checkpoint: 7,428 reviewed photos after 31 direct reviews and five neutral outfits from Miakoda/American Giant. Complete body references remain 294 (46 masculine-styled), with 55 broader-build benchmark matches and no required-body-filter gain. Read `docs/verification/doubling-sourcing.md` for current validation and continuation. Not deployed; earlier checkpoints are historical.
+
 Latest September 18 checkpoint: 7,423 reviewed photos, 294 complete body references (46 masculine-styled) and 55 broader-build benchmark matches. This 112-candidate review adds 24 outfits and 22 build observations from four new admitted publishers, with no required-body-filter gain. A corrected generic category filter recovers JunoActive clothing candidates without admitting accessories. Read the active doubling handoff for validation. Not deployed. Earlier checkpoints are historical.
 
 Latest September 18 checkpoint: 7,399 reviewed photos, 294 complete body references (46 masculine-styled) and 55 broader-build benchmark matches. Twenty-four Rowing Blazers/Billy Reid reviews add ten outfits; no required-body-filter gain. Presentation totals: 1,243 masculine, 4,123 feminine, 171 mixed and 1,862 unclear. Read the active doubling handoff for validation. Not deployed. Earlier checkpoint paragraphs are historical.

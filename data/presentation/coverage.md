@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7423/7423; unreviewed: 0.
+Reviewed: 7428/7428; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | masculine | 1247 | 16.8% | 1182 | 64 | 46 |
-| feminine | 4126 | 55.6% | 3682 | 47 | 149 |
+| feminine | 4126 | 55.5% | 3682 | 47 | 149 |
 | mixed-androgynous | 171 | 2.3% | 164 | 13 | 2 |
-| unclear | 1879 | 25.3% | 1754 | 78 | 97 |
+| unclear | 1884 | 25.4% | 1759 | 80 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -23,7 +23,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | masculine | {"1":3,"2":163,"3":65,"unknown":378,"2.5":62,"1.5":576} | {"1":1,"2":19,"3":3,"2.5":10,"1.5":13} |
 | feminine | {"1":27,"2":398,"3":262,"unknown":584,"1.5":2566,"2.5":289} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":31} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":77} | {"1.5":2} |
-| unclear | {"1":7,"2":165,"3":217,"1.5":848,"unknown":526,"2.5":116} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":166,"3":217,"1.5":852,"unknown":526,"2.5":116} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -35,6 +35,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | activetruth.com.au | 0 | 0 | 0 | 2 | 0 |
 | alexcrane.co | 1 | 0 | 0 | 0 | 0 |
 | alexmill.com | 1 | 0 | 0 | 7 | 0 |
+| american-giant.com | 0 | 0 | 0 | 2 | 0 |
 | americantall.com | 4 | 0 | 0 | 2 | 0 |
 | andcollar.com | 1 | 0 | 0 | 0 | 0 |
 | andsons.co.uk | 6 | 0 | 0 | 1 | 0 |
@@ -73,6 +74,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | lucyandyak.com | 1 | 12 | 1 | 39 | 0 |
 | marinelayer.com | 0 | 3 | 0 | 1 | 0 |
 | marywyattlondon.com | 0 | 3 | 0 | 0 | 0 |
+| miakodanewyork.com | 0 | 0 | 0 | 3 | 0 |
 | midnighthour.com | 23 | 95 | 1 | 25 | 0 |
 | mochipan.com | 8 | 111 | 0 | 14 | 0 |
 | morningwitch.com | 2 | 5 | 0 | 6 | 0 |

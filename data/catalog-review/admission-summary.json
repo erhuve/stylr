@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10906,
-  "admittedPhotos": 7038,
-  "totalPhotos": 7423,
+  "reviewedCandidates": 10937,
+  "admittedPhotos": 7043,
+  "totalPhotos": 7428,
   "axisSupport": {
-    "build": 5727,
+    "build": 5732,
     "shoulderHip": 321,
     "waist": 607
   },
   "completeReferences": 252,
-  "sourcePages": 6475,
+  "sourcePages": 6480,
   "excludedReasons": {
-    "non-outfit-view": 3810,
+    "non-outfit-view": 3836,
     "existing-source-page": 58
   },
   "excluded": [
@@ -15484,6 +15484,110 @@
     },
     {
       "id": "junoactive-8238884880566-image-37420489375926",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "badworkwear-749043318849-image-15030077325377",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "badworkwear-402174468-image-1147252484",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "badworkwear-401072328-image-1142912336",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "badworkwear-5385592133-image-15030080045121",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "badworkwear-5385592133-image-15030080077889",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "badworkwear-1137292933-image-15030079029313",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "badworkwear-1128135941-image-15030080602177",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "miakoda-6987490918590-image-42133486371006",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "miakoda-8844634030270-image-42133478375614",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "miakoda-8757496447166-image-42133426897086",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "miakoda-8757495890110-image-42133433286846",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "miakoda-8757495890110-image-42133433319614",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "miakoda-8757494907070-image-42133434958014",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "miakoda-8757494907070-image-42133435941054",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "miakoda-8699320303806-image-42133455798462",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "miakoda-8699320303806-image-42133456552126",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-10567564951733-image-38170932215989",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-10567564951733-image-38171309539509",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-10182343426229-image-73172959658165",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-10182343426229-image-73113294536885",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-2111643058273-image-37106502697141",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-2144452182113-image-37106531074229",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-2144452182113-image-40466631819445",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-10302311071925-image-73890654453941",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-8192544374965-image-40561150623925",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "americangiant-8192544374965-image-40490964320437",
       "reason": "non-outfit-view"
     }
   ]

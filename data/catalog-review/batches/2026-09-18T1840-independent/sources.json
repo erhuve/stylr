@@ -1,0 +1,284 @@
+{
+  "retrievedAt": "2026-09-18T18:35:09.184872+00:00",
+  "retrievalTimeBasis": "Completion timestamp of last collection; each listing retains its actual retrieval timestamp and original snapshot binding.",
+  "scope": "Four independent publishers attempted; at most three listing pages of 250 products and six unsampled products per source, first/third gallery images. Ben Sherman HTTP 404 preserved. Labels derive only from direct image inspection.",
+  "sources": [
+    {
+      "source": "badworkwear",
+      "pages": [
+        {
+          "url": "https://badworkwear.com/products.json?limit=250&page=1",
+          "products": 192,
+          "retrievedAt": "2026-09-18T18:33:12.377689+00:00",
+          "snapshotSha256": "92adc37a381f1ded7fe3e5ac57d19442ab58f5e595d66c610cd1355d6db75dd9",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1840-independent/raw/badworkwear-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "badworkwear-749043318849-image-15030077325377",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0726/3965/products/bad-365-slim-fit-cuffed-work-pants-342303.jpg?v=1601135999",
+          "sourceUrl": "https://badworkwear.com/products/bad-365-slim-fit-cuffed-work-pants",
+          "sha256": "a7e873252574d546ebdbd7891c5330ccc688b96c938d32a865c40604907999e4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "badworkwear-402174468-image-1147252484",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0726/3965/products/bad-classic-cotton-drill-work-short-shorts-4635508.jpg?v=1782889927",
+          "sourceUrl": "https://badworkwear.com/products/bad-classic-cotton-drill-short-shorts",
+          "sha256": "064428cdd6205752185e7bb4ea0522df426cdd972a9f4b36ccaa9a890e2e3b55",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "badworkwear-401072328-image-1142912336",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0726/3965/products/bad-classic-cotton-drill-cargo-work-shorts-2880988.jpg?v=1782889927",
+          "sourceUrl": "https://badworkwear.com/products/bad-classic-cotton-drill-cargo-work-shorts",
+          "sha256": "32a91c43953a068f95fb58857250190c314e821ee8e75daa44fc1f9c2be00c03",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "badworkwear-5385592133-image-15030080045121",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0726/3965/products/bad-strides-work-shorts-391440.jpg?v=1601136011",
+          "sourceUrl": "https://badworkwear.com/products/bad-strides-cargo-work-shorts",
+          "sha256": "7955a2898ca5658b8a84d8c9b64cec24739443fd639de8281c323c798a0c780d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "badworkwear-5385592133-image-15030080077889",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0726/3965/products/bad-strides-work-shorts-769191.jpg?v=1601136011",
+          "sourceUrl": "https://badworkwear.com/products/bad-strides-cargo-work-shorts",
+          "sha256": "55bce18bb0d2c138004bcfc1ed62d375d09d390fdd47640e6416b2dd0ef3c5da",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "badworkwear-1137292933-image-15030079029313",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0726/3965/products/bad-cotton-drill-work-pants-894108.jpg?v=1601136006",
+          "sourceUrl": "https://badworkwear.com/products/bad-classic-cotton-drill-cargo-pants",
+          "sha256": "4983701df85830e5b2fdd8dfc2e13a062b5b58b8f42959cef29defb735d6e414",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "badworkwear-1128135941-image-15030080602177",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0726/3965/products/bad-strides-work-pants-606276.jpg?v=1601136015",
+          "sourceUrl": "https://badworkwear.com/products/bad-strides-cargo-work-pants",
+          "sha256": "d504c01b65209063ff019797941e4d57be4ce2880d93cf77cf50a91b19dd85ca",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 7
+    },
+    {
+      "source": "miakoda",
+      "pages": [
+        {
+          "url": "https://www.miakodanewyork.com/products.json?limit=250&page=1",
+          "products": 20,
+          "retrievedAt": "2026-09-18T18:33:14.307040+00:00",
+          "snapshotSha256": "9fac9b35d02dd9408b28f8b145dbf2b8670f7ef08e3e975f41c79918b7474e76",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1840-independent/raw/miakoda-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "miakoda-6987490918590-image-42133486371006",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/061726_MiakodaNewYork_SP28255.jpg?v=1782226224",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-slouchy-pant",
+          "sha256": "6d89552490634405bccae8bcfb79fe14d22db7a4b6e815b26e3a5bbeb6fd7368",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-6987490918590-image-42133486469310",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/061726_MiakodaNewYork_SP28287_d125eb35-29ae-4513-9eed-bb10e741da33.jpg?v=1782226224",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-slouchy-pant",
+          "sha256": "72cfcedeb5bd4a74f495b5383afab469e7efbe640245b800514c154da85f966e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8844634030270-image-42133478375614",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/061726_MiakodaNewYork_SP28067_e40de102-440d-4b63-9803-1a119d6bb7f6.jpg?v=1782226164",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-slouchy-pant-bottom",
+          "sha256": "69589ffb2f905b2cab5d885eac3631059d173492258eab937bbe35e5a91fa51f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8844634030270-image-42133478408382",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/061726_MiakodaNewYork_SP28145_a6a1dcce-3457-4145-8154-1f53e7c3143b.jpg?v=1782226103",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-slouchy-pant-bottom",
+          "sha256": "c50838bf53c620e9010f40d4e53a05a68f6265ff815ce01756235783986a2fa7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8757496447166-image-42133470904510",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/061726_MiakodaNewYork_SP28475.jpg?v=1782225988",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-everyday-tee-1",
+          "sha256": "8828281adff7e484c9ec0aee4827c98c617bf2e11d1ca9c37f819366a6d4585c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8757496447166-image-42133426897086",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/01.21.26_MiakodaNewYork_SP13049_9df6b3e3-7c3f-4d13-910d-829d1f97d38c.jpg?v=1782225360",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-everyday-tee-1",
+          "sha256": "9bae23cc8083e312032dca15224b7faff31c4058fcd8f132671910b5ae057fa4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8757495890110-image-42133433286846",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/01.21.26_MiakodaNewYork_SP13095_1b2fee44-1ba0-4e30-a677-b7bea7c6f5c4.jpg?v=1782225438",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-everyday-moon-tee-1",
+          "sha256": "2226662d0758eadd28f5c7810ab81ef13e5d4a999ab07239ca0524906711aa55",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8757495890110-image-42133433319614",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/01.21.26_MiakodaNewYork_SP13106_871718e1-a7de-4c25-a94d-2663435c0d6a.jpg?v=1782225439",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-everyday-moon-tee-1",
+          "sha256": "673634315009bddc28e22a856bea45e390c346a4a334367f3dffa50a7bd78e2d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8757494907070-image-42133434958014",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/01.21.26_MiakodaNewYork_SP12807_2a767532-dfee-45ee-a6ba-fa314eb2d0a1.jpg?v=1782225466",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-trouser-jogger",
+          "sha256": "59feccaa70f0aeeae1f8c1806271d174d5154796174f7213f5b8c41b7ad922f1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8757494907070-image-42133435941054",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/01.21.26_MiakodaNewYork_SP13517_3d87231a-02e9-47e8-b46a-6d2c42540a19.jpg?v=1782225485",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-trouser-jogger",
+          "sha256": "c27e2f15c1fde3dd3394dd1d25500fc12f98bf02f6fcb204e56d2154dd413109",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8699320303806-image-42133455798462",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/01.21.26_MiakodaNewYork_SP12849_27fa27db-8a89-4f4b-aaec-c2944e9068e1.jpg?v=1782225754",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-trouser-sweatpant",
+          "sha256": "f2d7a92b9f5d11c61b1b8ad296b3b0cad2f6bbe0ce56cf5fc3bb18fad4295528",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "miakoda-8699320303806-image-42133456552126",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0602/2974/6878/files/01.21.26_MiakodaNewYork_SP13524_533a5437-e036-4a6f-90c9-212b13740fc1.jpg?v=1782225767",
+          "sourceUrl": "https://www.miakodanewyork.com/products/the-trouser-sweatpant",
+          "sha256": "7ad068bfa17028f4700e0d10f43a7303a31ddc2f191fd53dff1421b66f8f7b3f",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "bensherman",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://www.bensherman.com/products.json?limit=250&page=1",
+          "error": "404 Client Error: Not Found for url: https://www.bensherman.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "americangiant",
+      "pages": [
+        {
+          "url": "https://www.american-giant.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T18:35:07.417745+00:00",
+          "snapshotSha256": "735a3b9f5aa21410adc761485e448a866ff2def2c88baf15ddf5014d98d37729",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1850-casual/raw/americangiant-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "americangiant-10567564951733-image-38170932215989",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/M2-2A-2A-SPB_53085.jpg?v=1746653919",
+          "sourceUrl": "https://www.american-giant.com/products/mens-heavyweight-pocket-t-spellbound",
+          "sha256": "c0457bdf4173c9a2bf9c56ca238824d8bd830ad0c3cf2fe98afa0fc44bddffc1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-10567564951733-image-38171309539509",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/M2-2A-2A-SPB_50833.jpg?v=1746653919",
+          "sourceUrl": "https://www.american-giant.com/products/mens-heavyweight-pocket-t-spellbound",
+          "sha256": "6a4d05c906c17eedf72e114d096674203745bfdcde1cc5cb91bebf750536e1aa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-10182343426229-image-73172959658165",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/M1-1M-14-TRNA_56115.jpg?v=1756422073",
+          "sourceUrl": "https://www.american-giant.com/products/mens-straight-leg-sweatpant-true-navy",
+          "sha256": "87e1201262241a5c4900a4e0e1efa7204ac11bfd6a9cf7af72bbd260263d12f1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-10182343426229-image-73113294536885",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/M1-1M-14-TRNA_50268.jpg?v=1756422073",
+          "sourceUrl": "https://www.american-giant.com/products/mens-straight-leg-sweatpant-true-navy",
+          "sha256": "4fcca62093a3999d2eba07cf669a67f646163cb7fd7b5d6813123400e8a76c4c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-2111643058273-image-37106502697141",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/M2-2A-2A-BL_30759.jpg?v=1710440694",
+          "sourceUrl": "https://www.american-giant.com/products/mens-heavyweight-pocket-t-black",
+          "sha256": "17d194fec16d09df53346f90541cfdc3cf61a49a302ba9e374baf33d9516031e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-2111643058273-image-40466610028725",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/M2-2A-2A-BL_32923.jpg?v=1747422478",
+          "sourceUrl": "https://www.american-giant.com/products/mens-heavyweight-pocket-t-black",
+          "sha256": "ad157c319cd4b92c2520c7272b44d9872742964296f1f4c3fb6482f307d4ca10",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-2144452182113-image-37106531074229",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/M2-2A-2A-WH_30751.jpg?v=1710440967",
+          "sourceUrl": "https://www.american-giant.com/products/mens-heavyweight-pocket-t-white",
+          "sha256": "4918c38532cb7ef7b5f97f2b17240afdd6fb1683b17bb00e58431067ad350712",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-2144452182113-image-40466631819445",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/M2-2A-2A-WH_30101.jpg?v=1747422509",
+          "sourceUrl": "https://www.american-giant.com/products/mens-heavyweight-pocket-t-white",
+          "sha256": "36f02a771c6963d08b11a10b34d56b6b7e00734cc2eacdd31155149d535b7453",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-10302311071925-image-73890654453941",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/W2-2U-12-HU_5752.jpg?v=1764185433",
+          "sourceUrl": "https://www.american-giant.com/products/womens-premium-slub-crew-t-long-sleeve-hunter-green",
+          "sha256": "02d9b1578bac1c3586a154c8d38df5a33ec957df98c9f404c868de330562ce8e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-10302311071925-image-73890650325173",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/W2-2U-12-HU_7025.jpg?v=1764185433",
+          "sourceUrl": "https://www.american-giant.com/products/womens-premium-slub-crew-t-long-sleeve-hunter-green",
+          "sha256": "6910da440299df2108e40075a6f56c3d023b310d01538a27092cdfb2b2a6c753",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-8192544374965-image-40561150623925",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/W2-2AC-1-MWBMIN_36171.jpg?v=1748467057",
+          "sourceUrl": "https://www.american-giant.com/products/womens-vintage-crew-t-mineral-wash-blue-mineral",
+          "sha256": "f6849e51c6d2801da2174305bb333f379ab14096b08fc0ad221efab46d2f791e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "americangiant-8192544374965-image-40490964320437",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/W2-2AC-1-MWBMIN_28009.jpg?v=1748467057",
+          "sourceUrl": "https://www.american-giant.com/products/womens-vintage-crew-t-mineral-wash-blue-mineral",
+          "sha256": "eed0294c90972a0f9eb27b35b7ece41bfc458906fe8abec80db932aea1172031",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}
