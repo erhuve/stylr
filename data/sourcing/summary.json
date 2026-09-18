@@ -604,6 +604,15 @@
       "deferredPages": 79
     },
     {
+      "source": "standardandstrange",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 2,
+      "completeExpansionReferences": 0,
+      "deferredPages": 178
+    },
+    {
       "source": "stateandliberty",
       "sampledPages": 62,
       "candidateImages": 120,
@@ -731,12 +740,12 @@
     },
     {
       "source": "universalstandard",
-      "sampledPages": 100,
-      "candidateImages": 141,
-      "reviewedExpansionCandidates": 141,
-      "admittedExpansionPhotos": 84,
+      "sampledPages": 106,
+      "candidateImages": 153,
+      "reviewedExpansionCandidates": 153,
+      "admittedExpansionPhotos": 86,
       "completeExpansionReferences": 7,
-      "deferredPages": 178
+      "deferredPages": 172
     },
     {
       "source": "universalworks",
@@ -764,6 +773,15 @@
       "admittedExpansionPhotos": 2,
       "completeExpansionReferences": 0,
       "deferredPages": 192
+    },
+    {
+      "source": "vintage1946",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 6,
+      "completeExpansionReferences": 0,
+      "deferredPages": 30
     },
     {
       "source": "waxlondon",
@@ -45721,6 +45739,341 @@
             }
           ],
           "downloadedUnique": 14
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1510-contours/sources.json",
+      "retrievedAt": "2026-09-18T15:03:06.674106+00:00",
+      "scope": "3 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "winstonbox",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://www.thewinstonbox.com/products.json?limit=250&page=1",
+              "error": "404 Client Error: Not Found for url: https://www.thewinstonbox.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "buckmason",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://www.buckmason.com/products.json?limit=250&page=1",
+              "error": "404 Client Error: Not Found for url: https://www.buckmason.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "universalstandard",
+          "pages": [
+            {
+              "url": "https://www.universalstandard.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T15:03:03.658089+00:00",
+              "snapshotSha256": "a5ad8a0553fd6082f08cf5425dc29037ad08017124fae6427ef5a56ee25cbe7c"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "universalstandard-7637698641966-image-34050198601774",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262371.jpg?v=1787862147",
+              "sourceUrl": "https://www.universalstandard.com/products/shawl-collar-liquid-jersey-dress-deep-red",
+              "sha256": "afc218168ef96ae390de3c3fc142974852eb18f7d10a8363777b99613f7abba1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637698641966-image-34050198536238",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262366.jpg?v=1787862147",
+              "sourceUrl": "https://www.universalstandard.com/products/shawl-collar-liquid-jersey-dress-deep-red",
+              "sha256": "ce41d9dd051718a377146443659140a8338a9d9583a66e284d9a66f7602e8682",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637698609198-image-34050143420462",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_23_006.jpg?v=1787859763",
+              "sourceUrl": "https://www.universalstandard.com/products/shawl-collar-liquid-jersey-dress-black",
+              "sha256": "3ab6be9f561f4346e03dfd4fef16b8573b8cdef33df204c14554d392ae82c27a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637698609198-image-34050143485998",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_23_018.jpg?v=1787859762",
+              "sourceUrl": "https://www.universalstandard.com/products/shawl-collar-liquid-jersey-dress-black",
+              "sha256": "14eba72076b9717415297af3ac1df75b6c4eed126097d8e29763bd5fe357e81d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637705752622-image-34050160361518",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_16_036_e34da353-7bf1-4b92-a1c9-d352279198dd.jpg?v=1787860705",
+              "sourceUrl": "https://www.universalstandard.com/products/petra-liquid-jersey-top-dark-gray-heather",
+              "sha256": "a855bf26ed45efeed9e4e11e2aa49cd52ee36708fd9d245ddf8a6987335e3616",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637705752622-image-34050160328750",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_16_010_d3f092a8-fbbc-4067-8d38-e388e0e3de52.jpg?v=1787860705",
+              "sourceUrl": "https://www.universalstandard.com/products/petra-liquid-jersey-top-dark-gray-heather",
+              "sha256": "66b6c2627f00cb7fb6aeff45795588cee1573b06054607c1bf42d37e3069204b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637705621550-image-34049717010478",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_31_008_9adb5cd3-0615-4f05-9910-331f5aaa9b33.jpg?v=1787843231",
+              "sourceUrl": "https://www.universalstandard.com/products/petra-liquid-jersey-top-gamay-serpent-print",
+              "sha256": "0c6eb1f080d86224ef7c84440a1fbd8dbc5aef63aabe98d861f1357ced2aae54",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637705621550-image-34049717043246",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_31_027_b26c0baa-b41f-4464-949c-6a5dcf2c0c2d.jpg?v=1787843231",
+              "sourceUrl": "https://www.universalstandard.com/products/petra-liquid-jersey-top-gamay-serpent-print",
+              "sha256": "65818941fda841b6e2722613059b17687bfbf27967b059f41c3f7fe122edfb32",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637705326638-image-34050157674542",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_18_073_1da0264c-8afd-4006-89e7-a589b14b80ec.jpg?v=1787860538",
+              "sourceUrl": "https://www.universalstandard.com/products/moore-liquid-jersey-blouse-poppy-field-print",
+              "sha256": "977cd1bcba4fa8cda653ff2670effd387f92059a34f6302be18b46d9858df655",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637705326638-image-34050157609006",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_18_005_fda700d3-75cd-455e-a469-744f73bfd23e.jpg?v=1787860538",
+              "sourceUrl": "https://www.universalstandard.com/products/moore-liquid-jersey-blouse-poppy-field-print",
+              "sha256": "a2e321123948ff7cd6756ef1dc55c9548b907f240ac9a0ac971d4a256c061b4d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637705228334-image-34050156822574",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_08_090.jpg?v=1787860471",
+              "sourceUrl": "https://www.universalstandard.com/products/moore-liquid-jersey-blouse-deep-red",
+              "sha256": "bb7caf73bb71106d59345f5a2617c4123fd883f37f5b2f62e830b79a87f5531f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637705228334-image-34050156724270",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_08_054.jpg?v=1787860471",
+              "sourceUrl": "https://www.universalstandard.com/products/moore-liquid-jersey-blouse-deep-red",
+              "sha256": "6193706ec9e272ea99529d33cd9fab2f75642bdb6cf08f1714af28f9e7eeb487",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1515-workwear/sources.json",
+      "retrievedAt": "2026-09-18T15:03:31.366258+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "standardandstrange",
+          "pages": [
+            {
+              "url": "https://standardandstrange.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T15:03:27.768882+00:00",
+              "snapshotSha256": "533f8f2acc85eddb1290c75bec6ae1f64db53ec59fa259f4823bd0a5cb680e4a"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "standardandstrange-8503479599277-image-39378464047277",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/MotivMFG-PleatDenimTrousers-BlackHerringboneDenim-Flat-83.jpg?v=1773605413",
+              "sourceUrl": "https://standardandstrange.com/products/pleat-denim-trousers-black-herringbone-denim",
+              "sha256": "b8f28bfe1ad97cbec160a14741c1098c40ca81466f93c0bb21ff231b8eae62ce",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8503479599277-image-39378464407725",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/MotivMFG-PleatDenimTrousers-BlackHerringboneDenim-Onbody-38.jpg?v=1773605546",
+              "sourceUrl": "https://standardandstrange.com/products/pleat-denim-trousers-black-herringbone-denim",
+              "sha256": "0f7f1caee0bb9a61e9f67dd81012b9c89cfd521856f50a3dd44dbee1e57d7e52",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735697305773-image-40673171865773",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2S08LoopwheeledRelaxedFitHeavyweightL-SHenley-Nature-Flat-49.jpg?v=1789147552",
+              "sourceUrl": "https://standardandstrange.com/products/2s08-loopwheeled-relaxed-fit-heavyweight-l-s-henley-nature",
+              "sha256": "a9c37697211a3fa8b5b4f8ab3f0f1e605fd201c62da037ad5c799af539163eb4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735697305773-image-40673171636397",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2S08LoopwheeledRelaxedFitHeavyweightL-SHenley-Nature-Onbody-16.jpg?v=1789147552",
+              "sourceUrl": "https://standardandstrange.com/products/2s08-loopwheeled-relaxed-fit-heavyweight-l-s-henley-nature",
+              "sha256": "c4947f686cd8f79e8e9e3191231614415e9bcba6c0d664b333dcd805ff917d26",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735600017581-image-40673173078189",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2S08LoopwheeledRelaxedFitHeavyweightL-SHenley-Burgundy-Flat-63.jpg?v=1789147570",
+              "sourceUrl": "https://standardandstrange.com/products/2s08-loopwheeled-relaxed-fit-heavyweight-l-s-henley-burgundy",
+              "sha256": "986694470f7ffa2832eddb93267e1f2bda1fadb2a8d2d0d3ae087980efa3cf19",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735600017581-image-40673172848813",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2S08LoopwheeledRelaxedFitHeavyweightL-SHenley-Burgundy-Onbody-22.jpg?v=1789147570",
+              "sourceUrl": "https://standardandstrange.com/products/2s08-loopwheeled-relaxed-fit-heavyweight-l-s-henley-burgundy",
+              "sha256": "af49614a1b428e40a74e763f86bbfbda8b1a1f6179720c625c3bdcca916a8b69",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735600214189-image-40673172422829",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2S08LoopwheeledRelaxedFitHeavyweightL-SHenley-Charcoal-Flat-56.jpg?v=1789147561",
+              "sourceUrl": "https://standardandstrange.com/products/2s08-loopwheeled-relaxed-fit-heavyweight-l-s-henley-charcoal",
+              "sha256": "c21623feac2b28ae391f2efc40243b089cd5ab75e2dc77d7706ff28ca1923246",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735600214189-image-40673172193453",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2S08LoopwheeledRelaxedFitHeavyweightL-SHenley-Charcoal-Onbody-19.jpg?v=1789147561",
+              "sourceUrl": "https://standardandstrange.com/products/2s08-loopwheeled-relaxed-fit-heavyweight-l-s-henley-charcoal",
+              "sha256": "8503f14dd4787ddb6e4c933b90471dd8e880625edeee8503f8d8b5a17eb69ab6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735594774701-image-40673158201517",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2M15LSVintageMachineRefinedFitL-S-DeepBlack-Flat-42.jpg?v=1789147224",
+              "sourceUrl": "https://standardandstrange.com/products/2m15ls-vintage-machine-refined-fit-l-s-deep-black-1",
+              "sha256": "feb6c82904601c9ef2755ef7be9542539ffb7164d94dce2f6f55746fe788bd2a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735594774701-image-40673158299821",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2M15LSVintageMachineRefinedFitL-S-Black-Onbody-07.jpg?v=1789147224",
+              "sourceUrl": "https://standardandstrange.com/products/2m15ls-vintage-machine-refined-fit-l-s-deep-black-1",
+              "sha256": "98e261b6b47332142469786af1d245c1eb7c3e829165ce02895ee02fc6262248",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735592448173-image-40673152860333",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2M15LSVintageMachineRefinedFitL-S-Nature-Flat-35.jpg?v=1789147124",
+              "sourceUrl": "https://standardandstrange.com/products/2m15ls-vintage-machine-refined-fit-l-s-nature",
+              "sha256": "11fe6a392ed4b4286c392150f2d079e1b313a303c2c570b6c3789b88e5f8163f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "standardandstrange-8735592448173-image-40673152630957",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0352/5633/files/Merz-2M15LSVintageMachineRefinedFitL-S-Nature-Onbody-04.jpg?v=1789147124",
+              "sourceUrl": "https://standardandstrange.com/products/2m15ls-vintage-machine-refined-fit-l-s-nature",
+              "sha256": "bf0a40f9e6a2a12bbc7fe022453569b65ed21b23e662ee48f1729d89be67fb47",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "vintage1946",
+          "pages": [
+            {
+              "url": "https://www.vintage1946.com/products.json?limit=250&page=1",
+              "products": 46,
+              "retrievedAt": "2026-09-18T15:03:29.751686+00:00",
+              "snapshotSha256": "133d1a995bb96259f95e854a7d9bf37626e427ab0fdf320800507b2c8546419c"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "vintage1946-10444627771688-image-58254372569384",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/b620-jack-model2.png?v=1789573738",
+              "sourceUrl": "https://www.vintage1946.com/products/chenille-shirt-jacket",
+              "sha256": "bbf970b6660c07a7e6bcc1630fbcc7de04aba30b11d1ce5a5a24de53bb087102",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10444627771688-image-58254382793000",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/b620-jack-model3.jpg?v=1789573925",
+              "sourceUrl": "https://www.vintage1946.com/products/chenille-shirt-jacket",
+              "sha256": "9487f41cf55e08cd5c5765709d5b9614ff3909079a173ed4995e2f32966c80ad",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167823827240-image-54911070765352",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668480157_P0.jpg?v=1773067181",
+              "sourceUrl": "https://www.vintage1946.com/products/e6150-perf-hoodie",
+              "sha256": "21cf29426a4e8fda97897ee495984863ec9cc7ab73b57e3d1a0b485a5a8550cf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167823827240-image-54911070830888",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668480201_P0.jpg?v=1773067181",
+              "sourceUrl": "https://www.vintage1946.com/products/e6150-perf-hoodie",
+              "sha256": "1c2c3ed283bedf48cff49c53d77b1d1d6ed34609e5d811e59bba5a5cc9436da9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167823991080-image-54911020859688",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668464447_P0.jpg?v=1773066232",
+              "sourceUrl": "https://www.vintage1946.com/products/w6120-ff9-gd-short",
+              "sha256": "c5422e8632b829b2da607a309b24f1d84f19102bf8a019f8940062ffb2a8bba8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167823991080-image-54911021351208",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668464492_P0.jpg?v=1773066311",
+              "sourceUrl": "https://www.vintage1946.com/products/w6120-ff9-gd-short",
+              "sha256": "240b5f5ff4b66b8bffbbcfc4f4f15a8afd463cabc3aa008c103378c4a53708eb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167823499560-image-54911106482472",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668463952_P0.jpg?v=1773067730",
+              "sourceUrl": "https://www.vintage1946.com/products/6120-ff-garment-dyed-pant",
+              "sha256": "98e428e51476b1c7da8d1d28ab52e65ca0f949f1efa8a3dae8e09a43fdc394de",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167823499560-image-54911106548008",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668464027_P0.jpg?v=1773067730",
+              "sourceUrl": "https://www.vintage1946.com/products/6120-ff-garment-dyed-pant",
+              "sha256": "abdec073d98165c9cef7c6c5e19d810dc5c89345e71763292765240edfa33fba",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167823466792-image-54911094292776",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668463464_P0.jpg?v=1773067330",
+              "sourceUrl": "https://www.vintage1946.com/products/6120-5p-garment-dyed-pant",
+              "sha256": "88f1e28ff7af6eaaa9c1a6310fc8416d98b154234f733d66626ddc2b4de568a3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167823466792-image-54911095341352",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668463679_P0.jpg?v=1773067339",
+              "sourceUrl": "https://www.vintage1946.com/products/6120-5p-garment-dyed-pant",
+              "sha256": "f3b75ad3a5ac7a69d9a71012b363d7b9f40e3a9aa23cc200eede5c51fbff580e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167824351528-image-54568428372264",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668444449_P0.jpg?v=1772133615",
+              "sourceUrl": "https://www.vintage1946.com/products/6133-bdss-authentic-indian-madras-shirt",
+              "sha256": "42ea2a26622e3feefb8b5a3f5574028f624552d7e72def16c24cca9447a0b793",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "vintage1946-10167824351528-image-54568428437800",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0421/5593/files/696668444494_P0.jpg?v=1772133615",
+              "sourceUrl": "https://www.vintage1946.com/products/6133-bdss-authentic-indian-madras-shirt",
+              "sha256": "055dd950e75cfc7d0f6fe58ff17fb0eaf0a1a10fdf0948c665e3d72d30b6fa7b",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
         }
       ]
     }

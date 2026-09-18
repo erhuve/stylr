@@ -1,0 +1,129 @@
+{
+  "retrievedAt": "2026-09-18T15:03:06.674106+00:00",
+  "scope": "3 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "winstonbox",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://www.thewinstonbox.com/products.json?limit=250&page=1",
+          "error": "404 Client Error: Not Found for url: https://www.thewinstonbox.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "buckmason",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://www.buckmason.com/products.json?limit=250&page=1",
+          "error": "404 Client Error: Not Found for url: https://www.buckmason.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "universalstandard",
+      "pages": [
+        {
+          "url": "https://www.universalstandard.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T15:03:03.658089+00:00",
+          "snapshotSha256": "a5ad8a0553fd6082f08cf5425dc29037ad08017124fae6427ef5a56ee25cbe7c"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "universalstandard-7637698641966-image-34050198601774",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262371.jpg?v=1787862147",
+          "sourceUrl": "https://www.universalstandard.com/products/shawl-collar-liquid-jersey-dress-deep-red",
+          "sha256": "afc218168ef96ae390de3c3fc142974852eb18f7d10a8363777b99613f7abba1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637698641966-image-34050198536238",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262366.jpg?v=1787862147",
+          "sourceUrl": "https://www.universalstandard.com/products/shawl-collar-liquid-jersey-dress-deep-red",
+          "sha256": "ce41d9dd051718a377146443659140a8338a9d9583a66e284d9a66f7602e8682",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637698609198-image-34050143420462",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_23_006.jpg?v=1787859763",
+          "sourceUrl": "https://www.universalstandard.com/products/shawl-collar-liquid-jersey-dress-black",
+          "sha256": "3ab6be9f561f4346e03dfd4fef16b8573b8cdef33df204c14554d392ae82c27a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637698609198-image-34050143485998",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_23_018.jpg?v=1787859762",
+          "sourceUrl": "https://www.universalstandard.com/products/shawl-collar-liquid-jersey-dress-black",
+          "sha256": "14eba72076b9717415297af3ac1df75b6c4eed126097d8e29763bd5fe357e81d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637705752622-image-34050160361518",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_16_036_e34da353-7bf1-4b92-a1c9-d352279198dd.jpg?v=1787860705",
+          "sourceUrl": "https://www.universalstandard.com/products/petra-liquid-jersey-top-dark-gray-heather",
+          "sha256": "a855bf26ed45efeed9e4e11e2aa49cd52ee36708fd9d245ddf8a6987335e3616",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637705752622-image-34050160328750",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_16_010_d3f092a8-fbbc-4067-8d38-e388e0e3de52.jpg?v=1787860705",
+          "sourceUrl": "https://www.universalstandard.com/products/petra-liquid-jersey-top-dark-gray-heather",
+          "sha256": "66b6c2627f00cb7fb6aeff45795588cee1573b06054607c1bf42d37e3069204b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637705621550-image-34049717010478",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_31_008_9adb5cd3-0615-4f05-9910-331f5aaa9b33.jpg?v=1787843231",
+          "sourceUrl": "https://www.universalstandard.com/products/petra-liquid-jersey-top-gamay-serpent-print",
+          "sha256": "0c6eb1f080d86224ef7c84440a1fbd8dbc5aef63aabe98d861f1357ced2aae54",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637705621550-image-34049717043246",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_31_027_b26c0baa-b41f-4464-949c-6a5dcf2c0c2d.jpg?v=1787843231",
+          "sourceUrl": "https://www.universalstandard.com/products/petra-liquid-jersey-top-gamay-serpent-print",
+          "sha256": "65818941fda841b6e2722613059b17687bfbf27967b059f41c3f7fe122edfb32",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637705326638-image-34050157674542",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_18_073_1da0264c-8afd-4006-89e7-a589b14b80ec.jpg?v=1787860538",
+          "sourceUrl": "https://www.universalstandard.com/products/moore-liquid-jersey-blouse-poppy-field-print",
+          "sha256": "977cd1bcba4fa8cda653ff2670effd387f92059a34f6302be18b46d9858df655",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637705326638-image-34050157609006",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_18_005_fda700d3-75cd-455e-a469-744f73bfd23e.jpg?v=1787860538",
+          "sourceUrl": "https://www.universalstandard.com/products/moore-liquid-jersey-blouse-poppy-field-print",
+          "sha256": "a2e321123948ff7cd6756ef1dc55c9548b907f240ac9a0ac971d4a256c061b4d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637705228334-image-34050156822574",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_08_090.jpg?v=1787860471",
+          "sourceUrl": "https://www.universalstandard.com/products/moore-liquid-jersey-blouse-deep-red",
+          "sha256": "bb7caf73bb71106d59345f5a2617c4123fd883f37f5b2f62e830b79a87f5531f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637705228334-image-34050156724270",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_08_054.jpg?v=1787860471",
+          "sourceUrl": "https://www.universalstandard.com/products/moore-liquid-jersey-blouse-deep-red",
+          "sha256": "6193706ec9e272ea99529d33cd9fab2f75642bdb6cf08f1714af28f9e7eeb487",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}
