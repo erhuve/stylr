@@ -1,0 +1,7 @@
+# Direct visual review
+
+September 18, 2026. All 24 candidates were directly inspected on two bound sheets. Alex Crane ordinal 11 and IGIGI ordinals 12, 16 and 22 were enlarged. One full Alex Crane collared casual outfit is retained with masculine styling evidence and apparent build 1.5; the open overshirt and leaning crossed-leg pose conceal shoulder/hip comparison and waist. Nine isolated-product or trouser-detail views and two rear views are excluded.
+
+IGIGI contributes no admissions: ten dress scenes are digitally modeled, and two images are line drawings. Enlarged originals explicitly carry the circular DIGITALLY MODELED watermark. These images cannot supply real-photo body observations. Close crops of matching digital scenes are excluded too; no label is inferred from source size ranges, faces, product text or rendering appearance alone.
+
+Two first-page snapshots preserve all 500 listing decisions. Together with the preceding independent batch, 21 of 33 candidates target casual/workwear sources, but only one masculine outfit is gained. No complete references or required-body-filter gains. Prioritize independent fuller-build real wearer/editorial galleries, avoid IGIGI digital models and further hanging products or trouser-only crops. The corresponding external directory retains raw snapshots and all image-bound review sheets; logs reside in the preceding independent batch. No deployment.

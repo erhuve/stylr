@@ -1,16 +1,16 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7294,
-  "reviewedPhotos": 7294,
+  "catalogPhotos": 7295,
+  "reviewedPhotos": 7295,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1212,
+      "photos": 1213,
       "percent": 16.6,
-      "sourcePages": 1147,
-      "sourceHosts": 51,
+      "sourcePages": 1148,
+      "sourceHosts": 52,
       "completeReferences": 44,
       "byBuild": {
         "1": 3,
@@ -18,7 +18,7 @@
         "3": 65,
         "unknown": 373,
         "2.5": 61,
-        "1.5": 567
+        "1.5": 568
       },
       "completeByBuild": {
         "1": 1,
@@ -279,6 +279,63 @@
           "byBuild": {
             "1.5": 2
           },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "alexcrane.co",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 1,
+          "percent": 100,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
           "completeByBuild": {}
         },
         {

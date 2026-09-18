@@ -1,0 +1,96 @@
+{
+  "retrievedAt": "2026-09-18T10:32:13.976047+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "industryofallnations",
+      "pages": [
+        {
+          "url": "https://industryofallnations.com/products.json?limit=250&page=1",
+          "products": 147,
+          "retrievedAt": "2026-09-18T10:32:12.797570+00:00",
+          "snapshotSha256": "ba819f31f056ff68c04d977cb2c54a365dab8d73c4b323c75e46f1ef525a1290"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "industryofallnations-10086251167991-image-63914679337207",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/kids-ponya-corduroy-shorts-kpcs-und-23-6910938.jpg?v=1789148048",
+          "sourceUrl": "https://industryofallnations.com/products/kids-ponya-corduroy-shorts",
+          "sha256": "a8f2a918f8fb1bef5504732fa80cfb4a5d4b71cfabf27945cc110f5352ff823d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "industryofallnations-9512820605175-image-60291081797879",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/chinote-corduroy-pants-chic-und-26-3402815.jpg?v=1770743169",
+          "sourceUrl": "https://industryofallnations.com/products/chinote-cord-pant",
+          "sha256": "cc5c403cb886e6213550e19c919796a1c0a48399e31048a6b966c669535432d0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "industryofallnations-9788381233399-image-63746970190071",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/gaucho-pants-gau-in12-26-7026978.jpg?v=1787822288",
+          "sourceUrl": "https://industryofallnations.com/products/goucho-pants",
+          "sha256": "63a5653b04c5991231247bec3c37c5c648f49a54f8a367f8d7f34e3444bec8da",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "industryofallnations-9788381233399-image-63258544767223",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/gaucho-pants-gau-in12-26-9227508.jpg?v=1781856433",
+          "sourceUrl": "https://industryofallnations.com/products/goucho-pants",
+          "sha256": "29bd96b886d14e91e234f3da10adc4c6e28f585ca50413346442312c80cbf161",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "industryofallnations-9917119725815-image-63256663228663",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/clean-boardshorts-batik-linea-blbd-in6-xs-3060717.jpg?v=1781856432",
+          "sourceUrl": "https://industryofallnations.com/products/clean-boardshorts-batik-linea",
+          "sha256": "030a89f7a29b458bbcfb4beaee1bbfd8115acf46a91891049b4d5f5c1b466bec",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "industryofallnations-9798875119863-image-63238651707639",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/standard-polo-stdp-und-s-2049971.jpg?v=1781690717",
+          "sourceUrl": "https://industryofallnations.com/products/standard-polo",
+          "sha256": "f7554aae4b914fdde2b7b5eb12bd49a2a6aed1d214a419db3214de123689c4c2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "industryofallnations-9798875119863-image-63485177725175",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/standard-polo-stdp-ir4-s-4115966.jpg?v=1784342227",
+          "sourceUrl": "https://industryofallnations.com/products/standard-polo",
+          "sha256": "228bcd1de86f18a017e311bef44bfe9380279c66a6167d7f2c150289b2860091",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "industryofallnations-719173943341-image-63258540900599",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/contrast-boardshorts-cbs-ir4-xs-1158476.jpg?v=1781856434",
+          "sourceUrl": "https://industryofallnations.com/products/cotton-drawstring-boardshorts",
+          "sha256": "58c3b17950f1dd0d8b419bc4e968eada4eeb79fa6edf684fe4ab943b9a7d9cff",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "industryofallnations-719173943341-image-63258540867831",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/contrast-boardshorts-cbs-in12-xs-4472488.jpg?v=1781856434",
+          "sourceUrl": "https://industryofallnations.com/products/cotton-drawstring-boardshorts",
+          "sha256": "061e33121963b30cc84123c573c805e18bddbec8670507fa58fc31f6d7a71415",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 9
+    },
+    {
+      "source": "wray",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://wray.nyc/products.json?limit=250&page=1",
+          "error": "402 Client Error: Payment Required for url: https://wray.nyc/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    }
+  ]
+}

@@ -956,6 +956,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://alexcrane.co/products/canvas-painter-pants-bark",
+    "source": "alexcrane",
+    "candidateIds": [
+      "alexcrane-8339140804697-image-37281058553945",
+      "alexcrane-8339140804697-image-37281735835737"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://alexcrane.co/products/canvas-painter-pants-olive",
+    "source": "alexcrane",
+    "candidateIds": [
+      "alexcrane-8339140640857-image-37268635877465",
+      "alexcrane-8339140640857-image-37281772109913"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://alexcrane.co/products/pac-trousers-bronze",
+    "source": "alexcrane",
+    "candidateIds": [
+      "alexcrane-8130029650009-image-37280924893273",
+      "alexcrane-8130029650009-image-37281883684953"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://alexcrane.co/products/pac-trousers-juniper",
+    "source": "alexcrane",
+    "candidateIds": [
+      "alexcrane-8130029486169-image-37280930791513",
+      "alexcrane-8130029486169-image-37281889419353"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://alexcrane.co/products/pac-trousers-olive",
+    "source": "alexcrane",
+    "candidateIds": [
+      "alexcrane-8130029256793-image-37281891614809",
+      "alexcrane-8130029256793-image-37285929812057"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://alexcrane.co/products/washed-canvas-easy-pants-color-1",
+    "source": "alexcrane",
+    "candidateIds": [
+      "alexcrane-8243890487385-image-37268632764505",
+      "alexcrane-8243890487385-image-37285155340377"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-boreal-forest-houndstooth",
     "source": "americantall",
     "candidateIds": [
@@ -105962,6 +106046,171 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://igigi.com/products/camille-dress",
+    "source": "igigi",
+    "candidateIds": [
+      "igigi-9416980824297-image-50431493243113",
+      "igigi-9416980824297-image-50431506677993"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://igigi.com/products/celestine-dress",
+    "source": "igigi",
+    "candidateIds": [
+      "igigi-9300147405033-image-49373762617577",
+      "igigi-9300147405033-image-50229387788521"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://igigi.com/products/evangeline-dress",
+    "source": "igigi",
+    "candidateIds": [
+      "igigi-9298154422505-image-49393136435433",
+      "igigi-9298154422505-image-50229419344105"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://igigi.com/products/roksolana-dress",
+    "source": "igigi",
+    "candidateIds": [
+      "igigi-9311839158505-image-49434367688937",
+      "igigi-9311839158505-image-50229343912169"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://igigi.com/products/selene-dress",
+    "source": "igigi",
+    "candidateIds": [
+      "igigi-9416979579113-image-50360763121897",
+      "igigi-9416979579113-image-50431502942441"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://igigi.com/products/zlata-dress",
+    "source": "igigi",
+    "candidateIds": [
+      "igigi-9311813009641-image-49433632833769",
+      "igigi-9311813009641-image-50229366292713"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1045-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://industryofallnations.com/products/chinote-cord-pant",
+    "source": "industryofallnations",
+    "candidateIds": [
+      "industryofallnations-9512820605175-image-60291081797879"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1040-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://industryofallnations.com/products/clean-boardshorts-batik-linea",
+    "source": "industryofallnations",
+    "candidateIds": [
+      "industryofallnations-9917119725815-image-63256663228663"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1040-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://industryofallnations.com/products/cotton-drawstring-boardshorts",
+    "source": "industryofallnations",
+    "candidateIds": [
+      "industryofallnations-719173943341-image-63258540867831",
+      "industryofallnations-719173943341-image-63258540900599"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1040-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://industryofallnations.com/products/goucho-pants",
+    "source": "industryofallnations",
+    "candidateIds": [
+      "industryofallnations-9788381233399-image-63258544767223",
+      "industryofallnations-9788381233399-image-63746970190071"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1040-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://industryofallnations.com/products/kids-ponya-corduroy-shorts",
+    "source": "industryofallnations",
+    "candidateIds": [
+      "industryofallnations-10086251167991-image-63914679337207"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1040-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://industryofallnations.com/products/standard-polo",
+    "source": "industryofallnations",
+    "candidateIds": [
+      "industryofallnations-9798875119863-image-63238651707639",
+      "industryofallnations-9798875119863-image-63485177725175"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1040-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

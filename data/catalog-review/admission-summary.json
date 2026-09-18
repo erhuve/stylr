@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10329,
-  "admittedPhotos": 6909,
-  "totalPhotos": 7294,
+  "reviewedCandidates": 10362,
+  "admittedPhotos": 6910,
+  "totalPhotos": 7295,
   "axisSupport": {
-    "build": 5618,
+    "build": 5619,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6348,
+  "sourcePages": 6349,
   "excludedReasons": {
-    "non-outfit-view": 3362,
+    "non-outfit-view": 3394,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13692,6 +13692,134 @@
     },
     {
       "id": "waxlondon-14996343226744-image-75651777757560",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "industryofallnations-10086251167991-image-63914679337207",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "industryofallnations-9512820605175-image-60291081797879",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "industryofallnations-9788381233399-image-63746970190071",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "industryofallnations-9788381233399-image-63258544767223",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "industryofallnations-9917119725815-image-63256663228663",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "industryofallnations-9798875119863-image-63238651707639",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "industryofallnations-9798875119863-image-63485177725175",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "industryofallnations-719173943341-image-63258540900599",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "industryofallnations-719173943341-image-63258540867831",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8339140804697-image-37281735835737",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8339140804697-image-37281058553945",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8339140640857-image-37281772109913",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8339140640857-image-37268635877465",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8243890487385-image-37285155340377",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8243890487385-image-37268632764505",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8130029650009-image-37281883684953",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8130029650009-image-37280924893273",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8130029486169-image-37281889419353",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8130029486169-image-37280930791513",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexcrane-8130029256793-image-37281891614809",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9416980824297-image-50431506677993",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9416980824297-image-50431493243113",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9416979579113-image-50431502942441",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9416979579113-image-50360763121897",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9311839158505-image-50229343912169",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9311839158505-image-49434367688937",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9311813009641-image-50229366292713",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9311813009641-image-49433632833769",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9298154422505-image-50229419344105",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9298154422505-image-49393136435433",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9300147405033-image-50229387788521",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "igigi-9300147405033-image-49373762617577",
       "reason": "non-outfit-view"
     }
   ]

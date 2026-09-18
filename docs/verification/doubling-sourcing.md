@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,294 photos; 2,918 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,295 photos; 2,917 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: independent sources and digital-image exclusion
+
+The 10:30 UTC run directly reviews 33 candidates in `2026-09-18T1040-independent` and `2026-09-18T1045-separates`, using three bound sheets and four enlarged originals. One Alex Crane collared casual outfit is admitted from a new publisher with masculine styling and apparent build 1.5. Eighteen isolated products/trouser details, two rear views, two garment drawings and ten digitally modeled dress scenes are excluded. IGIGI enlarged originals explicitly carry DIGITALLY MODELED watermarks; none supplies a real-photo observation. Twenty-one candidate reviews target casual/workwear sources. Three first-page snapshots preserve all 647 listing decisions. A selective WRAY retry again returns HTTP 402. Bounded results do not establish source exhaustion.
+
+Totals: 7,295 photos, 5,743 build observations and 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear). Presentation totals: 1,213 masculine, 4,079 feminine, 170 mixed and 1,833 unclear. No complete-reference or required-body-filter gain; the broader-build benchmark remains 54. All 3,744 pending training rows remain unchanged from original ordinal 1056. Inventory records 11,877 sampled pages, 45,873 deferred pages, 81 source keys and 98 runs. Append after `1045-separates`. Prioritize independent fuller-build real wearer/editorial galleries; avoid IGIGI digitally modeled scenes and further hanging garments or trouser-only crops. No deployment.
+
+Preservation validates all 6,909 previous expansion photo/asset/body records, 7,294 prior presentation rows, all 6,910 expansion asset hashes, 33 candidate image bindings, three sheets, four enlarged originals and three source snapshots. Admission replay, complete presentation audit, typecheck, original-photo identity and library audit pass. All 45 sampled required-body-filter settings are unchanged. All 131 unit tests pass (177,387 assertions, 473.44 seconds), including sourcing regressions; all 86 browser checks pass (4.0 minutes). No checks remain pending or failing. Logs remain in external `expansion-2026-09-18T1040-independent`. Only exact catalog/body/source-group expectations changed; assertions and budgets remain intact. Latest remote main is included and personal-discovery is unchanged at the final fetch. No deployment.
 
 ## Current continuation: independent separates and workwear
 

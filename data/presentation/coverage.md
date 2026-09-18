@@ -2,13 +2,13 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7294/7294; unreviewed: 0.
+Reviewed: 7295/7295; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1212 | 16.6% | 1147 | 51 | 44 |
+| masculine | 1213 | 16.6% | 1148 | 52 | 44 |
 | feminine | 4079 | 55.9% | 3635 | 37 | 148 |
 | mixed-androgynous | 170 | 2.3% | 163 | 12 | 2 |
 | unclear | 1833 | 25.1% | 1708 | 65 | 97 |
@@ -20,7 +20,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":143,"3":65,"unknown":373,"2.5":61,"1.5":567} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| masculine | {"1":3,"2":143,"3":65,"unknown":373,"2.5":61,"1.5":568} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
 | feminine | {"1":27,"2":394,"3":255,"unknown":579,"1.5":2541,"2.5":283} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":76} | {"1.5":2} |
 | unclear | {"1":7,"2":155,"3":215,"1.5":830,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
@@ -33,6 +33,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | acdcrag.com | 1 | 22 | 3 | 19 | 0 |
 | aceandjig.com | 0 | 2 | 0 | 2 | 0 |
 | activetruth.com.au | 0 | 0 | 0 | 2 | 0 |
+| alexcrane.co | 1 | 0 | 0 | 0 | 0 |
 | alexmill.com | 1 | 0 | 0 | 7 | 0 |
 | americantall.com | 4 | 0 | 0 | 2 | 0 |
 | andcollar.com | 1 | 0 | 0 | 0 | 0 |
