@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10569,
-  "admittedPhotos": 6960,
-  "totalPhotos": 7345,
+  "reviewedCandidates": 10593,
+  "admittedPhotos": 6963,
+  "totalPhotos": 7348,
   "axisSupport": {
-    "build": 5661,
+    "build": 5664,
     "shoulderHip": 314,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6398,
+  "sourcePages": 6401,
   "excludedReasons": {
-    "non-outfit-view": 3551,
+    "non-outfit-view": 3572,
     "existing-source-page": 58
   },
   "excluded": [
@@ -14448,6 +14448,90 @@
     },
     {
       "id": "vintage1946-10167824351528-image-54568428437800",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8198602424383-image-38135031660607",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8198602424383-image-38135031922751",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8198603309119-image-36904262041663",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8198603309119-image-36887997055039",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8198604652607-image-38135181705279",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8198604652607-image-38135334535231",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8198607011903-image-38135275323455",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8198607011903-image-38135301668927",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8194440003647-image-37910350004287",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8194440003647-image-37910352396351",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8194435973183-image-37910389915711",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pladra-8194435973183-image-37910388146239",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "curvysense-7682095415393-image-42605769654369",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "curvysense-7682093056097-image-42605753139297",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "curvysense-7682093056097-image-42605753106529",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "curvysense-7682058944609-image-42605271613537",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "curvysense-7682046984289-image-42605190348897",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "curvysense-7682046984289-image-42605190217825",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "curvysense-7681969422433-image-42604381405281",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "curvysense-7680065437793-image-42588412969057",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "curvysense-7680065437793-image-42588413001825",
       "reason": "non-outfit-view"
     }
   ]

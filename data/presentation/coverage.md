@@ -2,14 +2,14 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7345/7345; unreviewed: 0.
+Reviewed: 7348/7348; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | masculine | 1229 | 16.7% | 1164 | 59 | 44 |
-| feminine | 4099 | 55.8% | 3655 | 41 | 148 |
+| feminine | 4102 | 55.8% | 3658 | 42 | 148 |
 | mixed-androgynous | 170 | 2.3% | 163 | 12 | 2 |
 | unclear | 1847 | 25.1% | 1722 | 72 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
@@ -21,7 +21,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
 | masculine | {"1":3,"2":151,"3":65,"unknown":375,"2.5":61,"1.5":574} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":394,"3":262,"unknown":582,"1.5":2548,"2.5":286} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| feminine | {"1":27,"2":395,"3":262,"unknown":582,"1.5":2550,"2.5":286} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":76} | {"1.5":2} |
 | unclear | {"1":7,"2":159,"3":215,"1.5":835,"unknown":519,"2.5":112} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
@@ -48,6 +48,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | chubstr.com | 22 | 0 | 0 | 5 | 0 |
 | copperunionapparel.com | 0 | 36 | 0 | 12 | 0 |
 | corridornyc.com | 1 | 0 | 0 | 2 | 0 |
+| curvysense.com | 0 | 3 | 0 | 0 | 0 |
 | dapperboi.com | 3 | 0 | 0 | 8 | 0 |
 | disturbia.co.uk | 0 | 32 | 0 | 5 | 0 |
 | dixxon.com | 1 | 1 | 0 | 1 | 0 |

@@ -1,0 +1,9 @@
+# Independent workwear and contour-source review
+
+September 18, 2026; conversation con_2kuA5lMKazD7GANI. All 24 candidates directly inspected on two immutable numbered sheets; originals 12, 16 and 20 enlarged. Twelve Pladra views show only flat shirts or textile/cuff details. Twelve Curvy Sense views yield three distinct ensembles: a wide-leg jumpsuit, a pink tiered dress and a blue tiered dress. Nine alternate poses/crops/colorways are excluded. The blue dress and jumpsuit share a print direction but have visibly distinct lower-garment construction. Presentation is feminine for these three ensembles; retailer text and model identity provide no label evidence.
+
+All three admissions support approximate build only. Flared skirts/legs hide hip contours; tied or inset structured waist bands do not establish natural indentation. No complete body reference or required-body-filter gain. New publisher Curvy Sense contributes three admissions. The intended fuller-build source search did not produce fuller-build evidence in this bounded selection. Pladra first/third galleries are unsuitable for outfit admission; further investigation should target actual wearer views, not repeat these flats.
+
+The maintained expand_targeted collector was invoked with runtime source entries pladra.com and curvysense.com, six unseen products per source and first/third gallery images. Two raw listing snapshots bind 410 listing decisions; all 24 downloads are unique. Source logs preserve retrieval times, exact URLs and snapshot/image hashes. All twelve source pages were absent from previous sampled history. Batch-local ordinal/hash bindings are immutable. Original training intake remains unchanged.
+
+Append after this batch. Prioritize independent full-front collared ensembles and fitted untied fuller-build separates; preserve feminine/mixed/unclear coverage. See the active doubling handoff for validation and counts. Deployment remains pending.

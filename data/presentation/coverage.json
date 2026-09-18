@@ -1,8 +1,8 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7345,
-  "reviewedPhotos": 7345,
+  "catalogPhotos": 7348,
+  "reviewedPhotos": 7348,
   "unreviewedPhotos": 0,
   "categories": [
     {
@@ -30,17 +30,17 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4099,
+      "photos": 4102,
       "percent": 55.8,
-      "sourcePages": 3655,
-      "sourceHosts": 41,
+      "sourcePages": 3658,
+      "sourceHosts": 42,
       "completeReferences": 148,
       "byBuild": {
         "1": 27,
-        "2": 394,
+        "2": 395,
         "3": 262,
         "unknown": 582,
-        "1.5": 2548,
+        "1.5": 2550,
         "2.5": 286
       },
       "completeByBuild": {
@@ -1197,6 +1197,64 @@
           "byBuild": {
             "1.5": 2
           },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "curvysense.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 3,
+          "percent": 100,
+          "sourcePages": 3,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2": 1,
+            "1.5": 2
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
           "completeByBuild": {}
         },
         {
