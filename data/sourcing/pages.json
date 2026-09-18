@@ -113709,6 +113709,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://rowingblazers.com/products/pippa-wool-mixed-plaid-pleated-skirt-multi-color",
+    "source": "rowingblazers",
+    "candidateIds": [
+      "rowingblazers-8466242732066-image-41089640038434",
+      "rowingblazers-8466242732066-image-41089660846114"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1740-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://rowingblazers.com/products/skye-utility-suede-skirt-dark-brown",
+    "source": "rowingblazers",
+    "candidateIds": [
+      "rowingblazers-8466243092514-image-41089637253154",
+      "rowingblazers-8466243092514-image-41089637351458"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1740-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://rowingblazers.com/products/steph-suede-utility-vest-dark-brown",
+    "source": "rowingblazers",
+    "candidateIds": [
+      "rowingblazers-8466242994210-image-41089637875746",
+      "rowingblazers-8466242994210-image-41089637941282"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1740-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://rowingblazers.com/products/womens-wool-diana-edition-sheep-sweater-brown",
+    "source": "rowingblazers",
+    "candidateIds": [
+      "rowingblazers-8466243223586-image-41089658748962",
+      "rowingblazers-8466243223586-image-41089659240482"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1740-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://rowingblazers.com/products/womens-wool-hunters-plaid-classic-trouser-green",
+    "source": "rowingblazers",
+    "candidateIds": [
+      "rowingblazers-8466242469922-image-41089646297122",
+      "rowingblazers-8466242469922-image-41089646329890"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1740-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://rowingblazers.com/products/york-wool-hunters-plaid-funnel-neck-jacket-green",
+    "source": "rowingblazers",
+    "candidateIds": [
+      "rowingblazers-8466242371618-image-41089634107426",
+      "rowingblazers-8466242371618-image-41089634467874"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1740-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://scottfrasercollection.com/products/fitted-sunday-tee",
     "source": "scottfraser",
     "candidateIds": [
@@ -149664,6 +149748,90 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.billyreid.com/products/bishop-rib-crew-carbon-blue",
+    "source": "billyreid",
+    "candidateIds": [
+      "billyreid-7984122232876-image-47428050550828",
+      "billyreid-7984122232876-image-47498413211692"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1745-collared/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.billyreid.com/products/colbert-waxed-suede-chore-coat-grey",
+    "source": "billyreid",
+    "candidateIds": [
+      "billyreid-8162675523628-image-47656663285804",
+      "billyreid-8162675523628-image-47656840626220"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1745-collared/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.billyreid.com/products/dover-sweatshirt-black",
+    "source": "billyreid",
+    "candidateIds": [
+      "billyreid-7945783672876-image-42983596294188",
+      "billyreid-7945783672876-image-47334806618156"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1745-collared/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-carbon-blue",
+    "source": "billyreid",
+    "candidateIds": [
+      "billyreid-7168712933420-image-47668243660844",
+      "billyreid-7168712933420-image-47743573688364"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1745-collared/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-coffee",
+    "source": "billyreid",
+    "candidateIds": [
+      "billyreid-7168712966188-image-47743580012588",
+      "billyreid-7168712966188-image-47743584272428"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1745-collared/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.billyreid.com/products/tuscumbia-classic-shirt-tan",
+    "source": "billyreid",
+    "candidateIds": [
+      "billyreid-7120019161132-image-47743264063532",
+      "billyreid-7120019161132-image-47743268290604"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1745-collared/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "rowingblazers-8466243223586-image-41089658748962",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/womens-wool-diana-edition-sheep-sweater-brown",
+    "localPath": "images/rowingblazers-8466243223586-image-41089658748962.webp",
+    "sha256": "2a8f43ba644727ee8df353ae54312ffa32b9dce6fd1933630e3ee507ae20a3ae",
+    "ordinal": 0,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Checked knit over dark short skirt; loose sweater hides waist and shoulder-to-hip contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466243223586-image-41089659240482",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/womens-wool-diana-edition-sheep-sweater-brown",
+    "localPath": "images/rowingblazers-8466243223586-image-41089659240482.webp",
+    "sha256": "4d5eb21a96e08123c3d2c8b5a1bacfa6d99b607f87eed936682e6ad9c0faa3cc",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated checked-knit and dark-skirt ensemble from ordinal 0.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466243092514-image-41089637253154",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/skye-utility-suede-skirt-dark-brown",
+    "localPath": "images/rowingblazers-8466243092514-image-41089637253154.webp",
+    "sha256": "470c05474967055169ba01dfff30c087e53e1fe7754eb42f65fbf90416bd15a0",
+    "ordinal": 2,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Alternate stance of striped rugby and dark-skirt ensemble retained at ordinal 3.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466243092514-image-41089637351458",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/skye-utility-suede-skirt-dark-brown",
+    "localPath": "images/rowingblazers-8466243092514-image-41089637351458.webp",
+    "sha256": "7a75c9c0e1b13aeee8a53c146c8218b33e379ff7e26aec7e05574668e18b8971",
+    "ordinal": 3,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped rugby with dark mini skirt and heels; boxy top and skirt obscure anatomical axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466242994210-image-41089637875746",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/steph-suede-utility-vest-dark-brown",
+    "localPath": "images/rowingblazers-8466242994210-image-41089637875746.webp",
+    "sha256": "1586c74b4cd93094817e9fff8a79f3899ed0bd941fdd738b4e9caad6d1efab9b",
+    "ordinal": 4,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Long dark sleeveless utility vest with matching short skirt and heels; structured layers obscure waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466242994210-image-41089637941282",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/steph-suede-utility-vest-dark-brown",
+    "localPath": "images/rowingblazers-8466242994210-image-41089637941282.webp",
+    "sha256": "f4c2298d00f83fb6b475bb07daca77dd0c50d339ce8dc62482d12cea52101576",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated dark vest/skirt ensemble from ordinal 4.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466242732066-image-41089660846114",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/pippa-wool-mixed-plaid-pleated-skirt-multi-color",
+    "localPath": "images/rowingblazers-8466242732066-image-41089660846114.webp",
+    "sha256": "e7fe1c9e9bccc627ad78f07427fc5c9f148026ee92f685b4776376362cae5ad1",
+    "ordinal": 6,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green patterned sweater with patchwork pleated skirt and tall boots; sweater and flared skirt hide contour axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466242732066-image-41089640038434",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/pippa-wool-mixed-plaid-pleated-skirt-multi-color",
+    "localPath": "images/rowingblazers-8466242732066-image-41089640038434.webp",
+    "sha256": "a4786b2cf9752551591e4a25ea00fed0ada065971cfadcf9cf8c65459f49fd00",
+    "ordinal": 7,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Head and shoulders absent in skirt-focused crop; insufficient ensemble context.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466242469922-image-41089646297122",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/womens-wool-hunters-plaid-classic-trouser-green",
+    "localPath": "images/rowingblazers-8466242469922-image-41089646297122.webp",
+    "sha256": "78f4486e3d6d9da95ba1e04e53f383d81c142c97a03436e7abd13981347eebec",
+    "ordinal": 8,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy crest blazer and wide tailored trousers combined with a delicate eyelet blouse; mixed ensemble cues, jacket hides waist and hip contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466242469922-image-41089646329890",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/womens-wool-hunters-plaid-classic-trouser-green",
+    "localPath": "images/rowingblazers-8466242469922-image-41089646329890.webp",
+    "sha256": "1dfbf980362db92fb347fe0aedded9fe8fadd1ba03b12d200783c70fabbbcf7e",
+    "ordinal": 9,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated blazer and tailored-trouser ensemble from ordinal 8.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466242371618-image-41089634107426",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/york-wool-hunters-plaid-funnel-neck-jacket-green",
+    "localPath": "images/rowingblazers-8466242371618-image-41089634107426.webp",
+    "sha256": "425d1c1388a6f415a02d4c51fa4ef9c697b4529099852f92d27d18dd185766f4",
+    "ordinal": 10,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped tweed zip jacket with patchwork mini skirt; distinct outerwear ensemble, constructed layers hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "rowingblazers-8466242371618-image-41089634467874",
+    "source": "rowingblazers",
+    "sourceUrl": "https://rowingblazers.com/products/york-wool-hunters-plaid-funnel-neck-jacket-green",
+    "localPath": "images/rowingblazers-8466242371618-image-41089634467874.webp",
+    "sha256": "560b8cc6fde4fcc5cc2e946b082a57d6bda458899b0aadd1a8b52e3b866873a8",
+    "ordinal": 11,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close view of collar zipper and chest pockets; no outfit view.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

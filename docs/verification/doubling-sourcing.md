@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,389 photos; 2,823 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,399 photos; 2,813 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: independent collared ensembles
+
+The 17:30 UTC run (con_dkPX1sBbFlIebBPm) directly reviews 24 Rowing Blazers/Billy Reid candidates in `2026-09-18T1740-independent` and `2026-09-18T1745-collared`. Two bound sheets and three enlarged originals support ten admissions: two masculine, five feminine, one mixed and two unclear. Nine products/details and five repeated poses/colorways are excluded. Both publishers are new admissions. Alder Apparel returns HTTP 404; the failed fuller-build search is recorded without treating it as exhaustion.
+
+Totals: 7,399 photos, 7,158 body records, 5,829 build observations, 294 complete references (46 masculine) and 55 broader-build benchmark matches. No new complete reference or required-body-filter gain. Presentation totals: 1,243 masculine, 4,123 feminine, 171 mixed and 1,862 unclear. Two bounded first-page snapshots retain 500 listing decisions. All 3,744 pending training bindings are unchanged from original ordinal 1056. Prioritize fitted untied fuller-build frontal separates and independent collared ensembles; avoid repeated polo colorways, flat products and structured outer layers for contour coverage. Append after `1745-collared`. No deployment.
+
+Fetched baseline `ba0a2ab` matches origin/personal-discovery and contains origin/main. Prior catalog/body/presentation prefixes and all 7,014 expansion asset digests validate; 24 candidate bindings, two sheets and two listing snapshots validate. Every prior sampled/deferred ledger record is unchanged; twelve sampled and 379 deferred records are added, reaching 12,100 sampled and 48,382 deferred pages. All 45 body-filter settings are unchanged, including twelve empty settings. Admission replay, complete presentation audit, original-photo identity, all-asset verification, library audit, sourcing/batch checks and typecheck pass. All 131 unit tests pass in one run (179,684 assertions, 386.02 seconds); the isolated build and all 86 browser checks pass (3.1 minutes, tracing disabled). Original assertions and timeouts remain intact; only exact catalog/body/source-group expectations change. No checks remain pending or failing. Logs and exit markers are under external `expansion-2026-09-18T1740-independent`. The final fetch finds no concurrent branch update. Deployment remains pending. The following checkpoint paragraphs are historical.
 
 ## Current interactive continuation: collared ensembles and activewear
 

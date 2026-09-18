@@ -109,6 +109,15 @@
       "deferredPages": 79
     },
     {
+      "source": "billyreid",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 4,
+      "completeExpansionReferences": 0,
+      "deferredPages": 188
+    },
+    {
       "source": "bridgeandburn",
       "sampledPages": 6,
       "candidateImages": 12,
@@ -593,6 +602,15 @@
       "admittedExpansionPhotos": 2,
       "completeExpansionReferences": 0,
       "deferredPages": 221
+    },
+    {
+      "source": "rowingblazers",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 6,
+      "completeExpansionReferences": 0,
+      "deferredPages": 191
     },
     {
       "source": "saturdaysnyc",
@@ -47689,6 +47707,230 @@
             }
           ],
           "downloadedUnique": 31
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1740-independent/sources.json",
+      "retrievedAt": "2026-09-18T17:32:48.496698+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "rowingblazers",
+          "pages": [
+            {
+              "url": "https://rowingblazers.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T17:32:44.734865+00:00",
+              "snapshotSha256": "97548b7d18159370385d9c5dd17f6a77d15b1571bb12d41d43a796bce2538168"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "rowingblazers-8466243223586-image-41089658748962",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WWFW23W1502BRO-06.jpg?v=1786984078",
+              "sourceUrl": "https://rowingblazers.com/products/womens-wool-diana-edition-sheep-sweater-brown",
+              "sha256": "2a8f43ba644727ee8df353ae54312ffa32b9dce6fd1933630e3ee507ae20a3ae",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466243223586-image-41089659240482",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WWFW23W1502BRO.jpg?v=1786984088",
+              "sourceUrl": "https://rowingblazers.com/products/womens-wool-diana-edition-sheep-sweater-brown",
+              "sha256": "4d5eb21a96e08123c3d2c8b5a1bacfa6d99b607f87eed936682e6ad9c0faa3cc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466243092514-image-41089637253154",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26K05W10DKB-24.jpg?v=1786983872",
+              "sourceUrl": "https://rowingblazers.com/products/skye-utility-suede-skirt-dark-brown",
+              "sha256": "470c05474967055169ba01dfff30c087e53e1fe7754eb42f65fbf90416bd15a0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466243092514-image-41089637351458",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26K05W10DKB-26.jpg?v=1786983873",
+              "sourceUrl": "https://rowingblazers.com/products/skye-utility-suede-skirt-dark-brown",
+              "sha256": "7a75c9c0e1b13aeee8a53c146c8218b33e379ff7e26aec7e05574668e18b8971",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466242994210-image-41089637875746",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26K05W10DKB-35.jpg?v=1786983878",
+              "sourceUrl": "https://rowingblazers.com/products/steph-suede-utility-vest-dark-brown",
+              "sha256": "1586c74b4cd93094817e9fff8a79f3899ed0bd941fdd738b4e9caad6d1efab9b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466242994210-image-41089637941282",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26K05W10DKB-36.jpg?v=1786983880",
+              "sourceUrl": "https://rowingblazers.com/products/steph-suede-utility-vest-dark-brown",
+              "sha256": "f4c2298d00f83fb6b475bb07daca77dd0c50d339ce8dc62482d12cea52101576",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466242732066-image-41089660846114",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WWFW23W1502GRN-069.jpg?v=1786984104",
+              "sourceUrl": "https://rowingblazers.com/products/pippa-wool-mixed-plaid-pleated-skirt-multi-color",
+              "sha256": "e7fe1c9e9bccc627ad78f07427fc5c9f148026ee92f685b4776376362cae5ad1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466242732066-image-41089640038434",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26K09W09MUL-19.jpg?v=1786983907",
+              "sourceUrl": "https://rowingblazers.com/products/pippa-wool-mixed-plaid-pleated-skirt-multi-color",
+              "sha256": "a4786b2cf9752551591e4a25ea00fed0ada065971cfadcf9cf8c65459f49fd00",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466242469922-image-41089646297122",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26P21W09GRN-029.jpg?v=1786983959",
+              "sourceUrl": "https://rowingblazers.com/products/womens-wool-hunters-plaid-classic-trouser-green",
+              "sha256": "78f4486e3d6d9da95ba1e04e53f383d81c142c97a03436e7abd13981347eebec",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466242469922-image-41089646329890",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26P21W09GRN-030.jpg?v=1786983960",
+              "sourceUrl": "https://rowingblazers.com/products/womens-wool-hunters-plaid-classic-trouser-green",
+              "sha256": "1dfbf980362db92fb347fe0aedded9fe8fadd1ba03b12d200783c70fabbbcf7e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466242371618-image-41089634107426",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26J19W09GRN-27.jpg?v=1786983839",
+              "sourceUrl": "https://rowingblazers.com/products/york-wool-hunters-plaid-funnel-neck-jacket-green",
+              "sha256": "425d1c1388a6f415a02d4c51fa4ef9c697b4529099852f92d27d18dd185766f4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "rowingblazers-8466242371618-image-41089634467874",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26J19W09GRN-36.jpg?v=1786983843",
+              "sourceUrl": "https://rowingblazers.com/products/york-wool-hunters-plaid-funnel-neck-jacket-green",
+              "sha256": "560b8cc6fde4fcc5cc2e946b082a57d6bda458899b0aadd1a8b52e3b866873a8",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "alderapparel",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://www.alderapparel.com/products.json?limit=250&page=1",
+              "error": "404 Client Error: Not Found for url: https://www.alderapparel.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1745-collared/sources.json",
+      "retrievedAt": "2026-09-18T17:33:30.382143+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "billyreid",
+          "pages": [
+            {
+              "url": "https://www.billyreid.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T17:33:28.755898+00:00",
+              "snapshotSha256": "af429fa7abc6dbd8e2793c7b7accb0c376a56b39e341db7efbcebe659232d9ba"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "billyreid-7168712966188-image-47743584272428",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_302-1092C_moleskin-cochran-jean_coffee_01.jpg?v=1788374220",
+              "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-coffee",
+              "sha256": "760cf5e7fecef4022505d7460564caccc97a927d59f80684a7a886e7d3537d7c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-7168712966188-image-47743580012588",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copyof20260616_BillyReid_Ecomm_LK29_309.jpg?v=1788374159",
+              "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-coffee",
+              "sha256": "8e5460a01befa4f64a77ceb8e1c6b5599c62f1a07d27cb8692f900c054b71e20",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-7168712933420-image-47743573688364",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_302-1092C_moleskin-cochran-jean_carbon-blue_01.jpg?v=1788373972",
+              "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-carbon-blue",
+              "sha256": "9d620bd12c1faa447ae03aa350c9ae04264349f4fa4a65b320c4ff2ade582424",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-7168712933420-image-47668243660844",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copyof20260617_BillyReid_Ecomm_ETHAN_7_097.jpg?v=1787756217",
+              "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-carbon-blue",
+              "sha256": "ef35d0b14fe7f6abe50ba2c419e3981eb514845bc677481e0536b84b21530687",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-7120019161132-image-47743264063532",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_102-1697_tuscumbia-classic-shirt_tan_1.jpg?v=1788367939",
+              "sourceUrl": "https://www.billyreid.com/products/tuscumbia-classic-shirt-tan",
+              "sha256": "56dd0c70614c8a618a5f0eda23f1bda3949af2a3e44376873cc09cf4db8287e9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-7120019161132-image-47743268290604",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_102-1697_tuscumbia-classic-shirt_tan_3.jpg?v=1788368131",
+              "sourceUrl": "https://www.billyreid.com/products/tuscumbia-classic-shirt-tan",
+              "sha256": "84c97fd07c0ddb6279c21230169d86a43a9a501be0930944f2ab5d5d13783082",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-7945783672876-image-42983596294188",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f25_m104-2703c_dover-sweatshirt_black_1.jpg?v=1753464140",
+              "sourceUrl": "https://www.billyreid.com/products/dover-sweatshirt-black",
+              "sha256": "73c3872407d887b65fbad181aaaf41c568b8b46d07c0360d8f52e0d4d226c624",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-7945783672876-image-47334806618156",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copyof20260617_BillyReid_Ecomm_MAX_2_021.jpg?v=1784914785",
+              "sourceUrl": "https://www.billyreid.com/products/dover-sweatshirt-black",
+              "sha256": "02dabb419d7155d586a873a9b99d8a76b7ef95af93ef99494e1f97648a28da3c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-7984122232876-image-47428050550828",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_103-333_bishop-rib-crew_carbon-blue_01.jpg?v=1785960845",
+              "sourceUrl": "https://www.billyreid.com/products/bishop-rib-crew-carbon-blue",
+              "sha256": "b61d9075936538b828b91fdd0cba3c54bb20a0cbeff4a43c189e89e30204ad15",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-7984122232876-image-47498413211692",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copy_of_20260618_BillyReid_Ecomm_103-333_CARBON_BLUE_025.jpg?v=1786659058",
+              "sourceUrl": "https://www.billyreid.com/products/bishop-rib-crew-carbon-blue",
+              "sha256": "3ee69866d5d53e6a937fea6538a3c5c81f21b01aa8a1f8308bd2b208721de5f9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-8162675523628-image-47656663285804",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_204-120_colbert-waxed-suede-chore-coat_grey_1.jpg?v=1787688117",
+              "sourceUrl": "https://www.billyreid.com/products/colbert-waxed-suede-chore-coat-grey",
+              "sha256": "48613d894dbd91e246498b8e170a051c64ee3abbd6fd9c817a1db8b3fd107e09",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "billyreid-8162675523628-image-47656840626220",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copyof20260616_BillyReid_Ecomm_LK24_352.jpg?v=1787690596",
+              "sourceUrl": "https://www.billyreid.com/products/colbert-waxed-suede-chore-coat-grey",
+              "sha256": "06172ee7942f9c000945807d5d894d590f37a44194bf33a36ad6a9fbf151eb0a",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
         }
       ]
     }

@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7389/7389; unreviewed: 0.
+Reviewed: 7399/7399; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1241 | 16.8% | 1176 | 60 | 46 |
-| feminine | 4118 | 55.7% | 3674 | 44 | 149 |
-| mixed-androgynous | 170 | 2.3% | 163 | 12 | 2 |
-| unclear | 1860 | 25.2% | 1735 | 74 | 97 |
+| masculine | 1243 | 16.8% | 1178 | 61 | 46 |
+| feminine | 4123 | 55.7% | 3679 | 45 | 149 |
+| mixed-androgynous | 171 | 2.3% | 164 | 13 | 2 |
+| unclear | 1862 | 25.2% | 1737 | 75 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":160,"3":65,"unknown":377,"2.5":62,"1.5":574} | {"1":1,"2":19,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":397,"3":262,"unknown":584,"1.5":2560,"2.5":288} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":31} |
-| mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":76} | {"1.5":2} |
-| unclear | {"1":7,"2":161,"3":215,"1.5":840,"unknown":525,"2.5":112} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| masculine | {"1":3,"2":161,"3":65,"unknown":377,"2.5":62,"1.5":575} | {"1":1,"2":19,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":397,"3":262,"unknown":584,"1.5":2565,"2.5":288} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":31} |
+| mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":77} | {"1.5":2} |
+| unclear | {"1":7,"2":162,"3":215,"1.5":841,"unknown":525,"2.5":112} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -42,6 +42,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | barbellapparel.com | 0 | 0 | 0 | 9 | 0 |
 | bearbottomclothing.com | 1 | 0 | 0 | 4 | 0 |
 | bigbudpress.com | 6 | 32 | 0 | 119 | 0 |
+| billyreid.com | 2 | 0 | 0 | 2 | 0 |
 | bridgeandburn.com | 0 | 0 | 0 | 4 | 0 |
 | bronsonshop.com | 2 | 0 | 0 | 0 | 0 |
 | chubbiesshorts.com | 3 | 0 | 0 | 3 | 0 |
@@ -85,6 +86,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | popflexactive.com | 0 | 5 | 0 | 1 | 0 |
 | punkrave.ch | 13 | 35 | 5 | 7 | 0 |
 | roark.com | 1 | 0 | 0 | 1 | 0 |
+| rowingblazers.com | 0 | 5 | 1 | 0 | 0 |
 | saturdaysnyc.com | 0 | 0 | 0 | 2 | 0 |
 | scottfrasercollection.com | 0 | 0 | 0 | 1 | 0 |
 | senestudio.com | 2 | 0 | 0 | 0 | 0 |

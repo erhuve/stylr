@@ -1,0 +1,105 @@
+{
+  "retrievedAt": "2026-09-18T17:33:30.382143+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "billyreid",
+      "pages": [
+        {
+          "url": "https://www.billyreid.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T17:33:28.755898+00:00",
+          "snapshotSha256": "af429fa7abc6dbd8e2793c7b7accb0c376a56b39e341db7efbcebe659232d9ba"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "billyreid-7168712966188-image-47743584272428",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_302-1092C_moleskin-cochran-jean_coffee_01.jpg?v=1788374220",
+          "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-coffee",
+          "sha256": "760cf5e7fecef4022505d7460564caccc97a927d59f80684a7a886e7d3537d7c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-7168712966188-image-47743580012588",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copyof20260616_BillyReid_Ecomm_LK29_309.jpg?v=1788374159",
+          "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-coffee",
+          "sha256": "8e5460a01befa4f64a77ceb8e1c6b5599c62f1a07d27cb8692f900c054b71e20",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-7168712933420-image-47743573688364",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_302-1092C_moleskin-cochran-jean_carbon-blue_01.jpg?v=1788373972",
+          "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-carbon-blue",
+          "sha256": "9d620bd12c1faa447ae03aa350c9ae04264349f4fa4a65b320c4ff2ade582424",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-7168712933420-image-47668243660844",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copyof20260617_BillyReid_Ecomm_ETHAN_7_097.jpg?v=1787756217",
+          "sourceUrl": "https://www.billyreid.com/products/moleskin-jean-carbon-blue",
+          "sha256": "ef35d0b14fe7f6abe50ba2c419e3981eb514845bc677481e0536b84b21530687",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-7120019161132-image-47743264063532",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_102-1697_tuscumbia-classic-shirt_tan_1.jpg?v=1788367939",
+          "sourceUrl": "https://www.billyreid.com/products/tuscumbia-classic-shirt-tan",
+          "sha256": "56dd0c70614c8a618a5f0eda23f1bda3949af2a3e44376873cc09cf4db8287e9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-7120019161132-image-47743268290604",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_102-1697_tuscumbia-classic-shirt_tan_3.jpg?v=1788368131",
+          "sourceUrl": "https://www.billyreid.com/products/tuscumbia-classic-shirt-tan",
+          "sha256": "84c97fd07c0ddb6279c21230169d86a43a9a501be0930944f2ab5d5d13783082",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-7945783672876-image-42983596294188",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f25_m104-2703c_dover-sweatshirt_black_1.jpg?v=1753464140",
+          "sourceUrl": "https://www.billyreid.com/products/dover-sweatshirt-black",
+          "sha256": "73c3872407d887b65fbad181aaaf41c568b8b46d07c0360d8f52e0d4d226c624",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-7945783672876-image-47334806618156",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copyof20260617_BillyReid_Ecomm_MAX_2_021.jpg?v=1784914785",
+          "sourceUrl": "https://www.billyreid.com/products/dover-sweatshirt-black",
+          "sha256": "02dabb419d7155d586a873a9b99d8a76b7ef95af93ef99494e1f97648a28da3c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-7984122232876-image-47428050550828",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_103-333_bishop-rib-crew_carbon-blue_01.jpg?v=1785960845",
+          "sourceUrl": "https://www.billyreid.com/products/bishop-rib-crew-carbon-blue",
+          "sha256": "b61d9075936538b828b91fdd0cba3c54bb20a0cbeff4a43c189e89e30204ad15",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-7984122232876-image-47498413211692",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copy_of_20260618_BillyReid_Ecomm_103-333_CARBON_BLUE_025.jpg?v=1786659058",
+          "sourceUrl": "https://www.billyreid.com/products/bishop-rib-crew-carbon-blue",
+          "sha256": "3ee69866d5d53e6a937fea6538a3c5c81f21b01aa8a1f8308bd2b208721de5f9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-8162675523628-image-47656663285804",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f26_204-120_colbert-waxed-suede-chore-coat_grey_1.jpg?v=1787688117",
+          "sourceUrl": "https://www.billyreid.com/products/colbert-waxed-suede-chore-coat-grey",
+          "sha256": "48613d894dbd91e246498b8e170a051c64ee3abbd6fd9c817a1db8b3fd107e09",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "billyreid-8162675523628-image-47656840626220",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/Copyof20260616_BillyReid_Ecomm_LK24_352.jpg?v=1787690596",
+          "sourceUrl": "https://www.billyreid.com/products/colbert-waxed-suede-chore-coat-grey",
+          "sha256": "06172ee7942f9c000945807d5d894d590f37a44194bf33a36ad6a9fbf151eb0a",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

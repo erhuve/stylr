@@ -1,24 +1,24 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7389,
-  "reviewedPhotos": 7389,
+  "catalogPhotos": 7399,
+  "reviewedPhotos": 7399,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1241,
+      "photos": 1243,
       "percent": 16.8,
-      "sourcePages": 1176,
-      "sourceHosts": 60,
+      "sourcePages": 1178,
+      "sourceHosts": 61,
       "completeReferences": 46,
       "byBuild": {
         "1": 3,
-        "2": 160,
+        "2": 161,
         "3": 65,
         "unknown": 377,
         "2.5": 62,
-        "1.5": 574
+        "1.5": 575
       },
       "completeByBuild": {
         "1": 1,
@@ -30,17 +30,17 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4118,
+      "photos": 4123,
       "percent": 55.7,
-      "sourcePages": 3674,
-      "sourceHosts": 44,
+      "sourcePages": 3679,
+      "sourceHosts": 45,
       "completeReferences": 149,
       "byBuild": {
         "1": 27,
         "2": 397,
         "3": 262,
         "unknown": 584,
-        "1.5": 2560,
+        "1.5": 2565,
         "2.5": 288
       },
       "completeByBuild": {
@@ -53,16 +53,16 @@
     },
     {
       "presentation": "mixed-androgynous",
-      "photos": 170,
+      "photos": 171,
       "percent": 2.3,
-      "sourcePages": 163,
-      "sourceHosts": 12,
+      "sourcePages": 164,
+      "sourceHosts": 13,
       "completeReferences": 2,
       "byBuild": {
         "1": 1,
         "2": 9,
         "unknown": 84,
-        "1.5": 76
+        "1.5": 77
       },
       "completeByBuild": {
         "1.5": 2
@@ -70,16 +70,16 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1860,
+      "photos": 1862,
       "percent": 25.2,
-      "sourcePages": 1735,
-      "sourceHosts": 74,
+      "sourcePages": 1737,
+      "sourceHosts": 75,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
-        "2": 161,
+        "2": 162,
         "3": 215,
-        "1.5": 840,
+        "1.5": 841,
         "unknown": 525,
         "2.5": 112
       },
@@ -833,6 +833,67 @@
             "3": 12,
             "1.5": 4
           }
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "billyreid.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 2,
+          "percent": 50,
+          "sourcePages": 2,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2": 1,
+            "1.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 2,
+          "percent": 50,
+          "sourcePages": 2,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2": 1,
+            "1.5": 1
+          },
+          "completeByBuild": {}
         },
         {
           "presentation": "unreviewed",
@@ -3614,6 +3675,65 @@
           "byBuild": {
             "1.5": 1
           },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "rowingblazers.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 5,
+          "percent": 83.3,
+          "sourcePages": 5,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 5
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 1,
+          "percent": 16.7,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
           "completeByBuild": {}
         },
         {
