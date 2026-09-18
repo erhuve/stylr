@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,222 photos; 2,990 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,230 photos; 2,982 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: Dixxon and Nettle Studios
+
+The 04:02 UTC run directly reviews 24 candidates in `2026-09-18T0410-targeted` and `2026-09-18T0415-contours`: two bound sheets and three enlarged originals. Eight outfits are admitted from two independent new publishers: one masculine collared casual ensemble, five feminine ensembles and two unclear neutral ensembles. Six rear views, two product images, one size-chart collage and seven repeated poses/colorways are excluded. Half of the candidate budget targets collared casual/workwear sources. The mistaken nettlesstudios.com DNS failure is retained; the corrected nettlestudios.com listing succeeds.
+
+Totals: 7,230 photos, 5,688 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear). Presentation totals: 1,202 masculine, 4,048 feminine, 168 mixed and 1,812 unclear. Four new build observations include three build-2.5 views, but no complete references. All 45 sampled required-body counts remain unchanged, including the 54-match broader-build benchmark. Two first-page listings preserve all 347 product decisions. Inventory records 11,727 sampled pages, 43,187 deferred pages, 63 source keys and 73 runs. All 3,744 pending training rows remain byte-identical from original ordinal 1056. Append after `0415-contours`. Prioritize independent fitted full-front separates and alternate collared outfit galleries; Dixxon first/third positions mostly show backs/crops, while the sampled Nettle gathered garments hide contours. No deployment.
+
+Preservation passes for all 6,837 preceding expansion photo/asset/body records and 7,222 presentation rows, all 6,845 expansion asset hashes, 24 candidate bindings, two sheet digests and two listing snapshots. Admission replay, complete presentation audit, original-photo identity, typecheck and library audit pass. All 131 unit checks pass in one run (176,020 assertions, 358.02 seconds), including sourcing regressions and exhaustive catalog sequencing. All 86 browser checks pass in 3.6 minutes, including loading every catalog image. No checks remain pending or failing; no assertions or budgets changed. Logs and the unchanged 45-point body grid are under external `expansion-2026-09-18T0410-targeted`. Remote main is included; personal-discovery is re-fetched immediately before push. No deployment.
 
 ## Current continuation: Bridge & Burn, Tradlands and Portuguese Flannel
 

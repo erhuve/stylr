@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7222/7222; unreviewed: 0.
+Reviewed: 7230/7230; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1201 | 16.6% | 1136 | 43 | 44 |
-| feminine | 4043 | 56% | 3601 | 29 | 148 |
+| masculine | 1202 | 16.6% | 1137 | 44 | 44 |
+| feminine | 4048 | 56% | 3606 | 31 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1810 | 25.1% | 1685 | 53 | 97 |
+| unclear | 1812 | 25.1% | 1687 | 55 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":140,"3":65,"unknown":367,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":390,"3":248,"unknown":573,"1.5":2530,"2.5":275} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| masculine | {"1":3,"2":140,"3":65,"unknown":367,"2.5":61,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":390,"3":248,"unknown":577,"1.5":2531,"2.5":275} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":213,"1.5":815,"unknown":514,"2.5":108} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":213,"1.5":815,"unknown":514,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -45,6 +45,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | copperunionapparel.com | 0 | 30 | 0 | 12 | 0 |
 | dapperboi.com | 3 | 0 | 0 | 8 | 0 |
 | disturbia.co.uk | 0 | 32 | 0 | 5 | 0 |
+| dixxon.com | 1 | 1 | 0 | 1 | 0 |
 | flic.kr | 313 | 2260 | 28 | 596 | 0 |
 | flickr.com | 22 | 168 | 5 | 42 | 0 |
 | forestinkclothing.com | 0 | 78 | 0 | 2 | 0 |
@@ -58,6 +59,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | midnighthour.com | 23 | 95 | 1 | 25 | 0 |
 | mochipan.com | 8 | 111 | 0 | 14 | 0 |
 | morningwitch.com | 2 | 5 | 0 | 6 | 0 |
+| nettlestudios.com | 0 | 4 | 0 | 1 | 0 |
 | onebonebrand.com | 21 | 0 | 0 | 57 | 0 |
 | perryellis.com | 8 | 0 | 0 | 0 | 0 |
 | pettilia.com | 0 | 4 | 0 | 1 | 0 |

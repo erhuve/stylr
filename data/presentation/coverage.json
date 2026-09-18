@@ -1,23 +1,23 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7222,
-  "reviewedPhotos": 7222,
+  "catalogPhotos": 7230,
+  "reviewedPhotos": 7230,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1201,
+      "photos": 1202,
       "percent": 16.6,
-      "sourcePages": 1136,
-      "sourceHosts": 43,
+      "sourcePages": 1137,
+      "sourceHosts": 44,
       "completeReferences": 44,
       "byBuild": {
         "1": 3,
         "2": 140,
         "3": 65,
         "unknown": 367,
-        "2.5": 60,
+        "2.5": 61,
         "1.5": 566
       },
       "completeByBuild": {
@@ -30,17 +30,17 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4043,
+      "photos": 4048,
       "percent": 56,
-      "sourcePages": 3601,
-      "sourceHosts": 29,
+      "sourcePages": 3606,
+      "sourceHosts": 31,
       "completeReferences": 148,
       "byBuild": {
         "1": 27,
         "2": 390,
         "3": 248,
-        "unknown": 573,
-        "1.5": 2530,
+        "unknown": 577,
+        "1.5": 2531,
         "2.5": 275
       },
       "completeByBuild": {
@@ -70,10 +70,10 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1810,
+      "photos": 1812,
       "percent": 25.1,
-      "sourcePages": 1685,
-      "sourceHosts": 53,
+      "sourcePages": 1687,
+      "sourceHosts": 55,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
@@ -81,7 +81,7 @@
         "3": 213,
         "1.5": 815,
         "unknown": 514,
-        "2.5": 108
+        "2.5": 110
       },
       "completeByBuild": {
         "1": 2,
@@ -1050,6 +1050,67 @@
       ]
     },
     {
+      "host": "dixxon.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 1,
+          "percent": 33.3,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 1,
+          "percent": 33.3,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 1,
+          "percent": 33.3,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
       "host": "flic.kr",
       "categories": [
         {
@@ -1961,6 +2022,65 @@
             "2.5": 1,
             "1.5": 2,
             "unknown": 2
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "nettlestudios.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 4,
+          "percent": 80,
+          "sourcePages": 4,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "unknown": 4
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 1,
+          "percent": 20,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2.5": 1
           },
           "completeByBuild": {}
         },

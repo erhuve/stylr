@@ -136,6 +136,15 @@
       "deferredPages": 0
     },
     {
+      "source": "dixxon",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 3,
+      "completeExpansionReferences": 0,
+      "deferredPages": 212
+    },
+    {
       "source": "duer",
       "sampledPages": 6,
       "candidateImages": 12,
@@ -278,6 +287,15 @@
       "admittedExpansionPhotos": 144,
       "completeExpansionReferences": 2,
       "deferredPages": 25
+    },
+    {
+      "source": "nettlestudios",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 5,
+      "completeExpansionReferences": 0,
+      "deferredPages": 67
     },
     {
       "source": "onebone",
@@ -40772,6 +40790,230 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSGREY_005.jpg?v=1788968805",
               "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-grey",
               "sha256": "3a53c35d1f9184cb71382f568c14f2f551345eba75e9e94134462bce8330651a",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0410-targeted/sources.json",
+      "retrievedAt": "2026-09-18T04:03:07.221162+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "dixxon",
+          "pages": [
+            {
+              "url": "https://www.dixxon.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T04:03:04.830290+00:00",
+              "snapshotSha256": "1906d7a57c0b75fd5f830e4d89b3b2dabc925ec0ffba407b9e7a828b66bb3728"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "dixxon-8032663797813-image-38883620618293",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/death-boy-zip-up-hoodie-black-9836979.png?v=1789548976",
+              "sourceUrl": "https://www.dixxon.com/products/death-boy-pullover-hoodie-black",
+              "sha256": "31596f563142e02c2f3d9a6b5487bfda51d3981909555fa0b4a1c6f3e7355856",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8032663797813-image-38883607183413",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/death-boy-zip-up-hoodie-black-1602223.png?v=1789548975",
+              "sourceUrl": "https://www.dixxon.com/products/death-boy-pullover-hoodie-black",
+              "sha256": "f001123e96f08751ca12d6bbab5f186f587faf4dc3ac165210807764a058c456",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8120434065461-image-38883438657589",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/redefined-uv-long-sleeve-t-shirt-red-6829913.png?v=1789548733",
+              "sourceUrl": "https://www.dixxon.com/products/redefined-uv-long-sleeve-t-shirt-red",
+              "sha256": "49ec59d3ded8ee605aa91ea337d661b394775a2f339e7de26b76bceb5b7796b6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8120434065461-image-38883438624821",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/redefined-uv-long-sleeve-t-shirt-red-8430087.png?v=1789548733",
+              "sourceUrl": "https://www.dixxon.com/products/redefined-uv-long-sleeve-t-shirt-red",
+              "sha256": "4472587645ef4a84a8ef06257f9bf4dd89ab40c8d5adde1dfcd43ce72e924378",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8213969829941-image-38883378921525",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/sport-t-shirt-charcoal-2010668.png?v=1789548669",
+              "sourceUrl": "https://www.dixxon.com/products/sport-t-shirt-charcoal",
+              "sha256": "e09f488d63c0c5077d09d40b9c55bc085e72197fd83588c3ac09c544c02f4289",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8213969829941-image-38883378987061",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/sport-t-shirt-charcoal-8574588.png?v=1789548669",
+              "sourceUrl": "https://www.dixxon.com/products/sport-t-shirt-charcoal",
+              "sha256": "5d66906c4c514fa26b9fdc155ebcee99af319d6aed2ab3bdc9628ed6ffc24356",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8161033486389-image-38883386490933",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/youth-mussel-beach-party-shirt-5627305.png?v=1789548668",
+              "sourceUrl": "https://www.dixxon.com/products/youth-mussel-beach-party-shirt",
+              "sha256": "1800cff3d8e56a86f8305163e5b55e50b1fb75b69372e6acd69913040c307394",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8161033486389-image-38053188337717",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/youth-folds-of-honor-party-shirt-2476477.png?v=1778789169",
+              "sourceUrl": "https://www.dixxon.com/products/youth-mussel-beach-party-shirt",
+              "sha256": "d1b9b8c538895ef107215808c51f7ffeaff02e92f0e039c17ae257f9288db94c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8161033453621-image-38883394486325",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/womens-mussel-beach-party-shirt-4123821.png?v=1789548674",
+              "sourceUrl": "https://www.dixxon.com/products/womens-mussel-beach-party-shirt",
+              "sha256": "b9d177a1cb76de357a9b5579a766e49410de938c5021e9999a00db1ee9fb73dc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8161033453621-image-38883394519093",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/womens-mussel-beach-party-shirt-6782315.png?v=1789548674",
+              "sourceUrl": "https://www.dixxon.com/products/womens-mussel-beach-party-shirt",
+              "sha256": "021c509ccc1ba50cb0c8202dca8fa0f2fd205f5ae07b00078cbc86026464170b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8161033420853-image-38883422306357",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/mussel-beach-party-shirt-6754954.png?v=1789548673",
+              "sourceUrl": "https://www.dixxon.com/products/mussel-beach-party-shirt",
+              "sha256": "c0428ce54601489e20d255b17552267d62c85e4d15c3cb0f7140137bbdf3105e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "dixxon-8161033420853-image-38883422339125",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1008/2786/files/mussel-beach-party-shirt-6303185.png?v=1789548673",
+              "sourceUrl": "https://www.dixxon.com/products/mussel-beach-party-shirt",
+              "sha256": "e4db424c2bfe98d6beea23118d0549c2b4bbdea3bf4f43b612e6c5e46d019ee7",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "nettles",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://nettlesstudios.com/products.json?limit=250&page=1",
+              "error": "HTTPSConnectionPool(host='nettlesstudios.com', port=443): Max retries exceeded with url: /products.json?limit=250&page=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x2b6b0dd6c7d0>: Failed to resolve 'nettlesstudios.com' ([Errno -2] Name or service not known)\"))"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0415-contours/sources.json",
+      "retrievedAt": "2026-09-18T04:03:30.096759+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "nettlestudios",
+          "pages": [
+            {
+              "url": "https://nettlestudios.com/products.json?limit=250&page=1",
+              "products": 97,
+              "retrievedAt": "2026-09-18T04:03:27.610254+00:00",
+              "snapshotSha256": "afe51439f1e39bc02bc7fc765efc8d44b3df37b74014310bb15edacc7d4d5e81"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "nettlestudios-8269747126390-image-37626007486582",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/mintchipmushroomdress-nettlestudios15.jpg?v=1789610813",
+              "sourceUrl": "https://nettlestudios.com/products/mint-chocolate-chip-mushroom-dress",
+              "sha256": "17f99a88f2a1a9b0a8b4cf35d8fd0043326f43a2a42b5315383c62f054a099ba",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8269747126390-image-37625999229046",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/mintchipmushroomdress-nettlestudios6.jpg?v=1789610782",
+              "sourceUrl": "https://nettlestudios.com/products/mint-chocolate-chip-mushroom-dress",
+              "sha256": "13a0040570d048961293597b2908ae3561822b235ad2e8283a53656501fbc2c2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8269739327606-image-37626028982390",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/s8ergrlmushroomdress-nettlestudios9.jpg?v=1789610872",
+              "sourceUrl": "https://nettlestudios.com/products/sk8r-grl-mushroom-dress",
+              "sha256": "39820be34c54f164c903b3ae01cbd57c6b5f213b46d23e6482fefc4bee7325d7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8269739327606-image-37626028556406",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/s8ergrlmushroomdress-nettlestudios7.jpg?v=1789610870",
+              "sourceUrl": "https://nettlestudios.com/products/sk8r-grl-mushroom-dress",
+              "sha256": "6214db1bab424f6920699ca9541c27c9b4ea9ec1ec4b215dc3254aa3a95ec002",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8235562893430-image-37626496417910",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/mintchipminimushroomdress-nettlestudios4.jpg?v=1789611813",
+              "sourceUrl": "https://nettlestudios.com/products/mint-chocolate-chip-mini-mushroom-dress",
+              "sha256": "4e024cf46c03d8a8a5445c4bd1f45312ace6b28a6139dd1707e2feffcf920ff2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8235562893430-image-37626520141942",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/mintchipminimushroomdress-nettlestudios13.jpg?v=1789611840",
+              "sourceUrl": "https://nettlestudios.com/products/mint-chocolate-chip-mini-mushroom-dress",
+              "sha256": "832b0263ec14891d201b2045bbbec3182cdfca2f144b7c8ae7cbc1b0ee30171d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8235527569526-image-37626616250486",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/mushroomdress-nettlestudios33.jpg?v=1789611990",
+              "sourceUrl": "https://nettlestudios.com/products/sk8r-grl-mini-mushroom-dress",
+              "sha256": "843a9e731ccf22673dcb8bc4dcd68b1bc7850e093ae2a998e26e7e9071c9341c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8235527569526-image-37626636304502",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/sk8ergrlminimushroom-nettlestudios18.jpg?v=1789612022",
+              "sourceUrl": "https://nettlestudios.com/products/sk8r-grl-mini-mushroom-dress",
+              "sha256": "6ceb3f93fe4b61d4097068e92bc2e59a413454e852241053eac81f746cfb8cfb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8235521441910-image-37626704429174",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/strawberrydotballoonpants-nettlestudios32.jpg?v=1789612218",
+              "sourceUrl": "https://nettlestudios.com/products/baseball-tee-in-heart-denim",
+              "sha256": "64ad90f4fff76e0c2654c49106b131400ed35dcf62a2790feb9c7ffd21c33495",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8235521441910-image-37626711179382",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/strawberrydotballoonpants-nettlestudios29.jpg?v=1789612242",
+              "sourceUrl": "https://nettlestudios.com/products/baseball-tee-in-heart-denim",
+              "sha256": "a233878d5738c59bc1aef768906bd9ac36aafead782d9fa9ddcdde4f66d17cb7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8269715964022-image-37540172267638",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/spumonisepttop-nettlestudios1.jpg?v=1788974488",
+              "sourceUrl": "https://nettlestudios.com/products/spumoni-september-top",
+              "sha256": "d03493a6ee807969cc4a5f8ee64f54158e6581c11db37452069294b5a4e1c424",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nettlestudios-8269715964022-image-37540172333174",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/spumonisepttop-nettlestudios4.jpg?v=1788974489",
+              "sourceUrl": "https://nettlestudios.com/products/spumoni-september-top",
+              "sha256": "d5960cbf19b75e8c0edbc8b667f743c868a17cb26961c62b8dd0568159ef8098",
               "outcome": "downloaded-unique"
             }
           ],

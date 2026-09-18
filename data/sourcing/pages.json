@@ -107694,6 +107694,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://nettlestudios.com/products/baseball-tee-in-heart-denim",
+    "source": "nettlestudios",
+    "candidateIds": [
+      "nettlestudios-8235521441910-image-37626704429174",
+      "nettlestudios-8235521441910-image-37626711179382"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0415-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nettlestudios.com/products/mint-chocolate-chip-mini-mushroom-dress",
+    "source": "nettlestudios",
+    "candidateIds": [
+      "nettlestudios-8235562893430-image-37626496417910",
+      "nettlestudios-8235562893430-image-37626520141942"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0415-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nettlestudios.com/products/mint-chocolate-chip-mushroom-dress",
+    "source": "nettlestudios",
+    "candidateIds": [
+      "nettlestudios-8269747126390-image-37625999229046",
+      "nettlestudios-8269747126390-image-37626007486582"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0415-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nettlestudios.com/products/sk8r-grl-mini-mushroom-dress",
+    "source": "nettlestudios",
+    "candidateIds": [
+      "nettlestudios-8235527569526-image-37626616250486",
+      "nettlestudios-8235527569526-image-37626636304502"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0415-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nettlestudios.com/products/sk8r-grl-mushroom-dress",
+    "source": "nettlestudios",
+    "candidateIds": [
+      "nettlestudios-8269739327606-image-37626028556406",
+      "nettlestudios-8269739327606-image-37626028982390"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0415-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nettlestudios.com/products/spumoni-september-top",
+    "source": "nettlestudios",
+    "candidateIds": [
+      "nettlestudios-8269715964022-image-37540172267638",
+      "nettlestudios-8269715964022-image-37540172333174"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0415-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-black",
     "source": "onebone",
     "candidateIds": [
@@ -146255,6 +146339,90 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://www.dixxon.com/products/death-boy-pullover-hoodie-black",
+    "source": "dixxon",
+    "candidateIds": [
+      "dixxon-8032663797813-image-38883607183413",
+      "dixxon-8032663797813-image-38883620618293"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0410-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.dixxon.com/products/mussel-beach-party-shirt",
+    "source": "dixxon",
+    "candidateIds": [
+      "dixxon-8161033420853-image-38883422306357",
+      "dixxon-8161033420853-image-38883422339125"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0410-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.dixxon.com/products/redefined-uv-long-sleeve-t-shirt-red",
+    "source": "dixxon",
+    "candidateIds": [
+      "dixxon-8120434065461-image-38883438624821",
+      "dixxon-8120434065461-image-38883438657589"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0410-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.dixxon.com/products/sport-t-shirt-charcoal",
+    "source": "dixxon",
+    "candidateIds": [
+      "dixxon-8213969829941-image-38883378921525",
+      "dixxon-8213969829941-image-38883378987061"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0410-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.dixxon.com/products/womens-mussel-beach-party-shirt",
+    "source": "dixxon",
+    "candidateIds": [
+      "dixxon-8161033453621-image-38883394486325",
+      "dixxon-8161033453621-image-38883394519093"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0410-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.dixxon.com/products/youth-mussel-beach-party-shirt",
+    "source": "dixxon",
+    "candidateIds": [
+      "dixxon-8161033486389-image-38053188337717",
+      "dixxon-8161033486389-image-38883386490933"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0410-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://www.flickr.com/photo.gne?id=14404251815",
