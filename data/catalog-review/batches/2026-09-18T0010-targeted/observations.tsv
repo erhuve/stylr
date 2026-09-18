@@ -1,0 +1,25 @@
+ordinal	view	build	shoulderHip	waist	evidence
+0	reject	?	?	?	Flat camouflage hooded jacket; no wearer.
+1	reject	?	?	?	Flat rear jacket product; no wearer.
+2	reject	?	?	?	Flat camouflage trousers; no wearer.
+3	reject	?	?	?	Flat rear trousers; no wearer.
+4	reject	?	?	?	Flat black printed tee; no wearer.
+5	reject	?	?	?	Flat rear black tee; no wearer.
+6	reject	?	?	?	Flat black tee product; no wearer.
+7	back	?	?	?	Rear worn tee; front contours unavailable.
+8	reject	?	?	?	Flat tan short-sleeve shirt; no wearer.
+9	back	?	?	?	Rear worn tan shirt; front contours unavailable.
+10	reject	?	?	?	Flat tan printed tee; no wearer.
+11	reject	?	?	?	Flat rear tan tee; no wearer.
+12	reject	?	?	?	Closer repeated black tee and pale trouser outfit; retain wider ordinal 13.
+13	partial	1.5	?	?	Slender visible limbs in black tee and pale trousers; loose drape hides waist and hip comparison; feet cropped.
+14	full	2	?	?	Medium visible build in black tee and white pencil skirt; downward angled walking stance and tucked drape limit contour comparison.
+15	full	3	?	?	Fuller visible build in black tee and floral trousers; original enlarged; lifted leg and held jacket obscure comparable shoulder and hip contours.
+16	reject	?	?	?	Crouching repeat of black dress and platform boots; retain standing ordinal 17.
+17	partial	1.5	?	?	Slender exposed limbs with black strappy dress and hat; held-out skirt obscures hips and hem crop omits footwear.
+18	back	?	?	?	Rear trouser view; front contours unavailable.
+19	full	1.5	?	?	Slender visible build in pale camisole with black puff-sleeve layer and flared trousers; raised arms and angled stance prevent reliable shoulder comparison.
+20	full	3	?	?	Fuller visible build in printed tee and jeans; original enlarged; jacket covers one shoulder and hand overlaps hip; waist obscured by tee.
+21	reject	?	?	?	Three-person promotional group; no single outfit reference.
+22	full	1.5	?	?	Slender visible build in patterned sweater and pale jeans; leaning crossed-leg pose and sweater drape obscure contour axes.
+23	full	3	?	?	Fuller visible build in blue sleeveless collared top and pale jeans; original enlarged; hand-on-hip rotation and blouse drape obscure neutral waist and shoulder comparison.

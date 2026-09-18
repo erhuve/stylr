@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9886,
-  "admittedPhotos": 6794,
-  "totalPhotos": 7179,
+  "reviewedCandidates": 9910,
+  "admittedPhotos": 6802,
+  "totalPhotos": 7187,
   "axisSupport": {
-    "build": 5523,
+    "build": 5531,
     "shoulderHip": 311,
     "waist": 602
   },
   "completeReferences": 249,
-  "sourcePages": 6237,
+  "sourcePages": 6243,
   "excludedReasons": {
-    "non-outfit-view": 3034,
+    "non-outfit-view": 3050,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12380,6 +12380,70 @@
     },
     {
       "id": "saturdaysnyc-15296382795821-image-40635337703469",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-7820921733316-image-40535268589764",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-7820921733316-image-40535268524228",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632726724-image-72999166083448",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632726724-image-72983728226680",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632562884-image-72983707812216",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632562884-image-72983707779448",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979155231096-image-75451972223352",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14979155231096-image-75768282087800",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632857796-image-72983734354296",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632857796-image-73227887673720",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632628420-image-72983713677688",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632628420-image-72983713644920",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7660894388266-image-36257050755114",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7660894322730-image-37222741803050",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7653396578346-image-34560567935018",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7653396545578-image-34560568098858",
       "reason": "non-outfit-view"
     }
   ]

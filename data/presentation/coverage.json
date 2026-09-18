@@ -1,8 +1,8 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7179,
-  "reviewedPhotos": 7179,
+  "catalogPhotos": 7187,
+  "reviewedPhotos": 7187,
   "unreviewedPhotos": 0,
   "categories": [
     {
@@ -30,17 +30,17 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4029,
+      "photos": 4032,
       "percent": 56.1,
-      "sourcePages": 3587,
+      "sourcePages": 3590,
       "sourceHosts": 28,
       "completeReferences": 148,
       "byBuild": {
         "1": 27,
-        "2": 389,
+        "2": 390,
         "3": 242,
         "unknown": 573,
-        "1.5": 2525,
+        "1.5": 2527,
         "2.5": 273
       },
       "completeByBuild": {
@@ -70,16 +70,16 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1787,
+      "photos": 1792,
       "percent": 24.9,
-      "sourcePages": 1663,
+      "sourcePages": 1667,
       "sourceHosts": 48,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
         "2": 153,
-        "3": 210,
-        "1.5": 799,
+        "3": 213,
+        "1.5": 801,
         "unknown": 512,
         "2.5": 106
       },
@@ -2351,16 +2351,16 @@
         },
         {
           "presentation": "feminine",
-          "photos": 225,
-          "percent": 74.3,
-          "sourcePages": 154,
+          "photos": 228,
+          "percent": 73.3,
+          "sourcePages": 157,
           "sourceHosts": 1,
           "completeReferences": 17,
           "byBuild": {
-            "2": 46,
+            "2": 47,
             "3": 56,
             "2.5": 97,
-            "1.5": 24,
+            "1.5": 26,
             "unknown": 2
           },
           "completeByBuild": {
@@ -2381,15 +2381,15 @@
         },
         {
           "presentation": "unclear",
-          "photos": 77,
-          "percent": 25.4,
-          "sourcePages": 63,
+          "photos": 82,
+          "percent": 26.4,
+          "sourcePages": 67,
           "sourceHosts": 1,
           "completeReferences": 2,
           "byBuild": {
             "2": 15,
-            "3": 25,
-            "1.5": 10,
+            "3": 28,
+            "1.5": 12,
             "2.5": 23,
             "unknown": 4
           },

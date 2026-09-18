@@ -1,0 +1,216 @@
+{
+  "retrievedAt": "2026-09-18T00:02:56.150286+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "universalworks",
+      "pages": [
+        {
+          "url": "https://universalworks.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T00:02:48.370580+00:00",
+          "snapshotSha256": "ca420bfb9c2e39431abf53773758215d688903d4343cc23b7693a14b7c0374c6"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "universalworks-7820921733316-image-40535268589764",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp31132-swedish-camo-brown51.jpg?v=1726503355",
+          "sourceUrl": "https://universalworks.com/products/universal-works-x-master-piece-stanedge-jacket-in-brown-swedish-camo",
+          "sha256": "d8739d395983c28b2cefa1b8bc690c22e80c2f18ff3430aac33d67276ddd84ab",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-7820921733316-image-40535268524228",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp31132-swedish-camo-brown52.jpg?v=1726503355",
+          "sourceUrl": "https://universalworks.com/products/universal-works-x-master-piece-stanedge-jacket-in-brown-swedish-camo",
+          "sha256": "4193773fbdad16ea47b98c819b9e6d32431a81af75d56ce88248066aad495415",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632726724-image-72999166083448",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32133_printed-polytech-blue-cano_1_7fb4df5e-d608-43bd-90b9-1984c8f2c859.jpg?v=1753786444",
+          "sourceUrl": "https://universalworks.com/products/universal-works-loose-pilot-trouser-in-blue-camo-printed-rec-polytech",
+          "sha256": "e1574c1ffb2e2089ef02730f89f619c96bc9df0d529c3d7d4b008f33c4826c92",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632726724-image-72983728226680",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32133_printed-polytech-blue-cano_2.jpg?v=1753786445",
+          "sourceUrl": "https://universalworks.com/products/universal-works-loose-pilot-trouser-in-blue-camo-printed-rec-polytech",
+          "sha256": "7cde0ca02f52b33bd5c1a3e64d24ea7f0048cd32c050259213c1aafe922e60c2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632562884-image-72983707812216",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32121_single-jersey-mpxuw-black_1.jpg?v=1753786452",
+          "sourceUrl": "https://universalworks.com/products/universal-works-x-masterpiece-print-tee-in-black-single-jersey-mpxuw",
+          "sha256": "e3503f1fe34d549ded768c81eaf440a3e4741791fb0ea2b37f794b9dae342bfe",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632562884-image-72983707779448",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32121_single-jersey-mpxuw-black_2.jpg?v=1753786452",
+          "sourceUrl": "https://universalworks.com/products/universal-works-x-masterpiece-print-tee-in-black-single-jersey-mpxuw",
+          "sha256": "7602e851e1f92fa53e2b607346b1e438b8c3712868d1922d69d60e2e72225c7a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-14979155231096-image-75451972223352",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/MP34217_single-jersey-black_1.jpg?v=1771936874",
+          "sourceUrl": "https://universalworks.com/products/black-single-jersey-print-tee",
+          "sha256": "2093b8a144593eb2fdac0089940a8814fbe4b1d7d8f8a1ef7112088f0b5f46d2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-14979155231096-image-75768282087800",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/MP34217_Single-Jersey_Black_Model_2.jpg?v=1777302297",
+          "sourceUrl": "https://universalworks.com/products/black-single-jersey-print-tee",
+          "sha256": "217f38aade47f1c474105b45dab13e50cf49f3a586494e814b269e775abbb182",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632857796-image-72983734354296",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/MP32177_recycled-poly-tech-sand_1.jpg?v=1753786438",
+          "sourceUrl": "https://universalworks.com/products/universal-works-tech-overshirt-in-sand-recycled-poly-tech-2",
+          "sha256": "22752a3a073935e56c47281b38b829fa5ef9b1fb5cb0eb23a82738cc2b142776",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632857796-image-73227887673720",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/MP32177_recycled-poly-tech-sand_2_411a5e83-086e-4936-92e8-df8145c3ecea.jpg?v=1753786438",
+          "sourceUrl": "https://universalworks.com/products/universal-works-tech-overshirt-in-sand-recycled-poly-tech-2",
+          "sha256": "ddcfe9efaf7aadb1a11c0fc20c24e482d7042d80616d382d831d91c4aecf7df6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632628420-image-72983713677688",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32121_single-jersey-mpxuw-dark-sand_1.jpg?v=1753786450",
+          "sourceUrl": "https://universalworks.com/products/universal-works-x-masterpiece-print-tee-in-dark-sand-single-jersey-mpxuw",
+          "sha256": "26144db6b34096052b78a9fbd569fa7de3884937dcf8536957728a3c9c715d91",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632628420-image-72983713644920",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32121_single-jersey-mpxuw-dark-sand_2.jpg?v=1753786450",
+          "sourceUrl": "https://universalworks.com/products/universal-works-x-masterpiece-print-tee-in-dark-sand-single-jersey-mpxuw",
+          "sha256": "cb8e4b28f31df20177a221e37d96efe8695ab0bd8f5ee83c02ebc25e3530eddb",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "snag",
+      "pages": [
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T00:02:52.179897+00:00",
+          "snapshotSha256": "bb6b8654cfb33c650f1c607433121d8bc1ea80eaf56fce55826acbaa12386873"
+        },
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=2",
+          "products": 250,
+          "retrievedAt": "2026-09-18T00:02:53.226704+00:00",
+          "snapshotSha256": "95e5e4402bf1ae1c18735e784f5ab7fb80bf5b8209c3f854da3f4f8a65b6d5f9"
+        },
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=3",
+          "products": 250,
+          "retrievedAt": "2026-09-18T00:02:54.284067+00:00",
+          "snapshotSha256": "e5ea43c431886ba0adda9a253c24efceebe66ef20ab50c2bbbb3d5d819a6b19a"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "snag-7660894388266-image-36257050755114",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Emma_-_Size_E_-_Black_Viscose_Wood_Pulp_Scoop_Neck_Tee.jpg?v=1774367074",
+          "sourceUrl": "https://snagtights.com/products/viscose-tee-scoop-neck-black",
+          "sha256": "0b1aa7b864ae5e2282aeb1cf8bff8c42c860c8ce1bad31a04115ff6cd0a4843c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7660894388266-image-36257050656810",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Emma_-_Size_E_-_Black_Viscose_Wood_Pulp_Scoop_Neck_Tee_2.jpg?v=1774367074",
+          "sourceUrl": "https://snagtights.com/products/viscose-tee-scoop-neck-black",
+          "sha256": "e408ecd06b1f5d60571b1cf389d544aa8f9387fd37f7f3628ebdf9d8b7a6f527",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7660894355498-image-36257050427434",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Nicole-Size_C-Bamboo-V-Neck_1.jpg?v=1774371522",
+          "sourceUrl": "https://snagtights.com/products/viscose-tee-v-neck-black",
+          "sha256": "f12a9570b28a1dffb1b5966377d072f3128474ae901e8dd8f011a1f330bdc15c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7660894355498-image-36257050394666",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Jacki-Size-G-Cooling-Range-V-Neck-_1.jpg?v=1774371522",
+          "sourceUrl": "https://snagtights.com/products/viscose-tee-v-neck-black",
+          "sha256": "3258346a72d1cf069532d345c0efe0e621e728471249ae4f2633e20b27ffc823",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7660894322730-image-37222741803050",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Amy-Size-D-Bio-Chub-Rubs-Black2.jpg?v=1788426919",
+          "sourceUrl": "https://snagtights.com/products/biotights-chub-rub-shorts-black",
+          "sha256": "6c74641a7adb668f3fb51dd01ffc910b274e5c036a1e83d3619e3be7c2fc29cf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7660894322730-image-37222741868586",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Amy-Size-D-Bio-Chub-Rubs-Black3.jpg?v=1784646209",
+          "sourceUrl": "https://snagtights.com/products/biotights-chub-rub-shorts-black",
+          "sha256": "3e60d6ee7f52560039732ccc68dea11ea15d08c0c70836d659c1152f650d7e39",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7653396578346-image-34560567935018",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Larrissa-Size-F1-Long-5ft-11-Mom-Jeans-Black-Sea-_5.jpg?v=1753434978",
+          "sourceUrl": "https://snagtights.com/products/organic-mom-jeans-black-sea",
+          "sha256": "2b2cfe54a35907d716835b0efef8344fa6aede4b9381cfb5289b61ee125efee8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7653396578346-image-34560567738410",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Ni-kiya-C2-Reg-5ft-4-Mom-Jeans-Black-Sea-_4.jpg?v=1753434978",
+          "sourceUrl": "https://snagtights.com/products/organic-mom-jeans-black-sea",
+          "sha256": "5a6863f85ee571f57bb07458f7103ba331a65683997fcd8c68f025a54935218d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7653396545578-image-34560568164394",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Rebecca-SizeG1Short-Height5_4-MomJeans-min_71d9d94b-1ca0-471e-a160-2ea02856a47f.jpg?v=1753434978",
+          "sourceUrl": "https://snagtights.com/products/organic-mom-jeans-atlantic",
+          "sha256": "88af95c5195a16704e85996e0f6a30a1127354027653a954716512d3060fa729",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7653396545578-image-34560568098858",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/GROUP_01_072---Square_eeee9c33-558c-4958-88da-2af3f7b53e0a.jpg?v=1753434978",
+          "sourceUrl": "https://snagtights.com/products/organic-mom-jeans-atlantic",
+          "sha256": "6968288d9764fea2f5e9574b5217da24eff8bd3d580eee97826546470eb9bcb0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7653396512810-image-34560568393770",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Lozzii-E1-Reg-5ft-6-Mom-Jean-Aegean-_1.jpg?v=1788431491",
+          "sourceUrl": "https://snagtights.com/products/organic-mom-jeans-aegean",
+          "sha256": "69be0f35ab4f7c5b6e3ab5090551fe6a37bf30bcdb9fd9f5d7a1a48fb6346385",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7653396512810-image-34560568786986",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Keshia-Size-G2-Long-5-ft-8-Mom-Jeans-Aegean-_4.jpg?v=1753434979",
+          "sourceUrl": "https://snagtights.com/products/organic-mom-jeans-aegean",
+          "sha256": "2a886920745603a62e8fd72b5768f318803cc8493299f23e92d3278288a3aefa",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

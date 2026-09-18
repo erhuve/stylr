@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-17. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,179 photos; 3,033 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,187 photos; 3,025 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: workwear and fuller-build outfits
+
+The 00:01 UTC run directly reviews 24 candidates in `2026-09-18T0010-targeted`, with two bound sheets, three enlarged originals and comparison against all 303 prior Snag admissions. Eight outfits are admitted with eight build observations: three feminine and five unclear. Ten flat products, three rear views, two repeated poses and one group are excluded. Half the review budget targeted masculine workwear, but that source yielded no admissible front views. No masculine or complete-reference gain is claimed.
+
+Totals: 7,187 photos, 5,655 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear), 54 broader-build benchmark matches. Presentation totals: 1,195 masculine, 4,032 feminine, 168 mixed and 1,792 unclear. Required-body-filter coverage is unchanged. Four listing snapshots preserve 1,000 product decisions; inventory records 11,645 sampled pages, 41,892 deferred pages, 54 source keys and 61 runs. All 3,744 pending training records remain byte-identical from ordinal 1056. Append after this batch. Prioritize alternate front workwear galleries and independent fuller-build publishers, retaining other presentation coverage.
+
+All 6,794 preceding expansion photo, asset and body records and 7,179 presentation rows are preserved. All 6,802 expansion image digests and 24 new image/sheet bindings plus four listing bindings pass. Admission replay, complete presentation audit, original-photo identity, library audit, all 45 unchanged body-grid positions and typecheck pass. The full unit run passes 130 checks (175,117 assertions, 352.73 seconds); its only failure is the old source-group count. Updating that exact count from 6,237 to 6,243 yields six passing focused sourcing/import tests (61,039 assertions, 16.28 seconds). All 131 unit checks therefore pass across the full run and focused rerun, with assertions retained. All 86 browser checks pass (3.6 minutes) using the installed Chromium. Logs remain in the external expansion directory. No checks remain pending or failing. Remote main is an ancestor and personal-discovery remains unchanged at the pre-push fetch. No deployment.
 
 ## Current continuation: Saturdays NYC
 

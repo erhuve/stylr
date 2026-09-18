@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7179/7179; unreviewed: 0.
+Reviewed: 7187/7187; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | masculine | 1195 | 16.6% | 1130 | 39 | 44 |
-| feminine | 4029 | 56.1% | 3587 | 28 | 148 |
+| feminine | 4032 | 56.1% | 3590 | 28 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1787 | 24.9% | 1663 | 48 | 97 |
+| unclear | 1792 | 24.9% | 1667 | 48 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -21,9 +21,9 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
 | masculine | {"1":3,"2":138,"3":65,"unknown":363,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":389,"3":242,"unknown":573,"1.5":2525,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| feminine | {"1":27,"2":390,"3":242,"unknown":573,"1.5":2527,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":210,"1.5":799,"unknown":512,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":213,"1.5":801,"unknown":512,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -63,7 +63,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | saturdaysnyc.com | 0 | 0 | 0 | 2 | 0 |
 | shinybynature.com | 0 | 77 | 0 | 31 | 0 |
 | shopmyviolet.com | 0 | 137 | 0 | 7 | 0 |
-| snagtights.com | 1 | 225 | 0 | 77 | 0 |
+| snagtights.com | 1 | 228 | 0 | 82 | 0 |
 | stateandliberty.com | 26 | 0 | 0 | 2 | 0 |
 | strongsize.com | 4 | 0 | 0 | 9 | 0 |
 | superfithero.com | 0 | 6 | 0 | 32 | 0 |
