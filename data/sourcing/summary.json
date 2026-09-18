@@ -208,6 +208,15 @@
       "deferredPages": 48
     },
     {
+      "source": "freenote",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 0,
+      "completeExpansionReferences": 0,
+      "deferredPages": 107
+    },
+    {
       "source": "freshcleantees",
       "sampledPages": 23,
       "candidateImages": 43,
@@ -407,12 +416,12 @@
     },
     {
       "source": "snag",
-      "sampledPages": 224,
-      "candidateImages": 444,
-      "reviewedExpansionCandidates": 421,
-      "admittedExpansionPhotos": 311,
+      "sampledPages": 230,
+      "candidateImages": 456,
+      "reviewedExpansionCandidates": 433,
+      "admittedExpansionPhotos": 315,
       "completeExpansionReferences": 19,
-      "deferredPages": 90
+      "deferredPages": 84
     },
     {
       "source": "stateandliberty",
@@ -41538,6 +41547,261 @@
             }
           ],
           "downloadedUnique": 6
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0540-targeted/sources.json",
+      "retrievedAt": "2026-09-18T05:32:25.408452+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "freenote",
+          "pages": [
+            {
+              "url": "https://freenotecloth.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T05:32:23.010215+00:00",
+              "snapshotSha256": "897bfe740e530d7e38b61fb8aac1b56cc986b21ca6f11b9df181aeee60b2ae80"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "freenote-8249376506079-image-41126330859743",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/AW23Current0060Teamster_Vest_AW23.jpg?v=1703785926",
+              "sourceUrl": "https://freenotecloth.com/products/copy-of-teamster-vest-cedar",
+              "sha256": "ffe9d9530bb4def0d8adb6a3c02078a147c24122e5145c87cd5c5ae73952f2ff",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-8249376506079-image-41126331023583",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/AW23Current0061Teamster_Vest_AW23.jpg?v=1706820359",
+              "sourceUrl": "https://freenotecloth.com/products/copy-of-teamster-vest-cedar",
+              "sha256": "a66faa9fd8cb873ce5c3392631d5610889b7d3ca709c09a68cafa64b30b34f5d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-7511373906143-image-36523329192159",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/products/AW22-015.jpg?v=1641842890",
+              "sourceUrl": "https://freenotecloth.com/products/shifter-l-s-tee-black-combo",
+              "sha256": "206ebea11d7d3e1a21e9c4d8363263655d063e43d3c3b515068ad9bacf55fb8f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-7511373906143-image-36523329421535",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/products/AW22-010.jpg?v=1694733670",
+              "sourceUrl": "https://freenotecloth.com/products/shifter-l-s-tee-black-combo",
+              "sha256": "5d158841a3a0ff9c932105f002e519f2faf8686faa28489d134a4149ec099dfd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-9530865320159-image-50969802965215",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/TopsSS2606901.jpg?v=1788912323",
+              "sourceUrl": "https://freenotecloth.com/products/modesto-jacket-hickory-stripe",
+              "sha256": "2b51ae5350c2c9f3458cd7eb4f7d6edd37bb90d1199f14ade547b8ebefe0e949",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-9530865320159-image-50969803063519",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/TopsSS2606991.jpg?v=1788912325",
+              "sourceUrl": "https://freenotecloth.com/products/modesto-jacket-hickory-stripe",
+              "sha256": "1887f50d852f90e44d3d8e9f485d532d4d5b1604cac480d7b93cc1ff7f0c7a23",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-9511983513823-image-50907205566687",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/TopsSS26056811.jpg?v=1788370924",
+              "sourceUrl": "https://freenotecloth.com/products/faro-jacket-10-ounce-tobacco-waxed-canvas-copy",
+              "sha256": "40a59196ee2bbb0e2c0ec0a9c30c9e09b9aa7f4368b0bf01197252a709004d15",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-9511983513823-image-50907195506911",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/TopsSS2606191.jpg?v=1788370759",
+              "sourceUrl": "https://freenotecloth.com/products/faro-jacket-10-ounce-tobacco-waxed-canvas-copy",
+              "sha256": "c8bd5656f9a04144eb15b47611e4659e43c5cc7b2e969df3030da2a8b274afd6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-9511976435935-image-50899536969951",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/TopsSS2605721_cc3c0ca7-49cd-46be-ab77-f159ace33e1e.jpg?v=1788308155",
+              "sourceUrl": "https://freenotecloth.com/products/faro-jacket-10-ounce-oak-waxed-canvas",
+              "sha256": "ba9e1dfdac6a5fca04a852243d456d2ddd686b4c672165db94f517910eeaee73",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-9511976435935-image-50907058438367",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/TopsSS260601.jpg?v=1788369689",
+              "sourceUrl": "https://freenotecloth.com/products/faro-jacket-10-ounce-oak-waxed-canvas",
+              "sha256": "ee5a73af045fe946cb6204b405e8633e549ba1c50de8009c3f18b8727afa10b3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-9511967654111-image-50907278475487",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/TopsSS26057811.jpg?v=1788371773",
+              "sourceUrl": "https://freenotecloth.com/products/faro-10-ounce-black-waxed-canvas",
+              "sha256": "a299d8e655d315dba6a63b6520766abfdd9f088d65f83164a62be58f6c051e5b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freenote-9511967654111-image-50907276640479",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0482/8569/files/TopsSS260584_aac6fede-5d08-486c-bfbb-64c9041619c1.jpg?v=1788371758",
+              "sourceUrl": "https://freenotecloth.com/products/faro-10-ounce-black-waxed-canvas",
+              "sha256": "0545e075c7bd5f5b7216c62abcbca48c604180b6fd73b7329bef92fe6646b556",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "esby",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://esbyapparel.com/products.json?limit=250&page=1",
+              "error": "404 Client Error: Not Found for url: https://esbyapparel.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0545-contours/sources.json",
+      "retrievedAt": "2026-09-18T05:32:39.711981+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "sotela",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://sotela.co/products.json?limit=250&page=1",
+              "error": "Expecting value: line 1 column 1 (char 0)"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0550-contours/sources.json",
+      "retrievedAt": "2026-09-18T05:32:54.481343+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "snag",
+          "pages": [
+            {
+              "url": "https://snagtights.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T05:32:51.053396+00:00",
+              "snapshotSha256": "b96b287ee055b0d45d6aa820011c3ec055135b3291a91bb0ec2ce3a849e6a607"
+            },
+            {
+              "url": "https://snagtights.com/products.json?limit=250&page=2",
+              "products": 250,
+              "retrievedAt": "2026-09-18T05:32:51.886245+00:00",
+              "snapshotSha256": "4d638847ab98024c0a47d991661688cd02067d8a796d4b329361507c982fb68d"
+            },
+            {
+              "url": "https://snagtights.com/products.json?limit=250&page=3",
+              "products": 250,
+              "retrievedAt": "2026-09-18T05:32:52.845163+00:00",
+              "snapshotSha256": "8e6fd9253371b511300810b083c8c7a52ebbfd89a0cee7cc630a9e27779fcdca"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "snag-7637584871466-image-36608324272170",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Emma-Size-F2-Broderie-Shirt-Black-Timewarp-Tights-Black-_5_5390d052-015f-4249-8601-74df055e202f.jpg?v=1777909401",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-shirt-black",
+              "sha256": "d949911fcfa0d5ad21d9910be672f8bed6fbbe5518e5b655173713d16984e9ec",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584871466-image-36608143884330",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Kara_-_FB_-_Broderie_Anglaise_Shirt.jpg?v=1777905641",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-shirt-black",
+              "sha256": "d6a0d2e931b65568cd816caf5bb2343b3ab5de6e1500dad3846687b9b5c1ac10",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584838698-image-36452233084970",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Marlous-Size-D-Broderie-Playsuit-Cassis-de-Violet-_4.jpg?v=1775741580",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-playsuit-cassis-de-violet",
+              "sha256": "33045155e79099ee55926fc0b7a16a2bf6b205fab0b15ae3359781a42787aafa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584838698-image-36452233117738",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Emilia-Size-E-Broderie-Playsuit-Cassis-De-Violet-_1.jpg?v=1775741580",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-playsuit-cassis-de-violet",
+              "sha256": "32f8f04ddf21394bb48faf61bfb3f321453bce4762be8ff81248f17f6383fb2c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584805930-image-36608284655658",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Princess_Ann_-_Size_F_-_Broderie_Playsuit_-_Black_4.jpg?v=1777908589",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-playsuit-black",
+              "sha256": "0d6a30ecefeccf008b0dbc1d64f76dca9f0d3d5afdd43119da8a9b00f6a10931",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584805930-image-36608284491818",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Princess_Ann_-_Size_F_-_Broderie_Playsuit_-_Black_2.jpg?v=1777908586",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-playsuit-black",
+              "sha256": "d651afb9d491925e1fc1383b2e06472988d1051e40f37d1c177aab98ae418a59",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584707626-image-36452229316650",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Jade-Size-E-Broderie-Wrap-Dress-Blood-Red-_1.jpg?v=1777909815",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-wrap-dress-blood-red",
+              "sha256": "06ef6833c317ae3397afefc5011efe14447f48c9947f0fc2ab837f813a338439",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584707626-image-36452229349418",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Eylisha-Size-D-Broderie-Mini-Wrap-Dress---Blood-Red-_1.jpg?v=1775741536",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-wrap-dress-blood-red",
+              "sha256": "a755f51bec6d209384af14dbc854e36db9c1ee8a383431b0c2f4e8a6a27c800b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584642090-image-36452237475882",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Angie-Size-F-Broderie-Midi-Dress-Blood-Red-_4.jpg?v=1775741668",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-midi-dress-blood-red",
+              "sha256": "b32ed6175bd6596bd08e54d28388e4efe67ea5a5b7de70cdae4156a45bb329ad",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584642090-image-36452237508650",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Lauren-Size-I-Broderie-Midi-Dress-Blood-Red-_2.jpg?v=1775741668",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-midi-dress-blood-red",
+              "sha256": "683e82492b8d2332ad3938804b1264c448cbc56bef2271a60763044f2bd1c763",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584576554-image-36608342720554",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Anneka-Size-E-Broderie-Wrap-Dress-Cassis-De-Violet-_1_fc51242a-3be4-4830-9097-54b70964cfcd.png?v=1777909732",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-wrap-dress-cassis-de-violet",
+              "sha256": "ded769c07b2e2a36149f892eee35fd8fe23e53c39c17a40857527482c8349b01",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7637584576554-image-36608261029930",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Josephine_-_Broderie_Anglaise_Wrap_Dress_2.jpg?v=1777909758",
+              "sourceUrl": "https://snagtights.com/products/broderie-anglaise-wrap-dress-cassis-de-violet",
+              "sha256": "6876589f60777065f762646d8c4be4b727cae4911eef01a3fa746f72b80f1e64",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
         }
       ]
     }

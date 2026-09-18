@@ -1,0 +1,18 @@
+{
+  "retrievedAt": "2026-09-18T05:32:39.711981+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "sotela",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://sotela.co/products.json?limit=250&page=1",
+          "error": "Expecting value: line 1 column 1 (char 0)"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    }
+  ]
+}
