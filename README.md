@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Latest scheduled checkpoint: 7,465 reviewed photos after 36 direct reviews and fifteen outfits from Jachs NY, Paul James Knitwear and Chic Soul. Additions are six masculine-styled, five feminine-styled and four unclear. Complete references remain 294 (46 masculine), with 55 broader-build benchmark matches and no required-body-filter gain. Read `docs/verification/doubling-sourcing.md` for current validation and continuation. Not deployed; earlier checkpoints are historical.
+
 Latest scheduled checkpoint: 7,450 reviewed photos after 36 direct reviews and thirteen outfits from Flag & Anthem, Liverpool and Run & Fly. Additions are six masculine-styled, six feminine-styled and one unclear. Complete body references remain 294 (46 masculine-styled), with 55 broader-build benchmark matches and no required-body-filter gain. Read `docs/verification/doubling-sourcing.md` for current validation and continuation. Not deployed; earlier checkpoints are historical.
 
 Latest September 18 checkpoint: 7,423 reviewed photos, 294 complete body references (46 masculine-styled) and 55 broader-build benchmark matches. This 112-candidate review adds 24 outfits and 22 build observations from four new admitted publishers, with no required-body-filter gain. A corrected generic category filter recovers JunoActive clothing candidates without admitting accessories. Read the active doubling handoff for validation. Not deployed. Earlier checkpoints are historical.

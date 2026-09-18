@@ -1,0 +1,9 @@
+# Direct visual review
+
+September 18, 2026; conversation `con_AfH6TFCH37ARg4xK`. All 36 candidates were inspected on three image-bound sheets. Original ordinals 16, 25, 29 and 33 were enlarged. Authored observations preserve every decision and independent unknown axes. No product text, department, size, filename, face or prediction supplied a body or presentation label.
+
+Fifteen outfits qualify: five each from Jachs NY, Paul James Knitwear and Chic Soul, all new admitted publishers. Six masculine-styled, five feminine-styled and four unclear ensembles add fifteen build observations and no complete reference. Six rear views, seven product/detail views, two group scenes and six repeated outfits/crops are excluded. Styling describes clothing, never gender identity.
+
+The maintained collector searches at most three 250-product listing pages and six unsampled product pages per publisher, taking first/third gallery images. All three sources reach the selection bound on the first page. The 686 listing decisions and three snapshot hashes retain exact provenance; this is not exhaustive sourcing. Two publishers were selected for collared/fitted knit ensembles and one for fuller-build separates. Loose utility layers, puff shoulders, flared peplums, held hems and oblique/seated poses conceal required contours. The enlarged pink-knit view likewise does not justify complete body labels.
+
+Append after this batch. Prefer untied fitted frontal separates and complete collared outfits from independent publishers. Avoid these repeated rear galleries, close knit crops, group train scenes and loose peplum colorways. `ordinal-map.json`, `sheet-bindings.json` and `original-bindings.json` preserve original image and review bindings. The active doubling handoff records validation and totals. No deployment.

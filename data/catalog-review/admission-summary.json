@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 11003,
-  "admittedPhotos": 7065,
-  "totalPhotos": 7450,
+  "reviewedCandidates": 11039,
+  "admittedPhotos": 7080,
+  "totalPhotos": 7465,
   "axisSupport": {
-    "build": 5753,
+    "build": 5768,
     "shoulderHip": 325,
     "waist": 608
   },
   "completeReferences": 252,
-  "sourcePages": 6502,
+  "sourcePages": 6517,
   "excludedReasons": {
-    "non-outfit-view": 3880,
+    "non-outfit-view": 3901,
     "existing-source-page": 58
   },
   "excluded": [
@@ -15764,6 +15764,90 @@
     },
     {
       "id": "runandfly-15999333204348-image-82724287578492",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "jachsny-8096502317155-image-36537560760419",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "jachsny-8059561345123-image-36502297477219",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "jachsny-8059603550307-image-36504481464419",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "jachsny-8098050146403-image-36504613847139",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "jachsny-8059587199075-image-36502333554787",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "jachsny-8059587199075-image-36818758860899",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "jachsny-8027063943267-image-36501761949795",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pauljames-8628480868606-image-85023334236533",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pauljames-15987350831477-image-85200025289077",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pauljames-15987350831477-image-85200025223541",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pauljames-1324366069841-image-38786941681918",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pauljames-15986448564597-image-85179304116597",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pauljames-15986113380725-image-85169574969717",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "pauljames-15986087985525-image-85168767009141",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-4702558781529-image-33906371166390",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8788645314742-image-41931789533366",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8389354193078-image-40112294068406",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8798703911094-image-41970417303734",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8798703911094-image-41970417270966",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-7255180345526-image-31371692015798",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8895924961462-image-43666907365558",
       "reason": "non-outfit-view"
     }
   ]

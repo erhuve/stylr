@@ -1,6 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,450 photos; 2,762 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,465 photos; 2,747 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: independent knit and fuller-build separates
+
+The 20:00 UTC run (`con_AfH6TFCH37ARg4xK`) directly reviews 36 candidates in `2026-09-18T2010-independent`. Three bound sheets and four enlarged originals support fifteen admissions: five each from Jachs NY, Paul James Knitwear and Chic Soul, all new admitted publishers. Six masculine-styled, five feminine-styled and four unclear ensembles add fifteen build observations. Six rear views, seven product/detail views, two group scenes and six repeated outfits/crops are excluded. All 686 listing decisions and three successful first-page snapshots retain exact provenance and hashes. Batch naming establishes append order; listing timestamps record actual retrieval.
+
+Totals: 7,465 photos, 7,224 body records, 5,892 build observations, 294 complete references (46 masculine) and 55 broader-build benchmark matches. Presentation totals: 1,262 masculine, 4,140 feminine, 171 mixed and 1,892 unclear, with no unreviewed admissions. All 45 sampled required-body-filter settings are unchanged; twelve remain empty. No complete-reference or required-body-filter gain. All 3,744 pending training candidates retain their original bindings beginning at ordinal 1056.
+
+Fetched baseline `55c683c` matches origin/personal-discovery and contains fetched default origin/main. Prior photo/asset/body/presentation prefixes and admitted asset digests pass preservation. All 36 original image/ordinal bindings, three sheet hashes and six source/review-file bindings pass. All 12,207 prior sampled records and 49,920 prior deferred records remain unchanged. Inventory reaches 12,225 sampled and 50,478 deferred pages. Admission replay, complete presentation audit, original/all-asset checks, library audit, sourcing/batch checks and typecheck pass. All 131 unit tests pass in one run (181,070 assertions, 421.10 seconds); the isolated build and all 86 browser checks pass (3.2 minutes, tracing disabled). Only exact catalog-count expectations change; assertions and timeouts remain intact. No checks remain pending or failing. The final fetch finds no concurrent remote update. All twelve validation exit markers and logs are saved under external `expansion-2026-09-18T2010-independent`.
+
+Append after this batch. Prefer fitted untied frontal fuller-build separates and complete collared ensembles. These Jachs rear galleries, Paul James close knit/group train scenes and Chic Soul flared peplums/held hems have poor complete-contour yield. The reviewed loose outer layers and angled poses cannot establish the missing axes. Deployment remains pending. The finite sprint still ends September 18 at 21:23 UTC; do not extend it. Earlier sections are historical.
 
 ## Current continuation: independent utility layers and printed separates
 

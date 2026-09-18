@@ -1,0 +1,307 @@
+{
+  "retrievedAt": "2026-09-18T20:03:14.805511+00:00",
+  "retrievalTimeBasis": "Completion timestamp of last collection; each listing retains its actual retrieval timestamp and original snapshot binding.",
+  "scope": "Three publishers searched: Jachs NY, Paul James Knitwear and Chic Soul; at most three listing pages of 250 products and six unsampled products per source, first/third gallery images. Three successful first-page snapshots preserve all 686 listing decisions. Labels derive only from direct image inspection.",
+  "sources": [
+    {
+      "source": "jachsny",
+      "pages": [
+        {
+          "url": "https://www.jachsny.com/products.json?limit=250&page=1",
+          "products": 192,
+          "retrievedAt": "2026-09-18T20:03:03.807208+00:00",
+          "snapshotSha256": "7428b956bb93de4aea49d2f15121053ead2208743a6c3a5a949924e67454d3f3",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2010-independent/raw/jachsny-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "jachsny-8096502317155-image-36504515117155",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-Z36-V11_2558.jpg?v=1786112994",
+          "sourceUrl": "https://www.jachsny.com/products/sherpa-lined-bull-denim-bomber-jacket",
+          "sha256": "e48679eddd5341e3e2db09b8153157040c5b42f267c1c64ccfaa604bbf5dd8d6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8096502317155-image-36537560760419",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-Z36-V11_2589.jpg?v=1786384879",
+          "sourceUrl": "https://www.jachsny.com/products/sherpa-lined-bull-denim-bomber-jacket",
+          "sha256": "8d0fc7d6d4ab6bc366bcacc0e5ac6ba6fd3b537289bf0abae453ced82811d928",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8059561345123-image-36538428162147",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-Z03-C38_2114.jpg?v=1786397050",
+          "sourceUrl": "https://www.jachsny.com/products/sherpa-lined-snap-front-corduroy-shirt-jkt",
+          "sha256": "afe861b5354bf10ed93c5a57ed836b884a8f76d8cac899748f004216127f0434",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8059561345123-image-36502297477219",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-Z03-C38_2127.jpg?v=1786066386",
+          "sourceUrl": "https://www.jachsny.com/products/sherpa-lined-snap-front-corduroy-shirt-jkt",
+          "sha256": "e23e7ed5fe12dcba12099c40aa416555d6a94943cbf6520ded09ff23d76d90ab",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8059603550307-image-36543714033763",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-403-KN8_3427.jpg?v=1786455106",
+          "sourceUrl": "https://www.jachsny.com/products/stretch-sweater-fleece-quarter-zip",
+          "sha256": "a6ab3a17e29c85ec162d4022802e5d53ffd57bd4f564240c799a3ab13b23c13c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8059603550307-image-36504481464419",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-403-KN8_3440.jpg?v=1786111943",
+          "sourceUrl": "https://www.jachsny.com/products/stretch-sweater-fleece-quarter-zip",
+          "sha256": "76b295ab16babd7f280c3596128ba587ffde9632d177782453b1ab360dd427fe",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8098050146403-image-36504527568995",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-420-SO9_1899.jpg?v=1786113484",
+          "sourceUrl": "https://www.jachsny.com/products/soft-touch-fleece-full-zip-1",
+          "sha256": "27250728cc631b4d07f2f47d1691beac46ea5c498fc5453c226bdae58060b410",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8098050146403-image-36504613847139",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-420-SO9_1918.jpg?v=1786115427",
+          "sourceUrl": "https://www.jachsny.com/products/soft-touch-fleece-full-zip-1",
+          "sha256": "a0379777496905dc53498abcfbbd621082d3aed582e4c26bacdca7ed52c644fd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8059587199075-image-36502333554787",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-128-FC4_051.jpg?v=1786069201",
+          "sourceUrl": "https://www.jachsny.com/products/stretch-corduroy-5-pocket-pant",
+          "sha256": "9e813d06987abc22fbd4cd052ed6f67b5240a3f998236c7b0981de45fcffc0a9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8059587199075-image-36818758860899",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-128-FC4_067.jpg?v=1788877337",
+          "sourceUrl": "https://www.jachsny.com/products/stretch-corduroy-5-pocket-pant",
+          "sha256": "889781924a2162c3c4229c1ec3b1f55a8ef9daaccc3820228a0b1dd48875f93e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8027063943267-image-36818694340707",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-343-M14_3646_2631ca53-2b13-4664-b305-2e65d4dce422.jpg?v=1788876330",
+          "sourceUrl": "https://www.jachsny.com/products/soft-touch-fleece-pullover-hoodie",
+          "sha256": "c4a9370010adec619586c49ca4598ced0e4a71dfc045463b626aa6124083936a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "jachsny-8027063943267-image-36501761949795",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0196/9810/files/J26C-343-M14_3664.jpg?v=1786056092",
+          "sourceUrl": "https://www.jachsny.com/products/soft-touch-fleece-pullover-hoodie",
+          "sha256": "1830c270d0fb81f4cf7447885cf2d89dcc031c04d95bc37c7065323ac73821fe",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "pauljames",
+      "pages": [
+        {
+          "url": "https://www.pauljamesknitwear.com/products.json?limit=250&page=1",
+          "products": 244,
+          "retrievedAt": "2026-09-18T20:03:07.588197+00:00",
+          "snapshotSha256": "5edbc5a0f63ac7c7fd48fdabacbb1ff225f02d3cc0b99c7b7755b410c21219b3",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2010-independent/raw/pauljames-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "pauljames-8628480868606-image-85023334236533",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/6773-REGATTA-LO-EL-MENS-LAMBSWOOL-SADDLE-SHOULDER-JUMPER-4.jpg?v=1788950548",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/mens-lambswool-saddle-shoulder-jumper",
+          "sha256": "ffe79df8b6a2ff23c3003bc2e3a799eebb33741c764f3846c4ca293bfdf3bdf8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-8628480868606-image-85023334203765",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/6773-REGATTA-LO-EL-MENS-LAMBSWOOL-SADDLE-SHOULDER-JUMPER-2.jpg?v=1788950548",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/mens-lambswool-saddle-shoulder-jumper",
+          "sha256": "36d2dc2c9ae50af09a5974fe80fb7c8a17145169eb21f32199c246d8b488e1ef",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-15987350831477-image-85200025289077",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/10160-BIRCH-LO-MODEL-WOMENS-COTTON-MOCK-CABLE-ROLL-NECK-JUMPER-14.jpg?v=1789714679",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/womens-midweight-cotton-cable-roll-neck-jumper",
+          "sha256": "7abd5d3b514a348c438a7428c15919070c2a0a70ca4f305ab6da6a630abeb0a6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-15987350831477-image-85200025223541",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/10160-BIRCH-LO-MODEL-WOMENS-COTTON-MOCK-CABLE-ROLL-NECK-JUMPER-11.jpg?v=1789714676",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/womens-midweight-cotton-cable-roll-neck-jumper",
+          "sha256": "c484b8b5eae4ce0f103ebb5cdbe1e6e5bc3c1063a293faed9c93a3d17bb35511",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-1324366069841-image-38786941649150",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/products/3478-PINK-MODEL-WOMENS-COTTON-CREW-NECK-JUMPER-4.jpg?v=1761260556",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/womens-100-cotton-crew-neck-jumper",
+          "sha256": "f1a0b7a84f1889b0704e654aa741a4786346660b5d5e86d5ded015603ea49cff",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-1324366069841-image-38786941681918",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/products/3478-PINK-MODEL-WOMENS-COTTON-CREW-NECK-JUMPER-6.jpg?v=1761260556",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/womens-100-cotton-crew-neck-jumper",
+          "sha256": "9477742b79e60eb70e5b42accd583e0d4cae2fb0bb93ad34092097ea8f062346",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-15986448564597-image-85179308540277",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/10203-ECRU-S-EL-MODEL-WOMENS-COTTON-LIGHTWEIGHT-RIBBED-JUMPER-3.jpg?v=1789624861",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/womens-lightweight-cotton-ribbed-jumper",
+          "sha256": "98572ac3d3f6617705a9841dce918b0dfc2ee0ac7f53cd769d64f8b712afa674",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-15986448564597-image-85179304116597",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/10203-ECRU-FLAT-WOMENS-COTTON-LIGHTWEIGHT-RIBBED-JUMPER-FRONT.jpg?v=1789624795",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/womens-lightweight-cotton-ribbed-jumper",
+          "sha256": "5a4dab5a9a6aa2400609586ad2e562bc1413479d3b42f06ac783887688c91aea",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-15986113380725-image-85169574969717",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/10221-LIGHT-BLUE-LO-MODEL-WOMENS-LAMBSWOOL-SILK-ROLL-NECK-JUMPER-2.jpg?v=1789562609",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/womens-lambswool-silk-roll-neck-jumper",
+          "sha256": "b77ef71f448ab4f3a5172fb22ead803c2cb49d823841afe11b1ed7fcd7790b41",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-15986113380725-image-85169575002485",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/10221-LIGHT-BLUE-LO-MODEL-WOMENS-LAMBSWOOL-SILK-ROLL-NECK-JUMPER-3.jpg?v=1789562609",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/womens-lambswool-silk-roll-neck-jumper",
+          "sha256": "a4f594aebfb4d05b410d7e167cc4cabcc200478c0c6c941361a86a30fe695cd9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-15986087985525-image-85168767009141",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/10071-ANTHRACITE-M-EL-MODEL-MENS-COTTON-WORKWEAR-GILET-4.jpg?v=1789557188",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/mens-midweight-cotton-workwear-gilet",
+          "sha256": "0213798cca9d64a2ef5fac3b2ce3a16b697fa05a2458bff845390d0e7c0c287c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "pauljames-15986087985525-image-85168766943605",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1181/5370/files/10071-ANTHRACITE-M-EL-MODEL-MENS-COTTON-WORKWEAR-GILET-1.jpg?v=1789557188",
+          "sourceUrl": "https://www.pauljamesknitwear.com/products/mens-midweight-cotton-workwear-gilet",
+          "sha256": "a790d4e3178327d149578561d0a2c7a73b08f43ff4f0c78e9dc0d225dda7ffe2",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "chicsoul",
+      "pages": [
+        {
+          "url": "https://chicsoul.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T20:03:13.014443+00:00",
+          "snapshotSha256": "439eab4b48ababaf7d8a98c9a4ba86d8e14b1e90ad3872f01837784c776597d3",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2010-independent/raw/chicsoul-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "chicsoul-4702558781529-image-33906371166390",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/HopingToLoveYouJacket_MediumWash-3.jpg?v=1759443233",
+          "sourceUrl": "https://chicsoul.com/products/hoping-to-love-you-jacket-medium-wash",
+          "sha256": "9ca1ea6a8a7ce4e814d11fab956b55ef88366f3dad996766392a0ba14960ce43",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-4702558781529-image-33906371133622",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/HopingToLoveYouJacket_MediumWash-5.jpg?v=1753734177",
+          "sourceUrl": "https://chicsoul.com/products/hoping-to-love-you-jacket-medium-wash",
+          "sha256": "1e049110a40808047d8d87a4114b942a98b4474ef829e3fe7ef073382857be15",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-8788645314742-image-41931789533366",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/Takeiteasynowtop_pinkeyelet-8.jpg?v=1779457955",
+          "sourceUrl": "https://chicsoul.com/products/take-it-easy-now-top-pink-eyelet",
+          "sha256": "95c3d3a29d5e7d1ca292e931b3da26edc858cec178e0f94de9bbf98d7d2c10a3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-8788645314742-image-41931789500598",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/Takeiteasynowtop_pinkeyelet-7.jpg?v=1779457955",
+          "sourceUrl": "https://chicsoul.com/products/take-it-easy-now-top-pink-eyelet",
+          "sha256": "b86e820f04e6ed73c0304f66b9ecf6e7576705c0c174cfb9aea473a244c3664e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-8389354193078-image-40112294068406",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/InTheKnowCardigan_Leopard-10.jpg?v=1768582688",
+          "sourceUrl": "https://chicsoul.com/products/in-the-know-cardigan-leopard",
+          "sha256": "dbe42dda2f77bdb1a209d8dca8e2a7793b3ebb344e9d15032b058e7c8dec1bcf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-8389354193078-image-40112294133942",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/InTheKnowCardigan_Leopard-4.jpg?v=1768582688",
+          "sourceUrl": "https://chicsoul.com/products/in-the-know-cardigan-leopard",
+          "sha256": "832e806d5be5b7e398074b9fe976d3cb64dc977e9cae0bf656cb62cef5840d71",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-8798703911094-image-41970417303734",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/spillingsecretsjeans_vintage-10.jpg?v=1779812264",
+          "sourceUrl": "https://chicsoul.com/products/spilling-secrets-jeans-vintage-wash",
+          "sha256": "6e3b90194827f67d91d9973b4e520ca3be0fc9ed323d58d7e19451e7a69b62e9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-8798703911094-image-41970417270966",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/spillingsecretsjeans_vintage-7.jpg?v=1779812264",
+          "sourceUrl": "https://chicsoul.com/products/spilling-secrets-jeans-vintage-wash",
+          "sha256": "95722ef5b514deef541dec9dd538d53e5b8bf3cc0ae7b3a62a5bf398d3454eb4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-7255180345526-image-31371692015798",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/products/WideEyedGazeTop_Aloe.jpg?v=1762455451",
+          "sourceUrl": "https://chicsoul.com/products/wide-eyed-gaze-top-aloe",
+          "sha256": "c37f32114a4e9a57ce387f020c5d4d3351d7936d10c58d19dceeb1dd410287a7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-7255180345526-image-31371692212406",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/products/WideEyedGazeTop_Aloe--3.jpg?v=1739829280",
+          "sourceUrl": "https://chicsoul.com/products/wide-eyed-gaze-top-aloe",
+          "sha256": "48e7a9ba1e6822168a56fb5b9dd730febf9baf614f1e87089325a8695c34eecf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-8895924961462-image-43666907398326",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/Gottodancedress_pinkfloral-15.jpg?v=1789592325",
+          "sourceUrl": "https://chicsoul.com/products/got-to-dance-dress-pink-floral",
+          "sha256": "ba8c6ea5de45a44056ee263c81ac763a26e4a81833d31bf7ad1585fd6bd767ab",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "chicsoul-8895924961462-image-43666907365558",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1303/8939/files/Gottodancedress_pinkfloral-12.jpg?v=1789592325",
+          "sourceUrl": "https://chicsoul.com/products/got-to-dance-dress-pink-floral",
+          "sha256": "fcdfa8d9d8c6701bc1ce24495ca37fb95a0abe32e970e5fb473a9e6c946ff752",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

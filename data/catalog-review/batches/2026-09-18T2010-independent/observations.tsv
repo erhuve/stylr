@@ -1,0 +1,37 @@
+ordinal	view	build	shoulderHip	waist	evidence
+0	partial	2	?	?	Blue shearling-collar bomber over zip knit and dark trousers; masculine casual layers; padded jacket conceals torso contours.
+1	back	?	?	?	Rear view of bomber ensemble; exclude.
+2	partial	2	?	?	Stone utility overshirt over blue zip layer and jeans; masculine workwear styling; layered torso and hand obscure waist.
+3	back	?	?	?	Rear utility-shirt view; exclude.
+4	partial	1.5	?	?	Brown quarter-zip knit with olive trousers; masculine casual ensemble; loose knit hem hides waist and hip transition.
+5	back	?	?	?	Rear quarter-zip view; exclude.
+6	partial	1.5	?	?	Blue zip cardigan over white tee and navy trousers; masculine casual styling; open layers and pocketed hands obscure contours.
+7	back	?	?	?	Rear blue cardigan view; exclude.
+8	detail	?	?	?	Trouser-focused crop removes shoulders and upper torso; exclude detail.
+9	back	?	?	?	Rear trouser crop; exclude.
+10	partial	1.5	?	?	Gray hoodie with navy trousers; neutral basics; bloused hem and pocketed hand conceal waist and hips.
+11	back	?	?	?	Rear hoodie view; exclude.
+12	reject	?	?	?	Tighter crop of seated blue knit ensemble retained more fully at 13; exclude repeated view.
+13	seated	1.5	?	?	Blue crew knit over white collared shirt with tan shorts red socks and hiking boots; masculine casual styling; seated bent pose prevents contour assessment.
+14	reject	?	?	?	Multiple people in train scene with foreground person obscuring outfit; exclude group.
+15	reject	?	?	?	Side seated train scene includes foreground person and obstructed legs; exclude group.
+16	partial	1.5	?	?	Pale pink crew knit with blue jeans; neutral basics; enlarged original shows oblique stance and loose hem so shoulder balance and waist remain unknown.
+17	detail	?	?	?	Close upper-torso crop of knit removes outfit context; exclude detail.
+18	partial	1.5	?	?	Cream crew knit and tan trousers; neutral basics; raised arm and leaning pose distort contours.
+19	detail	?	?	?	Isolated cream sweater without wearer; exclude product.
+20	detail	?	?	?	Tight sweater shoulder and chest crop; exclude detail.
+21	partial	1.5	?	?	Blue turtleneck with dark jeans visible to upper thigh; neutral basics; side stance and bent arm hide frontal contours.
+22	reject	?	?	?	Close crop of gray vest outfit retained full at 23; exclude repeated view.
+23	full	2	?	?	Gray open utility vest black tee olive trousers and brown lace-up shoes; masculine casual ensemble; vest obscures waist and shoulder-to-hip contour.
+24	reject	?	?	?	Repeated denim overshirt ensemble retained full at 25; exclude tighter view.
+25	full	2.5	?	?	Long distressed denim layer over taupe scoop top black fitted pants and heeled ankle boots; feminine ensemble; enlarged image confirms outer layer covers hips and waist.
+26	reject	?	?	?	Repeated pink bow blouse ensemble retained full at 27; exclude tighter view.
+27	full	2.5	?	?	Pink bow-front puff-sleeved peplum blouse with flared jeans and open-toe heels; feminine ensemble; puff shoulders and held-out hem conceal proportions.
+28	reject	?	?	?	Repeated leopard cardigan ensemble retained full at 29; exclude tighter view.
+29	full	2.5	?	?	Leopard cardigan with cropped flared denim and heeled black boots; feminine ensemble; enlarged image shows held hem and loose cardigan obscuring waist and hip boundary.
+30	detail	?	?	?	Shoulderless jeans-focused crop; exclude detail.
+31	detail	?	?	?	Repeated shoulderless jeans-focused crop; exclude detail.
+32	reject	?	?	?	Repeated mint peplum ensemble retained full at 33; exclude tighter view.
+33	full	2.5	?	?	Mint gathered blouse fitted distressed jeans and decorated sandals; feminine ensemble; enlarged image confirms flared loose hem hides waist and upper hip boundary.
+34	full	2.5	?	?	Floral pink pinafore maxi over cream puff-sleeved blouse with tan boots; feminine dress-led outfit; flared skirt hides hips and shaped bodice cannot establish waist indentation.
+35	reject	?	?	?	Same floral pinafore outfit and near-identical pose as 34; exclude repetition.
