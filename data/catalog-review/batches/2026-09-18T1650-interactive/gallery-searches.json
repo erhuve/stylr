@@ -1,0 +1,66 @@
+[
+  {
+    "sourceUrl": "https://fathersonsclothing.com/products/light-grey-jersey-cord-revere-polo-short-sleeve-fsr152",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0423/8761/files/0454753D-9C3B-498D-81B3-DCD7F6E1EEF0.png?v=1789727655",
+    "galleryIndex": 0,
+    "outcome": "initial-gallery-position"
+  },
+  {
+    "sourceUrl": "https://fathersonsclothing.com/products/light-grey-jersey-cord-revere-polo-short-sleeve-fsr152",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0423/8761/files/45028643-5285-4FD7-97B9-01530698DD1D.png?v=1789727616",
+    "galleryIndex": 1,
+    "outcome": "exact-duplicate"
+  },
+  {
+    "sourceUrl": "https://fathersonsclothing.com/products/classic-olive-and-gold-zipped-polo-shirt-fsh1525",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0423/8761/files/82B0D428-8A93-441B-B883-9E78CB368F41.jpg?v=1788979532",
+    "galleryIndex": 0,
+    "outcome": "initial-gallery-position"
+  },
+  {
+    "sourceUrl": "https://www.popflexactive.com/products/crisscross-hourglass-flared-legging-with-pockets-pine",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1089/2102/files/ReleveRibbedShrug_CorsetBra_CCHGFlarewithPocket-Pine_03269-Edit.jpg?v=1762199572",
+    "galleryIndex": 0,
+    "outcome": "initial-gallery-position"
+  },
+  {
+    "sourceUrl": "https://www.popflexactive.com/products/crisscross-hourglass-flared-legging-with-pockets-pine",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1089/2102/files/ReleveRibbedShrug_CorsetBra_CCHGFlarewithPocket-Pine_03236-Edit.jpg?v=1760549141",
+    "galleryIndex": 1,
+    "outcome": "downloaded-unique",
+    "sha256": "1990463660604a8aa3fe94b808752a33e45fae93dfde1204f81a74320756445d"
+  },
+  {
+    "sourceUrl": "https://www.popflexactive.com/products/crisscross-hourglass-flared-legging-with-pockets-pine",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1089/2102/files/ReleveRibbedShrug_CorsetBra_CCHGFlarewithPocket-Pine_03240-Edit.jpg?v=1760549141",
+    "galleryIndex": 2,
+    "outcome": "initial-gallery-position"
+  },
+  {
+    "sourceUrl": "https://www.popflexactive.com/products/crisscross-hourglass-flared-legging-with-pockets-pine",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1089/2102/files/ReleveRibbedShrug_CorsetBra_CCHGFlarewithPocket-Pine_03257-Edit.jpg?v=1760549141",
+    "galleryIndex": 3,
+    "outcome": "downloaded-unique",
+    "sha256": "d88868270d9fc862ffeb2d1dd3e214c7e7567c2a5cfe098e2c99536bc9de072a"
+  },
+  {
+    "sourceUrl": "https://www.popflexactive.com/products/crisscross-hourglass-flared-legging-with-pockets-pine",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1089/2102/files/ReleveRibbedShrug_CorsetBra_CCHGFlarewithPocket-Pine_03247-Edit.jpg?v=1760549141",
+    "galleryIndex": 4,
+    "outcome": "downloaded-unique",
+    "sha256": "9c7a4ae9a698870398974f2fd448b531229d61e2bd76cd98f4ce2fa9d5631372"
+  },
+  {
+    "sourceUrl": "https://www.popflexactive.com/products/crisscross-hourglass-flared-legging-with-pockets-pine",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1089/2102/files/ReleveRibbedShrug_CorsetBra_CCHGFlarewithPocket-Pine_03259-Edit.jpg?v=1760549141",
+    "galleryIndex": 5,
+    "outcome": "downloaded-unique",
+    "sha256": "c42835691b0d1c1fe699e753226e5576b1882b2503e2fdf6dd6c49a49461a6b7"
+  },
+  {
+    "sourceUrl": "https://www.popflexactive.com/products/crisscross-hourglass-flared-legging-with-pockets-pine",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1089/2102/files/ReleveRibbedShrug_CorsetBra_CCHGFlarewithPocket-Pine_03251-Edit.jpg?v=1760549141",
+    "galleryIndex": 6,
+    "outcome": "deferred-gallery-position"
+  }
+]

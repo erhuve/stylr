@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10593,
-  "admittedPhotos": 6963,
-  "totalPhotos": 7348,
+  "reviewedCandidates": 10770,
+  "admittedPhotos": 7004,
+  "totalPhotos": 7389,
   "axisSupport": {
-    "build": 5664,
-    "shoulderHip": 314,
-    "waist": 603
+    "build": 5695,
+    "shoulderHip": 319,
+    "waist": 606
   },
-  "completeReferences": 249,
-  "sourcePages": 6401,
+  "completeReferences": 252,
+  "sourcePages": 6441,
   "excludedReasons": {
-    "non-outfit-view": 3572,
+    "non-outfit-view": 3708,
     "existing-source-page": 58
   },
   "excluded": [
@@ -14532,6 +14532,550 @@
     },
     {
       "id": "curvysense-7680065437793-image-42588413001825",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15983427879285-image-85203155190133",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15982793785717-image-85203051839861",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15982793785717-image-85203052069237",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15976525103477-image-85186807202165",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15982335623541-image-85026302558581",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7432987115603-image-39815394033747",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7432987115603-image-39815394132051",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7389949624403-image-37768395751507",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7689019523155-image-41369495896147",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7662353645651-image-40413064560723",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7662353186899-image-40431923200083",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7647423660115-image-39815031685203",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7432987115603-image-39815393935443",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7432987115603-image-39815393869907",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "popflex-7432987115603-image-39815393968211",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7346424414271-image-31411879903295",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7346424414271-image-31411880624191",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7346424053823-image-31411878953023",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7346424053823-image-31411879739455",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7346423726143-image-31411880886335",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7346423726143-image-31411881607231",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7346423431231-image-31411880394815",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7346423431231-image-31411881377855",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844788371519-image-34226579505215",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844788240447-image-34226580324415",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844788240447-image-34226580389951",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844788109375-image-34226576752703",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844788109375-image-34226576654399",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787421247-image-34226655920191",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787388479-image-34226614534207",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787388479-image-34226614599743",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787355711-image-34226653986879",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787355711-image-34226654085183",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787322943-image-34315048943679",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787322943-image-34315048910911",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787290175-image-34226645925951",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787290175-image-34226646057023",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787257407-image-34226610143295",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7844787257407-image-34226609651775",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7729364336703-image-33482536124479",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7729364336703-image-33482536058943",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7729364074559-image-33482536550463",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7729364074559-image-33482536648767",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7699641892927-image-33230576975935",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7699641892927-image-33230577041471",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7699641860159-image-33230577795135",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7699641860159-image-33230577827903",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7699641827391-image-33230579662911",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7699641827391-image-33230579630143",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7699641794623-image-33230581039167",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7699641794623-image-33230581104703",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7349620441151-image-31499563696191",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "girlfriend-7349620441151-image-31499564154943",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704165941622-image-85149738205558",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704160731510-image-85149720019318",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704160731510-image-85149719953782",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704155324790-image-85149748789622",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704167088502-image-85150021353846",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704152179062-image-84485920653686",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704151720310-image-84984566710646",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704148345206-image-85110309650806",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704148345206-image-85110309683574",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-6929286332519-image-75370290315638",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704158044534-image-85091993125238",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704158044534-image-85091993747830",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704161059190-image-85043853197686",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704161059190-image-85043853033846",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704155455862-image-84485921767798",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704155455862-image-85042330599798",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704151949686-image-84485964398966",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704151949686-image-85042306777462",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704151982454-image-85036529844598",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704150245750-image-84806079971702",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704161321334-image-84984028004726",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704161026422-image-84984069390710",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704160371062-image-84984121229686",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704159420790-image-84984305451382",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704159355254-image-84984325374326",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7673144541262-image-34915995418702",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7411623723086-image-32163519397966",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7673299501134-image-34914867150926",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7673299501134-image-34914867085390",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7663445180494-image-34915354312782",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7673171935310-image-34915002089550",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7673171935310-image-34915002155086",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7673171968078-image-34915158917198",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7788383928398-image-45400787943502",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828361019470-image-56049798545486",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828361019470-image-56049798578254",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828409155662-image-56054635593806",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828409155662-image-56054635561038",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828361674830-image-56049179164750",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828361674830-image-56049179230286",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005266571342-image-55712673431630",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005266571342-image-55712673497166",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005266702414-image-55712743686222",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005266702414-image-55712743718990",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828409253966-image-56055934582862",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828409253966-image-56055934681166",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005267325006-image-55713530282062",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005267325006-image-55713527234638",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005267456078-image-55713818050638",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005267456078-image-55713818116174",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7420417638478-image-34914471280718",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7420417605710-image-34930087985230",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7420417605710-image-34930088050766",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7669820391502-image-56054453829710",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7669820325966-image-34929119330382",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-6781563961422-image-34914660417614",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15982339752309-image-85026275983733",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15982339752309-image-85026276147573",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979302945141-image-85025664041333",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979190092149-image-85025565540725",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979190092149-image-85025565573493",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979276206453-image-85003607245173",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979276206453-image-85003607343477",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979283415413-image-85003567333749",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979283415413-image-85003567530357",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979182817653-image-85003553079669",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979182817653-image-85003557798261",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979175477621-image-85003114774901",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979185602933-image-85002024255861",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979185602933-image-85002121740661",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-11090792847-image-26828601487",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979292524917-image-84987047018869",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979292524917-image-84987046986101",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979305435509-image-84793474318709",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15973636997493-image-84778276094325",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15979268276597-image-84793580945781",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15970152972661-image-84900140089717",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15970152972661-image-84889204457845",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15976499347829-image-84862606770549",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15976500232565-image-33607554760792",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-8098423636056-image-33607554728024",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15942920110453-image-84791071211893",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "fathersons-15942920110453-image-84791071244661",
       "reason": "non-outfit-view"
     }
   ]

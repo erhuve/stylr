@@ -1,0 +1,320 @@
+{
+  "complete": 294,
+  "grid": [
+    {
+      "build": 1,
+      "shoulderHip": -1,
+      "waist": 0,
+      "count": 0
+    },
+    {
+      "build": 1,
+      "shoulderHip": -1,
+      "waist": 1,
+      "count": 0
+    },
+    {
+      "build": 1,
+      "shoulderHip": -1,
+      "waist": 2,
+      "count": 0
+    },
+    {
+      "build": 1,
+      "shoulderHip": 0,
+      "waist": 0,
+      "count": 5
+    },
+    {
+      "build": 1,
+      "shoulderHip": 0,
+      "waist": 1,
+      "count": 98
+    },
+    {
+      "build": 1,
+      "shoulderHip": 0,
+      "waist": 2,
+      "count": 5
+    },
+    {
+      "build": 1,
+      "shoulderHip": 1,
+      "waist": 0,
+      "count": 11
+    },
+    {
+      "build": 1,
+      "shoulderHip": 1,
+      "waist": 1,
+      "count": 6
+    },
+    {
+      "build": 1,
+      "shoulderHip": 1,
+      "waist": 2,
+      "count": 0
+    },
+    {
+      "build": 1.5,
+      "shoulderHip": -1,
+      "waist": 0,
+      "count": 0
+    },
+    {
+      "build": 1.5,
+      "shoulderHip": -1,
+      "waist": 1,
+      "count": 3
+    },
+    {
+      "build": 1.5,
+      "shoulderHip": -1,
+      "waist": 2,
+      "count": 1
+    },
+    {
+      "build": 1.5,
+      "shoulderHip": 0,
+      "waist": 0,
+      "count": 5
+    },
+    {
+      "build": 1.5,
+      "shoulderHip": 0,
+      "waist": 1,
+      "count": 117
+    },
+    {
+      "build": 1.5,
+      "shoulderHip": 0,
+      "waist": 2,
+      "count": 7
+    },
+    {
+      "build": 1.5,
+      "shoulderHip": 1,
+      "waist": 0,
+      "count": 17
+    },
+    {
+      "build": 1.5,
+      "shoulderHip": 1,
+      "waist": 1,
+      "count": 29
+    },
+    {
+      "build": 1.5,
+      "shoulderHip": 1,
+      "waist": 2,
+      "count": 0
+    },
+    {
+      "build": 2,
+      "shoulderHip": -1,
+      "waist": 0,
+      "count": 0
+    },
+    {
+      "build": 2,
+      "shoulderHip": -1,
+      "waist": 1,
+      "count": 24
+    },
+    {
+      "build": 2,
+      "shoulderHip": -1,
+      "waist": 2,
+      "count": 1
+    },
+    {
+      "build": 2,
+      "shoulderHip": 0,
+      "waist": 0,
+      "count": 6
+    },
+    {
+      "build": 2,
+      "shoulderHip": 0,
+      "waist": 1,
+      "count": 128
+    },
+    {
+      "build": 2,
+      "shoulderHip": 0,
+      "waist": 2,
+      "count": 8
+    },
+    {
+      "build": 2,
+      "shoulderHip": 1,
+      "waist": 0,
+      "count": 20
+    },
+    {
+      "build": 2,
+      "shoulderHip": 1,
+      "waist": 1,
+      "count": 35
+    },
+    {
+      "build": 2,
+      "shoulderHip": 1,
+      "waist": 2,
+      "count": 0
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": -1,
+      "waist": 0,
+      "count": 0
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": -1,
+      "waist": 1,
+      "count": 39
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": -1,
+      "waist": 2,
+      "count": 2
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": 0,
+      "waist": 0,
+      "count": 9
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": 0,
+      "waist": 1,
+      "count": 74
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": 0,
+      "waist": 2,
+      "count": 4
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": 1,
+      "waist": 0,
+      "count": 12
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": 1,
+      "waist": 1,
+      "count": 29
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": 1,
+      "waist": 2,
+      "count": 0
+    },
+    {
+      "build": 3,
+      "shoulderHip": -1,
+      "waist": 0,
+      "count": 0
+    },
+    {
+      "build": 3,
+      "shoulderHip": -1,
+      "waist": 1,
+      "count": 36
+    },
+    {
+      "build": 3,
+      "shoulderHip": -1,
+      "waist": 2,
+      "count": 1
+    },
+    {
+      "build": 3,
+      "shoulderHip": 0,
+      "waist": 0,
+      "count": 9
+    },
+    {
+      "build": 3,
+      "shoulderHip": 0,
+      "waist": 1,
+      "count": 55
+    },
+    {
+      "build": 3,
+      "shoulderHip": 0,
+      "waist": 2,
+      "count": 2
+    },
+    {
+      "build": 3,
+      "shoulderHip": 1,
+      "waist": 0,
+      "count": 6
+    },
+    {
+      "build": 3,
+      "shoulderHip": 1,
+      "waist": 1,
+      "count": 6
+    },
+    {
+      "build": 3,
+      "shoulderHip": 1,
+      "waist": 2,
+      "count": 0
+    }
+  ],
+  "improvements": [
+    {
+      "build": 1.5,
+      "shoulderHip": 1,
+      "waist": 1,
+      "count": 29
+    },
+    {
+      "build": 2,
+      "shoulderHip": 0,
+      "waist": 1,
+      "count": 128
+    },
+    {
+      "build": 2,
+      "shoulderHip": 1,
+      "waist": 1,
+      "count": 35
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": 0,
+      "waist": 1,
+      "count": 74
+    },
+    {
+      "build": 2.5,
+      "shoulderHip": 1,
+      "waist": 1,
+      "count": 29
+    },
+    {
+      "build": 3,
+      "shoulderHip": 0,
+      "waist": 1,
+      "count": 55
+    }
+  ],
+  "emptySettings": 12,
+  "benchmark": {
+    "build": 3,
+    "shoulderHip": 0,
+    "waist": 1,
+    "count": 55
+  }
+}

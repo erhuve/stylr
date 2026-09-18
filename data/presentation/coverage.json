@@ -1,28 +1,28 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7348,
-  "reviewedPhotos": 7348,
+  "catalogPhotos": 7389,
+  "reviewedPhotos": 7389,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1229,
-      "percent": 16.7,
-      "sourcePages": 1164,
-      "sourceHosts": 59,
-      "completeReferences": 44,
+      "photos": 1241,
+      "percent": 16.8,
+      "sourcePages": 1176,
+      "sourceHosts": 60,
+      "completeReferences": 46,
       "byBuild": {
         "1": 3,
-        "2": 151,
+        "2": 160,
         "3": 65,
-        "unknown": 375,
-        "2.5": 61,
+        "unknown": 377,
+        "2.5": 62,
         "1.5": 574
       },
       "completeByBuild": {
         "1": 1,
-        "2": 17,
+        "2": 19,
         "3": 3,
         "2.5": 10,
         "1.5": 13
@@ -30,25 +30,25 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4102,
-      "percent": 55.8,
-      "sourcePages": 3658,
-      "sourceHosts": 42,
-      "completeReferences": 148,
+      "photos": 4118,
+      "percent": 55.7,
+      "sourcePages": 3674,
+      "sourceHosts": 44,
+      "completeReferences": 149,
       "byBuild": {
         "1": 27,
-        "2": 395,
+        "2": 397,
         "3": 262,
-        "unknown": 582,
-        "1.5": 2550,
-        "2.5": 286
+        "unknown": 584,
+        "1.5": 2560,
+        "2.5": 288
       },
       "completeByBuild": {
         "1": 7,
         "2": 24,
         "3": 20,
         "1.5": 67,
-        "2.5": 30
+        "2.5": 31
       }
     },
     {
@@ -70,17 +70,17 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1847,
-      "percent": 25.1,
-      "sourcePages": 1722,
-      "sourceHosts": 72,
+      "photos": 1860,
+      "percent": 25.2,
+      "sourcePages": 1735,
+      "sourceHosts": 74,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
-        "2": 159,
+        "2": 161,
         "3": 215,
-        "1.5": 835,
-        "unknown": 519,
+        "1.5": 840,
+        "unknown": 525,
         "2.5": 112
       },
       "completeByBuild": {
@@ -1581,6 +1581,66 @@
       ]
     },
     {
+      "host": "fathersonsclothing.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 9,
+          "percent": 100,
+          "sourcePages": 9,
+          "sourceHosts": 1,
+          "completeReferences": 2,
+          "byBuild": {
+            "2": 8,
+            "2.5": 1
+          },
+          "completeByBuild": {
+            "2": 2
+          }
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
       "host": "finisterre.com",
       "categories": [
         {
@@ -2161,16 +2221,18 @@
         },
         {
           "presentation": "feminine",
-          "photos": 6,
-          "percent": 40,
-          "sourcePages": 6,
+          "photos": 8,
+          "percent": 47.1,
+          "sourcePages": 8,
           "sourceHosts": 1,
-          "completeReferences": 2,
+          "completeReferences": 3,
           "byBuild": {
-            "1.5": 6
+            "1.5": 6,
+            "2.5": 2
           },
           "completeByBuild": {
-            "1.5": 2
+            "1.5": 2,
+            "2.5": 1
           }
         },
         {
@@ -2186,7 +2248,7 @@
         {
           "presentation": "unclear",
           "photos": 9,
-          "percent": 60,
+          "percent": 52.9,
           "sourcePages": 8,
           "sourceHosts": 1,
           "completeReferences": 4,
@@ -2400,7 +2462,7 @@
         {
           "presentation": "masculine",
           "photos": 1,
-          "percent": 2.6,
+          "percent": 1.9,
           "sourcePages": 1,
           "sourceHosts": 1,
           "completeReferences": 0,
@@ -2411,13 +2473,15 @@
         },
         {
           "presentation": "feminine",
-          "photos": 7,
-          "percent": 18.4,
-          "sourcePages": 6,
+          "photos": 12,
+          "percent": 22.6,
+          "sourcePages": 11,
           "sourceHosts": 1,
           "completeReferences": 1,
           "byBuild": {
-            "1.5": 7
+            "2": 1,
+            "1.5": 9,
+            "unknown": 2
           },
           "completeByBuild": {
             "1.5": 1
@@ -2426,7 +2490,7 @@
         {
           "presentation": "mixed-androgynous",
           "photos": 1,
-          "percent": 2.6,
+          "percent": 1.9,
           "sourcePages": 1,
           "sourceHosts": 1,
           "completeReferences": 0,
@@ -2437,17 +2501,17 @@
         },
         {
           "presentation": "unclear",
-          "photos": 29,
-          "percent": 76.3,
-          "sourcePages": 19,
+          "photos": 39,
+          "percent": 73.6,
+          "sourcePages": 29,
           "sourceHosts": 1,
           "completeReferences": 7,
           "byBuild": {
-            "2": 1,
+            "2": 2,
             "3": 3,
-            "1.5": 12,
+            "1.5": 16,
             "2.5": 2,
-            "unknown": 11
+            "unknown": 16
           },
           "completeByBuild": {
             "3": 1,
@@ -3355,6 +3419,66 @@
             "2": 1,
             "3": 1
           }
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "popflexactive.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 5,
+          "percent": 83.3,
+          "sourcePages": 5,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2": 1,
+            "1.5": 4
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 1,
+          "percent": 16.7,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "unknown": 1
+          },
+          "completeByBuild": {}
         },
         {
           "presentation": "unreviewed",
@@ -5102,24 +5226,27 @@
       "categories": [
         {
           "presentation": "masculine",
-          "photos": 2,
-          "percent": 100,
-          "sourcePages": 2,
+          "photos": 5,
+          "percent": 45.5,
+          "sourcePages": 5,
           "sourceHosts": 1,
           "completeReferences": 0,
           "byBuild": {
-            "2": 2
+            "2": 3,
+            "unknown": 2
           },
           "completeByBuild": {}
         },
         {
           "presentation": "feminine",
-          "photos": 0,
-          "percent": 0,
-          "sourcePages": 0,
-          "sourceHosts": 0,
+          "photos": 4,
+          "percent": 36.4,
+          "sourcePages": 4,
+          "sourceHosts": 1,
           "completeReferences": 0,
-          "byBuild": {},
+          "byBuild": {
+            "1.5": 4
+          },
           "completeByBuild": {}
         },
         {
@@ -5134,12 +5261,15 @@
         },
         {
           "presentation": "unclear",
-          "photos": 0,
-          "percent": 0,
-          "sourcePages": 0,
-          "sourceHosts": 0,
+          "photos": 2,
+          "percent": 18.2,
+          "sourcePages": 2,
+          "sourceHosts": 1,
           "completeReferences": 0,
-          "byBuild": {},
+          "byBuild": {
+            "2": 1,
+            "1.5": 1
+          },
           "completeByBuild": {}
         },
         {
