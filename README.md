@@ -8,7 +8,7 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
-Latest September 18 checkpoint: 7,192 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Twenty-four direct Bronson/Big Bud Press reviews add five outfits and three build observations, with no required-body-filter gain. Presentation totals: 1,197 masculine, 4,034 feminine, 168 mixed and 1,793 unclear. The active doubling handoff supersedes historical counts below. Not deployed.
+Latest September 18 checkpoint: 7,198 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Twenty-four direct DUER/Copper Union reviews add six outfits and five build observations, with no required-body-filter gain. Presentation totals: 1,199 masculine, 4,037 feminine, 168 mixed and 1,794 unclear. The active doubling handoff supersedes historical counts below. Not deployed.
 
 September 18 checkpoint: 7,187 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The latest 24 direct reviews add eight outfits and eight build observations, with no required-body-filter gain. Presentation totals: 1,195 masculine, 4,032 feminine, 168 mixed and 1,792 unclear. The active doubling handoff supersedes the historical September 17 counts below. Not deployed.
 

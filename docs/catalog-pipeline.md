@@ -4,7 +4,7 @@
 
 ## From sources to the application
 
-Latest checkpoint: `2026-09-18T0040-targeted` reviews 24 Bronson/Big Bud Press candidates and admits five, reaching 7,192 photos. Complete references remain 291; no required-body-filter gain. All original training bindings remain unchanged. See the active doubling handoff for validation; no deployment. Earlier paragraphs are historical.
+Latest checkpoint: `2026-09-18T0110-targeted` reviews 24 DUER/Copper Union candidates and admits six, reaching 7,198 photos. Complete references remain 291; no required-body-filter gain. All original training bindings remain unchanged. See the active doubling handoff for validation; no deployment. Earlier paragraphs are historical.
 
 Latest checkpoint: `2026-09-18T0010-targeted` reviews 24 Universal Works/Snag candidates and admits eight, reaching 7,187 photos. Complete references remain 291; no required-body-filter gain. Original training bindings are unchanged. See the active doubling handoff for validation; no deployment.
 

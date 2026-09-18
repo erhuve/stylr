@@ -5618,6 +5618,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/checkered-tori-wrap-top",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8708472045790-image-42418916196574",
+      "copperunion-8708472045790-image-42418916229342"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/cloud-pants-copy",
     "source": "copperunion",
     "candidateIds": [
@@ -5744,6 +5758,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/heart-print-terry-overalls",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8720091349214-image-42531884400862",
+      "copperunion-8720091349214-image-42531884433630"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/heather-sweatpants-overalls",
     "source": "copperunion",
     "candidateIds": [
@@ -5794,6 +5822,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0500-inclusive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/joy-ty-dress-copy",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8708470472926-image-42418896404702",
+      "copperunion-8708470472926-image-42418896470238"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -5878,6 +5920,48 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0500-inclusive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/purple-tori-wrap-top",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8708471357662-image-42418911903966",
+      "copperunion-8708471357662-image-42418911969502"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/red-gigi-skirt",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8708473848030-image-42418916327646",
+      "copperunion-8708473848030-image-42418916425950"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/sequin-mushroom-dress",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8679658324190-image-42131189301470",
+      "copperunion-8679658324190-image-42131189334238"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -111680,6 +111764,90 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopduer.com/products/durasoft-fleece-motion-hoodie-cocoa",
+    "source": "duer",
+    "candidateIds": [
+      "duer-7731134038150-image-38858315071622",
+      "duer-7731134038150-image-38858315137158"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopduer.com/products/mens-no-sweat-moleskin-jacket-kelp",
+    "source": "duer",
+    "candidateIds": [
+      "duer-7687341473926-image-38707369934982",
+      "duer-7687341473926-image-38707369967750"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopduer.com/products/mens-no-sweat-moleskin-jacket-stout",
+    "source": "duer",
+    "candidateIds": [
+      "duer-7687341506694-image-38707334119558",
+      "duer-7687341506694-image-38707334185094"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopduer.com/products/mens-no-sweat-moleskin-overshirt-caramel",
+    "source": "duer",
+    "candidateIds": [
+      "duer-7687341572230-image-38707293651078",
+      "duer-7687341572230-image-38707293683846"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopduer.com/products/mens-no-sweat-moleskin-overshirt-chestnut",
+    "source": "duer",
+    "candidateIds": [
+      "duer-7687341604998-image-38707083935878",
+      "duer-7687341604998-image-38707083968646"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shopduer.com/products/mens-no-sweat-moleskin-overshirt-desert-tan",
+    "source": "duer",
+    "candidateIds": [
+      "duer-7687341736070-image-38707268681862",
+      "duer-7687341736070-image-38707268747398"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0110-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

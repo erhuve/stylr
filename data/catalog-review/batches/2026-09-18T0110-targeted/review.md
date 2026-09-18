@@ -1,0 +1,7 @@
+# DUER and Copper Union review
+
+Directly reviewed September 18, 2026 in run `con_jeNN35VTdKyUUmo7`: 24 candidates on two hash-bound sheets, originals 4, 14 and 23 enlarged, and all 39 preceding Copper Union admissions compared on a separate sheet. Six distinct outfits retained: two masculine collared/workwear ensembles, three feminine skirt/dress ensembles and one unclear neutral hoodie outfit. Five apparent-build observations, including three fuller-build views, add no complete three-axis references. All obscured axes remain unknown.
+
+The maintained targeted collector searched DUER and Copper Union, six new product pages each, first/third gallery positions. Two first-page snapshots preserve 413 product decisions, retrieval timestamps, listing/page/image URLs, digests and all download outcomes. DUER is a new independent publisher. Its fronts are useful for clothing but cropped; the repeated shirt/jacket colorways are excluded. Copper Union groups, repeated poses, wrap-top colorways and previously represented overall construction are excluded. No source direction, filename or product size supplied a reviewed label.
+
+Next prioritize alternative full-front collared/workwear galleries at DUER and independent fuller-build publishers; avoid resampling these known views. The remaining 3,744 training candidates retain original ordinals beginning at 1056 and all hashes. No source is declared exhausted. Deployment remains pending. Validation and current totals are recorded in the active doubling handoff.

@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7192/7192; unreviewed: 0.
+Reviewed: 7198/7198; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1197 | 16.6% | 1132 | 40 | 44 |
-| feminine | 4034 | 56.1% | 3592 | 28 | 148 |
+| masculine | 1199 | 16.7% | 1134 | 41 | 44 |
+| feminine | 4037 | 56.1% | 3595 | 28 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1793 | 24.9% | 1668 | 48 | 97 |
+| unclear | 1794 | 24.9% | 1669 | 49 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":138,"3":65,"unknown":365,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":390,"3":243,"unknown":573,"1.5":2528,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| masculine | {"1":3,"2":139,"3":65,"unknown":366,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":390,"3":246,"unknown":573,"1.5":2528,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":213,"1.5":802,"unknown":512,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":213,"1.5":803,"unknown":512,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -40,7 +40,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | bronsonshop.com | 2 | 0 | 0 | 0 | 0 |
 | chubbiesshorts.com | 3 | 0 | 0 | 3 | 0 |
 | chubstr.com | 22 | 0 | 0 | 5 | 0 |
-| copperunionapparel.com | 0 | 27 | 0 | 12 | 0 |
+| copperunionapparel.com | 0 | 30 | 0 | 12 | 0 |
 | dapperboi.com | 3 | 0 | 0 | 8 | 0 |
 | disturbia.co.uk | 0 | 32 | 0 | 5 | 0 |
 | flic.kr | 313 | 2260 | 28 | 596 | 0 |
@@ -63,6 +63,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | punkrave.ch | 13 | 35 | 5 | 7 | 0 |
 | saturdaysnyc.com | 0 | 0 | 0 | 2 | 0 |
 | shinybynature.com | 0 | 77 | 0 | 31 | 0 |
+| shopduer.com | 2 | 0 | 0 | 1 | 0 |
 | shopmyviolet.com | 0 | 137 | 0 | 7 | 0 |
 | snagtights.com | 1 | 228 | 0 | 82 | 0 |
 | stateandliberty.com | 26 | 0 | 0 | 2 | 0 |

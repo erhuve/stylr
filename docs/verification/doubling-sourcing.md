@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,192 photos; 3,020 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,198 photos; 3,014 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: DUER and Copper Union
+
+The 01:05 UTC run directly reviews 24 candidates in `2026-09-18T0110-targeted`: two bound sheets, three enlarged originals and comparison against all 39 prior Copper Union admissions. Six outfits are admitted: two masculine collared/workwear ensembles, three feminine skirt/dress ensembles and one unclear hoodie outfit. Eighteen rear/group/repeated-pose/colorway views are excluded. Five apparent-build observations include three fuller-build views; loose layers, skirt construction, crop and pose prevent complete contour judgments.
+
+Totals: 7,198 photos, 5,663 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear), 54 broader-build benchmark matches. Presentation totals: 1,199 masculine, 4,037 feminine, 168 mixed and 1,794 unclear. All 45 sampled body-filter counts are unchanged. DUER adds an independent publisher. Two bounded first-page listings preserve 413 product decisions. Inventory records 11,669 sampled pages, 42,329 deferred pages, 56 source keys and 63 runs. All 3,744 pending training rows remain byte-identical from original ordinal 1056. Append after this batch; prioritize alternate full-front workwear galleries and independent fuller-build publishers. No deployment.
+
+Preservation passes for all 6,807 prior expansion photo/asset/body records and 7,192 presentation rows, all 6,813 expansion asset hashes, 24 new image bindings, two sheet digests and two listing bindings. Admission replay, complete presentation audit, original-photo image identity, typecheck and library audit without duplicate assets pass. All 131 unit tests pass in one full run (175,348 assertions, 346.22 seconds), including sourcing/import regressions; all 86 browser checks pass (3.5 minutes) using installed Chromium. All 45 sampled body-grid counts agree with the unchanged matcher. Only exact catalog/body/source-group expectations changed; all assertions remain. No checks are pending or failing. Logs remain in the external expansion directory. Remote main is included and personal-discovery is rechecked immediately before push. No deployment.
 
 ## Current continuation: Bronson and Big Bud Press
 

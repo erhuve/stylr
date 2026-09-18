@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9934,
-  "admittedPhotos": 6807,
-  "totalPhotos": 7192,
+  "reviewedCandidates": 9958,
+  "admittedPhotos": 6813,
+  "totalPhotos": 7198,
   "axisSupport": {
-    "build": 5534,
+    "build": 5539,
     "shoulderHip": 311,
     "waist": 602
   },
   "completeReferences": 249,
-  "sourcePages": 6248,
+  "sourcePages": 6254,
   "excludedReasons": {
-    "non-outfit-view": 3069,
+    "non-outfit-view": 3087,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12520,6 +12520,78 @@
     },
     {
       "id": "bigbudpress-11077161615553-image-51053518192833",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "duer-7687341473926-image-38707369967750",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "duer-7687341506694-image-38707334119558",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "duer-7687341506694-image-38707334185094",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "duer-7687341572230-image-38707293683846",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "duer-7687341736070-image-38707268681862",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "duer-7687341736070-image-38707268747398",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "duer-7687341604998-image-38707083935878",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "duer-7687341604998-image-38707083968646",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "duer-7731134038150-image-38858315137158",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8720091349214-image-42531884400862",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8720091349214-image-42531884433630",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8708473848030-image-42418916425950",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8708472045790-image-42418916229342",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8708472045790-image-42418916196574",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8708471357662-image-42418911903966",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8708471357662-image-42418911969502",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8708470472926-image-42418896470238",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "copperunion-8679658324190-image-42131189334238",
       "reason": "non-outfit-view"
     }
   ]
