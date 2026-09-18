@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7230/7230; unreviewed: 0.
+Reviewed: 7234/7234; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | masculine | 1202 | 16.6% | 1137 | 44 | 44 |
-| feminine | 4048 | 56% | 3606 | 31 | 148 |
+| feminine | 4050 | 56% | 3608 | 32 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1812 | 25.1% | 1687 | 55 | 97 |
+| unclear | 1814 | 25.1% | 1689 | 56 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -21,9 +21,9 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
 | masculine | {"1":3,"2":140,"3":65,"unknown":367,"2.5":61,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":390,"3":248,"unknown":577,"1.5":2531,"2.5":275} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| feminine | {"1":27,"2":390,"3":248,"unknown":578,"1.5":2532,"2.5":275} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":213,"1.5":815,"unknown":514,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":213,"1.5":816,"unknown":515,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -31,6 +31,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | Source host | Masculine | Feminine | Mixed | Unclear | Unreviewed |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | acdcrag.com | 1 | 22 | 3 | 19 | 0 |
+| aceandjig.com | 0 | 2 | 0 | 2 | 0 |
 | activetruth.com.au | 0 | 0 | 0 | 2 | 0 |
 | alexmill.com | 1 | 0 | 0 | 7 | 0 |
 | americantall.com | 4 | 0 | 0 | 2 | 0 |

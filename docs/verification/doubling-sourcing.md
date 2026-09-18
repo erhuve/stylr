@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,230 photos; 2,982 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,234 photos; 2,978 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: Ace & Jig and Gitman Vintage
+
+The 04:30 UTC run directly reviews 24 candidates in `2026-09-18T0440-targeted` and `2026-09-18T0445-workwear`, using two bound sheets and two enlarged originals. Four Ace & Jig outfits are admitted: two feminine and two unclear. Eight repeated outfit variants and twelve isolated shirts/cuff details are excluded. Half of the review budget targets collared workwear; no masculine gain is claimed. Mizzen+Main's HTTP 429 remains recorded. The two successful first-page listings preserve all 490 decisions.
+
+Totals: 7,234 photos, 5,690 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear). Presentation totals: 1,202 masculine, 4,050 feminine, 168 mixed and 1,814 unclear. Two new build observations add no complete references or required-body-filter coverage; the broader-build benchmark remains 54. Inventory records 11,739 sampled pages, 43,611 deferred pages, 65 source keys and 75 runs. All 3,744 pending training rows remain byte-identical from original ordinal 1056. Append after `0445-workwear`. Prioritize independent fitted fuller-build separates and actual wearer/editorial collared galleries. Gitman first/third images show products/details; Ace & Jig gathered and layered outfits obscure contours. No deployment.
+
+Validation passes: all 6,845 prior expansion photo/asset/body records and 7,230 presentation rows are preserved; all 6,849 expansion asset digests, 24 candidate image bindings, two sheet digests and two listing snapshots pass. Admission replay, complete presentation audit, original-photo identity, typecheck and library audit pass. All 45 sampled required-body counts are unchanged. All 131 unit checks pass in one run (176,104 assertions, 340.99 seconds), including sourcing regressions and exhaustive catalog sequencing. All 86 browser checks pass in 3.6 minutes, including every catalog image. No checks remain pending or failing. Only exact catalog/body/source-group expectations changed; no assertions or budgets were removed. Logs and the unchanged body grid are retained under external `expansion-2026-09-18T0440-targeted`. Remote main is included; personal-discovery is re-fetched immediately before push. No deployment.
 
 ## Current continuation: Dixxon and Nettle Studios
 

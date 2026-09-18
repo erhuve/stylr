@@ -8,7 +8,7 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
-Latest September 18 checkpoint: 7,230 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate Dixxon/Nettle Studios review adds eight outfits and four build observations, with no required-body-filter gain. Presentation totals: 1,202 masculine, 4,048 feminine, 168 mixed and 1,812 unclear. The active doubling handoff supersedes historical counts below and records validation status. Not deployed.
+Latest September 18 checkpoint: 7,234 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate Ace & Jig/Gitman Vintage review adds four outfits and two build observations, with no required-body-filter gain. Presentation totals: 1,202 masculine, 4,050 feminine, 168 mixed and 1,814 unclear. The active doubling handoff supersedes historical counts below and records validation status. Not deployed.
 
 September 18 checkpoint: 7,187 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The latest 24 direct reviews add eight outfits and eight build observations, with no required-body-filter gain. Presentation totals: 1,195 masculine, 4,032 feminine, 168 mixed and 1,792 unclear. The active doubling handoff supersedes the historical September 17 counts below. Not deployed.
 

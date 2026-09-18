@@ -1,0 +1,194 @@
+[
+  {
+    "id": "aceandjig-8667976335552-image-57776701669568",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-eyeshadow",
+    "localPath": "images/aceandjig-8667976335552-image-57776701669568.webp",
+    "sha256": "b1b9ee6dc54ec25dd74f07a520e3899d1a01968cae5150c24fa4f8fbfaaaabf3",
+    "ordinal": 0,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue checked jacket over red patterned shirt and matching trousers; loose layers, leaning pose and thigh crop obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976335552-image-57776701636800",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-eyeshadow",
+    "localPath": "images/aceandjig-8667976335552-image-57776701636800.webp",
+    "sha256": "3dce4d013ebc898d41ba8718f118a1fc5a00d4fc90fe741aed0d75431fbe0e92",
+    "ordinal": 1,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated outfit and nearby leaning pose from ordinal 0.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976302784-image-57776197566656",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-sandbox",
+    "localPath": "images/aceandjig-8667976302784-image-57776197566656.webp",
+    "sha256": "00e5468f1f2f3666fac54309599e3c888a58025068e2ebd4d8dd94f90262d1c2",
+    "ordinal": 2,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue checked button-front dress with red patterned jacket; loose sleeves and gathered skirt obscure body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976302784-image-57776197599424",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-sandbox",
+    "localPath": "images/aceandjig-8667976302784-image-57776197599424.webp",
+    "sha256": "3808710968f32ce7b41646b954211cf74e5c06702b22eed380f6977c854e320a",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Same checked dress as ordinal 2 with open reversed jacket; repeated outfit styling.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976237248-image-58085851463872",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-love",
+    "localPath": "images/aceandjig-8667976237248-image-58085851463872.webp",
+    "sha256": "1b703020dd8b727c5e1f08e3b066a1d35e60e152383f8af5b4c02e1fec91ae00",
+    "ordinal": 4,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped alternate view of orange checked shirt, red jacket and jeans retained at ordinal 5.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976237248-image-58085851529408",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-love",
+    "localPath": "images/aceandjig-8667976237248-image-58085851529408.webp",
+    "sha256": "e754df22cfb918016acb527d3b2e60e26c733a0620c4c2eb4504a2c91ccddf42",
+    "ordinal": 5,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red patterned short jacket over orange checked shirt, wide blue jeans and orange heeled sandals; enlarged original shows hands and loose jacket obscuring waist and shoulder-to-hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976204480-image-57776739778752",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-vest-eyeshadow",
+    "localPath": "images/aceandjig-8667976204480-image-57776739778752.webp",
+    "sha256": "ff18aa74e75c0479f62bac8d5b3d82ad8cb5a6ea8fc297003fd2ea30f27d8f7e",
+    "ordinal": 6,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped alternate view of checked vest, patterned shirt and jeans retained at ordinal 7.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976204480-image-57776739745984",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-vest-eyeshadow",
+    "localPath": "images/aceandjig-8667976204480-image-57776739745984.webp",
+    "sha256": "f2c38661f0870879750f8b178c811b78a998e50b90d763b3ee5f9394faa09737",
+    "ordinal": 7,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue checked vest over red patterned shirt with wide jeans and bare feet; enlarged original confirms loose layered torso obscures waist and shoulder-to-hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976171712-image-57776789684416",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-vest-sandbox",
+    "localPath": "images/aceandjig-8667976171712-image-57776789684416.webp",
+    "sha256": "d527ff42183fa6610b204495dac571a8db8cd37039dda436d41ed58af438a16c",
+    "ordinal": 8,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue checked dress with red vest; same dress ensemble as ordinal 2 with minor outer-layer variation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976171712-image-57776789618880",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-vest-sandbox",
+    "localPath": "images/aceandjig-8667976171712-image-57776789618880.webp",
+    "sha256": "175c46bddb82a1b55e165114ac55f225475350d3068ddf0d5415d6e7a1ffe1ba",
+    "ordinal": 9,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fuller view of the repeated checked dress and vest from ordinal 8; minor variation of ordinal 2.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976138944-image-58085928566976",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-vest-love",
+    "localPath": "images/aceandjig-8667976138944-image-58085928566976.webp",
+    "sha256": "a416048fa96b291042a6ff1ce8352a2688eed26aaa397402772aa220a1dc4001",
+    "ordinal": 10,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped orange checked dress and red vest; recolor variation of the checked dress ensemble already retained.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "aceandjig-8667976138944-image-58085928534208",
+    "source": "aceandjig",
+    "sourceUrl": "https://aceandjig.com/products/quilted-vest-love",
+    "localPath": "images/aceandjig-8667976138944-image-58085928534208.webp",
+    "sha256": "04b040951583e1af81aacd57b86c5e393ddbd9fb330a2b479d570a2a24226d18",
+    "ordinal": 11,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Full orange checked dress and red vest; repeated dress design/colorway with altered pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

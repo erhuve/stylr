@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10068,
-  "admittedPhotos": 6845,
-  "totalPhotos": 7230,
+  "reviewedCandidates": 10092,
+  "admittedPhotos": 6849,
+  "totalPhotos": 7234,
   "axisSupport": {
-    "build": 5564,
+    "build": 5566,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6286,
+  "sourcePages": 6290,
   "excludedReasons": {
-    "non-outfit-view": 3165,
+    "non-outfit-view": 3185,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12904,6 +12904,86 @@
     },
     {
       "id": "nettlestudios-8269715964022-image-37540172333174",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "aceandjig-8667976335552-image-57776701636800",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "aceandjig-8667976302784-image-57776197599424",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "aceandjig-8667976237248-image-58085851463872",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "aceandjig-8667976204480-image-57776739778752",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "aceandjig-8667976171712-image-57776789684416",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "aceandjig-8667976171712-image-57776789618880",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "aceandjig-8667976138944-image-58085928566976",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "aceandjig-8667976138944-image-58085928534208",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7873544519853-image-35418874806445",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7873544519853-image-35418837352621",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7873523220653-image-35418627309741",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7873523220653-image-35418629275821",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7873521615021-image-35418583171245",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7873521615021-image-35418584776877",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7219209797805-image-32091275755693",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7219209797805-image-35136626458797",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7219209601197-image-32091259076781",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7219209601197-image-35136628719789",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7219209240749-image-32091243839661",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "gitmanvintage-7219209240749-image-35136631308461",
       "reason": "non-outfit-view"
     }
   ]

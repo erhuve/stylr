@@ -1,0 +1,117 @@
+{
+  "retrievedAt": "2026-09-18T04:32:39.877152+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "mizzenandmain",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://mizzenandmain.com/products.json?limit=250&page=1",
+          "error": "429 Client Error: Too Many Requests for url: https://mizzenandmain.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "aceandjig",
+      "pages": [
+        {
+          "url": "https://aceandjig.com/products.json?limit=250&page=1",
+          "products": 240,
+          "retrievedAt": "2026-09-18T04:32:37.989011+00:00",
+          "snapshotSha256": "a9e75898ec1df3646d84f846a592e486e8c3d3d1474c3ab3315ac561af9d8bbd"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "aceandjig-8667976335552-image-57776701669568",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5115.jpg?v=1787160479",
+          "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-eyeshadow",
+          "sha256": "b1b9ee6dc54ec25dd74f07a520e3899d1a01968cae5150c24fa4f8fbfaaaabf3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976335552-image-57776701636800",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5091.jpg?v=1787160519",
+          "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-eyeshadow",
+          "sha256": "3dce4d013ebc898d41ba8718f118a1fc5a00d4fc90fe741aed0d75431fbe0e92",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976302784-image-57776197566656",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5961.jpg?v=1787158733",
+          "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-sandbox",
+          "sha256": "00e5468f1f2f3666fac54309599e3c888a58025068e2ebd4d8dd94f90262d1c2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976302784-image-57776197599424",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5968.jpg?v=1787158777",
+          "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-sandbox",
+          "sha256": "3808710968f32ce7b41646b954211cf74e5c06702b22eed380f6977c854e320a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976237248-image-58085851463872",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF6347_ec768f79-aa47-487d-aba3-fb966d14d5db.jpg?v=1787862779",
+          "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-love",
+          "sha256": "1b703020dd8b727c5e1f08e3b066a1d35e60e152383f8af5b4c02e1fec91ae00",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976237248-image-58085851529408",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF6359_8f8acf2c-4cd2-4324-af5e-ea693e38f5ae.jpg?v=1787862821",
+          "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-love",
+          "sha256": "e754df22cfb918016acb527d3b2e60e26c733a0620c4c2eb4504a2c91ccddf42",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976204480-image-57776739778752",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5279_1e5fe173-7913-4c8a-abe6-f4192709a28c.jpg?v=1787160643",
+          "sourceUrl": "https://aceandjig.com/products/quilted-vest-eyeshadow",
+          "sha256": "ff18aa74e75c0479f62bac8d5b3d82ad8cb5a6ea8fc297003fd2ea30f27d8f7e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976204480-image-57776739745984",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5260.jpg?v=1787160680",
+          "sourceUrl": "https://aceandjig.com/products/quilted-vest-eyeshadow",
+          "sha256": "f2c38661f0870879750f8b178c811b78a998e50b90d763b3ee5f9394faa09737",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976171712-image-57776789684416",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5901.jpg?v=1787160815",
+          "sourceUrl": "https://aceandjig.com/products/quilted-vest-sandbox",
+          "sha256": "d527ff42183fa6610b204495dac571a8db8cd37039dda436d41ed58af438a16c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976171712-image-57776789618880",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5894.jpg?v=1787160864",
+          "sourceUrl": "https://aceandjig.com/products/quilted-vest-sandbox",
+          "sha256": "175c46bddb82a1b55e165114ac55f225475350d3068ddf0d5415d6e7a1ffe1ba",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976138944-image-58085928566976",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF6787_610e6c9d-d8a9-491a-ad13-8d81f1969352.jpg?v=1787862951",
+          "sourceUrl": "https://aceandjig.com/products/quilted-vest-love",
+          "sha256": "a416048fa96b291042a6ff1ce8352a2688eed26aaa397402772aa220a1dc4001",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "aceandjig-8667976138944-image-58085928534208",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF6766_8fdef73c-b40b-4fe3-83f1-c9437a2f12f4.jpg?v=1787862997",
+          "sourceUrl": "https://aceandjig.com/products/quilted-vest-love",
+          "sha256": "04b040951583e1af81aacd57b86c5e393ddbd9fb330a2b479d570a2a24226d18",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

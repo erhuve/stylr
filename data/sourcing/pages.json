@@ -872,6 +872,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-eyeshadow",
+    "source": "aceandjig",
+    "candidateIds": [
+      "aceandjig-8667976335552-image-57776701636800",
+      "aceandjig-8667976335552-image-57776701669568"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0440-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-love",
+    "source": "aceandjig",
+    "candidateIds": [
+      "aceandjig-8667976237248-image-58085851463872",
+      "aceandjig-8667976237248-image-58085851529408"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0440-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-sandbox",
+    "source": "aceandjig",
+    "candidateIds": [
+      "aceandjig-8667976302784-image-57776197566656",
+      "aceandjig-8667976302784-image-57776197599424"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0440-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://aceandjig.com/products/quilted-vest-eyeshadow",
+    "source": "aceandjig",
+    "candidateIds": [
+      "aceandjig-8667976204480-image-57776739745984",
+      "aceandjig-8667976204480-image-57776739778752"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0440-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://aceandjig.com/products/quilted-vest-love",
+    "source": "aceandjig",
+    "candidateIds": [
+      "aceandjig-8667976138944-image-58085928534208",
+      "aceandjig-8667976138944-image-58085928566976"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0440-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://aceandjig.com/products/quilted-vest-sandbox",
+    "source": "aceandjig",
+    "candidateIds": [
+      "aceandjig-8667976171712-image-57776789618880",
+      "aceandjig-8667976171712-image-57776789684416"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0440-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://americantall.com/products/everyday-lightweight-flannel-shirt-in-boreal-forest-houndstooth",
     "source": "americantall",
     "candidateIds": [
@@ -105149,6 +105233,90 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0300-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://gitmanvintage.com/products/black-overdye-oxford-tuxedo-shirt",
+    "source": "gitmanvintage",
+    "candidateIds": [
+      "gitmanvintage-7873521615021-image-35418583171245",
+      "gitmanvintage-7873521615021-image-35418584776877"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0445-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-tuxedo-shirt",
+    "source": "gitmanvintage",
+    "candidateIds": [
+      "gitmanvintage-7873544519853-image-35418837352621",
+      "gitmanvintage-7873544519853-image-35418874806445"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0445-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-work-shirt",
+    "source": "gitmanvintage",
+    "candidateIds": [
+      "gitmanvintage-7219209601197-image-32091259076781",
+      "gitmanvintage-7219209601197-image-35136628719789"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0445-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://gitmanvintage.com/products/dark-denim-work-shirt",
+    "source": "gitmanvintage",
+    "candidateIds": [
+      "gitmanvintage-7219209240749-image-32091243839661",
+      "gitmanvintage-7219209240749-image-35136631308461"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0445-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://gitmanvintage.com/products/hickory-stripe-denim-work-shirt",
+    "source": "gitmanvintage",
+    "candidateIds": [
+      "gitmanvintage-7219209797805-image-32091275755693",
+      "gitmanvintage-7219209797805-image-35136626458797"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0445-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://gitmanvintage.com/products/white-oxford-tuxedo-shirt",
+    "source": "gitmanvintage",
+    "candidateIds": [
+      "gitmanvintage-7873523220653-image-35418627309741",
+      "gitmanvintage-7873523220653-image-35418629275821"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0445-workwear/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,

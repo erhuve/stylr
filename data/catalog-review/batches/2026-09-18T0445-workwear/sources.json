@@ -1,0 +1,105 @@
+{
+  "retrievedAt": "2026-09-18T04:32:55.561585+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "gitmanvintage",
+      "pages": [
+        {
+          "url": "https://gitmanvintage.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T04:32:53.828870+00:00",
+          "snapshotSha256": "a8251f76115f412a0598ee66bcb7055439a5c679bb06d8742b52ea72927ff740"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "gitmanvintage-7873544519853-image-35418874806445",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H606GWF3_41_1.jpg?v=1724110840",
+          "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-tuxedo-shirt",
+          "sha256": "56dfa42bda912164e4dd40503a989a9426ecf894437f1c49ed33a4f4f6181f09",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7873544519853-image-35418837352621",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H606GWF3_41_3.jpg?v=1724110830",
+          "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-tuxedo-shirt",
+          "sha256": "821f1232a191f012fe4ee46c20a5ac293e515445ef7153b22b23118ba24b3eef",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7873523220653-image-35418627309741",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H600GWF3_10_1.jpg?v=1724108021",
+          "sourceUrl": "https://gitmanvintage.com/products/white-oxford-tuxedo-shirt",
+          "sha256": "e3f27516cb24c0df476dfe3db1ec5db7f46e012399c7f01978e985397a6f8a8d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7873523220653-image-35418629275821",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H600GWF3_10_3.jpg?v=1724108132",
+          "sourceUrl": "https://gitmanvintage.com/products/white-oxford-tuxedo-shirt",
+          "sha256": "eb4e1a9b85309fb495703795a9d893346a57f8f12052803ffcdd0de37e714481",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7873521615021-image-35418583171245",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H602GWF3_01_1.jpg?v=1724106794",
+          "sourceUrl": "https://gitmanvintage.com/products/black-overdye-oxford-tuxedo-shirt",
+          "sha256": "bf07cd95f1b0ece74ac95d031b6069eb4f084b068a208439911e40f7fc002bd3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7873521615021-image-35418584776877",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H602GWF3_01_3.jpg?v=1724106825",
+          "sourceUrl": "https://gitmanvintage.com/products/black-overdye-oxford-tuxedo-shirt",
+          "sha256": "7a25c2243997f4373215cbb546f46fc47b4acfac0acc4326612afa7de3b06551",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7219209797805-image-32091275755693",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/products/6D406WS32_41-1.jpg?v=1660661563",
+          "sourceUrl": "https://gitmanvintage.com/products/hickory-stripe-denim-work-shirt",
+          "sha256": "5e761bd460659a0d27499ce4899f1ac0402e6df4e89c45a2725d47e0ae3f3f3f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7219209797805-image-35136626458797",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6A406WS32_41-3.jpg?v=1721346708",
+          "sourceUrl": "https://gitmanvintage.com/products/hickory-stripe-denim-work-shirt",
+          "sha256": "f7126a8af3966c8493f190079f4fb0b9e0c403d02c8b0d46ca305cfbb4f4c9db",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7219209601197-image-32091259076781",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/products/6D407WS32_40-1.jpg?v=1660661439",
+          "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-work-shirt",
+          "sha256": "2c40005d8ebefa3660d24a8aa2d8e6e836af45cd8f78c421ed9d1432b5d7adf8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7219209601197-image-35136628719789",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6A407WS32_40-3.jpg?v=1721346755",
+          "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-work-shirt",
+          "sha256": "7a50ac2bae51aa18830102d01c5a400fce084e5db831427122d1e5e24f3dce15",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7219209240749-image-32091243839661",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/products/6D408WS32_41-1.jpg?v=1660661359",
+          "sourceUrl": "https://gitmanvintage.com/products/dark-denim-work-shirt",
+          "sha256": "c0bfe3a7182925362c23a2c2d6881516a6e36f4232f31b77a327727037c32c43",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "gitmanvintage-7219209240749-image-35136631308461",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6D408WS32_41-3.jpg?v=1721346789",
+          "sourceUrl": "https://gitmanvintage.com/products/dark-denim-work-shirt",
+          "sha256": "02c5c698f2891854ba5622fa77eeda171995ba8443a05ccb1637c74f9f737b51",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

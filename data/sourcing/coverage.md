@@ -7,6 +7,7 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | Source | Sampled pages | Candidate images | Reviewed expansion | Admitted expansion | Complete expansion | Deferred pages |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | acdcrag | 63 | 116 | 73 | 45 | 1 | 143 |
+| aceandjig | 6 | 12 | 12 | 4 | 0 | 187 |
 | activetruth | 30 | 60 | 60 | 2 | 0 | 171 |
 | alexmill | 14 | 22 | 22 | 8 | 0 | 86 |
 | americantall | 20 | 40 | 40 | 6 | 0 | 215 |
@@ -30,6 +31,7 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | foxblood | 108 | 216 | 202 | 156 | 19 | 48 |
 | freshcleantees | 23 | 43 | 43 | 11 | 0 | 51 |
 | girlfriend | 54 | 120 | 120 | 15 | 6 | 31 |
+| gitmanvintage | 6 | 12 | 12 | 0 | 0 | 237 |
 | goodlife | 8 | 16 | 16 | 2 | 0 | 141 |
 | kirrinfinch | 61 | 132 | 91 | 75 | 3 | 0 |
 | lucyandyak | 24 | 48 | 39 | 34 | 8 | 0 |

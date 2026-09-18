@@ -10,6 +10,15 @@
       "deferredPages": 143
     },
     {
+      "source": "aceandjig",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 4,
+      "completeExpansionReferences": 0,
+      "deferredPages": 187
+    },
+    {
       "source": "activetruth",
       "sampledPages": 30,
       "candidateImages": 60,
@@ -215,6 +224,15 @@
       "admittedExpansionPhotos": 15,
       "completeExpansionReferences": 6,
       "deferredPages": 31
+    },
+    {
+      "source": "gitmanvintage",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 0,
+      "completeExpansionReferences": 0,
+      "deferredPages": 237
     },
     {
       "source": "goodlife",
@@ -41014,6 +41032,230 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/0082/9656/2806/files/spumonisepttop-nettlestudios4.jpg?v=1788974489",
               "sourceUrl": "https://nettlestudios.com/products/spumoni-september-top",
               "sha256": "d5960cbf19b75e8c0edbc8b667f743c868a17cb26961c62b8dd0568159ef8098",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0440-targeted/sources.json",
+      "retrievedAt": "2026-09-18T04:32:39.877152+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "mizzenandmain",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://mizzenandmain.com/products.json?limit=250&page=1",
+              "error": "429 Client Error: Too Many Requests for url: https://mizzenandmain.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "aceandjig",
+          "pages": [
+            {
+              "url": "https://aceandjig.com/products.json?limit=250&page=1",
+              "products": 240,
+              "retrievedAt": "2026-09-18T04:32:37.989011+00:00",
+              "snapshotSha256": "a9e75898ec1df3646d84f846a592e486e8c3d3d1474c3ab3315ac561af9d8bbd"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "aceandjig-8667976335552-image-57776701669568",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5115.jpg?v=1787160479",
+              "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-eyeshadow",
+              "sha256": "b1b9ee6dc54ec25dd74f07a520e3899d1a01968cae5150c24fa4f8fbfaaaabf3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976335552-image-57776701636800",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5091.jpg?v=1787160519",
+              "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-eyeshadow",
+              "sha256": "3dce4d013ebc898d41ba8718f118a1fc5a00d4fc90fe741aed0d75431fbe0e92",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976302784-image-57776197566656",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5961.jpg?v=1787158733",
+              "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-sandbox",
+              "sha256": "00e5468f1f2f3666fac54309599e3c888a58025068e2ebd4d8dd94f90262d1c2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976302784-image-57776197599424",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5968.jpg?v=1787158777",
+              "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-sandbox",
+              "sha256": "3808710968f32ce7b41646b954211cf74e5c06702b22eed380f6977c854e320a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976237248-image-58085851463872",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF6347_ec768f79-aa47-487d-aba3-fb966d14d5db.jpg?v=1787862779",
+              "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-love",
+              "sha256": "1b703020dd8b727c5e1f08e3b066a1d35e60e152383f8af5b4c02e1fec91ae00",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976237248-image-58085851529408",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF6359_8f8acf2c-4cd2-4324-af5e-ea693e38f5ae.jpg?v=1787862821",
+              "sourceUrl": "https://aceandjig.com/products/quilted-amara-cardi-love",
+              "sha256": "e754df22cfb918016acb527d3b2e60e26c733a0620c4c2eb4504a2c91ccddf42",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976204480-image-57776739778752",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5279_1e5fe173-7913-4c8a-abe6-f4192709a28c.jpg?v=1787160643",
+              "sourceUrl": "https://aceandjig.com/products/quilted-vest-eyeshadow",
+              "sha256": "ff18aa74e75c0479f62bac8d5b3d82ad8cb5a6ea8fc297003fd2ea30f27d8f7e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976204480-image-57776739745984",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5260.jpg?v=1787160680",
+              "sourceUrl": "https://aceandjig.com/products/quilted-vest-eyeshadow",
+              "sha256": "f2c38661f0870879750f8b178c811b78a998e50b90d763b3ee5f9394faa09737",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976171712-image-57776789684416",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5901.jpg?v=1787160815",
+              "sourceUrl": "https://aceandjig.com/products/quilted-vest-sandbox",
+              "sha256": "d527ff42183fa6610b204495dac571a8db8cd37039dda436d41ed58af438a16c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976171712-image-57776789618880",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF5894.jpg?v=1787160864",
+              "sourceUrl": "https://aceandjig.com/products/quilted-vest-sandbox",
+              "sha256": "175c46bddb82a1b55e165114ac55f225475350d3068ddf0d5415d6e7a1ffe1ba",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976138944-image-58085928566976",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF6787_610e6c9d-d8a9-491a-ad13-8d81f1969352.jpg?v=1787862951",
+              "sourceUrl": "https://aceandjig.com/products/quilted-vest-love",
+              "sha256": "a416048fa96b291042a6ff1ce8352a2688eed26aaa397402772aa220a1dc4001",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "aceandjig-8667976138944-image-58085928534208",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0413/0981/files/DSCF6766_8fdef73c-b40b-4fe3-83f1-c9437a2f12f4.jpg?v=1787862997",
+              "sourceUrl": "https://aceandjig.com/products/quilted-vest-love",
+              "sha256": "04b040951583e1af81aacd57b86c5e393ddbd9fb330a2b479d570a2a24226d18",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0445-workwear/sources.json",
+      "retrievedAt": "2026-09-18T04:32:55.561585+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "gitmanvintage",
+          "pages": [
+            {
+              "url": "https://gitmanvintage.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T04:32:53.828870+00:00",
+              "snapshotSha256": "a8251f76115f412a0598ee66bcb7055439a5c679bb06d8742b52ea72927ff740"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "gitmanvintage-7873544519853-image-35418874806445",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H606GWF3_41_1.jpg?v=1724110840",
+              "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-tuxedo-shirt",
+              "sha256": "56dfa42bda912164e4dd40503a989a9426ecf894437f1c49ed33a4f4f6181f09",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7873544519853-image-35418837352621",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H606GWF3_41_3.jpg?v=1724110830",
+              "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-tuxedo-shirt",
+              "sha256": "821f1232a191f012fe4ee46c20a5ac293e515445ef7153b22b23118ba24b3eef",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7873523220653-image-35418627309741",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H600GWF3_10_1.jpg?v=1724108021",
+              "sourceUrl": "https://gitmanvintage.com/products/white-oxford-tuxedo-shirt",
+              "sha256": "e3f27516cb24c0df476dfe3db1ec5db7f46e012399c7f01978e985397a6f8a8d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7873523220653-image-35418629275821",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H600GWF3_10_3.jpg?v=1724108132",
+              "sourceUrl": "https://gitmanvintage.com/products/white-oxford-tuxedo-shirt",
+              "sha256": "eb4e1a9b85309fb495703795a9d893346a57f8f12052803ffcdd0de37e714481",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7873521615021-image-35418583171245",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H602GWF3_01_1.jpg?v=1724106794",
+              "sourceUrl": "https://gitmanvintage.com/products/black-overdye-oxford-tuxedo-shirt",
+              "sha256": "bf07cd95f1b0ece74ac95d031b6069eb4f084b068a208439911e40f7fc002bd3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7873521615021-image-35418584776877",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6H602GWF3_01_3.jpg?v=1724106825",
+              "sourceUrl": "https://gitmanvintage.com/products/black-overdye-oxford-tuxedo-shirt",
+              "sha256": "7a25c2243997f4373215cbb546f46fc47b4acfac0acc4326612afa7de3b06551",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7219209797805-image-32091275755693",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/products/6D406WS32_41-1.jpg?v=1660661563",
+              "sourceUrl": "https://gitmanvintage.com/products/hickory-stripe-denim-work-shirt",
+              "sha256": "5e761bd460659a0d27499ce4899f1ac0402e6df4e89c45a2725d47e0ae3f3f3f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7219209797805-image-35136626458797",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6A406WS32_41-3.jpg?v=1721346708",
+              "sourceUrl": "https://gitmanvintage.com/products/hickory-stripe-denim-work-shirt",
+              "sha256": "f7126a8af3966c8493f190079f4fb0b9e0c403d02c8b0d46ca305cfbb4f4c9db",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7219209601197-image-32091259076781",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/products/6D407WS32_40-1.jpg?v=1660661439",
+              "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-work-shirt",
+              "sha256": "2c40005d8ebefa3660d24a8aa2d8e6e836af45cd8f78c421ed9d1432b5d7adf8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7219209601197-image-35136628719789",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6A407WS32_40-3.jpg?v=1721346755",
+              "sourceUrl": "https://gitmanvintage.com/products/classic-chambray-work-shirt",
+              "sha256": "7a50ac2bae51aa18830102d01c5a400fce084e5db831427122d1e5e24f3dce15",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7219209240749-image-32091243839661",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/products/6D408WS32_41-1.jpg?v=1660661359",
+              "sourceUrl": "https://gitmanvintage.com/products/dark-denim-work-shirt",
+              "sha256": "c0bfe3a7182925362c23a2c2d6881516a6e36f4232f31b77a327727037c32c43",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "gitmanvintage-7219209240749-image-35136631308461",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0216/7184/files/6D408WS32_41-3.jpg?v=1721346789",
+              "sourceUrl": "https://gitmanvintage.com/products/dark-denim-work-shirt",
+              "sha256": "02c5c698f2891854ba5622fa77eeda171995ba8443a05ccb1637c74f9f737b51",
               "outcome": "downloaded-unique"
             }
           ],
