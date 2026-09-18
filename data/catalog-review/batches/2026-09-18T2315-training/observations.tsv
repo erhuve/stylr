@@ -1,0 +1,241 @@
+ordinal	view	build	shoulderHip	waist	presentation	evidence
+0	full	1.5	?	?	D	White flared dress and dark belt; flare hides hips.
+1	full	1.5	?	?	F	White cropped top and shorts with tall boots; leaning pose hides axes.
+2	full	1.5	?	?	D	Black tunic dress with cream scarf and boots; loose torso hides contours.
+3	reject	?	?	?	D	Repeated black tunic and scarf ensemble from 1058.
+4	full	1.5	?	?	D	White asymmetric dress with heels; moving drape hides contours.
+5	back	?	?	?	F	Rear-facing cream blouse and brown shorts.
+6	full	1.5	?	?	D	Floral maxi dress with raised knee; pose and skirt hide axes.
+7	full	1.5	?	?	D	Tan patterned maxi dress; raised arms and loose skirt hide axes.
+8	reject	?	?	?	D	Repeated tan maxi dress from 1063.
+9	full	1.5	?	?	F	Black blazer over blouse and shorts with boots; layers hide contours.
+10	full	1.5	?	?	D	White lace short dress and yellow scarf; loose cut hides waist and hips.
+11	seated	1.5	?	?	D	Floral dress and hat on swing; seated pose hides proportions.
+12	full	2	?	?	U	Black sleeveless jumpsuit; angled hip and crossed legs limit comparison.
+13	partial	?	?	?	U	Dark blazer portrait with crossed arms; covered torso and crop.
+14	reject	?	?	?	U	Near-monochrome close leather-jacket portrait, insufficient outfit view.
+15	back	?	?	?	F	Rear-facing black peplum top and trousers.
+16	full	1.5	?	?	U	Burgundy blazer and dark jeans; outer layers obscure axes.
+17	full	1.5	?	?	F	White tank, fitted blue jeans and heels; enlarged view confirms turned torso and hand obscure frontal axes.
+18	full	1.5	?	?	U	Dark layered shirt and loose trousers; layers hide waist and hips.
+19	full	1.5	?	?	D	Multicolored fitted maxi dress and boots; angled pose and skirt hide comparison.
+20	reject	?	?	?	U	Open blouse and underwear-oriented portrait; not an outfit reference.
+21	partial	1.5	?	?	D	Black lace-bodice dress portrait; gathered skirt and crop conceal hips.
+22	full	1.5	?	?	D	Burgundy sweater, short dark skirt and long socks; loose layers obscure contours.
+23	full	1.5	?	?	D	Cream flared dress with patterned scarf and heels; skirt hides hips.
+24	partial	?	?	?	U	Reclining dark jacket and white top; pose and layers obscure build.
+25	partial	1.5	?	?	F	Red patterned loose belted tunic; gathered cloth hides axes.
+26	full	1.5	?	?	D	Dark dress and red heels beside car; lean and flare hide contours.
+27	partial	1.5	0	1	D	Fitted strapless black mini dress; enlarged frontal view supports smaller-intermediate build, balanced shoulders and hips, moderate waist indentation.
+28	full	1.5	?	?	D	Black short flared dress and heels; gathered skirt hides hips.
+29	full	1.5	?	?	D	Turquoise belted short dress; lifted bent leg and arms hide axes.
+30	full	1.5	?	?	D	Blue patterned maxi dress; long loose skirt hides hips.
+31	full	1.5	?	?	U	Dark jacket with fitted jeans and boots; crossed legs and layers obscure axes.
+32	full	1.5	?	?	D	Black sleeveless shift with cream trim; loose cut and lean hide contours.
+33	full	2	?	?	D	Red short-sleeve knee dress; loose silhouette hides waist and hips.
+34	full	2	0	1	D	Light patterned sleeveless fitted dress; enlarged frontal view supports intermediate build, balanced shoulders and hips, moderate waist indentation.
+35	reject	?	?	?	F	Multiple foreground people around a car; ambiguous subject grouping.
+36	back	?	?	?	D	Rear view of green dress.
+37	full	1.5	?	?	D	Pink short dress with dark jacket walking; distance and layers obscure axes.
+38	partial	1.5	?	?	D	White and blue floral mini dress; raised arms and flared skirt obscure axes.
+39	full	1.5	?	?	F	Black jacket, patterned top, pink skirt and fishnet tights; layers conceal contours.
+40	full	1.5	?	?	D	Blue high-low dress; flowing skirt hides hips.
+41	partial	1.5	?	?	D	Dark floral short dress in turned pose; hands and skirt obscure axes.
+42	full	1.5	?	?	U	Bright pink jacket and dark trousers; covered torso hides contours.
+43	partial	?	?	?	U	Patterned high-collar jacket portrait; crop and thick layers conceal build.
+44	full	1.5	?	?	D	Gray sleeveless shift and heels; loose straight cut hides waist.
+45	reject	?	?	?	D	Crouched alternate of blue floral dress from 1094.
+46	full	2	?	?	U	Gray tee and pale shorts in profile; side pose prevents frontal comparison.
+47	partial	?	?	?	U	Leaning black leather jacket portrait; arms and rail obscure torso.
+48	full	1.5	?	?	U	Red jacket and bright blue jeans; raised arms and layers obscure axes.
+49	full	1.5	?	?	U	White top and dark trousers in distant backlit profile; axes unclear.
+50	full	1.5	?	?	F	White collared blouse, dark fitted trousers and heels; crossed arm and legs obscure axes.
+51	back	?	?	?	D	Rear-facing patterned short dress by stream.
+52	full	1.5	?	?	F	Dark sleeveless top and patterned shorts; dark torso and distance hide contours.
+53	full	1.5	?	?	F	Bright floral blouse, dark short skirt and heels; blouse hides waist.
+54	partial	1.5	?	?	F	Black cropped lace top and flared dark skirt; crop and flare hide hips.
+55	seated	1.5	?	?	U	Black cropped tee and denim shorts kneeling on beach; pose obscures axes.
+56	full	1.5	?	?	F	Turquoise lace top, gray shorts and heels; arms overhead change torso contours.
+57	reject	?	?	?	F	Seated alternate of turquoise top and gray shorts from 1112.
+58	seated	1.5	?	?	F	White blouse and pink skirt with dark heels; seated pose and skirt obscure axes.
+59	full	1.5	?	?	F	Gray sweatshirt, floral short skirt and red heels; loose torso hides waist.
+60	full	1.5	?	?	U	Light long-sleeved blouse and patterned shorts; straight drape hides waist.
+61	reject	?	?	?	U	Underwear and stocking-oriented low-angle portrait excluded.
+62	full	1.5	?	?	F	Brown blouse, dark shorts, hat and heeled ankle shoes; blouse hides waist.
+63	full	1.5	?	?	D	Polka-dot blouse, short flared skirt and red flats; flare hides hips.
+64	back	?	?	?	F	Rear-facing black top and gold shorts.
+65	partial	2	?	1	F	Striped cropped top, white vest and mint shorts; enlarged exposed torso supports moderate waist indentation; vest and hair obscure shoulder comparison.
+66	reject	?	?	?	F	Alternate angled view of mint shorts and white vest from 1121.
+67	reject	?	?	?	F	Alternate leaning view of mint shorts ensemble from 1121.
+68	full	2	?	?	F	Graphic cream tank, denim shorts and strappy heels; tank obscures waist.
+69	reject	?	?	?	F	Repeated graphic tank and denim shorts from 1124.
+70	full	1.5	?	?	D	Loose white dress and red heels crossing street; drape obscures axes.
+71	reject	?	?	?	D	Repeated white dress from 1126.
+72	seated	2	?	?	U	Pink knit top and blue jeans on steps; seated pose obscures proportions.
+73	full	1.5	?	?	U	White top, dark trousers and hat; loose top and distant view obscure axes.
+74	full	1.5	?	?	F	Pink blouse and black short skirt with heels; loose blouse hides waist.
+75	full	1.5	?	?	D	White top and pleated black skirt; raised arms and flare obscure axes.
+76	full	1.5	?	?	U	Gray graphic sweater, dark shorts and boots; loose sweater hides contours.
+77	partial	1.5	?	?	U	Coral coat, pale trousers and scarf; coat covers torso.
+78	seated	1.5	?	?	U	Dark sleeveless top, dark trousers and red shoes in crouch; pose hides axes.
+79	seated	1.5	?	?	U	Blue cropped top and dark trousers kneeling; pose hides frontal proportions.
+80	seated	1.5	?	?	U	Dark sleeveless outfit seated on bench; bent limbs obscure axes.
+81	seated	1.5	?	?	F	Dark cropped top and patterned skirt leaning on stool; pose hides contours.
+82	full	1.5	?	?	D	Striped sleeveless maxi dress and heels; profile and flowing skirt hide axes.
+83	seated	1.5	?	?	U	White oversized shirt dress with sneakers seated on floor; drape and pose hide contours.
+84	full	1.5	?	?	D	Cream gathered mini dress and fluffy shoulder wrap; structured skirt hides hips.
+85	full	1.5	?	?	D	Pale turquoise flowing gown; gathered skirt hides hip outline.
+86	full	1.5	?	?	D	Black lace-bodice long dress; skirt hides hips.
+87	seated	1.5	?	?	D	Loose white dress and ankle boots seated on floor; pose hides axes.
+88	seated	1.5	?	?	U	Gray raglan graphic top and dark jeans with burgundy sneakers; curled pose hides axes.
+89	seated	1.5	?	?	D	Black sleeveless dress and heels on chair; wide seated pose hides axes.
+90	seated	1.5	?	?	D	Off-shoulder dark dress and heels leaning on bench; pose obscures contours.
+91	partial	?	?	?	U	Oversized orange sweatshirt dress; silhouette and raised arms conceal build.
+92	partial	1.5	?	?	D	Turquoise flowing dress under colored light; raised arms and drape obscure axes.
+93	seated	1.5	?	?	F	Patterned blouse, dark shorts and gold shoes reclining; pose obscures contours.
+94	full	1.5	?	?	U	Long striped vest, blue shirt, dark trousers and hat; layers obscure axes.
+95	full	1.5	?	?	U	Pale belted jacket, dark trousers and boots; outerwear conceals contours.
+96	full	1.5	?	?	D	Blue loose button-front dress and flats; drape hides waist.
+97	full	1.5	?	?	D	Gray cardigan and dark striped skirt with boots; layers hide contours.
+98	partial	1.5	?	?	U	Pale coat and patterned scarf over blue separates; layers hide axes.
+99	full	1.5	?	?	U	Gray long vest over yellow sleeves and gray trousers; vest hides torso.
+100	full	1.5	?	?	U	Tan coat and yellow scarf with gray jeans and hat; layers conceal axes.
+101	full	1.5	?	?	D	Gray top, dark long skirt and patterned shawl; layers obscure contours.
+102	reject	?	?	?	U	Close gray-vest variation duplicates outerwear evidence from 1155.
+103	full	1.5	?	?	D	Burgundy dress with floral long cardigan and heels; outer layer hides axes.
+104	seated	1.5	?	?	D	Black trench-style dress and strappy heels seated; pose hides contours.
+105	seated	1.5	?	?	D	Burgundy sleeveless dress on sofa; dark seated view hides axes.
+106	seated	1.5	?	?	F	Mustard cardigan over light short outfit and tall tan boots; seated pose hides axes.
+107	full	2	?	?	U	Gray furry vest over black shirt and trousers; thick vest hides torso.
+108	partial	1.5	?	?	U	White blouse and blue jeans in profile; side view hides frontal axes.
+109	seated	2	?	?	U	Printed sleeveless top and ripped jeans riding bicycle; lean and handlebars obscure axes.
+110	back	?	?	?	U	Rear-facing lilac tee and plaid wide trousers.
+111	seated	1.5	?	?	U	Multicolored loose tank and shorts leaning on branch; pose and drape hide axes.
+112	seated	1.5	?	?	U	Black graphic tee and patterned trousers by skateboard; seated pose hides axes.
+113	full	?	?	?	U	Oversized patterned coat over black trousers; coat obscures build.
+114	seated	1.5	?	?	U	Black tank and striped trousers sitting on sand; pose hides contours.
+115	back	?	?	?	F	Rear-angled pale top, shorts and tall boots.
+116	reject	?	?	?	D	Overlapping foreground people in street; no isolated outfit subject.
+117	full	1.5	?	?	D	Dark short dress and pale jacket outside shop; distance and layers hide axes.
+118	full	1.5	?	?	D	Gray sleeveless fitted mini dress in profile; side view prevents frontal axes.
+119	partial	1.5	?	?	D	Yellow floral dress and pink cardigan; skirt and layers hide hips.
+120	partial	?	?	?	U	Pink furry jacket seated behind table; bulk and occlusion conceal build.
+121	full	1.5	?	?	U	Light loose tee and gray fitted trousers; distant pose and top hide contours.
+122	partial	?	?	?	U	Pale patterned jacket and scarf portrait; thick layers obscure build.
+123	full	1.5	?	?	D	Red loose mini dress at night; dark moving scene hides axes.
+124	full	1.5	?	?	U	Black short-sleeve top and patterned trousers; crossed legs and pocketed hand hide hip comparison.
+125	full	2	?	?	D	Pink and green floral knee dress; skirt obscures hip outline.
+126	full	2	?	?	U	Pink satin jacket, black trousers and sneakers; jacket conceals waist.
+127	partial	2	?	?	U	Black tee and green trousers; loose tucked fabric hides waist.
+128	full	2.5	?	?	U	Colorful floral jumpsuit; angled hands-on-hips pose and loose legs limit axes.
+129	full	1.5	?	?	D	Dark green sleeveless dress held outward; lifted skirt obscures hips.
+130	full	1.5	?	?	D	Bright floral shift and blue slides; loose straight dress hides waist.
+131	partial	1.5	?	?	F	Gray jacket, graphic top and black short skirt; outerwear hides contours.
+132	full	1.5	?	?	C	Black button-front shirt and dark trousers; paper and loose shirt hide waist.
+133	partial	?	?	?	F	Thick gray knit shawl and patterned skirt; torso is obscured.
+134	partial	?	?	?	U	Black coat and bright red bag in close side view; layers obscure build.
+135	full	2.5	?	?	U	Red sleeveless loose top and white trousers; top flares over waist and hips.
+136	partial	1.5	?	?	F	Pink pleated sleeveless separates; layered drape hides waist.
+137	partial	1.5	?	?	U	Black leather jacket and shorts walking in profile; side pose hides axes.
+138	partial	2.5	?	?	F	Fitted black jacket and pencil skirt in profile; frontal axes unavailable.
+139	full	1.5	?	?	D	White double-breasted short dress, pale jacket and dotted tights; layers hide contours.
+140	full	1.5	?	?	D	Pale blue belted coat dress and heels beside car; turned pose hides axes.
+141	full	2	?	?	D	Lilac belted short dress; raised phone and straight skirt hide contours.
+142	full	1.5	?	?	U	Oversized pale sweatshirt, dark shorts and boots; loose top hides torso.
+143	back	?	?	?	F	Rear view of pink furry jacket and dark skirt.
+144	back	?	?	?	U	Rear-facing seated suspenders and shorts outfit.
+145	full	1.5	?	?	U	Black leather jacket, graphic tee and dark jeans; jacket hides waist.
+146	seated	1.5	?	?	U	Red jacket, black top, denim shorts and striped socks seated; pose hides axes.
+147	full	1.5	?	?	U	Blue jacket, pale blouse and dark trousers; arms extended and layers obscure contours.
+148	back	?	?	?	D	Rear view of fitted black dress.
+149	back	?	?	?	U	Rear-angled checked coat and black trousers.
+150	partial	1.5	?	?	D	Green utility jacket, scarf and pink skirt; torso obscured by layers.
+151	seated	1.5	?	?	U	Loose white tee and shorts seated by tracks; pose hides axes.
+152	partial	1.5	?	?	U	Dark jacket, gray graphic tee and dark shorts; layers and shadows hide contours.
+153	partial	1.5	?	?	U	Gray ribbed sweater and jeans in profile; crossed arm hides waist.
+154	seated	1.5	?	?	U	Pale athletic tee and gray leggings crouched over barbell; pose prevents axes.
+155	partial	1.5	?	?	F	Red cropped top, floral open layer and denim shorts; layered sides obscure comparison.
+156	full	1.5	?	?	D	Bright floral flared dress, red cardigan and pink tights; skirt hides hips.
+157	full	1.5	?	?	D	Tan jacket over pleated dress and fishnet tights; layers obscure contours.
+158	reject	?	?	?	U	Seated alternate gym outfit from 1210.
+159	full	2	?	?	U	White blouse and wide black trousers; loose blouse and trousers obscure axes.
+160	partial	1.5	?	?	U	Denim jacket, striped top and white jeans; jacket hides waist.
+161	seated	1.5	?	?	U	Pale blue sleeveless top and denim shorts seated on floor; pose hides axes.
+162	partial	1.5	?	?	D	Blue pinafore over yellow blouse; flared skirt hides hips.
+163	partial	1.5	?	?	F	Olive lace-up sleeveless top and dark jeans; angled lean limits contours.
+164	seated	2	?	?	U	Yellow cardigan, blue patterned shirt and dark shorts crouching; pose hides axes.
+165	reject	?	?	?	U	Open-shirt bare-torso portrait; incomplete outfit reference.
+166	seated	2	?	?	D	Black strapless dress and sandals seated on ledge; pose hides contours.
+167	reject	?	?	?	F	Seated alternate olive top and dark jeans from 1219.
+168	partial	1.5	?	?	D	Pale floral short dress and brown bag; bag and loose skirt hide hips.
+169	reject	?	?	?	D	Repeated floral dress and bag from 1224.
+170	reject	?	?	?	D	Seated alternate floral dress from 1224.
+171	partial	1.5	?	?	U	Gray fitted blazer and beige trousers with red bag; jacket conceals body contours.
+172	partial	1.5	?	?	U	Patterned sleeveless top and dark skirt in field; loose top and crop hide axes.
+173	reject	?	?	?	U	Seated alternate white shirt and jeans; retain clearer standing 1230.
+174	partial	1.5	?	?	U	White shirt and blue jeans leaning with bent knee; loose shirt hides waist.
+175	back	?	?	?	U	Rear-facing patterned top and dark trousers at temple.
+176	full	2	?	?	D	Pale printed knee dress and sandals; crossed legs and dress drape obscure axes.
+177	full	1.5	?	?	U	Dark blazer and white trousers crossing street; layers obscure contours.
+178	partial	1.5	?	?	D	Pale green loose long-sleeved short dress; drape hides waist and hips.
+179	partial	1.5	?	?	F	Coral blouse and white floral shorts; loose blouse hides waist.
+180	partial	1.5	?	?	D	Red lace short dress and tall black boots; flared skirt hides hips.
+181	partial	1.5	?	?	U	Olive fitted tank and black athletic shorts; walking angle limits frontal comparison.
+182	full	2	?	?	F	Floral jacket and dark pencil skirt; outer layer obscures axes.
+183	seated	1.5	?	?	F	Blue sleeveless outfit and tall lace-up boots seated on step; pose hides proportions.
+184	reject	?	?	?	F	Close alternate white lace top and blue trousers; retain 1244.
+185	seated	1.5	?	?	D	Long-sleeve patterned dress on bench; seated pose hides contours.
+186	full	1.5	?	?	D	Off-shoulder patterned knee dress and boots; loose skirt hides hips.
+187	reject	?	?	?	D	Close alternate of patterned dress from 1242.
+188	partial	1.5	?	?	F	White lace sleeveless top and bright blue trousers; bag and loose hem hide contours.
+189	seated	1.5	?	?	U	Rust knit sweater and dark trousers on rocks; seated pose hides axes.
+190	partial	2	?	?	U	Black cropped top, fallen denim jacket and athletic trousers; arms and jacket obscure contours.
+191	full	1.5	?	?	U	Long blue jacket and wide blue trousers over tan top; loose layers hide axes.
+192	full	2	?	?	D	Teal sleeveless patterned dress; turned pose and skirt obscure axes.
+193	full	1.5	?	?	D	Yellow jacket and black short dress; jacket hides torso.
+194	partial	1.5	?	?	U	Black sleeveless top and shorts with red sweatshirt tied at waist; knot obscures contours.
+195	full	2	?	?	D	Colorful open coat, cropped white top and denim midi skirt; layers and skirt hide axes.
+196	full	?	?	?	D	Oversized geometric sleeveless dress; wide straight drape obscures build.
+197	full	1.5	?	?	D	Floral short dress and heels walking in profile; pose hides axes.
+198	full	2	?	1	D	Black geometric fitted midi dress; enlarged view supports moderate waist indentation; turned hip and crossed legs leave shoulder-hip comparison unknown.
+199	full	1.5	?	?	U	Red sweatshirt, denim shorts and striped knee socks; loose top hides waist.
+200	partial	2	?	?	D	Gray tee and pink tulle skirt; skirt flare hides hips.
+201	partial	?	?	?	U	Dark jacket and backpack in distant side crop; torso obscured.
+202	back	?	?	?	U	Rear-angled hoodie and dark shorts.
+203	partial	1.5	?	?	U	Blue plaid shirt and dark shorts; loose shirt hides waist.
+204	partial	2	?	?	U	Bright patterned tee and dark jeans; crossed arms obscure torso.
+205	full	2	?	?	D	Gray utility coat over red dress and tights; outer layer hides contours.
+206	full	1.5	?	?	U	Denim jacket and wide jeans with tan top; loose layers obscure axes.
+207	full	1.5	?	?	D	Yellow patterned long-sleeve midi dress; loose skirt hides hips.
+208	partial	?	?	?	U	Red loose coat and gray cap in profile; outerwear hides build.
+209	full	2	?	?	D	Pale embroidered top and floral midi skirt with heels; skirt hides hip shape.
+210	partial	1.5	?	?	F	Black cropped top, metallic skirt and tall boots; walking angle limits comparison.
+211	reject	?	?	?	U	Alternate raised-arm plaid-shirt outfit from 1259.
+212	full	1.5	?	?	U	Light graphic tee, patterned shorts and dark shoes; loose top obscures contours.
+213	seated	1.5	?	?	D	Yellow dress and dark tights seated on stairs; pose hides axes.
+214	detail	?	?	?	U	Face and folded forearms dominate close portrait; insufficient outfit.
+215	partial	1.5	?	?	U	Burgundy top and shorts in forward lean; pose hides axes.
+216	partial	1.5	?	?	D	Burgundy dotted top and black skirt; forward lean and skirt hide contours.
+217	reject	?	?	?	U	Very distant person on path; insufficient outfit detail for reliable admission.
+218	partial	?	?	?	U	Thick pale coat and burgundy scarf portrait; layers obscure build.
+219	full	2	?	?	D	Red midi dress, dark hat and green heels; gathered skirt hides hips.
+220	seated	?	?	?	U	Dark outfit seated beside bed; low light and pose obscure build.
+221	full	1.5	?	?	U	Blue cropped tee and pale denim shorts; raised arm and bent pose obscure axes.
+222	reject	?	?	?	U	Crouched alternate blue tee outfit from 1277.
+223	full	1.5	?	?	U	Black athletic crop and green leggings in high leg stretch; pose prevents frontal comparison.
+224	partial	1.5	?	?	U	Black leather jacket, gray cropped top and dark trousers; layers hide axes.
+225	full	1.5	?	?	F	White tee, dark shorts and tall heeled boots; lean and crossed legs obscure axes.
+226	partial	?	?	?	U	Pink hoodie with folded arms; drape and crop conceal build.
+227	back	?	?	?	F	Rear-facing striped cropped top and pale skirt.
+228	seated	1.5	?	?	U	Black sleeveless top and dark shorts seated by lantern; pose hides proportions.
+229	partial	1.5	?	?	D	Dark coat and striped skirt; outer layers hide axes.
+230	partial	1.5	?	?	D	Cream sleeveless top and burgundy skirt in turned pose; skirt obscures hips.
+231	full	1.5	?	?	F	Black cape coat over orange top and short skirt with white boots; coat hides contours.
+232	back	?	?	?	U	Rear view of pale fringed top and blue trousers in surf.
+233	seated	2	?	?	D	Burgundy sweater dress, dark tights and boots curled on sofa; pose hides axes.
+234	reject	?	?	?	U	Tiny figure on large staircase; insufficient outfit detail.
+235	full	1.5	?	?	U	Pink fitted top and pale denim shorts with sneakers; angled hip prevents frontal axes.
+236	full	1.5	?	?	D	Long dark striped dress and tan boots; loose knit silhouette hides contours.
+237	full	1.5	?	?	D	White top and lavender flared skirt with heels in profile; pose and flare hide axes.
+238	partial	1.5	?	?	U	Striped sleeveless crop and denim shorts in profile; side view prevents axes.
+239	seated	2	?	?	D	Floral dress and black cardigan on chair; seated pose and layers obscure axes.

@@ -274,9 +274,9 @@
       "source": "fashionpedia",
       "sampledPages": 7263,
       "candidateImages": 7263,
-      "reviewedExpansionCandidates": 3519,
-      "admittedExpansionPhotos": 3197,
-      "completeExpansionReferences": 35,
+      "reviewedExpansionCandidates": 3759,
+      "admittedExpansionPhotos": 3395,
+      "completeExpansionReferences": 37,
       "deferredPages": 37631
     },
     {
@@ -668,12 +668,12 @@
     },
     {
       "source": "perryellis",
-      "sampledPages": 12,
-      "candidateImages": 24,
-      "reviewedExpansionCandidates": 24,
-      "admittedExpansionPhotos": 8,
+      "sampledPages": 42,
+      "candidateImages": 84,
+      "reviewedExpansionCandidates": 84,
+      "admittedExpansionPhotos": 15,
       "completeExpansionReferences": 0,
-      "deferredPages": 175
+      "deferredPages": 145
     },
     {
       "source": "pettilia",
@@ -740,12 +740,12 @@
     },
     {
       "source": "roark",
-      "sampledPages": 3,
-      "candidateImages": 6,
-      "reviewedExpansionCandidates": 6,
-      "admittedExpansionPhotos": 2,
+      "sampledPages": 33,
+      "candidateImages": 66,
+      "reviewedExpansionCandidates": 66,
+      "admittedExpansionPhotos": 10,
       "completeExpansionReferences": 0,
-      "deferredPages": 221
+      "deferredPages": 193
     },
     {
       "source": "rowingblazers",
@@ -866,12 +866,12 @@
     },
     {
       "source": "taylorstitch",
-      "sampledPages": 7,
-      "candidateImages": 14,
-      "reviewedExpansionCandidates": 14,
-      "admittedExpansionPhotos": 4,
+      "sampledPages": 37,
+      "candidateImages": 74,
+      "reviewedExpansionCandidates": 74,
+      "admittedExpansionPhotos": 16,
       "completeExpansionReferences": 0,
-      "deferredPages": 174
+      "deferredPages": 145
     },
     {
       "source": "teddyfresh",
@@ -983,12 +983,12 @@
     },
     {
       "source": "untuckit",
-      "sampledPages": 26,
-      "candidateImages": 52,
-      "reviewedExpansionCandidates": 52,
-      "admittedExpansionPhotos": 11,
-      "completeExpansionReferences": 0,
-      "deferredPages": 172
+      "sampledPages": 56,
+      "candidateImages": 112,
+      "reviewedExpansionCandidates": 112,
+      "admittedExpansionPhotos": 20,
+      "completeExpansionReferences": 1,
+      "deferredPages": 142
     },
     {
       "source": "vintage1946",
@@ -51381,6 +51381,1775 @@
           ],
           "images": [],
           "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T2315-training/sources.json",
+      "retrievedAt": "2026-09-17T04:28:55.456203+00:00",
+      "scope": "Direct review of original training collection ordinals 1056\u20131295 from the saved pending intake; no new archive network retrieval.",
+      "sources": [
+        {
+          "source": "fashionpedia",
+          "pages": [
+            {
+              "url": "https://s3.amazonaws.com/ifashionist-dataset/annotations/attributes_train2020.json",
+              "products": 45623,
+              "snapshotSha256": "5e5271adaca8e990824189cbef508e4383c83a9a4a3c34c03ba5149b2ad94267"
+            }
+          ],
+          "archiveUrl": "https://s3.amazonaws.com/ifashionist-dataset/images/train2020.zip",
+          "archiveSha256": "d896792104a4c35efa7859a18cf605fddae779f5c2372e87e08d7b45949244e2",
+          "errors": []
+        }
+      ],
+      "resumedFrom": "data/catalog-review/batches/2026-09-17T0540-training/pending-intake.json",
+      "originalCollectionOffset": 1056
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T2320-menswear/sources.json",
+      "retrievedAt": "2026-09-18T23:12:57.553156+00:00",
+      "scope": "4 sources, at most three pages of 250 products each and 30 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "roark",
+          "pages": [
+            {
+              "url": "https://roark.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T23:12:21.343722+00:00",
+              "snapshotSha256": "924840cb549539a59cf931fe4aa2405b407d683566171bf35811485f606f9fb5"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "roark-7567317237831-image-34657870610503",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK474_ONX_001.png?v=1789759561",
+              "sourceUrl": "https://roark.com/products/mens-mathis-active-allover-short-sleeve-tee-onyx",
+              "sha256": "c38e36e56adfe278c934b3b1562b0f4519103e57c4b573473775c0fb6b2bdfb4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567317237831-image-34657870643271",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK474_ONX_02_19085.jpg?v=1789759561",
+              "sourceUrl": "https://roark.com/products/mens-mathis-active-allover-short-sleeve-tee-onyx",
+              "sha256": "01b134c6cc5c2cc2f1b90c8c42cd0df27ad6c1c31bf336c53fa4ec279f3527d3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567317073991-image-34656322715719",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK473_SAN_002.png?v=1789752003",
+              "sourceUrl": "https://roark.com/products/mens-mathis-active-graphic-short-sleeve-tee-sand",
+              "sha256": "d508205bc726cc61221b5c694b8f76115916a98954423d4c6a0e9127e6853b9d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567317073991-image-34656322682951",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK473_SAN_02_18934.jpg?v=1789752003",
+              "sourceUrl": "https://roark.com/products/mens-mathis-active-graphic-short-sleeve-tee-sand",
+              "sha256": "b80ca3ba8af2d3867fe823245eded9595d059558b2682512d44c5f728fad6e92",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318679623-image-34597819744327",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1505_TOB_002.png?v=1789500286",
+              "sourceUrl": "https://roark.com/products/mens-reading-ritual-premium-tee-tobacco",
+              "sha256": "1504065ca2e347aba7554d177805e0ace5ee80bd8d2712e58fbce725e2354294",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318679623-image-34597819777095",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1505_TOB_03_0214.jpg?v=1789500286",
+              "sourceUrl": "https://roark.com/products/mens-reading-ritual-premium-tee-tobacco",
+              "sha256": "fc916861dd08e8b421964b84f386884e23d1a78918e66068fb463200191c6098",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318450247-image-34579115737159",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1501_SLT_1533.jpg?v=1789320195",
+              "sourceUrl": "https://roark.com/products/mens-enjoy-nature-premium-tee-slate",
+              "sha256": "da3c906fc00539097ce2f96f157ce99eee7a42b59901418b4a13f80cf78c5263",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318450247-image-34579115704391",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1501_SLT_1529.jpg?v=1789320195",
+              "sourceUrl": "https://roark.com/products/mens-enjoy-nature-premium-tee-slate",
+              "sha256": "018da1ba5601afb13f2699e1e321f3a3f4600784c1f531f452999bf6a1bb8a95",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318417479-image-34579116523591",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1501_MIL_002.png?v=1789320200",
+              "sourceUrl": "https://roark.com/products/mens-enjoy-nature-premium-tee-military",
+              "sha256": "f2f4833933ad95baf6b720b70db5edce446c5103c47958f117f2008570515e79",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318417479-image-34579116556359",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1501_MIL_03_0119.jpg?v=1789320200",
+              "sourceUrl": "https://roark.com/products/mens-enjoy-nature-premium-tee-military",
+              "sha256": "93cbbac48115dee20eb37ffe6c5a7851e2a56fb03c6d846c3f6640853f4042aa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318548551-image-34579001311303",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1503_ONX_002.png?v=1789318683",
+              "sourceUrl": "https://roark.com/products/mens-higher-being-premium-tee-onyx",
+              "sha256": "650d43c336af72b3e6b786ec1b53aa43f3140bc6d7e340107f8626df329c1fab",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318548551-image-34579001376839",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1503_ONX_0263.jpg?v=1789318683",
+              "sourceUrl": "https://roark.com/products/mens-higher-being-premium-tee-onyx",
+              "sha256": "5ddeaeac61d94df8f01af619d2c5f0c1f89e962f07c437d930acbe3eab262227",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318581319-image-34579001802823",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1503_SGN_002.png?v=1789318688",
+              "sourceUrl": "https://roark.com/products/mens-higher-being-premium-tee-slate-green",
+              "sha256": "12cff4e13e23bbb3d3b62e5359927c4d293009165a2b180b152f5f8873066767",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318581319-image-34579001868359",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1503_SGN_1567.jpg?v=1789318688",
+              "sourceUrl": "https://roark.com/products/mens-higher-being-premium-tee-slate-green",
+              "sha256": "1e800087cc53fc1c10bb1e7e73a1d51c5fcfeb6ef8ac4359c85b2c818b0e5e58",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7366836879431-image-34554820132935",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1475_OFW_1327.jpg?v=1789155191",
+              "sourceUrl": "https://roark.com/products/mens-division-premium-tee-off-white",
+              "sha256": "453c09701145ec08602de3a600ea5bf4c26213a715acc8da07530158112ad353",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7366836879431-image-34554820100167",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1475_OFW_1325.jpg?v=1789155191",
+              "sourceUrl": "https://roark.com/products/mens-division-premium-tee-off-white",
+              "sha256": "14e349e296d5d88d6fc79938bd053e7c697de9e45847bf991dd5080412f12bc4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7366836912199-image-34554818854983",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1475_SHK_1346.jpg?v=1789155186",
+              "sourceUrl": "https://roark.com/products/mens-division-premium-tee-shark",
+              "sha256": "051fab16e91327f693204bb0d82facfcd157573826ad69bf6fc7c57b41f6cd98",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7366836912199-image-34554818822215",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1475_SHK_1343.jpg?v=1789155186",
+              "sourceUrl": "https://roark.com/products/mens-division-premium-tee-shark",
+              "sha256": "da9821a422c8e967c6963c35c5d1cc43fb2cc8938ee63787d6b9c8ba378a985e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318646855-image-34554759118919",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1504_TOB_001.png?v=1789154387",
+              "sourceUrl": "https://roark.com/products/mens-represent-premium-tee-tobacco",
+              "sha256": "ed6971684a079634ec235424bf14f8e0722d0af3414c1c551f9270b151e9dba3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318646855-image-34554759053383",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1504_TOB_01_0153.jpg?v=1789154386",
+              "sourceUrl": "https://roark.com/products/mens-represent-premium-tee-tobacco",
+              "sha256": "d1d71d49d75b5604aa3f6c2c6aa5ad226f3bef6ce7d32f5886779681bc168ffa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318614087-image-34554759970887",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1504_SGN_001.png?v=1789154397",
+              "sourceUrl": "https://roark.com/products/mens-represent-premium-tee-slate-green",
+              "sha256": "b4d800d9a3408c119fe4e15d8ff8f6551334effabd43ecfd475578862bfac658",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567318614087-image-34554759905351",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1504_SGN_01_0150.jpg?v=1789154396",
+              "sourceUrl": "https://roark.com/products/mens-represent-premium-tee-slate-green",
+              "sha256": "9fbba5f6449db811f65b1714c630da4e4af8f7f922531469ae52fd0810c5d0ce",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567319072839-image-34554641252423",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1510_OFW_0285.jpg?v=1789152286",
+              "sourceUrl": "https://roark.com/products/mens-moto-premium-tee-off-white",
+              "sha256": "9a9222949a18d9e41351ffa48a020042528768a5ec3e2ae5ecdd71779427456d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567319072839-image-34554641219655",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1510_OFW_0282.jpg?v=1789152286",
+              "sourceUrl": "https://roark.com/products/mens-moto-premium-tee-off-white",
+              "sha256": "e115ae02f2762c2f3319e938995b15cbac2a228be121f90b1b46d4f851134a13",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567319040071-image-34554642661447",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1510_DST_002.png?v=1789152340",
+              "sourceUrl": "https://roark.com/products/mens-moto-premium-tee-dusty-sage",
+              "sha256": "81958b5ca3f269b69f369a4c1381d945048906739d6f8d8291f1f7c193df551c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567319040071-image-34554642694215",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1510_DST_03_0170.jpg?v=1789152339",
+              "sourceUrl": "https://roark.com/products/mens-moto-premium-tee-dusty-sage",
+              "sha256": "8acc6553b301a1b16dd14f27329a74f8d6f367e8bee52dd63d8a38dd3c295809",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7366838124615-image-34554623033415",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RW665_DCH_001.png?v=1789151876",
+              "sourceUrl": "https://roark.com/products/crossroads-organic-cotton-flannel-dark-charcoal",
+              "sha256": "ff0f21b0c1564b55ea6ee772e42a3c7edd49a35d44d7ef8fca611d5e7b666f8a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7366838124615-image-34554623131719",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RW665_DCH_RP341_BLK_01_0610.jpg?v=1789151875",
+              "sourceUrl": "https://roark.com/products/crossroads-organic-cotton-flannel-dark-charcoal",
+              "sha256": "ec6bc6b41999e50bf982868449f1b28f90d1847c134fbe7e6944f2e8620f6b8a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316156487-image-34554607337543",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ323_SAN_001.png?v=1789151531",
+              "sourceUrl": "https://roark.com/products/mens-hebrides-20-unlined-jacket-sand",
+              "sha256": "d4fb23ec0671f68efed87d386d79b5b7e73adc99e90bee8bd2a619048ee81ebf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316156487-image-34554607468615",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ323_SAN_0976.jpg?v=1789151531",
+              "sourceUrl": "https://roark.com/products/mens-hebrides-20-unlined-jacket-sand",
+              "sha256": "7f917e0384162a16c0f2e0799ba52cae0b2a6a18536731f45d5c90fc1b3c7bc8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316058183-image-34586542833735",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ322_TOB_001_bae5efad-9c3a-442b-93fa-dac819eaad89.png?v=1789386919",
+              "sourceUrl": "https://roark.com/products/mens-hebrides-20-sherpa-jacket-tobacco",
+              "sha256": "46dcd263147156e74f306753506224c42caf3f5919d00a25ac57066d1bf2d943",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316058183-image-34586542899271",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ322_TOB_003_8a7064b6-e8f9-467b-8594-5b5fc18bc074.png?v=1789386919",
+              "sourceUrl": "https://roark.com/products/mens-hebrides-20-sherpa-jacket-tobacco",
+              "sha256": "80e636b128bee5392f988a0df49b1ef56a721bd58749368f444db64878a1c37e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567317663815-image-34255933866055",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RP341_BEI_001.png?v=1785153444",
+              "sourceUrl": "https://roark.com/products/mens-layover-trail-pants-beige",
+              "sha256": "c2bc68db8a22987cb4518d79e3236d444ac64656c9a0ed470c62b0ed9fe67dbe",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567317663815-image-34534758219847",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/layover-trail-BEI-PDP-5.jpg?v=1789087268",
+              "sourceUrl": "https://roark.com/products/mens-layover-trail-pants-beige",
+              "sha256": "ba866906e0911e5c309b9c70ae8b70c5d571662a38109fcce3d50ebff33000aa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567317696583-image-34255931670599",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RP341_BLK_001.png?v=1785153440",
+              "sourceUrl": "https://roark.com/products/mens-layover-trail-pants-black",
+              "sha256": "aae4e35cd68a5118c017c0e2cbb5bdf453530cfdd2b3a34edb8b3e62ea8bf8e0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567317696583-image-34424051073095",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RP341_BLK_0355.jpg?v=1787589728",
+              "sourceUrl": "https://roark.com/products/mens-layover-trail-pants-black",
+              "sha256": "27224aa08290c29cd6acc335300a3c81d488fb016983a885ec50caa557eb8c80",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567315828807-image-34254622720071",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ318_TOB_001.png?v=1785146881",
+              "sourceUrl": "https://roark.com/products/mens-layover-bomber-jacket-tobacco",
+              "sha256": "24714db80e1127fdabfe0a80af90fbfb157a162479bb526918c4fc1d4add4563",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567315828807-image-34254622851143",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ318_TOB_005.jpg?v=1785146880",
+              "sourceUrl": "https://roark.com/products/mens-layover-bomber-jacket-tobacco",
+              "sha256": "c8fe12f5af69c287a5010a34d33927abb72a6d1676b679d56497b9454d73b34b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316779079-image-34506985799751",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK468_BLK_01_19215.jpg?v=1788886579",
+              "sourceUrl": "https://roark.com/products/evolve-hoodie-black",
+              "sha256": "07f616d8271f8dacec851192ce9e4842cc72ed68b2001c40f4287218c8e7fb4a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316779079-image-34506985865287",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK468_BLK_02_19260.jpg?v=1788886579",
+              "sourceUrl": "https://roark.com/products/evolve-hoodie-black",
+              "sha256": "fb9fe89607da53f658a56d7b84a62e3ff78b8cf0f493d6cf19d84db21980851c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316811847-image-34490531250247",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK468_SAN_001.png?v=1788442445",
+              "sourceUrl": "https://roark.com/products/evolve-hoodie-sand",
+              "sha256": "b0c0da75cd28c1e87f035334153226152d1e4d739372b06e4c5240efaaa9b46b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316811847-image-34490531315783",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK468_SAN_003.png?v=1788442445",
+              "sourceUrl": "https://roark.com/products/evolve-hoodie-sand",
+              "sha256": "0334f1be5418bbc9f6488acd68192a3ab66d1f6597619ee9e21a6447ce480571",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7366837403719-image-34210903687239",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RW534_BLCC_001.png?v=1784727071",
+              "sourceUrl": "https://roark.com/products/mens-bless-up-breathable-stretch-shirt-black-crocus",
+              "sha256": "8b0bf1841b519409fef1c6df0a9415cbee5092119764515002e337c37a6f1b34",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7366837403719-image-34210903228487",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RW534_BLCC_03_0250.jpg?v=1784727070",
+              "sourceUrl": "https://roark.com/products/mens-bless-up-breathable-stretch-shirt-black-crocus",
+              "sha256": "18109892743fe54b96e53c1bb91e065a393d6e113ba10ae0d566918d6f96ff14",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567315927111-image-34506608574535",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ320_MIL_001.png?v=1788874368",
+              "sourceUrl": "https://roark.com/products/mens-layover-jacket-military",
+              "sha256": "77dd906de4a3b71059dcb37fa385f515013bcc37fbc61e126d1fe650936faa76",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567315927111-image-34506608607303",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ320_MIL_002.png?v=1788874369",
+              "sourceUrl": "https://roark.com/products/mens-layover-jacket-military",
+              "sha256": "94b010e1317a16630ac1e93add19d9de7e9adaca77fa618f6231e3e01096966a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567315894343-image-34506608771143",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ320_BLK_001.png?v=1788874372",
+              "sourceUrl": "https://roark.com/products/mens-layover-jacket-black",
+              "sha256": "803bf60198e0ffc2f534a6b502e1e9f6ca07969d9bfd08e9592418b6c4a6acf0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567315894343-image-34548694548551",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/Layover_Jacket_H226_4.jpg?v=1789127246",
+              "sourceUrl": "https://roark.com/products/mens-layover-jacket-black",
+              "sha256": "58ab01e1dc0271d35916115f52bb5f4f306c709b04b0cf6cca16158cde849fcf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567315796039-image-34254631174215",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ318_BLK_001.png?v=1785146964",
+              "sourceUrl": "https://roark.com/products/mens-layover-bomber-jacket-black",
+              "sha256": "ca902bdca0441638502d362594f6e1182a2935f50d1e492055b6a3d7aab207fe",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567315796039-image-34534982844487",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/layover-bomber-BLK-PDP-4.jpg?v=1789088307",
+              "sourceUrl": "https://roark.com/products/mens-layover-bomber-jacket-black",
+              "sha256": "318540742f3fcaf4a10533b3cae5f7ecf57c2ab08659eed17978aa36fedef629",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7238236307527-image-31832260935751",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/3_a8beab34-73d7-4aec-9dd5-28ba26fe392c.png?v=1762282350",
+              "sourceUrl": "https://roark.com/products/bless-up-trail-button-up-shirt-onyx",
+              "sha256": "539d7725bf39cdf12b0afcc0311282ceda57398609b2271be58748f244b66f10",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7238236307527-image-32199855865927",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/Bless_Up_Trail_FA25_1.jpg?v=1758200023",
+              "sourceUrl": "https://roark.com/products/bless-up-trail-button-up-shirt-onyx",
+              "sha256": "2b0b85dc356d74e20b0f321ed161e62e2e608ef0519fe2cb3ef188797bdfabdd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7238231392327-image-31795575423047",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ313_BLK_001.png?v=1762282287",
+              "sourceUrl": "https://roark.com/products/forever-roaming-jacket-black",
+              "sha256": "8c3177dda6c6921ab53fda54cccbbd0bdb4cf54056bf8776a8b12b68a89d3c30",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7238231392327-image-31795575291975",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ313_BLK_1111.jpg?v=1763603639",
+              "sourceUrl": "https://roark.com/products/forever-roaming-jacket-black",
+              "sha256": "e2195a179a564806f5b79e0cad92621bbcd9a8f31ad0b58564949b5c8fdb6e3f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316516935-image-34200671518791",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK450_SLT_001_8ba8540c-a455-4b2d-9ba9-3f6f7ccd7a9b.png?v=1784553417",
+              "sourceUrl": "https://roark.com/products/mens-well-worn-thermal-short-sleeve-tee-slate",
+              "sha256": "ab0d70436316d9b6429ab4d34af4b704dce0c0c1ca4e5a2b2b7dd6974819bb84",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316516935-image-34424122179655",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RK450_SLT_0878.jpg?v=1787590303",
+              "sourceUrl": "https://roark.com/products/mens-well-worn-thermal-short-sleeve-tee-slate",
+              "sha256": "d3cff08fc6185e69618bd316b6cca4f974be97b4548fc00e57866de272c06f93",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567320252487-image-34200986910791",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/WRJ031_BLK_01_1743.jpg?v=1784566959",
+              "sourceUrl": "https://roark.com/products/womens-hebrides-sherpa-jacket-black",
+              "sha256": "86d0bbb6b6731d7187ea8105426bba4fcca9bac0ce9b634410ea51c1dd4e85e4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567320252487-image-34596136452167",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/Hebrides_Sherpa_Jacket_H226_2.jpg?v=1789482617",
+              "sourceUrl": "https://roark.com/products/womens-hebrides-sherpa-jacket-black",
+              "sha256": "4ce781b2be794ceb3d6a8a38293d0ae3e6226fdea99fd668ee12f0272461f6ec",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316287559-image-34479931621447",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ325_MIL_001.png?v=1788268519",
+              "sourceUrl": "https://roark.com/products/mens-axeman-parka-jacket-military",
+              "sha256": "a35522c5bb310d18cfff3f61dfda877787a13bb8a884925cad769537a7de6353",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316287559-image-34479930671175",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ325_MIL_1921.jpg?v=1788268475",
+              "sourceUrl": "https://roark.com/products/mens-axeman-parka-jacket-military",
+              "sha256": "b34f48f43014b45b29ad30d107ca0f8c573bd1e61af1f6b213f35578efd9166a",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 60
+        },
+        {
+          "source": "taylorstitch",
+          "pages": [
+            {
+              "url": "https://www.taylorstitch.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T23:12:31.074198+00:00",
+              "snapshotSha256": "b1fb97ecb2ab8c197aac2597be2e91feded4dd6aa50b11b6cb324e932db42fdc"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "taylorstitch-7645561028685-image-36200339079245",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-cardigan-oatmeal-wool_portrait_001.jpg?v=1789763996",
+              "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-cardigan-in-oatmeal-wool-2609",
+              "sha256": "5eb9c3d03a63173a166f33cac981f74ed4abc172b308d40a17de5bb9aa62f25b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645561028685-image-36200339144781",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-cardigan-oatmeal-wool_portrait_003.jpg?v=1785345135",
+              "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-cardigan-in-oatmeal-wool-2609",
+              "sha256": "267ba8885e747a2d642e09a9c51a85b1f778feb6bcd0c3f5b54a815ee160cdb3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560307789-image-36764019228749",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_maritime-shirt-jacket-burgundy-moleskin-twill_portrait_004.jpg?v=1787767116",
+              "sourceUrl": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-burgundy-moleskin-twill-2609",
+              "sha256": "97ad042387da6b406a47b55582f1f8804f0f3a378d773e59f7545abe86a33d12",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560307789-image-36764019195981",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_maritime-shirt-jacket-burgundy-moleskin-twill_portrait_003.jpg?v=1787767116",
+              "sourceUrl": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-burgundy-moleskin-twill-2609",
+              "sha256": "5df5a06b57c8b23a28fbec5de2fe74d4a3de300ad8d5efd07dac85ecf9c6225a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560340557-image-36764135161933",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_maritime-shirt-jacket-dark-forest-moleskin-twill_portrait_004.jpg?v=1787767792",
+              "sourceUrl": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-dark-forest-moleskin-twill-2609",
+              "sha256": "910ea6985924c16b85cd13319d6613f1fccd50c7af8629a6cfa75e20b40d759f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560340557-image-36764135129165",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_maritime-shirt-jacket-dark-forest-moleskin-twill_portrait_003.jpg?v=1787767792",
+              "sourceUrl": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-dark-forest-moleskin-twill-2609",
+              "sha256": "cf8dbbcc9645d5ed3390d1037206c5b8b2cc0908f88fb2ff5ade2638666ebff2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645561225293-image-36740141547597",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_carnegie-pant-smoked-olive-corduroy_portrait_001.jpg?v=1787676892",
+              "sourceUrl": "https://www.taylorstitch.com/products/carnegie-pant-in-smoked-olive-corduroy-2609",
+              "sha256": "b0f08692314eacf2f60b0531aba5e9e14b11a47cd455c86e0d8b6f64c7025f7c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645561225293-image-36740141613133",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_carnegie-pant-smoked-olive-corduroy_portrait_003.jpg?v=1787676892",
+              "sourceUrl": "https://www.taylorstitch.com/products/carnegie-pant-in-smoked-olive-corduroy-2609",
+              "sha256": "38abef66820233c088ca13681d826a31d7a25b77febdb6df1e713b5008a9dd63",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560209485-image-36893783457869",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_The_Ojai_Jacket_in_Washed_Indigo_Corduroy_pdp_01.jpg?v=1788450413",
+              "sourceUrl": "https://www.taylorstitch.com/products/ojai-jacket-in-washed-indigo-corduroy-2609",
+              "sha256": "1412dc8a9b417a4b6da48a7d09cfcd2cb3761d4a22888843d130fb74aef2418e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560209485-image-36893783523405",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_The_Ojai_Jacket_in_Washed_Indigo_Corduroy_pdp_03.jpg?v=1788450413",
+              "sourceUrl": "https://www.taylorstitch.com/products/ojai-jacket-in-washed-indigo-corduroy-2609",
+              "sha256": "8641942b63cc2589bb423bc23a26c3b9b9a36233ec2faf06e7e4792906791a89",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557129293-image-36871396229197",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-good-acre-chore-pant-olive-canvas_pdp_compressed_01.jpg?v=1788277570",
+              "sourceUrl": "https://www.taylorstitch.com/products/good-acre-chore-pant-in-olive-canvas-2609",
+              "sha256": "9468ec02b137f930c350fb27034a44c5d9af059f64edbaf7b41d382b793b5d97",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557129293-image-36871396294733",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-good-acre-chore-pant-olive-canvas_pdp_compressed_03.jpg?v=1788277570",
+              "sourceUrl": "https://www.taylorstitch.com/products/good-acre-chore-pant-in-olive-canvas-2609",
+              "sha256": "e3db51308041fa0e3925f414a071cf9e907641bd8e41dd66d73f11160ceafdd0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560701005-image-36738954330189",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_mens_q326_rugby-shirt-burgundyinstock_m_q326_rugby-shirt-burgundy_portrait_001.jpg?v=1787673750",
+              "sourceUrl": "https://www.taylorstitch.com/products/rugby-shirt-in-burgundy-2609",
+              "sha256": "af3fbbc7358b5a7797766e531b3ec59bd941801ea990fa8eb51d8105bf2f53ec",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560701005-image-36738954395725",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_mens_q326_rugby-shirt-burgundyinstock_m_q326_rugby-shirt-burgundy_portrait_003.jpg?v=1787673749",
+              "sourceUrl": "https://www.taylorstitch.com/products/rugby-shirt-in-burgundy-2609",
+              "sha256": "cefce96329f78f4fcb04eb992be54ab6db2a9c3abaaa0fccc05a46b03ef806f6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560012877-image-36780637782093",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-straight-jean-rinsed-black-organic-selvedge_pdp_compressed_01.jpg?v=1787844615",
+              "sourceUrl": "https://www.taylorstitch.com/products/straight-jean-in-rinsed-black-organic-selvedge-2608",
+              "sha256": "ffe4c41089a1f55b070b087231ea41cbb2fca480c0fe1d472a6b57a243418f20",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560012877-image-36780637847629",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-straight-jean-rinsed-black-organic-selvedge_pdp_compressed_03.jpg?v=1787844615",
+              "sourceUrl": "https://www.taylorstitch.com/products/straight-jean-in-rinsed-black-organic-selvedge-2608",
+              "sha256": "c5fca98aafdbf7e203614580e59dd6fcaf35bc985e72b3bcd94d0e217caa0d66",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645558800461-image-36780377505869",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_01.jpg?v=1787843851",
+              "sourceUrl": "https://www.taylorstitch.com/products/ryder-jacket-in-rinsed-black-organic-selvedge-2608",
+              "sha256": "a1db9f3ff83293bfe854d514a68a425a07c16a54fe5435bcef8261c3b79c83d1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645558800461-image-36780377571405",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_03.jpg?v=1787843852",
+              "sourceUrl": "https://www.taylorstitch.com/products/ryder-jacket-in-rinsed-black-organic-selvedge-2608",
+              "sha256": "c70847577ea7bb525b2f50eae063887ad573647134e8227e615f8d4e11c39a89",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645561126989-image-36720412426317",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_breakwater-pant-field-khaki-ripstop_portrait_001.jpg?v=1787590431",
+              "sourceUrl": "https://www.taylorstitch.com/products/breakwater-pant-in-field-khaki-ripstop-2609",
+              "sha256": "c00c87e7e1f1974323e1f96290d08624e7ff5c559c5dc1b91777c5701286efcb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645561126989-image-36720412491853",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_breakwater-pant-field-khaki-ripstop_portrait_003.jpg?v=1787590431",
+              "sourceUrl": "https://www.taylorstitch.com/products/breakwater-pant-in-field-khaki-ripstop-2609",
+              "sha256": "4e50fc007553d4c5466bdb3e655e16b502e0fbd64ce466bd33c508f444d3bceb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557260365-image-36358135349325",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_The_Division_Shirt_in_Black_Indigo_portrait_001.jpg?v=1786123823",
+              "sourceUrl": "https://www.taylorstitch.com/products/division-shirt-in-black-indigo-2607",
+              "sha256": "ed7ba89917d50ffc39ca6271dde17170bce9ca6239dc13be454dc04924a12b63",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557260365-image-36358135414861",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_The_Division_Shirt_in_Black_Indigo_portrait_003.jpg?v=1786123823",
+              "sourceUrl": "https://www.taylorstitch.com/products/division-shirt-in-black-indigo-2607",
+              "sha256": "0fb50af5123c27e158a33c8b3265d5504f2dd6e38c881ba3b4d91c51c9c3b046",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559291981-image-36358517751885",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-division-shirt-cypress_pdp_compressed_01.jpg?v=1786124659",
+              "sourceUrl": "https://www.taylorstitch.com/products/division-shirt-in-cypress-2608",
+              "sha256": "c008160b2423f68f92fea6425e593d3897063390b4028326fd384ad1c4fde06d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559291981-image-36358517817421",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-division-shirt-cypress_pdp_compressed_03.jpg?v=1786124659",
+              "sourceUrl": "https://www.taylorstitch.com/products/division-shirt-in-cypress-2608",
+              "sha256": "7e1ac2e212a4bf77fa9f2c2fb9f2c62535923e1de239fc8fcce63a1b854bb8f3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7391323816013-image-33776974725197",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q325_The_Crater_Shirt-BrickPlaid_portrait_001.jpg?v=1756396500",
+              "sourceUrl": "https://www.taylorstitch.com/products/crater-shirt-in-brick-plaid-2509",
+              "sha256": "fff8adf6b070c70a81811103f4af0ab57233362354876e56b542537641335df3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7391323816013-image-33776974790733",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q325_The_Crater_Shirt-BrickPlaid_portrait_003.jpg?v=1786733069",
+              "sourceUrl": "https://www.taylorstitch.com/products/crater-shirt-in-brick-plaid-2509",
+              "sha256": "2c0c029dec8e5238c1921d1d1c8984aceaae4c9f7844d1a9ee596f0b8b96bbf3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557882957-image-36183427317837",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_quincy-shirt-bay-stripe_portrait_001.jpg?v=1785182051",
+              "sourceUrl": "https://www.taylorstitch.com/products/quincy-shirt-in-bay-stripe-2607",
+              "sha256": "d21e52b451b509800ee4ff11a56a75c703916bdcadd4a82de1cf2c45c8aa9f9e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557882957-image-36183427383373",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_quincy-shirt-bay-stripe_portrait_003.jpg?v=1785182051",
+              "sourceUrl": "https://www.taylorstitch.com/products/quincy-shirt-in-bay-stripe-2607",
+              "sha256": "caa55bcbf3d5a893a429a851b5122aab2fa9641dc7ffbe906ab34f0c8bd409c8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557456973-image-36493103071309",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_kenne-shirt-jacket-blue-fog-wool-cotton-crepe_portrait_001.jpg?v=1787344585",
+              "sourceUrl": "https://www.taylorstitch.com/products/kenne-shirt-jacket-in-blue-fog-cotton-wool-crepe-2607",
+              "sha256": "ce212add9402acfe58e782e04754f0228a20e5e9c25ca1fbe2f33a7af1b6e3a8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557456973-image-36493103136845",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_kenne-shirt-jacket-blue-fog-wool-cotton-crepe_portrait_003.jpg?v=1787344606",
+              "sourceUrl": "https://www.taylorstitch.com/products/kenne-shirt-jacket-in-blue-fog-cotton-wool-crepe-2607",
+              "sha256": "7435165b0b2feb4c225fd5046663cebbaa5134b614bcdfeb385de6df033d5948",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557489741-image-36493166411853",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_kenne-shirt-jacket-canyon-wool-cotton-crepe_portrait_001.jpg?v=1786560960",
+              "sourceUrl": "https://www.taylorstitch.com/products/kenne-shirt-jacket-in-canyon-cotton-wool-crepe-2607",
+              "sha256": "26db1cbd887b978dfb3a51b4a9958e79ccd206f6a15616f11908f127c1f17355",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557489741-image-36493166477389",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_kenne-shirt-jacket-canyon-wool-cotton-crepe_portrait_003.jpg?v=1786474529",
+              "sourceUrl": "https://www.taylorstitch.com/products/kenne-shirt-jacket-in-canyon-cotton-wool-crepe-2607",
+              "sha256": "9fbe3cac4336b95fb18abce677a43eaf5f30d2dae8ca4c7abc28a4c7e923bdda",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560471629-image-36534579331149",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-crater-shirt-headland-plaid_pdp_compressed_01.jpg?v=1786730553",
+              "sourceUrl": "https://www.taylorstitch.com/products/crater-shirt-in-headland-plaid-2609",
+              "sha256": "11fc3f9862ab8ceb8e896b4188192f5beb67d5c93607feb2a61c7d030b17371a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560471629-image-36534579396685",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-crater-shirt-headland-plaid_pdp_compressed_03.jpg?v=1786730552",
+              "sourceUrl": "https://www.taylorstitch.com/products/crater-shirt-in-headland-plaid-2609",
+              "sha256": "59aa12cd075ced0d34191c141e0e30e30fd37422dbbb190af9b5a70be3f63215",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560504397-image-36586134143053",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-crater-shirt-woodland-plaid_pdp_01_UPDATED.jpg?v=1787006432",
+              "sourceUrl": "https://www.taylorstitch.com/products/crater-shirt-in-woodland-plaid-2609",
+              "sha256": "b4d8a008025cccedceeffc1e1e189ca92101413012ff36d59138332431077ab8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560504397-image-36534983721037",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-crater-shirt-woodland-plaid_pdp_compressed_03.jpg?v=1786732600",
+              "sourceUrl": "https://www.taylorstitch.com/products/crater-shirt-in-woodland-plaid-2609",
+              "sha256": "ae8e3d054d0f38a2edb64baadac8d1f47ae64f617637f00ba8d65edab28bf300",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559816269-image-36344379637837",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_newton-sweater-polo-navy-birdseye-merino_portrait_001.jpg?v=1786035048",
+              "sourceUrl": "https://www.taylorstitch.com/products/newton-sweater-polo-in-navy-birdseye-merino-2608",
+              "sha256": "fd4a977f6777356a52b5600f590860703c34c0ed5595d7221486c315e2ef288e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559816269-image-36344379703373",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_newton-sweater-polo-navy-birdseye-merino_portrait_003.jpg?v=1786035048",
+              "sourceUrl": "https://www.taylorstitch.com/products/newton-sweater-polo-in-navy-birdseye-merino-2608",
+              "sha256": "6132fe67e678a7ae46ddaeb4dd9ad511b716db86e53e37eced5abd8ea7b75b4d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559849037-image-36329846374477",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_newton-sweater-polo-burgundy-birdseye-merino_portrait_001.jpg?v=1785956269",
+              "sourceUrl": "https://www.taylorstitch.com/products/newton-sweater-polo-in-burgundy-birdseye-merino-2608",
+              "sha256": "df437306a56296d1079dd461050fe7df1f617648b06a8a1abcc2fa5825a6cf7e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559849037-image-36329846440013",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_newton-sweater-polo-burgundy-birdseye-merino_portrait_003.jpg?v=1785956269",
+              "sourceUrl": "https://www.taylorstitch.com/products/newton-sweater-polo-in-burgundy-birdseye-merino-2608",
+              "sha256": "5086aa1bf0c9b133e1de7925fa5e39b43cefe776fd8480d99530fff1506d9160",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560635469-image-36212098793549",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ledge-shirt-bay-leaf_portrait_001.jpg?v=1785434250",
+              "sourceUrl": "https://www.taylorstitch.com/products/ledge-shirt-in-bay-leaf-twill-2609",
+              "sha256": "e10d91a94a7aee037d8efc2ee9e5202456e79f8b0f999b02d689101d122b9df3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560635469-image-36212098859085",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ledge-shirt-bay-leaf_portrait_003.jpg?v=1785434250",
+              "sourceUrl": "https://www.taylorstitch.com/products/ledge-shirt-in-bay-leaf-twill-2609",
+              "sha256": "c62f822dfcfec7ea3e3f754736d8b5e6e6cbcdf51bdedf129205bf9b4a43ae3c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560602701-image-36211567722573",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ledge-shirt-atlantic-twill_portrait_001.jpg?v=1785431947",
+              "sourceUrl": "https://www.taylorstitch.com/products/ledge-shirt-in-atlantic-twill-2609",
+              "sha256": "fed45dcc209354a1ff2a5b450076182bcbc5493a18ccd94834e65b8064326c01",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560602701-image-36211567788109",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ledge-shirt-atlantic-twill_portrait_003.jpg?v=1785431947",
+              "sourceUrl": "https://www.taylorstitch.com/products/ledge-shirt-in-atlantic-twill-2609",
+              "sha256": "4e2804496a6cd5e624a09c3de0ccff46cec6b8472f3af01a60030dce225289a1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560569933-image-36213189935181",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ledge-shirt-deep-sea-twill_portrait_001.jpg?v=1785438544",
+              "sourceUrl": "https://www.taylorstitch.com/products/ledge-shirt-in-deep-sea-twill-2609",
+              "sha256": "87ba8e9aa14683796c125ba9028d06db5470c48bd5dab2e3d8b08448814983c8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645560569933-image-36213190000717",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ledge-shirt-deep-sea-twill_portrait_003.jpg?v=1785438544",
+              "sourceUrl": "https://www.taylorstitch.com/products/ledge-shirt-in-deep-sea-twill-2609",
+              "sha256": "eadc819d6f38d52b9e58ababe40a6ffd6f9550e60cdcc21b9d7f47a381e10225",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557358669-image-36066035826765",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_ess-the-democratic-jean-rinsed-organic-selvedge_pdp_compressed_01.jpg?v=1784219718",
+              "sourceUrl": "https://www.taylorstitch.com/products/democratic-jean-in-rinsed-organic-selvedge-2607",
+              "sha256": "6859f57cc3d1b17ced8999db2aa4b89dc4afda9a4bb4a4031195d0d330c5a1df",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557358669-image-36066035892301",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_ess-the-democratic-jean-rinsed-organic-selvedge_pdp_compressed_03.jpg?v=1784219718",
+              "sourceUrl": "https://www.taylorstitch.com/products/democratic-jean-in-rinsed-organic-selvedge-2607",
+              "sha256": "50217843fcabb0ab718fb8d8fdcbeafe95d606a7aee8801cbe3c0236e34cdf37",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557391437-image-36066074034253",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/the-straight-jean-rinsed-organic-selvedge_pdp_compressed_01.jpg?v=1784220545",
+              "sourceUrl": "https://www.taylorstitch.com/products/straight-jean-in-rinsed-organic-selvedge-2607",
+              "sha256": "094423ec094a7eb9f1b02a9d3cec3fee76ca6de94a9e8ee3ff821f04911a982d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557391437-image-36066074099789",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/the-straight-jean-rinsed-organic-selvedge_pdp_compressed_03.jpg?v=1784220545",
+              "sourceUrl": "https://www.taylorstitch.com/products/straight-jean-in-rinsed-organic-selvedge-2607",
+              "sha256": "2acddf4fa8e502cd8711d57728f03d9d75284bd99c1fd8144082d222241a86bb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7707094024269-image-35980692848717",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_crawford-crew-charcoal_portrait_001.jpg?v=1783544377",
+              "sourceUrl": "https://www.taylorstitch.com/products/crawford-crew-sweater-in-charcoal-2607",
+              "sha256": "254ca2a198d557ada9be5064adaf58e1761d3643f612aa169891e83a6acdaeca",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7707094024269-image-35980692914253",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_crawford-crew-charcoal_portrait_003.jpg?v=1783544377",
+              "sourceUrl": "https://www.taylorstitch.com/products/crawford-crew-sweater-in-charcoal-2607",
+              "sha256": "a8925c8b8c81d53bbe2c35dc0ecf1705f9208b68b396eb3b667835405e2fc12e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559554125-image-36316569403469",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_regenerative-cotton-tee-saffron_portrait_001.jpg?v=1785875554",
+              "sourceUrl": "https://www.taylorstitch.com/products/regenerative-cotton-tee-in-saffron-2608",
+              "sha256": "8a4a2d854b4648e39168d5f259da67cd337fe988182281d4c417f0e9a272c5e4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559554125-image-36316569469005",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_regenerative-cotton-tee-saffron_portrait_003.jpg?v=1785875554",
+              "sourceUrl": "https://www.taylorstitch.com/products/regenerative-cotton-tee-in-saffron-2608",
+              "sha256": "d4dbf521471a6b17640adcc61b36f5b6a96a6073a8841640aa2d14e5f21cf33d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559488589-image-36315695382605",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_regenerative-cotton-tee-faded-pine_portrait_001.jpg?v=1785862341",
+              "sourceUrl": "https://www.taylorstitch.com/products/regenerative-cotton-tee-in-faded-pine-2608",
+              "sha256": "2ab18f5626ad41560657e1eb13406c8f475fb20c7b6f584a2261e92c3d6ebddd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559488589-image-36315695448141",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_regenerative-cotton-tee-faded-pine_portrait_003.jpg?v=1785862341",
+              "sourceUrl": "https://www.taylorstitch.com/products/regenerative-cotton-tee-in-faded-pine-2608",
+              "sha256": "7d07a786f167ca6e2542e24873fb5d608815b290f5e33ab3b9bee868a0663dad",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559619661-image-36316564881485",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_regenerative-cotton-tee-soil_portrait_001.jpg?v=1785875289",
+              "sourceUrl": "https://www.taylorstitch.com/products/regenerative-cotton-tee-in-soil-2608",
+              "sha256": "e61d981ca70d8057429c24c06d0f2f186b71dca4e33f1676230e091ea7b769ea",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559619661-image-36316564947021",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_regenerative-cotton-tee-soil_portrait_003.jpg?v=1785875289",
+              "sourceUrl": "https://www.taylorstitch.com/products/regenerative-cotton-tee-in-soil-2608",
+              "sha256": "233b65b9c16755d21741c00da2d6d06ebf6ea9b4b2ad8eb76536d0664a9abc98",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559455821-image-36329259728973",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-cutter-overshirt-lighthouse-check_pdp_compressed_01.jpg?v=1785950990",
+              "sourceUrl": "https://www.taylorstitch.com/products/cutter-overshirt-in-lighthouse-check-2608",
+              "sha256": "ca11ce53c923c123c4d8bb5b899eee976a116a44adc6291ed1191fada6712c77",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645559455821-image-36329259794509",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-cutter-overshirt-lighthouse-check_pdp_compressed_03.jpg?v=1785950990",
+              "sourceUrl": "https://www.taylorstitch.com/products/cutter-overshirt-in-lighthouse-check-2608",
+              "sha256": "8dc9a11c8e10b6826aaf448b1c7b18cb34ad85337ef1e0dc765cba00b54929ee",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 60
+        },
+        {
+          "source": "perryellis",
+          "pages": [
+            {
+              "url": "https://www.perryellis.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T23:12:39.810180+00:00",
+              "snapshotSha256": "7ef2852c43f749a6fd02c6c84f0b6919871c1eca9078fb46ab399d8a2a028369"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "perryellis-7999586336846-image-55371940134990",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Mini-Plaid-Suit-Pants-Dark-Sapphire.jpg?v=1788505619",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-mini-plaid-suit-pants-4lfb4305",
+              "sha256": "067d14f5b11b31b4a7f24888a5b76b5947f0654a52a580703f43c0c0ab08b975",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-7999586336846-image-55371940266062",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Mini-Plaid-Suit-Pants-3.jpg?v=1788505623",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-mini-plaid-suit-pants-4lfb4305",
+              "sha256": "afe885fb083cc393c09ebcaf72c65124314611dd7c1abb0afef841ca1d57a867",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280596046-image-55325027434574",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Neoprene-Quarter-Zip-Sweater-Coastal-Fjord.jpg?v=1788505670",
+              "sourceUrl": "https://www.perryellis.com/products/neoprene-quarter-zip-long-sleeve-shirt-4kfk7111",
+              "sha256": "1d9b45b135caf917e7ba5621aee0120daa5d60bd98b5be27f343fbdd393e25e7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280596046-image-55325027467342",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Neoprene-Quarter-Zip-Sweater-3.jpg?v=1788505673",
+              "sourceUrl": "https://www.perryellis.com/products/neoprene-quarter-zip-long-sleeve-shirt-4kfk7111",
+              "sha256": "30a01d8ce014e64684ff9d5cb7d0c5323419786516750e1193d872d7b2a52ce0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280104526-image-53745342677070",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Murphy-Slim-Fit-Drawstring-Dress-Pant-Vintage-Indigo.jpg?v=1788592097",
+              "sourceUrl": "https://www.perryellis.com/products/slim-drawstring-gab-chino-pants-pdbfg029",
+              "sha256": "018b771ce224b38819ca65dcc0e78204a476d80e19c636ebe4071c8a5d2e5b63",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280104526-image-53745342709838",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Murphy-Slim-Fit-Drawstring-Dress-Pant-3.jpg?v=1788592100",
+              "sourceUrl": "https://www.perryellis.com/products/slim-drawstring-gab-chino-pants-pdbfg029",
+              "sha256": "bfd728035ec1752fceabd8c3c43703ed78819cf739eab1659a87163c2a3796ee",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280071758-image-53745338875982",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Murphy-Slim-Fit-Drawstring-Knit-Chino-Black.jpg?v=1788592089",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-drawstring-knit-chino-pdbfg028",
+              "sha256": "f8454a73390450e3c45611f989894107ff77bc7818f8ab953ff8c263f82f8e5f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280071758-image-53745338908750",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Murphy-Slim-Fit-Drawstring-Knit-Chino-3.jpg?v=1788592092",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-drawstring-knit-chino-pdbfg028",
+              "sha256": "37b8f35b7a467023cc91a24be46f84688f6d4e07ba86e9d9cf5ed9005fd92d4f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8039539900494-image-54834164170830",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Tonal-Geometric-Jacquard-Sweater-Polo-Urban-Chic.jpg?v=1788505960",
+              "sourceUrl": "https://www.perryellis.com/products/short-sleeve-geometric-jacquard-polo-sweater-4lfg7209",
+              "sha256": "de2c6f52119963ed261af1b793d4a57676c4a5e2c2f5bd3d4997c20b544522f7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8039539900494-image-54834164236366",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Tonal-Geometric-Jacquard-Sweater-Polo-3.jpg?v=1788505963",
+              "sourceUrl": "https://www.perryellis.com/products/short-sleeve-geometric-jacquard-polo-sweater-4lfg7209",
+              "sha256": "0d9faa48abc10c1fb77c57d5e3c4ff3d7cfce5f6303f8a371a17ad7179d9636e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8039537705038-image-54833671241806",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Single-Breast-3-Button-Overcoat-Alpaca-Heather.jpg?v=1788505952",
+              "sourceUrl": "https://www.perryellis.com/products/dobby-3-button-chesterfield-coat-4lfr7521",
+              "sha256": "ad99a51b6ad038728ebedc46628cc39f95741927066dee7470e2f111cffcdba4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8039537705038-image-54833671307342",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Single-Breast-3-Button-Overcoat-3.jpg?v=1788505956",
+              "sourceUrl": "https://www.perryellis.com/products/dobby-3-button-chesterfield-coat-4lfr7521",
+              "sha256": "929ffa8d53d0226ba38f2befc80d25c61fbe77bb4e1fdfb88399f5ec14dc542f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-7851745345614-image-53743223570510",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Suit-Pant-Silver-Gray.jpg?v=1788420157",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-total-stretch-suit-pants-4ksb4310",
+              "sha256": "91e9df0521b43db9790813d80f0cf0f88eddc40e65b6a126aa23c54a1bb695b8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-7851745345614-image-53743223603278",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Suit-Pant-3.jpg?v=1788420169",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-total-stretch-suit-pants-4ksb4310",
+              "sha256": "f1f6cff68a5eb1ab8949125079d8a1a11cd96c8b2d3d043d3b1b8f22687ee075",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600513614-image-55320555225166",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Performance-Gabardine-Stretch-Pant-Black.jpg?v=1788429078",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-fit-performance-gabardine-stretch-pant-st110130",
+              "sha256": "3060cbb04464bb67f1ee5da76d93a0629096ba75f85da6344465ec1a4508f410",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600513614-image-55320555257934",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Performance-Gabardine-Stretch-Pant-3.jpg?v=1788429081",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-fit-performance-gabardine-stretch-pant-st110130",
+              "sha256": "35937ef61a62e6eff6ec738234a34211a77183de0cea796abce80af0ec7697ed",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600448078-image-53880886231118",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Suit-Pant-Tan.jpg?v=1788429030",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-fit-light-brown-suit-pant-t110497",
+              "sha256": "283461f33424591fe08e41b503f2bf52699a245bcccc9d91d3b5da5fe4890b32",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600448078-image-53880886263886",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Suit-Pant-3_6b003c61.jpg?v=1788429053",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-fit-light-brown-suit-pant-t110497",
+              "sha256": "65f52f3f47c83c0cf8871e1d3b0eabb07582629dabf892d816a0a1a9399c167d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600218702-image-55315480117326",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Gabardine-Suit-Jacket-Black.jpg?v=1788429007",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-gabardine-jacket-srpa0130",
+              "sha256": "b9224c20db662ac8641d4839d8fe735b67f583a103d48d88e8fea2d5c2ef4ae4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600218702-image-55315480150094",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Gabardine-Suit-Jacket-3.jpg?v=1788429010",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-gabardine-jacket-srpa0130",
+              "sha256": "8cc46d6355ccca1e9f4cbb01985d17dd46d36bf6ff8166934ca4f95239df42c6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-7851753537614-image-53743223406670",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Suit-Jacket-Silver-Gray.jpg?v=1787727102",
+              "sourceUrl": "https://www.perryellis.com/products/total-stretch-suit-jacket-slim-fit-4ksj4410",
+              "sha256": "d71609d74bba47ebd924346425a3faf497a8dd2039b9de98fe2c31323518eaf0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-7851753537614-image-53743223439438",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Suit-Jacket-3.jpg?v=1786516388",
+              "sourceUrl": "https://www.perryellis.com/products/total-stretch-suit-jacket-slim-fit-4ksj4410",
+              "sha256": "e35a3e62d10cbd8a6d79269ee6739246542445173c34e57c2913c7a0f7502e63",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280202830-image-53745341530190",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Mini-Check-Sport-Coat-Dark-Brown.jpg?v=1788428633",
+              "sourceUrl": "https://www.perryellis.com/products/mini-check-sport-coat-rua0313",
+              "sha256": "ff29af3454b96e9acc698d664fe83996f46806c242276258e55017e814818c4e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280202830-image-53745341562958",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Mini-Check-Sport-Coat-3.jpg?v=1788428646",
+              "sourceUrl": "https://www.perryellis.com/products/mini-check-sport-coat-rua0313",
+              "sha256": "30cdb11d8ddcbd813aac284b3df40aad779e2547579a6272f2b046d3cde16b72",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600251470-image-53880886853710",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Light-Brown-Suit-Jacket-Tan.jpg?v=1788429014",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-fit-solid-light-brown-suit-jacket-rpa0497",
+              "sha256": "774b353b3dd39fb95b72b71d9174c2c0719ed43104af2c374254cb0cd776998f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600251470-image-53880886886478",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Light-Brown-Suit-Jacket-3.jpg?v=1788429018",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-fit-solid-light-brown-suit-jacket-rpa0497",
+              "sha256": "3ffc35b3665056ded86413ce64d162907a1675d5cc9ffb6989e5a78963f8a6b7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600415310-image-53880886067278",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Tonal-Plaid-Suit-Jacket-Navy.jpg?v=1789196746",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-fit-tonal-plaid-jacket-rpa0490",
+              "sha256": "5710059e6181bdbb420592d6a466cde079a2f4b07f93ddb04a2be281545c5a0a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600415310-image-53880886100046",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Skinny-Fit-Tonal-Plaid-Suit-Jacket-3.jpg?v=1789196749",
+              "sourceUrl": "https://www.perryellis.com/products/skinny-fit-tonal-plaid-jacket-rpa0490",
+              "sha256": "290737ec2ca44e341d274f50db409f7166a907835611fe4637cc644467219e78",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280464974-image-53745341857870",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Stripe-Bamboo-Dress-Shirt-WhiteGray.jpg?v=1788428725",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-stripe-bamboo-dress-shirt-5lsw8803",
+              "sha256": "cb82d5d6c57eaefa3c452bcfdb4c491612a30561cfb056b744ad70103fbbfb4c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280464974-image-53745341890638",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Stripe-Bamboo-Dress-Shirt-3_203fcf22.jpg?v=1788428738",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-stripe-bamboo-dress-shirt-5lsw8803",
+              "sha256": "7f306acd581b052d257e776f8a8b740b3ce1b0e91e1fb5152de8568b07db46af",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280301134-image-53745341694030",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Stretch-Knit-Dress-Shirt-Light-Blue.jpg?v=1788428657",
+              "sourceUrl": "https://www.perryellis.com/products/stretch-knit-dress-shirt-5lsw8802",
+              "sha256": "e667e64f889856dd118c4e21ab3887a8ecc3680f0ee03694b1ed30dff1d38475",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280301134-image-53745341726798",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Stretch-Knit-Dress-Shirt-3_a1b6e68a.jpg?v=1788428681",
+              "sourceUrl": "https://www.perryellis.com/products/stretch-knit-dress-shirt-5lsw8802",
+              "sha256": "9aee042cbb6b09033e1ead2963becd796868e60af2ac2f9d9475f1f65562990c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005281054798-image-53745340055630",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-French-Cuff-Tuxedo-Dress-Shirt-Bright-White.jpg?v=1788428927",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-french-cuff-solid-tuxedo-dress-shirt-5lsw8801",
+              "sha256": "b0aa7b4d939e0dde5cb948555ce7f6f930cd2d3a746810216f5f47c1e6b0abda",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005281054798-image-53745340088398",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-French-Cuff-Tuxedo-Dress-Shirt-3.jpg?v=1788428930",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-french-cuff-solid-tuxedo-dress-shirt-5lsw8801",
+              "sha256": "0f13fd38cc49f44d90d9d2e482078247283275fdd0a9339a6bacfc3c1b113d09",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280333902-image-53745342840910",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Tonal-Stripe-Dress-Shirt-Bright-White.jpg?v=1788428689",
+              "sourceUrl": "https://www.perryellis.com/products/white-tonal-stripe-dress-shirt-5lsw8800",
+              "sha256": "014b466438e8e02725cf3847cb2b957769ac2be8430b478d421ca27359b7d4c2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280333902-image-53745342873678",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Tonal-Stripe-Dress-Shirt-3.jpg?v=1788428692",
+              "sourceUrl": "https://www.perryellis.com/products/white-tonal-stripe-dress-shirt-5lsw8800",
+              "sha256": "495215f29d849d260f1a2df3bdfecdc05814a04bb828753578b09eb422094ff3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280399438-image-53745339203662",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Micro-Geo-Print-Shirt-Dark-Sapphire.jpg?v=1788428710",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-micro-geo-print-long-sleeve-shirt-4lfw7034",
+              "sha256": "b1964d65b36ee87944f70edc3b3add39e31f107e7b7a4ec17cbe6b913a33f4cd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280399438-image-53745339236430",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Micro-Geo-Print-Shirt-3.jpg?v=1788428713",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-micro-geo-print-long-sleeve-shirt-4lfw7034",
+              "sha256": "e88cbdbffc8c41b0937168a56c5be9b96e7183fe34cc96a00cc44b365a6883db",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280563278-image-53745339367502",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Heathered-Shirt-Coastal-Fjord.jpg?v=1788428763",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-twill-long-sleeve-performance-tech-shirt-4krw7026",
+              "sha256": "05cbf51bc07d0bb8bc641f66fe7efa8d8285662dbbce572d6b79673e6903d998",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280563278-image-53745339400270",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Heathered-Shirt-3.jpg?v=1788428766",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-twill-long-sleeve-performance-tech-shirt-4krw7026",
+              "sha256": "27605fe917c8371293c21ba3c58ed03279c49757cbf3d3bc52c541b4174a75e6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005281120334-image-53745338548302",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Houndstooth-Shirt-Pageant-Blue.jpg?v=1788428935",
+              "sourceUrl": "https://www.perryellis.com/products/houndstooth-twill-long-sleeve-shirt-4lfw7015",
+              "sha256": "5fa3b100d772e1b366404dc41105e0a5d906de70ebecfa29b11ab7229fc1f6dc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005281120334-image-53745338581070",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Houndstooth-Shirt-3.jpg?v=1788428939",
+              "sourceUrl": "https://www.perryellis.com/products/houndstooth-twill-long-sleeve-shirt-4lfw7015",
+              "sha256": "87801ac257c1d862ad4615f483dd29580d51889208efaf189d1266baf7249fda",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280694350-image-53745340874830",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Painted-Geo-Print-Shirt-Cadet.jpg?v=1788428832",
+              "sourceUrl": "https://www.perryellis.com/products/long-sleeve-painted-geo-print-shirt-4lfw7013",
+              "sha256": "3eff9331ff6796d54b5e4ca4ac513732e29b348b7ed7dd4c26a12d0419c87c2c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280694350-image-53745340907598",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Painted-Geo-Print-Shirt-3.jpg?v=1788428836",
+              "sourceUrl": "https://www.perryellis.com/products/long-sleeve-painted-geo-print-shirt-4lfw7013",
+              "sha256": "4a329a0e069264b6c7aa6ab18cadc499273c418e2f9d8877a432b4809f8d0ed2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600153166-image-55309271367758",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Total-Stretch-Micro-Window-Print-Shirt-Bright-White.jpg?v=1788428999",
+              "sourceUrl": "https://www.perryellis.com/products/micro-window-print-short-sleeve-shirt-4lfw7046",
+              "sha256": "d1272a25193f24981fe45b9449b02c470e9f37f83868a96550d245ca6987956d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8010600153166-image-55309271400526",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Total-Stretch-Micro-Window-Print-Shirt-3.jpg?v=1788429002",
+              "sourceUrl": "https://www.perryellis.com/products/micro-window-print-short-sleeve-shirt-4lfw7046",
+              "sha256": "9c97cc4ce3d77d0ff4580257cf85ed72cafd2d8f7125a46640206c368ab34d00",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280727118-image-53745342185550",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Abstract-Square-Print-Shirt-Dark-Sapphire.jpg?v=1788428851",
+              "sourceUrl": "https://www.perryellis.com/products/short-sleeve-small-abstract-square-print-shirt-4lfw7036",
+              "sha256": "a4467fe3042dd44de03ba3034778adb80a945ec892417c4eb5b4ae36618ded6d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280727118-image-53745342218318",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Abstract-Square-Print-Shirt-3.jpg?v=1788428854",
+              "sourceUrl": "https://www.perryellis.com/products/short-sleeve-small-abstract-square-print-shirt-4lfw7036",
+              "sha256": "0d1e384ee9920c3ca40437d80ecba96d878bd1a5330bab219dc288b1f5fc2cfe",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280170062-image-53745340219470",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Total-Stretch-Ombre-Diamond-Print-Shirt-Pageant-Blue.jpg?v=1788428625",
+              "sourceUrl": "https://www.perryellis.com/products/ombre-diamond-print-short-sleeve-shirt-4lfw7030",
+              "sha256": "8ef99270964798d6b964f4fc78bcdfb050e9bc74273559fa5b9cf22745fcf784",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280170062-image-53745340252238",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Total-Stretch-Ombre-Diamond-Print-Shirt-3.jpg?v=1788428629",
+              "sourceUrl": "https://www.perryellis.com/products/ombre-diamond-print-short-sleeve-shirt-4lfw7030",
+              "sha256": "0c6f7dca3f3a3260439ddb314e4329ceb06f37d5516e5ac3032f7b917aca53ee",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280628814-image-53745342021710",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Linear-Geo-Jacquard-Shirt-Chiseled-Stone.jpg?v=1788428816",
+              "sourceUrl": "https://www.perryellis.com/products/short-sleeve-linear-geo-jacquard-shirt-4lfw7029",
+              "sha256": "079e9aa94bce34ed594742b5806c577198ae84e6aefb1c66a384995cc3d9c235",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280628814-image-53745342054478",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Linear-Geo-Jacquard-Shirt-3.jpg?v=1788428819",
+              "sourceUrl": "https://www.perryellis.com/products/short-sleeve-linear-geo-jacquard-shirt-4lfw7029",
+              "sha256": "41203c89c583833fcd84dab10ee5cea5ee036b3981ac253cfb155dd7c0ab6cf3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280661582-image-53745343168590",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Diamond-Print-Shirt-Pageant-Blue.jpg?v=1788428824",
+              "sourceUrl": "https://www.perryellis.com/products/short-sleeve-diamond-print-shirt-4lfw7017",
+              "sha256": "deee89f31b5175e9b43ed9776c0aea3d59a804767a43a54bb91798f88da05d65",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280661582-image-53745343201358",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Total-Stretch-Diamond-Print-Shirt-3.jpg?v=1788428828",
+              "sourceUrl": "https://www.perryellis.com/products/short-sleeve-diamond-print-shirt-4lfw7017",
+              "sha256": "deb72b1684e917cdf72a7a4bd653bc52f20373e9cf1d5b275720960a69dba651",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280989262-image-53745342611534",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Herringbone-Square-Print-Shirt.jpg?v=1788428919",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-plain-weave-herringbone-square-print-shirt-4lfw7014",
+              "sha256": "a7c2394802941bef8ca1ead035ab94e9198ec232e49f58f2dc3c486f81570d9e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8005280989262-image-53745342578766",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Slim-Fit-Herringbone-Square-Print-Shirt-3.jpg?v=1788428923",
+              "sourceUrl": "https://www.perryellis.com/products/slim-fit-plain-weave-herringbone-square-print-shirt-4lfw7014",
+              "sha256": "e6950665903d35a75cc2de2b3cffc5f41689b948eb8860af7ec961bf1c93da7f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8040717877326-image-54894549073998",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Abstract-Floral-Long-Sleeve-Herringbone-Shirt-Turtledove.jpg?v=1787813681",
+              "sourceUrl": "https://www.perryellis.com/products/abstract-floral-long-sleeve-herringbone-shirt-4lfw7032",
+              "sha256": "6fdeaf3a1373f4787b2008443e9bca1d41033dfecea1418264bdd0e95574fd2e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8040717877326-image-54894549106766",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-Abstract-Floral-Long-Sleeve-Herringbone-Shirt-3.jpg?v=1787813684",
+              "sourceUrl": "https://www.perryellis.com/products/abstract-floral-long-sleeve-herringbone-shirt-4lfw7032",
+              "sha256": "cd6df32c544abcb72a7bf01f5a1d036267b06f91a00b2a8b34562ca725353758",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8040486469710-image-50178510684238",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-7-Duraflex-Tricot-Drawstring-Short-Dark-Sapphire.jpg?v=1782875739",
+              "sourceUrl": "https://www.perryellis.com/products/7-duraflex-tricot-drawstring-short-4lmh7802-cl",
+              "sha256": "1152a855a8ea92ad2c83b79ea4eeb586a9b7f8472c393d60d05dc3698dde1368",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "perryellis-8040486469710-image-50178510749774",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0097/5821/2174/files/Perry-Ellis-mens-7-Duraflex-Tricot-Drawstring-Short-3.jpg?v=1782875745",
+              "sourceUrl": "https://www.perryellis.com/products/7-duraflex-tricot-drawstring-short-4lmh7802-cl",
+              "sha256": "349e6769ef590c522d7f1c44f823b0e2bcc63e74663674b111032e6eab08d699",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 60
+        },
+        {
+          "source": "untuckit",
+          "pages": [
+            {
+              "url": "https://www.untuckit.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T23:12:50.844622+00:00",
+              "snapshotSha256": "ac237b5936535588b80b098b3db5d5d4dd5edc8b0b37be2fbf88312f1c014a4e"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "untuckit-4808023441486-image-34930771558478",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/SPITLER-UNTUCKIT-40738DGY-SWEATER-VNECK-SOLID-GRAY-1.jpg?v=1755715247",
+              "sourceUrl": "https://www.untuckit.com/products/spitler-vneck-dark-grey",
+              "sha256": "dc611ec951809aadb5845bc2b58d11fcd9c8ada7e64355afce13813adf652d15",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-4808023441486-image-34930771656782",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/SPITLER-UNTUCKIT-40738DGY-SWEATER-VNECK-SOLID-GRAY-3.jpg?v=1755715247",
+              "sourceUrl": "https://www.untuckit.com/products/spitler-vneck-dark-grey",
+              "sha256": "d37953cdb602e8be9bae801f4589381cb9b8b160ff7e98516690bcd624d9f569",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-6854582632526-image-56048905158734",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/CADETTO-UNTUCKIT-41438GRE-WF-GREEN-1.jpg?v=1789481715",
+              "sourceUrl": "https://www.untuckit.com/products/cadetto-wf",
+              "sha256": "bd4efd4e47d658dd454f98b582ec4531f97355024e44d1bb607f96fd2798a6a2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-6854582632526-image-56048905027662",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/CADETTO-UNTUCKIT-41438GRE-WF-GREEN-3.jpg?v=1789481715",
+              "sourceUrl": "https://www.untuckit.com/products/cadetto-wf",
+              "sha256": "3c1c6f6710304f80c01fe32477f4910941357ae596be155a20f4e96f98a9d912",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7769525256270-image-56054600630350",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/SOLAY-WF-UNTUCKIT-42201Blu-PERFORMANCE-BLUE-1.jpg?v=1789488471",
+              "sourceUrl": "https://www.untuckit.com/products/solay-wf",
+              "sha256": "144f7af685fc1b9166035565b271348777dbb81ed1f8578eb7f2503b7735afc3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7769525256270-image-56054600368206",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/SOLAY-WF-UNTUCKIT-42201Blu-PERFORMANCE-BLUE-2.jpg?v=1789488470",
+              "sourceUrl": "https://www.untuckit.com/products/solay-wf",
+              "sha256": "8eee38d69cdbef447a3528cfe257e198f5ce1f77275bf1b667dc968c92d00afd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828361936974-image-55712829702222",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/WEBERLY-UNTUCKIT-42308Pur-SPORTCOAT-PURPLE-1_112fb779-30bc-4aff-8030-0c927a711aeb.jpg?v=1788985590",
+              "sourceUrl": "https://www.untuckit.com/products/weberly",
+              "sha256": "56eac22937e65f9d45952d5b2b2e542b65850ee976184afaf32470706910f8c1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828361936974-image-55712829734990",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/WEBERLY-UNTUCKIT-42308Pur-SPORTCOAT-PURPLE-2_3fea28e4-fd96-4f99-a2cd-b1ed27ede3b9.jpg?v=1788985590",
+              "sourceUrl": "https://www.untuckit.com/products/weberly",
+              "sha256": "ab94dbc01f522c0ae1e3df7385753e8041a6caebf31922cc7d0156901307d8a9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828362002510-image-55713825620046",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ROGER-UNTUCKIT-42309Nav-SPORTCOAT-BLUE-1_ea99d203-10ce-4199-ba9b-38ab25dd5a30.jpg?v=1788987460",
+              "sourceUrl": "https://www.untuckit.com/products/roger",
+              "sha256": "52255861f6d0558cfd8929a2e71117c238f1d85e3c2080cfd624a435e26f80e5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828362002510-image-55713825685582",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ROGER-UNTUCKIT-42309Nav-SPORTCOAT-BLUE-3_7bef529c-328e-474d-8b0d-cec3b36caf69.jpg?v=1788987460",
+              "sourceUrl": "https://www.untuckit.com/products/roger",
+              "sha256": "bd3d1f7244f5df60b5d635ca6aeee82cbde84bcf135a40036cb2fe88f623a74d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828362133582-image-55712998522958",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/HOLSTEIN-UNTUCKIT-42312Blu-SPORTCOAT-BLUE-1_4849c546-45fd-4a65-879e-63eab5e2b803.jpg?v=1788986007",
+              "sourceUrl": "https://www.untuckit.com/products/holstein",
+              "sha256": "e293de9a0f5ce6513c63199f07b6aac594c4ffaac421d6f48563a54d01472294",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828362133582-image-55712998555726",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/HOLSTEIN-UNTUCKIT-42312Blu-SPORTCOAT-BLUE-2_ef66a2c7-7c71-4490-bd66-d543a53ce8e2.jpg?v=1788986007",
+              "sourceUrl": "https://www.untuckit.com/products/holstein",
+              "sha256": "18e1b17c7e7ad704fc8f6e3f57408b75e62b4c37a66f2295f14558c7ff4dfbb5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402325070-image-48623532998734",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/RIDGWELL-UNTUCKIT-42387Blu-WF-PLAID-BLUE-1.jpg?v=1776288006",
+              "sourceUrl": "https://www.untuckit.com/products/ridgewell-wf-blue",
+              "sha256": "ad75a9fbe087742b0eddf266f52f4059c2d00b339ebb14c1220c90d60dfd85a6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402325070-image-48623533064270",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/RIDGWELL-UNTUCKIT-42387Blu-WF-PLAID-BLUE-3.jpg?v=1776288006",
+              "sourceUrl": "https://www.untuckit.com/products/ridgewell-wf-blue",
+              "sha256": "a324dba79f8aa8e3966ac4effc31f76bf978ec4e5e080a6c8cfca8813bac696c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005267423310-image-55713757036622",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/MELROSE-UNTUCKIT-42475Blu-PERFORMANCE-BLUE-1_7f9a4efc-7124-4458-b394-246c82ccdce4.jpg?v=1788987244",
+              "sourceUrl": "https://www.untuckit.com/products/melrose-blue",
+              "sha256": "48650cd794a2538269ddc5e9351f4db142c163c2e3cdc505149f13d3e324be5f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005267423310-image-55713757102158",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/MELROSE-UNTUCKIT-42475Blu-PERFORMANCE-BLUE-3_fe8d3031-2a6e-47dd-8c89-09c37815a871.jpg?v=1788987244",
+              "sourceUrl": "https://www.untuckit.com/products/melrose-blue",
+              "sha256": "d8d1772338cb0bc6723be691eeddbdb37ec9b9f3fb48900eb72b3ff6f5aa721b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7769524764750-image-55714705997902",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/SERFIELD-UNTUCKIT-42206Red-WF-CHECK-RED-1_4d1bfc00-11f3-487f-9414-5469ae37b75b.jpg?v=1788988886",
+              "sourceUrl": "https://www.untuckit.com/products/serfield-wf",
+              "sha256": "f7c2ef5ab467c9fba2c78fd3f86d35403c7c5bee9bf6b209ffd3b48b6a71a714",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7769524764750-image-55714706030670",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/SERFIELD-UNTUCKIT-42206Red-WF-CHECK-RED-4_9b581df6-e2ea-402a-9b59-557bc6295899.jpg?v=1788988886",
+              "sourceUrl": "https://www.untuckit.com/products/serfield-wf",
+              "sha256": "3d8661e4a156b1e5ddf78912d4b727e1c0a0bba94f807401584d8e620c90d303",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7769524731982-image-55713719058510",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/MARCHAND-UNTUCKIT-42203Red-WF-PLAID-RED-1_bc5b8f67-0171-4493-9e92-6ec983ca5202.jpg?v=1788987152",
+              "sourceUrl": "https://www.untuckit.com/products/marchand-wf",
+              "sha256": "7061d101fd80892bb39f90c5d30ecca2492eee4552b94aae5515a28ca0cacb9b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7769524731982-image-55713719124046",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/MARCHAND-UNTUCKIT-42203Red-WF-PLAID-RED-3_d2bc9047-0a58-4090-8420-9d0c8c14d50e.jpg?v=1788987152",
+              "sourceUrl": "https://www.untuckit.com/products/marchand-wf",
+              "sha256": "0a54671ec62eb5f4f787363d8c21652f1a4beaad99317342349e8abb3bcb16b0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265555534-image-55712900939854",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/GLERA-UNTUCKIT-41560Bwh-HENLEY-BRIGHT-WHITE-1_c8084b7d-a416-493b-94d5-2659dc3fe1d1.jpg?v=1788985832",
+              "sourceUrl": "https://www.untuckit.com/products/glera-tencel-henley-bright-white",
+              "sha256": "bf80890681124d990036f7e0aadf0e386c2392b9fe594ecd94429e0a0e50ad1f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265555534-image-55712901005390",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/GLERA-UNTUCKIT-41560Bwh-HENLEY-BRIGHT-WHITE-3_e341af84-d412-4a97-8d8a-58caa98fcdc5.jpg?v=1788985832",
+              "sourceUrl": "https://www.untuckit.com/products/glera-tencel-henley-bright-white",
+              "sha256": "38e4819c707a5b5e5d22e1deeec26111acf59faaa111509966748a1cfee3376a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265358926-image-55713325023310",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/KRAUS-UNTUCKIT-42493Yel-HOODIE-GOLDEN-APRICOT-1.jpg?v=1788986437",
+              "sourceUrl": "https://www.untuckit.com/products/kraus-golden-apricot",
+              "sha256": "6fb6c7d775b81cd4cbc373781f9b55fbd7cad07c227651108b414061f44a3ab1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265358926-image-55713325088846",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/KRAUS-UNTUCKIT-42493Yel-HOODIE-GOLDEN-APRICOT-3.jpg?v=1788986437",
+              "sourceUrl": "https://www.untuckit.com/products/kraus-golden-apricot",
+              "sha256": "cbc05cfa9c6a7b17233dfee7764e7e5aff3d390563484b51fcc17a21ecf78ad1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265326158-image-55713265909838",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/KRAUS-UNTUCKIT-42493Dgr-SWEATSHIRT-PINE-GROVE-1.jpg?v=1788986350",
+              "sourceUrl": "https://www.untuckit.com/products/kraus-pine-grove",
+              "sha256": "ae3532506de8055ee35f72819fcb51e4575eaeb7ba82d750bfaea2c6da35499d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265326158-image-55713265942606",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/KRAUS-UNTUCKIT-42493Dgr-SWEATSHIRT-PINE-GROVE-2.jpg?v=1788986351",
+              "sourceUrl": "https://www.untuckit.com/products/kraus-pine-grove",
+              "sha256": "c44abf913d798502d0406c6672fe6b270644478d80ae278fa6c2014bd3014196",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265195086-image-55712188891214",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FILIPRE-UNTUCKIT-42492Bro-SWEATSHIRT-COFFEE-BEAN-1.jpg?v=1788984596",
+              "sourceUrl": "https://www.untuckit.com/products/filipre-coffee-bean",
+              "sha256": "735b1c8f5c2c7dff2d34aab44691bdfda10e128fbec4f49c05e5c3c3dcb2b810",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265195086-image-55712188923982",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FILIPRE-UNTUCKIT-42492Bro-SWEATSHIRT-COFFEE-BEAN-2.jpg?v=1788984597",
+              "sourceUrl": "https://www.untuckit.com/products/filipre-coffee-bean",
+              "sha256": "94f2f14547bebb2a55a542e5962e59ae58aa3fd26b1edb570d88561e99539fa2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265162318-image-55712580468814",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FILIPRE-UNTUCKIT-42492Red-SWEATSHIRT-SUNDRIED-TOMATO-1.jpg?v=1788985112",
+              "sourceUrl": "https://www.untuckit.com/products/filipre-sundired-tomato",
+              "sha256": "a5c940e235a86c2e69196fd830e6db83bdbcf23137b55b5e4f3264e3906215e3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265162318-image-55712580534350",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FILIPRE-UNTUCKIT-42492Red-SWEATSHIRT-SUNDRIED-TOMATO-3.jpg?v=1788985113",
+              "sourceUrl": "https://www.untuckit.com/products/filipre-sundired-tomato",
+              "sha256": "c38e16bbe2be45589a5de612f5c653aa962de98429517e2799af356cad771250",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265096782-image-55712555106382",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FILIPRE-UNTUCKIT-42492Nav-NAVY-BLAZER-1.jpg?v=1788984996",
+              "sourceUrl": "https://www.untuckit.com/products/filipre-navy-blazer",
+              "sha256": "4c21cff11a45e46f6ae4767e1f8c34059f9fccaef128f591e96668d6760612fc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265096782-image-55712555139150",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FILIPRE-UNTUCKIT-42492Nav-NAVY-BLAZER-2.jpg?v=1788984996",
+              "sourceUrl": "https://www.untuckit.com/products/filipre-navy-blazer",
+              "sha256": "b6f7a2975d77c193a2489d07d00f9e59a8726bb17b57b76e4a7037022b26ba67",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265064014-image-55712435568718",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FILIPRE-UNTUCKIT-42492Gre-SWEATSHIRT-PINE-GROVE-1.jpg?v=1788984890",
+              "sourceUrl": "https://www.untuckit.com/products/filipre-pine-grove",
+              "sha256": "1a4fb1dd89156a99bc3945ff28fbf246eb61c82b69102850cb957818f9b6e213",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-8005265064014-image-55712435601486",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FILIPRE-UNTUCKIT-42492Gre-SWEATSHIRT-PINE-GROVE-2.jpg?v=1788984890",
+              "sourceUrl": "https://www.untuckit.com/products/filipre-pine-grove",
+              "sha256": "2371f468529af451142cfd745dd83f756b5f8a5311929b1a9678e14a060688d1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828361314382-image-46154616569934",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/HARLAND-UNTUCKIT-42328Blu-WF-PERF-BLUE-1.jpg?v=1771530137",
+              "sourceUrl": "https://www.untuckit.com/products/harland-wf-perf-blue",
+              "sha256": "5665e3f4b7166d52ec488b346093ff1ca68da1aef673983e6fd3fec87f06c55b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828361314382-image-46154616635470",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/HARLAND-UNTUCKIT-42328Blu-WF-PERF-BLUE-3.jpg?v=1771530137",
+              "sourceUrl": "https://www.untuckit.com/products/harland-wf-perf-blue",
+              "sha256": "499a604ac15afe36399c26371592b72f494e1e1d7700fa8663c42530e68d16f2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402783822-image-48616824668238",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ISLINGTON-UNTUCKIT-42395Nav-PERF-PRINT-NAVY-1.jpg?v=1776277606",
+              "sourceUrl": "https://www.untuckit.com/products/islington",
+              "sha256": "1e396258c542982c757ff4cabaff9a01045ca082219dd349afd17e623927c9f6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402783822-image-48616824733774",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ISLINGTON-UNTUCKIT-42395Nav-PERF-PRINT-NAVY-3.jpg?v=1776277606",
+              "sourceUrl": "https://www.untuckit.com/products/islington",
+              "sha256": "739cc503d29fa79eee3189e0c692f1a691975196e8c1e0a2df403dbd6138e062",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402619982-image-48616195424334",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/GUTIERREZ-UNTUCKIT-COTTON-TEK-STRIPE-BLUE-3.jpg?v=1776276646",
+              "sourceUrl": "https://www.untuckit.com/products/gutierrez-wf-perf",
+              "sha256": "fc15ecdab5d67aed4e9efc0d446ce2e3606fc81d8f4e18ae19e0404f43c30f0c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402619982-image-48616195358798",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/GUTIERREZ-UNTUCKIT-COTTON-TEK-STRIPE-BLUE-1.jpg?v=1776276646",
+              "sourceUrl": "https://www.untuckit.com/products/gutierrez-wf-perf",
+              "sha256": "bcbcded2f6703c6533caea6095283d3f41c3fdbe844558cb6399d06b7a81ddf5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402914894-image-48604747563086",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ARUNDEL-UNTUCKIT-42396Red-PERF-PRINT-RED-3.jpg?v=1776262200",
+              "sourceUrl": "https://www.untuckit.com/products/arundel",
+              "sha256": "b1ff1f8588129c2ce19154ec494e5496a6c4a35339b5f5a968888d43540b253e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402914894-image-48604747497550",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ARUNDEL-UNTUCKIT-42396Red-PERF-PRINT-RED-1.jpg?v=1776262199",
+              "sourceUrl": "https://www.untuckit.com/products/arundel",
+              "sha256": "d02a05c37f278f0e990bfc88494a53aaac691da463296f5ac54b131a74c85156",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402718286-image-48617552707662",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/LIVINGSTON-UNTUCKIT-42393Blu-PERF-PRINT-BLUE-3.jpg?v=1776278658",
+              "sourceUrl": "https://www.untuckit.com/products/livingston",
+              "sha256": "1400db426bce79a44029e9fdd4e70be06b3cd867d1e648111f595861ff5d3e64",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7853402718286-image-48617552674894",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/LIVINGSTON-UNTUCKIT-42393Blu-PERF-PRINT-BLUE-2.jpg?v=1776278658",
+              "sourceUrl": "https://www.untuckit.com/products/livingston",
+              "sha256": "5f7c7793318db1d3ca45648b2a0e2e3b327b8a95e63a489232fb2e3bda3fd244",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828464566350-image-46160452943950",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/SAXUM-UNTUCKIT-30088Pgr-TEE-SOLID-JUNE-BUG-1.jpg?v=1771537146",
+              "sourceUrl": "https://www.untuckit.com/products/saxum-june-bug",
+              "sha256": "3349e8a83cdc5f7a734150b6a1ed02c9b68b308d14660e9f92c51f3458ae37e0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828464566350-image-46160453009486",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/SAXUM-UNTUCKIT-30088Pgr-TEE-SOLID-JUNE-BUG-3.jpg?v=1771537146",
+              "sourceUrl": "https://www.untuckit.com/products/saxum-june-bug",
+              "sha256": "e91f1d9d43144956ef6bc72f5efff9ca9865ddb88176753aed225a8713346625",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828464664654-image-46146830598222",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/CLARENDON-UNTUCKIT-40004Sfb-PERF-TEE-SOLID-AIRY-BLUE-1.jpg?v=1771522618",
+              "sourceUrl": "https://www.untuckit.com/products/clarendon-ii-airy-blue",
+              "sha256": "a6a4f46b30d7e6fa0d8adc1f1ccb20f6f27b875b86a6c11be2f06048fc1552b8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828464664654-image-46146830663758",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/CLARENDON-UNTUCKIT-40004Sfb-PERF-TEE-SOLID-AIRY-BLUE-3.jpg?v=1771522618",
+              "sourceUrl": "https://www.untuckit.com/products/clarendon-ii-airy-blue",
+              "sha256": "55cb7d336727531b7895b430e2fc09ff553353b93b930c3fb1eea6f5b941fedf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7591950221390-image-33821176430670",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FORBES-UNTUCKIT-42086Gre-PERF-SS-SEERSUCKER-GREEN-1.jpg?v=1762269916",
+              "sourceUrl": "https://www.untuckit.com/products/forbes-perf-seersucker-ss",
+              "sha256": "5f6392f31896dc098b4aaa896133e1b70799fabd8558e6f98ca15222e44d9174",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7591950221390-image-33821176791118",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FORBES-UNTUCKIT-42086Gre-PERF-SS-SEERSUCKER-GREEN-2.jpg?v=1745420947",
+              "sourceUrl": "https://www.untuckit.com/products/forbes-perf-seersucker-ss",
+              "sha256": "2faf429f8bf5eab93791b4caf3994247c7abe7c2e9294cfb79875749ceb5caef",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7591950385230-image-33821328605262",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FORBES-UNTUCKIT-42086Pin-PERF-SS-SEERSUCKER-PINK-1.jpg?v=1762269918",
+              "sourceUrl": "https://www.untuckit.com/products/forbes-perf-seersucker-ss-2",
+              "sha256": "e68ddf1945f907082b78d1cd6acb54d10d98feff9fc94cd0fa2a2b7bb82483a9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7591950385230-image-33821328736334",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/FORBES-UNTUCKIT-42086Pin-PERF-SS-SEERSUCKER-PINK-2.jpg?v=1745421088",
+              "sourceUrl": "https://www.untuckit.com/products/forbes-perf-seersucker-ss-2",
+              "sha256": "e253f6af0de48143706b4034c20a85545e1c64dec06a0d9e1402ae1e123f4284",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7669820653646-image-56052359856206",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/MAYHOLD-UNTUCKIT-42118Blu-PLAID-SPORTCOAT-BLUE-1_fd0fa800-bfbd-462b-867c-abffae6893b4.jpg?v=1789485956",
+              "sourceUrl": "https://www.untuckit.com/products/mayhold",
+              "sha256": "2ab38f3c8b23bbd7055faef86ce621571d6d9d79c6d37034db9974ee843dfc2f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7669820653646-image-56052359921742",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/MAYHOLD-UNTUCKIT-42118Blu-PLAID-SPORTCOAT-BLUE-3.jpg?v=1789485956",
+              "sourceUrl": "https://www.untuckit.com/products/mayhold",
+              "sha256": "fc1dbad5cd8e150e9c0375f69ca4fe7a778c1ac49fb58cdee73ca9cdec44f0d4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7669820719182-image-34970932805710",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/PALAZZO-UNTUCKIT-40427Bla-SOLID-SPORTCOAT-BLACK-1.jpg?v=1756129198",
+              "sourceUrl": "https://www.untuckit.com/products/palazzo-4",
+              "sha256": "36753f2ca23a06ca9b2e3c996e61e7fa4b987acab9d960b6d137e92d9dfd6a2b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7669820719182-image-34970932871246",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/PALAZZO-UNTUCKIT-40427Bla-SOLID-SPORTCOAT-BLACK-3.jpg?v=1756129199",
+              "sourceUrl": "https://www.untuckit.com/products/palazzo-4",
+              "sha256": "ae425161b7e9cd9575d2a34e4b23b1bb19d3a9b33a6589b74b55ec7a0ef97afe",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828465352782-image-48611362963534",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/DENIM-UNTUCKIT-42420Dbl-DARK-WASH-1.jpg?v=1776270265",
+              "sourceUrl": "https://www.untuckit.com/products/denim-pants-rinse",
+              "sha256": "c4cda575ed2c708847b85cff897225efa81cf7e7ed1ba544cbfb8ddf592698cb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828465352782-image-48611363029070",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/DENIM-UNTUCKIT-42420Dbl-DARK-WASH-3.jpg?v=1776270265",
+              "sourceUrl": "https://www.untuckit.com/products/denim-pants-rinse",
+              "sha256": "67b750f879dc94e33503cf40bccede8a0c3dfebabd73787b47ab4aadaf24ae68",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828465385550-image-48611616456782",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/DENIM-UNTUCKIT-42420Mbl-MEDIUM-WASH-1.jpg?v=1776270553",
+              "sourceUrl": "https://www.untuckit.com/products/denim-pants-dark-wash",
+              "sha256": "571900a7274bc643474fee334793be87b44b9764c21746ca2a2d4bb6081e1b37",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "untuckit-7828465385550-image-48611616522318",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/DENIM-UNTUCKIT-42420Mbl-MEDIUM-WASH-3.jpg?v=1776270554",
+              "sourceUrl": "https://www.untuckit.com/products/denim-pants-dark-wash",
+              "sha256": "aae4fb8ad1857c23485499e5de25e07f1838e3896ef4eec5499f81da8425f18e",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 60
         }
       ]
     }

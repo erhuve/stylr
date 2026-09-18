@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "fashionpedia-expansion-10712",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHkjLc",
+    "localPath": "images/fashionpedia-expansion-10712.webp",
+    "sha256": "20b4b6377a7b58aa0336b0c645728e48e2cbb82eccedbd541a3e510a6c9bd47c",
+    "ordinal": 0,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White flared dress and dark belt; flare hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10809",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHkFBr",
+    "localPath": "images/fashionpedia-expansion-10809.webp",
+    "sha256": "48d5c105bbf9e49fe5264ff20329c67709b268bd17dc544c23d0e3bea2b6a5c8",
+    "ordinal": 1,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White cropped top and shorts with tall boots; leaning pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11518",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHkKvT",
+    "localPath": "images/fashionpedia-expansion-11518.webp",
+    "sha256": "3e1340ece55f2ac143d5cd7e466efa83ffeb6c7f9e7164dfb0e918c021b7c8cc",
+    "ordinal": 2,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black tunic dress with cream scarf and boots; loose torso hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19167",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHm7mk",
+    "localPath": "images/fashionpedia-expansion-19167.webp",
+    "sha256": "3840ec6f39feecb95680ae37c2d069572fc4a2010b6131a892a5034c68a31118",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated black tunic and scarf ensemble from 1058.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10285",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHmCRc",
+    "localPath": "images/fashionpedia-expansion-10285.webp",
+    "sha256": "bb7b777080bf0f22808d528962f15f7fdd76847a49d4bf6e161a7f3b20a4dd7c",
+    "ordinal": 4,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White asymmetric dress with heels; moving drape hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10333",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHne6x",
+    "localPath": "images/fashionpedia-expansion-10333.webp",
+    "sha256": "37017c7060ae906bd93ccab9529f99fd7e7a4ea49dbc6ed8d7b7810a676d7c81",
+    "ordinal": 5,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-facing cream blouse and brown shorts.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15366",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHo3H6",
+    "localPath": "images/fashionpedia-expansion-15366.webp",
+    "sha256": "45d2c0271e4398664b823974987a6ca5da8f47277ffeef5385560c1a4b59a452",
+    "ordinal": 6,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Floral maxi dress with raised knee; pose and skirt hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19730",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHpiji",
+    "localPath": "images/fashionpedia-expansion-19730.webp",
+    "sha256": "a69f986f9fcef311eefb8711d28047b2bc20a9a2ab811369bcdd649039b9c80b",
+    "ordinal": 7,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tan patterned maxi dress; raised arms and loose skirt hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12614",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHpmT8",
+    "localPath": "images/fashionpedia-expansion-12614.webp",
+    "sha256": "e2f1b5368f9d3d19ddcf7a5897aecac145d91049f61e14c0452e7d9c77fa10e9",
+    "ordinal": 8,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated tan maxi dress from 1063.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16849",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bHpzYp",
+    "localPath": "images/fashionpedia-expansion-16849.webp",
+    "sha256": "e692f71d3f9c764bc08274980f57757f36d76ef78c9a77df8ea44808ab91c66a",
+    "ordinal": 9,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black blazer over blouse and shorts with boots; layers hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12515",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bKR1Nk",
+    "localPath": "images/fashionpedia-expansion-12515.webp",
+    "sha256": "241143c3a412d4299b090c38acc84949363c5126c273c5d79fedd79c8aa7e098",
+    "ordinal": 10,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White lace short dress and yellow scarf; loose cut hides waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15400",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/T9xAWj",
+    "localPath": "images/fashionpedia-expansion-15400.webp",
+    "sha256": "3b62e9b30cba05bb0e45b7ccbfdbb6d9742cad7e599686777510fe061cb4c3b5",
+    "ordinal": 11,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Floral dress and hat on swing; seated pose hides proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16214",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/bUPTje",
+    "localPath": "images/fashionpedia-expansion-16214.webp",
+    "sha256": "94e7437ab3fa16f89da4d4be1b1ef46626e785a8a29ddd991acf581af3eb86de",
+    "ordinal": 12,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black sleeveless jumpsuit; angled hip and crossed legs limit comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15902",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/c2SHuj",
+    "localPath": "images/fashionpedia-expansion-15902.webp",
+    "sha256": "12debd343c955b07c1c07ce1dbb9dd987cc7da7514f26363159e53b2cb0d1bc7",
+    "ordinal": 13,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark blazer portrait with crossed arms; covered torso and crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16153",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/c7T8Eq",
+    "localPath": "images/fashionpedia-expansion-16153.webp",
+    "sha256": "c1455557e7479e156251cb5ec8a2a76e0c4aed2c180ae8202dbd2b7831ccc819",
+    "ordinal": 14,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Near-monochrome close leather-jacket portrait, insufficient outfit view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17960",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/zmyKw9",
+    "localPath": "images/fashionpedia-expansion-17960.webp",
+    "sha256": "8048e70c5ecbcb2eefad55ca45c5e8202217835db8fa32da214ec05f9a8243ab",
+    "ordinal": 15,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-facing black peplum top and trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16846",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/cA8vNG",
+    "localPath": "images/fashionpedia-expansion-16846.webp",
+    "sha256": "f21054e18aca8274348e6a5674306dc27769cc9b799f01ac94beb158c2d0d099",
+    "ordinal": 16,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy blazer and dark jeans; outer layers obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10494",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/cELZwU",
+    "localPath": "images/fashionpedia-expansion-10494.webp",
+    "sha256": "714a4e314b65bf7012cb3948f4cb40511c228348a6dbb5f66e96ed4bcfc1a7e3",
+    "ordinal": 17,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tank, fitted blue jeans and heels; enlarged view confirms turned torso and hand obscure frontal axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11958",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dbu2cK",
+    "localPath": "images/fashionpedia-expansion-11958.webp",
+    "sha256": "911d267858e19a1f894d56c8c13735c2a5552805eab47bd0f764e1c96f4f8fc7",
+    "ordinal": 18,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark layered shirt and loose trousers; layers hide waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9156",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dc5aeE",
+    "localPath": "images/fashionpedia-expansion-9156.webp",
+    "sha256": "cde7828d93a294de77cfe3d3d6e106bab71374bcb3a907a2cc55ba35887e89ae",
+    "ordinal": 19,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multicolored fitted maxi dress and boots; angled pose and skirt hide comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11625",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dduPrf",
+    "localPath": "images/fashionpedia-expansion-11625.webp",
+    "sha256": "55ce0d19d65d6df243ea5c2288cee8da8c356dace87b5029c340bffdee6ce4a5",
+    "ordinal": 20,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Open blouse and underwear-oriented portrait; not an outfit reference.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15308",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dduUhi",
+    "localPath": "images/fashionpedia-expansion-15308.webp",
+    "sha256": "4bc292b8645b2a1634e83d7ee120439d4031305f4d8b25622df473fbd0e7d28b",
+    "ordinal": 21,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black lace-bodice dress portrait; gathered skirt and crop conceal hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10211",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dgktmw",
+    "localPath": "images/fashionpedia-expansion-10211.webp",
+    "sha256": "24a5a739db1404a576e2f6f32b6e548f4a57b25efa18eec3eda1a32cbfad3f62",
+    "ordinal": 22,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy sweater, short dark skirt and long socks; loose layers obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19333",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dh3nAc",
+    "localPath": "images/fashionpedia-expansion-19333.webp",
+    "sha256": "c88305571e18a930fc48316cda21e73fc79a5e4d362e6cc08c89f2284a80e4d1",
+    "ordinal": 23,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream flared dress with patterned scarf and heels; skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10376",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dztMac",
+    "localPath": "images/fashionpedia-expansion-10376.webp",
+    "sha256": "6368152b97150ec365a2113908aa987fb9da3c12ad6e6f929f3587151e333e60",
+    "ordinal": 24,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Reclining dark jacket and white top; pose and layers obscure build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10156",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dAyJcw",
+    "localPath": "images/fashionpedia-expansion-10156.webp",
+    "sha256": "4fbbcca01db2a9ef46cf82630fc101f3d71252a81cbddcde136a8d684dbebbe1",
+    "ordinal": 25,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red patterned loose belted tunic; gathered cloth hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15234",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dBaP2V",
+    "localPath": "images/fashionpedia-expansion-15234.webp",
+    "sha256": "5bc88baf89aaf2858996b9e48cfcc3dc1c84d684d189a8ce92aa090790af07c1",
+    "ordinal": 26,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark dress and red heels beside car; lean and flare hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19646",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dEiiKD",
+    "localPath": "images/fashionpedia-expansion-19646.webp",
+    "sha256": "f9ab573ae54836907e6568a5c6b7e9cba6173a69ceebcf391d651aa5031f9ee5",
+    "ordinal": 27,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Fitted strapless black mini dress; enlarged frontal view supports smaller-intermediate build, balanced shoulders and hips, moderate waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11189",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dEio4X",
+    "localPath": "images/fashionpedia-expansion-11189.webp",
+    "sha256": "d9a78c23850cf3ea0f8a391195997b1bd173f7f84b3248fefc482fb1afea00ac",
+    "ordinal": 28,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black short flared dress and heels; gathered skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18681",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dEoFJC",
+    "localPath": "images/fashionpedia-expansion-18681.webp",
+    "sha256": "4ee88c36fbb2d8a86e42181d3e55c16e5e5d2132c34fe980c103dd6f7ae8f5c0",
+    "ordinal": 29,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Turquoise belted short dress; lifted bent leg and arms hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12713",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dKpnLJ",
+    "localPath": "images/fashionpedia-expansion-12713.webp",
+    "sha256": "4834f0e13a5c990d221843f8c73e4e301e1fc6fb34fdc191e3f16fe53fdea645",
+    "ordinal": 30,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue patterned maxi dress; long loose skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16576",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dL7MP7",
+    "localPath": "images/fashionpedia-expansion-16576.webp",
+    "sha256": "5f13ab17302dd381e4f25c5de27a7e212c6d41e7a54a9f124d7a948f2d3033e6",
+    "ordinal": 31,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark jacket with fitted jeans and boots; crossed legs and layers obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9903",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dMNoJP",
+    "localPath": "images/fashionpedia-expansion-9903.webp",
+    "sha256": "144fda962bb5267bdfdc3f90090ec42bd4c9fd0516aa128491891fc42369fd61",
+    "ordinal": 32,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black sleeveless shift with cream trim; loose cut and lean hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-13399",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dNzVyk",
+    "localPath": "images/fashionpedia-expansion-13399.webp",
+    "sha256": "3473631181f7fe1f11d8fee3e928165e1e555975b8e834899dd9c8a77a3fed9e",
+    "ordinal": 33,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red short-sleeve knee dress; loose silhouette hides waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18005",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dNzYcz",
+    "localPath": "images/fashionpedia-expansion-18005.webp",
+    "sha256": "5cf24c9648fdd0a8956615a0ee9ba011fe4939d3b70d417931e0a72487206339",
+    "ordinal": 34,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": 0.0,
+      "waist": 1.0
+    },
+    "evidence": "Light patterned sleeveless fitted dress; enlarged frontal view supports intermediate build, balanced shoulders and hips, moderate waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10917",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dRaB5m",
+    "localPath": "images/fashionpedia-expansion-10917.webp",
+    "sha256": "3fd9948e1ec3b4140005e2453f46a0977c094576a855a1197edb35631e5412d1",
+    "ordinal": 35,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multiple foreground people around a car; ambiguous subject grouping.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17614",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dU3DPw",
+    "localPath": "images/fashionpedia-expansion-17614.webp",
+    "sha256": "7b1d60dc07251faad6e5ef3f83d16f3f0816bac99ac13500db4c6ab2f6b9ff7f",
+    "ordinal": 36,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of green dress.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15181",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dWZFpf",
+    "localPath": "images/fashionpedia-expansion-15181.webp",
+    "sha256": "fb8de1ba8c1d5e0fc0c2f395cfa9cd9af0292fe39442c9f40734b0d83a9f0553",
+    "ordinal": 37,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink short dress with dark jacket walking; distance and layers obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16950",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Ur9Q36",
+    "localPath": "images/fashionpedia-expansion-16950.webp",
+    "sha256": "bbdafbda6b0585f888a45b58b4b692473c578307b7edf8fed2e5f88ea1546300",
+    "ordinal": 38,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White and blue floral mini dress; raised arms and flared skirt obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12930",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/dYwXYX",
+    "localPath": "images/fashionpedia-expansion-12930.webp",
+    "sha256": "9dc418a7f41ddd7880411f9f178f1b354aa26a4d717e96fdb5c972faf3e31f2d",
+    "ordinal": 39,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black jacket, patterned top, pink skirt and fishnet tights; layers conceal contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9095",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ebVT4m",
+    "localPath": "images/fashionpedia-expansion-9095.webp",
+    "sha256": "46cceda242d7f586ac2caba700b94f3e01602446c4d14bff2deab40c8ea3fbb7",
+    "ordinal": 40,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue high-low dress; flowing skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18164",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ebVT4W",
+    "localPath": "images/fashionpedia-expansion-18164.webp",
+    "sha256": "12e3439eec696ebd47d5fe617f9b479f4960342252808a0ae05535f63965df3c",
+    "ordinal": 41,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark floral short dress in turned pose; hands and skirt obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20090",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ecKfbY",
+    "localPath": "images/fashionpedia-expansion-20090.webp",
+    "sha256": "ecf99b5526156e3faad35d849228c38374a3807742a60d3f4484c273e946dce7",
+    "ordinal": 42,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bright pink jacket and dark trousers; covered torso hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9456",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ecUvUB",
+    "localPath": "images/fashionpedia-expansion-9456.webp",
+    "sha256": "afc40ed0b9d917f3827926cc68c36435d54022cb15ada487925b3330474432ec",
+    "ordinal": 43,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Patterned high-collar jacket portrait; crop and thick layers conceal build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17376",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/edVQh7",
+    "localPath": "images/fashionpedia-expansion-17376.webp",
+    "sha256": "f9dbb9008a64834ece6238eb4a3c79cc686b4ee21ad3681dcf23e33b593f632f",
+    "ordinal": 44,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray sleeveless shift and heels; loose straight cut hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10072",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/UeBPDV",
+    "localPath": "images/fashionpedia-expansion-10072.webp",
+    "sha256": "2587d62b0fe65dcb4572193da99bdba50312a7f4d9a2b48e8fa2929e5b873303",
+    "ordinal": 45,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Crouched alternate of blue floral dress from 1094.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-8903",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ei2eWh",
+    "localPath": "images/fashionpedia-expansion-8903.webp",
+    "sha256": "eb1909eded2905be2f90538b92d61cdd3885c2013f7bffdcc4ba07d1555f749d",
+    "ordinal": 46,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray tee and pale shorts in profile; side pose prevents frontal comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17071",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/epXbnx",
+    "localPath": "images/fashionpedia-expansion-17071.webp",
+    "sha256": "5c9ca3ac90eb6f392f2bf5105bfa4c81d52748d22261dd3a0c5b45145a733420",
+    "ordinal": 47,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Leaning black leather jacket portrait; arms and rail obscure torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12350",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/eqPGa5",
+    "localPath": "images/fashionpedia-expansion-12350.webp",
+    "sha256": "d9b60aab9be4bf3250ecb30fa9e49a909a8cdc46fa7428f5426726f768dec993",
+    "ordinal": 48,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red jacket and bright blue jeans; raised arms and layers obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19789",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/eMSK1y",
+    "localPath": "images/fashionpedia-expansion-19789.webp",
+    "sha256": "8731d42bf0a5f1f88db78ca0c8209c0fd0ababafe929117724fd7794239f95e6",
+    "ordinal": 49,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White top and dark trousers in distant backlit profile; axes unclear.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17054",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fapRqL",
+    "localPath": "images/fashionpedia-expansion-17054.webp",
+    "sha256": "08c5b6343d678b81451c9f8e891b3e3c22d881f9c14b923960f417ed7b0030ad",
+    "ordinal": 50,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White collared blouse, dark fitted trousers and heels; crossed arm and legs obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17073",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ftosaP",
+    "localPath": "images/fashionpedia-expansion-17073.webp",
+    "sha256": "4c3ce90a6d31d3b8441a869e232fd0dc318f50f621ede2449fb0752bc8e742f2",
+    "ordinal": 51,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-facing patterned short dress by stream.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16325",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fv6Cvu",
+    "localPath": "images/fashionpedia-expansion-16325.webp",
+    "sha256": "f776a54433d79cd8f9951baca4add45a3b5144877f7ef40ef45d3a5403d40aa1",
+    "ordinal": 52,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark sleeveless top and patterned shorts; dark torso and distance hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12834",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fvzZ9Q",
+    "localPath": "images/fashionpedia-expansion-12834.webp",
+    "sha256": "cf81ec06f7487ca5637723f639c47b7fdc71c23e78f4569ff37a710132674fb8",
+    "ordinal": 53,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bright floral blouse, dark short skirt and heels; blouse hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11837",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fwrktV",
+    "localPath": "images/fashionpedia-expansion-11837.webp",
+    "sha256": "8c62588e4653ad1836b42750cb95e0ace9f566c6a335ffea6445e32135cd9730",
+    "ordinal": 54,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black cropped lace top and flared dark skirt; crop and flare hide hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17986",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fziBy4",
+    "localPath": "images/fashionpedia-expansion-17986.webp",
+    "sha256": "45cf800b0ef944261a05c28e18896fa0ed87e82272e6a7d14837697a2584f409",
+    "ordinal": 55,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black cropped tee and denim shorts kneeling on beach; pose obscures axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19620",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fG3vRu",
+    "localPath": "images/fashionpedia-expansion-19620.webp",
+    "sha256": "f0cae19881f87e89609e1d7e0c014f495df94400a47454e2bb3e0d9f5b352d6b",
+    "ordinal": 56,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Turquoise lace top, gray shorts and heels; arms overhead change torso contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17803",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fG3xiy",
+    "localPath": "images/fashionpedia-expansion-17803.webp",
+    "sha256": "f5c356d42a4e48a0dddcc8b22c9e4337b593915067d7bf22df418622d69b80dc",
+    "ordinal": 57,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated alternate of turquoise top and gray shorts from 1112.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18900",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fH7hrn",
+    "localPath": "images/fashionpedia-expansion-18900.webp",
+    "sha256": "f4f08cdd6c7bef8d2a6f0d35cda9500b98f76ab028d06895f39ce1674f8d2759",
+    "ordinal": 58,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White blouse and pink skirt with dark heels; seated pose and skirt obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19477",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fJo2Yt",
+    "localPath": "images/fashionpedia-expansion-19477.webp",
+    "sha256": "111b7fc27ed80574288a3b554dbcad5eec18c4a0610136adc476dec83a9f1fcb",
+    "ordinal": 59,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray sweatshirt, floral short skirt and red heels; loose torso hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9081",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fKjGQe",
+    "localPath": "images/fashionpedia-expansion-9081.webp",
+    "sha256": "ba19fd99904b93b129e14d01797ed6f5eda91d8d843eccdbe9656afcdb65798e",
+    "ordinal": 60,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Light long-sleeved blouse and patterned shorts; straight drape hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-13164",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fLu761",
+    "localPath": "images/fashionpedia-expansion-13164.webp",
+    "sha256": "03d02f94363d9a2f4bcf897163b321e1bb50f779cd92b94df607f1cdf0a41741",
+    "ordinal": 61,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Underwear and stocking-oriented low-angle portrait excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9612",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fNv9uY",
+    "localPath": "images/fashionpedia-expansion-9612.webp",
+    "sha256": "70fffdf40cc826f7e2de01516bd9a1913ac545295d97f03de943cf24962c178e",
+    "ordinal": 62,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Brown blouse, dark shorts, hat and heeled ankle shoes; blouse hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15696",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fPa68H",
+    "localPath": "images/fashionpedia-expansion-15696.webp",
+    "sha256": "fa0d26bad873d3c1ed956768f70540916a0e402773dc5ad8c071936bc6a8c549",
+    "ordinal": 63,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Polka-dot blouse, short flared skirt and red flats; flare hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18670",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fTov7P",
+    "localPath": "images/fashionpedia-expansion-18670.webp",
+    "sha256": "fe54b561159f9ca34509436406f516f8cc023eda0eb959cbe4bfcf434146fbb7",
+    "ordinal": 64,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-facing black top and gold shorts.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16272",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fU497U",
+    "localPath": "images/fashionpedia-expansion-16272.webp",
+    "sha256": "6eb7d2db8bf34490826deaafb3571d8ca19a0a796bddacce151976cefb2e6615",
+    "ordinal": 65,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Striped cropped top, white vest and mint shorts; enlarged exposed torso supports moderate waist indentation; vest and hair obscure shoulder comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12529",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fU49Ru",
+    "localPath": "images/fashionpedia-expansion-12529.webp",
+    "sha256": "4a62e3d67e230d251aca888cdf0156029335e9e28cde40b1e666e637dccdb171",
+    "ordinal": 66,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Alternate angled view of mint shorts and white vest from 1121.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10505",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fU535J",
+    "localPath": "images/fashionpedia-expansion-10505.webp",
+    "sha256": "5bb3010a1bf16a5d89f6e0a8cdb1d9cc95c3827b64b415c29ec0cb2ea97df9bb",
+    "ordinal": 67,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Alternate leaning view of mint shorts ensemble from 1121.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9065",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fU57Fs",
+    "localPath": "images/fashionpedia-expansion-9065.webp",
+    "sha256": "b165681f33d2934e74aaec85767ca93751ef52319301d77cb226fcff436ac2f1",
+    "ordinal": 68,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Graphic cream tank, denim shorts and strappy heels; tank obscures waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19184",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fU58hQ",
+    "localPath": "images/fashionpedia-expansion-19184.webp",
+    "sha256": "eae4948df0d9deceb97333c160793be2992214b5068d9d8000008ca40ee57704",
+    "ordinal": 69,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated graphic tank and denim shorts from 1124.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9007",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fUwS9P",
+    "localPath": "images/fashionpedia-expansion-9007.webp",
+    "sha256": "3a9444aed225655bb9cbf5c62defc44316078257b932290a0ae3cc020d889e80",
+    "ordinal": 70,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose white dress and red heels crossing street; drape obscures axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15361",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fUwWHE",
+    "localPath": "images/fashionpedia-expansion-15361.webp",
+    "sha256": "69dc1351b59efac9db47ece9dd6318efff4455af4ed67bd97f629b857f4e7b65",
+    "ordinal": 71,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated white dress from 1126.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16631",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fURjVV",
+    "localPath": "images/fashionpedia-expansion-16631.webp",
+    "sha256": "7b1a21ceff9751991a0442b5b8d7159ae8bdb8e2636743884cf0990f7c1d7b62",
+    "ordinal": 72,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink knit top and blue jeans on steps; seated pose obscures proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16934",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/fZSJA1",
+    "localPath": "images/fashionpedia-expansion-16934.webp",
+    "sha256": "4db15243ea680accfbef82d39f358efb00b8a3458013c0c5c660279028702895",
+    "ordinal": 73,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White top, dark trousers and hat; loose top and distant view obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16154",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/g5VCcn",
+    "localPath": "images/fashionpedia-expansion-16154.webp",
+    "sha256": "b96dd72a3b69b6559e09e60b87709401666fc606ae8776135a8d4cadc733d53a",
+    "ordinal": 74,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink blouse and black short skirt with heels; loose blouse hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12058",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/gbk56H",
+    "localPath": "images/fashionpedia-expansion-12058.webp",
+    "sha256": "f64da84085639690d955ea6ed4b5fc4e9d54e84fd98c2b590599f986ce8051b3",
+    "ordinal": 75,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White top and pleated black skirt; raised arms and flare obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10010",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/geBpS4",
+    "localPath": "images/fashionpedia-expansion-10010.webp",
+    "sha256": "af2cdc2bd4b5719b6db3641e5d2e0302103a75757aa343409fc81fe469977013",
+    "ordinal": 76,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray graphic sweater, dark shorts and boots; loose sweater hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10329",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GikFiJ",
+    "localPath": "images/fashionpedia-expansion-10329.webp",
+    "sha256": "fc76337714858ae0f3db9c55b1d0e61987f394fa240d95525a4bd5d198090484",
+    "ordinal": 77,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Coral coat, pale trousers and scarf; coat covers torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10462",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/phRZi1",
+    "localPath": "images/fashionpedia-expansion-10462.webp",
+    "sha256": "0d3c53d78e9eb4651efc34790e0246b41841c26d2ee737eb009a0340b56b5ed1",
+    "ordinal": 78,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark sleeveless top, dark trousers and red shoes in crouch; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15709",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/uvb8HX",
+    "localPath": "images/fashionpedia-expansion-15709.webp",
+    "sha256": "b33c868012293fda42f0d7ff06afe6f3b24abba7385e41053fcd0d982f82db74",
+    "ordinal": 79,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue cropped top and dark trousers kneeling; pose hides frontal proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11590",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/wVEs6y",
+    "localPath": "images/fashionpedia-expansion-11590.webp",
+    "sha256": "d8e6558e6e7b67ca9f7e2c69d48dec032248803ff96e809928f4294e6533f58b",
+    "ordinal": 80,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark sleeveless outfit seated on bench; bent limbs obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12012",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/y4JUC2",
+    "localPath": "images/fashionpedia-expansion-12012.webp",
+    "sha256": "995c96f1328078171c204032f02ad432dbfe5ec3a3eb2fe36d78e5d7c10da935",
+    "ordinal": 81,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark cropped top and patterned skirt leaning on stool; pose hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10057",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GREsYb",
+    "localPath": "images/fashionpedia-expansion-10057.webp",
+    "sha256": "bd52a6e946cf9c67068bda494802ddef5c2bdd9643bb57d74d6e949710a903d1",
+    "ordinal": 82,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped sleeveless maxi dress and heels; profile and flowing skirt hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15821",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/xVighx",
+    "localPath": "images/fashionpedia-expansion-15821.webp",
+    "sha256": "c042d4dfce8191757fccd94252f332f5645206cf1758db6da0a96a2ca054539e",
+    "ordinal": 83,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White oversized shirt dress with sneakers seated on floor; drape and pose hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17684",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ys8cDz",
+    "localPath": "images/fashionpedia-expansion-17684.webp",
+    "sha256": "7f5e7aaa2ce3e5dc2362693ac62cd00b3dce6a5e4040857b3c4409c81067cf10",
+    "ordinal": 84,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream gathered mini dress and fluffy shoulder wrap; structured skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19364",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/xN4XMA",
+    "localPath": "images/fashionpedia-expansion-19364.webp",
+    "sha256": "9364c3b4ea8116ed866a1f85516c6644e9efe225c6178991435016b0af171c6a",
+    "ordinal": 85,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale turquoise flowing gown; gathered skirt hides hip outline.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-8356",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/yKzQrS",
+    "localPath": "images/fashionpedia-expansion-8356.webp",
+    "sha256": "f307031fcf3d83e2c25c9de289b9fd20f29cead984e26a9050d67516e937760c",
+    "ordinal": 86,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black lace-bodice long dress; skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19474",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/BGPhsz",
+    "localPath": "images/fashionpedia-expansion-19474.webp",
+    "sha256": "719b2c21d69fc22296906ad107b595896bab06affb31303cc25204768f43c224",
+    "ordinal": 87,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose white dress and ankle boots seated on floor; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-14798",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/zd6Mqd",
+    "localPath": "images/fashionpedia-expansion-14798.webp",
+    "sha256": "b4a2b66ccd352aa5d08e77317cdcccd48b0a0fe9c4d414d0af24ef330200054c",
+    "ordinal": 88,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray raglan graphic top and dark jeans with burgundy sneakers; curled pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19305",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/AUVzCg",
+    "localPath": "images/fashionpedia-expansion-19305.webp",
+    "sha256": "a13cc59c019eacfab18172995a29c13c7cc72ddada877a0e974bd2bfee85a5c2",
+    "ordinal": 89,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black sleeveless dress and heels on chair; wide seated pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17820",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/BcEDRb",
+    "localPath": "images/fashionpedia-expansion-17820.webp",
+    "sha256": "ffd0f85ef6ec115d8b0a6fb7002fd74e272a28c8f668d26dbf6076fce616ebf7",
+    "ordinal": 90,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Off-shoulder dark dress and heels leaning on bench; pose obscures contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9163",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/BkbXBE",
+    "localPath": "images/fashionpedia-expansion-9163.webp",
+    "sha256": "a01feea0b6b70486c9e40a482504a5e1b01d5bb112d68621e488282d493da1f9",
+    "ordinal": 91,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Oversized orange sweatshirt dress; silhouette and raised arms conceal build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-13488",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/BXzuhE",
+    "localPath": "images/fashionpedia-expansion-13488.webp",
+    "sha256": "6f3d2a5d1f9d5571522be1244e893b9fe4c9747ac8889e965b18f9da45dff7e4",
+    "ordinal": 92,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Turquoise flowing dress under colored light; raised arms and drape obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19193",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/FrVzvU",
+    "localPath": "images/fashionpedia-expansion-19193.webp",
+    "sha256": "1370158497d54dbda6e48b656407a8bc979268b8a73834e1d003c01b793a1ed5",
+    "ordinal": 93,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Patterned blouse, dark shorts and gold shoes reclining; pose obscures contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20589",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/LZezps",
+    "localPath": "images/fashionpedia-expansion-20589.webp",
+    "sha256": "fcc47d7555a53558bf19a17fa84778ea99d0201b4230d9f7cc364f8da52f02b7",
+    "ordinal": 94,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Long striped vest, blue shirt, dark trousers and hat; layers obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16755",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/M6Vuo3",
+    "localPath": "images/fashionpedia-expansion-16755.webp",
+    "sha256": "21628ebe7998a63ffbeec0f479691a9d536aa4803e47df19f2e31a87c4a4fb08",
+    "ordinal": 95,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale belted jacket, dark trousers and boots; outerwear conceals contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10229",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/LcRGD2",
+    "localPath": "images/fashionpedia-expansion-10229.webp",
+    "sha256": "41a7cb62a44d8d6d42077fa4563f0f34e101ee7b98b88f91e39ec65b8eb37e8e",
+    "ordinal": 96,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue loose button-front dress and flats; drape hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20504",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/LcRFJX",
+    "localPath": "images/fashionpedia-expansion-20504.webp",
+    "sha256": "f34d92d7d84e021a1a75ef59f05d5a354824bc7182dbd85d0c208ce61197e768",
+    "ordinal": 97,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray cardigan and dark striped skirt with boots; layers hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15827",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Ma2drn",
+    "localPath": "images/fashionpedia-expansion-15827.webp",
+    "sha256": "cd478b73a46228adeb377fde4b1d2fb2d0c98c904ea2570a3c8c0a622d1ed169",
+    "ordinal": 98,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale coat and patterned scarf over blue separates; layers hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16974",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Ma22ND",
+    "localPath": "images/fashionpedia-expansion-16974.webp",
+    "sha256": "a254b65ab17bebb184563a3f24a3ddc44a626248c81444220441f97f2b5cb11e",
+    "ordinal": 99,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray long vest over yellow sleeves and gray trousers; vest hides torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20206",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Ma1Yxv",
+    "localPath": "images/fashionpedia-expansion-20206.webp",
+    "sha256": "497a65b79468c75a58cc65675998d5205979e1100e5af591d4f5117dc4d51951",
+    "ordinal": 100,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tan coat and yellow scarf with gray jeans and hat; layers conceal axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20071",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/LZefd1",
+    "localPath": "images/fashionpedia-expansion-20071.webp",
+    "sha256": "a18572946c1e076a3fbfa5b1c507d18cd59a659920b486d0cc9c263897e8dc66",
+    "ordinal": 101,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray top, dark long skirt and patterned shawl; layers obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11686",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/LcFyVh",
+    "localPath": "images/fashionpedia-expansion-11686.webp",
+    "sha256": "22da3045f85221b6d6187ccc7d47a8a521b102c85e91fb48fd811567e45533a6",
+    "ordinal": 102,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close gray-vest variation duplicates outerwear evidence from 1155.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17117",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Ma1Fst",
+    "localPath": "images/fashionpedia-expansion-17117.webp",
+    "sha256": "6dbe1124b1d3e6fe5841ecdf424d7d2111edd4b040b6bfba68529104efdb45be",
+    "ordinal": 103,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy dress with floral long cardigan and heels; outer layer hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15193",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/FoFVTh",
+    "localPath": "images/fashionpedia-expansion-15193.webp",
+    "sha256": "0c112a313eb426f5bc13ca3222b4bc5abe8c88010aa4b7c55a6b4c36a3f136c7",
+    "ordinal": 104,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black trench-style dress and strappy heels seated; pose hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12023",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/24aRzC3",
+    "localPath": "images/fashionpedia-expansion-12023.webp",
+    "sha256": "e6288aa43942fd83bf9cca73652d6f713d659ea73940f6c7ea771770bb8b4c13",
+    "ordinal": 105,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy sleeveless dress on sofa; dark seated view hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15586",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GL6JZm",
+    "localPath": "images/fashionpedia-expansion-15586.webp",
+    "sha256": "dd25e616d14eb1b9319553d400057c2ffc0b7d99476604bc1cb22551d4d1dd10",
+    "ordinal": 106,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Mustard cardigan over light short outfit and tall tan boots; seated pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-13101",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GNAu6k",
+    "localPath": "images/fashionpedia-expansion-13101.webp",
+    "sha256": "dec26fbea8112d0d972908bc8c6143cfea581b09140e46a321b7edc2ff792218",
+    "ordinal": 107,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray furry vest over black shirt and trousers; thick vest hides torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12556",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GQ5f9n",
+    "localPath": "images/fashionpedia-expansion-12556.webp",
+    "sha256": "158b454e1d7249b71ca2eadd7fd927502f79b9986d031968bd724ed2998794b6",
+    "ordinal": 108,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White blouse and blue jeans in profile; side view hides frontal axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20513",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GR8TVU",
+    "localPath": "images/fashionpedia-expansion-20513.webp",
+    "sha256": "1b1698b4b1b9afdeafabdb4a4ab47227a3046214ce533c32416a4f2eec30b05b",
+    "ordinal": 109,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Printed sleeveless top and ripped jeans riding bicycle; lean and handlebars obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12794",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GSnh1n",
+    "localPath": "images/fashionpedia-expansion-12794.webp",
+    "sha256": "34d3bda7d144d88f89dae3323e8c4deb49aa9f1a452cafba3a8106fc853dff82",
+    "ordinal": 110,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-facing lilac tee and plaid wide trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11202",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GT1PfD",
+    "localPath": "images/fashionpedia-expansion-11202.webp",
+    "sha256": "0cdcf7aa9c9208869fa695cbaa16462986f251d240ec92a0399eb96db6927792",
+    "ordinal": 111,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multicolored loose tank and shorts leaning on branch; pose and drape hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17479",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GVV1zd",
+    "localPath": "images/fashionpedia-expansion-17479.webp",
+    "sha256": "5d378dce94df395e3b9a0f89e35bf84c29f714090d2394720256fb68baa2ce3d",
+    "ordinal": 112,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black graphic tee and patterned trousers by skateboard; seated pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15678",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/GYscNC",
+    "localPath": "images/fashionpedia-expansion-15678.webp",
+    "sha256": "b6ab3cb00ca0d160cd102910e4c9afbe3d8eed07a21488117b0b26bb7910674d",
+    "ordinal": 113,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Oversized patterned coat over black trousers; coat obscures build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18465",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/H2P3BU",
+    "localPath": "images/fashionpedia-expansion-18465.webp",
+    "sha256": "a6d183c63ca770e2de1d102a5b6678b97d1a63bbf5dfb49dc42ebbbcf53862cc",
+    "ordinal": 114,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black tank and striped trousers sitting on sand; pose hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20042",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/H3yRFY",
+    "localPath": "images/fashionpedia-expansion-20042.webp",
+    "sha256": "30c309f54cd8e9bd124189bbd8231e686b8b0c38f02933fae8cd7365d736f203",
+    "ordinal": 115,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-angled pale top, shorts and tall boots.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20260",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/H3YSHK",
+    "localPath": "images/fashionpedia-expansion-20260.webp",
+    "sha256": "6848fe9075fcd368bbef4d8dd53a523b955b52e43359dd28c6af09bec2abfb20",
+    "ordinal": 116,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Overlapping foreground people in street; no isolated outfit subject.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11631",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/H77S44",
+    "localPath": "images/fashionpedia-expansion-11631.webp",
+    "sha256": "e1a2ac326a09eb460378382d30e814b75a5b78bf92e75287f0f1790f360abf1c",
+    "ordinal": 117,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark short dress and pale jacket outside shop; distance and layers hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9138",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/H7cC4Z",
+    "localPath": "images/fashionpedia-expansion-9138.webp",
+    "sha256": "b90e06150f30dd622c264514a4b4f9931844a233eca2aca09130fd4497984fdc",
+    "ordinal": 118,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray sleeveless fitted mini dress in profile; side view prevents frontal axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15088",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/HdGH2s",
+    "localPath": "images/fashionpedia-expansion-15088.webp",
+    "sha256": "cebabf5117ca4725a5a8363c3028b651d07816d5a241c24e1b89ad018ae447b5",
+    "ordinal": 119,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow floral dress and pink cardigan; skirt and layers hide hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16836",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/HonZ8n",
+    "localPath": "images/fashionpedia-expansion-16836.webp",
+    "sha256": "179ba62e604a08be0cf0a77efebefc4424a5a08df5380fe8b9b9b9c427364a7d",
+    "ordinal": 120,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink furry jacket seated behind table; bulk and occlusion conceal build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16358",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/HxqFdm",
+    "localPath": "images/fashionpedia-expansion-16358.webp",
+    "sha256": "5e45d8c6acdc3d9682aa7bebb3da703f8c7db691de3c89569a8f0aa7229246ab",
+    "ordinal": 121,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Light loose tee and gray fitted trousers; distant pose and top hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10344",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/HHtuMa",
+    "localPath": "images/fashionpedia-expansion-10344.webp",
+    "sha256": "b864f3103a8a70efa10eddd5cd1712e02985213d81b485fe7e38c9af2d9a7fb0",
+    "ordinal": 122,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale patterned jacket and scarf portrait; thick layers obscure build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11570",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/HY1WXK",
+    "localPath": "images/fashionpedia-expansion-11570.webp",
+    "sha256": "5a2d1035c935e06d625d3853e3eb02b9e0dbc17d32ad5e0802e240045397bb4b",
+    "ordinal": 123,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red loose mini dress at night; dark moving scene hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15510",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/J37gWL",
+    "localPath": "images/fashionpedia-expansion-15510.webp",
+    "sha256": "65a19792fd16143b3a879bdbd751f5b85e5b4a11b13426875e4e8c8ada36acdc",
+    "ordinal": 124,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black short-sleeve top and patterned trousers; crossed legs and pocketed hand hide hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11076",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/J8xCJw",
+    "localPath": "images/fashionpedia-expansion-11076.webp",
+    "sha256": "856da7de41687c04cb23ba7f0e54f309a0e3133600bac2db6e5fb0ad514ed44d",
+    "ordinal": 125,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink and green floral knee dress; skirt obscures hip outline.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19095",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/J8xF65",
+    "localPath": "images/fashionpedia-expansion-19095.webp",
+    "sha256": "e86ecae46aac58c65afdb39a6b4313c48743dce0620f04de65377f5a3e81826f",
+    "ordinal": 126,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink satin jacket, black trousers and sneakers; jacket conceals waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20220",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Javw7U",
+    "localPath": "images/fashionpedia-expansion-20220.webp",
+    "sha256": "523f180ed81b35a11ed0e1e05d3adea861158cf335331015378e0b3ac6829d1f",
+    "ordinal": 127,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black tee and green trousers; loose tucked fabric hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15863",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/JpcyW7",
+    "localPath": "images/fashionpedia-expansion-15863.webp",
+    "sha256": "8a2016064cd5c6d9a88235962778909b2aea39a4d6214afe1432b3c484bb8e17",
+    "ordinal": 128,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Colorful floral jumpsuit; angled hands-on-hips pose and loose legs limit axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19340",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/JwRqzf",
+    "localPath": "images/fashionpedia-expansion-19340.webp",
+    "sha256": "773459612a46f9da447e5e19364b014f1084285959f9ff72b92f07bfab3820b3",
+    "ordinal": 129,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark green sleeveless dress held outward; lifted skirt obscures hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17256",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Jzz4bQ",
+    "localPath": "images/fashionpedia-expansion-17256.webp",
+    "sha256": "700039006ce9aca6a648e6cbff77ed1d9a9991e887640f72570d1b7656585769",
+    "ordinal": 130,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bright floral shift and blue slides; loose straight dress hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18590",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/JH8zHv",
+    "localPath": "images/fashionpedia-expansion-18590.webp",
+    "sha256": "5f6f6cce64827ae7ad5468baf6970c62006ed814c5122dd56982c71180f8051a",
+    "ordinal": 131,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray jacket, graphic top and black short skirt; outerwear hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9860",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/JMra5j",
+    "localPath": "images/fashionpedia-expansion-9860.webp",
+    "sha256": "30353eaef8023d05fd60c5f53c152697623783923fd088b7b53ac95fcf7351c7",
+    "ordinal": 132,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black button-front shirt and dark trousers; paper and loose shirt hide waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11730",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/JPTvbm",
+    "localPath": "images/fashionpedia-expansion-11730.webp",
+    "sha256": "1e67f656046ad7b010da4733c7317ed83bbda55e59fa068717eb7ccd76878af8",
+    "ordinal": 133,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Thick gray knit shawl and patterned skirt; torso is obscured.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15128",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/JQ1fLC",
+    "localPath": "images/fashionpedia-expansion-15128.webp",
+    "sha256": "c15ba27390b0ce6d53e8b8399bb2a25676b1984a0c3419af450e25f4a3e93e4d",
+    "ordinal": 134,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black coat and bright red bag in close side view; layers obscure build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17119",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/JT9HNE",
+    "localPath": "images/fashionpedia-expansion-17119.webp",
+    "sha256": "65f74c7f0d68e8cb7671ef2b0bec4d11d368c6cbaa06181a15a82ab47aeb27e5",
+    "ordinal": 135,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red sleeveless loose top and white trousers; top flares over waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10406",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Kfot62",
+    "localPath": "images/fashionpedia-expansion-10406.webp",
+    "sha256": "638fa4a52d973804862a14baacd907fe5a9eaea4859a4b3fb9925c50feabe71d",
+    "ordinal": 136,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink pleated sleeveless separates; layered drape hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9079",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/KJZG2r",
+    "localPath": "images/fashionpedia-expansion-9079.webp",
+    "sha256": "8c2797aecc626314fe7beb63192d107a8a03f27c44f103f711cb350107ed9e68",
+    "ordinal": 137,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black leather jacket and shorts walking in profile; side pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19307",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/KW8XGQ",
+    "localPath": "images/fashionpedia-expansion-19307.webp",
+    "sha256": "6ca57474cc7e14f8fdf983fb94396c01805d3be67289266f372cb77333bfbe4b",
+    "ordinal": 138,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fitted black jacket and pencil skirt in profile; frontal axes unavailable.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12740",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/LnC9gH",
+    "localPath": "images/fashionpedia-expansion-12740.webp",
+    "sha256": "d1acab5fac1ea403a0227aaccd56fd781faa4bbf88ef10458f673ff35bb72e80",
+    "ordinal": 139,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White double-breasted short dress, pale jacket and dotted tights; layers hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17778",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Lwi4TY",
+    "localPath": "images/fashionpedia-expansion-17778.webp",
+    "sha256": "00ba9ff9218c4675c3c020948ebbf072785c9351c3311d548d09afa39eb052b5",
+    "ordinal": 140,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale blue belted coat dress and heels beside car; turned pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20329",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/LSJS7s",
+    "localPath": "images/fashionpedia-expansion-20329.webp",
+    "sha256": "4e362cc789fbe9f853afd4ab61fb6574f65ea797d591b2001e47166923dee391",
+    "ordinal": 141,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Lilac belted short dress; raised phone and straight skirt hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10803",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/LSWdJC",
+    "localPath": "images/fashionpedia-expansion-10803.webp",
+    "sha256": "82af85526599291b13b246a0828dccf05af329fcb10bd6414d330a688df55981",
+    "ordinal": 142,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Oversized pale sweatshirt, dark shorts and boots; loose top hides torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12016",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/M1WFau",
+    "localPath": "images/fashionpedia-expansion-12016.webp",
+    "sha256": "e80aa44c0a33268d65d81ab0f22c4ee183b2fb47113f00c176b73966a6504079",
+    "ordinal": 143,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of pink furry jacket and dark skirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20141",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/M5XtSn",
+    "localPath": "images/fashionpedia-expansion-20141.webp",
+    "sha256": "57b2ef5d0d6834ac4cca0b2fe576fe9829bef84fca8201783a669f866ea5e184",
+    "ordinal": 144,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-facing seated suspenders and shorts outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-13072",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/M9WNWG",
+    "localPath": "images/fashionpedia-expansion-13072.webp",
+    "sha256": "fa20513c8556dcb3b8e5897f917823e46a2a92a21e4b71f16bfa2a26eebd7974",
+    "ordinal": 145,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black leather jacket, graphic tee and dark jeans; jacket hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16549",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/MiYnDk",
+    "localPath": "images/fashionpedia-expansion-16549.webp",
+    "sha256": "10b8cf05b67416bb3ef0bffe8d468d7cefb817b9e03c4c5b5500104988fbf1ae",
+    "ordinal": 146,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red jacket, black top, denim shorts and striped socks seated; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11250",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Niypu1",
+    "localPath": "images/fashionpedia-expansion-11250.webp",
+    "sha256": "7e4882e65d6596fda60ff8417f09f07f421fd009e599f424ed5fb0e9db79127c",
+    "ordinal": 147,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue jacket, pale blouse and dark trousers; arms extended and layers obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19655",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/NuQG6z",
+    "localPath": "images/fashionpedia-expansion-19655.webp",
+    "sha256": "43ce54cf919e1b419a99cc9027557a45ce55fc6f42cce407731925007dbfae30",
+    "ordinal": 148,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of fitted black dress.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20437",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Qayffn",
+    "localPath": "images/fashionpedia-expansion-20437.webp",
+    "sha256": "f4bf18621e07501e0c96466ffd4a9796d4556e759306c5e7f59153f7b9578f75",
+    "ordinal": 149,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-angled checked coat and black trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18829",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/QbfphR",
+    "localPath": "images/fashionpedia-expansion-18829.webp",
+    "sha256": "e0b62acedbf19cb609f300c26625710ea95733cc9021e4823076fba2f351a260",
+    "ordinal": 150,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green utility jacket, scarf and pink skirt; torso obscured by layers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15104",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Qv6dDJ",
+    "localPath": "images/fashionpedia-expansion-15104.webp",
+    "sha256": "0a5a3424ffa8b7045a78ac741304ac5784d48d1a64f3aff832df7f3a494de881",
+    "ordinal": 151,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Loose white tee and shorts seated by tracks; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15212",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/R7r6gZ",
+    "localPath": "images/fashionpedia-expansion-15212.webp",
+    "sha256": "493959423aeeb2d1740253fa63129ccf4abe597599193692ce8f511583d53e2f",
+    "ordinal": 152,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark jacket, gray graphic tee and dark shorts; layers and shadows hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19067",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/RBXtBf",
+    "localPath": "images/fashionpedia-expansion-19067.webp",
+    "sha256": "9c0e12e6fec2ba1d3ec0e3b8477c5718ee6c81fa65b1050754a68ca45c120b07",
+    "ordinal": 153,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray ribbed sweater and jeans in profile; crossed arm hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15681",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/RTzZYG",
+    "localPath": "images/fashionpedia-expansion-15681.webp",
+    "sha256": "f51b20fc3ada47326791c644a52523c712f81df1211bfe9be2dfc553ff362735",
+    "ordinal": 154,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale athletic tee and gray leggings crouched over barbell; pose prevents axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19163",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/S5Jq8w",
+    "localPath": "images/fashionpedia-expansion-19163.webp",
+    "sha256": "7e02dac199ed25a764fc7c863a2b9563e7d1634022fdc4857354d713577e5629",
+    "ordinal": 155,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red cropped top, floral open layer and denim shorts; layered sides obscure comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19637",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/SheFwP",
+    "localPath": "images/fashionpedia-expansion-19637.webp",
+    "sha256": "778367c1aec5a41bd9f9c2a5e72896f452174acb6e4ac765741dbeed9888cc88",
+    "ordinal": 156,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bright floral flared dress, red cardigan and pink tights; skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15344",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Si3t9e",
+    "localPath": "images/fashionpedia-expansion-15344.webp",
+    "sha256": "84f859960e10f72649dbfe5795484a7db106e5bc18a46120e0b1e142a580628a",
+    "ordinal": 157,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tan jacket over pleated dress and fishnet tights; layers obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15268",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Stszop",
+    "localPath": "images/fashionpedia-expansion-15268.webp",
+    "sha256": "68de6220914dadc7f29bf6f3dad231327a7bdf50500e2d42d791201127593404",
+    "ordinal": 158,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated alternate gym outfit from 1210.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9821",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/SuhjvH",
+    "localPath": "images/fashionpedia-expansion-9821.webp",
+    "sha256": "bce1865e893a36912381b1490369b0b6195052cdf807c5f5d70d10d54d16a7bb",
+    "ordinal": 159,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White blouse and wide black trousers; loose blouse and trousers obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18464",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/SJkMVk",
+    "localPath": "images/fashionpedia-expansion-18464.webp",
+    "sha256": "9c35d57a1b7c6ed18c443c74fbec51426b2efa85dd3c31d7c7bfcb5a5229baf3",
+    "ordinal": 160,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Denim jacket, striped top and white jeans; jacket hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-8699",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/T98ixN",
+    "localPath": "images/fashionpedia-expansion-8699.webp",
+    "sha256": "cce0940ebc77bb42c1a5cbd7d103edbdc7ff16346c3b4c4170eca27014a75c48",
+    "ordinal": 161,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale blue sleeveless top and denim shorts seated on floor; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20737",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/TqXhGM",
+    "localPath": "images/fashionpedia-expansion-20737.webp",
+    "sha256": "f94cb681ae7dbb0469b15dd6d5c85739b9aa1a15a4961884d5b2ada5cdf817b3",
+    "ordinal": 162,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue pinafore over yellow blouse; flared skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10113",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/TAvU3u",
+    "localPath": "images/fashionpedia-expansion-10113.webp",
+    "sha256": "19d174b93764426a99ab8de9875d7313b3864d8ea7f68158d4406360fa5d6443",
+    "ordinal": 163,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Olive lace-up sleeveless top and dark jeans; angled lean limits contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11991",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Uxp2Gk",
+    "localPath": "images/fashionpedia-expansion-11991.webp",
+    "sha256": "b15e080e3e27ffbc83274ddb6dad56b4ab3478cd9a1e5efa1fff33a486024d20",
+    "ordinal": 164,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow cardigan, blue patterned shirt and dark shorts crouching; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11024",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/URRCSF",
+    "localPath": "images/fashionpedia-expansion-11024.webp",
+    "sha256": "08e222f9933b5bfac5d0ff53fa559f14747a32a9b9a5718c4798db0764f54697",
+    "ordinal": 165,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Open-shirt bare-torso portrait; incomplete outfit reference.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20068",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/USHahv",
+    "localPath": "images/fashionpedia-expansion-20068.webp",
+    "sha256": "789e148b870cf51b18894b6a40d05a70d1be597e006d195c9600d5fb80a4b69b",
+    "ordinal": 166,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black strapless dress and sandals seated on ledge; pose hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18398",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/V4xNd8",
+    "localPath": "images/fashionpedia-expansion-18398.webp",
+    "sha256": "d3d9b0a28746c7f16c6aa414de8c184b3e4e40293a3c7affce33dca1696d355e",
+    "ordinal": 167,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated alternate olive top and dark jeans from 1219.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12338",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VrMYwN",
+    "localPath": "images/fashionpedia-expansion-12338.webp",
+    "sha256": "275453495426efdd0a227ed968da746330405f7857335ff7aaa8bef4835f7f9b",
+    "ordinal": 168,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale floral short dress and brown bag; bag and loose skirt hide hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9263",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VrMYJb",
+    "localPath": "images/fashionpedia-expansion-9263.webp",
+    "sha256": "9e50549f93ee8b8a6214c6ce44ded56dc879875b36fb8ef220bac6d0978b94c2",
+    "ordinal": 169,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated floral dress and bag from 1224.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20178",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VrMZ3Y",
+    "localPath": "images/fashionpedia-expansion-20178.webp",
+    "sha256": "d5ba663b483ccdcac031660ff8690140f9e3deb323cabd342052c90eb4740705",
+    "ordinal": 170,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated alternate floral dress from 1224.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10896",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VrN1Kf",
+    "localPath": "images/fashionpedia-expansion-10896.webp",
+    "sha256": "590d38fbf01e7b6845c6de9c291f0ec853b539a9dc47c77197b15a8cb4d61752",
+    "ordinal": 171,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray fitted blazer and beige trousers with red bag; jacket conceals body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20241",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VuvEGn",
+    "localPath": "images/fashionpedia-expansion-20241.webp",
+    "sha256": "6b689ce1c9c1dfccf66f675549392a5fed43fac0e0a32b9b7add6bda4dec23d9",
+    "ordinal": 172,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Patterned sleeveless top and dark skirt in field; loose top and crop hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10846",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VuvFrZ",
+    "localPath": "images/fashionpedia-expansion-10846.webp",
+    "sha256": "4f1d554ac12a2dce39e1e75b612e3ca71cae7d7ee6c8b16d1d41f8c7cff49ae3",
+    "ordinal": 173,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated alternate white shirt and jeans; retain clearer standing 1230.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11262",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VuvGgK",
+    "localPath": "images/fashionpedia-expansion-11262.webp",
+    "sha256": "39b71e1b7217333fca99e3b87fb1536aceff441765351ea33079de3ec9d62791",
+    "ordinal": 174,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White shirt and blue jeans leaning with bent knee; loose shirt hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20675",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VuwRwg",
+    "localPath": "images/fashionpedia-expansion-20675.webp",
+    "sha256": "97461ab672eb5eb7776e4ef8f151970bba66268904962f39fbe9067afa496335",
+    "ordinal": 175,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-facing patterned top and dark trousers at temple.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12303",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VFinrt",
+    "localPath": "images/fashionpedia-expansion-12303.webp",
+    "sha256": "e7567eda1a5aaf2cf28caa21cd5f8480e8f8a6499a5084e72a964379317586a8",
+    "ordinal": 176,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale printed knee dress and sandals; crossed legs and dress drape obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10111",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VFioea",
+    "localPath": "images/fashionpedia-expansion-10111.webp",
+    "sha256": "d9ac2065565ea29af2c3c8c4d24b248bba86db039f1b9053abb73a909e055ee0",
+    "ordinal": 177,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark blazer and white trousers crossing street; layers obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19492",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/VWAvk1",
+    "localPath": "images/fashionpedia-expansion-19492.webp",
+    "sha256": "a80db3e524b66a098d76ef9eb62dc8aa30e1a8f62987a4399474d965df452805",
+    "ordinal": 178,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale green loose long-sleeved short dress; drape hides waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16751",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/W8Gobu",
+    "localPath": "images/fashionpedia-expansion-16751.webp",
+    "sha256": "b26af2bb295c8d9d1841be0aa44697d6a0fca6fb427137b6539716df138efb9d",
+    "ordinal": 179,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Coral blouse and white floral shorts; loose blouse hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17829",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/W8Xs7E",
+    "localPath": "images/fashionpedia-expansion-17829.webp",
+    "sha256": "c13b1d6213e9d83d7078102af2e9236e145c4844a408e84a3c5d15ac35b2bf3d",
+    "ordinal": 180,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red lace short dress and tall black boots; flared skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16637",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/W9CWrY",
+    "localPath": "images/fashionpedia-expansion-16637.webp",
+    "sha256": "8b832fb3fc23584bb4301a002b6e9239c6ae17a41667d4b88965cf0ec2c12f6f",
+    "ordinal": 181,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Olive fitted tank and black athletic shorts; walking angle limits frontal comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11407",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WigoG3",
+    "localPath": "images/fashionpedia-expansion-11407.webp",
+    "sha256": "cb327aed9df4e52e534dd927ecb59cf92caad01c9fa5c793aa3f0db388620b08",
+    "ordinal": 182,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Floral jacket and dark pencil skirt; outer layer obscures axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15943",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Wq2Pia",
+    "localPath": "images/fashionpedia-expansion-15943.webp",
+    "sha256": "3e825c46fc987952b5e545804b12cbdfb71a33e31b08e622c80a793d2f56fb71",
+    "ordinal": 183,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue sleeveless outfit and tall lace-up boots seated on step; pose hides proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19405",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Wt12Dj",
+    "localPath": "images/fashionpedia-expansion-19405.webp",
+    "sha256": "4cc144f2531df4415835c56feb8ec023b1307bf2d6ab9a4364d2142bf8eb423a",
+    "ordinal": 184,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close alternate white lace top and blue trousers; retain 1244.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11296",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WxtCGu",
+    "localPath": "images/fashionpedia-expansion-11296.webp",
+    "sha256": "d4c2639b3ed9e03690b6dae6f59c9426cbdb48f214981e0d556880bda3c89044",
+    "ordinal": 185,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Long-sleeve patterned dress on bench; seated pose hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16798",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WBDAQq",
+    "localPath": "images/fashionpedia-expansion-16798.webp",
+    "sha256": "cf7e4bea9a379ca10679b7c5c295a897c6b50f45e43b8203c2df386872650d8c",
+    "ordinal": 186,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Off-shoulder patterned knee dress and boots; loose skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12032",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WBDCX1",
+    "localPath": "images/fashionpedia-expansion-12032.webp",
+    "sha256": "1c875fdd125ef33e5ae77ef7777aa97cfd1d948c805b6ab993479275d6c893de",
+    "ordinal": 187,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close alternate of patterned dress from 1242.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16235",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WHZpwc",
+    "localPath": "images/fashionpedia-expansion-16235.webp",
+    "sha256": "0442acb283d5aac8ca9b1fce9ea68ee5494186c368f9868489033c2876ebf44b",
+    "ordinal": 188,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White lace sleeveless top and bright blue trousers; bag and loose hem hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-13357",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WJ1Y32",
+    "localPath": "images/fashionpedia-expansion-13357.webp",
+    "sha256": "b69865d63e55ddc2d26824fb2cfe8fed2701281dee63acab3d2f6e78ffdd2bad",
+    "ordinal": 189,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rust knit sweater and dark trousers on rocks; seated pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17320",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WQVprU",
+    "localPath": "images/fashionpedia-expansion-17320.webp",
+    "sha256": "a242aac194466b1335b673488f167cd651b610eaff52a9d9aa6114dd50c3576c",
+    "ordinal": 190,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black cropped top, fallen denim jacket and athletic trousers; arms and jacket obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-13333",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/WTngQw",
+    "localPath": "images/fashionpedia-expansion-13333.webp",
+    "sha256": "5a32774b3efedb8ae390dbc15a1de61edecf9f13590f3aa4671aaeaf0026c8b1",
+    "ordinal": 191,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Long blue jacket and wide blue trousers over tan top; loose layers hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12697",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/X3CACj",
+    "localPath": "images/fashionpedia-expansion-12697.webp",
+    "sha256": "1a678c8997fb03beed2f2a6bc35a570d0d5a79250754c9bffad3373590d2e1b3",
+    "ordinal": 192,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Teal sleeveless patterned dress; turned pose and skirt obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18560",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/X8Wkqe",
+    "localPath": "images/fashionpedia-expansion-18560.webp",
+    "sha256": "af2c0c2ef56b37f14a765ce22bd5a06a431ba1788e93b0280e8fbe20de1e8a24",
+    "ordinal": 193,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow jacket and black short dress; jacket hides torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9837",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/XkiLwD",
+    "localPath": "images/fashionpedia-expansion-9837.webp",
+    "sha256": "1cce8f9e66407e1e91da9d7f84e1bc831b2fd93b8f18018c1cda216adaf2cea2",
+    "ordinal": 194,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black sleeveless top and shorts with red sweatshirt tied at waist; knot obscures contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16888",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/XrU7eL",
+    "localPath": "images/fashionpedia-expansion-16888.webp",
+    "sha256": "6463888ae9613af369d321786b1822438c8c707b079bc79897ec5e56aa91bc29",
+    "ordinal": 195,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Colorful open coat, cropped white top and denim midi skirt; layers and skirt hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10492",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/XvX5wM",
+    "localPath": "images/fashionpedia-expansion-10492.webp",
+    "sha256": "46f009318edc8354f3c988fe7cfc7d2f24c96f02c95c3ed47992f161caf14fd4",
+    "ordinal": 196,
+    "view": "full",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Oversized geometric sleeveless dress; wide straight drape obscures build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18523",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Xyi4uS",
+    "localPath": "images/fashionpedia-expansion-18523.webp",
+    "sha256": "2ce57cc243b6329d574ecda5c497a0300e8faf2c533197bdc518889b320ed92d",
+    "ordinal": 197,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Floral short dress and heels walking in profile; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15083",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/XBXVx2",
+    "localPath": "images/fashionpedia-expansion-15083.webp",
+    "sha256": "f79d3c0a9af847117f9b0cc6b3699a35c163278aeb4ddff60cd8fa6c7f3a1f8e",
+    "ordinal": 198,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Black geometric fitted midi dress; enlarged view supports moderate waist indentation; turned hip and crossed legs leave shoulder-hip comparison unknown.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15803",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/XWMwup",
+    "localPath": "images/fashionpedia-expansion-15803.webp",
+    "sha256": "0e32767c8c65d94b7dd6f187a7dec6ad3ffb816169034822f08e692eb8b3ff46",
+    "ordinal": 199,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red sweatshirt, denim shorts and striped knee socks; loose top hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11575",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Yeq5BB",
+    "localPath": "images/fashionpedia-expansion-11575.webp",
+    "sha256": "4a8b308f7a1ebfe786d559bb6eefbe9965a03a3695f1f617f5a0feb1f2fde2d0",
+    "ordinal": 200,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray tee and pink tulle skirt; skirt flare hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18428",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Yq6dZX",
+    "localPath": "images/fashionpedia-expansion-18428.webp",
+    "sha256": "32e0a1204c59454b4df51d4bdcadb8f76b7bc719c4dd9a77b0d1444701a499f3",
+    "ordinal": 201,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark jacket and backpack in distant side crop; torso obscured.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20411",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/YCQAmj",
+    "localPath": "images/fashionpedia-expansion-20411.webp",
+    "sha256": "ffa346926fdc2714b440573b2cabb66768324f36ae07b5bc55a2efce972543d4",
+    "ordinal": 202,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-angled hoodie and dark shorts.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16403",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/YYEBrG",
+    "localPath": "images/fashionpedia-expansion-16403.webp",
+    "sha256": "46f7f786f72fe1feacffb315f1e739871d708b1c7438130cd41e9ad72ce45692",
+    "ordinal": 203,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue plaid shirt and dark shorts; loose shirt hides waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19509",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Z7S99Y",
+    "localPath": "images/fashionpedia-expansion-19509.webp",
+    "sha256": "5be20124b365bd1ba16cca43fe2ca2bc41b437e1be579dfad94504fcba3ff1ea",
+    "ordinal": 204,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Bright patterned tee and dark jeans; crossed arms obscure torso.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9886",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Zc3MZ5",
+    "localPath": "images/fashionpedia-expansion-9886.webp",
+    "sha256": "bbcb7874a4b558714fea2e7549e487c7afd75ce4aba6fa8701c268ce4fc7e410",
+    "ordinal": 205,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Gray utility coat over red dress and tights; outer layer hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17936",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ZdwUdG",
+    "localPath": "images/fashionpedia-expansion-17936.webp",
+    "sha256": "c6505d8dfa370001c5ce100c01f6fceb599e2c49065c45883f531fc1274eedea",
+    "ordinal": 206,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Denim jacket and wide jeans with tan top; loose layers obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9286",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ZdxXHL",
+    "localPath": "images/fashionpedia-expansion-9286.webp",
+    "sha256": "bcd2d849fa680fd63b6e756109b91d251323ab062fcde179e378bb2bd094978a",
+    "ordinal": 207,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow patterned long-sleeve midi dress; loose skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-13104",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Ze6h5f",
+    "localPath": "images/fashionpedia-expansion-13104.webp",
+    "sha256": "8c3e080d8a8b61068ec2e9def80be23dec6921d0ff11410683e8f8a935a824f6",
+    "ordinal": 208,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red loose coat and gray cap in profile; outerwear hides build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9473",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Ze6hc9",
+    "localPath": "images/fashionpedia-expansion-9473.webp",
+    "sha256": "20c0f6c4fad90478a6c26c1fa3370f1a0a2275d431bb83236b6bf834ef180006",
+    "ordinal": 209,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale embroidered top and floral midi skirt with heels; skirt hides hip shape.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17201",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ZgAoFc",
+    "localPath": "images/fashionpedia-expansion-17201.webp",
+    "sha256": "a82b462dd3e303e32c3b6b385ccc5dbad55d26c274e6e68fb5b5277913487745",
+    "ordinal": 210,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black cropped top, metallic skirt and tall boots; walking angle limits comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18667",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/Zi9pqE",
+    "localPath": "images/fashionpedia-expansion-18667.webp",
+    "sha256": "2a9c4bc368bde5c1c450ec06fc4236ad3d490f9079d62a049fea590f522212c3",
+    "ordinal": 211,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Alternate raised-arm plaid-shirt outfit from 1259.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19271",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ZGTBvL",
+    "localPath": "images/fashionpedia-expansion-19271.webp",
+    "sha256": "494f3a3c54a8efe7c1881af6dc8d2dcc8947992dd2842a15a001dfccbc3c3b93",
+    "ordinal": 212,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Light graphic tee, patterned shorts and dark shoes; loose top obscures contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19500",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ZKYE5X",
+    "localPath": "images/fashionpedia-expansion-19500.webp",
+    "sha256": "53818be580cf2d4af2f121bdb9ab92be2258d08235bbac2eb46ec44c2ab1f9e7",
+    "ordinal": 213,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow dress and dark tights seated on stairs; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-8954",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/ZN9Mmt",
+    "localPath": "images/fashionpedia-expansion-8954.webp",
+    "sha256": "2c242b525593f602f2ed3dd28333b97c07d53c23d6c19b1ccf693d1fdee344cd",
+    "ordinal": 214,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Face and folded forearms dominate close portrait; insufficient outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16847",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/219nu3p",
+    "localPath": "images/fashionpedia-expansion-16847.webp",
+    "sha256": "02fac6438d457810e862bae3a28c8dfd2a5a8b9a46457d6f8b9b3cacfc68c65f",
+    "ordinal": 215,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy top and shorts in forward lean; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16194",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/21wEk5L",
+    "localPath": "images/fashionpedia-expansion-16194.webp",
+    "sha256": "53ff6a71870e38f28081ae9177aa3668359a8d892101dcdf30eb35893e25ecd7",
+    "ordinal": 216,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy dotted top and black skirt; forward lean and skirt hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-12056",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/21zT65L",
+    "localPath": "images/fashionpedia-expansion-12056.webp",
+    "sha256": "3417c77b0f86c609dabc474144cfb8cb47a5d48074c6ca983602547eefa368d1",
+    "ordinal": 217,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Very distant person on path; insufficient outfit detail for reliable admission.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11520",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/21Bm5R3",
+    "localPath": "images/fashionpedia-expansion-11520.webp",
+    "sha256": "994330a2d5421d514ff07d5fc427775667b46479d2f79d9fb31df0decbd52170",
+    "ordinal": 218,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Thick pale coat and burgundy scarf portrait; layers obscure build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16961",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/21L67Mk",
+    "localPath": "images/fashionpedia-expansion-16961.webp",
+    "sha256": "6f278f1eafd945d2a886479066b769120341bc7cc29f4700430a14db43202faa",
+    "ordinal": 219,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Red midi dress, dark hat and green heels; gathered skirt hides hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9856",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/21Ttchu",
+    "localPath": "images/fashionpedia-expansion-9856.webp",
+    "sha256": "0514de9335824e04e8faffa7b925bd5b8f43fea8f5874661c1c69785da8fd4fd",
+    "ordinal": 220,
+    "view": "seated",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark outfit seated beside bed; low light and pose obscure build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19145",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/21Udkwm",
+    "localPath": "images/fashionpedia-expansion-19145.webp",
+    "sha256": "64631a754d0c9457602af0f3333c0897c396361ec1c69f2b9a0c1fdc9d342bd1",
+    "ordinal": 221,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue cropped tee and pale denim shorts; raised arm and bent pose obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17648",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/21Wi7wN",
+    "localPath": "images/fashionpedia-expansion-17648.webp",
+    "sha256": "15893c9f872b9f9151d77fed60227e9ad9825bf881d4ed385e3a227ba8d32dde",
+    "ordinal": 222,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Crouched alternate blue tee outfit from 1277.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9146",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/22f51qX",
+    "localPath": "images/fashionpedia-expansion-9146.webp",
+    "sha256": "1aab74db49744d2de1ab535cc50eb524cd4036830cbf51b1684553aca179edbf",
+    "ordinal": 223,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black athletic crop and green leggings in high leg stretch; pose prevents frontal comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-10670",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/22fLKWo",
+    "localPath": "images/fashionpedia-expansion-10670.webp",
+    "sha256": "939ff7876cc3f6e980464f77c48b359bce2a2f5bf3f90965132a4099d670f903",
+    "ordinal": 224,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black leather jacket, gray cropped top and dark trousers; layers hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15439",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/22qbmSf",
+    "localPath": "images/fashionpedia-expansion-15439.webp",
+    "sha256": "de13a4ebff5239cd4c1417f9073f331cfdcac81cb76a051ea47f2ea396bf2146",
+    "ordinal": 225,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tee, dark shorts and tall heeled boots; lean and crossed legs obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17891",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/22MVWvq",
+    "localPath": "images/fashionpedia-expansion-17891.webp",
+    "sha256": "77defc6fa8c0f38b5a96343786cdc0de45402c00c912437fadd3556e37a189db",
+    "ordinal": 226,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink hoodie with folded arms; drape and crop conceal build.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11891",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/22TvKnQ",
+    "localPath": "images/fashionpedia-expansion-11891.webp",
+    "sha256": "845b0bcff3ce6a2ba9fd4f7ffd94a0229aef1109e6ee917973fa05bb4e9869ac",
+    "ordinal": 227,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear-facing striped cropped top and pale skirt.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-11883",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/22TJYrQ",
+    "localPath": "images/fashionpedia-expansion-11883.webp",
+    "sha256": "deb1e869a023d69658ec37b6605b6d76293df296f56ccde5cf772861eac2a9f9",
+    "ordinal": 228,
+    "view": "seated",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black sleeveless top and dark shorts seated by lantern; pose hides proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9053",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/23iTZSb",
+    "localPath": "images/fashionpedia-expansion-9053.webp",
+    "sha256": "785be4646fd31daff36c8e16ad48c4a26275f51ce7c562e4fa6ee9c0dc87112c",
+    "ordinal": 229,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark coat and striped skirt; outer layers hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-13130",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/23opztB",
+    "localPath": "images/fashionpedia-expansion-13130.webp",
+    "sha256": "4bd58f26408fe1433b0205387709b1f3c5e5ae2a2b494b47bf8c99de5370c8c0",
+    "ordinal": 230,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream sleeveless top and burgundy skirt in turned pose; skirt obscures hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15072",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/23v5T95",
+    "localPath": "images/fashionpedia-expansion-15072.webp",
+    "sha256": "7967b8f541ffb884fdbda1f25d4092a93e5bea12cc1caffe2c1a0e896b629ded",
+    "ordinal": 231,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black cape coat over orange top and short skirt with white boots; coat hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17943",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/23wM9ii",
+    "localPath": "images/fashionpedia-expansion-17943.webp",
+    "sha256": "da0b6f2d24fea0496fe8f8727e42d3bf74904d93a8422b16d4c166f5b447f464",
+    "ordinal": 232,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of pale fringed top and blue trousers in surf.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-18816",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/23R4v9g",
+    "localPath": "images/fashionpedia-expansion-18816.webp",
+    "sha256": "f77cfd61dcb41204725be9032b8c7ca233e78eda860e1f68abaaf941b48175c2",
+    "ordinal": 233,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Burgundy sweater dress, dark tights and boots curled on sofa; pose hides axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-17012",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/23XDWUg",
+    "localPath": "images/fashionpedia-expansion-17012.webp",
+    "sha256": "1c8ee94e2f4a759e96fd949b9a79e313ebe7bc7aef7e1628264a0de4a15b576e",
+    "ordinal": 234,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tiny figure on large staircase; insufficient outfit detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-15272",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/23YgVQ3",
+    "localPath": "images/fashionpedia-expansion-15272.webp",
+    "sha256": "6b8746deb82d372d113d9f872448fd04dd59ec8820579cc74c8f4136c25fa767",
+    "ordinal": 235,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pink fitted top and pale denim shorts with sneakers; angled hip prevents frontal axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-19522",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/243FBmC",
+    "localPath": "images/fashionpedia-expansion-19522.webp",
+    "sha256": "f89a554adcc2a85caf718cacabeb138046e8b91099ca6e6a814b9e63cbb1dbe8",
+    "ordinal": 236,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Long dark striped dress and tan boots; loose knit silhouette hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-16232",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/247bqfy",
+    "localPath": "images/fashionpedia-expansion-16232.webp",
+    "sha256": "206ebfc3970d73e2b84810994bd2f979f05a14d1cb75a0a554712aaac9525425",
+    "ordinal": 237,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White top and lavender flared skirt with heels in profile; pose and flare hide axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-9667",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/247Bvsd",
+    "localPath": "images/fashionpedia-expansion-9667.webp",
+    "sha256": "fb95d3a2e42f0b2615c2b3ec283ad691785303aa5af4003f5be2676582b239a7",
+    "ordinal": 238,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped sleeveless crop and denim shorts in profile; side view prevents axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "fashionpedia-expansion-20228",
+    "source": "fashionpedia",
+    "sourceUrl": "https://flic.kr/p/248shfs",
+    "localPath": "images/fashionpedia-expansion-20228.webp",
+    "sha256": "e30da1533877d393d998775763deac09e06d4753980cb52e41b6d81e2bbf68d7",
+    "ordinal": 239,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Floral dress and black cardigan on chair; seated pose and layers obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

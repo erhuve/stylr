@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7510/7510; unreviewed: 0.
+Reviewed: 7744/7744; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1272 | 16.9% | 1207 | 72 | 47 |
-| feminine | 4156 | 55.3% | 3709 | 50 | 150 |
-| mixed-androgynous | 171 | 2.3% | 164 | 13 | 2 |
-| unclear | 1911 | 25.4% | 1786 | 87 | 97 |
+| masculine | 1298 | 16.8% | 1233 | 72 | 48 |
+| feminine | 4269 | 55.1% | 3822 | 50 | 152 |
+| mixed-androgynous | 171 | 2.2% | 164 | 13 | 2 |
+| unclear | 2006 | 25.9% | 1881 | 88 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":170,"3":65,"unknown":379,"2.5":63,"1.5":592} | {"1":1,"2":19,"3":3,"2.5":11,"1.5":13} |
-| feminine | {"1":27,"2":403,"3":265,"unknown":584,"1.5":2574,"2.5":303} | {"1":7,"2":25,"3":20,"1.5":67,"2.5":31} |
+| masculine | {"1":3,"2":181,"3":65,"unknown":379,"2.5":63,"1.5":607} | {"1":1,"2":20,"3":3,"2.5":11,"1.5":13} |
+| feminine | {"1":27,"2":421,"3":265,"unknown":586,"1.5":2666,"2.5":304} | {"1":7,"2":26,"3":20,"1.5":68,"2.5":31} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":77} | {"1.5":2} |
-| unclear | {"1":7,"2":172,"3":217,"1.5":867,"unknown":527,"2.5":121} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":187,"3":217,"1.5":930,"unknown":542,"2.5":123} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -60,7 +60,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | fathersonsclothing.com | 9 | 0 | 0 | 0 | 0 |
 | finisterre.com | 1 | 0 | 0 | 1 | 0 |
 | flagandanthem.com | 5 | 0 | 0 | 0 | 0 |
-| flic.kr | 313 | 2260 | 28 | 596 | 0 |
+| flic.kr | 314 | 2373 | 28 | 680 | 0 |
 | flickr.com | 22 | 168 | 5 | 42 | 0 |
 | forestinkclothing.com | 0 | 78 | 0 | 2 | 0 |
 | forthefit.com | 3 | 1 | 0 | 3 | 0 |
@@ -93,12 +93,12 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | oxcloth.com | 0 | 0 | 0 | 3 | 0 |
 | pauljamesknitwear.com | 2 | 0 | 0 | 3 | 0 |
 | percivalclo.com | 1 | 0 | 0 | 3 | 0 |
-| perryellis.com | 8 | 0 | 0 | 0 | 0 |
+| perryellis.com | 14 | 0 | 0 | 1 | 0 |
 | pettilia.com | 0 | 4 | 0 | 1 | 0 |
 | pexels.com | 9 | 16 | 1 | 14 | 0 |
 | popflexactive.com | 0 | 5 | 0 | 1 | 0 |
 | punkrave.ch | 13 | 35 | 5 | 7 | 0 |
-| roark.com | 1 | 0 | 0 | 1 | 0 |
+| roark.com | 5 | 0 | 0 | 5 | 0 |
 | rowingblazers.com | 0 | 5 | 1 | 0 | 0 |
 | runandfly.co.uk | 1 | 3 | 0 | 1 | 0 |
 | saturdaysnyc.com | 0 | 0 | 0 | 2 | 0 |
@@ -115,7 +115,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | strongsize.com | 4 | 0 | 0 | 11 | 0 |
 | superfithero.com | 0 | 6 | 0 | 32 | 0 |
 | taperedmenswear.com | 4 | 0 | 0 | 0 | 0 |
-| taylorstitch.com | 1 | 0 | 0 | 3 | 0 |
+| taylorstitch.com | 10 | 0 | 0 | 6 | 0 |
 | teddyfresh.com | 1 | 0 | 0 | 1 | 0 |
 | thegoodmanbrand.com | 1 | 0 | 0 | 8 | 0 |
 | theperfectjean.nyc | 5 | 0 | 0 | 7 | 0 |
@@ -129,7 +129,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | universalstandard.com | 3 | 52 | 0 | 36 | 0 |
 | universalworks.com | 16 | 0 | 0 | 1 | 0 |
 | unsplash.com | 2 | 0 | 0 | 0 | 0 |
-| untuckit.com | 5 | 4 | 0 | 2 | 0 |
+| untuckit.com | 11 | 4 | 0 | 5 | 0 |
 | vintage1946.com | 4 | 0 | 0 | 2 | 0 |
 | waxlondon.com | 1 | 0 | 0 | 1 | 0 |
 | wear.jp | 269 | 57 | 11 | 255 | 0 |

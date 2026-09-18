@@ -1,0 +1,362 @@
+[
+  {
+    "id": "roark-7567317237831-image-34657870643271",
+    "sha256": "01b134c6cc5c2cc2f1b90c8c42cd0df27ad6c1c31bf336c53fa4ec279f3527d3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 1,
+    "sheet": 0,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/00.jpg"
+  },
+  {
+    "id": "roark-7366838124615-image-34554623131719",
+    "sha256": "ec6bc6b41999e50bf982868449f1b28f90d1847c134fbe7e6944f2e8620f6b8a",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 27,
+    "sheet": 2,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/02.jpg"
+  },
+  {
+    "id": "roark-7567316156487-image-34554607468615",
+    "sha256": "7f917e0384162a16c0f2e0799ba52cae0b2a6a18536731f45d5c90fc1b3c7bc8",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 29,
+    "sheet": 2,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/02.jpg"
+  },
+  {
+    "id": "roark-7567317696583-image-34424051073095",
+    "sha256": "27224aa08290c29cd6acc335300a3c81d488fb016983a885ec50caa557eb8c80",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 35,
+    "sheet": 2,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/02.jpg"
+  },
+  {
+    "id": "roark-7567316779079-image-34506985865287",
+    "sha256": "fb9fe89607da53f658a56d7b84a62e3ff78b8cf0f493d6cf19d84db21980851c",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 39,
+    "sheet": 3,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/03.jpg"
+  },
+  {
+    "id": "roark-7238236307527-image-32199855865927",
+    "sha256": "2b0b85dc356d74e20b0f321ed161e62e2e608ef0519fe2cb3ef188797bdfabdd",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 51,
+    "sheet": 4,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/04.jpg"
+  },
+  {
+    "id": "roark-7567320252487-image-34200986910791",
+    "sha256": "86d0bbb6b6731d7187ea8105426bba4fcca9bac0ce9b634410ea51c1dd4e85e4",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 56,
+    "sheet": 4,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/04.jpg"
+  },
+  {
+    "id": "roark-7567316287559-image-34479930671175",
+    "sha256": "b34f48f43014b45b29ad30d107ca0f8c573bd1e61af1f6b213f35578efd9166a",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 59,
+    "sheet": 4,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/04.jpg"
+  },
+  {
+    "id": "taylorstitch-7645561028685-image-36200339144781",
+    "sha256": "267ba8885e747a2d642e09a9c51a85b1f778feb6bcd0c3f5b54a815ee160cdb3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 61,
+    "sheet": 5,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/05.jpg"
+  },
+  {
+    "id": "taylorstitch-7645560340557-image-36764135129165",
+    "sha256": "cf8dbbcc9645d5ed3390d1037206c5b8b2cc0908f88fb2ff5ade2638666ebff2",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 65,
+    "sheet": 5,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/05.jpg"
+  },
+  {
+    "id": "taylorstitch-7645560209485-image-36893783523405",
+    "sha256": "8641942b63cc2589bb423bc23a26c3b9b9a36233ec2faf06e7e4792906791a89",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 69,
+    "sheet": 5,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/05.jpg"
+  },
+  {
+    "id": "taylorstitch-7645557129293-image-36871396294733",
+    "sha256": "e3db51308041fa0e3925f414a071cf9e907641bd8e41dd66d73f11160ceafdd0",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 71,
+    "sheet": 5,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/05.jpg"
+  },
+  {
+    "id": "taylorstitch-7645557260365-image-36358135414861",
+    "sha256": "0fb50af5123c27e158a33c8b3265d5504f2dd6e38c881ba3b4d91c51c9c3b046",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 81,
+    "sheet": 6,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/06.jpg"
+  },
+  {
+    "id": "taylorstitch-7391323816013-image-33776974790733",
+    "sha256": "2c0c029dec8e5238c1921d1d1c8984aceaae4c9f7844d1a9ee596f0b8b96bbf3",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 85,
+    "sheet": 7,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/07.jpg"
+  },
+  {
+    "id": "taylorstitch-7645557489741-image-36493166477389",
+    "sha256": "9fbe3cac4336b95fb18abce677a43eaf5f30d2dae8ca4c7abc28a4c7e923bdda",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 91,
+    "sheet": 7,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/07.jpg"
+  },
+  {
+    "id": "taylorstitch-7645560471629-image-36534579396685",
+    "sha256": "59aa12cd075ced0d34191c141e0e30e30fd37422dbbb190af9b5a70be3f63215",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 93,
+    "sheet": 7,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/07.jpg"
+  },
+  {
+    "id": "taylorstitch-7645560569933-image-36213190000717",
+    "sha256": "eadc819d6f38d52b9e58ababe40a6ffd6f9550e60cdcc21b9d7f47a381e10225",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 105,
+    "sheet": 8,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/08.jpg"
+  },
+  {
+    "id": "taylorstitch-7645557358669-image-36066035892301",
+    "sha256": "50217843fcabb0ab718fb8d8fdcbeafe95d606a7aee8801cbe3c0236e34cdf37",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 107,
+    "sheet": 8,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/08.jpg"
+  },
+  {
+    "id": "taylorstitch-7645559488589-image-36315695448141",
+    "sha256": "7d07a786f167ca6e2542e24873fb5d608815b290f5e33ab3b9bee868a0663dad",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 115,
+    "sheet": 9,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/09.jpg"
+  },
+  {
+    "id": "taylorstitch-7645559455821-image-36329259794509",
+    "sha256": "8dc9a11c8e10b6826aaf448b1c7b18cb34ad85337ef1e0dc765cba00b54929ee",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 119,
+    "sheet": 9,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/09.jpg"
+  },
+  {
+    "id": "perryellis-8005280596046-image-55325027434574",
+    "sha256": "1d9b45b135caf917e7ba5621aee0120daa5d60bd98b5be27f343fbdd393e25e7",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 122,
+    "sheet": 10,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/10.jpg"
+  },
+  {
+    "id": "perryellis-8039539900494-image-54834164170830",
+    "sha256": "de2c6f52119963ed261af1b793d4a57676c4a5e2c2f5bd3d4997c20b544522f7",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 128,
+    "sheet": 10,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/10.jpg"
+  },
+  {
+    "id": "perryellis-8039537705038-image-54833671241806",
+    "sha256": "ad99a51b6ad038728ebedc46628cc39f95741927066dee7470e2f111cffcdba4",
+    "evidence": "M",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 130,
+    "sheet": 10,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/10.jpg"
+  },
+  {
+    "id": "perryellis-8005280464974-image-53745341857870",
+    "sha256": "cb82d5d6c57eaefa3c452bcfdb4c491612a30561cfb056b744ad70103fbbfb4c",
+    "evidence": "M",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 148,
+    "sheet": 12,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/12.jpg"
+  },
+  {
+    "id": "perryellis-8005280628814-image-53745342021710",
+    "sha256": "079e9aa94bce34ed594742b5806c577198ae84e6aefb1c66a384995cc3d9c235",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 170,
+    "sheet": 14,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/14.jpg"
+  },
+  {
+    "id": "perryellis-8005280989262-image-53745342611534",
+    "sha256": "a7c2394802941bef8ca1ead035ab94e9198ec232e49f58f2dc3c486f81570d9e",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 174,
+    "sheet": 14,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/14.jpg"
+  },
+  {
+    "id": "perryellis-8040717877326-image-54894549073998",
+    "sha256": "6fdeaf3a1373f4787b2008443e9bca1d41033dfecea1418264bdd0e95574fd2e",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 176,
+    "sheet": 14,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/14.jpg"
+  },
+  {
+    "id": "untuckit-7828361936974-image-55712829702222",
+    "sha256": "56eac22937e65f9d45952d5b2b2e542b65850ee976184afaf32470706910f8c1",
+    "evidence": "M",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 186,
+    "sheet": 15,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/15.jpg"
+  },
+  {
+    "id": "untuckit-7828362133582-image-55712998555726",
+    "sha256": "18e1b17c7e7ad704fc8f6e3f57408b75e62b4c37a66f2295f14558c7ff4dfbb5",
+    "evidence": "M",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 191,
+    "sheet": 15,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/15.jpg"
+  },
+  {
+    "id": "untuckit-8005265555534-image-55712900939854",
+    "sha256": "bf80890681124d990036f7e0aadf0e386c2392b9fe594ecd94429e0a0e50ad1f",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 200,
+    "sheet": 16,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/16.jpg"
+  },
+  {
+    "id": "untuckit-8005265358926-image-55713325023310",
+    "sha256": "6fb6c7d775b81cd4cbc373781f9b55fbd7cad07c227651108b414061f44a3ab1",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 202,
+    "sheet": 16,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/16.jpg"
+  },
+  {
+    "id": "untuckit-8005265195086-image-55712188891214",
+    "sha256": "735b1c8f5c2c7dff2d34aab44691bdfda10e128fbec4f49c05e5c3c3dcb2b810",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 206,
+    "sheet": 17,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/17.jpg"
+  },
+  {
+    "id": "untuckit-7853402783822-image-48616824668238",
+    "sha256": "1e396258c542982c757ff4cabaff9a01045ca082219dd349afd17e623927c9f6",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 216,
+    "sheet": 18,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/18.jpg"
+  },
+  {
+    "id": "untuckit-7591950221390-image-33821176791118",
+    "sha256": "2faf429f8bf5eab93791b4caf3994247c7abe7c2e9294cfb79875749ceb5caef",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 229,
+    "sheet": 19,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/19.jpg"
+  },
+  {
+    "id": "untuckit-7591950385230-image-33821328605262",
+    "sha256": "e68ddf1945f907082b78d1cd6acb54d10d98feff9fc94cd0fa2a2b7bb82483a9",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 230,
+    "sheet": 19,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/19.jpg"
+  },
+  {
+    "id": "untuckit-7828465352782-image-48611362963534",
+    "sha256": "c4cda575ed2c708847b85cff897225efa81cf7e7ed1ba544cbfb8ddf592698cb",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 236,
+    "sheet": 19,
+    "batch": "2026-09-18T2320-menswear",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2320-menswear/sheets/19.jpg"
+  }
+]

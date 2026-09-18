@@ -1,0 +1,532 @@
+{
+  "baseline": "b58e0a9",
+  "totalPhotos": 7744,
+  "additions": 234,
+  "completeReferences": 299,
+  "improvedSamples": 7,
+  "emptySamples": 12,
+  "benchmark": {
+    "body": {
+      "build": 3,
+      "shoulderHip": 0,
+      "waist": 1,
+      "mode": "nearby"
+    },
+    "before": 55,
+    "after": 55,
+    "addedIds": []
+  },
+  "samples": [
+    {
+      "body": {
+        "build": 1,
+        "shoulderHip": -1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1,
+        "shoulderHip": -1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1,
+        "shoulderHip": -1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1,
+        "shoulderHip": 0,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 5,
+      "after": 5,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1,
+        "shoulderHip": 0,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 98,
+      "after": 99,
+      "addedIds": [
+        "fashionpedia-expansion-19646"
+      ]
+    },
+    {
+      "body": {
+        "build": 1,
+        "shoulderHip": 0,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 5,
+      "after": 5,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1,
+        "shoulderHip": 1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 11,
+      "after": 11,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1,
+        "shoulderHip": 1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 6,
+      "after": 6,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1,
+        "shoulderHip": 1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1.5,
+        "shoulderHip": -1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1.5,
+        "shoulderHip": -1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 3,
+      "after": 3,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1.5,
+        "shoulderHip": -1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 1,
+      "after": 1,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1.5,
+        "shoulderHip": 0,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 5,
+      "after": 5,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1.5,
+        "shoulderHip": 0,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 118,
+      "after": 120,
+      "addedIds": [
+        "fashionpedia-expansion-19646",
+        "fashionpedia-expansion-18005"
+      ]
+    },
+    {
+      "body": {
+        "build": 1.5,
+        "shoulderHip": 0,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 7,
+      "after": 7,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1.5,
+        "shoulderHip": 1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 17,
+      "after": 17,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 1.5,
+        "shoulderHip": 1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 29,
+      "after": 30,
+      "addedIds": [
+        "untuckit-7591950221390-image-33821176791118"
+      ]
+    },
+    {
+      "body": {
+        "build": 1.5,
+        "shoulderHip": 1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2,
+        "shoulderHip": -1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2,
+        "shoulderHip": -1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 24,
+      "after": 24,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2,
+        "shoulderHip": -1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 1,
+      "after": 1,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2,
+        "shoulderHip": 0,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 6,
+      "after": 6,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2,
+        "shoulderHip": 0,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 129,
+      "after": 131,
+      "addedIds": [
+        "fashionpedia-expansion-19646",
+        "fashionpedia-expansion-18005"
+      ]
+    },
+    {
+      "body": {
+        "build": 2,
+        "shoulderHip": 0,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 8,
+      "after": 8,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2,
+        "shoulderHip": 1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 20,
+      "after": 20,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2,
+        "shoulderHip": 1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 36,
+      "after": 37,
+      "addedIds": [
+        "untuckit-7591950221390-image-33821176791118"
+      ]
+    },
+    {
+      "body": {
+        "build": 2,
+        "shoulderHip": 1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2.5,
+        "shoulderHip": -1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2.5,
+        "shoulderHip": -1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 39,
+      "after": 39,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2.5,
+        "shoulderHip": -1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 2,
+      "after": 2,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2.5,
+        "shoulderHip": 0,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 9,
+      "after": 9,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2.5,
+        "shoulderHip": 0,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 75,
+      "after": 76,
+      "addedIds": [
+        "fashionpedia-expansion-18005"
+      ]
+    },
+    {
+      "body": {
+        "build": 2.5,
+        "shoulderHip": 0,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 4,
+      "after": 4,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2.5,
+        "shoulderHip": 1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 12,
+      "after": 12,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 2.5,
+        "shoulderHip": 1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 30,
+      "after": 31,
+      "addedIds": [
+        "untuckit-7591950221390-image-33821176791118"
+      ]
+    },
+    {
+      "body": {
+        "build": 2.5,
+        "shoulderHip": 1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 3,
+        "shoulderHip": -1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 3,
+        "shoulderHip": -1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 36,
+      "after": 36,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 3,
+        "shoulderHip": -1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 1,
+      "after": 1,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 3,
+        "shoulderHip": 0,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 9,
+      "after": 9,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 3,
+        "shoulderHip": 0,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 55,
+      "after": 55,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 3,
+        "shoulderHip": 0,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 2,
+      "after": 2,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 3,
+        "shoulderHip": 1,
+        "waist": 0,
+        "mode": "nearby"
+      },
+      "before": 6,
+      "after": 6,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 3,
+        "shoulderHip": 1,
+        "waist": 1,
+        "mode": "nearby"
+      },
+      "before": 7,
+      "after": 7,
+      "addedIds": []
+    },
+    {
+      "body": {
+        "build": 3,
+        "shoulderHip": 1,
+        "waist": 2,
+        "mode": "nearby"
+      },
+      "before": 0,
+      "after": 0,
+      "addedIds": []
+    }
+  ]
+}
