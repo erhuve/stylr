@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7213/7213; unreviewed: 0.
+Reviewed: 7222/7222; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1201 | 16.7% | 1136 | 43 | 44 |
-| feminine | 4039 | 56% | 3597 | 28 | 148 |
+| masculine | 1201 | 16.6% | 1136 | 43 | 44 |
+| feminine | 4043 | 56% | 3601 | 29 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1805 | 25% | 1680 | 51 | 97 |
+| unclear | 1810 | 25.1% | 1685 | 53 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -21,9 +21,9 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
 | masculine | {"1":3,"2":140,"3":65,"unknown":367,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":390,"3":247,"unknown":573,"1.5":2529,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| feminine | {"1":27,"2":390,"3":248,"unknown":573,"1.5":2530,"2.5":275} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":213,"1.5":811,"unknown":514,"2.5":107} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":213,"1.5":815,"unknown":514,"2.5":108} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -38,6 +38,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | barbellapparel.com | 0 | 0 | 0 | 9 | 0 |
 | bearbottomclothing.com | 1 | 0 | 0 | 4 | 0 |
 | bigbudpress.com | 6 | 32 | 0 | 119 | 0 |
+| bridgeandburn.com | 0 | 0 | 0 | 4 | 0 |
 | bronsonshop.com | 2 | 0 | 0 | 0 | 0 |
 | chubbiesshorts.com | 3 | 0 | 0 | 3 | 0 |
 | chubstr.com | 22 | 0 | 0 | 5 | 0 |
@@ -76,6 +77,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | theperfectjean.nyc | 5 | 0 | 0 | 7 | 0 |
 | tokyofashion.com | 174 | 440 | 110 | 186 | 0 |
 | tombolocompany.com | 17 | 2 | 0 | 7 | 0 |
+| tradlands.com | 0 | 4 | 0 | 1 | 0 |
 | trippnyc.com | 11 | 11 | 1 | 10 | 0 |
 | trueclassictees.com | 3 | 0 | 0 | 9 | 0 |
 | twillory.com | 5 | 0 | 0 | 0 | 0 |

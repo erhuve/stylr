@@ -5123,6 +5123,90 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://bridgeandburn.com/products/audrey-long-sleeve-tee-truffle",
+    "source": "bridgeandburn",
+    "candidateIds": [
+      "bridgeandburn-8078868185167-image-42183142965327",
+      "bridgeandburn-8078868185167-image-43905676247119"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0310-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bridgeandburn.com/products/bailey-crew-sweatshirt-cumin",
+    "source": "bridgeandburn",
+    "candidateIds": [
+      "bridgeandburn-8078868217935-image-42183145848911",
+      "bridgeandburn-8078868217935-image-43905677328463"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0310-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bridgeandburn.com/products/bailey-crew-sweatshirt-graphite",
+    "source": "bridgeandburn",
+    "candidateIds": [
+      "bridgeandburn-8078868283471-image-42183146471503",
+      "bridgeandburn-8078868283471-image-43905678409807"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0310-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bridgeandburn.com/products/bailey-crew-sweatshirt-juniper",
+    "source": "bridgeandburn",
+    "candidateIds": [
+      "bridgeandburn-8078868349007-image-42183147192399",
+      "bridgeandburn-8078868349007-image-43905678573647"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0310-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bridgeandburn.com/products/mason-hoodie-cumin",
+    "source": "bridgeandburn",
+    "candidateIds": [
+      "bridgeandburn-8078869790799-image-42183172751439",
+      "bridgeandburn-8078869790799-image-43905717076047"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0310-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bridgeandburn.com/products/mason-hoodie-juniper",
+    "source": "bridgeandburn",
+    "candidateIds": [
+      "bridgeandburn-8078869889103-image-42183174062159",
+      "bridgeandburn-8078869889103-image-43905718747215"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0310-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://bronsonshop.com/products/heavyweight-moleskin-raglan-sleeve-bomber-jacket-black",
     "source": "bronson",
     "candidateIds": [
@@ -109415,6 +109499,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-grey",
+    "source": "portugueseflannel",
+    "candidateIds": [
+      "portugueseflannel-15406856307011-image-77582129398083",
+      "portugueseflannel-15406856307011-image-77582129463619"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0325-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-navy",
+    "source": "portugueseflannel",
+    "candidateIds": [
+      "portugueseflannel-15406857617731-image-77582136541507",
+      "portugueseflannel-15406857617731-image-77582136607043"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0325-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-alton",
+    "source": "portugueseflannel",
+    "candidateIds": [
+      "portugueseflannel-15406860108099-image-77582159249731",
+      "portugueseflannel-15406860108099-image-77582159315267"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0325-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-norton",
+    "source": "portugueseflannel",
+    "candidateIds": [
+      "portugueseflannel-15406861418819-image-77582183629123",
+      "portugueseflannel-15406861418819-image-77582183694659"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0325-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-riley",
+    "source": "portugueseflannel",
+    "candidateIds": [
+      "portugueseflannel-15406861680963-image-77582189887811",
+      "portugueseflannel-15406861680963-image-77582189953347"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0325-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-terrior",
+    "source": "portugueseflannel",
+    "candidateIds": [
+      "portugueseflannel-15406859551043-image-77582144536899",
+      "portugueseflannel-15406859551043-image-77582144602435"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0325-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://punkrave.ch/products/2nd-wave-frankenstitch-gothic-fitted-dress-pants-1",
     "source": "punkrave",
     "candidateIds": [
@@ -134074,6 +134242,90 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-dress",
+    "source": "tradlands",
+    "candidateIds": [
+      "tradlands-9116642508954-image-49817664487578",
+      "tradlands-9116642508954-image-49817674842266"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0320-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-mini-dress",
+    "source": "tradlands",
+    "candidateIds": [
+      "tradlands-9108456079514-image-49816435458202",
+      "tradlands-9108456079514-image-49816496603290"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0320-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tradlands.com/products/goldie-smocked-sleeveless-dress-clearance",
+    "source": "tradlands",
+    "candidateIds": [
+      "tradlands-9135332196506-image-49813095252122",
+      "tradlands-9135332196506-image-49813121990810"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0320-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tradlands.com/products/lupine-apron-dress",
+    "source": "tradlands",
+    "candidateIds": [
+      "tradlands-8697449021594-image-49815459430554",
+      "tradlands-8697449021594-image-49815460774042"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0320-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tradlands.com/products/nico-dress",
+    "source": "tradlands",
+    "candidateIds": [
+      "tradlands-8058037076122-image-49810182602906",
+      "tradlands-8058037076122-image-49810183258266"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0320-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://tradlands.com/products/sunny-cotton-linen-crewneck-sweater",
+    "source": "tradlands",
+    "candidateIds": [
+      "tradlands-9153978368154-image-50189451722906",
+      "tradlands-9153978368154-image-50189452509338"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0320-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {

@@ -1,0 +1,105 @@
+{
+  "retrievedAt": "2026-09-18T03:03:25.324920+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "tradlands",
+      "pages": [
+        {
+          "url": "https://tradlands.com/products.json?limit=250&page=1",
+          "products": 33,
+          "retrievedAt": "2026-09-18T03:03:20.001007+00:00",
+          "snapshotSha256": "971b5ebf6dee07ea62d52c11a4dbf9ae0b980af34c7d88eec982e36e76afaa2b"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "tradlands-9153978368154-image-50189451722906",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpsunnycottonlinencrewnecksweaterblack01.jpg?v=1789402678",
+          "sourceUrl": "https://tradlands.com/products/sunny-cotton-linen-crewneck-sweater",
+          "sha256": "0d887e6dff9832e421a1f9f3c2758976259c4c354472051494d2f235c3b07c85",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-9153978368154-image-50189452509338",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandssunnycottonlinencrewnecksweaterblack02.jpg?v=1789402715",
+          "sourceUrl": "https://tradlands.com/products/sunny-cotton-linen-crewneck-sweater",
+          "sha256": "11d3cb6a1faa5af2bebf509b14189729b903ee71eb90de57e9f3c110395a0057",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-9135332196506-image-49813095252122",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpgoldiesmockedsleevelessdressbluehillplaid01.jpg?v=1787737542",
+          "sourceUrl": "https://tradlands.com/products/goldie-smocked-sleeveless-dress-clearance",
+          "sha256": "b95ad439342616a8632a36e63ee77124002d43589298bea76508837b62b9eba4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-9135332196506-image-49813121990810",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandsgoldiesmockedsleevelessdressbluehillplaid02.jpg?v=1787737565",
+          "sourceUrl": "https://tradlands.com/products/goldie-smocked-sleeveless-dress-clearance",
+          "sha256": "804c94d54df45b521b44634fb1385b146915b25059f6e7c3b8ab256e360ecdfa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-9116642508954-image-49817664487578",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpchaletfluttersleevedressblack01_faaecb2e-ba0a-4a71-b369-a339b308f5f2.jpg?v=1787758782",
+          "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-dress",
+          "sha256": "54a8b72c25f7718e0baa1f1bb341815ca1d2866f7d925f3630e573c39864a699",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-9116642508954-image-49817674842266",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandschaletfluttersleevedressblack02_619e8e11-e126-45e3-99ca-9b97969a5a25.jpg?v=1787758950",
+          "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-dress",
+          "sha256": "a04c662023f961f9bf899c33bdccb2f3c53e8b8d04ea41c26fb2a9dff2d4ab9d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-8058037076122-image-49810182602906",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpnicodressblack01.jpg?v=1787729978",
+          "sourceUrl": "https://tradlands.com/products/nico-dress",
+          "sha256": "99dd18c013be594359769a942a39469a3cd549fc104afd42a49055cb16bb3cc0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-8058037076122-image-49810183258266",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandsnicodressblack01_e7644fa3-34dc-45b2-afe1-1a379373550e.jpg?v=1787729985",
+          "sourceUrl": "https://tradlands.com/products/nico-dress",
+          "sha256": "923f8a12a20991d5ce170df046ed091c905f110228f672b20227fa9f0acd2363",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-9108456079514-image-49816435458202",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpchaletfluttersleeveminidressprismblue01.jpg?v=1787752356",
+          "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-mini-dress",
+          "sha256": "6c81d237e3c17bcfbd78da31a5beea5e98ae3cd6d278ce5884746d1b953887c9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-9108456079514-image-49816496603290",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpchaletfluttersleeveminidressrhubarb01.jpg?v=1787752655",
+          "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-mini-dress",
+          "sha256": "92eb5be3e4d536577602b3f98fe11c1971c4ce9d286107dd4571eba813daadb3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-8697449021594-image-49815459430554",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgplupineaprondresscream01.jpg?v=1787745950",
+          "sourceUrl": "https://tradlands.com/products/lupine-apron-dress",
+          "sha256": "1899d56324d80f86b30f0763b3022c3c681e2e80d139b733960b76306cd0a77d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "tradlands-8697449021594-image-49815460774042",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandslupineaprondresscream02.jpg?v=1787745965",
+          "sourceUrl": "https://tradlands.com/products/lupine-apron-dress",
+          "sha256": "b42438626f134f7e5c9e3de26003335467b745d8fc8ef941f9aa770a82c7e175",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

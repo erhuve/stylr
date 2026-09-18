@@ -1,0 +1,105 @@
+{
+  "retrievedAt": "2026-09-18T03:03:39.408488+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "portugueseflannel",
+      "pages": [
+        {
+          "url": "https://portugueseflannel.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T03:03:36.066261+00:00",
+          "snapshotSha256": "3055974eacde81dc4189a0e245867b683a6766370fb85dbca896acad109db0bd"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "portugueseflannel-15406861680963-image-77582189887811",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESRILEY_001.jpg?v=1788970134",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-riley",
+          "sha256": "e0a620e72d83923a2f08016564429b12e2003c2cf910d6c99ca5cf0e55e028a0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406861680963-image-77582189953347",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESRILEY_003.jpg?v=1788970134",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-riley",
+          "sha256": "05fcc2de52de67d37f5b90e9907ed6afc16b2cb4b67fc0ad8b03ae8d75f630ba",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406861418819-image-77582183629123",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESNORTON_003.jpg?v=1788969977",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-norton",
+          "sha256": "6167de04750d33a01f7ee6879ab4878868540d45b3f0f9c44e3c4d9f818cf302",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406861418819-image-77582183694659",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESNORTON_009.jpg?v=1788969977",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-norton",
+          "sha256": "833f2c6b5f62b34fefac466bdf18f4d8d2107ac6491a64cf41df8dbfbfc8ea4c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406860108099-image-77582159249731",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESALTON_002.jpg?v=1788969379",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-alton",
+          "sha256": "ad28638967658f649b9772ef483ba5e0991b7c1032c26070c778061c466ce779",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406860108099-image-77582159315267",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESALTON_004.jpg?v=1788969379",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-alton",
+          "sha256": "2aaf08280e4118dd235e753dd24579f39ce232159162e67e2fdcecb393e61560",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406859551043-image-77582144536899",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSTERROIR_001.jpg?v=1788969073",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-terrior",
+          "sha256": "edbfd604b73f81427d810ce6ae331d92c59ed80520311e9f82b3325ba6d159e0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406859551043-image-77582144602435",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSTERROIR_004.jpg?v=1788969074",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-terrior",
+          "sha256": "a44a657d7174015236ccab453321aee698d4435b8486ad8b7d30ea9c2c9dee8b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406857617731-image-77582136541507",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERS-NAVY0001.jpg?v=1788968909",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-navy",
+          "sha256": "ed113cc9b0f326228ff88a277b57ade9ca48c95dea1453f8ae2222cd76e315e3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406857617731-image-77582136607043",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERS-NAVY0003.jpg?v=1788968909",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-navy",
+          "sha256": "833d94a4d8c7fba8aa1d864321e85a20b82b959fa145620c6683fcf1724d41b5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406856307011-image-77582129398083",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSGREY_001.jpg?v=1788968804",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-grey",
+          "sha256": "f39cc8202ea066d1f784847ea416b7f3adb23dad228528204e048205124c82fa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "portugueseflannel-15406856307011-image-77582129463619",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSGREY_005.jpg?v=1788968805",
+          "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-grey",
+          "sha256": "3a53c35d1f9184cb71382f568c14f2f551345eba75e9e94134462bce8330651a",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

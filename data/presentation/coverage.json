@@ -1,14 +1,14 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7213,
-  "reviewedPhotos": 7213,
+  "catalogPhotos": 7222,
+  "reviewedPhotos": 7222,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
       "photos": 1201,
-      "percent": 16.7,
+      "percent": 16.6,
       "sourcePages": 1136,
       "sourceHosts": 43,
       "completeReferences": 44,
@@ -30,18 +30,18 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4039,
+      "photos": 4043,
       "percent": 56,
-      "sourcePages": 3597,
-      "sourceHosts": 28,
+      "sourcePages": 3601,
+      "sourceHosts": 29,
       "completeReferences": 148,
       "byBuild": {
         "1": 27,
         "2": 390,
-        "3": 247,
+        "3": 248,
         "unknown": 573,
-        "1.5": 2529,
-        "2.5": 273
+        "1.5": 2530,
+        "2.5": 275
       },
       "completeByBuild": {
         "1": 7,
@@ -70,18 +70,18 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1805,
-      "percent": 25,
-      "sourcePages": 1680,
-      "sourceHosts": 51,
+      "photos": 1810,
+      "percent": 25.1,
+      "sourcePages": 1685,
+      "sourceHosts": 53,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
         "2": 153,
         "3": 213,
-        "1.5": 811,
+        "1.5": 815,
         "unknown": 514,
-        "2.5": 107
+        "2.5": 108
       },
       "completeByBuild": {
         "1": 2,
@@ -598,6 +598,63 @@
             "3": 12,
             "1.5": 4
           }
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "bridgeandburn.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 4,
+          "percent": 100,
+          "sourcePages": 4,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 4
+          },
+          "completeByBuild": {}
         },
         {
           "presentation": "unreviewed",
@@ -3148,6 +3205,67 @@
           "byBuild": {
             "unknown": 1,
             "1.5": 6
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "tradlands.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 4,
+          "percent": 80,
+          "sourcePages": 4,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "3": 1,
+            "2.5": 2,
+            "1.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 1,
+          "percent": 20,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2.5": 1
           },
           "completeByBuild": {}
         },

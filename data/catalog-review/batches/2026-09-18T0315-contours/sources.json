@@ -1,0 +1,20 @@
+{
+  "retrievedAt": "2026-09-18T03:02:47.820265+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "forestink",
+      "pages": [
+        {
+          "url": "https://forestinkclothing.com/products.json?limit=250&page=1",
+          "products": 149,
+          "retrievedAt": "2026-09-18T03:02:47.811134+00:00",
+          "snapshotSha256": "9ec9b15700fa69b9914f248b52c3a0f1ed9d4f7bf6ba8b34752b822577afc54c"
+        }
+      ],
+      "errors": [],
+      "images": [],
+      "downloadedUnique": 0
+    }
+  ]
+}

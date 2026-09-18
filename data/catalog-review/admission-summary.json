@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10008,
-  "admittedPhotos": 6828,
-  "totalPhotos": 7213,
+  "reviewedCandidates": 10044,
+  "admittedPhotos": 6837,
+  "totalPhotos": 7222,
   "axisSupport": {
-    "build": 5551,
+    "build": 5560,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6269,
+  "sourcePages": 6278,
   "excludedReasons": {
-    "non-outfit-view": 3122,
+    "non-outfit-view": 3149,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12732,6 +12732,114 @@
     },
     {
       "id": "alexmill-5052986622011-image-33930268311611",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bridgeandburn-8078869889103-image-42183174062159",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bridgeandburn-8078869790799-image-42183172751439",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bridgeandburn-8078868349007-image-42183147192399",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bridgeandburn-8078868283471-image-42183146471503",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bridgeandburn-8078868283471-image-43905678409807",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bridgeandburn-8078868217935-image-42183145848911",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bridgeandburn-8078868217935-image-43905677328463",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bridgeandburn-8078868185167-image-42183142965327",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tradlands-9153978368154-image-50189452509338",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tradlands-9135332196506-image-49813121990810",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tradlands-9116642508954-image-49817674842266",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tradlands-8058037076122-image-49810183258266",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tradlands-9108456079514-image-49816435458202",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tradlands-9108456079514-image-49816496603290",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "tradlands-8697449021594-image-49815460774042",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406861680963-image-77582189887811",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406861680963-image-77582189953347",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406861418819-image-77582183629123",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406861418819-image-77582183694659",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406860108099-image-77582159249731",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406860108099-image-77582159315267",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406859551043-image-77582144536899",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406859551043-image-77582144602435",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406857617731-image-77582136541507",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406857617731-image-77582136607043",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406856307011-image-77582129398083",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "portugueseflannel-15406856307011-image-77582129463619",
       "reason": "non-outfit-view"
     }
   ]

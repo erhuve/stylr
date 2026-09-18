@@ -73,6 +73,15 @@
       "deferredPages": 79
     },
     {
+      "source": "bridgeandburn",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 4,
+      "completeExpansionReferences": 0,
+      "deferredPages": 191
+    },
+    {
       "source": "bronson",
       "sampledPages": 6,
       "candidateImages": 12,
@@ -316,6 +325,15 @@
       "deferredPages": 211
     },
     {
+      "source": "portugueseflannel",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 0,
+      "completeExpansionReferences": 0,
+      "deferredPages": 51
+    },
+    {
       "source": "punkrave",
       "sampledPages": 78,
       "candidateImages": 156,
@@ -431,6 +449,15 @@
       "admittedExpansionPhotos": 26,
       "completeExpansionReferences": 0,
       "deferredPages": 8
+    },
+    {
+      "source": "tradlands",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 5,
+      "completeExpansionReferences": 0,
+      "deferredPages": 23
     },
     {
       "source": "trippnyc",
@@ -40398,6 +40425,357 @@
             }
           ],
           "downloadedUnique": 15
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0310-targeted/sources.json",
+      "retrievedAt": "2026-09-18T03:02:32.480907+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "bridgeandburn",
+          "pages": [
+            {
+              "url": "https://bridgeandburn.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T03:02:26.357533+00:00",
+              "snapshotSha256": "ed94d48fb9e15f8380913ab19cfd880b5fa9d3f2c28780318d9e20aed86c787c"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "bridgeandburn-8078869889103-image-42183174062159",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6967c7417839596967c741784ff.095317376967c741784ff.jpg?v=1770921791",
+              "sourceUrl": "https://bridgeandburn.com/products/mason-hoodie-juniper",
+              "sha256": "200ba0b926de118557090465eb6efbf8475cbeb5556165d0e097a9855b71860a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078869889103-image-43905718747215",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a43f165c795936a43f165c7a3a.061713256a43f165c7a3a.jpg?v=1782837668",
+              "sourceUrl": "https://bridgeandburn.com/products/mason-hoodie-juniper",
+              "sha256": "c3a8fdbdb0cbe11fffb4461697a8b4cce530f65ccd9293d28627094a9a3c4b6a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078869790799-image-42183172751439",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6967c71bba2d726967c71bba430.554118956967c71bba430.jpg?v=1770921788",
+              "sourceUrl": "https://bridgeandburn.com/products/mason-hoodie-cumin",
+              "sha256": "a9282582fecd801fb184a82431cb80450ab9f52877dd40791113258e0e545043",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078869790799-image-43905717076047",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a43f137441a656a43f137442a0.338598786a43f137442a0.jpg?v=1782837611",
+              "sourceUrl": "https://bridgeandburn.com/products/mason-hoodie-cumin",
+              "sha256": "8dff230066c18550ba92c230d4991702c4f3f5d688d1e1f6cf0e75301ccb1b85",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078868349007-image-42183147192399",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6967c59986abc66967c59986c13.124539136967c59986c13.jpg?v=1770921735",
+              "sourceUrl": "https://bridgeandburn.com/products/bailey-crew-sweatshirt-juniper",
+              "sha256": "224a99e7ac906aac6cc0782acbf6ec330c77be410f6c8a2b64d1630daf3e4878",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078868349007-image-43905678573647",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a43eafd0ecc576a43eafd0edf1.017244066a43eafd0edf1.jpg?v=1782836006",
+              "sourceUrl": "https://bridgeandburn.com/products/bailey-crew-sweatshirt-juniper",
+              "sha256": "c2a3014221ea72fa93016655bc6c53c925be4bbe62226e3fd3302fbd6de6ad9d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078868283471-image-42183146471503",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6967c5915ff2b26967c591600c3.589446236967c591600c3.jpg?v=1770921732",
+              "sourceUrl": "https://bridgeandburn.com/products/bailey-crew-sweatshirt-graphite",
+              "sha256": "c2baec6da1018e8f2a33be9468a8384eb6fdea6bbdd9985fa08d34965309fd42",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078868283471-image-43905678409807",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a43ead69851c96a43ead6985c1.207743716a43ead6985c1.jpg?v=1782835998",
+              "sourceUrl": "https://bridgeandburn.com/products/bailey-crew-sweatshirt-graphite",
+              "sha256": "c06fc93bcf69f546708e1d63c22bd935a7f7c7f0d3a847ad518bbe72fc24769c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078868217935-image-42183145848911",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6967c5880ddb486967c5880df0f.518623896967c5880df0f.jpg?v=1770921729",
+              "sourceUrl": "https://bridgeandburn.com/products/bailey-crew-sweatshirt-cumin",
+              "sha256": "6de2b3dccdab82517b3503f68913362252d36bcb808b9c4fdee23a6f5fca8b98",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078868217935-image-43905677328463",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a43eab942f7f56a43eab943d51.435285816a43eab943d51.jpg?v=1782835930",
+              "sourceUrl": "https://bridgeandburn.com/products/bailey-crew-sweatshirt-cumin",
+              "sha256": "d4a311ba178617788db497dbb9b934e2aa011c9a881693cdc6388af1fe87742d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078868185167-image-42183142965327",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6967c569d2f8b96967c569d30f2.680233856967c569d30f2.jpg?v=1770921854",
+              "sourceUrl": "https://bridgeandburn.com/products/audrey-long-sleeve-tee-truffle",
+              "sha256": "1f7dc1cf2ce9f77240e4c08aeb9f9182814530d477cd70809c4b02f2f2f559dd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bridgeandburn-8078868185167-image-43905676247119",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a43ea685132236a43ea68514c5.363496046a43ea68514c5.jpg?v=1782835885",
+              "sourceUrl": "https://bridgeandburn.com/products/audrey-long-sleeve-tee-truffle",
+              "sha256": "25720faa110e8c7ecee05b7a5d328b78039317010b38b17f7c7a8395f2083774",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "loudbodies",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://loudbodies.com/products.json?limit=250&page=1",
+              "error": "Expecting value: line 1 column 1 (char 0)"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0315-contours/sources.json",
+      "retrievedAt": "2026-09-18T03:02:47.820265+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "forestink",
+          "pages": [
+            {
+              "url": "https://forestinkclothing.com/products.json?limit=250&page=1",
+              "products": 149,
+              "retrievedAt": "2026-09-18T03:02:47.811134+00:00",
+              "snapshotSha256": "9ec9b15700fa69b9914f248b52c3a0f1ed9d4f7bf6ba8b34752b822577afc54c"
+            }
+          ],
+          "errors": [],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0320-contours/sources.json",
+      "retrievedAt": "2026-09-18T03:03:25.324920+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "tradlands",
+          "pages": [
+            {
+              "url": "https://tradlands.com/products.json?limit=250&page=1",
+              "products": 33,
+              "retrievedAt": "2026-09-18T03:03:20.001007+00:00",
+              "snapshotSha256": "971b5ebf6dee07ea62d52c11a4dbf9ae0b980af34c7d88eec982e36e76afaa2b"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "tradlands-9153978368154-image-50189451722906",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpsunnycottonlinencrewnecksweaterblack01.jpg?v=1789402678",
+              "sourceUrl": "https://tradlands.com/products/sunny-cotton-linen-crewneck-sweater",
+              "sha256": "0d887e6dff9832e421a1f9f3c2758976259c4c354472051494d2f235c3b07c85",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-9153978368154-image-50189452509338",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandssunnycottonlinencrewnecksweaterblack02.jpg?v=1789402715",
+              "sourceUrl": "https://tradlands.com/products/sunny-cotton-linen-crewneck-sweater",
+              "sha256": "11d3cb6a1faa5af2bebf509b14189729b903ee71eb90de57e9f3c110395a0057",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-9135332196506-image-49813095252122",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpgoldiesmockedsleevelessdressbluehillplaid01.jpg?v=1787737542",
+              "sourceUrl": "https://tradlands.com/products/goldie-smocked-sleeveless-dress-clearance",
+              "sha256": "b95ad439342616a8632a36e63ee77124002d43589298bea76508837b62b9eba4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-9135332196506-image-49813121990810",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandsgoldiesmockedsleevelessdressbluehillplaid02.jpg?v=1787737565",
+              "sourceUrl": "https://tradlands.com/products/goldie-smocked-sleeveless-dress-clearance",
+              "sha256": "804c94d54df45b521b44634fb1385b146915b25059f6e7c3b8ab256e360ecdfa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-9116642508954-image-49817664487578",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpchaletfluttersleevedressblack01_faaecb2e-ba0a-4a71-b369-a339b308f5f2.jpg?v=1787758782",
+              "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-dress",
+              "sha256": "54a8b72c25f7718e0baa1f1bb341815ca1d2866f7d925f3630e573c39864a699",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-9116642508954-image-49817674842266",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandschaletfluttersleevedressblack02_619e8e11-e126-45e3-99ca-9b97969a5a25.jpg?v=1787758950",
+              "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-dress",
+              "sha256": "a04c662023f961f9bf899c33bdccb2f3c53e8b8d04ea41c26fb2a9dff2d4ab9d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-8058037076122-image-49810182602906",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpnicodressblack01.jpg?v=1787729978",
+              "sourceUrl": "https://tradlands.com/products/nico-dress",
+              "sha256": "99dd18c013be594359769a942a39469a3cd549fc104afd42a49055cb16bb3cc0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-8058037076122-image-49810183258266",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandsnicodressblack01_e7644fa3-34dc-45b2-afe1-1a379373550e.jpg?v=1787729985",
+              "sourceUrl": "https://tradlands.com/products/nico-dress",
+              "sha256": "923f8a12a20991d5ce170df046ed091c905f110228f672b20227fa9f0acd2363",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-9108456079514-image-49816435458202",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpchaletfluttersleeveminidressprismblue01.jpg?v=1787752356",
+              "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-mini-dress",
+              "sha256": "6c81d237e3c17bcfbd78da31a5beea5e98ae3cd6d278ce5884746d1b953887c9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-9108456079514-image-49816496603290",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgpchaletfluttersleeveminidressrhubarb01.jpg?v=1787752655",
+              "sourceUrl": "https://tradlands.com/products/chalet-flutter-sleeve-mini-dress",
+              "sha256": "92eb5be3e4d536577602b3f98fe11c1971c4ce9d286107dd4571eba813daadb3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-8697449021594-image-49815459430554",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandspgplupineaprondresscream01.jpg?v=1787745950",
+              "sourceUrl": "https://tradlands.com/products/lupine-apron-dress",
+              "sha256": "1899d56324d80f86b30f0763b3022c3c681e2e80d139b733960b76306cd0a77d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "tradlands-8697449021594-image-49815460774042",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0169/5130/files/tradlandslupineaprondresscream02.jpg?v=1787745965",
+              "sourceUrl": "https://tradlands.com/products/lupine-apron-dress",
+              "sha256": "b42438626f134f7e5c9e3de26003335467b745d8fc8ef941f9aa770a82c7e175",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0325-workwear/sources.json",
+      "retrievedAt": "2026-09-18T03:03:39.408488+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "portugueseflannel",
+          "pages": [
+            {
+              "url": "https://portugueseflannel.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T03:03:36.066261+00:00",
+              "snapshotSha256": "3055974eacde81dc4189a0e245867b683a6766370fb85dbca896acad109db0bd"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "portugueseflannel-15406861680963-image-77582189887811",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESRILEY_001.jpg?v=1788970134",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-riley",
+              "sha256": "e0a620e72d83923a2f08016564429b12e2003c2cf910d6c99ca5cf0e55e028a0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406861680963-image-77582189953347",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESRILEY_003.jpg?v=1788970134",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-riley",
+              "sha256": "05fcc2de52de67d37f5b90e9907ed6afc16b2cb4b67fc0ad8b03ae8d75f630ba",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406861418819-image-77582183629123",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESNORTON_003.jpg?v=1788969977",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-norton",
+              "sha256": "6167de04750d33a01f7ee6879ab4878868540d45b3f0f9c44e3c4d9f818cf302",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406861418819-image-77582183694659",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESNORTON_009.jpg?v=1788969977",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-norton",
+              "sha256": "833f2c6b5f62b34fefac466bdf18f4d8d2107ac6491a64cf41df8dbfbfc8ea4c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406860108099-image-77582159249731",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESALTON_002.jpg?v=1788969379",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-alton",
+              "sha256": "ad28638967658f649b9772ef483ba5e0991b7c1032c26070c778061c466ce779",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406860108099-image-77582159315267",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSPRINCEOFWALESALTON_004.jpg?v=1788969379",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-prince-of-wales-alton",
+              "sha256": "2aaf08280e4118dd235e753dd24579f39ce232159162e67e2fdcecb393e61560",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406859551043-image-77582144536899",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSTERROIR_001.jpg?v=1788969073",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-terrior",
+              "sha256": "edbfd604b73f81427d810ce6ae331d92c59ed80520311e9f82b3325ba6d159e0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406859551043-image-77582144602435",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSTERROIR_004.jpg?v=1788969074",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-terrior",
+              "sha256": "a44a657d7174015236ccab453321aee698d4435b8486ad8b7d30ea9c2c9dee8b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406857617731-image-77582136541507",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERS-NAVY0001.jpg?v=1788968909",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-navy",
+              "sha256": "ed113cc9b0f326228ff88a277b57ade9ca48c95dea1453f8ae2222cd76e315e3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406857617731-image-77582136607043",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERS-NAVY0003.jpg?v=1788968909",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-navy",
+              "sha256": "833d94a4d8c7fba8aa1d864321e85a20b82b959fa145620c6683fcf1724d41b5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406856307011-image-77582129398083",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSGREY_001.jpg?v=1788968804",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-grey",
+              "sha256": "f39cc8202ea066d1f784847ea416b7f3adb23dad228528204e048205124c82fa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "portugueseflannel-15406856307011-image-77582129463619",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1018/6883/files/SINGLEPLEATTROUSERSGREY_005.jpg?v=1788968805",
+              "sourceUrl": "https://portugueseflannel.com/products/single-pleat-trousers-grey",
+              "sha256": "3a53c35d1f9184cb71382f568c14f2f551345eba75e9e94134462bce8330651a",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
         }
       ]
     }
