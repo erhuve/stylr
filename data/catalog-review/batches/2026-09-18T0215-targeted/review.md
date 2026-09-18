@@ -1,0 +1,7 @@
+# Direct visual review
+
+Recovery at 02:31 UTC: `con_yIGYZbKrE4gHoqGb` resumes the interrupted `con_XQGP4eDXigzCPhoQ` checkpoint after the container restart. Both batches' 26 candidate images were reinspected on their three unchanged sheets; the rain-layer image and Alex Mill ordinals 9 and 14 were enlarged. The three prior Shiny by Nature comparison sheets were also reread. Saved observations were retained, compiled again and bound to presentation/image/sheet digests. This completes the existing review, without counting the reread as new candidates. Validation and final counts are recorded in `docs/verification/doubling-sourcing.md`.
+
+2026-09-18: fifteen images inspected on immutable sheets 00 and 01, with ordinals 9 and 14 enlarged. Seven distinct outfits admitted; six flat products/detail crops and two repeated cropped poses excluded. Five build observations and one waist observation are supported; no complete reference is added. Presentation is one masculine collared-knit/trouser ensemble and six unclear neutral ensembles. Faces, retailer text and source targeting do not supply labels.
+
+The refreshed 250-product first-page listing skips previously sampled pages, including the preceding batch. Exact listing snapshot, all decisions and download outcomes are retained. Append subsequent batches after this one. Prefer full-front fitted collared ensembles and independent fuller-build publishers; the remaining first-page fleece colorways are low-yield. No deployment.

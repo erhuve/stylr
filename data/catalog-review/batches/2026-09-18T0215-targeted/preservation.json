@@ -1,0 +1,14 @@
+{
+  "baseline": "fdbd75c",
+  "unchangedPrefixes": {
+    "scripts/reviewed-photos.json": 6819,
+    "scripts/reviewed-assets.json": 6819,
+    "data/catalog-review/admitted-body.json": 6819,
+    "data/presentation/review.json": 7204
+  },
+  "validatedExpansionAssets": 6828,
+  "pendingTrainingUnchanged": 3744,
+  "newImageBindings": 26,
+  "listingBindings": 3,
+  "sheetBindings": 3
+}

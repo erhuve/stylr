@@ -111417,6 +111417,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/rain-jacket-black",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8200355447000-image-41824982270168",
+      "shinybynature-8200355447000-image-41824982335704"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0210-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/rain-jacket-cherry-blossom",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8200401125592-image-41825035944152",
+      "shinybynature-8200401125592-image-41825036042456"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0210-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/satin-midi-skirt-black",
     "source": "shinybynature",
     "candidateIds": [
@@ -145028,6 +145056,196 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-black",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7853254770747-image-36078091272251",
+      "alexmill-7853254770747-image-36078091370555"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0215-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-light-bone",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7853255721019-image-36078109491259",
+      "alexmill-7853255721019-image-36078109524027"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0215-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-saddle",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7853255950395-image-36078111621179",
+      "alexmill-7853255950395-image-36078111817787"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0215-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-in-camel-light-beige",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7788306890811-image-35830374137915",
+      "alexmill-7788306890811-image-35830374268987"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0210-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-beige",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7452064088123-image-33944918229051"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0210-targeted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-dark-green",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7452063989819-image-33944919539771"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0210-targeted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-graphite",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7452064055355-image-33944919375931"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0210-targeted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-icy-blue-navy",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7788306923579-image-35830371745851"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0210-targeted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-plum",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7788307087419-image-35830368370747",
+      "alexmill-7788307087419-image-35830391242811"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0215-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-beige",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7788313968699-image-35830457172027"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0215-targeted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-dark-brown",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7788314001467-image-35830467264571"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0210-targeted/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-dark-green",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7788313542715-image-35830449471547",
+      "alexmill-7788313542715-image-35830469853243"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0215-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/donegal-crew-neck-sweater-in-navy-donegal",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-5052986622011-image-33930268278843",
+      "alexmill-5052986622011-image-33930268311611"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0215-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.alexmill.com/products/freddie-raglan-striped-crewneck-sweater-in-merino-wool-in-oatmeal-multi",
+    "source": "alexmill",
+    "candidateIds": [
+      "alexmill-7872967835707-image-36076773769275",
+      "alexmill-7872967835707-image-36076773834811"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0215-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {

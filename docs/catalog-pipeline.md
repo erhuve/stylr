@@ -4,7 +4,7 @@
 
 ## From sources to the application
 
-Latest checkpoint: batches `2026-09-18T0140-targeted` and `2026-09-18T0145-contours` review 24 Taylor Stitch/Universal Standard candidates and admit six, reaching 7,204 photos. Complete references remain 291; no required-body-filter gain. All original training bindings remain unchanged. See the active doubling handoff for validation; no deployment. Earlier paragraphs are historical.
+Latest checkpoint: recovered batches `2026-09-18T0210-targeted` and `2026-09-18T0215-targeted` review 26 Alex Mill/Shiny by Nature candidates and admit nine, reaching 7,213 photos. Complete references remain 291; no required-body-filter gain. All original training bindings remain unchanged. See the active doubling handoff for validation; no deployment. Earlier paragraphs are historical.
 
 Latest checkpoint: `2026-09-18T0010-targeted` reviews 24 Universal Works/Snag candidates and admits eight, reaching 7,187 photos. Complete references remain 291; no required-body-filter gain. Original training bindings are unchanged. See the active doubling handoff for validation; no deployment.
 

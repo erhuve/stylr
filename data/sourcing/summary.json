@@ -19,6 +19,15 @@
       "deferredPages": 171
     },
     {
+      "source": "alexmill",
+      "sampledPages": 14,
+      "candidateImages": 22,
+      "reviewedExpansionCandidates": 22,
+      "admittedExpansionPhotos": 8,
+      "completeExpansionReferences": 0,
+      "deferredPages": 86
+    },
+    {
       "source": "americantall",
       "sampledPages": 20,
       "candidateImages": 40,
@@ -326,10 +335,10 @@
     },
     {
       "source": "shinybynature",
-      "sampledPages": 90,
-      "candidateImages": 180,
-      "reviewedExpansionCandidates": 172,
-      "admittedExpansionPhotos": 108,
+      "sampledPages": 92,
+      "candidateImages": 184,
+      "reviewedExpansionCandidates": 176,
+      "admittedExpansionPhotos": 109,
       "completeExpansionReferences": 27,
       "deferredPages": 0
     },
@@ -40148,6 +40157,247 @@
             }
           ],
           "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0210-targeted/sources.json",
+      "retrievedAt": "2026-09-18T02:02:55.068168+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "alexmill",
+          "pages": [
+            {
+              "url": "https://www.alexmill.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T02:02:52.561642+00:00",
+              "snapshotSha256": "d4cd8b4aadbab906747fdfbe55257c95da9228a498a46bafe21339528ec731f7"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "alexmill-7452063989819-image-33944919539771",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/8158-DARK-GREEN-9157.jpg?v=1757965165",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-dark-green",
+              "sha256": "13cfebba48a1925f058751b8486d675946afdcde2da68e321b735ae4a39fd489",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7788306923579-image-35830371745851",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/8332-COLDBREAKER-ICE-BLUE-NAVY-15278.jpg?v=1787691089",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-icy-blue-navy",
+              "sha256": "3df7d5e235a9668840d3bfe2b962d568305c40c9e2ad214876c09d28cb6985f4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7788306890811-image-35830374137915",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/8332-COLDBREAKER-CAMEL-BEIGE-15279.jpg?v=1787691155",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-in-camel-light-beige",
+              "sha256": "42b2646b55fd1c567eaac68359f62f9c368ea24925721497d603d5dabfcb088a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7788306890811-image-35830374268987",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/COLDBREAKER-VEST-CAMEL-BEANIE-MINT-73984_d47fef62-a96a-4d8d-9a79-2070c7595fb9.jpg?v=1787691155",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-in-camel-light-beige",
+              "sha256": "e54c9ac396e4da405e8eaf9e79830c0a1965cf41932658b967e67165e980e46d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7452064088123-image-33944918229051",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/8158-BEIGE-3-9153.jpg?v=1757965143",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-beige",
+              "sha256": "825219c3d0da362ebab6827da1051eeeff44a4a3b00d780b58bd79639981b6da",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7452064055355-image-33944919375931",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/8158-GRAPHITE-11-9158.jpg?v=1757965157",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-graphite",
+              "sha256": "39c82696d7d9944a3accd916bb12e0513a76aac3d4afc6e3cf558cc40f705ef8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7788314001467-image-35830467264571",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/1227-COLDBREAKER-DARK-BROWN-15276_1.jpg?v=1787692522",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-dark-brown",
+              "sha256": "dd20399a70e9646cce3faa2ff3327324cd74be39c56eb8a7763caac9e3efdaea",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 7
+        },
+        {
+          "source": "shinybynature",
+          "pages": [
+            {
+              "url": "https://shinybynature.com/products.json?limit=250&page=1",
+              "products": 99,
+              "retrievedAt": "2026-09-18T02:02:54.300547+00:00",
+              "snapshotSha256": "f7bf7a8002c2925aa90b1fbffa7f0fa94d0f072839e42f00e2a43357e8de93f3"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "shinybynature-8200355447000-image-41824982270168",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/FullSizeRender-1_200c99da-d0ab-49b4-b5bd-0234ef3a91b3.jpg?v=1720111152",
+              "sourceUrl": "https://shinybynature.com/products/rain-jacket-black",
+              "sha256": "bb4e3a3e35b13e6c6552149272695eb1d2bb7ab0a2f847125ebdeb794e7f5946",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "shinybynature-8200355447000-image-41824982335704",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/FullSizeRender-3_fd82a688-eacc-4bfe-bbc9-bba609df6ea6.jpg?v=1720111152",
+              "sourceUrl": "https://shinybynature.com/products/rain-jacket-black",
+              "sha256": "db79e4422d6eeaf06157b8a926feaa5c6e36f5912e8d93c3c98d60fe159aa02d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "shinybynature-8200401125592-image-41825036042456",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/FullSizeRender-12_7a36d96f-c716-4fd1-a99a-46ccbf4f604c.jpg?v=1720112054",
+              "sourceUrl": "https://shinybynature.com/products/rain-jacket-cherry-blossom",
+              "sha256": "510ce03b855c15317fd970bce81312dceecf5b2273f34d6939bc5c71826336a7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "shinybynature-8200401125592-image-41825035944152",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/FullSizeRender-13_009a6161-fbf3-415d-94d2-74918381c8be.jpg?v=1720112054",
+              "sourceUrl": "https://shinybynature.com/products/rain-jacket-cherry-blossom",
+              "sha256": "f6c1d7ed9f65b000111feba0733f6712e2ee499f28f9d54fead736e7921ce3eb",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 4
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0215-targeted/sources.json",
+      "retrievedAt": "2026-09-18T02:03:12.247275+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 8 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "alexmill",
+          "pages": [
+            {
+              "url": "https://www.alexmill.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T02:03:09.795860+00:00",
+              "snapshotSha256": "f1a1d7d8ef42d6677df9345a29b42677adb60fedba6987a795c90dd8b4948e23"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "alexmill-7788313968699-image-35830457172027",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/1227-COLDBREAKER-BEIGE-15275_1.jpg?v=1787692445",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-beige",
+              "sha256": "07e826cf1d637dfb13b26e9dcdf3c78aab76f64da99b8e2b757a8c72bb66edc3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7788313542715-image-35830449471547",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/1227-COLDBREAKER-DARK-GREEN-15277_1.jpg?v=1787692388",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-dark-green",
+              "sha256": "03d5764872d143d9cde28fd48099ad6246c2925c829889d7eefbe33fb912c7f6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7788313542715-image-35830469853243",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/1227-COLDBREAKER-DARK-SPACE-GREEN-39-73280_1.jpg?v=1787692566",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-dark-green",
+              "sha256": "a123eff05487c3f4bcec3ad521b7d39819d755acf97b711e3029cce08ce514ee",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7788307087419-image-35830368370747",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/8158-COLDBREAKER-PLUM-15280_1.jpg?v=1787691001",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-plum",
+              "sha256": "9366df58b25eb3d0548c7ccba4fe167baf827db4a1c35053a2804766bbf933c9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7788307087419-image-35830391242811",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/COLDBREAKER-VEST-PURPLE-75251_7e321c52-a67f-4937-84d0-a7b25df8f089.jpg?v=1787691417",
+              "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-plum",
+              "sha256": "d3f3b1e39a48e4c29fd147504f971f40cf5ca1f723b8edd86941cb6d9f96422c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7853255950395-image-36078111621179",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-SADDLE-WK201-3648-AMALFI-LEMON-76273_9f2a66b0-de1f-49a6-9fbe-fae306cb5efe.jpg?v=1789420744",
+              "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-saddle",
+              "sha256": "cf29a2b5f441f3581063888fa91f4360fa4253dcb08e81cb26c9f4508d867be2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7853255950395-image-36078111817787",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-SADDLE-WK201-3648-AMALFI-LEMON-76304_e2edd669-4e37-466b-9338-defed57c7e47.jpg?v=1789420744",
+              "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-saddle",
+              "sha256": "1a345e882da44d54e2ce71b110ad36a64ac607cb483ff002152a1f5658c01b70",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7853255721019-image-36078109491259",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-OATMEAL-WW462-2233-OATMEAL-69304_ed8d5016-d633-43eb-bffa-3573e15c2a9c.jpg?v=1789420690",
+              "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-light-bone",
+              "sha256": "cfc95ea6697def2e2ddf0ccdc5283d03f71211b303b37957961988e94c1c1f0d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7853255721019-image-36078109524027",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-OATMEAL-WW462-2233-OATMEAL-69324_8fe9d5ef-e3d2-4cab-882b-f2b8e970cf9a.jpg?v=1789420690",
+              "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-light-bone",
+              "sha256": "e7fc591da7b5b6d7eab5f024db09be0113fb07231aba6d7ec675e4e07084f55b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7853254770747-image-36078091272251",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-BLACK-WK201-3638-ROASTED-BEAN-75943.jpg?v=1789420501",
+              "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-black",
+              "sha256": "911c613b89ba6a283f931f88e82f59f74a8c260d722bfa82e954fefbfb50bf4c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7853254770747-image-36078091370555",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-BLACK-WK201-3638-ROASTED-BEAN-75960.jpg?v=1789420501",
+              "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-black",
+              "sha256": "5e45821a126dcc617e942fdef320941b2cf55bb8c08eca6e98fb52616407bcfa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7872967835707-image-36076773834811",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/MW330-2032-OATMEAL-70762_ae308d64-c4f9-4563-960c-bb9b79fa300f.jpg?v=1789406904",
+              "sourceUrl": "https://www.alexmill.com/products/freddie-raglan-striped-crewneck-sweater-in-merino-wool-in-oatmeal-multi",
+              "sha256": "28a9e0b43832e815da63be1c77d8b3f2bb850e1434f19614c66b929c4ea12f14",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-7872967835707-image-36076773769275",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/MW330-2032-OATMEAL-70759_b4f202ac-20b9-4f24-9861-b59793d4f8aa.jpg?v=1789406904",
+              "sourceUrl": "https://www.alexmill.com/products/freddie-raglan-striped-crewneck-sweater-in-merino-wool-in-oatmeal-multi",
+              "sha256": "4cd628c019c3fa8f0a9dce207da6d89bf5b3fa31c8029d3cc7473b1e954ca7d2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-5052986622011-image-33930268311611",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/MW054-2032-NAVY-30693.jpg?v=1774491618",
+              "sourceUrl": "https://www.alexmill.com/products/donegal-crew-neck-sweater-in-navy-donegal",
+              "sha256": "f422c0d5a5d704f8138ef793bced325c489a1f7a860da5e85b6560fea3640148",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "alexmill-5052986622011-image-33930268278843",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/MW054-2032-NAVY-30683.jpg?v=1774491618",
+              "sourceUrl": "https://www.alexmill.com/products/donegal-crew-neck-sweater-in-navy-donegal",
+              "sha256": "3e2c6e20441ee1c78eec657780698c983fb4c6313414101c22c1a40633f84b1b",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 15
         }
       ]
     }

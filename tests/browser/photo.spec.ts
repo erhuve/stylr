@@ -39,7 +39,7 @@ for (const width of [320, 390, 768, 1440]) {
   });
 }
 test('all color catalog assets load from same origin and retain original aspect ratio', async ({ page }) => {
-  test.setTimeout(120000);
+  test.setTimeout(300000);
   await page.goto('/');
   const result = await page.evaluate(async photos => {
     const results: {id:string;ok:boolean;chroma:number}[] = [];

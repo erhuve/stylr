@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9982,
-  "admittedPhotos": 6819,
-  "totalPhotos": 7204,
+  "reviewedCandidates": 10008,
+  "admittedPhotos": 6828,
+  "totalPhotos": 7213,
   "axisSupport": {
-    "build": 5544,
+    "build": 5551,
     "shoulderHip": 311,
-    "waist": 602
+    "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6260,
+  "sourcePages": 6269,
   "excludedReasons": {
-    "non-outfit-view": 3105,
+    "non-outfit-view": 3122,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12664,6 +12664,74 @@
     },
     {
       "id": "universalstandard-7637706768430-image-34050164817966",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7452063989819-image-33944919539771",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7788306923579-image-35830371745851",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7788306890811-image-35830374137915",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7452064088123-image-33944918229051",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7452064055355-image-33944919375931",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7788314001467-image-35830467264571",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8200355447000-image-41824982335704",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8200401125592-image-41825036042456",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8200401125592-image-41825035944152",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7788313968699-image-35830457172027",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7788313542715-image-35830449471547",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7788307087419-image-35830368370747",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7853255950395-image-36078111817787",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7853255721019-image-36078109524027",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7853254770747-image-36078091370555",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-7872967835707-image-36076773834811",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "alexmill-5052986622011-image-33930268311611",
       "reason": "non-outfit-view"
     }
   ]

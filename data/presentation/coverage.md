@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7204/7204; unreviewed: 0.
+Reviewed: 7213/7213; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1200 | 16.7% | 1135 | 42 | 44 |
-| feminine | 4039 | 56.1% | 3597 | 28 | 148 |
+| masculine | 1201 | 16.7% | 1136 | 43 | 44 |
+| feminine | 4039 | 56% | 3597 | 28 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1797 | 24.9% | 1672 | 50 | 97 |
+| unclear | 1805 | 25% | 1680 | 51 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":139,"3":65,"unknown":367,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| masculine | {"1":3,"2":140,"3":65,"unknown":367,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
 | feminine | {"1":27,"2":390,"3":247,"unknown":573,"1.5":2529,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":213,"1.5":806,"unknown":512,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":213,"1.5":811,"unknown":514,"2.5":107} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -32,6 +32,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | --- | ---: | ---: | ---: | ---: | ---: |
 | acdcrag.com | 1 | 22 | 3 | 19 | 0 |
 | activetruth.com.au | 0 | 0 | 0 | 2 | 0 |
+| alexmill.com | 1 | 0 | 0 | 7 | 0 |
 | americantall.com | 4 | 0 | 0 | 2 | 0 |
 | ashanderie.com | 19 | 0 | 0 | 5 | 0 |
 | barbellapparel.com | 0 | 0 | 0 | 9 | 0 |
@@ -62,7 +63,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | pexels.com | 9 | 16 | 1 | 14 | 0 |
 | punkrave.ch | 13 | 35 | 5 | 7 | 0 |
 | saturdaysnyc.com | 0 | 0 | 0 | 2 | 0 |
-| shinybynature.com | 0 | 77 | 0 | 31 | 0 |
+| shinybynature.com | 0 | 77 | 0 | 32 | 0 |
 | shopduer.com | 2 | 0 | 0 | 1 | 0 |
 | shopmyviolet.com | 0 | 137 | 0 | 7 | 0 |
 | snagtights.com | 1 | 228 | 0 | 82 | 0 |

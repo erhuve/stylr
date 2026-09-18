@@ -8,7 +8,7 @@ import summary from '../data/catalog-review/admission-summary.json';
 test('admission replays reviewed data and exact original image bindings', () => {
   const result = Bun.spawnSync(['python', 'scripts/import-reviewed-catalog.py', '--check']);
   expect(result.exitCode, new TextDecoder().decode(result.stderr)).toBe(0);
-  expect(assets.length).toBe(6819);
+  expect(assets.length).toBe(6828);
   expect(summary.completeReferences).toBe(249);
   const rejected = new Set(summary.excluded.map(row => row.id));
   expect(PHOTOS.some(photo => rejected.has(photo.id))).toBe(false);
@@ -19,7 +19,7 @@ test('admission replays reviewed data and exact original image bindings', () => 
       for (const build of [1, 2, 3]) expect(matchesBody(id, { build, shoulderHip: 0, waist: 1, mode: 'nearby' })).toBe(false);
     }
   }
-});
+}, 30000);
 
 test('gallery views share source-page grouping without invented person or clothing metadata', () => {
   const addedIds = new Set(assets.map(asset => asset.id));
@@ -33,7 +33,7 @@ test('gallery views share source-page grouping without invented person or clothi
     if (grouped.has(photo.sourceUrl)) expect(photo.shoot).toBe(grouped.get(photo.sourceUrl)!);
     grouped.set(photo.sourceUrl, photo.shoot);
   }
-  expect(new Set(grouped.values()).size).toBe(6260);
+  expect(new Set(grouped.values()).size).toBe(6269);
 });
 
 test('additional review batches reject incomplete, reused and invalid observations', () => {

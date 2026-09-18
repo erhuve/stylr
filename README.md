@@ -8,7 +8,7 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
-Latest September 18 checkpoint: 7,204 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Twenty-four direct Taylor Stitch/Universal Standard reviews add six outfits and five build observations, with no required-body-filter gain. Presentation totals: 1,200 masculine, 4,039 feminine, 168 mixed and 1,797 unclear. The active doubling handoff supersedes historical counts below. Not deployed.
+Latest September 18 checkpoint: 7,213 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The recovered 26-candidate Alex Mill/Shiny by Nature review adds nine outfits and seven build observations, with no required-body-filter gain. Presentation totals: 1,201 masculine, 4,039 feminine, 168 mixed and 1,805 unclear. The active doubling handoff supersedes historical counts below. Not deployed.
 
 September 18 checkpoint: 7,187 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The latest 24 direct reviews add eight outfits and eight build observations, with no required-body-filter gain. Presentation totals: 1,195 masculine, 4,032 feminine, 168 mixed and 1,792 unclear. The active doubling handoff supersedes the historical September 17 counts below. Not deployed.
 

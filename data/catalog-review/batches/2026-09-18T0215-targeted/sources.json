@@ -1,0 +1,126 @@
+{
+  "retrievedAt": "2026-09-18T02:03:12.247275+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 8 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "alexmill",
+      "pages": [
+        {
+          "url": "https://www.alexmill.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T02:03:09.795860+00:00",
+          "snapshotSha256": "f1a1d7d8ef42d6677df9345a29b42677adb60fedba6987a795c90dd8b4948e23"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "alexmill-7788313968699-image-35830457172027",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/1227-COLDBREAKER-BEIGE-15275_1.jpg?v=1787692445",
+          "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-beige",
+          "sha256": "07e826cf1d637dfb13b26e9dcdf3c78aab76f64da99b8e2b757a8c72bb66edc3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7788313542715-image-35830449471547",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/1227-COLDBREAKER-DARK-GREEN-15277_1.jpg?v=1787692388",
+          "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-dark-green",
+          "sha256": "03d5764872d143d9cde28fd48099ad6246c2925c829889d7eefbe33fb912c7f6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7788313542715-image-35830469853243",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/1227-COLDBREAKER-DARK-SPACE-GREEN-39-73280_1.jpg?v=1787692566",
+          "sourceUrl": "https://www.alexmill.com/products/coldbreaker-walker-jacket-in-dark-green",
+          "sha256": "a123eff05487c3f4bcec3ad521b7d39819d755acf97b711e3029cce08ce514ee",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7788307087419-image-35830368370747",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/8158-COLDBREAKER-PLUM-15280_1.jpg?v=1787691001",
+          "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-plum",
+          "sha256": "9366df58b25eb3d0548c7ccba4fe167baf827db4a1c35053a2804766bbf933c9",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7788307087419-image-35830391242811",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/COLDBREAKER-VEST-PURPLE-75251_7e321c52-a67f-4937-84d0-a7b25df8f089.jpg?v=1787691417",
+          "sourceUrl": "https://www.alexmill.com/products/coldbreaker-standard-vest-in-plum",
+          "sha256": "d3f3b1e39a48e4c29fd147504f971f40cf5ca1f723b8edd86941cb6d9f96422c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7853255950395-image-36078111621179",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-SADDLE-WK201-3648-AMALFI-LEMON-76273_9f2a66b0-de1f-49a6-9fbe-fae306cb5efe.jpg?v=1789420744",
+          "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-saddle",
+          "sha256": "cf29a2b5f441f3581063888fa91f4360fa4253dcb08e81cb26c9f4508d867be2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7853255950395-image-36078111817787",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-SADDLE-WK201-3648-AMALFI-LEMON-76304_e2edd669-4e37-466b-9338-defed57c7e47.jpg?v=1789420744",
+          "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-saddle",
+          "sha256": "1a345e882da44d54e2ce71b110ad36a64ac607cb483ff002152a1f5658c01b70",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7853255721019-image-36078109491259",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-OATMEAL-WW462-2233-OATMEAL-69304_ed8d5016-d633-43eb-bffa-3573e15c2a9c.jpg?v=1789420690",
+          "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-light-bone",
+          "sha256": "cfc95ea6697def2e2ddf0ccdc5283d03f71211b303b37957961988e94c1c1f0d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7853255721019-image-36078109524027",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-OATMEAL-WW462-2233-OATMEAL-69324_8fe9d5ef-e3d2-4cab-882b-f2b8e970cf9a.jpg?v=1789420690",
+          "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-light-bone",
+          "sha256": "e7fc591da7b5b6d7eab5f024db09be0113fb07231aba6d7ec675e4e07084f55b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7853254770747-image-36078091272251",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-BLACK-WK201-3638-ROASTED-BEAN-75943.jpg?v=1789420501",
+          "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-black",
+          "sha256": "911c613b89ba6a283f931f88e82f59f74a8c260d722bfa82e954fefbfb50bf4c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7853254770747-image-36078091370555",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP175-3888-BLACK-WK201-3638-ROASTED-BEAN-75960.jpg?v=1789420501",
+          "sourceUrl": "https://www.alexmill.com/products/bessette-midrise-jean-in-corduroy-in-black",
+          "sha256": "5e45821a126dcc617e942fdef320941b2cf55bb8c08eca6e98fb52616407bcfa",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7872967835707-image-36076773834811",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/MW330-2032-OATMEAL-70762_ae308d64-c4f9-4563-960c-bb9b79fa300f.jpg?v=1789406904",
+          "sourceUrl": "https://www.alexmill.com/products/freddie-raglan-striped-crewneck-sweater-in-merino-wool-in-oatmeal-multi",
+          "sha256": "28a9e0b43832e815da63be1c77d8b3f2bb850e1434f19614c66b929c4ea12f14",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-7872967835707-image-36076773769275",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/MW330-2032-OATMEAL-70759_b4f202ac-20b9-4f24-9861-b59793d4f8aa.jpg?v=1789406904",
+          "sourceUrl": "https://www.alexmill.com/products/freddie-raglan-striped-crewneck-sweater-in-merino-wool-in-oatmeal-multi",
+          "sha256": "4cd628c019c3fa8f0a9dce207da6d89bf5b3fa31c8029d3cc7473b1e954ca7d2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-5052986622011-image-33930268311611",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/MW054-2032-NAVY-30693.jpg?v=1774491618",
+          "sourceUrl": "https://www.alexmill.com/products/donegal-crew-neck-sweater-in-navy-donegal",
+          "sha256": "f422c0d5a5d704f8138ef793bced325c489a1f7a860da5e85b6560fea3640148",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "alexmill-5052986622011-image-33930268278843",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0295/5521/files/MW054-2032-NAVY-30683.jpg?v=1774491618",
+          "sourceUrl": "https://www.alexmill.com/products/donegal-crew-neck-sweater-in-navy-donegal",
+          "sha256": "3e2c6e20441ee1c78eec657780698c983fb4c6313414101c22c1a40633f84b1b",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 15
+    }
+  ]
+}
