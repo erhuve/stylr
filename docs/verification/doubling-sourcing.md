@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,198 photos; 3,014 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,204 photos; 3,008 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: Taylor Stitch and Universal Standard
+
+The 01:31 UTC run directly reviews 24 candidates in `2026-09-18T0140-targeted` and `2026-09-18T0145-contours`: two bound sheets, four enlarged originals and comparison against all 80 prior Universal Standard admissions. Six outfits are admitted: one masculine collared workwear ensemble, two feminine dress/skirt ensembles and three unclear neutral knit ensembles. Seven products/detail crops and eleven repeated poses/colorways are excluded. Five build observations include one fuller-build view. Loose layers, seated/oblique poses, belts and flared skirts prevent complete contour judgments.
+
+Totals: 7,204 photos, 5,668 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear), 54 broader-build benchmark matches. Presentation totals: 1,200 masculine, 4,039 feminine, 168 mixed and 1,797 unclear. No required-body-filter gain. Taylor Stitch adds an independent publisher. Two successful bounded first-page listings preserve 500 product decisions; WRAY's HTTP 402 listing failure is retained. Inventory records 11,681 sampled pages, 42,557 deferred pages, 57 source keys and 65 runs. All 3,744 pending training rows remain byte-identical from original ordinal 1056. Append after `0145-contours`; prioritize full-front collared workwear and independent fuller-build separates instead of further plain crewneck and gathered-neck dress colorways. No deployment.
+
+Preservation passes for all 6,813 preceding expansion photo/asset/body records and 7,198 presentation rows, all 6,819 expansion asset hashes, 24 image bindings, two sheet digests and two listing bindings. Admission replay, complete presentation audit, original-photo identity, typecheck and library audit without duplicate assets pass. All 45 sampled body-grid counts remain unchanged. All 131 unit checks pass in one full run (175,474 assertions, 368.36 seconds), including sourcing/import regressions; all 86 browser checks pass (3.5 minutes) using installed Chromium. Only exact catalog/body/source-group expectations changed; every assertion remains. No checks are pending or failing. Logs remain in the external `expansion-2026-09-18T0140-targeted` folder. Remote main is included, and personal-discovery is rechecked immediately before push. No deployment.
 
 ## Current continuation: DUER and Copper Union
 

@@ -1,0 +1,5 @@
+# Universal Standard direct review
+
+September 18, 2026. Twelve candidates directly inspected on one hash-bound sheet; ordinals 5 and 11 enlarged. Three comparison sheets cover all 80 prior Universal Standard admissions. Retain two feminine dress/skirt ensembles, with two build observations including one fuller-build reference. Exclude nine repeated poses/colorways and one outfit-detail crop. The flared skirts, belt and hand positions leave shoulder/hip and waist unknown; no complete reference or required-body-filter gain.
+
+The maintained targeted collector sampled six previously unseen product pages from a bounded 250-product first-page listing, preserving all listing decisions, snapshot/image hashes and actual retrieval times. Batch names provide append order, not claimed retrieval times. Future sourcing should use independent fuller-build publishers and full-front separates rather than additional gathered-neck dress colorways. Original images, sheet and prior-source comparison sheets live in `Documents/stylr-catalog-pilot/expansion-2026-09-18T0145-contours`. All pending training records remain untouched.

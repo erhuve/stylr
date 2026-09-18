@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7198/7198; unreviewed: 0.
+Reviewed: 7204/7204; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1199 | 16.7% | 1134 | 41 | 44 |
-| feminine | 4037 | 56.1% | 3595 | 28 | 148 |
+| masculine | 1200 | 16.7% | 1135 | 42 | 44 |
+| feminine | 4039 | 56.1% | 3597 | 28 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1794 | 24.9% | 1669 | 49 | 97 |
+| unclear | 1797 | 24.9% | 1672 | 50 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":139,"3":65,"unknown":366,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":390,"3":246,"unknown":573,"1.5":2528,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| masculine | {"1":3,"2":139,"3":65,"unknown":367,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":390,"3":247,"unknown":573,"1.5":2529,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":213,"1.5":803,"unknown":512,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":213,"1.5":806,"unknown":512,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -70,6 +70,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | strongsize.com | 4 | 0 | 0 | 9 | 0 |
 | superfithero.com | 0 | 6 | 0 | 32 | 0 |
 | taperedmenswear.com | 3 | 0 | 0 | 0 | 0 |
+| taylorstitch.com | 1 | 0 | 0 | 3 | 0 |
 | teddyfresh.com | 1 | 0 | 0 | 1 | 0 |
 | theperfectjean.nyc | 5 | 0 | 0 | 7 | 0 |
 | tokyofashion.com | 174 | 440 | 110 | 186 | 0 |
@@ -78,7 +79,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | trueclassictees.com | 3 | 0 | 0 | 9 | 0 |
 | twillory.com | 5 | 0 | 0 | 0 | 0 |
 | under510.com | 2 | 0 | 0 | 5 | 0 |
-| universalstandard.com | 3 | 44 | 0 | 33 | 0 |
+| universalstandard.com | 3 | 46 | 0 | 33 | 0 |
 | universalworks.com | 16 | 0 | 0 | 1 | 0 |
 | unsplash.com | 2 | 0 | 0 | 0 | 0 |
 | wear.jp | 269 | 57 | 11 | 255 | 0 |

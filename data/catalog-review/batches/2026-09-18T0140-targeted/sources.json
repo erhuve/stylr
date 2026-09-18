@@ -1,0 +1,117 @@
+{
+  "retrievedAt": "2026-09-18T01:32:59.253561+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "taylorstitch",
+      "pages": [
+        {
+          "url": "https://www.taylorstitch.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T01:32:57.387707+00:00",
+          "snapshotSha256": "5cfb80429f0d7d5aad6144d0b17de13b580f8f909ea3a620bab6cb0147800350"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "taylorstitch-7645559914573-image-36905323003981",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_trench-cardigan-dark-forest-rib-linen_portrait_001.jpg?v=1788537102",
+          "sourceUrl": "https://www.taylorstitch.com/products/trench-cardigan-in-dark-forest-rib-linen-2608",
+          "sha256": "a83f4622c7d24e715e2491b691bfe27cc6928f75fe48595e72aadb94b591260e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645559914573-image-36905323069517",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_trench-cardigan-dark-forest-rib-linen_portrait_003.jpg?v=1788537102",
+          "sourceUrl": "https://www.taylorstitch.com/products/trench-cardigan-in-dark-forest-rib-linen-2608",
+          "sha256": "50775fdd2bb6b2e4b8db288b1a1bac6caaccb04c32281854fe67d9ceac2f916d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560799309-image-36764821520461",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_match-v-neck-sweater-vintage-white-cotton-slub_portrait_001.jpg?v=1787771811",
+          "sourceUrl": "https://www.taylorstitch.com/products/match-v-neck-sweater-in-vintage-white-slub-2609",
+          "sha256": "694978154a6184f32644b95da293f308d6557757c5a8c021892683c367a6a480",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560799309-image-36764821585997",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_match-v-neck-sweater-vintage-white-cotton-slub_portrait_003.jpg?v=1787771811",
+          "sourceUrl": "https://www.taylorstitch.com/products/match-v-neck-sweater-in-vintage-white-slub-2609",
+          "sha256": "51553279eea06c4b3c0ae7bf136b49709661557042a1e3939c8f53e1964f71a6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560930381-image-36200187297869",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-sweater-spruce-wool_portrait_001.jpg?v=1785343643",
+          "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-spruce-wool-2609",
+          "sha256": "e32cdc6010d34ba4e9b5343bc6a9ee63de1a47bcac58af2c58f64c8460db7bce",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560930381-image-36200187363405",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-sweater-spruce-wool_portrait_003.jpg?v=1785343643",
+          "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-spruce-wool-2609",
+          "sha256": "9d076e92529e3190bea22e961abe5039ec3062d214581be428bbb528d36898fb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560995917-image-36764484468813",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-sweater-coal-stripe-wool_portrait_001.jpg?v=1787770283",
+          "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-coal-stripe-wool-2609",
+          "sha256": "527d9d30018f822ffb2ffb4201b44483932d93f6bc0087d40e9ea250a72c5a5a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560995917-image-36764484534349",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-sweater-coal-stripe-wool_portrait_003.jpg?v=1787770283",
+          "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-coal-stripe-wool-2609",
+          "sha256": "67840953b053ba98dfba7499b883b2df75c72a7a031424a9404262cfc8ee0774",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560897613-image-36764398026829",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-sweater-glen-wool_portrait_001.jpg?v=1787769657",
+          "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-glen-wool-2609",
+          "sha256": "9f70f839ffaf4de1a863807fd5ad4680f13fc3c5b97a840f46936b86a477e50a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560897613-image-36764398092365",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-sweater-glen-wool_portrait_003.jpg?v=1787769657",
+          "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-glen-wool-2609",
+          "sha256": "6a8368551074f1ce44b71898fb066266eba19fb34ba5e31a3fe3dc6822435a0c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560864845-image-36764559507533",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-sweater-claret-wool_portrait_001.jpg?v=1787770787",
+          "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-claret-wool-2609",
+          "sha256": "7f3f4b6a386e92d1a6943966ae1afab1d01697c853a4e5b0dbaddf9785886021",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "taylorstitch-7645560864845-image-36764559573069",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_eastmoor-sweater-claret-wool_portrait_003.jpg?v=1787770787",
+          "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-claret-wool-2609",
+          "sha256": "e70a23799eabaf77a5ee6dfbacac6d18198684aaea66f795ebe3c3eb651b97c2",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "wray",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://wray.nyc/products.json?limit=250&page=1",
+          "error": "402 Client Error: Payment Required for url: https://wray.nyc/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    }
+  ]
+}

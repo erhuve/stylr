@@ -1,0 +1,105 @@
+{
+  "retrievedAt": "2026-09-18T01:33:18.132618+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "universalstandard",
+      "pages": [
+        {
+          "url": "https://www.universalstandard.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T01:33:14.895647+00:00",
+          "snapshotSha256": "df322bb948ddd37566d47b89cdfb8b6b64da0ec553d652e3ac5a59b49c6020d7"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "universalstandard-7647484182574-image-34050196963374",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262381.jpg?v=1787862038",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-supernova",
+          "sha256": "2db4f3c9e67fefc91072b6f40095674b630577da054b8991f62ce946940eb21f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647484182574-image-34102347628590",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSAL_STANDARD_08.06.262383.jpg?v=1789676377",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-supernova",
+          "sha256": "1775da8806fcf303a93c9eb1f8e6d3b9fc69851b71ad3167ccf90eb1abbbb4ef",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647482085422-image-34050142699566",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_04_012.jpg?v=1787859728",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-mystic-blossom",
+          "sha256": "c17eededa3e23b816faa1414b913861bc309d06d3ed8068ede19803482a75c63",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647482085422-image-34050142797870",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_04_041.jpg?v=1787859728",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-mystic-blossom",
+          "sha256": "4cdf39858a5590b8ad33284eee0c6d3f4bf744bbb57d342202eb73106be45051",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647481757742-image-34050197782574",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262613.jpg?v=1787862081",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-gamay-serpent-print",
+          "sha256": "5c306c9c03f0cc0d8c742a6063c5dbbdfad713608ad0b1b549c34e6a24b0766e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647481757742-image-34050197749806",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262605.jpg?v=1787862081",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-gamay-serpent-print",
+          "sha256": "f80080639b27f0903ac0fe654016a8b3a1d4dc8963e038c1f195b8eb2f45c4e2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647481462830-image-34049637974062",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_30_001_35279564-1895-4c4d-b0da-e942abbc70b0.jpg?v=1787840692",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-dark-gray-heather",
+          "sha256": "7de5068961f727ba4c17bffeff097d782e0abd3f46e934e429ad53ca25bca33d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647481462830-image-34049638006830",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_30_014_ca844a75-57c5-44e3-9e33-506268ca6b7c.jpg?v=1787840692",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-dark-gray-heather",
+          "sha256": "f3710b9f558a6f1656611f7ac57887470a5297bdd4e8c642f001101f075f85a7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647334465582-image-34049636630574",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_29_016_7d1fad5e-b52e-4b09-9ef2-1ba439407eef.jpg?v=1787840629",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-black",
+          "sha256": "d3482ce7588588cd37a4d2a57f64d83732d3ceede4c70994c4be79ea42336bc3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647334465582-image-34049636728878",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_29_047.jpg?v=1787840629",
+          "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-black",
+          "sha256": "1fd20f39456ca5f34bcda51b15999f72788d5500832a3af4a9e88581accd543d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637706768430-image-34050164817966",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_06_045.jpg?v=1787860957",
+          "sourceUrl": "https://www.universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-poppy-field-print",
+          "sha256": "778009cf1661661b18cd428a75f4cfc712dc466808c7be064bc84b7704f17ab1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637706768430-image-34050164719662",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_06_019.jpg?v=1787860957",
+          "sourceUrl": "https://www.universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-poppy-field-print",
+          "sha256": "dd63ccde15806adf5ace97cde7518a63e6de6fbe682d15ae3041a9a19321c169",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

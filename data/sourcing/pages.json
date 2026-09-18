@@ -150529,6 +150529,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-claret-wool-2609",
+    "source": "taylorstitch",
+    "candidateIds": [
+      "taylorstitch-7645560864845-image-36764559507533",
+      "taylorstitch-7645560864845-image-36764559573069"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0140-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-coal-stripe-wool-2609",
+    "source": "taylorstitch",
+    "candidateIds": [
+      "taylorstitch-7645560995917-image-36764484468813",
+      "taylorstitch-7645560995917-image-36764484534349"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0140-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-glen-wool-2609",
+    "source": "taylorstitch",
+    "candidateIds": [
+      "taylorstitch-7645560897613-image-36764398026829",
+      "taylorstitch-7645560897613-image-36764398092365"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0140-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.taylorstitch.com/products/eastmoor-sweater-in-spruce-wool-2609",
+    "source": "taylorstitch",
+    "candidateIds": [
+      "taylorstitch-7645560930381-image-36200187297869",
+      "taylorstitch-7645560930381-image-36200187363405"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0140-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.taylorstitch.com/products/match-v-neck-sweater-in-vintage-white-slub-2609",
+    "source": "taylorstitch",
+    "candidateIds": [
+      "taylorstitch-7645560799309-image-36764821520461",
+      "taylorstitch-7645560799309-image-36764821585997"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0140-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.taylorstitch.com/products/trench-cardigan-in-dark-forest-rib-linen-2608",
+    "source": "taylorstitch",
+    "candidateIds": [
+      "taylorstitch-7645559914573-image-36905323003981",
+      "taylorstitch-7645559914573-image-36905323069517"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0140-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.trueclassictees.com/products/all-black-heavyweight-curved-hem-crew-3-pack",
     "source": "trueclassic",
     "candidateIds": [
@@ -151719,6 +151803,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-poppy-field-print",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637706768430-image-34050164719662",
+      "universalstandard-7637706768430-image-34050164817966"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0145-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.universalstandard.com/products/the-refined-etta-high-rise-straight-leg-jeans-28-inch-saint-lawrence-blue",
     "source": "universalstandard",
     "candidateIds": [
@@ -152110,6 +152208,76 @@
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-black",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7647334465582-image-34049636630574",
+      "universalstandard-7647334465582-image-34049636728878"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0145-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-dark-gray-heather",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7647481462830-image-34049637974062",
+      "universalstandard-7647481462830-image-34049638006830"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0145-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-gamay-serpent-print",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7647481757742-image-34050197749806",
+      "universalstandard-7647481757742-image-34050197782574"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0145-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-mystic-blossom",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7647482085422-image-34050142699566",
+      "universalstandard-7647482085422-image-34050142797870"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0145-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/zadie-liquid-jersey-gathered-dress-supernova",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7647484182574-image-34050196963374",
+      "universalstandard-7647484182574-image-34102347628590"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0145-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

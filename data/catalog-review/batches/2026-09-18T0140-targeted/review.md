@@ -1,0 +1,5 @@
+# Taylor Stitch direct review
+
+September 18, 2026. Twelve candidates directly inspected on one hash-bound sheet; ordinals 5 and 7 enlarged. Four distinct outfits retained, six flat products and two repetitive knit/trouser colorways excluded. One collared workwear ensemble has masculine presentation; three neutral knit ensembles remain unclear. Three build observations; no complete body references. Source selection and retail departments supply no labels.
+
+The maintained targeted collector sampled six previously unseen product pages from a bounded 250-product Taylor Stitch listing. All listing decisions and image outcomes are retained. WRAY's listing returned HTTP 402, recorded as a failed attempt with no inferred availability or exhaustion. A separate Universal Standard batch supplies the remaining twelve reviews. Future sampling should target full-front collared ensembles rather than more plain crewneck colorways. Original images and sheet live in `Documents/stylr-catalog-pilot/expansion-2026-09-18T0140-targeted`.

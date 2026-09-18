@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9958,
-  "admittedPhotos": 6813,
-  "totalPhotos": 7198,
+  "reviewedCandidates": 9982,
+  "admittedPhotos": 6819,
+  "totalPhotos": 7204,
   "axisSupport": {
-    "build": 5539,
+    "build": 5544,
     "shoulderHip": 311,
     "waist": 602
   },
   "completeReferences": 249,
-  "sourcePages": 6254,
+  "sourcePages": 6260,
   "excludedReasons": {
-    "non-outfit-view": 3087,
+    "non-outfit-view": 3105,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12592,6 +12592,78 @@
     },
     {
       "id": "copperunion-8679658324190-image-42131189334238",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taylorstitch-7645559914573-image-36905323003981",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taylorstitch-7645560799309-image-36764821520461",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taylorstitch-7645560930381-image-36200187297869",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taylorstitch-7645560995917-image-36764484468813",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taylorstitch-7645560897613-image-36764398026829",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taylorstitch-7645560897613-image-36764398092365",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taylorstitch-7645560864845-image-36764559507533",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taylorstitch-7645560864845-image-36764559573069",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647484182574-image-34050196963374",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647484182574-image-34102347628590",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647482085422-image-34050142699566",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647482085422-image-34050142797870",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647481757742-image-34050197782574",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647481462830-image-34049637974062",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647481462830-image-34049638006830",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647334465582-image-34049636630574",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7647334465582-image-34049636728878",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637706768430-image-34050164817966",
       "reason": "non-outfit-view"
     }
   ]
