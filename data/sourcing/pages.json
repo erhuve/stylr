@@ -3411,6 +3411,48 @@
     "completeExpansionReferences": 2
   },
   {
+    "sourceUrl": "https://bigbudpress.com/products/drop-pocket-pants-cow",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11077188485313-image-51053505151169",
+      "bigbudpress-11077188485313-image-51053505380545"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/drop-pocket-pants-leopard",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11077161615553-image-51053517996225",
+      "bigbudpress-11077161615553-image-51053518192833"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/drop-pocket-pants-tiger",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11077179408577-image-51053511213249",
+      "bigbudpress-11077179408577-image-51053511770305"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://bigbudpress.com/products/everyday-tote-rainbow-magic-waters",
     "source": "bigbudpress",
     "candidateIds": [
@@ -4042,6 +4084,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-cow",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11077216043201-image-51053451935937",
+      "bigbudpress-11077216043201-image-51053452591297"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-creamsicle-orange",
     "source": "bigbudpress",
     "candidateIds": [
@@ -4078,6 +4134,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0310-breadth/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-leopard",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11077195038913-image-51053461930177",
+      "bigbudpress-11077195038913-image-51053462651073"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -4123,6 +4193,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-tiger",
+    "source": "bigbudpress",
+    "candidateIds": [
+      "bigbudpress-11077213782209-image-51053461078209",
+      "bigbudpress-11077213782209-image-51053461373121"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -5037,6 +5121,90 @@
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://bronsonshop.com/products/heavyweight-moleskin-raglan-sleeve-bomber-jacket-black",
+    "source": "bronson",
+    "candidateIds": [
+      "bronson-9490435932376-image-52685264191704",
+      "bronson-9490435932376-image-52685264257240"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bronsonshop.com/products/heavyweight-moleskin-raglan-sleeve-bomber-jacket-brown",
+    "source": "bronson",
+    "candidateIds": [
+      "bronson-9490313773272-image-52685486555352",
+      "bronson-9490313773272-image-52685486620888"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bronsonshop.com/products/lot-891-1890s-triple-pleat-palaka-plaid-work-jacket",
+    "source": "bronson",
+    "candidateIds": [
+      "bronson-9440208257240-image-52372938490072",
+      "bronson-9440208257240-image-52449780859096"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bronsonshop.com/products/lot-913-1910s-single-pocket-palaka-plaid-work-jacket",
+    "source": "bronson",
+    "candidateIds": [
+      "bronson-9440210157784-image-52372884455640",
+      "bronson-9440210157784-image-52449788100824"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bronsonshop.com/products/usn-n-1-deck-pants-modified-3rd-khaki",
+    "source": "bronson",
+    "candidateIds": [
+      "bronson-8509655908568-image-42258423611608",
+      "bronson-8509655908568-image-42258424594648"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://bronsonshop.com/products/usn-n-1-deck-pants-modified-3rd-navy",
+    "source": "bronson",
+    "candidateIds": [
+      "bronson-8509575168216-image-42257599889624",
+      "bronson-8509575168216-image-42257600512216"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0040-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://chubbiesshorts.com/products/the-24-7-365-essential-non-pocket-t-shirt-seafoam-glass",

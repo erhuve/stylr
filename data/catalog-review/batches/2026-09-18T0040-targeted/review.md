@@ -1,0 +1,7 @@
+# Bronson and Big Bud Press visual review
+
+Reviewed September 18, 2026 in run `con_yFzG7oLUA7NGHSHW`. Two numbered, hash-bound sheets cover 24 newly collected candidates. Originals 9, 11, 18 and 22 were enlarged. Four comparison sheets cover all 154 previous Big Bud Press admissions. Five distinct outfits are retained: two masculine workwear, two feminine separates and one unclear collared ensemble. Three have apparent-build observations; none supports all required body axes. Labels come from the inspected images, never publisher direction or product metadata.
+
+The maintained targeted collector searched the first 250-product listing at each publisher, selected six previously unsampled product pages each and downloaded first/third gallery images. All 500 listing decisions, retrieval timestamps, snapshot digests and image outcomes remain in the manifests. Bronson adds an independent publisher; flat bomber products and trouser crops limit yield. Big Bud Press adds one fuller-build view but gathered trousers and asymmetric posture hide comparable contours. Products, details, repeated poses and print variants remain excluded.
+
+Next prioritize alternative front collared/workwear galleries and independent fuller-build publishers. Do not repeat these first/third images or count new prints of the same outfit as new coverage. No source is declared exhausted. The 3,744 pending training rows remain untouched at original ordinal 1056. Deployment remains pending.

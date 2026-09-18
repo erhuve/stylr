@@ -1,0 +1,204 @@
+{
+  "retrievedAt": "2026-09-18T00:33:28.554602+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "bronson",
+      "pages": [
+        {
+          "url": "https://bronsonshop.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T00:33:20.551040+00:00",
+          "snapshotSha256": "7b4cbd4779c0eb4376bc5c844e879260bed9ef9216511fa908a86a146c3dc527"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "bronson-9490435932376-image-52685264191704",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/1_5b61731d-8738-47f4-ac02-11d85913735e.jpg?v=1789614710",
+          "sourceUrl": "https://bronsonshop.com/products/heavyweight-moleskin-raglan-sleeve-bomber-jacket-black",
+          "sha256": "f24b992b392decda86b37b56e70f31b60ffcd22e06e64e92272a25870ab186b2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-9490435932376-image-52685264257240",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/3_ce789d56-c3c6-4990-8a4a-4974a9b9eea8.jpg?v=1789614710",
+          "sourceUrl": "https://bronsonshop.com/products/heavyweight-moleskin-raglan-sleeve-bomber-jacket-black",
+          "sha256": "c9733fe11260eb8a91e7efcbf3572a02ad29eae73197c08d93f5812e612a8ded",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-9490313773272-image-52685486555352",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/1_0def89b8-51bf-4e6f-8046-91521d89a3a3.jpg?v=1789614974",
+          "sourceUrl": "https://bronsonshop.com/products/heavyweight-moleskin-raglan-sleeve-bomber-jacket-brown",
+          "sha256": "8e01ac1d34a6c79c789e9dc2e45d927e53b7e00591f975d24c1d921333717b2c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-9490313773272-image-52685486620888",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/3_79e14891-8997-4018-8d5d-49006f79e580.jpg?v=1789614974",
+          "sourceUrl": "https://bronsonshop.com/products/heavyweight-moleskin-raglan-sleeve-bomber-jacket-brown",
+          "sha256": "bdcf5b36a7a8e8a7281a5cd370f94128dcc80b4337d3fe0432f45c2eba1e663f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-8509575168216-image-42257599889624",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/1_6b7db5c9-38d3-4419-a7bf-734175d8f7a2.jpg?v=1723018595",
+          "sourceUrl": "https://bronsonshop.com/products/usn-n-1-deck-pants-modified-3rd-navy",
+          "sha256": "79c94964b16b86b4a4101b9272817afa7b360f47c08c38eebca56e51a002ea96",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-8509575168216-image-42257600512216",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/5_3ba9ae76-108b-47e6-8aa1-000592c38a6b.jpg?v=1723018605",
+          "sourceUrl": "https://bronsonshop.com/products/usn-n-1-deck-pants-modified-3rd-navy",
+          "sha256": "a6f1b84ca46fe73d6954b5e292c06e7af2ee49798d0f86bb69eb2163932710b0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-8509655908568-image-42258423611608",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/1_dde79657-232d-41f1-ba75-bcd721de5293.jpg?v=1723024711",
+          "sourceUrl": "https://bronsonshop.com/products/usn-n-1-deck-pants-modified-3rd-khaki",
+          "sha256": "81b4ae8bc232ec011b0a12e3a5c3416734a74265ca4b626f863a2fb806331fcd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-8509655908568-image-42258424594648",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/17_a979a9a0-d8fc-418d-bea2-54e00055d0f6.jpg?v=1723024735",
+          "sourceUrl": "https://bronsonshop.com/products/usn-n-1-deck-pants-modified-3rd-khaki",
+          "sha256": "f9dc68848f51513d24122d11a45f25c65f3e4b41889a67d5e36a2314d22b36f8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-9440208257240-image-52372938490072",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/1_228f4449-537f-46a9-b631-f77b571a3068.jpg?v=1788490058",
+          "sourceUrl": "https://bronsonshop.com/products/lot-891-1890s-triple-pleat-palaka-plaid-work-jacket",
+          "sha256": "7c83c1b414a773dd7993c6f7cff6eb5e957ccf55b11ec3a5315ddee2c2550a13",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-9440208257240-image-52449780859096",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/20260908-133819.jpg?v=1788845959",
+          "sourceUrl": "https://bronsonshop.com/products/lot-891-1890s-triple-pleat-palaka-plaid-work-jacket",
+          "sha256": "5610695f687ad6955585af1a7e9939eaff4fac0e165d4caae71a3cf84b00cf1b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-9440210157784-image-52372884455640",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/1_edd76d4e-13d1-4035-ba4d-698d321a9c16.jpg?v=1788489452",
+          "sourceUrl": "https://bronsonshop.com/products/lot-913-1910s-single-pocket-palaka-plaid-work-jacket",
+          "sha256": "fd4c7a7bf4538c92acd4e6aac3069ceefef6dcb71e34e6f4aa65d2e4c956432f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bronson-9440210157784-image-52449788100824",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/20260908-133813.jpg?v=1788845972",
+          "sourceUrl": "https://bronsonshop.com/products/lot-913-1910s-single-pocket-palaka-plaid-work-jacket",
+          "sha256": "73bdae47d8026e823a35d6ba46ad50720ff2d4dcee55d278d92ac0b5d821c93e",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "bigbudpress",
+      "pages": [
+        {
+          "url": "https://bigbudpress.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T00:33:23.344213+00:00",
+          "snapshotSha256": "414b190cd3e2e4554f0e14519ae226649437155a21c9005c24b842f7b8b2b49a"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "bigbudpress-11077216043201-image-51053451935937",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMANIMALPRINTCOWPANTRYXXSKIRABYMIGUEL9-9-260118.png?v=1789580447",
+          "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-cow",
+          "sha256": "49bf7218c9f56d6adee6e4abe214403a6aaaabe26ebf8564dbc0dfbd8c95672d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077216043201-image-51053452591297",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/ECOMMANIMALPRINTCOWPANTRYXXSKIRABYMIGUEL9-9-260005.png?v=1789580448",
+          "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-cow",
+          "sha256": "c57dac6b048394a5a25a5a4aed5bf2608fe8f60a330a5e4097d0d7b42d340169",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077213782209-image-51053461078209",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMANIMALPRINTTIGERPANTRYXXSKANDIABYMIGUEL9-9-26000312.png?v=1789580865",
+          "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-tiger",
+          "sha256": "f3aa1796fad6974f768c364c195fdd4c958b4eaa0e32381e59101c956767ee74",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077213782209-image-51053461373121",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/ECOMMANIMALPRINTTIGERPANTRYXXSKANDIABYMIGUEL9-9-2600033.png?v=1789580865",
+          "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-tiger",
+          "sha256": "4a8793704d09b69da6bb4369db3b0687f606fb38c9a53774a6a5af43b7e17285",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077195038913-image-51053461930177",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMANIMALPRINTCHEETAHPANTRYXXSKANDIABYMIGUEL9-9-2600030064.png?v=1789580868",
+          "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-leopard",
+          "sha256": "828cab9a05bc00848d33c7436da53b793ae8d91eb9e2b887d0b70bad51d18c01",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077195038913-image-51053462651073",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/ECOMMANIMALPRINTCHEETAHPANTRYXXSKANDIABYMIGUEL9-9-2600030118.png?v=1789580868",
+          "sourceUrl": "https://bigbudpress.com/products/pantry-button-up-leopard",
+          "sha256": "b55a34f30bc86cdb33548b55e26cf5f3017f38cdbe41987ebd0171985a1b4edf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077188485313-image-51053505151169",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMANIMALPRINTCOWDROPPOCKETXSKANDIABYMIGUEL9-9-260215.png?v=1789582599",
+          "sourceUrl": "https://bigbudpress.com/products/drop-pocket-pants-cow",
+          "sha256": "575bbdfb662955e8020c22d08c007ab3bac9047caa9da92516d28b360839b3f7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077188485313-image-51053505380545",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/ECOMMANIMALPRINTCOWDROPPOCKETXSKANDIABYMIGUEL9-9-260227.png?v=1789582599",
+          "sourceUrl": "https://bigbudpress.com/products/drop-pocket-pants-cow",
+          "sha256": "d1bce7c38e0670343e35a53f7aab04657c5f5b0491a4a39d0820737a05bf80b2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077179408577-image-51053511213249",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMANIMALPRINTTIGERDROPPOCKETXSKIRABYMIGUEL9-9-2600030438.png?v=1789582773",
+          "sourceUrl": "https://bigbudpress.com/products/drop-pocket-pants-tiger",
+          "sha256": "25ab43134a909c9630b1be8cdac283f044d0b62784985ce174b1d1e778caffe0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077179408577-image-51053511770305",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/ECOMMANIMALPRINTTIGERDROPPOCKETXSKIRABYMIGUEL9-9-2600030428.png?v=1789582773",
+          "sourceUrl": "https://bigbudpress.com/products/drop-pocket-pants-tiger",
+          "sha256": "d04fe3d11ad0eda63be80a9a6cbba869b452497082a6d81d08519f8cd49e3fa3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077161615553-image-51053517996225",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/01ECOMMANIMALPRINTCHEETAHDROPPOCKETJULIET2XLBYMIGUEL9-9-2600030190.png?v=1789582978",
+          "sourceUrl": "https://bigbudpress.com/products/drop-pocket-pants-leopard",
+          "sha256": "184c38301a9938668369ebfcb6e75afb0a712400391e06d43373172b8f652e68",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "bigbudpress-11077161615553-image-51053518192833",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0775/2355/files/ECOMMANIMALPRINTCHEETAHDROPPOCKETJULIET2XLBYMIGUEL9-9-2600030228.png?v=1789582978",
+          "sourceUrl": "https://bigbudpress.com/products/drop-pocket-pants-leopard",
+          "sha256": "2851a26d086fd91be6ac0f0c2938568e49983725c0237604afa34efab69c07c7",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

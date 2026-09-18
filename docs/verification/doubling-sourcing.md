@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,187 photos; 3,025 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,192 photos; 3,020 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: Bronson and Big Bud Press
+
+The 00:32 UTC run directly reviews 24 candidates in `2026-09-18T0040-targeted`, using two bound sheets, four enlarged originals and comparison against all 154 preceding Big Bud Press admissions. Five distinct outfits are admitted: two masculine workwear, two feminine separates and one unclear collared ensemble. Three build observations are added, including one fuller-build reference; loose layers, gathered trousers and asymmetric poses prevent complete contour judgments. Nineteen products, detail crops and repeated poses/print variants are excluded.
+
+Totals: 7,192 photos, 5,658 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear), 54 broader-build benchmark matches. Presentation totals: 1,197 masculine, 4,034 feminine, 168 mixed and 1,793 unclear. No required-body-filter gain. Bronson adds an independent publisher. Two first-page listing snapshots preserve all 500 decisions; inventory records 11,657 sampled pages, 42,118 deferred pages, 55 source keys and 62 runs. All 3,744 pending training records remain byte-identical from ordinal 1056. Append after this batch; prioritize alternate front workwear galleries and independent fuller-build publishers. No deployment.
+
+Preservation passes for all 6,802 prior expansion photo, asset and body records and 7,187 presentation rows. All 6,807 expansion image hashes, 24 new image bindings, two sheet digests and two listing bindings pass. Admission replay, complete presentation audit, original-photo identity, library audit without duplicate assets, all 45 unchanged body-grid positions and typecheck pass. All 131 unit tests pass in one full run (175,222 assertions, 353.45 seconds), including the sourcing/import regressions. All 86 browser checks pass (3.5 minutes) using the installed Chromium. Only exact catalog/body/source-group expectations changed; every assertion and application behavior is retained. Logs remain in the external expansion directory. No checks remain pending or failing. Remote main was already an ancestor of the latest personal-discovery checkpoint at the starting fetch.
 
 ## Current continuation: workwear and fuller-build outfits
 

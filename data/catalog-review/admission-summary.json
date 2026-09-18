@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 9910,
-  "admittedPhotos": 6802,
-  "totalPhotos": 7187,
+  "reviewedCandidates": 9934,
+  "admittedPhotos": 6807,
+  "totalPhotos": 7192,
   "axisSupport": {
-    "build": 5531,
+    "build": 5534,
     "shoulderHip": 311,
     "waist": 602
   },
   "completeReferences": 249,
-  "sourcePages": 6243,
+  "sourcePages": 6248,
   "excludedReasons": {
-    "non-outfit-view": 3050,
+    "non-outfit-view": 3069,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12444,6 +12444,82 @@
     },
     {
       "id": "snag-7653396545578-image-34560568098858",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-9490435932376-image-52685264191704",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-9490435932376-image-52685264257240",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-9490313773272-image-52685486555352",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-9490313773272-image-52685486620888",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-8509575168216-image-42257599889624",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-8509575168216-image-42257600512216",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-8509655908568-image-42258423611608",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-8509655908568-image-42258424594648",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-9440208257240-image-52372938490072",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bronson-9440210157784-image-52372884455640",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11077216043201-image-51053451935937",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11077213782209-image-51053461078209",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11077213782209-image-51053461373121",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11077195038913-image-51053461930177",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11077195038913-image-51053462651073",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11077188485313-image-51053505380545",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11077179408577-image-51053511213249",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11077179408577-image-51053511770305",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bigbudpress-11077161615553-image-51053518192833",
       "reason": "non-outfit-view"
     }
   ]

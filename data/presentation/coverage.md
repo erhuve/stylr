@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7187/7187; unreviewed: 0.
+Reviewed: 7192/7192; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1195 | 16.6% | 1130 | 39 | 44 |
-| feminine | 4032 | 56.1% | 3590 | 28 | 148 |
+| masculine | 1197 | 16.6% | 1132 | 40 | 44 |
+| feminine | 4034 | 56.1% | 3592 | 28 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1792 | 24.9% | 1667 | 48 | 97 |
+| unclear | 1793 | 24.9% | 1668 | 48 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":138,"3":65,"unknown":363,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":390,"3":242,"unknown":573,"1.5":2527,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| masculine | {"1":3,"2":138,"3":65,"unknown":365,"2.5":60,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":390,"3":243,"unknown":573,"1.5":2528,"2.5":273} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":213,"1.5":801,"unknown":512,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":213,"1.5":802,"unknown":512,"2.5":106} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -36,7 +36,8 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | ashanderie.com | 19 | 0 | 0 | 5 | 0 |
 | barbellapparel.com | 0 | 0 | 0 | 9 | 0 |
 | bearbottomclothing.com | 1 | 0 | 0 | 4 | 0 |
-| bigbudpress.com | 6 | 30 | 0 | 118 | 0 |
+| bigbudpress.com | 6 | 32 | 0 | 119 | 0 |
+| bronsonshop.com | 2 | 0 | 0 | 0 | 0 |
 | chubbiesshorts.com | 3 | 0 | 0 | 3 | 0 |
 | chubstr.com | 22 | 0 | 0 | 5 | 0 |
 | copperunionapparel.com | 0 | 27 | 0 | 12 | 0 |

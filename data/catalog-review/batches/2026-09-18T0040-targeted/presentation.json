@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bronson-9440208257240-image-52449780859096",
+    "sha256": "5610695f687ad6955585af1a7e9939eaff4fac0e165d4caae71a3cf84b00cf1b",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 9,
+    "originalCollectionOrdinal": 9,
+    "sheet": 0,
+    "batch": "2026-09-18T0040-targeted",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0040-targeted/sheets/00.jpg"
+  },
+  {
+    "id": "bronson-9440210157784-image-52449788100824",
+    "sha256": "73bdae47d8026e823a35d6ba46ad50720ff2d4dcee55d278d92ac0b5d821c93e",
+    "evidence": "C",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 11,
+    "originalCollectionOrdinal": 11,
+    "sheet": 0,
+    "batch": "2026-09-18T0040-targeted",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0040-targeted/sheets/00.jpg"
+  },
+  {
+    "id": "bigbudpress-11077216043201-image-51053452591297",
+    "sha256": "c57dac6b048394a5a25a5a4aed5bf2608fe8f60a330a5e4097d0d7b42d340169",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 13,
+    "originalCollectionOrdinal": 13,
+    "sheet": 1,
+    "batch": "2026-09-18T0040-targeted",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0040-targeted/sheets/01.jpg"
+  },
+  {
+    "id": "bigbudpress-11077188485313-image-51053505151169",
+    "sha256": "575bbdfb662955e8020c22d08c007ab3bac9047caa9da92516d28b360839b3f7",
+    "evidence": "F",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 18,
+    "originalCollectionOrdinal": 18,
+    "sheet": 1,
+    "batch": "2026-09-18T0040-targeted",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0040-targeted/sheets/01.jpg"
+  },
+  {
+    "id": "bigbudpress-11077161615553-image-51053517996225",
+    "sha256": "184c38301a9938668369ebfcb6e75afb0a712400391e06d43373172b8f652e68",
+    "evidence": "F",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 22,
+    "originalCollectionOrdinal": 22,
+    "sheet": 1,
+    "batch": "2026-09-18T0040-targeted",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0040-targeted/sheets/01.jpg"
+  }
+]

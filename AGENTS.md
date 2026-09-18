@@ -1,5 +1,7 @@
 # Stylr personal discovery
 
+- Latest checkpoint: `2026-09-18T0040-targeted` reviews 24 Bronson/Big Bud Press candidates and admits five outfits, reaching 7,192 photos. Complete references remain 291 (44 masculine); benchmark remains 54. No required-body-filter gain. All 3,744 pending training bindings are unchanged. Append after this batch; prioritize alternate front workwear galleries and independent fuller-build publishers. Read `docs/verification/doubling-sourcing.md` for current validation. No deployment. Earlier checkpoint paragraphs are historical.
+
 - Latest checkpoint: `2026-09-18T0010-targeted` reviews 24 Universal Works/Snag candidates and admits eight outfits, reaching 7,187 photos. Complete references remain 291 (44 masculine); benchmark remains 54. No required-body-filter gain. All 3,744 pending training bindings are unchanged. Append after this batch; prefer alternate front workwear galleries and independent fuller-build publishers. Read the active doubling handoff for validation. No deployment.
 
 - Latest checkpoint: `2026-09-17T2340-targeted` reviews 24 Saturdays NYC candidates and admits two neutral outfits. Total 7,179 photos; 291 complete references (44 masculine) and 54 benchmark matches are unchanged. First/third galleries mostly show flat products and backs; prioritize alternative full-front collared ensembles and independent fuller-build sources. Append after this batch; all 3,744 pending training bindings remain unchanged. Read the active doubling handoff for validation. No deployment.

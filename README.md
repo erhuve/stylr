@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Latest September 18 checkpoint: 7,192 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Twenty-four direct Bronson/Big Bud Press reviews add five outfits and three build observations, with no required-body-filter gain. Presentation totals: 1,197 masculine, 4,034 feminine, 168 mixed and 1,793 unclear. The active doubling handoff supersedes historical counts below. Not deployed.
+
 September 18 checkpoint: 7,187 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The latest 24 direct reviews add eight outfits and eight build observations, with no required-body-filter gain. Presentation totals: 1,195 masculine, 4,032 feminine, 168 mixed and 1,792 unclear. The active doubling handoff supersedes the historical September 17 counts below. Not deployed.
 
 Presentation audit: all 7,179 repository images reviewed; 1,195 masculine, 4,029 feminine, 168 mixed/androgynous and 1,787 unclear outfits. `data/presentation/coverage.md` records source/build coverage and complete references. These are styling observations, not gender or unique-model counts. Future sourcing prioritizes extensive coverage of both presentations, particularly fuller-build masculine outfits with visible contours; exact parity is not required.
