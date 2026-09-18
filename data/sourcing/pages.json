@@ -145770,6 +145770,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://wooland.com/products/grace-tiered-dress-black",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-7352434360390-image-31300939612230",
+      "wooland-7352434360390-image-31300939677766"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/helena-midi-skirt-cassis",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-8310673768518-image-39882840145990",
+      "wooland-8310673768518-image-39882840178758"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/helena-skirt-cassis",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-8310675177542-image-39882655432774",
+      "wooland-8310675177542-image-39882655465542"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/sofia-fit-and-flare-dress-black",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-6903291347014-image-29435751628870",
+      "wooland-6903291347014-image-29435751727174"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/stella-signature-scoop-neck-tee-moss-green",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-7757628866630-image-35774911119430",
+      "wooland-7757628866630-image-35774911152198"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/winona-crop-cardigan-khaki",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-8132564287558-image-39882881859654",
+      "wooland-8132564287558-image-39882881892422"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://woolandprince.com/products/100-wool-crew-neck-tee-lavender",
     "source": "woolandprince",
     "candidateIds": [
@@ -153820,6 +153904,90 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-18T0145-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.untuckit.com/products/almeida-blue",
+    "source": "untuckit",
+    "candidateIds": [
+      "untuckit-8032093700174-image-56061714464846",
+      "untuckit-8032093700174-image-56061714530382"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.untuckit.com/products/arnold-wf",
+    "source": "untuckit",
+    "candidateIds": [
+      "untuckit-8005266243662-image-55711702712398",
+      "untuckit-8005266243662-image-55711707332686"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.untuckit.com/products/cadetto-wf-9",
+    "source": "untuckit",
+    "candidateIds": [
+      "untuckit-7420416557134-image-48605636231246",
+      "untuckit-7420416557134-image-48605636296782"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.untuckit.com/products/castro-wf",
+    "source": "untuckit",
+    "candidateIds": [
+      "untuckit-7828360003662-image-56049057759310",
+      "untuckit-7828360003662-image-56049057890382"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.untuckit.com/products/thorne-wf",
+    "source": "untuckit",
+    "candidateIds": [
+      "untuckit-7769524961358-image-43727832023118",
+      "untuckit-7769524961358-image-43727832088654"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.untuckit.com/products/thorne-wf-1",
+    "source": "untuckit",
+    "candidateIds": [
+      "untuckit-7769524994126-image-43728459300942",
+      "untuckit-7769524994126-image-43728459366478"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,

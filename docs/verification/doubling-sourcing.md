@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,256 photos; 2,956 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,264 photos; 2,948 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: UNTUCKit and wool&
+
+The 07:00 UTC run directly reviews 24 candidates in `2026-09-18T0710-targeted`, using two bound sheets and four enlarged originals. Eight outfits are admitted: two masculine collared casual ensembles, four feminine dress/skirt ensembles and two unclear neutral ensembles. Six detail crops, six rear views and four repeated checked-shirt variants are excluded. Half the candidate budget targets collared casual outfits. Both publishers are new. Two first-page listing snapshots preserve all 500 product decisions; bounded first/third gallery searches do not establish source exhaustion.
+
+Totals: 7,264 photos, 5,716 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear). Presentation totals: 1,207 masculine, 4,067 feminine, 168 mixed and 1,822 unclear. Eight new build observations add no complete-reference or required-body-filter gain. All 45 sampled settings remain unchanged, including the 54-match broader-build benchmark. Inventory records 11,804 sampled pages, 44,570 deferred pages, 72 source keys and 86 runs. All 3,744 pending training rows remain byte-identical from original ordinal 1056. Append after `0710-targeted`. Prioritize full-length collared ensembles outside checked-shirt variants and independent fitted fuller-build separates; untucked hems, gathered dresses and flared skirts remain low-yield for contours. No deployment.
+
+Preservation, admission replay, complete presentation audit, original-photo identity, typecheck, library audit and the unchanged body grid pass. All 6,871 prior expansion photo/asset/body records and 7,256 presentation rows are preserved; 6,879 expansion asset digests, 24 candidate bindings, two sheets and two listing snapshots pass. All 131 unit checks pass in one run (176,734 assertions, 348.10 seconds), including sourcing regressions. All 86 browser checks pass in 4.0 minutes, including every catalog image. No checks remain pending or failing. Only exact catalog/body/source-group expectations changed; assertions and budgets remain intact. Logs and the unchanged body grid are retained under external `expansion-2026-09-18T0710-targeted`. Remote main is included and personal-discovery is unchanged at the final pre-push fetch. No deployment.
 
 ## Current continuation: Corridor and Copper Union
 

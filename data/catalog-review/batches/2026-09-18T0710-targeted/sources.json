@@ -1,0 +1,204 @@
+{
+  "retrievedAt": "2026-09-18T07:03:11.408733+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "untuckit",
+      "pages": [
+        {
+          "url": "https://www.untuckit.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T07:03:07.232704+00:00",
+          "snapshotSha256": "ae541154944eb8cbfc3f9e95dd697fefcc4f6ea2e075701f754e4b77c5522d79"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "untuckit-8032093700174-image-56061714464846",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ALMEIDA-UNTUCKIT-42327Blu-PERF-CHECK-1.jpg?v=1789498854",
+          "sourceUrl": "https://www.untuckit.com/products/almeida-blue",
+          "sha256": "342fd4f92ccf4ef1fdc57047d7683deda4457dd8999a0880922effba82977188",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-8032093700174-image-56061714530382",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ALMEIDA-UNTUCKIT-42327Blu-PERF-CHECK-3.jpg?v=1789498854",
+          "sourceUrl": "https://www.untuckit.com/products/almeida-blue",
+          "sha256": "c3eb6a1f64ad547a6e172d0c135c154981c747ceed046aa70fba1233ac3ea1c8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-7420416557134-image-48605636231246",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/CADETTO-UNTUCKIT-41438Blu-WF-MICRO-GINGHAM-BLUE-1.jpg?v=1776263468",
+          "sourceUrl": "https://www.untuckit.com/products/cadetto-wf-9",
+          "sha256": "9a9c911509f51b04b2a6291b83709ab8b2e96c89c85694f05e5c502198679a3b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-7420416557134-image-48605636296782",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/CADETTO-UNTUCKIT-41438Blu-WF-MICRO-GINGHAM-BLUE-3.jpg?v=1776263468",
+          "sourceUrl": "https://www.untuckit.com/products/cadetto-wf-9",
+          "sha256": "d90f08c95efdad3cd716b95d0ac03ba191e3c87822271d5996b3e87ab0e2ff95",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-7769524994126-image-43728459300942",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/THORNE-UNTUCKIT-42125Lre-WRINKLE-FREE-PLAID-ROSE-WINE-1.jpg?v=1767725204",
+          "sourceUrl": "https://www.untuckit.com/products/thorne-wf-1",
+          "sha256": "b668681cb4fe6d1c3536ad073b26d19d83ab062e0b3f82e100a959a515b4cb2c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-7769524994126-image-43728459366478",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/THORNE-UNTUCKIT-42125Lre-WRINKLE-FREE-PLAID-ROSE-WINE-3.jpg?v=1767725204",
+          "sourceUrl": "https://www.untuckit.com/products/thorne-wf-1",
+          "sha256": "56cb045ead21e7dcc33ea1e5997f1979db154ee76ca73b7e032a4a68c2537d50",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-7769524961358-image-43727832023118",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/THORNE-UNTUCKIT-42125Blu-WRINKLE-FREE-PLAID-BLUE-1.jpg?v=1767724615",
+          "sourceUrl": "https://www.untuckit.com/products/thorne-wf",
+          "sha256": "6d018bc499dc74e56f152607061abccd1837df78fcea420eb055fbb0ca0d08fd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-7769524961358-image-43727832088654",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/THORNE-UNTUCKIT-42125Blu-WRINKLE-FREE-PLAID-BLUE-3.jpg?v=1767724616",
+          "sourceUrl": "https://www.untuckit.com/products/thorne-wf",
+          "sha256": "ed8b111ab062df16426881d095f46bfb590aa239d598f5ebe26f9b6065814697",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-8005266243662-image-55711702712398",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ARNOLD-UNTUCKIT-42121Nav-WF-NAVY-1.jpg?v=1788983951",
+          "sourceUrl": "https://www.untuckit.com/products/arnold-wf",
+          "sha256": "c7d1ec7ccea5d7344925f876771af445ed083a1cf0abc7b736a397c80dffbabc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-8005266243662-image-55711707332686",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/ARNOLD-UNTUCKIT-42121Nav-WF-NAVY-3.jpg?v=1788983959",
+          "sourceUrl": "https://www.untuckit.com/products/arnold-wf",
+          "sha256": "586b7a6dfe080703653a8995dac4fe0ed5bd8a86d948630470028bb36dd3032e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-7828360003662-image-56049057759310",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/CASTRO-UNTUCKIT-42317Nav-WRINKLE-FREE-1_5f9c3e5f-9ccc-4b70-84db-41d20648f316.jpg?v=1789481903",
+          "sourceUrl": "https://www.untuckit.com/products/castro-wf",
+          "sha256": "886d2424a3f993c1c251cff21a0108105e64a2a96e47cd105117d5b1b76e7a4d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "untuckit-7828360003662-image-56049057890382",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0129/1072/files/CASTRO-UNTUCKIT-42317Nav-WRINKLE-FREE-3_63a02ad0-1ca7-45bd-aa54-345a287cd60a.jpg?v=1789481903",
+          "sourceUrl": "https://www.untuckit.com/products/castro-wf",
+          "sha256": "e441a1dc2a9e58937911702a7c8a4213f48bbfc48b8f126100d7017b16eae844",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "wooland",
+      "pages": [
+        {
+          "url": "https://wooland.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T07:03:10.056902+00:00",
+          "snapshotSha256": "155248d4a47f43d56f8de4c6c56a61b3f8849f758c886bcf8200fee675dd55a5"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "wooland-7757628866630-image-35774911119430",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20250717-18_wooland_00362_StellaSignatureScoopNeckTee_MossGreen-LR.jpg?v=1756227480",
+          "sourceUrl": "https://wooland.com/products/stella-signature-scoop-neck-tee-moss-green",
+          "sha256": "22eba2b33ff01e2f647b18764c1cd55ed2e7b350f44f8698e0233aca58e82d2e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-7757628866630-image-35774911152198",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20250717-18_wooland_00395_StellaSignatureScoopNeckTee_MossGreen-LR.jpg?v=1756227410",
+          "sourceUrl": "https://wooland.com/products/stella-signature-scoop-neck-tee-moss-green",
+          "sha256": "01528017a1e9123f96fe23e4cc69d4d4cc04e92c64ef25157138b536eb68db33",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-6903291347014-image-29435751727174",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/products/20220629_wooland_00662_SofiaMidiDress_Black-LR.jpg?v=1762440487",
+          "sourceUrl": "https://wooland.com/products/sofia-fit-and-flare-dress-black",
+          "sha256": "33a93b5f16e4c54f84923c9539165b58aeec6d12bd3da48300a8c2805fab34a3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-6903291347014-image-29435751628870",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/products/20220629_wooland_00752_SofiaMidiDress_Black-LR.jpg?v=1657642141",
+          "sourceUrl": "https://wooland.com/products/sofia-fit-and-flare-dress-black",
+          "sha256": "2068917feb1663eb976e08730b1366bd84b935c33acaefd6459a381d7e7c4f94",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-7352434360390-image-31300939677766",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20240328-29_wooland_00842_GraceTieredTankDress_Black-LR.jpg?v=1762442425",
+          "sourceUrl": "https://wooland.com/products/grace-tiered-dress-black",
+          "sha256": "50e6eccc6e0007aa053a987853f8f3333554e4b2f211f292b28fe5fdc34d72a4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-7352434360390-image-31300939612230",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20240328-29_wooland_00883_GraceTieredTankDress_Black-LR.jpg?v=1712706979",
+          "sourceUrl": "https://wooland.com/products/grace-tiered-dress-black",
+          "sha256": "c5b5d728d289b34f09408fec5ea2705e3d172d5032396d3c45e7c6239c4e41ea",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-8132564287558-image-39882881892422",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_00355_WinonaCropCardigan_Khaki-LR.jpg?v=1789169559",
+          "sourceUrl": "https://wooland.com/products/winona-crop-cardigan-khaki",
+          "sha256": "ef94c36297df3079eb2798708a201af15e1f65ef9d5cdfe324ade1be6b22bfc8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-8132564287558-image-39882881859654",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_00336_WinonaCropCardigan_Khaki-LR.jpg?v=1789169559",
+          "sourceUrl": "https://wooland.com/products/winona-crop-cardigan-khaki",
+          "sha256": "452653e0107d5d1ce6a2f0d870329008faf950fbbff2c38a865144eb571031be",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-8310675177542-image-39882655432774",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_00457_HelenaSkirt_Cassis-LR.jpg?v=1789168820",
+          "sourceUrl": "https://wooland.com/products/helena-skirt-cassis",
+          "sha256": "555fe998a22757e6131a1034b3261979bd028abfb5596db62a936bc231d36a3d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-8310675177542-image-39882655465542",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_00472_HelenaSkirt_Cassis-LR.jpg?v=1789168820",
+          "sourceUrl": "https://wooland.com/products/helena-skirt-cassis",
+          "sha256": "21374c7c9e6ed2b26da971382c8dd66c6e00a6e5975e04b48fa67cb06e7ac2f5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-8310673768518-image-39882840145990",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_00991_HelenaMidiSkirt_Cassis-LR.jpg?v=1789169395",
+          "sourceUrl": "https://wooland.com/products/helena-midi-skirt-cassis",
+          "sha256": "89dab0ad4b18454ab59777548f86474751ca145f5317cee89ad149c313d854a7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "wooland-8310673768518-image-39882840178758",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_01001_HelenaMidiSkirt_Cassis-LR.jpg?v=1789169395",
+          "sourceUrl": "https://wooland.com/products/helena-midi-skirt-cassis",
+          "sha256": "ea0eebd39ab56053d707d8ac695ee17a5a8ea240ee0cd472d7c6a68fa9db0d9c",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10195,
-  "admittedPhotos": 6871,
-  "totalPhotos": 7256,
+  "reviewedCandidates": 10219,
+  "admittedPhotos": 6879,
+  "totalPhotos": 7264,
   "axisSupport": {
-    "build": 5584,
+    "build": 5592,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6312,
+  "sourcePages": 6320,
   "excludedReasons": {
-    "non-outfit-view": 3266,
+    "non-outfit-view": 3282,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13308,6 +13308,70 @@
     },
     {
       "id": "corridor-15081016164715-image-57129636594027",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8032093700174-image-56061714530382",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7420416557134-image-48605636296782",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7769524994126-image-43728459300942",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7769524994126-image-43728459366478",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7769524961358-image-43727832023118",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7769524961358-image-43727832088654",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005266243662-image-55711702712398",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-8005266243662-image-55711707332686",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828360003662-image-56049057759310",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "untuckit-7828360003662-image-56049057890382",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-7757628866630-image-35774911152198",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-6903291347014-image-29435751628870",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-7352434360390-image-31300939612230",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-8132564287558-image-39882881859654",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-8310675177542-image-39882655465542",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-8310673768518-image-39882840178758",
       "reason": "non-outfit-view"
     }
   ]

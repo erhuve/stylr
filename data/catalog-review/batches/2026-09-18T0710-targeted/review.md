@@ -1,0 +1,9 @@
+# Direct visual review — September 18, 2026
+
+The 07:00 UTC run inspected all 24 candidates on two immutable numbered sheets, then enlarged original images 0, 2, 12 and 22. Eight outfits are admitted: two masculine collared casual ensembles, four feminine dress/skirt ensembles and two unclear neutral ensembles. Six detail crops, six rear views and four repetitive checked-shirt variants are excluded. Styling describes clothing only, never gender identity.
+
+Eight apparent-build observations are supported; no image supports all three required axes. Untucked shirts, hands over the torso, gathered dresses, flared skirts and side stances conceal contours. No fuller-build or required-body-filter gain is claimed. The two black dresses differ in neckline, tier construction and length; the plum ensembles differ in skirt length, layering and footwear. Checked-shirt colorways are excluded despite distinct pages and image bytes.
+
+UNTUCKit and wool& add independent publishers. The maintained collector recorded first/third gallery choices for six previously unseen apparel pages per source, all 500 listing decisions, original URLs, retrieval times, two snapshot digests and every image outcome. Half the review budget targets collared casual outfits. Source selection does not establish any label. Batch name controls immutable sorting; actual retrieval occurred around 07:03 UTC.
+
+Next prioritize full-length collared ensembles outside checked-shirt variants and independent fitted fuller-build separates. The new listings provide a deferred queue, but sampled first/third galleries are low-yield for complete contours. Bounded listings do not establish source exhaustion. Pending training candidates retain original ordinals and hashes. See the active doubling handoff for validation and totals. Deployment remains pending.

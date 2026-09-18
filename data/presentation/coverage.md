@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7256/7256; unreviewed: 0.
+Reviewed: 7264/7264; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1205 | 16.6% | 1140 | 47 | 44 |
-| feminine | 4063 | 56% | 3621 | 33 | 148 |
+| masculine | 1207 | 16.6% | 1142 | 48 | 44 |
+| feminine | 4067 | 56% | 3625 | 34 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1820 | 25.1% | 1695 | 59 | 97 |
+| unclear | 1822 | 25.1% | 1697 | 60 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":141,"3":65,"unknown":369,"2.5":61,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":390,"3":252,"unknown":579,"1.5":2534,"2.5":281} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| masculine | {"1":3,"2":143,"3":65,"unknown":369,"2.5":61,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":392,"3":252,"unknown":579,"1.5":2536,"2.5":281} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":215,"1.5":819,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":154,"3":215,"1.5":820,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -92,8 +92,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | universalstandard.com | 3 | 48 | 0 | 33 | 0 |
 | universalworks.com | 16 | 0 | 0 | 1 | 0 |
 | unsplash.com | 2 | 0 | 0 | 0 | 0 |
+| untuckit.com | 2 | 0 | 0 | 0 | 0 |
 | wear.jp | 269 | 57 | 11 | 255 | 0 |
 | wildfang.com | 102 | 9 | 3 | 65 | 0 |
+| wooland.com | 0 | 4 | 0 | 2 | 0 |
 | woolandprince.com | 0 | 0 | 0 | 3 | 0 |
 
 Source-page counts can overlap between categories. Repeated models, shoots and gallery poses are not independent people. Counts establish image coverage only.
