@@ -1,0 +1,578 @@
+[
+  {
+    "id": "flagandanthem-8939820318799-image-45194423926863",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/odenville-hero-knit-flannel",
+    "localPath": "images/flagandanthem-8939820318799-image-45194423926863.webp",
+    "sha256": "78f625015f5608cc1f3777c78f9a155899c855e187969f80a75d91e2b9170e43",
+    "ordinal": 0,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeat plaid-shirt outfit; retain clearer standing frontal view 1 instead of leaning crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-8939820318799-image-44335555772495",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/odenville-hero-knit-flannel",
+    "localPath": "images/flagandanthem-8939820318799-image-44335555772495.webp",
+    "sha256": "9ccce034d3b6b9f88191bd82c83f6f3b26d33f980b1ac67dd75fc2b5b4e4d6aa",
+    "ordinal": 1,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": 1.0,
+      "waist": null
+    },
+    "evidence": "Plaid utility shirt and dark trousers; smaller apparent build and shoulders wider than hips visible on enlarged front view; untucked drape and pocket hand obscure waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7807355945039-image-40781513457743",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-flannel-lined-quilted-jacket-khaki",
+    "localPath": "images/flagandanthem-7807355945039-image-40781513457743.webp",
+    "sha256": "8f3e29de0cf4a6e66a435b89def7bf663c977841fdd2a0a1927e4a1378a3a932",
+    "ordinal": 2,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Tan utility jacket over blue collared shirt and dark trousers; medium apparent build; structured layered jacket hides contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7807355945039-image-40821299085391",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-flannel-lined-quilted-jacket-khaki",
+    "localPath": "images/flagandanthem-7807355945039-image-40821299085391.webp",
+    "sha256": "324a82fe1ddefa8e7b99d51b8a9023b5fc2081b7138d95d9e9b9e47a463525a0",
+    "ordinal": 3,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close-up of jacket chest and collar, not an outfit view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7544559566927-image-38053792186447",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-flannel-lined-quilted-jacket-black",
+    "localPath": "images/flagandanthem-7544559566927-image-38053792186447.webp",
+    "sha256": "f67823f2661b02170874fd117e1f174bb05da125952f126c56236b1d4e1a6da9",
+    "ordinal": 4,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black utility overshirt over gray knit and blue jeans; medium apparent build; outer layer and pocket arm hide contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7544559566927-image-38053792153679",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-flannel-lined-quilted-jacket-black",
+    "localPath": "images/flagandanthem-7544559566927-image-38053792153679.webp",
+    "sha256": "aacf0644b3342b5bf2b1df1e7a9b22110f97ee6bec56d2825d542be89707a3ac",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated black utility overshirt outfit and pose variation of 4.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7082328522831-image-38577620418639",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-quilted-shirt-jacket-olive-fa23",
+    "localPath": "images/flagandanthem-7082328522831-image-38577620418639.webp",
+    "sha256": "42baa2280e94110ea2bae05829be1ea4bd4a51375a8a501c23e6beba10a20e53",
+    "ordinal": 6,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated utility jacket and collared knit layering; minor colorway variation does not add a distinct ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7082328522831-image-38326186967119",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-quilted-shirt-jacket-olive-fa23",
+    "localPath": "images/flagandanthem-7082328522831-image-38326186967119.webp",
+    "sha256": "16256f9313f621551a54c48b418538e26614ba84c2736045bbc7658806231608",
+    "ordinal": 7,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Olive diamond-quilt utility jacket with dark crewneck and trousers; smaller apparent build; quilt structure and angled stance hide body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7082328490063-image-41343526699087",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-quilted-flannel-lined-shirt-jacket-navy-fa23",
+    "localPath": "images/flagandanthem-7082328490063-image-41343526699087.webp",
+    "sha256": "2e9ec212ab45223ddd0e32d954ba366e5597ba44334e94ebfecd9854ec90748d",
+    "ordinal": 8,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Further quilt-jacket and jeans colorway; repeated layered casual ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7082328490063-image-35928760025167",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-quilted-flannel-lined-shirt-jacket-navy-fa23",
+    "localPath": "images/flagandanthem-7082328490063-image-35928760025167.webp",
+    "sha256": "8f7797332c4de754112f46d13a549f2b685da41b9ae5e251a416f0e368518de1",
+    "ordinal": 9,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue quilted utility jacket over contrasting hooded sweatshirt and jeans; distinct hooded workwear layering; crop and bulky layers leave body axes unknown.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7082328424527-image-41319124271183",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-shirt-jacket-charcoal-fa23",
+    "localPath": "images/flagandanthem-7082328424527-image-41319124271183.webp",
+    "sha256": "f89a4a3e61dff6964b449e872a9dd112be13bcb20f5fda2c96c741fb34965c47",
+    "ordinal": 10,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated jacket over plaid shirt and jeans; colorway and setting variation only.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "flagandanthem-7082328424527-image-38078975443023",
+    "source": "flagandanthem",
+    "sourceUrl": "https://www.flagandanthem.com/products/chapin-shirt-jacket-charcoal-fa23",
+    "localPath": "images/flagandanthem-7082328424527-image-38078975443023.webp",
+    "sha256": "e8cbff875467e3da2d9921db91facecd78803f6bd90bd34c844066500d801a48",
+    "ordinal": 11,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated diamond-quilt jacket with dark tee and jeans, a colorway of 7.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15061618622831-image-64497155506543",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/velvet-jacket",
+    "localPath": "images/liverpool-15061618622831-image-64497155506543.webp",
+    "sha256": "86bd4a930ae1dc4ebe8220e651df99a571cec037fa272a86ffe0b1dbe22d50d7",
+    "ordinal": 12,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue velvet tie-waist blazer over white neckline and black trousers; feminine shaped tailoring, smaller apparent build; tie and structured blazer conceal natural waist and hip balance.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15061618622831-image-64497155441007",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/velvet-jacket",
+    "localPath": "images/liverpool-15061618622831-image-64497155441007.webp",
+    "sha256": "8866b48479ea7e585910a1ff9be9da2ecc9ac3e0af7d2e86169b9deded86203a",
+    "ordinal": 13,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of velvet blazer and trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063124246895-image-64296925102447",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/utility-relaxed-straight-26-inseam",
+    "localPath": "images/liverpool-15063124246895-image-64296925102447.webp",
+    "sha256": "fa510734986101f521179da45bf4168eef31a941e73858f969f499cac598ff7f",
+    "ordinal": 14,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulderless trouser-and-shoe product crop, insufficient ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063124246895-image-64296925069679",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/utility-relaxed-straight-26-inseam",
+    "localPath": "images/liverpool-15063124246895-image-64296925069679.webp",
+    "sha256": "3d35d450b21a40d779133cb664f56413666492d0d70bdab43a0bb8f021b57850",
+    "ordinal": 15,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close-up of trouser pocket and waistband.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063124705647-image-63012289773935",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/gia-glider-pull-on-slim-27-ins",
+    "localPath": "images/liverpool-15063124705647-image-63012289773935.webp",
+    "sha256": "70b70a282f1fd9ae415c784db39daea65ae0616b4bdfc3a7066e11b280d3a3d4",
+    "ordinal": 16,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulderless jeans and boots crop, insufficient ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063124705647-image-63012289741167",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/gia-glider-pull-on-slim-27-ins",
+    "localPath": "images/liverpool-15063124705647-image-63012289741167.webp",
+    "sha256": "992afeaae4fdc1c4837afd11250c29ddd202878ebbbf7fbb4591d46a3bbbaa76",
+    "ordinal": 17,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close-up of denim waistband and fabric.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063125262703-image-64464929620335",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/long-slv-embellished-woven-top-2",
+    "localPath": "images/liverpool-15063125262703-image-64464929620335.webp",
+    "sha256": "3756dcbe9c06b7bd84faec5324225cd581867adb6cc58b0305db581051e62675",
+    "ordinal": 18,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Sheer embroidered tie-neck peplum blouse and black trousers; feminine romantic separates, smaller apparent build; loose sleeves and gathered hem obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063125262703-image-64465049583983",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/long-slv-embellished-woven-top-2",
+    "localPath": "images/liverpool-15063125262703-image-64465049583983.webp",
+    "sha256": "ec5cfda110da6ed6108fd3820a43ea68abccea40fbafbfd1b517af99feee152d",
+    "ordinal": 19,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of sheer blouse ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063123067247-image-63993142477167",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/long-slv-sweethrt-neck-sweater-w-ruffle-3",
+    "localPath": "images/liverpool-15063123067247-image-63993142477167.webp",
+    "sha256": "71badcae4422576e9cca4f3eccffc27f3110620718774d354d6d2eae00c6cd00",
+    "ordinal": 20,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": 1.0
+    },
+    "evidence": "Sweetheart ribbed knit with scalloped cuffs and blue jeans; feminine fitted separates, smaller apparent build and moderate waist narrowing visible on enlargement; angle and hair obscure shoulder comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063123067247-image-63993101517167",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/long-slv-sweethrt-neck-sweater-w-ruffle-3",
+    "localPath": "images/liverpool-15063123067247-image-63993101517167.webp",
+    "sha256": "0a11126c60b76500fddba81f6a8a002639116c6df10061c729457519e1e5c049",
+    "ordinal": 21,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated sweetheart knit and jeans ensemble with different hand pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063123100015-image-63991095132527",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/mid-rise-ankle-flare-trouser-w-slit-hem-2",
+    "localPath": "images/liverpool-15063123100015-image-63991095132527.webp",
+    "sha256": "e4e31e7535bc2ed54da79c5de86b0434069a86fb8d8c7509607e307a4e71d450",
+    "ordinal": 22,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulderless checked-trouser and flat-shoe crop, insufficient ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "liverpool-15063123100015-image-63991095066991",
+    "source": "liverpool",
+    "sourceUrl": "https://liverpoolstyle.com/products/mid-rise-ankle-flare-trouser-w-slit-hem-2",
+    "localPath": "images/liverpool-15063123100015-image-63991095066991.webp",
+    "sha256": "ae29b2a60826287a15a241a0f39ea2dd9204c0885f1f7a709b122a245cd77a12",
+    "ordinal": 23,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close-up of checked trouser pocket and waistband.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-16080169206140-image-84656781361532",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-stretch-twill-dungarees",
+    "localPath": "images/runandfly-16080169206140-image-84656781361532.webp",
+    "sha256": "e23e8ae7f622a22556d0df733fb5e1ce3de5c842e4a9f3420cd6b7fe1b827593",
+    "ordinal": 24,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Printed bib overalls over green tee with lace-up boots; neutral playful workwear, smaller apparent build; loose bib and trousers hide waist and hip contours on enlargement.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-16080169206140-image-84656781427068",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-stretch-twill-dungarees",
+    "localPath": "images/runandfly-16080169206140-image-84656781427068.webp",
+    "sha256": "acdbf390e94c6342c998c8393fd3e3211e879f0920fa929c97fe21e4dc797381",
+    "ordinal": 25,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Same printed overalls ensemble with changed arm pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-16033317486972-image-83996829811068",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-crew-neck-cropped-cardigan",
+    "localPath": "images/runandfly-16033317486972-image-83996829811068.webp",
+    "sha256": "f0bca2ef31ee43ceabb7f68425070c0eeefa286c23182f5f997877d19f80c7c0",
+    "ordinal": 26,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Short black embroidered cardigan over gathered printed skirt ensemble; smaller apparent build; raised arm, cardigan and skirt obscure body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-16033317486972-image-83996829712764",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-crew-neck-cropped-cardigan",
+    "localPath": "images/runandfly-16033317486972-image-83996829712764.webp",
+    "sha256": "a5681bcd815511b08bfb36fcd30365ccce42918223a45336c30f46cb766affac",
+    "ordinal": 27,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close-up of cardigan embroidery and neckline.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-16033265910140-image-83996350644604",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-v-neck-cropped-cardigan",
+    "localPath": "images/runandfly-16033265910140-image-83996350644604.webp",
+    "sha256": "7b19b84b2ae80884ce4e77a99669c1819328d3c16c01fab86ac879209bb5973f",
+    "ordinal": 28,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated cardigan and printed skirt ensemble with head and arm pose change.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-16033265910140-image-83996350677372",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-v-neck-cropped-cardigan",
+    "localPath": "images/runandfly-16033265910140-image-83996350677372.webp",
+    "sha256": "e88b7937bd3e2fa0703ab091155badd22e75ca38d4b3ceb0bc668cd64224a180",
+    "ordinal": 29,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated cardigan and printed skirt ensemble with hand pose change.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-16016483811708-image-83431539310972",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-short-sleeve-shirt",
+    "localPath": "images/runandfly-16016483811708-image-83431539310972.webp",
+    "sha256": "658c739ee7d384e79da3e0238c8509a92f546e47d4261e61d430d5777fe46315",
+    "ordinal": 30,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": 1.0,
+      "waist": null
+    },
+    "evidence": "Printed short-sleeve collared shirt with dark jeans; masculine casual ensemble, smaller apparent build and shoulders wider than hips visible on enlarged frontal view; loose shirt obscures waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-16016483811708-image-83431539376508",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-short-sleeve-shirt",
+    "localPath": "images/runandfly-16016483811708-image-83431539376508.webp",
+    "sha256": "8ae82a958a782ab2136358c5269be3af942bbd592f44f3446c92c0f3f5802ccb",
+    "ordinal": 31,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close-up of printed shirt sleeve and shoulder.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-15999335006588-image-82724310778236",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/autumn-squirrel-flared-pinafore",
+    "localPath": "images/runandfly-15999335006588-image-82724310778236.webp",
+    "sha256": "4d4606e56947bc45abc4791fe18d8c09dbb3fc05079dcdbacd299474b87cc92b",
+    "ordinal": 32,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Printed pinafore over black tee with dark boots; fuller apparent build; skirt held outward and bib layers hide waist and hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-15999335006588-image-82724310843772",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/autumn-squirrel-flared-pinafore",
+    "localPath": "images/runandfly-15999335006588-image-82724310843772.webp",
+    "sha256": "e189f3068c46c530e953a982e4f88c26ac40678fbc417eaec8979eafbfbdf5cd",
+    "ordinal": 33,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close-up of printed fabric and gathered waistband.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-15999333204348-image-82724287676796",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/autumn-squirrel-stretch-belted-tea-dress-with-pockets",
+    "localPath": "images/runandfly-15999333204348-image-82724287676796.webp",
+    "sha256": "4ca3ffffb591a90475d96441353d98a9a4f9dc8da5c42c9e05f3fa331035de38",
+    "ordinal": 34,
+    "view": "full",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Short-sleeved printed gathered dress and lace-up boots; fuller apparent build visible on enlargement; flared skirt and pocket hands obscure hip and natural waist contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "runandfly-15999333204348-image-82724287578492",
+    "source": "runandfly",
+    "sourceUrl": "https://www.runandfly.co.uk/products/autumn-squirrel-stretch-belted-tea-dress-with-pockets",
+    "localPath": "images/runandfly-15999333204348-image-82724287578492.webp",
+    "sha256": "89e00d61a08b956a043daaf5483a1367cf2ed6f70c2f83bfa886b3738eace5f3",
+    "ordinal": 35,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close-up of printed bodice and gathered seam.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

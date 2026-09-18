@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7437/7437; unreviewed: 0.
+Reviewed: 7450/7450; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1250 | 16.8% | 1185 | 65 | 46 |
-| feminine | 4129 | 55.5% | 3685 | 47 | 149 |
+| masculine | 1256 | 16.9% | 1191 | 67 | 46 |
+| feminine | 4135 | 55.5% | 3691 | 49 | 149 |
 | mixed-androgynous | 171 | 2.3% | 164 | 13 | 2 |
-| unclear | 1887 | 25.4% | 1762 | 80 | 97 |
+| unclear | 1888 | 25.3% | 1763 | 81 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":163,"3":65,"unknown":378,"2.5":62,"1.5":579} | {"1":1,"2":19,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":399,"3":262,"unknown":584,"1.5":2568,"2.5":289} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":31} |
+| masculine | {"1":3,"2":165,"3":65,"unknown":379,"2.5":62,"1.5":582} | {"1":1,"2":19,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":399,"3":262,"unknown":584,"1.5":2572,"2.5":291} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":31} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":77} | {"1.5":2} |
-| unclear | {"1":7,"2":167,"3":217,"1.5":854,"unknown":526,"2.5":116} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":167,"3":217,"1.5":855,"unknown":526,"2.5":116} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -58,6 +58,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | elizabethsuzann.com | 0 | 1 | 0 | 2 | 0 |
 | fathersonsclothing.com | 9 | 0 | 0 | 0 | 0 |
 | finisterre.com | 1 | 0 | 0 | 1 | 0 |
+| flagandanthem.com | 5 | 0 | 0 | 0 | 0 |
 | flic.kr | 313 | 2260 | 28 | 596 | 0 |
 | flickr.com | 22 | 168 | 5 | 42 | 0 |
 | forestinkclothing.com | 0 | 78 | 0 | 2 | 0 |
@@ -71,6 +72,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | kirrinfinch.com | 66 | 0 | 0 | 9 | 0 |
 | kiyonna.com | 0 | 5 | 0 | 0 | 0 |
 | ledbury.com | 2 | 0 | 0 | 0 | 0 |
+| liverpoolstyle.com | 0 | 3 | 0 | 0 | 0 |
 | lucyandyak.com | 1 | 12 | 1 | 39 | 0 |
 | marinelayer.com | 0 | 3 | 0 | 1 | 0 |
 | marywyattlondon.com | 0 | 3 | 0 | 0 | 0 |
@@ -92,6 +94,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | punkrave.ch | 13 | 35 | 5 | 7 | 0 |
 | roark.com | 1 | 0 | 0 | 1 | 0 |
 | rowingblazers.com | 0 | 5 | 1 | 0 | 0 |
+| runandfly.co.uk | 1 | 3 | 0 | 1 | 0 |
 | saturdaysnyc.com | 0 | 0 | 0 | 2 | 0 |
 | scottfrasercollection.com | 0 | 0 | 0 | 1 | 0 |
 | senestudio.com | 2 | 0 | 0 | 0 | 0 |

@@ -289,6 +289,15 @@
       "deferredPages": 184
     },
     {
+      "source": "flagandanthem",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 5,
+      "completeExpansionReferences": 0,
+      "deferredPages": 170
+    },
+    {
       "source": "flickr.com",
       "sampledPages": 93,
       "candidateImages": 237,
@@ -440,6 +449,15 @@
       "admittedExpansionPhotos": 2,
       "completeExpansionReferences": 0,
       "deferredPages": 202
+    },
+    {
+      "source": "liverpool",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 3,
+      "completeExpansionReferences": 0,
+      "deferredPages": 242
     },
     {
       "source": "lucyandyak",
@@ -683,6 +701,15 @@
       "admittedExpansionPhotos": 6,
       "completeExpansionReferences": 0,
       "deferredPages": 191
+    },
+    {
+      "source": "runandfly",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 5,
+      "completeExpansionReferences": 0,
+      "deferredPages": 238
     },
     {
       "source": "saturdaysnyc",
@@ -49545,6 +49572,314 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/prince_of_wales_PSH014_R_c6d15096-5292-4c45-b4ae-5ad015a3a784.png?v=1759252543",
               "sourceUrl": "https://twillory.com/products/air-shorts-blue-prince",
               "sha256": "334cb3306fcc15467c51b1679b89e668bdd9fa16c769858e09c5082706f5ba08",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1940-independent/sources.json",
+      "retrievedAt": "2026-09-18T19:33:37.055370+00:00",
+      "retrievalTimeBasis": "Completion timestamp of last collection; each listing retains its actual retrieval timestamp and original snapshot binding.",
+      "scope": "Three publishers searched: Flag & Anthem, Liverpool and Run & Fly; at most three listing pages of 250 products and six unsampled products per source, first/third gallery images. Three successful first-page snapshots preserve all 750 listing decisions. Labels derive only from direct image inspection.",
+      "sources": [
+        {
+          "source": "flagandanthem",
+          "pages": [
+            {
+              "url": "https://www.flagandanthem.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T19:33:26.165416+00:00",
+              "snapshotSha256": "66b643535bb592b78bcf49d7aafb590eb3007c44559c1c32cb18d161533c2d7b",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1940-independent/raw/flagandanthem-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "flagandanthem-8939820318799-image-45194423926863",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/F_A_090326_DINING_ROOF_MENS_6_1314.jpg?v=1789759166",
+              "sourceUrl": "https://www.flagandanthem.com/products/odenville-hero-knit-flannel",
+              "sha256": "78f625015f5608cc1f3777c78f9a155899c855e187969f80a75d91e2b9170e43",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-8939820318799-image-44335555772495",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/LOOK-19_1537.jpg?v=1785243514",
+              "sourceUrl": "https://www.flagandanthem.com/products/odenville-hero-knit-flannel",
+              "sha256": "9ccce034d3b6b9f88191bd82c83f6f3b26d33f980b1ac67dd75fc2b5b4e4d6aa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7807355945039-image-40781513457743",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/250814_11_Field_1309-_1.jpg?v=1756839892",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-flannel-lined-quilted-jacket-khaki",
+              "sha256": "8f3e29de0cf4a6e66a435b89def7bf663c977841fdd2a0a1927e4a1378a3a932",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7807355945039-image-40821299085391",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/250814_11_Field_1339.jpg?v=1757107091",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-flannel-lined-quilted-jacket-khaki",
+              "sha256": "324a82fe1ddefa8e7b99d51b8a9023b5fc2081b7138d95d9e9b9e47a463525a0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7544559566927-image-38053792186447",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/HO21OW020-CHAPIN-QUILTED-FLANNEL-LINED-SHIRT-JACKET-BLACK_010.png?v=1722281730",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-flannel-lined-quilted-jacket-black",
+              "sha256": "f67823f2661b02170874fd117e1f174bb05da125952f126c56236b1d4e1a6da9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7544559566927-image-38053792153679",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/HO21OW020-CHAPIN-QUILTED-FLANNEL-LINED-SHIRT-JACKET-BLACK_015.png?v=1722281730",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-flannel-lined-quilted-jacket-black",
+              "sha256": "aacf0644b3342b5bf2b1df1e7a9b22110f97ee6bec56d2825d542be89707a3ac",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7082328522831-image-38577620418639",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/L19-DUSTY-OUTSIDE_WOOD-0006.png?v=1732311551",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-quilted-shirt-jacket-olive-fa23",
+              "sha256": "42baa2280e94110ea2bae05829be1ea4bd4a51375a8a501c23e6beba10a20e53",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7082328522831-image-38326186967119",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/HO21OW020-CHARCOAL-PLAID-10132.png?v=1728056255",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-quilted-shirt-jacket-olive-fa23",
+              "sha256": "16256f9313f621551a54c48b418538e26614ba84c2736045bbc7658806231608",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7082328490063-image-41343526699087",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/EliManning-191crop.jpg?v=1763393426",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-quilted-flannel-lined-shirt-jacket-navy-fa23",
+              "sha256": "2e9ec212ab45223ddd0e32d954ba366e5597ba44334e94ebfecd9854ec90748d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7082328490063-image-35928760025167",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/11_Flag_Anthem_BigBear_FW23_1066.jpg?v=1763393426",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-quilted-flannel-lined-shirt-jacket-navy-fa23",
+              "sha256": "8f7797332c4de754112f46d13a549f2b685da41b9ae5e251a416f0e368518de1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7082328424527-image-41319124271183",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/251104_10_1004.jpg?v=1763160203",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-shirt-jacket-charcoal-fa23",
+              "sha256": "f89a4a3e61dff6964b449e872a9dd112be13bcb20f5fda2c96c741fb34965c47",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "flagandanthem-7082328424527-image-38078975443023",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1368/1329/files/HO21OW020-CHARCOAL-PLAID-1013.png?v=1763160203",
+              "sourceUrl": "https://www.flagandanthem.com/products/chapin-shirt-jacket-charcoal-fa23",
+              "sha256": "e8cbff875467e3da2d9921db91facecd78803f6bd90bd34c844066500d801a48",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "liverpool",
+          "pages": [
+            {
+              "url": "https://liverpoolstyle.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T19:33:30.353853+00:00",
+              "snapshotSha256": "f9df64b66293371057e783091ff284b2f9215e6d7eb217c52df45d39bd777540",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1940-independent/raw/liverpool-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "liverpool-15061618622831-image-64497155506543",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM1D61VLV-SAPPHIRE-BLUE-F.jpg?v=1788357164",
+              "sourceUrl": "https://liverpoolstyle.com/products/velvet-jacket",
+              "sha256": "86bd4a930ae1dc4ebe8220e651df99a571cec037fa272a86ffe0b1dbe22d50d7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15061618622831-image-64497155441007",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM1D61VLV-SAPPHIRE-BLUE-B.jpg?v=1788357164",
+              "sourceUrl": "https://liverpoolstyle.com/products/velvet-jacket",
+              "sha256": "8866b48479ea7e585910a1ff9be9da2ecc9ac3e0af7d2e86169b9deded86203a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063124246895-image-64296925102447",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM3163Q33MOSSWOODF.jpg?v=1787348548",
+              "sourceUrl": "https://liverpoolstyle.com/products/utility-relaxed-straight-26-inseam",
+              "sha256": "fa510734986101f521179da45bf4168eef31a941e73858f969f499cac598ff7f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063124246895-image-64296925069679",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM3163Q33MOSSWOODD2.jpg?v=1787348548",
+              "sourceUrl": "https://liverpoolstyle.com/products/utility-relaxed-straight-26-inseam",
+              "sha256": "3d35d450b21a40d779133cb664f56413666492d0d70bdab43a0bb8f021b57850",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063124705647-image-63012289773935",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM2401DSRAVENWING-F1copy.webp?v=1781208530",
+              "sourceUrl": "https://liverpoolstyle.com/products/gia-glider-pull-on-slim-27-ins",
+              "sha256": "70b70a282f1fd9ae415c784db39daea65ae0616b4bdfc3a7066e11b280d3a3d4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063124705647-image-63012289741167",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM2401DSRAVENWING-D1copy.webp?v=1781208530",
+              "sourceUrl": "https://liverpoolstyle.com/products/gia-glider-pull-on-slim-27-ins",
+              "sha256": "992afeaae4fdc1c4837afd11250c29ddd202878ebbbf7fbb4591d46a3bbbaa76",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063125262703-image-64464929620335",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM8M64PCE0-BLACK-F.jpg?v=1788186885",
+              "sourceUrl": "https://liverpoolstyle.com/products/long-slv-embellished-woven-top-2",
+              "sha256": "3756dcbe9c06b7bd84faec5324225cd581867adb6cc58b0305db581051e62675",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063125262703-image-64465049583983",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM8M64PCE0BLACKB.webp?v=1788187550",
+              "sourceUrl": "https://liverpoolstyle.com/products/long-slv-embellished-woven-top-2",
+              "sha256": "ec5cfda110da6ed6108fd3820a43ea68abccea40fbafbfd1b517af99feee152d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063123067247-image-63993142477167",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM8L92SE10-BLACK-F2.webp?v=1785879259",
+              "sourceUrl": "https://liverpoolstyle.com/products/long-slv-sweethrt-neck-sweater-w-ruffle-3",
+              "sha256": "71badcae4422576e9cca4f3eccffc27f3110620718774d354d6d2eae00c6cd00",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063123067247-image-63993101517167",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM8L92SE10BLACKFcopy.webp?v=1785879086",
+              "sourceUrl": "https://liverpoolstyle.com/products/long-slv-sweethrt-neck-sweater-w-ruffle-3",
+              "sha256": "0a11126c60b76500fddba81f6a8a002639116c6df10061c729457519e1e5c049",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063123100015-image-63991095132527",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM4765TL92BLACKMULTITWEEDF.webp?v=1785862368",
+              "sourceUrl": "https://liverpoolstyle.com/products/mid-rise-ankle-flare-trouser-w-slit-hem-2",
+              "sha256": "e4e31e7535bc2ed54da79c5de86b0434069a86fb8d8c7509607e307a4e71d450",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "liverpool-15063123100015-image-63991095066991",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1865/0565/files/LM4765TL92BLACKMULTITWEEDD.webp?v=1785862368",
+              "sourceUrl": "https://liverpoolstyle.com/products/mid-rise-ankle-flare-trouser-w-slit-hem-2",
+              "sha256": "ae29b2a60826287a15a241a0f39ea2dd9204c0885f1f7a709b122a245cd77a12",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "runandfly",
+          "pages": [
+            {
+              "url": "https://www.runandfly.co.uk/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T19:33:34.978635+00:00",
+              "snapshotSha256": "0a06e172efc0c8e3ce73761ef0155151895dfb87b0d6196bc64268be4b383aac",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1940-independent/raw/runandfly-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "runandfly-16080169206140-image-84656781361532",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/squrriel2.jpg?v=1786615105",
+              "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-stretch-twill-dungarees",
+              "sha256": "e23e8ae7f622a22556d0df733fb5e1ce3de5c842e4a9f3420cd6b7fe1b827593",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-16080169206140-image-84656781427068",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/squrriel.jpg?v=1786615105",
+              "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-stretch-twill-dungarees",
+              "sha256": "acdbf390e94c6342c998c8393fd3e3211e879f0920fa929c97fe21e4dc797381",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-16033317486972-image-83996829811068",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/SQUIRRELROUNDNECKCARDIGAN3-2.jpg?v=1782388609",
+              "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-crew-neck-cropped-cardigan",
+              "sha256": "f0bca2ef31ee43ceabb7f68425070c0eeefa286c23182f5f997877d19f80c7c0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-16033317486972-image-83996829712764",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/SQUIRRELROUNDNECKCARDIGAN6-2.jpg?v=1782388610",
+              "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-crew-neck-cropped-cardigan",
+              "sha256": "a5681bcd815511b08bfb36fcd30365ccce42918223a45336c30f46cb766affac",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-16033265910140-image-83996350644604",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/SQURRIELCARDIGAN5-2.jpg?v=1782387441",
+              "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-v-neck-cropped-cardigan",
+              "sha256": "7b19b84b2ae80884ce4e77a99669c1819328d3c16c01fab86ac879209bb5973f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-16033265910140-image-83996350677372",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/SQURRIELCARDIGAN4-2.jpg?v=1782387440",
+              "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-v-neck-cropped-cardigan",
+              "sha256": "e88b7937bd3e2fa0703ab091155badd22e75ca38d4b3ceb0bc668cd64224a180",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-16016483811708-image-83431539310972",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/squirrelshirt1-2.jpg?v=1781192528",
+              "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-short-sleeve-shirt",
+              "sha256": "658c739ee7d384e79da3e0238c8509a92f546e47d4261e61d430d5777fe46315",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-16016483811708-image-83431539376508",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/squirrelshirt3-2.jpg?v=1781192527",
+              "sourceUrl": "https://www.runandfly.co.uk/products/acorn-adventure-squirrel-short-sleeve-shirt",
+              "sha256": "8ae82a958a782ab2136358c5269be3af942bbd592f44f3446c92c0f3f5802ccb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-15999335006588-image-82724310778236",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/squirrelpinafore3.jpg?v=1779806469",
+              "sourceUrl": "https://www.runandfly.co.uk/products/autumn-squirrel-flared-pinafore",
+              "sha256": "4d4606e56947bc45abc4791fe18d8c09dbb3fc05079dcdbacd299474b87cc92b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-15999335006588-image-82724310843772",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/squirrelpinafore5.jpg?v=1779806468",
+              "sourceUrl": "https://www.runandfly.co.uk/products/autumn-squirrel-flared-pinafore",
+              "sha256": "e189f3068c46c530e953a982e4f88c26ac40678fbc417eaec8979eafbfbdf5cd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-15999333204348-image-82724287676796",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/squirrel1.jpg?v=1779806292",
+              "sourceUrl": "https://www.runandfly.co.uk/products/autumn-squirrel-stretch-belted-tea-dress-with-pockets",
+              "sha256": "4ca3ffffb591a90475d96441353d98a9a4f9dc8da5c42c9e05f3fa331035de38",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "runandfly-15999333204348-image-82724287578492",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0274/5119/5491/files/squrriel4.jpg?v=1779806292",
+              "sourceUrl": "https://www.runandfly.co.uk/products/autumn-squirrel-stretch-belted-tea-dress-with-pockets",
+              "sha256": "89e00d61a08b956a043daaf5483a1367cf2ed6f70c2f83bfa886b3738eace5f3",
               "outcome": "downloaded-unique"
             }
           ],

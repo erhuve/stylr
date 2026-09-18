@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10967,
-  "admittedPhotos": 7052,
-  "totalPhotos": 7437,
+  "reviewedCandidates": 11003,
+  "admittedPhotos": 7065,
+  "totalPhotos": 7450,
   "axisSupport": {
-    "build": 5741,
-    "shoulderHip": 323,
-    "waist": 607
+    "build": 5753,
+    "shoulderHip": 325,
+    "waist": 608
   },
   "completeReferences": 252,
-  "sourcePages": 6489,
+  "sourcePages": 6502,
   "excludedReasons": {
-    "non-outfit-view": 3857,
+    "non-outfit-view": 3880,
     "existing-source-page": 58
   },
   "excluded": [
@@ -15672,6 +15672,98 @@
     },
     {
       "id": "twillory-8466166513851-image-40265036333243",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "flagandanthem-8939820318799-image-45194423926863",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "flagandanthem-7807355945039-image-40821299085391",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "flagandanthem-7544559566927-image-38053792153679",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "flagandanthem-7082328522831-image-38577620418639",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "flagandanthem-7082328490063-image-41343526699087",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "flagandanthem-7082328424527-image-41319124271183",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "flagandanthem-7082328424527-image-38078975443023",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "liverpool-15061618622831-image-64497155441007",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "liverpool-15063124246895-image-64296925102447",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "liverpool-15063124246895-image-64296925069679",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "liverpool-15063124705647-image-63012289773935",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "liverpool-15063124705647-image-63012289741167",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "liverpool-15063125262703-image-64465049583983",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "liverpool-15063123067247-image-63993101517167",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "liverpool-15063123100015-image-63991095132527",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "liverpool-15063123100015-image-63991095066991",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "runandfly-16080169206140-image-84656781427068",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "runandfly-16033317486972-image-83996829712764",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "runandfly-16033265910140-image-83996350644604",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "runandfly-16033265910140-image-83996350677372",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "runandfly-16016483811708-image-83431539376508",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "runandfly-15999335006588-image-82724310843772",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "runandfly-15999333204348-image-82724287578492",
       "reason": "non-outfit-view"
     }
   ]
