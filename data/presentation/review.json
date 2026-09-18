@@ -69965,6 +69965,105 @@
       "sheet": 0,
       "batch": "2026-09-18T1145-workwear",
       "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1145-workwear/sheets/00.jpg"
+    },
+    {
+      "id": "marinelayer-7937692565578-image-33897932128330",
+      "sha256": "128d41e588cf85e152218f58b2977b87687d8b59c7c4c80ef095746a5886260e",
+      "evidence": "F",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 0,
+      "originalCollectionOrdinal": 0,
+      "sheet": 0,
+      "batch": "2026-09-18T1210-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1210-independent/sheets/00.jpg"
+    },
+    {
+      "id": "marinelayer-8213635334218-image-36867630006346",
+      "sha256": "be07f2367d2e980f3f7f92222544fa9905e08e8f3b30d1b2df184314a3fd6300",
+      "evidence": "F",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 2,
+      "originalCollectionOrdinal": 2,
+      "sheet": 0,
+      "batch": "2026-09-18T1210-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1210-independent/sheets/00.jpg"
+    },
+    {
+      "id": "marinelayer-8213634613322-image-36867633414218",
+      "sha256": "6e9fa02ee5d5083250f031e8c4941d0f67f70fd8decd3e4feff6d731f001f786",
+      "evidence": "U",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 4,
+      "originalCollectionOrdinal": 4,
+      "sheet": 0,
+      "batch": "2026-09-18T1210-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1210-independent/sheets/00.jpg"
+    },
+    {
+      "id": "marinelayer-8213634547786-image-36867627122762",
+      "sha256": "5c6f8eb31242655ba78e58808b167593b9016c68e0e8fb6b7b9781dee1e5aff0",
+      "evidence": "D",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 6,
+      "originalCollectionOrdinal": 6,
+      "sheet": 0,
+      "batch": "2026-09-18T1210-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1210-independent/sheets/00.jpg"
+    },
+    {
+      "id": "dovetail-7993015468066-image-41431455596578",
+      "sha256": "69630f1398c110d4a9f32be0e49073ddaf092c41187209321c8a4be92537b7c1",
+      "evidence": "U",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 10,
+      "originalCollectionOrdinal": 10,
+      "sheet": 0,
+      "batch": "2026-09-18T1210-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1210-independent/sheets/00.jpg"
+    },
+    {
+      "id": "dovetail-8598561423394-image-40956663234594",
+      "sha256": "1f347ed61c07c70c381a592e83f8ff83775891f253dae0aeb06afdc1ed9a4301",
+      "evidence": "C",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 15,
+      "originalCollectionOrdinal": 15,
+      "sheet": 1,
+      "batch": "2026-09-18T1210-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1210-independent/sheets/01.jpg"
+    },
+    {
+      "id": "dovetail-8598561226786-image-40955044888610",
+      "sha256": "4fcd041e6b678450d215ed6d9bf57bb2eb9a2554aac5fbc907bcb54830a87a4e",
+      "evidence": "C",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 16,
+      "originalCollectionOrdinal": 16,
+      "sheet": 1,
+      "batch": "2026-09-18T1210-independent",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1210-independent/sheets/01.jpg"
+    },
+    {
+      "id": "onsclothing-9403610235117-image-50543189885165",
+      "sha256": "be29ef2a9e0d3895a4648f4a4cefa15c93f21b97fc8a3915256e036d629b63c2",
+      "evidence": "C",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 0,
+      "originalCollectionOrdinal": 0,
+      "sheet": 0,
+      "batch": "2026-09-18T1215-casual",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1215-casual/sheets/00.jpg"
+    },
+    {
+      "id": "onsclothing-9408287015149-image-49352727593197",
+      "sha256": "3641d40381ea04eba0c7480035fe658a630284924ef3febf5abe56548eb3c04f",
+      "evidence": "D",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 11,
+      "originalCollectionOrdinal": 11,
+      "sheet": 0,
+      "batch": "2026-09-18T1215-casual",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1215-casual/sheets/00.jpg"
     }
   ]
 }

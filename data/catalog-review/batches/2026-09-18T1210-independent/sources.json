@@ -1,0 +1,190 @@
+{
+  "retrievedAt": "2026-09-18T12:03:05.148438+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "marinelayer",
+      "pages": [
+        {
+          "url": "https://www.marinelayer.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T12:03:00.091590+00:00",
+          "snapshotSha256": "167c255ba6a86ac395ebebee989fe9aa515296a2160017102306dc41fa9c6b33"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "marinelayer-7937692565578-image-33897932128330",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_19283_Lexi_Rib_Pointelle_Scoop_Tee_Navy-35493-Final-Web.jpg?v=1763072150",
+          "sourceUrl": "https://www.marinelayer.com/products/lexi-rib-pointelle-scoop-tee-1",
+          "sha256": "128d41e588cf85e152218f58b2977b87687d8b59c7c4c80ef095746a5886260e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "marinelayer-7937692565578-image-33897932193866",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F1_W_19283_Lexi_Rib_Pointelle_Scoop_Tee_Navy-35571-Final-Web.jpg?v=1763072150",
+          "sourceUrl": "https://www.marinelayer.com/products/lexi-rib-pointelle-scoop-tee-1",
+          "sha256": "86ba7fea212625fd154b81464597040fda511eaec9ff6abcfc1a751db1750509",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "marinelayer-8213635334218-image-36867630006346",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F3_W_Lucy_Drawstring_Pant_Olive_Bloom_3858-Final-Web.jpg?v=1786988131",
+          "sourceUrl": "https://www.marinelayer.com/products/lucy-drawstring-pant-2",
+          "sha256": "be07f2367d2e980f3f7f92222544fa9905e08e8f3b30d1b2df184314a3fd6300",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "marinelayer-8213635334218-image-36867629973578",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F3_W_Lucy_Drawstring_Pant_Olive_Bloom_3885-Final-Web.jpg?v=1786988131",
+          "sourceUrl": "https://www.marinelayer.com/products/lucy-drawstring-pant-2",
+          "sha256": "f317da6e968339ac283737561d146f6901cd5a1cfb4e56e883229676304331ac",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "marinelayer-8213634613322-image-36867633414218",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F3_W_Moxy_Boucle_Jacket_Cream_Brown_Jacquard_35185-Final-Web.jpg?v=1786988409",
+          "sourceUrl": "https://www.marinelayer.com/products/moxy-boucle-jacket",
+          "sha256": "6e9fa02ee5d5083250f031e8c4941d0f67f70fd8decd3e4feff6d731f001f786",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "marinelayer-8213634613322-image-36867633315914",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F3_W_Moxy_Boucle_Jacket_Cream_Brown_Jacquard_35238-Final-Web.jpg?v=1786988409",
+          "sourceUrl": "https://www.marinelayer.com/products/moxy-boucle-jacket",
+          "sha256": "eaba197390a600b17b1685655c3196bbd323f0f54658b8694f4694c209e8e35b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "marinelayer-8213634547786-image-36867627122762",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F3_W_Chelsey_Herringbone_Bomber_Charcoal_35291-Final-Web.jpg?v=1786987926",
+          "sourceUrl": "https://www.marinelayer.com/products/chelsey-herringbone-bomber",
+          "sha256": "5c6f8eb31242655ba78e58808b167593b9016c68e0e8fb6b7b9781dee1e5aff0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "marinelayer-8213634547786-image-36867627221066",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F3_W_Chelsey_Herringbone_Bomber_Charcoal_35325-Final-Web.jpg?v=1786987945",
+          "sourceUrl": "https://www.marinelayer.com/products/chelsey-herringbone-bomber",
+          "sha256": "790c37e9e31c9e867779533687efd6ca676be57e43e2814148dac861b89a6cac",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "marinelayer-8213632974922-image-37102621720650",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F3_M_5_Pocket_Flex_Terry_Moleskin_Slim_Straight_Sky_Captain-21213-Final_Web.jpg?v=1789061435",
+          "sourceUrl": "https://www.marinelayer.com/products/5-pocket-flex-terry-moleskin-athletic-fit-1",
+          "sha256": "534f8e6d4f30f59a0436274d71bd3a34e651dd2f95494402362420e12acc83bf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "marinelayer-8213632942154-image-37102621786186",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0831/9103/files/F3_M_5_Pocket_Flex_Terry_Moleskin_Athletic_Fit_Natural-21248-Final_Web.jpg?v=1789061440",
+          "sourceUrl": "https://www.marinelayer.com/products/5-pocket-flex-terry-moleskin-athletic-fit",
+          "sha256": "b143e9c420cd667fce725a40539f556497114225777b760f2bba8bd2bfe36e2e",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 10
+    },
+    {
+      "source": "dovetail",
+      "pages": [
+        {
+          "url": "https://dovetailworkwear.com/products.json?limit=250&page=1",
+          "products": 132,
+          "retrievedAt": "2026-09-18T12:03:03.510256+00:00",
+          "snapshotSha256": "087797db0f1d45a0c676de92a7a308480b4435b53170bbe08e933593adcae336"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "dovetail-7993015468066-image-41431455596578",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/Dovetail-2026-F26-Studio-Web-2316-Old-School-Trucker-Jacket-Black-EEEEEE-Crop_039443e7-04d5-4a8d-b9eb-9fefe6c4a58c.jpg?v=1788227834",
+          "sourceUrl": "https://dovetailworkwear.com/products/womens-work-jacket-trucker-canvas",
+          "sha256": "69630f1398c110d4a9f32be0e49073ddaf092c41187209321c8a4be92537b7c1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-7993015468066-image-41431455858722",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/Dovetail-2026-F26-Studio-Web-2340-Old-School-Trucker-Jacket-Black-EEEEEE-Crop_3c7e709a-7be7-40c9-ac36-da5a1bb87730.jpg?v=1788227841",
+          "sourceUrl": "https://dovetailworkwear.com/products/womens-work-jacket-trucker-canvas",
+          "sha256": "bd6eb3926fd9fcfde810385b54e59088728e188d4c9a23f516b9c55ce2232e19",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598371991586-image-41008678567970",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/Dovetail-2026-F26-Studio-Web-330-DX-Bootcut-HOTSWAP_-Black-EEEEEE-CC-MODEL-418.jpg?v=1787182209",
+          "sourceUrl": "https://dovetailworkwear.com/products/dx-bootcut-hotswap-thermal-denim",
+          "sha256": "1d15e21ab815cd51582a4cf56ff0218c09702dae483fced684e19dbceb36632c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598371991586-image-40954901004322",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/Dovetail-2026-F26-Studio-Web-241-DX-Bootcut-HOTSWAP_-Indigo-Denim-EEEEEE-MODEL-418.jpg?v=1787182553",
+          "sourceUrl": "https://dovetailworkwear.com/products/dx-bootcut-hotswap-thermal-denim",
+          "sha256": "dd71c8519abede85a53c0065525828963664b332e20dd4dff017dc1f7a16b76e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598561423394-image-36034386165794",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/9F449486-2C69-48F5-B337-1885E3DB32E5.jpg?v=1762548014",
+          "sourceUrl": "https://dovetailworkwear.com/products/givens-stretch-chamois-work-shirt",
+          "sha256": "464074028ccedb745a08991009dde6415fc7aae160ed0c7882c1e8a8819493fb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598561423394-image-40956663234594",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/Dovetail-2026-F26-Studio-Web-1255-Givens-Chamois-Work-Shirt-Elderberry-Crop-eeeeee.jpg?v=1786140123",
+          "sourceUrl": "https://dovetailworkwear.com/products/givens-stretch-chamois-work-shirt",
+          "sha256": "1f347ed61c07c70c381a592e83f8ff83775891f253dae0aeb06afdc1ed9a4301",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598561226786-image-40955044888610",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/Dovetail-2026-F26-Studio-Web-495-Oahe-HOTSWAP_-Work-Jac-Indigo-Denim-EEEEEE-Crop.jpg?v=1786132943",
+          "sourceUrl": "https://dovetailworkwear.com/products/oahe-hotswap-thermal-denim-work-jacket",
+          "sha256": "4fcd041e6b678450d215ed6d9bf57bb2eb9a2554aac5fbc907bcb54830a87a4e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598561226786-image-36044964593698",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/B56D4F89-E624-4698-A773-202AC1EFAA49.jpg?v=1754597168",
+          "sourceUrl": "https://dovetailworkwear.com/products/oahe-hotswap-thermal-denim-work-jacket",
+          "sha256": "6ad897957f01bfb28a5aa3e523154169009fe3ad0a14b27b5c22805527447dbd",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598542876706-image-41008011771938",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/Dovetail-2026-F26-Studio-Web-OldSchool-WideLeg-WashedSaddleBrown-3227-eeeeee-cc-MODEL-255.jpg?v=1787181241",
+          "sourceUrl": "https://dovetailworkwear.com/products/old-school-wide-leg-jeans",
+          "sha256": "440cf4d05db8eb1214f93c24ed1503a642092fdfc8ac48adaf1934416318756a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598542876706-image-40777382592546",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/Dovetail-2026-F26-Studio-Web-3795-Old-School-Wide-Leg-Jeans-Indigo-Denim-eeeeee_a825232f-1070-47da-9d36-dc9b5e073b8f-MODEL-255.jpg?v=1787181258",
+          "sourceUrl": "https://dovetailworkwear.com/products/old-school-wide-leg-jeans",
+          "sha256": "1baa662d7712bcc1e1de5b50290b62aa291f1c694181d62d5c61ef967d1aec20",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598514892834-image-40840586919970",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/files/Dovetail-2026-F26-Studio-Web-1778-Shop-Pant-Elderberry-EEEEEE-MODEL-255.jpg?v=1787181173",
+          "sourceUrl": "https://dovetailworkwear.com/products/shop-pant-1",
+          "sha256": "97ba377b440d2d23eb5ac1bdb2043a9d74b41c0ff2ed523dd12c571886bb5504",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "dovetail-8598514892834-image-30691691298850",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1707/5207/products/DTW-S23-Shop-Pant-Olive-Green_245_twothirdscopy.jpg?v=1754592039",
+          "sourceUrl": "https://dovetailworkwear.com/products/shop-pant-1",
+          "sha256": "f9016e383fd5d7f1af29fe505e88e76d82267376cfacdca243509384d6d55f45",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

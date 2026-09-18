@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10411,
-  "admittedPhotos": 6929,
-  "totalPhotos": 7314,
+  "reviewedCandidates": 10445,
+  "admittedPhotos": 6938,
+  "totalPhotos": 7323,
   "axisSupport": {
-    "build": 5636,
+    "build": 5643,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6368,
+  "sourcePages": 6377,
   "excludedReasons": {
-    "non-outfit-view": 3424,
+    "non-outfit-view": 3449,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13940,6 +13940,106 @@
     },
     {
       "id": "andsons-15595026547075-image-86406739427715",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marinelayer-7937692565578-image-33897932193866",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marinelayer-8213635334218-image-36867629973578",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marinelayer-8213634613322-image-36867633315914",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marinelayer-8213634547786-image-36867627221066",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marinelayer-8213632974922-image-37102621720650",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marinelayer-8213632942154-image-37102621786186",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "dovetail-7993015468066-image-41431455858722",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "dovetail-8598371991586-image-41008678567970",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "dovetail-8598371991586-image-40954901004322",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "dovetail-8598561423394-image-36034386165794",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "dovetail-8598561226786-image-36044964593698",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "dovetail-8598542876706-image-41008011771938",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "dovetail-8598542876706-image-40777382592546",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "dovetail-8598514892834-image-40840586919970",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "dovetail-8598514892834-image-30691691298850",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9403610235117-image-50543189917933",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9408287178989-image-49352565031149",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9408287178989-image-49352566178029",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9408287146221-image-49352569422061",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9408287146221-image-49352574861549",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9408287113453-image-49352577908973",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9408287113453-image-49352578367725",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9408287080685-image-49352578760941",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9408287080685-image-49352580432109",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "onsclothing-9408287015149-image-49352727232749",
       "reason": "non-outfit-view"
     }
   ]

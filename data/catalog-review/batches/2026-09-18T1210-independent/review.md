@@ -1,0 +1,7 @@
+# Marine Layer and Dovetail review
+
+September 18, 2026. Direct review of all 22 candidates on two hash-bound sheets, with enlarged originals at ordinals 0, 15 and 16. Seven admissions: two feminine separates, one skirt-led feminine ensemble, two masculine utility ensembles and two neutral ensembles. Five support approximate build; none supports all three body axes. Three rear views, ten products/details and two repeated garment variants are excluded.
+
+The maintained expand_targeted collector samples six previously unseen product pages per source, using first and third gallery positions. Its source map was extended in the invocation with www.marinelayer.com and dovetailworkwear.com; the maintained collector itself is unchanged. Both first-page snapshots, all 382 listing decisions, exact image duplicate outcomes and retrieval timestamps are retained. Source descriptions do not supply observations. Source domains were absent from both the sampled and deferred ledgers before collection. Two Marine Layer image duplicates are omitted before visual review.
+
+These listings add publishers but mostly provide layered or cropped views. Dovetail first/third trouser galleries have no upper body; seek actual full-front workwear galleries before another similar batch. A department or workwear source does not establish styling, gender identity or body build. No complete-reference or required-body-filter gain. All prior records and pending training ordinals/hashes remain unchanged. See the current doubling handoff for validation and aggregate counts. No deployment.

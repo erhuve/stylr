@@ -1,0 +1,105 @@
+{
+  "retrievedAt": "2026-09-18T12:03:31.212128+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "onsclothing",
+      "pages": [
+        {
+          "url": "https://onsclothing.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T12:03:29.257070+00:00",
+          "snapshotSha256": "8751c468461c6b262cf9b58602d93788515bd55bbf86720660bd50f395424624"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "onsclothing-9403610235117-image-50543189885165",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/Castart_AW26_Ecom_2970.jpg?v=1788628479",
+          "sourceUrl": "https://onsclothing.com/products/mtp2607h-odell-kitwear-castart",
+          "sha256": "be29ef2a9e0d3895a4648f4a4cefa15c93f21b97fc8a3915256e036d629b63c2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9403610235117-image-50543189917933",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/Castart_AW26_Ecom_2993.jpg?v=1788628479",
+          "sourceUrl": "https://onsclothing.com/products/mtp2607h-odell-kitwear-castart",
+          "sha256": "fa7f1fd9e2ec3718f5190f1fbea4a90d062d703474899128e7d598cf4d9ef3b3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287178989-image-49352565031149",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD034_1.jpg?v=1783457834",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666h-rose-denim-shirt-bobo-choses",
+          "sha256": "def7a8490845948e75fe92044f3c85b585f2491e42e8913243834befded4b105",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287178989-image-49352566178029",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD034_11.jpg?v=1783457853",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666h-rose-denim-shirt-bobo-choses",
+          "sha256": "5a267004b9587a293fab07444f8820e99213556f65a990fb706da3226272df75",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287146221-image-49352569422061",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD062_1.jpg?v=1783457880",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666g-colorblock-technical-shorts-bobo-choses",
+          "sha256": "f3365cfc711769b0728ae57553a482cd1776a145f6c2e82ec33ce388a3c4974f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287146221-image-49352574861549",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD062_8.jpg?v=1783457904",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666g-colorblock-technical-shorts-bobo-choses",
+          "sha256": "0544f876b72a1c5aaf6dd188ff329db0e51922abcf61bf7c7ac9f0b1abc88f18",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287113453-image-49352577908973",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD061_1.jpg?v=1783457940",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666f-windbreaker-light-pants-bobo-choses",
+          "sha256": "59bcb8f9a440964b1f5330b6ea382ae50997a7edfa1d2147f9ddea267146daeb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287113453-image-49352578367725",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD061_9.jpg?v=1783457950",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666f-windbreaker-light-pants-bobo-choses",
+          "sha256": "fdae05f4424854389c9cefdbd4848a91726623c51c067aaedffb3311056f8b96",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287080685-image-49352578760941",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD095_1.jpg?v=1783457970",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666e-floral-puff-sleeve-dress-bobo-choses",
+          "sha256": "a572630f95619e1b5d8b5bbf222aa5a5db6170eb71a31790196bec799b1d857e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287080685-image-49352580432109",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD095_6.jpg?v=1783457987",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666e-floral-puff-sleeve-dress-bobo-choses",
+          "sha256": "0fe5891a0c5d99ed5c74cc6bac142f9f798eb9ad7ef0fe61cbc06d56f5510c18",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287015149-image-49352727232749",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD089_1.jpg?v=1783458724",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666d-wavy-viscose-dress-bobo-choses",
+          "sha256": "43fff70f89ac0f7ba324821aad0638c4ab807b4893b9797c10ae9b7c6b176fb0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "onsclothing-9408287015149-image-49352727593197",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1869/0703/files/B226AD089_10.jpg?v=1783458736",
+          "sourceUrl": "https://onsclothing.com/products/mtp2666d-wavy-viscose-dress-bobo-choses",
+          "sha256": "3641d40381ea04eba0c7480035fe658a630284924ef3febf5abe56548eb3c04f",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Latest September 18 checkpoint: 7,323 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Thirty-four Marine Layer/Dovetail/O.N.S reviews add nine outfits from three new publishers, with no required-body-filter gain. Presentation totals: 1,223 masculine, 4,091 feminine, 170 mixed and 1,839 unclear. Read the active doubling handoff for validation status. Not deployed.
+
 Latest September 18 checkpoint: 7,314 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Twenty-five direct &SONS/Mary Wyatt reviews add ten outfits from two new publishers, with no required-body-filter gain. Presentation totals: 1,220 masculine, 4,087 feminine, 170 mixed and 1,837 unclear. Read the active doubling handoff for validation status. Not deployed.
 
 Latest September 18 checkpoint: 7,304 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Twenty-four direct Percival/Kiyonna reviews add nine outfits from two new publishers, with no required-body-filter gain. Presentation totals: 1,214 masculine, 4,084 feminine, 170 mixed and 1,836 unclear. Read the active doubling handoff for validation status. Not deployed.
