@@ -1,0 +1,33 @@
+{
+  "enlargedOriginals": [
+    {
+      "ordinal": 4,
+      "id": "finisterre-15862487417216-image-86965396078976",
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/images/finisterre-15862487417216-image-86965396078976.webp",
+      "sha256": "7fc74cc6761d6e48000d74aba96d64516d686b54119ed0ccfaaf4cd95f95837c"
+    },
+    {
+      "ordinal": 14,
+      "id": "freelabel-8003701309529-image-37258226892889",
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/images/freelabel-8003701309529-image-37258226892889.webp",
+      "sha256": "3058de2d480a9158770de9b44e6c9617c386d545d09fad46e1fe6964333df418"
+    },
+    {
+      "ordinal": 24,
+      "id": "freelabel-8188011839577-image-36198309199961",
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/images/freelabel-8188011839577-image-36198309199961.webp",
+      "sha256": "d650cb39cd5c0bad368902ff945bef09a4e8d3cd58939357bc66cc70ecfe5fc6"
+    }
+  ],
+  "priorComparison": {
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1445-separates/prior-freelabel.jpg",
+    "sha256": "768df48617da503cecb742aed898c5ad320d6ed7c085abc7f79972b53c6c25e1",
+    "ids": [
+      "free-label-8187450228825-image-36198297141337",
+      "free-label-4568953323609-image-36900899586137",
+      "free-label-8099945054297-image-35293492019289",
+      "free-label-7232660275289-image-35293443948633",
+      "free-label-8168597487705-image-36190592467033"
+    ]
+  }
+}

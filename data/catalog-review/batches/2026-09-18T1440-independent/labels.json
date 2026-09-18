@@ -1,0 +1,178 @@
+[
+  {
+    "id": "muttonhead-10385975967908-image-51464093532324",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-ocean-blue-touch-grass-embroidery",
+    "localPath": "images/muttonhead-10385975967908-image-51464093532324.webp",
+    "sha256": "53bee1970a3274b6b859d8a3f317f21cc752f417f424297a8d5575d6cd58e2b2",
+    "ordinal": 0,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Unworn blue hoodie product photograph; no body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10385975967908-image-51464093466788",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-ocean-blue-touch-grass-embroidery",
+    "localPath": "images/muttonhead-10385975967908-image-51464093466788.webp",
+    "sha256": "633324006cbfec8d78af55a2032fcd5626a6803d6cbdf75d2fc0c0a743970977",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fabric and hem label closeup; no outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10385975902372-image-51464094351524",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-citrus-outsiders-club-embroidery",
+    "localPath": "images/muttonhead-10385975902372-image-51464094351524.webp",
+    "sha256": "84e24d09cbbadcf9048dbc1f25da34f93db5e9660c483a5e1f91267e4ae7c76f",
+    "ordinal": 2,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Unworn yellow hoodie product photograph; no body.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10385975902372-image-51464094285988",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-citrus-outsiders-club-embroidery",
+    "localPath": "images/muttonhead-10385975902372-image-51464094285988.webp",
+    "sha256": "80095f18ef8060bf019ffd2265fcd54c28d35e3de48ee6bbd258f98d84b27477",
+    "ordinal": 3,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Yellow fabric and hem label closeup; no outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10370056618148-image-51360793395364",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/super-guy-dia-de-los-muertos-selvedge-bat",
+    "localPath": "images/muttonhead-10370056618148-image-51360793395364.webp",
+    "sha256": "56c240a3028f815d7282635fb2366f40500e48498b4531a48509b0c76700e62a",
+    "ordinal": 4,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Folded denim and pocket label product image.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10370056618148-image-51360793198756",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/super-guy-dia-de-los-muertos-selvedge-bat",
+    "localPath": "images/muttonhead-10370056618148-image-51360793198756.webp",
+    "sha256": "184a70c8442f6f9a56a2738087ff60fd8ad335ff9b130d71a18af06ffe7ab7da",
+    "ordinal": 5,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Trouser-only crop from lower abdomen; shoulders and torso absent.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10370056519844-image-51360792477860",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/easy-guy-dia-de-los-muertos-selvedge-bat",
+    "localPath": "images/muttonhead-10370056519844-image-51360792477860.webp",
+    "sha256": "cc8e38232a99a052648a5c23ef712447caa6bf23fc6963cb6e1f20d520676f5b",
+    "ordinal": 6,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Folded denim and pocket label product image.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10370056519844-image-51360792281252",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/easy-guy-dia-de-los-muertos-selvedge-bat",
+    "localPath": "images/muttonhead-10370056519844-image-51360792281252.webp",
+    "sha256": "c4dd39b39b87a829822a5e092a0282ea679bca457d4ed9dd9a875de0f17db0eb",
+    "ordinal": 7,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeats trouser-only dark denim pose and footwear of ordinal 5.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10370056388772-image-51360791036068",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/weird-guy-dia-de-los-muertos-selvedge-bat",
+    "localPath": "images/muttonhead-10370056388772-image-51360791036068.webp",
+    "sha256": "053b8dd10a35bdbfc70071baac070b703d9691aeb19d154e55bec74ca61ab578",
+    "ordinal": 8,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Folded denim and pocket label product image.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10370056290468-image-51360788480164",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/true-guy-dia-de-los-muertos-selvedge-bat",
+    "localPath": "images/muttonhead-10370056290468-image-51360788480164.webp",
+    "sha256": "ce27131ee532ea720579dfc144e25f4defeae2858086dc4ff099250a333770e2",
+    "ordinal": 9,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Folded denim and pocket label product image.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "muttonhead-10370056290468-image-51360788283556",
+    "source": "muttonhead",
+    "sourceUrl": "https://www.muttonheadstore.com/products/true-guy-dia-de-los-muertos-selvedge-bat",
+    "localPath": "images/muttonhead-10370056290468-image-51360788283556.webp",
+    "sha256": "8c95692758b423943d67543ef71c6e5724853f083fb3583ea2ce39f01a72e39e",
+    "ordinal": 10,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeats cropped dark denim and black footwear ensemble of ordinal 5.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

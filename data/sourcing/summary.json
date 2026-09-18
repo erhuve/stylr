@@ -226,6 +226,15 @@
       "deferredPages": 37631
     },
     {
+      "source": "finisterre",
+      "sampledPages": 7,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 2,
+      "completeExpansionReferences": 0,
+      "deferredPages": 184
+    },
+    {
       "source": "flickr.com",
       "sampledPages": 93,
       "candidateImages": 237,
@@ -262,13 +271,13 @@
       "deferredPages": 48
     },
     {
-      "source": "free-label",
-      "sampledPages": 6,
-      "candidateImages": 12,
-      "reviewedExpansionCandidates": 12,
-      "admittedExpansionPhotos": 5,
+      "source": "freelabel",
+      "sampledPages": 13,
+      "candidateImages": 26,
+      "reviewedExpansionCandidates": 26,
+      "admittedExpansionPhotos": 8,
       "completeExpansionReferences": 0,
-      "deferredPages": 34
+      "deferredPages": 27
     },
     {
       "source": "freenote",
@@ -413,6 +422,15 @@
       "admittedExpansionPhotos": 0,
       "completeExpansionReferences": 0,
       "deferredPages": 151
+    },
+    {
+      "source": "muttonhead",
+      "sampledPages": 6,
+      "candidateImages": 11,
+      "reviewedExpansionCandidates": 11,
+      "admittedExpansionPhotos": 0,
+      "completeExpansionReferences": 0,
+      "deferredPages": 121
     },
     {
       "source": "myviolet",
@@ -45366,6 +45384,343 @@
             }
           ],
           "downloadedUnique": 2
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1440-independent/sources.json",
+      "retrievedAt": "2026-09-18T14:34:14.672402+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "muttonhead",
+          "pages": [
+            {
+              "url": "https://www.muttonheadstore.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T14:34:12.739740+00:00",
+              "snapshotSha256": "ad4d4d69af9ff06b4f0cad8d62e1296a0e54921090ff3b814a1f56b3fddad4a7"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "muttonhead-10385975967908-image-51464093532324",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/TouchGrassBlueSweater_00a18a8b-e7fd-4f9d-b85a-4930730cf891.jpg?v=1789670133",
+              "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-ocean-blue-touch-grass-embroidery",
+              "sha256": "53bee1970a3274b6b859d8a3f317f21cc752f417f424297a8d5575d6cd58e2b2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10385975967908-image-51464093466788",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/TouchGrassBlueSweater3_6ad1aee4-fba1-450c-991c-8d4db06d5808.jpg?v=1789670134",
+              "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-ocean-blue-touch-grass-embroidery",
+              "sha256": "633324006cbfec8d78af55a2032fcd5626a6803d6cbdf75d2fc0c0a743970977",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10385975902372-image-51464094351524",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/YellowSweater.jpg?v=1789670191",
+              "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-citrus-outsiders-club-embroidery",
+              "sha256": "84e24d09cbbadcf9048dbc1f25da34f93db5e9660c483a5e1f91267e4ae7c76f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10385975902372-image-51464094285988",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/YellowSweater3.jpg?v=1789670191",
+              "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-citrus-outsiders-club-embroidery",
+              "sha256": "80095f18ef8060bf019ffd2265fcd54c28d35e3de48ee6bbd258f98d84b27477",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10370056618148-image-51360793395364",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/BAT124300.jpg?v=1789662579",
+              "sourceUrl": "https://www.muttonheadstore.com/products/super-guy-dia-de-los-muertos-selvedge-bat",
+              "sha256": "56c240a3028f815d7282635fb2366f40500e48498b4531a48509b0c76700e62a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10370056618148-image-51360793198756",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/BAT124300_b_jpg.webp?v=1786968066",
+              "sourceUrl": "https://www.muttonheadstore.com/products/super-guy-dia-de-los-muertos-selvedge-bat",
+              "sha256": "184a70c8442f6f9a56a2738087ff60fd8ad335ff9b130d71a18af06ffe7ab7da",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10370056519844-image-51360792477860",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/BAT124303_f209c87d-8cc6-4335-8786-9f15ca2ed0e0.jpg?v=1789662548",
+              "sourceUrl": "https://www.muttonheadstore.com/products/easy-guy-dia-de-los-muertos-selvedge-bat",
+              "sha256": "cc8e38232a99a052648a5c23ef712447caa6bf23fc6963cb6e1f20d520676f5b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10370056519844-image-51360792281252",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/BAT124303_b_jpg_1d922918-7ca9-4be1-86e6-61335b0397d9.webp?v=1786967939",
+              "sourceUrl": "https://www.muttonheadstore.com/products/easy-guy-dia-de-los-muertos-selvedge-bat",
+              "sha256": "c4dd39b39b87a829822a5e092a0282ea679bca457d4ed9dd9a875de0f17db0eb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10370056388772-image-51360791036068",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/BAT124303.jpg?v=1789662518",
+              "sourceUrl": "https://www.muttonheadstore.com/products/weird-guy-dia-de-los-muertos-selvedge-bat",
+              "sha256": "053b8dd10a35bdbfc70071baac070b703d9691aeb19d154e55bec74ca61ab578",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10370056388772-image-51360790839460",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/BAT124303_b_jpg.webp?v=1786967728",
+              "sourceUrl": "https://www.muttonheadstore.com/products/weird-guy-dia-de-los-muertos-selvedge-bat",
+              "sha256": "c4dd39b39b87a829822a5e092a0282ea679bca457d4ed9dd9a875de0f17db0eb",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "muttonhead-10370056290468-image-51360788480164",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/BAT124321.jpg?v=1789662497",
+              "sourceUrl": "https://www.muttonheadstore.com/products/true-guy-dia-de-los-muertos-selvedge-bat",
+              "sha256": "ce27131ee532ea720579dfc144e25f4defeae2858086dc4ff099250a333770e2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "muttonhead-10370056290468-image-51360788283556",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0153/0959/files/BAT124321_b_jpg.webp?v=1786967608",
+              "sourceUrl": "https://www.muttonheadstore.com/products/true-guy-dia-de-los-muertos-selvedge-bat",
+              "sha256": "8c95692758b423943d67543ef71c6e5724853f083fb3583ea2ce39f01a72e39e",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 11
+        },
+        {
+          "source": "wray",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://wray.nyc/products.json?limit=250&page=1",
+              "error": "402 Client Error: Payment Required for url: https://wray.nyc/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1445-separates/sources.json",
+      "retrievedAt": "2026-09-18T14:34:46.663951+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 7 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "finisterre",
+          "pages": [
+            {
+              "url": "https://finisterre.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T14:34:43.127201+00:00",
+              "snapshotSha256": "599db61635a7eca3f22aaad4bd1783be609537ce54e56462b81053084961e39c"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "finisterre-15229609574784-image-76532718338432",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/solway-waterproof-parka-olive.jpg?v=1754496050",
+              "sourceUrl": "https://finisterre.com/products/mens-recycled-solway-waterproof-parka-olive",
+              "sha256": "1bfd65cb3640d238f303121cc6943c16566ec878b08f01834054c314afa4b5a1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15229609574784-image-76532727316864",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/studio-autumn-mens-705.jpg?v=1754496131",
+              "sourceUrl": "https://finisterre.com/products/mens-recycled-solway-waterproof-parka-olive",
+              "sha256": "a3128ccfa415e925a1c92f20c3d846872bcbd316c64ebd424a2c0ff8e806f343",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15779943645568-image-85669986894208",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/firecrest-gilet-black.jpg?v=1782902992",
+              "sourceUrl": "https://finisterre.com/products/womens-recycled-polyester-firecrest-gilet-black-aw26",
+              "sha256": "9b65b87f484abf47ac610fe0ceacc519539ab256e7981e49c2fb21e5fcac919c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15862487417216-image-86965396144512",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/columba-cardi-navy_da4a7ab2-302c-477d-be9e-1905b3e5bf16.jpg?v=1789558944",
+              "sourceUrl": "https://finisterre.com/products/mens-wool-columba-cardigan-navy",
+              "sha256": "f4b4487b8cae88d5fc6c730fef1447b687565fcf2b4892a66ce5cc8cede18e8f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15862487417216-image-86965396078976",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/mens-studio-early-autumn-114_b9923290-951e-4b05-a78d-b6e3b12fd311.jpg?v=1789558945",
+              "sourceUrl": "https://finisterre.com/products/mens-wool-columba-cardigan-navy",
+              "sha256": "7fc74cc6761d6e48000d74aba96d64516d686b54119ed0ccfaaf4cd95f95837c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15324017033600-image-78393088967040",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/moorland-stitch-jumper.jpg?v=1759317306",
+              "sourceUrl": "https://finisterre.com/products/womens-wool-moorland-stitch-jumper-olive-navy-blue-marine",
+              "sha256": "7f5394f94149febfec510429fae01cc7678b3b0737f116cfbd96f97bd85d8d65",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15324017033600-image-78393092080000",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/winter-OB-251.jpg?v=1759317306",
+              "sourceUrl": "https://finisterre.com/products/womens-wool-moorland-stitch-jumper-olive-navy-blue-marine",
+              "sha256": "6e3ee9cecf9f24ea2d5fcc0bf6787793263b8bdd0948b3dac99826aaab20c535",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15906012299648-image-86448746660224",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/tolcarne-gansey-navy.jpg?v=1787041456",
+              "sourceUrl": "https://finisterre.com/products/mens-wool-tolcarne-gansey-jumper-navy",
+              "sha256": "918783172b46716cfef2663320b0c476d8933186efe87b2f2b421f838778e45a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15906012299648-image-86448759112064",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/Autumn-ob-m-248.jpg?v=1787041512",
+              "sourceUrl": "https://finisterre.com/products/mens-wool-tolcarne-gansey-jumper-navy",
+              "sha256": "112d856a7079ad11b7b5b8429f4f007528edf6e1c7340d3c2abb0b1dfc7f1ec2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15862510944640-image-86450869731712",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/studio-canvas-trouser-black.jpg?v=1787053202",
+              "sourceUrl": "https://finisterre.com/products/womens-organic-studio-canvas-trouser-black",
+              "sha256": "e1bbd16f1c68adf0e27825944902471fbce3fa7a9864d2443af2e52a61153121",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15907654271360-image-86700721897856",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/ImportedImage_148.jpg?v=1788272953",
+              "sourceUrl": "https://finisterre.com/products/womens-wool-amy-powney-finisterre-aran-knit-jumper-cherrywood",
+              "sha256": "e941d10e5698acd7c04d49e02d813d7ee3dcf15442f1d99840cfe52476fdfab6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "finisterre-15907654271360-image-86738235982208",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1074/5128/files/Amy-Powney-AW26-_140.jpg?v=1788446926",
+              "sourceUrl": "https://finisterre.com/products/womens-wool-amy-powney-finisterre-aran-knit-jumper-cherrywood",
+              "sha256": "66e7aa78905954f5e514f4ebff60fdbb5a9ad32ef5ff7462fd2cc2d18545cf4e",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "freelabel",
+          "pages": [
+            {
+              "url": "https://freelabel.com/products.json?limit=250&page=1",
+              "products": 101,
+              "retrievedAt": "2026-09-18T14:34:45.696178+00:00",
+              "snapshotSha256": "a4c5fac656c4a4511889f1ac545eec7ae3d7d0eefc690f2e400a8d3bb86d5be4"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "freelabel-8003701899353-image-37258263134297",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/B6CD1ABF-AAD3-4A15-B492-78EDA4B6799B.jpg?v=1788813620",
+              "sourceUrl": "https://freelabel.com/products/cerulean-annie-pullover",
+              "sha256": "f52b2110cecab5738bdfa4dfe8764e04b2888b85171b76118e39ce3fac949ded",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8003701899353-image-37258263101529",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/054350F9-A9A4-4DDE-AE04-3B2B334B004A.jpg?v=1788813620",
+              "sourceUrl": "https://freelabel.com/products/cerulean-annie-pullover",
+              "sha256": "721a8d179bc671f115a0845edf793330d52bb4e706c8a3e5dc6d4aa0b4ccf538",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8003701309529-image-37258226892889",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/36846F6D-3459-4CC2-8C6A-C29E242E4AE2.jpg?v=1788813271",
+              "sourceUrl": "https://freelabel.com/products/chocolate-annie-pullover",
+              "sha256": "3058de2d480a9158770de9b44e6c9617c386d545d09fad46e1fe6964333df418",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8003701309529-image-37258226794585",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/7A49A8FE-FA78-4654-96E1-BB97902FE2C6.jpg?v=1788813271",
+              "sourceUrl": "https://freelabel.com/products/chocolate-annie-pullover",
+              "sha256": "79094c593b070354949960aeda94362c318fd8a30a2f96428014b08fe4317a1c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8003703242841-image-34421925740633",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/Alpaca-beanie-2.jpg?v=1754415197",
+              "sourceUrl": "https://freelabel.com/products/alpaca-toque",
+              "sha256": "4e187ed709d560a7a6a71e4f9b4fd4fc4ed1104aafc86b6d52082129e4ceb8f3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8003703242841-image-34478457028697",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/BD0A3A92-11F5-456A-B20E-3BA575F14978.jpg?v=1757390053",
+              "sourceUrl": "https://freelabel.com/products/alpaca-toque",
+              "sha256": "79746d1b02f52509dd1bffb909f4d79eb90779661db78d8cb804aa7e39f322cb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8003700523097-image-34525645865049",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_2535.jpg?v=1757386905",
+              "sourceUrl": "https://freelabel.com/products/deep-sea-marina-cardigan",
+              "sha256": "9ba238e5422ccee00f327369fb347a0bd584206c2fd475967d2062de2e115385",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8003700523097-image-34525645930585",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_2475.jpg?v=1757386905",
+              "sourceUrl": "https://freelabel.com/products/deep-sea-marina-cardigan",
+              "sha256": "948335f932fadac63e0000dce8d9655fc7b1ceb93ece45251c67956b245c7dbe",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8003698720857-image-34525639999577",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_2694.jpg?v=1757386549",
+              "sourceUrl": "https://freelabel.com/products/oatmeal-marina-cardigan",
+              "sha256": "02feeb62568743ade5c5f8779d1f28ef16d425f26d17b938f2a8e10820ae8b7c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8003698720857-image-34525639770201",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_2636.jpg?v=1757386549",
+              "sourceUrl": "https://freelabel.com/products/oatmeal-marina-cardigan",
+              "sha256": "9a37fdfaf24d9e9b32bcca049ee12e6d23b1f2ec83c8aecf8c6103251869f65a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-7996858892377-image-34355526565977",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250627_-_FL_-_Deadstock_Cotton_-_86036.jpg?v=1753820953",
+              "sourceUrl": "https://freelabel.com/products/olive-billie-tee",
+              "sha256": "b0251dc657ab6495fb5a6c67c94e64199bb4c1c05faec8a36fefb491082b2067",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-7996858892377-image-34355526631513",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250627_-_FL_-_Deadstock_Cotton_-_86040.jpg?v=1753821053",
+              "sourceUrl": "https://freelabel.com/products/olive-billie-tee",
+              "sha256": "d7b2979c49d9dc3e0c6d59279512f3284271b018412706202339f2d7e2e2d4ed",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8188011839577-image-36198309199961",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-244.jpg?v=1777407734",
+              "sourceUrl": "https://freelabel.com/products/twilight-alicia-pocket-legging",
+              "sha256": "d650cb39cd5c0bad368902ff945bef09a4e8d3cd58939357bc66cc70ecfe5fc6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "freelabel-8188011839577-image-36198309265497",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-246.jpg?v=1777407734",
+              "sourceUrl": "https://freelabel.com/products/twilight-alicia-pocket-legging",
+              "sha256": "a26be57b85d2544c8684bdd24bc372b4dc8579d36d480bb4172cbc70b86f7fe5",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 14
         }
       ]
     }

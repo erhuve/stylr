@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Latest September 18 checkpoint: 7,335 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Thirty-seven Muttonhead/Finisterre/Free Label reviews add five outfits and three build observations, with no required-body-filter gain. Presentation totals: 1,224 masculine, 4,098 feminine, 170 mixed and 1,843 unclear. Read the active doubling handoff for validation. Not deployed.
+
 Latest September 18 checkpoint: 7,330 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Twenty-five True Classic/Copper Union/Taylor Stitch reviews add three feminine dress-led ensembles and three build observations, with no required-body-filter gain. Presentation totals: 1,223 masculine, 4,098 feminine, 170 mixed and 1,839 unclear. The active doubling handoff records validation. Not deployed.
 
 Latest September 18 checkpoint: 7,327 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. Twenty-six State and Liberty/Snag/Universal Works reviews add four feminine skirt-led outfits, with no required-body-filter gain. Presentation totals: 1,223 masculine, 4,095 feminine, 170 mixed and 1,839 unclear. Read the active doubling handoff for validation status. Not deployed.

@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7330/7330; unreviewed: 0.
+Reviewed: 7335/7335; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1223 | 16.7% | 1158 | 56 | 44 |
+| masculine | 1224 | 16.7% | 1159 | 57 | 44 |
 | feminine | 4098 | 55.9% | 3654 | 41 | 148 |
 | mixed-androgynous | 170 | 2.3% | 163 | 12 | 2 |
-| unclear | 1839 | 25.1% | 1714 | 69 | 97 |
+| unclear | 1843 | 25.1% | 1718 | 70 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":149,"3":65,"unknown":375,"2.5":61,"1.5":570} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| masculine | {"1":3,"2":149,"3":65,"unknown":375,"2.5":61,"1.5":571} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
 | feminine | {"1":27,"2":394,"3":262,"unknown":582,"1.5":2547,"2.5":286} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":76} | {"1.5":2} |
-| unclear | {"1":7,"2":157,"3":215,"1.5":833,"unknown":517,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":157,"3":215,"1.5":833,"unknown":519,"2.5":112} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -53,12 +53,13 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | dixxon.com | 1 | 1 | 0 | 1 | 0 |
 | dovetailworkwear.com | 2 | 0 | 0 | 1 | 0 |
 | elizabethsuzann.com | 0 | 1 | 0 | 2 | 0 |
+| finisterre.com | 1 | 0 | 0 | 1 | 0 |
 | flic.kr | 313 | 2260 | 28 | 596 | 0 |
 | flickr.com | 22 | 168 | 5 | 42 | 0 |
 | forestinkclothing.com | 0 | 78 | 0 | 2 | 0 |
 | forthefit.com | 3 | 1 | 0 | 3 | 0 |
 | foxblood.com | 2 | 123 | 0 | 31 | 0 |
-| freelabel.com | 0 | 4 | 0 | 1 | 0 |
+| freelabel.com | 0 | 4 | 0 | 4 | 0 |
 | freshcleantees.com | 1 | 1 | 0 | 9 | 0 |
 | girlfriend.com | 0 | 6 | 0 | 9 | 0 |
 | goodlifeclothing.com | 0 | 0 | 0 | 2 | 0 |

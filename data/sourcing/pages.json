@@ -7086,6 +7086,102 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://finisterre.com/products/mens-recycled-solway-waterproof-parka-olive",
+    "source": "finisterre",
+    "candidateIds": [
+      "finisterre-15229609574784-image-76532718338432",
+      "finisterre-15229609574784-image-76532727316864"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://finisterre.com/products/mens-wool-columba-cardigan-navy",
+    "source": "finisterre",
+    "candidateIds": [
+      "finisterre-15862487417216-image-86965396078976",
+      "finisterre-15862487417216-image-86965396144512"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://finisterre.com/products/mens-wool-tolcarne-gansey-jumper-navy",
+    "source": "finisterre",
+    "candidateIds": [
+      "finisterre-15906012299648-image-86448746660224",
+      "finisterre-15906012299648-image-86448759112064"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://finisterre.com/products/womens-organic-studio-canvas-trouser-black",
+    "source": "finisterre",
+    "candidateIds": [
+      "finisterre-15862510944640-image-86450869731712"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://finisterre.com/products/womens-recycled-polyester-firecrest-gilet-black-aw26",
+    "source": "finisterre",
+    "candidateIds": [
+      "finisterre-15779943645568-image-85669986894208"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://finisterre.com/products/womens-wool-amy-powney-finisterre-aran-knit-jumper-cherrywood",
+    "source": "finisterre",
+    "candidateIds": [
+      "finisterre-15907654271360-image-86700721897856",
+      "finisterre-15907654271360-image-86738235982208"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://finisterre.com/products/womens-wool-moorland-stitch-jumper-olive-navy-blue-marine",
+    "source": "finisterre",
+    "candidateIds": [
+      "finisterre-15324017033600-image-78393088967040",
+      "finisterre-15324017033600-image-78393092080000"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://flic.kr/p/214fzeN",
     "source": "fashionpedia",
     "candidateIds": [
@@ -104864,8 +104960,22 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://freelabel.com/products/alpaca-toque",
+    "source": "freelabel",
+    "candidateIds": [
+      "freelabel-8003703242841-image-34421925740633",
+      "freelabel-8003703242841-image-34478457028697"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://freelabel.com/products/black-marina-cardigan",
-    "source": "free-label",
+    "source": "freelabel",
     "candidateIds": [
       "free-label-8168597487705-image-36190592467033",
       "free-label-8168597487705-image-36190592532569"
@@ -104879,7 +104989,7 @@
   },
   {
     "sourceUrl": "https://freelabel.com/products/black-marta-dress",
-    "source": "free-label",
+    "source": "freelabel",
     "candidateIds": [
       "free-label-4568953323609-image-36900899455065",
       "free-label-4568953323609-image-36900899586137"
@@ -104893,7 +105003,7 @@
   },
   {
     "sourceUrl": "https://freelabel.com/products/black-tyler-dress",
-    "source": "free-label",
+    "source": "freelabel",
     "candidateIds": [
       "free-label-7232660275289-image-35293443850329",
       "free-label-7232660275289-image-35293443948633"
@@ -104906,8 +105016,36 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://freelabel.com/products/cerulean-annie-pullover",
+    "source": "freelabel",
+    "candidateIds": [
+      "freelabel-8003701899353-image-37258263101529",
+      "freelabel-8003701899353-image-37258263134297"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://freelabel.com/products/chocolate-annie-pullover",
+    "source": "freelabel",
+    "candidateIds": [
+      "freelabel-8003701309529-image-37258226794585",
+      "freelabel-8003701309529-image-37258226892889"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://freelabel.com/products/cold-brew-tyler-dress",
-    "source": "free-label",
+    "source": "freelabel",
     "candidateIds": [
       "free-label-8099945054297-image-35293492019289",
       "free-label-8099945054297-image-35293501718617"
@@ -104920,8 +105058,22 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://freelabel.com/products/deep-sea-marina-cardigan",
+    "source": "freelabel",
+    "candidateIds": [
+      "freelabel-8003700523097-image-34525645865049",
+      "freelabel-8003700523097-image-34525645930585"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://freelabel.com/products/garnet-marta-dress",
-    "source": "free-label",
+    "source": "freelabel",
     "candidateIds": [
       "free-label-8187450523737-image-36198303367257",
       "free-label-8187450523737-image-36198303629401"
@@ -104934,8 +105086,50 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://freelabel.com/products/oatmeal-marina-cardigan",
+    "source": "freelabel",
+    "candidateIds": [
+      "freelabel-8003698720857-image-34525639770201",
+      "freelabel-8003698720857-image-34525639999577"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://freelabel.com/products/olive-billie-tee",
+    "source": "freelabel",
+    "candidateIds": [
+      "freelabel-7996858892377-image-34355526565977",
+      "freelabel-7996858892377-image-34355526631513"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://freelabel.com/products/twilight-alicia-pocket-legging",
+    "source": "freelabel",
+    "candidateIds": [
+      "freelabel-8188011839577-image-36198309199961",
+      "freelabel-8188011839577-image-36198309265497"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1445-separates/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://freelabel.com/products/twilight-marta-dress",
-    "source": "free-label",
+    "source": "freelabel",
     "candidateIds": [
       "free-label-8187450228825-image-36198297141337",
       "free-label-8187450228825-image-36198297403481"
@@ -153196,6 +153390,89 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.muttonheadstore.com/products/easy-guy-dia-de-los-muertos-selvedge-bat",
+    "source": "muttonhead",
+    "candidateIds": [
+      "muttonhead-10370056519844-image-51360792281252",
+      "muttonhead-10370056519844-image-51360792477860"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1440-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-citrus-outsiders-club-embroidery",
+    "source": "muttonhead",
+    "candidateIds": [
+      "muttonhead-10385975902372-image-51464094285988",
+      "muttonhead-10385975902372-image-51464094351524"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1440-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.muttonheadstore.com/products/pullover-cabin-hoodie-ocean-blue-touch-grass-embroidery",
+    "source": "muttonhead",
+    "candidateIds": [
+      "muttonhead-10385975967908-image-51464093466788",
+      "muttonhead-10385975967908-image-51464093532324"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1440-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.muttonheadstore.com/products/super-guy-dia-de-los-muertos-selvedge-bat",
+    "source": "muttonhead",
+    "candidateIds": [
+      "muttonhead-10370056618148-image-51360793198756",
+      "muttonhead-10370056618148-image-51360793395364"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1440-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.muttonheadstore.com/products/true-guy-dia-de-los-muertos-selvedge-bat",
+    "source": "muttonhead",
+    "candidateIds": [
+      "muttonhead-10370056290468-image-51360788283556",
+      "muttonhead-10370056290468-image-51360788480164"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1440-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.muttonheadstore.com/products/weird-guy-dia-de-los-muertos-selvedge-bat",
+    "source": "muttonhead",
+    "candidateIds": [
+      "muttonhead-10370056388772-image-51360791036068"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1440-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

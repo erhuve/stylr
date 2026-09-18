@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10496,
-  "admittedPhotos": 6945,
-  "totalPhotos": 7330,
+  "reviewedCandidates": 10533,
+  "admittedPhotos": 6950,
+  "totalPhotos": 7335,
   "axisSupport": {
-    "build": 5648,
+    "build": 5651,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6384,
+  "sourcePages": 6389,
   "excludedReasons": {
-    "non-outfit-view": 3493,
+    "non-outfit-view": 3525,
     "existing-source-page": 58
   },
   "excluded": [
@@ -14216,6 +14216,134 @@
     },
     {
       "id": "taylorstitch-7645557030989-image-36970836951117",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10385975967908-image-51464093532324",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10385975967908-image-51464093466788",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10385975902372-image-51464094351524",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10385975902372-image-51464094285988",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10370056618148-image-51360793395364",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10370056618148-image-51360793198756",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10370056519844-image-51360792477860",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10370056519844-image-51360792281252",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10370056388772-image-51360791036068",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10370056290468-image-51360788480164",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "muttonhead-10370056290468-image-51360788283556",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15229609574784-image-76532718338432",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15779943645568-image-85669986894208",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15862487417216-image-86965396144512",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15324017033600-image-78393088967040",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15324017033600-image-78393092080000",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15906012299648-image-86448746660224",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15906012299648-image-86448759112064",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15862510944640-image-86450869731712",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15907654271360-image-86700721897856",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "finisterre-15907654271360-image-86738235982208",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8003701899353-image-37258263134297",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8003701899353-image-37258263101529",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8003701309529-image-37258226794585",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8003703242841-image-34421925740633",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8003703242841-image-34478457028697",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8003700523097-image-34525645865049",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8003700523097-image-34525645930585",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8003698720857-image-34525639999577",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8003698720857-image-34525639770201",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-7996858892377-image-34355526631513",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "freelabel-8188011839577-image-36198309265497",
       "reason": "non-outfit-view"
     }
   ]

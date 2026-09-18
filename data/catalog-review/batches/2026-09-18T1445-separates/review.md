@@ -1,0 +1,5 @@
+# Outdoor layers and fuller-build separates
+
+Direct inspection of 26 candidates on three bound sheets, three enlarged originals (4, 14, 24), and a comparison sheet containing all five prior Free Label admissions retains five distinct outfits: one masculine workwear ensemble and four neutral ensembles. Three build observations are supported; no complete reference is added. Fourteen products/details, six repeated ensembles/poses/colorways and one rear view are excluded.
+
+The 37-candidate combined pass targets casual/workwear discovery with 23 Muttonhead/Finisterre views and fuller-build sourcing with 14 Free Label views plus the failed WRAY listing. Search intention is not a presentation label. Finisterre adds one admitted publisher; Muttonhead is sampled but contributes no admission. Loose knitwear and shell layers obscure contours; prioritize fitted untied front separates and alternative full-front galleries next. Ordinals remain bound to original intake and sheet hashes. Recorded retrieval timestamps are actual times; batch names establish immutable ordering. No deployment.
