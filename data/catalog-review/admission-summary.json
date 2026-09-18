@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10243,
-  "admittedPhotos": 6889,
-  "totalPhotos": 7274,
+  "reviewedCandidates": 10269,
+  "admittedPhotos": 6894,
+  "totalPhotos": 7279,
   "axisSupport": {
-    "build": 5602,
+    "build": 5605,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6330,
+  "sourcePages": 6335,
   "excludedReasons": {
-    "non-outfit-view": 3296,
+    "non-outfit-view": 3317,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13428,6 +13428,90 @@
     },
     {
       "id": "nooworks-9245293674627-image-48177457070211",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028361846981-image-44046699069637",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028361846981-image-44046699200709",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028361814213-image-44046693073093",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028361814213-image-44046693400773",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028361781445-image-44046886437061",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028361781445-image-44046887026885",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028361715909-image-44046695923909",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028361683141-image-44046692679877",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028296278213-image-44090416627909",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028296278213-image-44090416562373",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "elizsuzann-9025131806889-image-39736641388713",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "elizsuzann-8941615677609-image-39740323135657",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "elizsuzann-8633849512105-image-43358028562601",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "elizsuzann-9021189357737-image-44643705028777",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "elizsuzann-9021189357737-image-41741752336553",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "elizsuzann-9021181788329-image-44643543679145",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "elizsuzann-9021181788329-image-44643543744681",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028296245445-image-44090418921669",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028296245445-image-44090418888901",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028296212677-image-44090418135237",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "senestudio-9028296212677-image-44090418102469",
       "reason": "non-outfit-view"
     }
   ]

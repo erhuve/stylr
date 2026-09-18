@@ -1,0 +1,66 @@
+[
+  {
+    "id": "senestudio-9028296245445-image-44090418921669",
+    "source": "senestudio",
+    "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-dark-navy",
+    "localPath": "images/senestudio-9028296245445-image-44090418921669.webp",
+    "sha256": "185eefa8f04e23117867ac9d8ebef9949af5708c4fbf2f1b84a906e40f9ddd0a",
+    "ordinal": 0,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated blue knit sweater product.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "senestudio-9028296245445-image-44090418888901",
+    "source": "senestudio",
+    "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-dark-navy",
+    "localPath": "images/senestudio-9028296245445-image-44090418888901.webp",
+    "sha256": "9be503d2469b70547d8b0886d8df313f1521705d92d96e57e1b6c85433725119",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue knit neckline detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "senestudio-9028296212677-image-44090418135237",
+    "source": "senestudio",
+    "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-charcoal",
+    "localPath": "images/senestudio-9028296212677-image-44090418135237.webp",
+    "sha256": "daca2647ae053f7acace41614bc7b6dd2d3a2f8d0e53cc27a25645a17b83b06e",
+    "ordinal": 2,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated dark gray knit sweater product.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "senestudio-9028296212677-image-44090418102469",
+    "source": "senestudio",
+    "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-charcoal",
+    "localPath": "images/senestudio-9028296212677-image-44090418102469.webp",
+    "sha256": "ad7dea119f02524d39ee55e6f73357d2b10ac75134d5ee6cfbce52ca806c7d3d",
+    "ordinal": 3,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark gray knit neckline detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

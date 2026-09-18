@@ -1,0 +1,3 @@
+# Sene direct review
+
+2026-09-18: all 12 candidates directly inspected on the bound sheet. Two masculine-styled partial ensembles are retained; nine isolated products/details and one repeated pose are excluded. Layered tailoring conceals all body axes. The 250-product first-page snapshot preserves every listing decision; first/third galleries are a bounded search, not source exhaustion. Alice Alexander's non-JSON endpoint failure is preserved. No labels come from departments, product names, sizes or model predictions. Prefer full-front wearer galleries over flat blazers and knit details. No deployment.

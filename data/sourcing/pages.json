@@ -6666,6 +6666,76 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://elizabethsuzann.com/products/andy-trouser-in-silk-crepe-washed-black-size-3x-regular-ready-to-ship",
+    "source": "elizsuzann",
+    "candidateIds": [
+      "elizsuzann-9025131806889-image-39736641388713",
+      "elizsuzann-9025131806889-image-39736641454249"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0850-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://elizabethsuzann.com/products/florence-101-sew-your-first-pair-of-pants",
+    "source": "elizsuzann",
+    "candidateIds": [
+      "elizsuzann-9021189357737-image-41741752336553",
+      "elizsuzann-9021189357737-image-44643705028777"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0850-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://elizabethsuzann.com/products/florence-pant-in-silk-crepe-moss-size-s-regular-sample-sale",
+    "source": "elizsuzann",
+    "candidateIds": [
+      "elizsuzann-8941615677609-image-39740323037353",
+      "elizsuzann-8941615677609-image-39740323135657"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0850-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://elizabethsuzann.com/products/georgia-101-learn-to-sew-our-favorite-top",
+    "source": "elizsuzann",
+    "candidateIds": [
+      "elizsuzann-8633849512105-image-28883924385961",
+      "elizsuzann-8633849512105-image-43358028562601"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0850-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://elizabethsuzann.com/products/vintage-oscar-de-la-renta-blouse-size-xs-sample-sale-b-20",
+    "source": "elizsuzann",
+    "candidateIds": [
+      "elizsuzann-9021181788329-image-44643543679145",
+      "elizsuzann-9021181788329-image-44643543744681"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0850-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://flic.kr/p/214fzeN",
     "source": "fashionpedia",
     "candidateIds": [
@@ -111510,6 +111580,118 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://senestudio.com/products/estate-blazer",
+    "source": "senestudio",
+    "candidateIds": [
+      "senestudio-9028361683141-image-44046692516037",
+      "senestudio-9028361683141-image-44046692679877"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0845-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://senestudio.com/products/estate-blazer-manor-glen-check",
+    "source": "senestudio",
+    "candidateIds": [
+      "senestudio-9028361715909-image-44046695923909",
+      "senestudio-9028361715909-image-44046696317125"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0845-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://senestudio.com/products/estate-blazer-russet-houndstooth",
+    "source": "senestudio",
+    "candidateIds": [
+      "senestudio-9028361781445-image-44046886437061",
+      "senestudio-9028361781445-image-44046887026885"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0845-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://senestudio.com/products/estate-blazer-smoked-oak-herringbone",
+    "source": "senestudio",
+    "candidateIds": [
+      "senestudio-9028361814213-image-44046693073093",
+      "senestudio-9028361814213-image-44046693400773"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0845-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://senestudio.com/products/estate-blazer-tobacco-houndstooth",
+    "source": "senestudio",
+    "candidateIds": [
+      "senestudio-9028361846981-image-44046699069637",
+      "senestudio-9028361846981-image-44046699200709"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0845-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-charcoal",
+    "source": "senestudio",
+    "candidateIds": [
+      "senestudio-9028296212677-image-44090418102469",
+      "senestudio-9028296212677-image-44090418135237"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0855-tailoring/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-dark-navy",
+    "source": "senestudio",
+    "candidateIds": [
+      "senestudio-9028296245445-image-44090418888901",
+      "senestudio-9028296245445-image-44090418921669"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0855-tailoring/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-taupe",
+    "source": "senestudio",
+    "candidateIds": [
+      "senestudio-9028296278213-image-44090416562373",
+      "senestudio-9028296278213-image-44090416627909"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0845-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

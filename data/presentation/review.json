@@ -69525,6 +69525,61 @@
       "sheet": 1,
       "batch": "2026-09-18T0810-targeted",
       "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0810-targeted/sheets/01.jpg"
+    },
+    {
+      "id": "senestudio-9028361715909-image-44046696317125",
+      "sha256": "e07594e5372c2211315309636cf295d7a07f90b7e78917b6d6eadbf84c08af27",
+      "evidence": "M",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 7,
+      "originalCollectionOrdinal": 7,
+      "sheet": 0,
+      "batch": "2026-09-18T0845-targeted",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0845-targeted/sheets/00.jpg"
+    },
+    {
+      "id": "senestudio-9028361683141-image-44046692516037",
+      "sha256": "820fd7c4617eb61158f87389ff670d326aaff42db60b08daa7203a73056d59a4",
+      "evidence": "C",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 8,
+      "originalCollectionOrdinal": 8,
+      "sheet": 0,
+      "batch": "2026-09-18T0845-targeted",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0845-targeted/sheets/00.jpg"
+    },
+    {
+      "id": "elizsuzann-9025131806889-image-39736641454249",
+      "sha256": "1c3f7b86caada873e8b7408d7f62df1805ff3c6b3ee10c7cb56a291c1c630c23",
+      "evidence": "U",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 0,
+      "originalCollectionOrdinal": 0,
+      "sheet": 0,
+      "batch": "2026-09-18T0850-contours",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0850-contours/sheets/00.jpg"
+    },
+    {
+      "id": "elizsuzann-8941615677609-image-39740323037353",
+      "sha256": "72544f35ce968c3e689cdae0f27d2b08a8db4d32f7ffcaf952753cbed15f9309",
+      "evidence": "F",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 3,
+      "originalCollectionOrdinal": 3,
+      "sheet": 0,
+      "batch": "2026-09-18T0850-contours",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0850-contours/sheets/00.jpg"
+    },
+    {
+      "id": "elizsuzann-8633849512105-image-28883924385961",
+      "sha256": "e4b443338ffee3ab6d934f64d352901995e36885d009ac685f551b8b0f26bd55",
+      "evidence": "U",
+      "reviewedAt": "2026-09-18",
+      "ordinal": 5,
+      "originalCollectionOrdinal": 5,
+      "sheet": 0,
+      "batch": "2026-09-18T0850-contours",
+      "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0850-contours/sheets/00.jpg"
     }
   ]
 }

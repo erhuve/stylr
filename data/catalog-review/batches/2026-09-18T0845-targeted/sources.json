@@ -1,0 +1,117 @@
+{
+  "retrievedAt": "2026-09-18T08:32:43.548286+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "senestudio",
+      "pages": [
+        {
+          "url": "https://senestudio.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T08:32:41.447372+00:00",
+          "snapshotSha256": "f2600731ca2bb0ed3f55381c70d144606eec846e56db6cfa4c63492a4d89a416"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "senestudio-9028361846981-image-44046699069637",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00374_a6be9660-5821-48d5-877e-68197ebda552.jpg?v=1789501465",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer-tobacco-houndstooth",
+          "sha256": "e7fa795c28a212db943c5e706d83a7cff66ebe25963f3643c5a175834ee18594",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028361846981-image-44046699200709",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00377_18d2bae9-e4fd-496e-88e0-44b8224acf68.jpg?v=1789501469",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer-tobacco-houndstooth",
+          "sha256": "e64c34ca3bfa236f6b121928c303437aa4381badec7c57549496987f09b53695",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028361814213-image-44046693073093",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00149_8f900149-580c-40c9-bd94-b9e498d0c1d9.jpg?v=1789501363",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer-smoked-oak-herringbone",
+          "sha256": "4893a4c5bae3fca928d0d20dc9ffb7950314bb7df254204f5123d9883b3bea59",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028361814213-image-44046693400773",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00154_a9881d17-1d83-44ce-94c0-5617ee6af17b.jpg?v=1789501367",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer-smoked-oak-herringbone",
+          "sha256": "69832f54db04f6dda24cf0b466e9584d0d28467bc4c5aee57d5f59f96d0e8e04",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028361781445-image-44046886437061",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00138_66370bd4-5d24-4b5d-9eef-6c198702c1b5.jpg?v=1789502598",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer-russet-houndstooth",
+          "sha256": "753dd46c23136bf391565a4c6ed20c61a9df4033092d6d9bf45419e1766a5956",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028361781445-image-44046887026885",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00139_40058668-8638-40b5-ba81-518f6722e1d5.jpg?v=1789502601",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer-russet-houndstooth",
+          "sha256": "2d8ad406de0c58cb1bc47abcdede199640a52eecab89a173f7811415c1c88090",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028361715909-image-44046695923909",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00360_86961017-d4b7-4bac-9cac-c84494afc7e2.jpg?v=1789501416",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer-manor-glen-check",
+          "sha256": "6611c8e7420f3e8a0d4c0df25396e74d017194f1aaa742aff7167f2ce3912a3a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028361715909-image-44046696317125",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/3_4-body_1_923386e2-cee6-4cd2-b4f9-d68c716f698b.jpg?v=1789501424",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer-manor-glen-check",
+          "sha256": "e07594e5372c2211315309636cf295d7a07f90b7e78917b6d6eadbf84c08af27",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028361683141-image-44046692516037",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00032.jpg?v=1789501357",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer",
+          "sha256": "820fd7c4617eb61158f87389ff670d326aaff42db60b08daa7203a73056d59a4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028361683141-image-44046692679877",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00092_0a8e9f82-9804-451d-ac68-bbb2b8218406.jpg?v=1789501359",
+          "sourceUrl": "https://senestudio.com/products/estate-blazer",
+          "sha256": "efdd6dbe5c941ccbf73205df423430d5dd703c792c7ce385710e6be4bb0972bc",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028296278213-image-44090416627909",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/3_8ff449a2-c115-4374-90b0-40f9f3db403c.jpg?v=1789688665",
+          "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-taupe",
+          "sha256": "06092580721cc25f6206666faa66921291f02564f573f05c1fca56e8bcf22f0d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028296278213-image-44090416562373",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/1_256a0845-b76a-4dde-aebe-5ed8fd4aa617.jpg?v=1789688666",
+          "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-taupe",
+          "sha256": "aa693ffdc7f494f4ce49ec7f6a70ef09196493ab39520a78ee194b84e607a8a7",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "alicealexander",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://alicealexander.co/products.json?limit=250&page=1",
+          "error": "Expecting value: line 1 column 1 (char 0)"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    }
+  ]
+}

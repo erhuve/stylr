@@ -181,6 +181,15 @@
       "deferredPages": 217
     },
     {
+      "source": "elizsuzann",
+      "sampledPages": 5,
+      "candidateImages": 10,
+      "reviewedExpansionCandidates": 10,
+      "admittedExpansionPhotos": 3,
+      "completeExpansionReferences": 0,
+      "deferredPages": 41
+    },
+    {
       "source": "fashionpedia",
       "sampledPages": 7263,
       "candidateImages": 7263,
@@ -449,6 +458,15 @@
       "admittedExpansionPhotos": 2,
       "completeExpansionReferences": 0,
       "deferredPages": 155
+    },
+    {
+      "source": "senestudio",
+      "sampledPages": 8,
+      "candidateImages": 16,
+      "reviewedExpansionCandidates": 16,
+      "admittedExpansionPhotos": 2,
+      "completeExpansionReferences": 0,
+      "deferredPages": 239
     },
     {
       "source": "shinybynature",
@@ -42773,6 +42791,311 @@
             }
           ],
           "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0840-targeted/sources.json",
+      "retrievedAt": "2026-09-18T08:32:19.564113+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "johnnybigg",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://johnnybigg.com/products.json?limit=250&page=1",
+              "error": "404 Client Error: Not Found for url: https://www.johnnybigg.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "loudbodies",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://loudbodies.com/products.json?limit=250&page=1",
+              "error": "Expecting value: line 1 column 1 (char 0)"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0845-targeted/sources.json",
+      "retrievedAt": "2026-09-18T08:32:43.548286+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "senestudio",
+          "pages": [
+            {
+              "url": "https://senestudio.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T08:32:41.447372+00:00",
+              "snapshotSha256": "f2600731ca2bb0ed3f55381c70d144606eec846e56db6cfa4c63492a4d89a416"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "senestudio-9028361846981-image-44046699069637",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00374_a6be9660-5821-48d5-877e-68197ebda552.jpg?v=1789501465",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer-tobacco-houndstooth",
+              "sha256": "e7fa795c28a212db943c5e706d83a7cff66ebe25963f3643c5a175834ee18594",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028361846981-image-44046699200709",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00377_18d2bae9-e4fd-496e-88e0-44b8224acf68.jpg?v=1789501469",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer-tobacco-houndstooth",
+              "sha256": "e64c34ca3bfa236f6b121928c303437aa4381badec7c57549496987f09b53695",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028361814213-image-44046693073093",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00149_8f900149-580c-40c9-bd94-b9e498d0c1d9.jpg?v=1789501363",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer-smoked-oak-herringbone",
+              "sha256": "4893a4c5bae3fca928d0d20dc9ffb7950314bb7df254204f5123d9883b3bea59",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028361814213-image-44046693400773",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00154_a9881d17-1d83-44ce-94c0-5617ee6af17b.jpg?v=1789501367",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer-smoked-oak-herringbone",
+              "sha256": "69832f54db04f6dda24cf0b466e9584d0d28467bc4c5aee57d5f59f96d0e8e04",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028361781445-image-44046886437061",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00138_66370bd4-5d24-4b5d-9eef-6c198702c1b5.jpg?v=1789502598",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer-russet-houndstooth",
+              "sha256": "753dd46c23136bf391565a4c6ed20c61a9df4033092d6d9bf45419e1766a5956",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028361781445-image-44046887026885",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00139_40058668-8638-40b5-ba81-518f6722e1d5.jpg?v=1789502601",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer-russet-houndstooth",
+              "sha256": "2d8ad406de0c58cb1bc47abcdede199640a52eecab89a173f7811415c1c88090",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028361715909-image-44046695923909",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00360_86961017-d4b7-4bac-9cac-c84494afc7e2.jpg?v=1789501416",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer-manor-glen-check",
+              "sha256": "6611c8e7420f3e8a0d4c0df25396e74d017194f1aaa742aff7167f2ce3912a3a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028361715909-image-44046696317125",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/3_4-body_1_923386e2-cee6-4cd2-b4f9-d68c716f698b.jpg?v=1789501424",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer-manor-glen-check",
+              "sha256": "e07594e5372c2211315309636cf295d7a07f90b7e78917b6d6eadbf84c08af27",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028361683141-image-44046692516037",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00032.jpg?v=1789501357",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer",
+              "sha256": "820fd7c4617eb61158f87389ff670d326aaff42db60b08daa7203a73056d59a4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028361683141-image-44046692679877",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/DSC00092_0a8e9f82-9804-451d-ac68-bbb2b8218406.jpg?v=1789501359",
+              "sourceUrl": "https://senestudio.com/products/estate-blazer",
+              "sha256": "efdd6dbe5c941ccbf73205df423430d5dd703c792c7ce385710e6be4bb0972bc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028296278213-image-44090416627909",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/3_8ff449a2-c115-4374-90b0-40f9f3db403c.jpg?v=1789688665",
+              "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-taupe",
+              "sha256": "06092580721cc25f6206666faa66921291f02564f573f05c1fca56e8bcf22f0d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028296278213-image-44090416562373",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/1_256a0845-b76a-4dde-aebe-5ed8fd4aa617.jpg?v=1789688666",
+              "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-taupe",
+              "sha256": "aa693ffdc7f494f4ce49ec7f6a70ef09196493ab39520a78ee194b84e607a8a7",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "alicealexander",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://alicealexander.co/products.json?limit=250&page=1",
+              "error": "Expecting value: line 1 column 1 (char 0)"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0850-contours/sources.json",
+      "retrievedAt": "2026-09-18T08:33:09.151862+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "elizsuzann",
+          "pages": [
+            {
+              "url": "https://elizabethsuzann.com/products.json?limit=250&page=1",
+              "products": 141,
+              "retrievedAt": "2026-09-18T08:33:07.246486+00:00",
+              "snapshotSha256": "d37a8af27826523b451463a59b696735c101ae8b9e076bb29becd3a8627b0417"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "elizsuzann-9025131806889-image-39736641454249",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/Elizabeth_Suzann_Andy_Trouser_Graphite_Washable_Silk_9.jpg?v=1755290682",
+              "sourceUrl": "https://elizabethsuzann.com/products/andy-trouser-in-silk-crepe-washed-black-size-3x-regular-ready-to-ship",
+              "sha256": "1c3f7b86caada873e8b7408d7f62df1805ff3c6b3ee10c7cb56a291c1c630c23",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "elizsuzann-9025131806889-image-39736641388713",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/Elizabeth_Suzann_Andy_Trouser_Graphite_Washable_Silk_5.jpg?v=1755290682",
+              "sourceUrl": "https://elizabethsuzann.com/products/andy-trouser-in-silk-crepe-washed-black-size-3x-regular-ready-to-ship",
+              "sha256": "804d116a7e9ab31b263a5f6bafbf3e1d0ae3d423422c623440628cd3bc208c82",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "elizsuzann-9007136571561-image-39736641454249",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/Elizabeth_Suzann_Andy_Trouser_Graphite_Washable_Silk_9.jpg?v=1755290682",
+              "sourceUrl": "https://elizabethsuzann.com/products/andy-trouser-in-silk-crepe-navy-size-l-tall-ready-to-ship",
+              "sha256": "1c3f7b86caada873e8b7408d7f62df1805ff3c6b3ee10c7cb56a291c1c630c23",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "elizsuzann-9007136571561-image-39736641388713",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/Elizabeth_Suzann_Andy_Trouser_Graphite_Washable_Silk_5.jpg?v=1755290682",
+              "sourceUrl": "https://elizabethsuzann.com/products/andy-trouser-in-silk-crepe-navy-size-l-tall-ready-to-ship",
+              "sha256": "804d116a7e9ab31b263a5f6bafbf3e1d0ae3d423422c623440628cd3bc208c82",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "elizsuzann-8941615677609-image-39740323135657",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/Elizabeth_Suzann_Florence_Pant_Ochre_Washable_Silk_4.jpg?v=1755291176",
+              "sourceUrl": "https://elizabethsuzann.com/products/florence-pant-in-silk-crepe-moss-size-s-regular-sample-sale",
+              "sha256": "2048a9002b4b3b545f5de90281f6889ca4bbe712b476ef63db816f08ba21fe8d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "elizsuzann-8941615677609-image-39740323037353",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/Elizabeth_Suzann_Florence_Pant_Ochre_Washable_Silk_5.jpg?v=1755291176",
+              "sourceUrl": "https://elizabethsuzann.com/products/florence-pant-in-silk-crepe-moss-size-s-regular-sample-sale",
+              "sha256": "72544f35ce968c3e689cdae0f27d2b08a8db4d32f7ffcaf952753cbed15f9309",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "elizsuzann-8633849512105-image-43358028562601",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/Georgia_1.png?v=1768079052",
+              "sourceUrl": "https://elizabethsuzann.com/products/georgia-101-learn-to-sew-our-favorite-top",
+              "sha256": "5a6ae7d150f92b8dac892b839482f43a268b65e92ac5e9e9227cb4fdec1e098c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "elizsuzann-8633849512105-image-28883924385961",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/products/MG_9438.jpg?v=1771704242",
+              "sourceUrl": "https://elizabethsuzann.com/products/georgia-101-learn-to-sew-our-favorite-top",
+              "sha256": "e4b443338ffee3ab6d934f64d352901995e36885d009ac685f551b8b0f26bd55",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "elizsuzann-9021189357737-image-44643705028777",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/Skool_Workshop_Covers_1460_x_752_px_2000_x_3000_px.png?v=1786997917",
+              "sourceUrl": "https://elizabethsuzann.com/products/florence-101-sew-your-first-pair-of-pants",
+              "sha256": "eb24acfd1ea5cdb0eb44d95b145d609eefae2fe2a0fe30164763075428b53f91",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "elizsuzann-9021189357737-image-41741752336553",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/Florence_Pant.png?v=1743650653",
+              "sourceUrl": "https://elizabethsuzann.com/products/florence-101-sew-your-first-pair-of-pants",
+              "sha256": "212d6818f4c4321770b4ed195b671362072e5e23ac7465cc830bc27cd3217b8a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "elizsuzann-9021181788329-image-44643543679145",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/IMG_3295.jpg?v=1786992963",
+              "sourceUrl": "https://elizabethsuzann.com/products/vintage-oscar-de-la-renta-blouse-size-xs-sample-sale-b-20",
+              "sha256": "206776a0d26142b41edd416d8b51e1302c1f7a3a573501775d5d587e5d9f8c36",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "elizsuzann-9021181788329-image-44643543744681",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0474/8573/files/IMG_3297.jpg?v=1786992962",
+              "sourceUrl": "https://elizabethsuzann.com/products/vintage-oscar-de-la-renta-blouse-size-xs-sample-sale-b-20",
+              "sha256": "fdcdc6d44eb0da43c7e69dddd016d8dfd20e36076b5667ff0b221e2cddff38e6",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 10
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0855-tailoring/sources.json",
+      "retrievedAt": "2026-09-18T08:33:43.415134+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 2 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "senestudio",
+          "pages": [
+            {
+              "url": "https://senestudio.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T08:33:42.966730+00:00",
+              "snapshotSha256": "f2600731ca2bb0ed3f55381c70d144606eec846e56db6cfa4c63492a4d89a416"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "senestudio-9028296245445-image-44090418921669",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/2_ff52a1c4-f155-4ca3-a0c7-aa5cacddf745.jpg?v=1789688688",
+              "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-dark-navy",
+              "sha256": "185eefa8f04e23117867ac9d8ebef9949af5708c4fbf2f1b84a906e40f9ddd0a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028296245445-image-44090418888901",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/1_b363a8d9-995f-47a5-a20c-9c66da681f1a.jpg?v=1789688688",
+              "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-dark-navy",
+              "sha256": "9be503d2469b70547d8b0886d8df313f1521705d92d96e57e1b6c85433725119",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028296212677-image-44090418135237",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/2_4fb9681d-4bd5-4018-907c-c2d9255cbfe7.jpg?v=1789688680",
+              "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-charcoal",
+              "sha256": "daca2647ae053f7acace41614bc7b6dd2d3a2f8d0e53cc27a25645a17b83b06e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "senestudio-9028296212677-image-44090418102469",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/1_5cb4269a-0acb-4672-840e-4561eb406fba.jpg?v=1789688680",
+              "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-charcoal",
+              "sha256": "ad7dea119f02524d39ee55e6f73357d2b10ac75134d5ee6cfbce52ca806c7d3d",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 4
         }
       ]
     }

@@ -1,0 +1,30 @@
+{
+  "retrievedAt": "2026-09-18T08:32:19.564113+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "johnnybigg",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://johnnybigg.com/products.json?limit=250&page=1",
+          "error": "404 Client Error: Not Found for url: https://www.johnnybigg.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "loudbodies",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://loudbodies.com/products.json?limit=250&page=1",
+          "error": "Expecting value: line 1 column 1 (char 0)"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    }
+  ]
+}

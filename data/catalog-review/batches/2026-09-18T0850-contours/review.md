@@ -1,0 +1,3 @@
+# Elizabeth Suzann direct review
+
+2026-09-18: all ten candidates inspected on one bound sheet, followed by enlarged originals 0, 3 and 5. Three ensembles retained: one feminine and two unclear. Three lean apparent-build observations; no complete body reference. One rear view, two product details, three promotional collages and one repeated crop excluded. Tied fabric, loose trousers and seated posture prevent contour labels. Source listing preserves all 141 product decisions; six selected pages yield ten exact-unique images. Workshop pages are poor future leads despite apparel words. No source text supplies body labels. No deployment.

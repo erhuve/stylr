@@ -1,22 +1,22 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7274,
-  "reviewedPhotos": 7274,
+  "catalogPhotos": 7279,
+  "reviewedPhotos": 7279,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1208,
+      "photos": 1210,
       "percent": 16.6,
-      "sourcePages": 1143,
-      "sourceHosts": 49,
+      "sourcePages": 1145,
+      "sourceHosts": 50,
       "completeReferences": 44,
       "byBuild": {
         "1": 3,
         "2": 143,
         "3": 65,
-        "unknown": 369,
+        "unknown": 371,
         "2.5": 61,
         "1.5": 567
       },
@@ -30,17 +30,17 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4071,
-      "percent": 56,
-      "sourcePages": 3629,
-      "sourceHosts": 36,
+      "photos": 4072,
+      "percent": 55.9,
+      "sourcePages": 3630,
+      "sourceHosts": 37,
       "completeReferences": 148,
       "byBuild": {
         "1": 27,
         "2": 394,
         "3": 252,
         "unknown": 579,
-        "1.5": 2538,
+        "1.5": 2539,
         "2.5": 281
       },
       "completeByBuild": {
@@ -70,16 +70,16 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1826,
+      "photos": 1828,
       "percent": 25.1,
-      "sourcePages": 1701,
-      "sourceHosts": 62,
+      "sourcePages": 1703,
+      "sourceHosts": 63,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
         "2": 154,
         "3": 215,
-        "1.5": 824,
+        "1.5": 826,
         "unknown": 516,
         "2.5": 110
       },
@@ -1272,6 +1272,65 @@
           "completeReferences": 0,
           "byBuild": {
             "2.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "elizabethsuzann.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 1,
+          "percent": 33.3,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 2,
+          "percent": 66.7,
+          "sourcePages": 2,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 2
           },
           "completeByBuild": {}
         },
@@ -2899,6 +2958,63 @@
             "unknown": 1,
             "1.5": 1
           },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "senestudio.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 2,
+          "percent": 100,
+          "sourcePages": 2,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "unknown": 2
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
           "completeByBuild": {}
         },
         {

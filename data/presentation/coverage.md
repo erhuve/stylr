@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7274/7274; unreviewed: 0.
+Reviewed: 7279/7279; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1208 | 16.6% | 1143 | 49 | 44 |
-| feminine | 4071 | 56% | 3629 | 36 | 148 |
+| masculine | 1210 | 16.6% | 1145 | 50 | 44 |
+| feminine | 4072 | 55.9% | 3630 | 37 | 148 |
 | mixed-androgynous | 169 | 2.3% | 162 | 11 | 2 |
-| unclear | 1826 | 25.1% | 1701 | 62 | 97 |
+| unclear | 1828 | 25.1% | 1703 | 63 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":143,"3":65,"unknown":369,"2.5":61,"1.5":567} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":394,"3":252,"unknown":579,"1.5":2538,"2.5":281} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| masculine | {"1":3,"2":143,"3":65,"unknown":371,"2.5":61,"1.5":567} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":394,"3":252,"unknown":579,"1.5":2539,"2.5":281} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":75} | {"1.5":2} |
-| unclear | {"1":7,"2":154,"3":215,"1.5":824,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":154,"3":215,"1.5":826,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -49,6 +49,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | dapperboi.com | 3 | 0 | 0 | 8 | 0 |
 | disturbia.co.uk | 0 | 32 | 0 | 5 | 0 |
 | dixxon.com | 1 | 1 | 0 | 1 | 0 |
+| elizabethsuzann.com | 0 | 1 | 0 | 2 | 0 |
 | flic.kr | 313 | 2260 | 28 | 596 | 0 |
 | flickr.com | 22 | 168 | 5 | 42 | 0 |
 | forestinkclothing.com | 0 | 78 | 0 | 2 | 0 |
@@ -73,6 +74,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | punkrave.ch | 13 | 35 | 5 | 7 | 0 |
 | roark.com | 1 | 0 | 0 | 1 | 0 |
 | saturdaysnyc.com | 0 | 0 | 0 | 2 | 0 |
+| senestudio.com | 2 | 0 | 0 | 0 | 0 |
 | shinybynature.com | 0 | 77 | 0 | 32 | 0 |
 | shopduer.com | 2 | 0 | 0 | 1 | 0 |
 | shopmyviolet.com | 0 | 137 | 0 | 7 | 0 |

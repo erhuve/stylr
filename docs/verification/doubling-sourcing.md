@@ -1,6 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,274 photos; 2,938 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,279 photos; 2,933 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: Sene and Elizabeth Suzann
+
+The 08:30 UTC run directly reviews 26 candidates across batches `2026-09-18T0840-targeted` through `2026-09-18T0855-tailoring`, using three bound sheets and three enlarged originals. Five outfits are admitted from two new publishers: two masculine, one feminine and two unclear. Fifteen isolated products/details, one rear view, three promotional collages and two repeated poses/crops are excluded. Sixteen candidate reviews target tailoring. Johnny Bigg returns HTTP 404; Loud Bodies and Alice Alexander return non-JSON content. These failures remain in source history. Three successful first-page snapshots preserve all 641 listing decisions. Bounded first/third-gallery searches do not establish source exhaustion.
+
+Totals: 7,279 photos, 5,729 build observations and 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear). Presentation totals: 1,210 masculine, 4,072 feminine, 169 mixed and 1,828 unclear. Three build observations add no complete-reference or required-body-filter gain; all 45 sampled settings remain unchanged, including the 54-match broader-build benchmark. All 3,744 pending training rows remain byte-identical from original ordinal 1056. Append after `0855-tailoring`. Prioritize actual full-front fitted collared ensembles and independent fuller-build untied separates; flat blazers, knit detail galleries and sewing-workshop listings have poor yield. No deployment.
+
+Preservation passes for all 6,889 prior expansion photo/asset/body records and 7,274 presentation rows. All 6,894 expansion asset digests, 26 candidate bindings, three sheets and three listing snapshots pass. Admission replay, complete presentation audit, original-photo identity, typecheck, library audit and all 45 body-grid comparisons pass. All 131 unit checks pass in one run (177,049 assertions, 366.00 seconds), including sourcing regressions. All 86 browser checks pass in 3.8 minutes, including every catalog image. No checks remain pending or failing. Logs are retained under external `expansion-2026-09-18T0840-targeted`. Only exact catalog/body/source-group expectations changed; assertions and budgets remain intact. Remote main is included and personal-discovery is unchanged at the final pre-push fetch. No deployment.
+
+Inventory records 11,829 sampled pages, 45,117 deferred pages, 76 source keys and 91 runs. The deferred queue includes saved archive candidates and is not a promise of suitable images; training intake remains 3,744 separately bound pending rows.
 
 ## Current continuation: Outerknown and Nooworks
 

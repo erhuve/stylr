@@ -1,0 +1,49 @@
+{
+  "retrievedAt": "2026-09-18T08:33:43.415134+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 2 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "senestudio",
+      "pages": [
+        {
+          "url": "https://senestudio.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T08:33:42.966730+00:00",
+          "snapshotSha256": "f2600731ca2bb0ed3f55381c70d144606eec846e56db6cfa4c63492a4d89a416"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "senestudio-9028296245445-image-44090418921669",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/2_ff52a1c4-f155-4ca3-a0c7-aa5cacddf745.jpg?v=1789688688",
+          "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-dark-navy",
+          "sha256": "185eefa8f04e23117867ac9d8ebef9949af5708c4fbf2f1b84a906e40f9ddd0a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028296245445-image-44090418888901",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/1_b363a8d9-995f-47a5-a20c-9c66da681f1a.jpg?v=1789688688",
+          "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-dark-navy",
+          "sha256": "9be503d2469b70547d8b0886d8df313f1521705d92d96e57e1b6c85433725119",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028296212677-image-44090418135237",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/2_4fb9681d-4bd5-4018-907c-c2d9255cbfe7.jpg?v=1789688680",
+          "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-charcoal",
+          "sha256": "daca2647ae053f7acace41614bc7b6dd2d3a2f8d0e53cc27a25645a17b83b06e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "senestudio-9028296212677-image-44090418102469",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0615/7913/files/1_5cb4269a-0acb-4672-840e-4561eb406fba.jpg?v=1789688680",
+          "sourceUrl": "https://senestudio.com/products/mariner-rib-knit-sweater-charcoal",
+          "sha256": "ad7dea119f02524d39ee55e6f73357d2b10ac75134d5ee6cfbce52ca806c7d3d",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 4
+    }
+  ]
+}
