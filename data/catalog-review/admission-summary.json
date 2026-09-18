@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10937,
-  "admittedPhotos": 7043,
-  "totalPhotos": 7428,
+  "reviewedCandidates": 10967,
+  "admittedPhotos": 7052,
+  "totalPhotos": 7437,
   "axisSupport": {
-    "build": 5732,
-    "shoulderHip": 321,
+    "build": 5741,
+    "shoulderHip": 323,
     "waist": 607
   },
   "completeReferences": 252,
-  "sourcePages": 6480,
+  "sourcePages": 6489,
   "excludedReasons": {
-    "non-outfit-view": 3836,
+    "non-outfit-view": 3857,
     "existing-source-page": 58
   },
   "excluded": [
@@ -15588,6 +15588,90 @@
     },
     {
       "id": "americangiant-8192544374965-image-40490964320437",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bluffworks-8373703245963-image-42956641337483",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bluffworks-8373703245963-image-42956641370251",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bluffworks-8373715730571-image-42956700745867",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bluffworks-8299865735307-image-43282625593483",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "bluffworks-8299865735307-image-43282625724555",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-7657710714950-image-39783303675974",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-7622263603270-image-39783257636934",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-7806657298502-image-36478912495686",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-8132564484166-image-39731616907334",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-8132563861574-image-39731618349126",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "wooland-8132563370054-image-39731619332166",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8505983140027-image-43096146837691",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8505983140027-image-43096146968763",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8505982681275-image-43096138940603",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8505982484667-image-43096127144123",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8505982484667-image-43096127307963",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8502964748475-image-43096174919867",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8502964748475-image-43096174952635",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8502949019835-image-43096168988859",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8466166513851-image-40265036202171",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "twillory-8466166513851-image-40265036333243",
       "reason": "non-outfit-view"
     }
   ]

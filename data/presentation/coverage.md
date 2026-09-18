@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7428/7428; unreviewed: 0.
+Reviewed: 7437/7437; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1247 | 16.8% | 1182 | 64 | 46 |
-| feminine | 4126 | 55.5% | 3682 | 47 | 149 |
+| masculine | 1250 | 16.8% | 1185 | 65 | 46 |
+| feminine | 4129 | 55.5% | 3685 | 47 | 149 |
 | mixed-androgynous | 171 | 2.3% | 164 | 13 | 2 |
-| unclear | 1884 | 25.4% | 1759 | 80 | 97 |
+| unclear | 1887 | 25.4% | 1762 | 80 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":163,"3":65,"unknown":378,"2.5":62,"1.5":576} | {"1":1,"2":19,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":398,"3":262,"unknown":584,"1.5":2566,"2.5":289} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":31} |
+| masculine | {"1":3,"2":163,"3":65,"unknown":378,"2.5":62,"1.5":579} | {"1":1,"2":19,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":399,"3":262,"unknown":584,"1.5":2568,"2.5":289} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":31} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":77} | {"1.5":2} |
-| unclear | {"1":7,"2":166,"3":217,"1.5":852,"unknown":526,"2.5":116} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":167,"3":217,"1.5":854,"unknown":526,"2.5":116} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -96,6 +96,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | scottfrasercollection.com | 0 | 0 | 0 | 1 | 0 |
 | senestudio.com | 2 | 0 | 0 | 0 | 0 |
 | shinybynature.com | 0 | 77 | 0 | 32 | 0 |
+| shop.bluffworks.com | 1 | 0 | 0 | 0 | 0 |
 | shopduer.com | 2 | 0 | 0 | 1 | 0 |
 | shopmyviolet.com | 0 | 137 | 0 | 7 | 0 |
 | snagtights.com | 2 | 243 | 0 | 82 | 0 |
@@ -113,7 +114,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | tradlands.com | 0 | 4 | 0 | 1 | 0 |
 | trippnyc.com | 11 | 11 | 1 | 10 | 0 |
 | trueclassictees.com | 3 | 0 | 0 | 9 | 0 |
-| twillory.com | 5 | 0 | 0 | 0 | 0 |
+| twillory.com | 7 | 0 | 0 | 0 | 0 |
 | under510.com | 2 | 0 | 0 | 5 | 0 |
 | universalstandard.com | 3 | 49 | 0 | 34 | 0 |
 | universalworks.com | 16 | 0 | 0 | 1 | 0 |
@@ -123,7 +124,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | waxlondon.com | 1 | 0 | 0 | 1 | 0 |
 | wear.jp | 269 | 57 | 11 | 255 | 0 |
 | wildfang.com | 102 | 9 | 3 | 65 | 0 |
-| wooland.com | 0 | 4 | 0 | 2 | 0 |
+| wooland.com | 0 | 7 | 0 | 5 | 0 |
 | woolandprince.com | 0 | 0 | 0 | 3 | 0 |
 
 Source-page counts can overlap between categories. Repeated models, shoots and gallery poses are not independent people. Counts establish image coverage only.

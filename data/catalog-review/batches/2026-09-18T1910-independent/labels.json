@@ -1,0 +1,482 @@
+[
+  {
+    "id": "bluffworks-8373703245963-image-42956641337483",
+    "source": "bluffworks",
+    "sourceUrl": "https://shop.bluffworks.com/products/presidio-dress-pants-slim-fit-asphalt-black",
+    "localPath": "images/bluffworks-8373703245963-image-42956641337483.webp",
+    "sha256": "602bc5e0182fbce424755f21c23cdba3e29adc16551d33f191df575d1d84e219",
+    "ordinal": 0,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulderless trouser product crop; no complete upper ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bluffworks-8373703245963-image-42956641370251",
+    "source": "bluffworks",
+    "sourceUrl": "https://shop.bluffworks.com/products/presidio-dress-pants-slim-fit-asphalt-black",
+    "localPath": "images/bluffworks-8373703245963-image-42956641370251.webp",
+    "sha256": "fb6713319ca40aa672c6c9ff53bfc2917e8d30f23748c8c0085cb71e81c9b21a",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated shoulderless trouser product crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bluffworks-8373715730571-image-42956700713099",
+    "source": "bluffworks",
+    "sourceUrl": "https://shop.bluffworks.com/products/presidio-blazer-classic-fit-asphalt-black",
+    "localPath": "images/bluffworks-8373715730571-image-42956700713099.webp",
+    "sha256": "5df29d6bef9a115b03493bbc1a99404a0be901f2e0ff9406b65d75e7b7d12c7f",
+    "ordinal": 2,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black suit with white shirt and narrow black tie; structured jacket and hand in pocket conceal contours, legs cropped.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bluffworks-8373715730571-image-42956700745867",
+    "source": "bluffworks",
+    "sourceUrl": "https://shop.bluffworks.com/products/presidio-blazer-classic-fit-asphalt-black",
+    "localPath": "images/bluffworks-8373715730571-image-42956700745867.webp",
+    "sha256": "0e678e5ed994217b42fc24d75e851cbb3af48867f9d8913c9da02d653ff60687",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated black suit ensemble from ordinal 2 in turned pose.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bluffworks-8299865735307-image-43282625593483",
+    "source": "bluffworks",
+    "sourceUrl": "https://shop.bluffworks.com/products/ascender-chino-regular-fit-desert-sage",
+    "localPath": "images/bluffworks-8299865735307-image-43282625593483.webp",
+    "sha256": "7d06e07e19a4574836ae0a1f6263ccd1a2b1a518fae065d38b4a63b1bb382bcd",
+    "ordinal": 4,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulderless grey trouser and navy tee crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "bluffworks-8299865735307-image-43282625724555",
+    "source": "bluffworks",
+    "sourceUrl": "https://shop.bluffworks.com/products/ascender-chino-regular-fit-desert-sage",
+    "localPath": "images/bluffworks-8299865735307-image-43282625724555.webp",
+    "sha256": "442f490f3be87da2b7a6c3931a9d91ce38471b1e7ee7940f6abf6cae00a52bc9",
+    "ordinal": 5,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated shoulderless grey trouser product view.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-7657710714950-image-39783303610438",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-black",
+    "localPath": "images/wooland-7657710714950-image-39783303610438.webp",
+    "sha256": "3c849fb0ca357a713f71c4369336e0b8b5cc045f48144d22bb92c8a076da0ea8",
+    "ordinal": 6,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": 0.0,
+      "waist": null
+    },
+    "evidence": "Enlarged: fitted brown button cardigan, black flared trousers and blue heeled sandals; roughly balanced shoulder and hip span, cardigan hem and drape obscure waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-7657710714950-image-39783303675974",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-black",
+    "localPath": "images/wooland-7657710714950-image-39783303675974.webp",
+    "sha256": "bc5922fa9ba861c611843ccdb78a9eb76702996b0214d7ffe74ba7beb25d52da",
+    "ordinal": 7,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of cardigan and trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-7622263603270-image-39783257571398",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-washed-navy",
+    "localPath": "images/wooland-7622263603270-image-39783257571398.webp",
+    "sha256": "6ed7d24142d9c624f3358e24c3b8ae61749dde49943c91b98b37e0eb3f14f0a3",
+    "ordinal": 8,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue crew knit, dark trousers and casual sneakers; crossed bent leg, turned upper torso and hand in pocket obscure balance and waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-7622263603270-image-39783257636934",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-washed-navy",
+    "localPath": "images/wooland-7622263603270-image-39783257636934.webp",
+    "sha256": "4264c14d42d7076d2ec5f04926f21c5aff82ba3f8f0ee3f4c7b4bd83f736df2c",
+    "ordinal": 9,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of blue knit and trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-7806657298502-image-36478912528454",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-charcoal-heather",
+    "localPath": "images/wooland-7806657298502-image-36478912528454.webp",
+    "sha256": "1b6270c2aedd866722b5708db060647a1bc4a658e29fef2763c3aaf99faf428d",
+    "ordinal": 10,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Enlarged: burgundy crew knit tucked into grey flared trousers with flat shoes; arms pulled behind torso and asymmetrical hip shift obscure reliable proportional axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-7806657298502-image-36478912495686",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-charcoal-heather",
+    "localPath": "images/wooland-7806657298502-image-36478912495686.webp",
+    "sha256": "d8b8231717e0f7d0e97e41dea8076a82ea45100d4faeac6bc46f2f6e7d64124d",
+    "ordinal": 11,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated burgundy knit and grey trouser ensemble from ordinal 10.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-8132564484166-image-39731616907334",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-espresso",
+    "localPath": "images/wooland-8132564484166-image-39731616907334.webp",
+    "sha256": "accd841299020c7bde1c2e3dff098ee2d0d3360d9872d2ce79fd04b09f89f19b",
+    "ordinal": 12,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Close upper torso crop; full skirt-led ensemble at ordinal 13.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-8132564484166-image-39731616972870",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-espresso",
+    "localPath": "images/wooland-8132564484166-image-39731616972870.webp",
+    "sha256": "7c3df6d6dac8273a097e8e740cd487a3197e5d45dfc7024844a614f2aca97c14",
+    "ordinal": 13,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark fitted crew knit, blue A-line knee skirt and patterned flats; skirt conceals hip boundary and tucked waistband shapes waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-8132563861574-image-39731618349126",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-plum",
+    "localPath": "images/wooland-8132563861574-image-39731618349126.webp",
+    "sha256": "d23cc4df605fcfc0775c722d8609ad492ec051fb74c912fc5404068e5517aca4",
+    "ordinal": 14,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped repeat of plum knit and wide trouser ensemble shown fully at ordinal 15.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-8132563861574-image-39731618414662",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-plum",
+    "localPath": "images/wooland-8132563861574-image-39731618414662.webp",
+    "sha256": "13ef48e030e868c8f8bb0ec73a34e7c322eacdf67bdbf792c223e85f9446bc00",
+    "ordinal": 15,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Plum crew knit, burgundy wide trousers and brown ankle boots; turned torso and loose trouser silhouette obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-8132563370054-image-39731619332166",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-black",
+    "localPath": "images/wooland-8132563370054-image-39731619332166.webp",
+    "sha256": "847dd856ad9c7395a3c5b1d5e8a7f37ca40be3d480b00fa9fd829f938e473ce0",
+    "ordinal": 16,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Enlarged: cropped black knit and trouser ensemble repeated at full length in ordinal 17; crossed hands obscure waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "wooland-8132563370054-image-39731619299398",
+    "source": "wooland",
+    "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-black",
+    "localPath": "images/wooland-8132563370054-image-39731619299398.webp",
+    "sha256": "ca1716ad989e658d4c99cc0d085565127883d995fb946e559ff08af49ec6c9a1",
+    "ordinal": 17,
+    "view": "full",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Black fitted knit and cropped wide trousers with low heeled sandals, necklace and handbag; side angle and bag obscure frontal contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8505983140027-image-43096146837691",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-navy-melange",
+    "localPath": "images/twillory-8505983140027-image-43096146837691.webp",
+    "sha256": "5a23cbbcb0e8da4a6ec95e66b583e70fcc352f343dc4b7590fb228fcf0e9ff28",
+    "ordinal": 18,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue collared shirt and trouser ensemble repeats prior Twillory admission with minor color variation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8505983140027-image-43096146968763",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-navy-melange",
+    "localPath": "images/twillory-8505983140027-image-43096146968763.webp",
+    "sha256": "bf189c859f3267284eb67aef3e39317bde3844a921fb2f1dc6a4f4f27dca3c05",
+    "ordinal": 19,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Folded blue shirt only; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8505982681275-image-43096138776763",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-heather-light-grey",
+    "localPath": "images/twillory-8505982681275-image-43096138776763.webp",
+    "sha256": "d45bf144145c49566374758f38b73f99d1bfa40d8036ae489c69d48ddca4eca8",
+    "ordinal": 20,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Pale collared shirt, grey sweater tied over shoulders and black trousers; added draped layer distinguishes ensemble, hands and sweater obscure axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8505982681275-image-43096138940603",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-heather-light-grey",
+    "localPath": "images/twillory-8505982681275-image-43096138940603.webp",
+    "sha256": "47c19d2ed45d0850408a3140ae2e07d8ea5af5f8a404b6fdd1ced9885b7f214a",
+    "ordinal": 21,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Textile close-up only.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8505982484667-image-43096127144123",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-houndstooth-brick",
+    "localPath": "images/twillory-8505982484667-image-43096127144123.webp",
+    "sha256": "d51d0bcee13fe86c961d97f28f1bc19e4978faf0987ff1bea1c482f039f00065",
+    "ordinal": 22,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Enlarged: tucked rose collared shirt and dark trousers repeat prior collared basic ensemble with minor color and accessory change.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8505982484667-image-43096127307963",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-houndstooth-brick",
+    "localPath": "images/twillory-8505982484667-image-43096127307963.webp",
+    "sha256": "9df527809ba1bc17acad5d9656abd68ca44066c88f41a7042afb5479d0734a9d",
+    "ordinal": 23,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Folded rose shirt only; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8502964748475-image-43096174919867",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-cobalt",
+    "localPath": "images/twillory-8502964748475-image-43096174919867.webp",
+    "sha256": "aaff1ddf53945b2b936d6d30571c8948a97a5c03f421e74d0fd37a8c6c661122",
+    "ordinal": 24,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue contrast-trim knit polo and black trousers repeat green variant at ordinal 26; retain the more frontal view only.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8502964748475-image-43096174952635",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-cobalt",
+    "localPath": "images/twillory-8502964748475-image-43096174952635.webp",
+    "sha256": "93cf3f34b6c5c1c015ae35ff29441fc8d58b918a189036b549cf11795f296380",
+    "ordinal": 25,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue textile close-up only.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8502949019835-image-43096168923323",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-moss",
+    "localPath": "images/twillory-8502949019835-image-43096168923323.webp",
+    "sha256": "5c92948a7d8e5c4aba7ec1b81908a8f4be8de40db9d6d9d39304a4216fcf5022",
+    "ordinal": 26,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": 1.0,
+      "waist": null
+    },
+    "evidence": "Enlarged: green contrast-trim open-neck knit polo and black trousers; frontal shoulder span visibly exceeds hips, loose straight knit hem conceals waist indentation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8502949019835-image-43096168988859",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-moss",
+    "localPath": "images/twillory-8502949019835-image-43096168988859.webp",
+    "sha256": "41e5b8d4f2860147d8954376a217df0159355b8ab50a5041f8abf9f3deba0bbf",
+    "ordinal": 27,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated repeated green contrast-trim polo ensemble from ordinal 26.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8466166513851-image-40265036202171",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-shorts-blue-prince",
+    "localPath": "images/twillory-8466166513851-image-40265036202171.webp",
+    "sha256": "9bf473d9e6efe2a4e81431230c92917d7244beca2fff2a7c6afca14a8ce74d1a",
+    "ordinal": 28,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulderless shorts-focused crop.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "twillory-8466166513851-image-40265036333243",
+    "source": "twillory",
+    "sourceUrl": "https://twillory.com/products/air-shorts-blue-prince",
+    "localPath": "images/twillory-8466166513851-image-40265036333243.webp",
+    "sha256": "334cb3306fcc15467c51b1679b89e668bdd9fa16c769858e09c5082706f5ba08",
+    "ordinal": 29,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear cropped shorts detail.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

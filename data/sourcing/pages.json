@@ -115636,6 +115636,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shop.bluffworks.com/products/ascender-chino-regular-fit-desert-sage",
+    "source": "bluffworks",
+    "candidateIds": [
+      "bluffworks-8299865735307-image-43282625593483",
+      "bluffworks-8299865735307-image-43282625724555"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shop.bluffworks.com/products/presidio-blazer-classic-fit-asphalt-black",
+    "source": "bluffworks",
+    "candidateIds": [
+      "bluffworks-8373715730571-image-42956700713099",
+      "bluffworks-8373715730571-image-42956700745867"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shop.bluffworks.com/products/presidio-dress-pants-slim-fit-asphalt-black",
+    "source": "bluffworks",
+    "candidateIds": [
+      "bluffworks-8373703245963-image-42956641337483",
+      "bluffworks-8373703245963-image-42956641370251"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shopduer.com/products/durasoft-fleece-motion-hoodie-cocoa",
     "source": "duer",
     "candidateIds": [
@@ -139974,6 +140016,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://twillory.com/products/air-shorts-blue-prince",
+    "source": "twillory",
+    "candidateIds": [
+      "twillory-8466166513851-image-40265036202171",
+      "twillory-8466166513851-image-40265036333243"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://twillory.com/products/leader-contrast-grey",
     "source": "twillory",
     "candidateIds": [
@@ -139999,6 +140055,48 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-houndstooth-brick",
+    "source": "twillory",
+    "candidateIds": [
+      "twillory-8505982484667-image-43096127144123",
+      "twillory-8505982484667-image-43096127307963"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-heather-light-grey",
+    "source": "twillory",
+    "candidateIds": [
+      "twillory-8505982681275-image-43096138776763",
+      "twillory-8505982681275-image-43096138940603"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-navy-melange",
+    "source": "twillory",
+    "candidateIds": [
+      "twillory-8505983140027-image-43096146837691",
+      "twillory-8505983140027-image-43096146968763"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {
@@ -140083,6 +140181,34 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-cobalt",
+    "source": "twillory",
+    "candidateIds": [
+      "twillory-8502964748475-image-43096174919867",
+      "twillory-8502964748475-image-43096174952635"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-moss",
+    "source": "twillory",
+    "candidateIds": [
+      "twillory-8502949019835-image-43096168923323",
+      "twillory-8502949019835-image-43096168988859"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -149472,6 +149598,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-black",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-7657710714950-image-39783303610438",
+      "wooland-7657710714950-image-39783303675974"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-charcoal-heather",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-7806657298502-image-36478912495686",
+      "wooland-7806657298502-image-36478912528454"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-washed-navy",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-7622263603270-image-39783257571398",
+      "wooland-7622263603270-image-39783257636934"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://wooland.com/products/grace-tiered-dress-black",
     "source": "wooland",
     "candidateIds": [
@@ -149508,6 +149676,48 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-18T0710-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-black",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-8132563370054-image-39731619299398",
+      "wooland-8132563370054-image-39731619332166"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-espresso",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-8132564484166-image-39731616907334",
+      "wooland-8132564484166-image-39731616972870"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-plum",
+    "source": "wooland",
+    "candidateIds": [
+      "wooland-8132563861574-image-39731618349126",
+      "wooland-8132563861574-image-39731618414662"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1910-independent/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,

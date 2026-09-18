@@ -136,6 +136,15 @@
       "deferredPages": 188
     },
     {
+      "source": "bluffworks",
+      "sampledPages": 3,
+      "candidateImages": 6,
+      "reviewedExpansionCandidates": 6,
+      "admittedExpansionPhotos": 1,
+      "completeExpansionReferences": 0,
+      "deferredPages": 111
+    },
+    {
       "source": "bridgeandburn",
       "sampledPages": 6,
       "candidateImages": 12,
@@ -839,12 +848,12 @@
     },
     {
       "source": "twillory",
-      "sampledPages": 12,
-      "candidateImages": 24,
-      "reviewedExpansionCandidates": 24,
-      "admittedExpansionPhotos": 5,
+      "sampledPages": 18,
+      "candidateImages": 36,
+      "reviewedExpansionCandidates": 36,
+      "admittedExpansionPhotos": 7,
       "completeExpansionReferences": 1,
-      "deferredPages": 149
+      "deferredPages": 143
     },
     {
       "source": "under510",
@@ -929,12 +938,12 @@
     },
     {
       "source": "wooland",
-      "sampledPages": 6,
-      "candidateImages": 12,
-      "reviewedExpansionCandidates": 12,
-      "admittedExpansionPhotos": 6,
+      "sampledPages": 12,
+      "candidateImages": 24,
+      "reviewedExpansionCandidates": 24,
+      "admittedExpansionPhotos": 12,
       "completeExpansionReferences": 0,
-      "deferredPages": 201
+      "deferredPages": 195
     },
     {
       "source": "woolandprince",
@@ -49228,6 +49237,314 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/0081/3449/2257/files/W2-2AC-1-MWBMIN_28009.jpg?v=1748467057",
               "sourceUrl": "https://www.american-giant.com/products/womens-vintage-crew-t-mineral-wash-blue-mineral",
               "sha256": "eed0294c90972a0f9eb27b35b7ece41bfc458906fe8abec80db932aea1172031",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1910-independent/sources.json",
+      "retrievedAt": "2026-09-18T19:03:13.964932+00:00",
+      "retrievalTimeBasis": "Completion timestamp of last collection; each listing retains its actual retrieval timestamp and original snapshot binding.",
+      "scope": "Three publishers searched: Bluffworks, Wool& and Twillory; at most three listing pages of 250 products and six unsampled products per source, first/third gallery images. Three successful first-page snapshots preserve all 622 listing decisions. Labels derive only from direct image inspection.",
+      "sources": [
+        {
+          "source": "bluffworks",
+          "pages": [
+            {
+              "url": "https://shop.bluffworks.com/products.json?limit=250&page=1",
+              "products": 122,
+              "retrievedAt": "2026-09-18T19:03:05.450631+00:00",
+              "snapshotSha256": "3c8bcb1e7c02678dcd38f5a910f7512af2282d940558f2da89afcc5fa7108132",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1910-independent/raw/bluffworks-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "bluffworks-8373703245963-image-42956641337483",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_0020.jpg?v=1787258570",
+              "sourceUrl": "https://shop.bluffworks.com/products/presidio-dress-pants-slim-fit-asphalt-black",
+              "sha256": "602bc5e0182fbce424755f21c23cdba3e29adc16551d33f191df575d1d84e219",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bluffworks-8373703245963-image-42956641370251",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_0081.jpg?v=1787258571",
+              "sourceUrl": "https://shop.bluffworks.com/products/presidio-dress-pants-slim-fit-asphalt-black",
+              "sha256": "fb6713319ca40aa672c6c9ff53bfc2917e8d30f23748c8c0085cb71e81c9b21a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bluffworks-8373705015435-image-42956641337483",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_0020.jpg?v=1787258570",
+              "sourceUrl": "https://shop.bluffworks.com/products/presidio-dress-pants-regular-fit-asphalt-black",
+              "sha256": "602bc5e0182fbce424755f21c23cdba3e29adc16551d33f191df575d1d84e219",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "bluffworks-8373705015435-image-42956641370251",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_0081.jpg?v=1787258571",
+              "sourceUrl": "https://shop.bluffworks.com/products/presidio-dress-pants-regular-fit-asphalt-black",
+              "sha256": "fb6713319ca40aa672c6c9ff53bfc2917e8d30f23748c8c0085cb71e81c9b21a",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "bluffworks-8373715730571-image-42956700713099",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_0275.jpg?v=1787258741",
+              "sourceUrl": "https://shop.bluffworks.com/products/presidio-blazer-classic-fit-asphalt-black",
+              "sha256": "5df29d6bef9a115b03493bbc1a99404a0be901f2e0ff9406b65d75e7b7d12c7f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bluffworks-8373715730571-image-42956700745867",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_0294.jpg?v=1787258741",
+              "sourceUrl": "https://shop.bluffworks.com/products/presidio-blazer-classic-fit-asphalt-black",
+              "sha256": "0e678e5ed994217b42fc24d75e851cbb3af48867f9d8913c9da02d653ff60687",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bluffworks-8373731459211-image-42956700713099",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_0275.jpg?v=1787258741",
+              "sourceUrl": "https://shop.bluffworks.com/products/presidio-blazer-slim-fit-asphalt-black",
+              "sha256": "5df29d6bef9a115b03493bbc1a99404a0be901f2e0ff9406b65d75e7b7d12c7f",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "bluffworks-8373731459211-image-42956700745867",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_0294.jpg?v=1787258741",
+              "sourceUrl": "https://shop.bluffworks.com/products/presidio-blazer-slim-fit-asphalt-black",
+              "sha256": "0e678e5ed994217b42fc24d75e851cbb3af48867f9d8913c9da02d653ff60687",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "bluffworks-8299865735307-image-43282625593483",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_1192.jpg?v=1789511657",
+              "sourceUrl": "https://shop.bluffworks.com/products/ascender-chino-regular-fit-desert-sage",
+              "sha256": "7d06e07e19a4574836ae0a1f6263ccd1a2b1a518fae065d38b4a63b1bb382bcd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bluffworks-8299865735307-image-43282625724555",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_1218.jpg?v=1789511657",
+              "sourceUrl": "https://shop.bluffworks.com/products/ascender-chino-regular-fit-desert-sage",
+              "sha256": "442f490f3be87da2b7a6c3931a9d91ce38471b1e7ee7940f6abf6cae00a52bc9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "bluffworks-8299867046027-image-43282625593483",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_1192.jpg?v=1789511657",
+              "sourceUrl": "https://shop.bluffworks.com/products/ascender-chino-slim-fit-desert-sage",
+              "sha256": "7d06e07e19a4574836ae0a1f6263ccd1a2b1a518fae065d38b4a63b1bb382bcd",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "bluffworks-8299867046027-image-43282625724555",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0167/5514/files/BluffWorks.Fall26_1218.jpg?v=1789511657",
+              "sourceUrl": "https://shop.bluffworks.com/products/ascender-chino-slim-fit-desert-sage",
+              "sha256": "442f490f3be87da2b7a6c3931a9d91ce38471b1e7ee7940f6abf6cae00a52bc9",
+              "outcome": "exact-duplicate"
+            }
+          ],
+          "downloadedUnique": 6
+        },
+        {
+          "source": "wooland",
+          "pages": [
+            {
+              "url": "https://wooland.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T19:03:07.828458+00:00",
+              "snapshotSha256": "d29eb8430a49a863c6978898c8321c8ec7f2274b5d6ba9e03eaef672bc7da8d6",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1910-independent/raw/wooland-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "wooland-7657710714950-image-39783303610438",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260722_wooland_00583_FosterKickFlarePontePant_Black-LR.jpg?v=1788889508",
+              "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-black",
+              "sha256": "3c849fb0ca357a713f71c4369336e0b8b5cc045f48144d22bb92c8a076da0ea8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-7657710714950-image-39783303675974",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260722_wooland_00612_FosterKickFlarePontePant_Black-LR.jpg?v=1788889508",
+              "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-black",
+              "sha256": "bc5922fa9ba861c611843ccdb78a9eb76702996b0214d7ffe74ba7beb25d52da",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-7622263603270-image-39783257571398",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260722_wooland_01494_FosterKickFlarePontePant_WashedNavy-LR.jpg?v=1788888993",
+              "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-washed-navy",
+              "sha256": "6ed7d24142d9c624f3358e24c3b8ae61749dde49943c91b98b37e0eb3f14f0a3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-7622263603270-image-39783257636934",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260722_wooland_01537_FosterKickFlarePontePant_WashedNavy-LR.jpg?v=1788888993",
+              "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-washed-navy",
+              "sha256": "4264c14d42d7076d2ec5f04926f21c5aff82ba3f8f0ee3f4c7b4bd83f736df2c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-7806657298502-image-36478912528454",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20251008-10_wooland_02564_FosterKickFlarePontePant_CharcoalHeather-LR.jpg?v=1764091662",
+              "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-charcoal-heather",
+              "sha256": "1b6270c2aedd866722b5708db060647a1bc4a658e29fef2763c3aaf99faf428d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-7806657298502-image-36478912495686",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20251008-10_wooland_02537_EdithPuffSleeveTop_Burgundy_FosterKickFlarePontePant_CharcoalHeather-LR.jpg?v=1764091662",
+              "sourceUrl": "https://wooland.com/products/foster-kick-flare-ponte-pant-charcoal-heather",
+              "sha256": "d8b8231717e0f7d0e97e41dea8076a82ea45100d4faeac6bc46f2f6e7d64124d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-8132564484166-image-39731616907334",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_00198_SloanPointelleTee_Espresso-LR.jpg?v=1788493464",
+              "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-espresso",
+              "sha256": "accd841299020c7bde1c2e3dff098ee2d0d3360d9872d2ce79fd04b09f89f19b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-8132564484166-image-39731616972870",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_00255_SloanPointelleTee_Espresso-LR.jpg?v=1788493465",
+              "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-espresso",
+              "sha256": "7c3df6d6dac8273a097e8e740cd487a3197e5d45dfc7024844a614f2aca97c14",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-8132563861574-image-39731618349126",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_01404_SloanPointelleTee_Plum-LR.jpg?v=1788493472",
+              "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-plum",
+              "sha256": "d23cc4df605fcfc0775c722d8609ad492ec051fb74c912fc5404068e5517aca4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-8132563861574-image-39731618414662",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_01460_SloanPointelleTee_Plum-LR.jpg?v=1788493472",
+              "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-plum",
+              "sha256": "13ef48e030e868c8f8bb0ec73a34e7c322eacdf67bdbf792c223e85f9446bc00",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-8132563370054-image-39731619332166",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_01519_SloanPointelleTee_Black-LR.jpg?v=1788493478",
+              "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-black",
+              "sha256": "847dd856ad9c7395a3c5b1d5e8a7f37ca40be3d480b00fa9fd829f938e473ce0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "wooland-8132563370054-image-39731619299398",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_01515_SloanPointelleTee_Black-LR.jpg?v=1788493478",
+              "sourceUrl": "https://wooland.com/products/sloan-pointelle-fitted-tee-black",
+              "sha256": "ca1716ad989e658d4c99cc0d085565127883d995fb946e559ff08af49ec6c9a1",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "twillory",
+          "pages": [
+            {
+              "url": "https://twillory.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T19:03:10.383934+00:00",
+              "snapshotSha256": "6474f0a4017f84825d16fdd4dcfd2011caba0822290120b8e76b4936564b0ee7",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1910-independent/raw/twillory-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "twillory-8505983140027-image-43096146837691",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Navy-Melange-Front-26.1.webp?v=1786632491",
+              "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-navy-melange",
+              "sha256": "5a23cbbcb0e8da4a6ec95e66b583e70fcc352f343dc4b7590fb228fcf0e9ff28",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8505983140027-image-43096146968763",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Navy-Melange-26.1.png?v=1786632493",
+              "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-navy-melange",
+              "sha256": "bf189c859f3267284eb67aef3e39317bde3844a921fb2f1dc6a4f4f27dca3c05",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8505982681275-image-43096138776763",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Heather-Light-Grey-Front-26.4.webp?v=1786632303",
+              "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-heather-light-grey",
+              "sha256": "d45bf144145c49566374758f38b73f99d1bfa40d8036ae489c69d48ddca4eca8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8505982681275-image-43096138940603",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Heather-Light-Grey-Fabric-26.1.webp?v=1786632302",
+              "sourceUrl": "https://twillory.com/products/leader-non-iron-solid-heather-light-grey",
+              "sha256": "47c19d2ed45d0850408a3140ae2e07d8ea5af5f8a404b6fdd1ced9885b7f214a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8505982484667-image-43096127144123",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Leader-Brick-Houndstooth-Front-26.1.webp?v=1786632109",
+              "sourceUrl": "https://twillory.com/products/leader-non-iron-houndstooth-brick",
+              "sha256": "d51d0bcee13fe86c961d97f28f1bc19e4978faf0987ff1bea1c482f039f00065",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8505982484667-image-43096127307963",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Brick-Houndstooth-26.1.webp?v=1786632109",
+              "sourceUrl": "https://twillory.com/products/leader-non-iron-houndstooth-brick",
+              "sha256": "9df527809ba1bc17acad5d9656abd68ca44066c88f41a7042afb5479d0734a9d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8502964748475-image-43096174919867",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Sweater-Polo-Cobalt-Contrast-Front-26.1.webp?v=1786633315",
+              "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-cobalt",
+              "sha256": "aaff1ddf53945b2b936d6d30571c8948a97a5c03f421e74d0fd37a8c6c661122",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8502964748475-image-43096174952635",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Sweater-Polo-Cobalt-Contrast-Fabric-26.1.webp?v=1786633315",
+              "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-cobalt",
+              "sha256": "93cf3f34b6c5c1c015ae35ff29441fc8d58b918a189036b549cf11795f296380",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8502949019835-image-43096168923323",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Sweater-Polo-Moss-Contrast-Front-26.1.webp?v=1786633115",
+              "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-moss",
+              "sha256": "5c92948a7d8e5c4aba7ec1b81908a8f4be8de40db9d6d9d39304a4216fcf5022",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8502949019835-image-43096168988859",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/Sweater-Polo-Moss-Contrast-Creative-26.1.webp?v=1786633115",
+              "sourceUrl": "https://twillory.com/products/short-sleeve-sweater-polo-contrast-moss",
+              "sha256": "41e5b8d4f2860147d8954376a217df0159355b8ab50a5041f8abf9f3deba0bbf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8466166513851-image-40265036202171",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/prince_of_wales_PSH014_M_fe1abf38-a314-40f2-9c9e-e32d009bddd7.png?v=1759252528",
+              "sourceUrl": "https://twillory.com/products/air-shorts-blue-prince",
+              "sha256": "9bf473d9e6efe2a4e81431230c92917d7244beca2fff2a7c6afca14a8ce74d1a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "twillory-8466166513851-image-40265036333243",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1042/4718/files/prince_of_wales_PSH014_R_c6d15096-5292-4c45-b4ae-5ad015a3a784.png?v=1759252543",
+              "sourceUrl": "https://twillory.com/products/air-shorts-blue-prince",
+              "sha256": "334cb3306fcc15467c51b1679b89e668bdd9fa16c769858e09c5082706f5ba08",
               "outcome": "downloaded-unique"
             }
           ],

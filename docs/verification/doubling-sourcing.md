@@ -1,6 +1,18 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,428 photos; 2,784 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,437 photos; 2,775 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: collared ensembles and knit separates
+
+The 19:00 UTC run (`con_JtlpFHBT3pQhXpXN`) directly reviews 30 candidates in `2026-09-18T1910-independent`. Three bound sheets, five enlarged originals and comparison of all eleven earlier Wool&/Twillory admissions support nine new outfits: one Bluffworks, six Wool& and two Twillory. Presentation additions are three masculine, three feminine and three unclear; nine build and two shoulder/hip observations are added. Ten product/details, three rear views and eight repeated views/colorways are excluded. Bluffworks adds one admitted publisher. All 622 listing decisions from three successful first-page snapshots retain provenance and hashes.
+
+Totals: 7,437 photos, 7,196 body records, 5,865 build observations, 294 complete references (46 masculine) and 55 broader-build benchmark matches. Presentation totals: 1,250 masculine, 4,129 feminine, 171 mixed and 1,887 unclear. All 45 sampled required-body-filter settings remain unchanged; twelve remain empty. No complete-reference or required-body-filter gain. All 3,744 training candidates remain pending with original bindings, beginning at ordinal 1056.
+
+Fetched baseline `c521be7` matches origin/personal-discovery and contains fetched origin/main. Prior photo/asset/body/presentation prefixes and admitted asset hashes pass preservation. Original image/ordinal/sheet/source binding checks, refreshed queue preservation, admission replay, complete presentation audit, original/all-asset checks, library/sourcing checks and typecheck pass. All 131 unit tests pass in one run (180,482 assertions, 402.42 seconds); the isolated build and all 86 browser checks pass with tracing disabled. Only exact catalog-count expectations change; assertions and timeouts remain intact. No validation remains pending or failing. The final fetch finds no concurrent remote update. Logs and exit markers are under external `expansion-2026-09-18T1910-independent`.
+
+Source inventory reaches 12,189 sampled and 49,270 deferred pages. All 12,174 previous sampled rows remain unchanged. All 49,171 previous deferred URLs remain queued or are now sampled; 338 queue rows update only their latest-observation timestamp and source-manifest pointer, with original listing evidence preserved in its earlier batch. Thirty original image/ordinal bindings, three sheets and six original source/review-file bindings pass. Eleven earlier comparison assets retain their original digests.
+
+Append after this batch. Prefer fitted untied fuller-build frontal separates and independent collared outfits; first/third Bluffworks galleries mostly crop away shoulders, and further basic Twillory shirt/polo colorways repeat prior ensembles. No deployment. The sprint still ends September 18 at 21:23 UTC. Earlier sections are historical.
 
 ## Current continuation: independent casual separates
 

@@ -21,6 +21,7 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | bearbottom | 12 | 21 | 21 | 5 | 0 | 135 |
 | bigbudpress | 183 | 329 | 300 | 157 | 23 | 79 |
 | billyreid | 6 | 12 | 12 | 4 | 0 | 188 |
+| bluffworks | 3 | 6 | 6 | 1 | 0 | 111 |
 | bridgeandburn | 6 | 12 | 12 | 4 | 0 | 191 |
 | bronson | 6 | 12 | 12 | 2 | 0 | 220 |
 | chubbies | 12 | 24 | 24 | 6 | 0 | 105 |
@@ -99,7 +100,7 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | tradlands | 6 | 12 | 12 | 5 | 0 | 23 |
 | trippnyc | 78 | 156 | 112 | 33 | 8 | 136 |
 | trueclassic | 36 | 62 | 62 | 12 | 6 | 197 |
-| twillory | 12 | 24 | 24 | 5 | 1 | 149 |
+| twillory | 18 | 36 | 36 | 7 | 1 | 143 |
 | under510 | 12 | 24 | 24 | 7 | 0 | 108 |
 | universalstandard | 106 | 153 | 153 | 86 | 7 | 172 |
 | universalworks | 76 | 169 | 169 | 17 | 0 | 160 |
@@ -109,7 +110,7 @@ Counts are photographs and source pages, not distinct people. Review/admission y
 | waxlondon | 6 | 12 | 12 | 2 | 0 | 173 |
 | wear | 611 | 611 | 611 | 592 | 0 | 0 |
 | wildfang | 179 | 366 | 339 | 179 | 13 | 8 |
-| wooland | 6 | 12 | 12 | 6 | 0 | 201 |
+| wooland | 12 | 24 | 24 | 12 | 0 | 195 |
 | woolandprince | 8 | 16 | 16 | 3 | 0 | 136 |
 
 ## Presentation coverage
