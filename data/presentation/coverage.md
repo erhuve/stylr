@@ -2,14 +2,14 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7323/7323; unreviewed: 0.
+Reviewed: 7327/7327; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | masculine | 1223 | 16.7% | 1158 | 56 | 44 |
-| feminine | 4091 | 55.9% | 3647 | 41 | 148 |
+| feminine | 4095 | 55.9% | 3651 | 41 | 148 |
 | mixed-androgynous | 170 | 2.3% | 163 | 12 | 2 |
 | unclear | 1839 | 25.1% | 1714 | 69 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
@@ -21,7 +21,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
 | masculine | {"1":3,"2":149,"3":65,"unknown":375,"2.5":61,"1.5":570} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":394,"3":259,"unknown":580,"1.5":2547,"2.5":284} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| feminine | {"1":27,"2":394,"3":260,"unknown":582,"1.5":2547,"2.5":285} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":76} | {"1.5":2} |
 | unclear | {"1":7,"2":157,"3":215,"1.5":833,"unknown":517,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
@@ -87,7 +87,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | shinybynature.com | 0 | 77 | 0 | 32 | 0 |
 | shopduer.com | 2 | 0 | 0 | 1 | 0 |
 | shopmyviolet.com | 0 | 137 | 0 | 7 | 0 |
-| snagtights.com | 2 | 239 | 0 | 82 | 0 |
+| snagtights.com | 2 | 243 | 0 | 82 | 0 |
 | stateandliberty.com | 26 | 0 | 0 | 2 | 0 |
 | strongsize.com | 4 | 0 | 0 | 11 | 0 |
 | superfithero.com | 0 | 6 | 0 | 32 | 0 |

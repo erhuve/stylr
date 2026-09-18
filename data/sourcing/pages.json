@@ -117350,6 +117350,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/mini-mesh-skirt-flushing-pink",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7630361821226-image-35495365836842",
+      "snag-7630361821226-image-35739774746666"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-mesh-skirt-peach-mousse",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7630361952298-image-35495365214250",
+      "snag-7630361952298-image-35495365279786"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/mini-mesh-skirt-pomegranate",
     "source": "snag",
     "candidateIds": [
@@ -117418,6 +117446,48 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-skirt-poplin-bubblegum",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7630361755690-image-34352358195242",
+      "snag-7630361755690-image-34352358260778"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-tee-mesh-dress-pink-frosting",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7630361722922-image-34352359735338",
+      "snag-7630361722922-image-34352359768106"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/mini-tee-poplin-dress-sangria-pink-lady",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7630361526314-image-34352356458538",
+      "snag-7630361526314-image-34352356524074"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://snagtights.com/products/nightwear-black-box-tee",
@@ -118280,6 +118350,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-18T0910-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/tailored-woven-viscose-shirt-spiced-spot",
+    "source": "snag",
+    "candidateIds": [
+      "snag-8025877708842-image-37626956873770",
+      "snag-8025877708842-image-37626956906538"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -119149,6 +119233,62 @@
     "completeExpansionReferences": 1
   },
   {
+    "sourceUrl": "https://stateandliberty.com/products/the-marcus-brown-white-light-blue-windowpane-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859309609041-image-69399774724177",
+      "stateandliberty-15859309609041-image-69399774756945"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-mello-light-blue-grey-multi-plaid-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859313803345-image-69399930765393",
+      "stateandliberty-15859313803345-image-69399930798161"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-merrill-blue-micro-check-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859316981841-image-69400043126865",
+      "stateandliberty-15859316981841-image-69400043192401"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-miller-deep-plum-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859318292561-image-69400064819281",
+      "stateandliberty-15859318292561-image-69400064852049"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://stateandliberty.com/products/the-murray-heathered-light-grey-plaid",
     "source": "stateandliberty",
     "candidateIds": [
@@ -119161,6 +119301,20 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://stateandliberty.com/products/the-nash-baby-blue-gingham-1",
+    "source": "stateandliberty",
+    "candidateIds": [
+      "stateandliberty-15859320488017-image-69405112041553",
+      "stateandliberty-15859320488017-image-69405112139857"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1305-fitted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
   },
   {
     "sourceUrl": "https://stateandliberty.com/products/the-phoenix-purple-lattice-print",
@@ -138314,6 +138468,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://universalworks.com/products/olive-wool-fleece-cardigan",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-14947477225848-image-76232218968440",
+      "universalworks-14947477225848-image-76310688661880"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1310-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://universalworks.com/products/universal-works-alva-short-in-indigo-reworked-jean-cloth",
     "source": "universalworks",
     "candidateIds": [
@@ -138616,6 +138784,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0040-afternoon-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalworks.com/products/universal-works-ns-bomber-jacket-in-black-broadcloth",
+    "source": "universalworks",
+    "candidateIds": [
+      "universalworks-8086632661188-image-72984019992952",
+      "universalworks-8086632661188-image-72999176208760"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1310-workwear/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,

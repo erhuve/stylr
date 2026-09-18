@@ -1,6 +1,18 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,323 photos; 2,889 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,327 photos; 2,885 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: fitted shirts, Snag and workwear
+
+The 13:00 UTC run directly reviews 26 candidates in `2026-09-18T1305-fitted` and `2026-09-18T1310-workwear`, on three image-bound sheets with four original-image enlargements. Seven comparison sheets cover all 28 previous State and Liberty and 323 previous Snag admissions. Four distinct feminine skirt-led ensembles qualify, adding two approximate build observations and no complete body references. Fifteen repeated outfits/colorways, six product/detail views and one rear view are excluded. Fourteen of the 26 candidates target masculine collared/workwear sources, but their repetition and framing yield no admissions.
+
+Total: 7,327 photos; 7,086 body records; 5,769 build observations; 291 complete references (44 masculine). Presentation totals: 1,223 masculine, 4,095 feminine, 170 mixed and 1,839 unclear. All 45 sampled required-body-filter settings and the 54-match broader-build benchmark are unchanged. No new publisher is added. The target still requires 2,885 admissions; the 3,744 pending training candidates preserve their original bindings starting at collection ordinal 1056.
+
+The maintained collector records five listing snapshots across three publishers, all 1,249 listing decisions, image outcomes and timestamps. State and Liberty's fine-check/solid shirt tailoring repeats existing outfits; Universal Works first/third images remain products and rear views. Prioritize independent fuller-build fitted untied separates and full-front collared ensembles. Source inventory: 11,933 sampled pages, 46,914 deferred pages, 88 source keys and 105 recorded runs. Append future batch names after `2026-09-18T1310-workwear`; never rebind training ordinals or hashes.
+
+Baseline `7a9a7bd` is fetched and includes remote main; the prior review and validation recovery are already committed/pushed. All 7,323 prior presentation rows and 6,938 prior expansion photo/asset/body rows are preserved exactly. All 6,942 expansion assets and 26 new original images retain their reviewed hashes; all five listing and three candidate-sheet bindings validate. All 7,327 application assets verify without duplicate hashes; original-photo identity, admission replay, complete presentation audit, library audit, typecheck, three sourcing tests and two batch tests pass. Required-body-filter grid comparison passes. Twelve deferred rows disappear only because their pages are now sampled; other deferred URLs are retained.
+
+All 131 unit checks have passing results across the full run and focused retries. The full run passes 127 and fails three stale exact-count assertions plus the five-second asset audit. Exact totals are updated without weakening assertions; the four focused retries pass, including the asset audit in 1.81 seconds under its unchanged five-second limit. Exhaustive sequencing passes in 491.96 seconds under its unchanged 600-second limit. All 86 browser checks pass in four minutes with tracing disabled, retaining every assertion and original timeout. The default tracing configuration is unchanged. Logs and reproducible checkpoint scripts are under external `expansion-2026-09-18T1305-fitted`. No deployment.
 
 ## Validation recovery: 12:30 UTC run
 

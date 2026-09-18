@@ -1,0 +1,49 @@
+{
+  "retrievedAt": "2026-09-18T13:03:48.433784+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 2 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "universalworks",
+      "pages": [
+        {
+          "url": "https://universalworks.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T13:03:47.549669+00:00",
+          "snapshotSha256": "6fb9a1902cbb35102ca0f08712b306d81b3be2075fae20bb50a55b5a5b12db73"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "universalworks-14947477225848-image-76232218968440",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/00016_wool-fleece-olive_1_a0ead0f4-f054-4210-9cc4-0e0b4e6ef43c.jpg?v=1785936192",
+          "sourceUrl": "https://universalworks.com/products/olive-wool-fleece-cardigan",
+          "sha256": "5423cddf9536a60216c2740b45eab0f82ba15c9beb7b34d32cb22fa45ebd0a5c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-14947477225848-image-76310688661880",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/00016_wool-fleece-olive_model_2_52749176-96cf-48f5-9863-3451a221ea2f.jpg?v=1787824471",
+          "sourceUrl": "https://universalworks.com/products/olive-wool-fleece-cardigan",
+          "sha256": "f73bf1cb96604dd3ce363e3c539c55d753ba371d4ce453bc8e7f0ba15f6e39fe",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632661188-image-72999176208760",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/MP32122_broad-cloth-black_3_0c400e76-3539-4003-ad3b-895e8c24dbec.jpg?v=1753786448",
+          "sourceUrl": "https://universalworks.com/products/universal-works-ns-bomber-jacket-in-black-broadcloth",
+          "sha256": "fd1b913327032654f263e8ba4f9d6e0aadf1172ba91668366aeec4f4aaab7256",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalworks-8086632661188-image-72984019992952",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1831/8429/files/MP32122_broad-cloth-black_1.jpg?v=1753786448",
+          "sourceUrl": "https://universalworks.com/products/universal-works-ns-bomber-jacket-in-black-broadcloth",
+          "sha256": "5ff35a2069e268017768fdc0fbb599a263e3682ccd3596847f8f9ce2592b8bc3",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 4
+    }
+  ]
+}

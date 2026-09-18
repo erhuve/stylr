@@ -1,0 +1,31 @@
+[
+  {
+    "sheet": 0,
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T1310-workwear/sheets/00.jpg",
+    "sha256": "c0b0a9da3b586ca7f89460c4bc3fa086b280628b78bf9ed9dafc61aca0e8b072",
+    "ordinals": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "images": [
+      {
+        "id": "universalworks-14947477225848-image-76232218968440",
+        "sha256": "5423cddf9536a60216c2740b45eab0f82ba15c9beb7b34d32cb22fa45ebd0a5c"
+      },
+      {
+        "id": "universalworks-14947477225848-image-76310688661880",
+        "sha256": "f73bf1cb96604dd3ce363e3c539c55d753ba371d4ce453bc8e7f0ba15f6e39fe"
+      },
+      {
+        "id": "universalworks-8086632661188-image-72999176208760",
+        "sha256": "fd1b913327032654f263e8ba4f9d6e0aadf1172ba91668366aeec4f4aaab7256"
+      },
+      {
+        "id": "universalworks-8086632661188-image-72984019992952",
+        "sha256": "5ff35a2069e268017768fdc0fbb599a263e3682ccd3596847f8f9ce2592b8bc3"
+      }
+    ]
+  }
+]

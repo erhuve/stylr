@@ -1,0 +1,66 @@
+[
+  {
+    "id": "universalworks-14947477225848-image-76232218968440",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/olive-wool-fleece-cardigan",
+    "localPath": "images/universalworks-14947477225848-image-76232218968440.webp",
+    "sha256": "5423cddf9536a60216c2740b45eab0f82ba15c9beb7b34d32cb22fa45ebd0a5c",
+    "ordinal": 0,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated green cardigan product without wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-14947477225848-image-76310688661880",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/olive-wool-fleece-cardigan",
+    "localPath": "images/universalworks-14947477225848-image-76310688661880.webp",
+    "sha256": "f73bf1cb96604dd3ce363e3c539c55d753ba371d4ce453bc8e7f0ba15f6e39fe",
+    "ordinal": 1,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear view of green cardigan and dark trousers.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-8086632661188-image-72999176208760",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-ns-bomber-jacket-in-black-broadcloth",
+    "localPath": "images/universalworks-8086632661188-image-72999176208760.webp",
+    "sha256": "fd1b913327032654f263e8ba4f9d6e0aadf1172ba91668366aeec4f4aaab7256",
+    "ordinal": 2,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Two isolated dark jacket product views without wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "universalworks-8086632661188-image-72984019992952",
+    "source": "universalworks",
+    "sourceUrl": "https://universalworks.com/products/universal-works-ns-bomber-jacket-in-black-broadcloth",
+    "localPath": "images/universalworks-8086632661188-image-72984019992952.webp",
+    "sha256": "5ff35a2069e268017768fdc0fbb599a263e3682ccd3596847f8f9ce2592b8bc3",
+    "ordinal": 3,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated front jacket product without wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

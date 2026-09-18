@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10445,
-  "admittedPhotos": 6938,
-  "totalPhotos": 7323,
+  "reviewedCandidates": 10471,
+  "admittedPhotos": 6942,
+  "totalPhotos": 7327,
   "axisSupport": {
-    "build": 5643,
+    "build": 5645,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6377,
+  "sourcePages": 6381,
   "excludedReasons": {
-    "non-outfit-view": 3449,
+    "non-outfit-view": 3471,
     "existing-source-page": 58
   },
   "excluded": [
@@ -14040,6 +14040,94 @@
     },
     {
       "id": "onsclothing-9408287015149-image-49352727232749",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859320488017-image-69405112041553",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859320488017-image-69405112139857",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859318292561-image-69400064852049",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859318292561-image-69400064819281",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859316981841-image-69400043126865",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859316981841-image-69400043192401",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859313803345-image-69399930798161",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859313803345-image-69399930765393",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859309609041-image-69399774756945",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stateandliberty-15859309609041-image-69399774724177",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-8025877708842-image-37626956873770",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7630361952298-image-35495365214250",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7630361821226-image-35495365836842",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7630361755690-image-34352358260778",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7630361722922-image-34352359768106",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7630361722922-image-34352359735338",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7630361526314-image-34352356458538",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7630361526314-image-34352356524074",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14947477225848-image-76232218968440",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-14947477225848-image-76310688661880",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632661188-image-72999176208760",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalworks-8086632661188-image-72984019992952",
       "reason": "non-outfit-view"
     }
   ]

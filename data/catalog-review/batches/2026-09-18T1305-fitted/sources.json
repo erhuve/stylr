@@ -1,0 +1,216 @@
+{
+  "retrievedAt": "2026-09-18T13:03:21.722901+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "stateandliberty",
+      "pages": [
+        {
+          "url": "https://stateandliberty.com/products.json?limit=250&page=1",
+          "products": 249,
+          "retrievedAt": "2026-09-18T13:03:14.533997+00:00",
+          "snapshotSha256": "88d7c96ba4e9051429a2f498a25a7922da419c8bc06f4ec3b2821255fd31a8a3"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "stateandliberty-15942314098769-image-69550470332497",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-4_8c0527ad-c2d6-4c49-9a0f-39825b2a46f5.jpg?v=1785789285",
+          "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+          "sha256": "c76d17d30fa52904769f4a9a2e4bc75107ed411e1867f23c08ab91279af9cd35",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "stateandliberty-15942314098769-image-69550470365265",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/solid-grey-3_396dd929-45fd-4d41-b01f-f293ea345eee.jpg?v=1785789285",
+          "sourceUrl": "https://stateandliberty.com/products/athletic-fit-stretch-suit-solidgrey",
+          "sha256": "55f82b9de52b8abc62f4a8f1a913d97d0e97b6b23f65b55bc2338919b1484c7e",
+          "outcome": "exact-duplicate"
+        },
+        {
+          "id": "stateandliberty-15859320488017-image-69405112041553",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/nash-0001.jpg?v=1784720923",
+          "sourceUrl": "https://stateandliberty.com/products/the-nash-baby-blue-gingham-1",
+          "sha256": "22525bffa73d8908e5cf6c9bfee9e00f2675f8a43c0b3f3ff07245b4cd959bf1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859320488017-image-69405112139857",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/nash-0004.jpg?v=1784720924",
+          "sourceUrl": "https://stateandliberty.com/products/the-nash-baby-blue-gingham-1",
+          "sha256": "f00408373e16a8b8b492d68d98f356f7d76a702bf7f1371ac7bcd681cd7b899d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859318292561-image-69400064852049",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/miller-0002.jpg?v=1784661542",
+          "sourceUrl": "https://stateandliberty.com/products/the-miller-deep-plum-1",
+          "sha256": "125a1b29f2c651af69b341bbb179d9269d483ba4143116276f123a69cc471ebb",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859318292561-image-69400064819281",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/miller-0001.jpg?v=1784661542",
+          "sourceUrl": "https://stateandliberty.com/products/the-miller-deep-plum-1",
+          "sha256": "c37dd1c6a19cf45b512b74382d230f57a142d40741a147f16aa66ebb2e931cf5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859316981841-image-69400043126865",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/merrill-0001.jpg?v=1784660987",
+          "sourceUrl": "https://stateandliberty.com/products/the-merrill-blue-micro-check-1",
+          "sha256": "36cbd424b110b69cc515ef8c89863ea4611d440e759e8aca8e6b760d94391ae2",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859316981841-image-69400043192401",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/merrill-0003.jpg?v=1784660988",
+          "sourceUrl": "https://stateandliberty.com/products/the-merrill-blue-micro-check-1",
+          "sha256": "b8f90780dfb5b59f823009ed84e1b40df4fefea9aacdfd5fc4a7c3f482a15655",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859313803345-image-69399930798161",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/mello-0001.jpg?v=1784659545",
+          "sourceUrl": "https://stateandliberty.com/products/the-mello-light-blue-grey-multi-plaid-1",
+          "sha256": "6f6adeab8137840db6f5177a8b9ab16a0e8db3d66e42b4bf5321b4a7010ea575",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859313803345-image-69399930765393",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/mello-0002.jpg?v=1784659545",
+          "sourceUrl": "https://stateandliberty.com/products/the-mello-light-blue-grey-multi-plaid-1",
+          "sha256": "30a167c307424043cb8a0486e3d59f19880af1ae9b87433d32756a82a52ade10",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859309609041-image-69399774756945",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/marcus-0003_3fd2d4aa-ed30-4fca-b944-7f4e0ba42159.jpg?v=1784655123",
+          "sourceUrl": "https://stateandliberty.com/products/the-marcus-brown-white-light-blue-windowpane-1",
+          "sha256": "6bae4c1aa97c385f7e16e0df2b9b4b813c1b5ce37b0294f9f96d2c0bc7a166b7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "stateandliberty-15859309609041-image-69399774724177",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0692/4255/files/marcus-0002_5a7d360c-fbcf-4ab7-9b2c-6e75ed801d86.jpg?v=1784655124",
+          "sourceUrl": "https://stateandliberty.com/products/the-marcus-brown-white-light-blue-windowpane-1",
+          "sha256": "1ee5f8e501849a631ed4ebd34ae022f59eb37fc6fbdd7b72a2a5b6abf7f29f2c",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 10
+    },
+    {
+      "source": "snag",
+      "pages": [
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T13:03:18.065526+00:00",
+          "snapshotSha256": "0392e1fa244646b4e4a6e041fb42fab12184a5043e8bb570cd9f3642c61d65dc"
+        },
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=2",
+          "products": 250,
+          "retrievedAt": "2026-09-18T13:03:19.029449+00:00",
+          "snapshotSha256": "b6037f3e1d88763420c2c901c94c432c5ebbda5176910912f24b5da554e56787"
+        },
+        {
+          "url": "https://snagtights.com/products.json?limit=250&page=3",
+          "products": 250,
+          "retrievedAt": "2026-09-18T13:03:20.099988+00:00",
+          "snapshotSha256": "2da57b1801679e146b7bd39c2ca0c51b0efea051ea4f3c5172899937717ffef9"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "snag-8025877708842-image-37626956873770",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Clara-Size_D-Spiced_Spot-Tailor_Viscose_Button_up_5.jpg?v=1789655902",
+          "sourceUrl": "https://snagtights.com/products/tailored-woven-viscose-shirt-spiced-spot",
+          "sha256": "7581eb21407c3219fc47a44055cf2f3d179b6d230423c5d5187b73b5995a8f1c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-8025877708842-image-37626956906538",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Louise-Size_E1-Spiced_Spot-Tailor_Viscose_Button_up_2.jpg?v=1789655901",
+          "sourceUrl": "https://snagtights.com/products/tailored-woven-viscose-shirt-spiced-spot",
+          "sha256": "5b3d5160f0f54a4ee454bc45ea5e4f1c202219778852ac7d25545ce750243fc8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361952298-image-35495365214250",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Kylie-Size-G-Mesh-Skirt-Peach-Mousse.jpg?v=1765530504",
+          "sourceUrl": "https://snagtights.com/products/mini-mesh-skirt-peach-mousse",
+          "sha256": "14506471eb43507e03410f6d4eade35a16dcdd2363f02cfe179b88bdf1aedc4a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361952298-image-35495365279786",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Yvonne-Size-E-Mesh-Skirt-Peach-Mousse_3.jpg?v=1765530504",
+          "sourceUrl": "https://snagtights.com/products/mini-mesh-skirt-peach-mousse",
+          "sha256": "9be020a231e30384d3a340a0e9d327c1d8b89883b696b098ba3e795752a37bc1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361821226-image-35739774746666",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Teni-Size_F-Pullover-Black_2_56cc6636-ccd8-4e76-970f-223b1e8af4b8.jpg?v=1768507393",
+          "sourceUrl": "https://snagtights.com/products/mini-mesh-skirt-flushing-pink",
+          "sha256": "0d70aee71f9239f23d9566440e8edb8a0eac22473585f77b728eeb57f425eb66",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361821226-image-35495365836842",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Yvonne-Size-E-Mesh-Skirt-Flushing-Pink.jpg?v=1768507393",
+          "sourceUrl": "https://snagtights.com/products/mini-mesh-skirt-flushing-pink",
+          "sha256": "06882d314e07649eb8212232496d4423332de41cf6fe7138ff3456ed256622e0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361755690-image-34352358195242",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Maria-Size-G-Mini-Poplin-Skirt-Bubble-Gum-_1.jpg?v=1750952637",
+          "sourceUrl": "https://snagtights.com/products/mini-skirt-poplin-bubblegum",
+          "sha256": "8f1679bfae631658c25e38dd560c55e2beb60184dc318a04840496582482dca4",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361755690-image-34352358260778",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Hannah-Size-D-Mini-Poplin-Skirt-Bubblegum-_4.jpg?v=1750952637",
+          "sourceUrl": "https://snagtights.com/products/mini-skirt-poplin-bubblegum",
+          "sha256": "257f4a3476d5abe30c7c662304cb0bfc1590c8b02076fc0e81e76e656d37de42",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361722922-image-34352359768106",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Sophie-Size-G-Mini-Mesh-Dress-Pink-Frosting-_5.jpg?v=1750952639",
+          "sourceUrl": "https://snagtights.com/products/mini-tee-mesh-dress-pink-frosting",
+          "sha256": "161c1aaee94db02d97f829c642a617bd96aea7de6963de67dc4b13bb04df26b0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361722922-image-34352359735338",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Jess-Size-AB-Tee-Mesh-Dress-Pink-_1.jpg?v=1750952639",
+          "sourceUrl": "https://snagtights.com/products/mini-tee-mesh-dress-pink-frosting",
+          "sha256": "e6d0526ae96c4c65bd90a0137d92556e4c862a464e45c511ccc5ac96a4f1bdb8",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361526314-image-34352356458538",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Hayley-Size-F-Mini-Tee-Poplin-Dress-Sangria-Pink-Lady-_3.jpg?v=1750952633",
+          "sourceUrl": "https://snagtights.com/products/mini-tee-poplin-dress-sangria-pink-lady",
+          "sha256": "68bdfe1848ef5593fdcff9381183c4a1e1c764fa2bccede2ffda6b0c5e2c3ab1",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "snag-7630361526314-image-34352356524074",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Kathryn-Size-C-Mini-Tee-Poplin-Dress-Sangria-Pink-Lady-_4.jpg?v=1751294258",
+          "sourceUrl": "https://snagtights.com/products/mini-tee-poplin-dress-sangria-pink-lady",
+          "sha256": "9567111a691639b4014c66211c69bca2f06c25944bc441b91123a623ce2fed97",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}
