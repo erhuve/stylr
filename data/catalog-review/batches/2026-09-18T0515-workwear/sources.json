@@ -1,0 +1,63 @@
+{
+  "retrievedAt": "2026-09-18T05:03:11.183261+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 3 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "roark",
+      "pages": [
+        {
+          "url": "https://roark.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T05:03:10.067044+00:00",
+          "snapshotSha256": "f408810d7b4ce2e8a95432889006d86008135f2e5afaee5315cbd9eae596cbbf"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "roark-7567316254791-image-34479932801095",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ325_BLK_001_bf693834-6fad-40ce-8637-a341d1dcaed3.png?v=1788268547",
+          "sourceUrl": "https://roark.com/products/mens-axeman-parka-jacket-black",
+          "sha256": "59bbd42715e35bd61f7bf5d2a94969d9fd5b6301a08e8d98642413781d27963e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "roark-7567316254791-image-34479932899399",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ325_BLK_1870_4c9c3fb7-2417-4d59-9424-03be9da4b207.jpg?v=1788268547",
+          "sourceUrl": "https://roark.com/products/mens-axeman-parka-jacket-black",
+          "sha256": "156d18183815420b1f0ea2bab81a7c13ebee50a1cdac43ff32ad4be0d4eca24c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "roark-7567319203911-image-34598598344775",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1513_MIL_001.png?v=1789503729",
+          "sourceUrl": "https://roark.com/products/mens-reading-ritual-premium-tees-military",
+          "sha256": "f96e851ac10cdf40454ef2b7093ffe96be74b165530ec25e233eac6af112568a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "roark-7567319203911-image-34598598475847",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1513_MIL_1360.jpg?v=1789503729",
+          "sourceUrl": "https://roark.com/products/mens-reading-ritual-premium-tees-military",
+          "sha256": "22362867bbb15b1868e72311af7ba2809f6439f15d9e2ac8a5e6ddd1fddf29ea",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "roark-7567319236679-image-34598484705351",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1515_ONX_002.png?v=1789502938",
+          "sourceUrl": "https://roark.com/products/mens-elevated-research-premium-tee-onyx",
+          "sha256": "fd6e665ec05e5a80dcf1ddebc4abd10697adcee6a9a8f28523255b8914ce0443",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "roark-7567319236679-image-34598484738119",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1515_ONX_03_0141.jpg?v=1789502938",
+          "sourceUrl": "https://roark.com/products/mens-elevated-research-premium-tee-onyx",
+          "sha256": "c7834a0aeef014a14e57ed0fac3e831b0e2d98c608b057264d3ccafe4ae4d2e5",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 6
+    }
+  ]
+}

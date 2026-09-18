@@ -1,0 +1,46 @@
+[
+  {
+    "id": "strongsize-8095279808697-image-37814090989753",
+    "sha256": "2c64296218bff1ec227e91a5440fddc3a43d84944f9d6d5b700cb803c0e20df3",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 3,
+    "originalCollectionOrdinal": 3,
+    "sheet": 0,
+    "batch": "2026-09-18T0510-contours",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0510-contours/sheets/00.jpg"
+  },
+  {
+    "id": "strongsize-8094158815417-image-37818362659001",
+    "sha256": "a8a13045d01698737db8a84b0c2fa80ba03ffff6dd15247e0f6d97a1501b7955",
+    "evidence": "U",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 5,
+    "originalCollectionOrdinal": 5,
+    "sheet": 0,
+    "batch": "2026-09-18T0510-contours",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0510-contours/sheets/00.jpg"
+  },
+  {
+    "id": "universalstandard-7637706637358-image-34050163802158",
+    "sha256": "9f1014a8d0a9b334dd855c17569acc247738e074e3f5ce60dda61f66d43157a6",
+    "evidence": "F",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 10,
+    "originalCollectionOrdinal": 10,
+    "sheet": 0,
+    "batch": "2026-09-18T0510-contours",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0510-contours/sheets/00.jpg"
+  },
+  {
+    "id": "universalstandard-7637698707502-image-34049662550062",
+    "sha256": "5d84c9ebb2afe4845d4b03f37d8b22631dc644e7215074da2ce27e7f09c1a0da",
+    "evidence": "D",
+    "reviewedAt": "2026-09-18",
+    "ordinal": 17,
+    "originalCollectionOrdinal": 17,
+    "sheet": 1,
+    "batch": "2026-09-18T0510-contours",
+    "sheetPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T0510-contours/sheets/01.jpg"
+  }
+]

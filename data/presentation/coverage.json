@@ -1,22 +1,22 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7234,
-  "reviewedPhotos": 7234,
+  "catalogPhotos": 7240,
+  "reviewedPhotos": 7240,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1202,
+      "photos": 1203,
       "percent": 16.6,
-      "sourcePages": 1137,
-      "sourceHosts": 44,
+      "sourcePages": 1138,
+      "sourceHosts": 45,
       "completeReferences": 44,
       "byBuild": {
         "1": 3,
         "2": 140,
         "3": 65,
-        "unknown": 367,
+        "unknown": 368,
         "2.5": 61,
         "1.5": 566
       },
@@ -30,9 +30,9 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4050,
+      "photos": 4052,
       "percent": 56,
-      "sourcePages": 3608,
+      "sourcePages": 3610,
       "sourceHosts": 32,
       "completeReferences": 148,
       "byBuild": {
@@ -40,8 +40,8 @@
         "2": 390,
         "3": 248,
         "unknown": 578,
-        "1.5": 2532,
-        "2.5": 275
+        "1.5": 2533,
+        "2.5": 276
       },
       "completeByBuild": {
         "1": 7,
@@ -70,16 +70,16 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1814,
+      "photos": 1817,
       "percent": 25.1,
-      "sourcePages": 1689,
-      "sourceHosts": 56,
+      "sourcePages": 1692,
+      "sourceHosts": 57,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
         "2": 153,
-        "3": 213,
-        "1.5": 816,
+        "3": 215,
+        "1.5": 817,
         "unknown": 515,
         "2.5": 110
       },
@@ -2496,6 +2496,65 @@
       ]
     },
     {
+      "host": "roark.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 1,
+          "percent": 50,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "unknown": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 1,
+          "percent": 50,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
       "host": "saturdaysnyc.com",
       "categories": [
         {
@@ -2896,7 +2955,7 @@
         {
           "presentation": "masculine",
           "photos": 4,
-          "percent": 30.8,
+          "percent": 26.7,
           "sourcePages": 3,
           "sourceHosts": 1,
           "completeReferences": 0,
@@ -2927,13 +2986,13 @@
         },
         {
           "presentation": "unclear",
-          "photos": 9,
-          "percent": 69.2,
-          "sourcePages": 8,
+          "photos": 11,
+          "percent": 73.3,
+          "sourcePages": 10,
           "sourceHosts": 1,
           "completeReferences": 0,
           "byBuild": {
-            "3": 8,
+            "3": 10,
             "2.5": 1
           },
           "completeByBuild": {}
@@ -3727,7 +3786,7 @@
         {
           "presentation": "masculine",
           "photos": 3,
-          "percent": 3.7,
+          "percent": 3.6,
           "sourcePages": 3,
           "sourceHosts": 1,
           "completeReferences": 0,
@@ -3739,16 +3798,16 @@
         },
         {
           "presentation": "feminine",
-          "photos": 46,
-          "percent": 56.1,
-          "sourcePages": 43,
+          "photos": 48,
+          "percent": 57.1,
+          "sourcePages": 45,
           "sourceHosts": 1,
           "completeReferences": 4,
           "byBuild": {
             "2": 3,
             "3": 7,
-            "2.5": 11,
-            "1.5": 15,
+            "2.5": 12,
+            "1.5": 16,
             "unknown": 10
           },
           "completeByBuild": {
@@ -3769,7 +3828,7 @@
         {
           "presentation": "unclear",
           "photos": 33,
-          "percent": 40.2,
+          "percent": 39.3,
           "sourcePages": 31,
           "sourceHosts": 1,
           "completeReferences": 3,

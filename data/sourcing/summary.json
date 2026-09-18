@@ -379,6 +379,15 @@
       "deferredPages": 133
     },
     {
+      "source": "roark",
+      "sampledPages": 3,
+      "candidateImages": 6,
+      "reviewedExpansionCandidates": 6,
+      "admittedExpansionPhotos": 2,
+      "completeExpansionReferences": 0,
+      "deferredPages": 221
+    },
+    {
       "source": "saturdaysnyc",
       "sampledPages": 12,
       "candidateImages": 24,
@@ -416,12 +425,12 @@
     },
     {
       "source": "strongsize",
-      "sampledPages": 34,
-      "candidateImages": 66,
-      "reviewedExpansionCandidates": 66,
-      "admittedExpansionPhotos": 13,
+      "sampledPages": 39,
+      "candidateImages": 75,
+      "reviewedExpansionCandidates": 75,
+      "admittedExpansionPhotos": 15,
       "completeExpansionReferences": 0,
-      "deferredPages": 35
+      "deferredPages": 30
     },
     {
       "source": "superfithero",
@@ -533,12 +542,12 @@
     },
     {
       "source": "universalstandard",
-      "sampledPages": 94,
-      "candidateImages": 129,
-      "reviewedExpansionCandidates": 129,
-      "admittedExpansionPhotos": 82,
+      "sampledPages": 100,
+      "candidateImages": 141,
+      "reviewedExpansionCandidates": 141,
+      "admittedExpansionPhotos": 84,
       "completeExpansionReferences": 7,
-      "deferredPages": 184
+      "deferredPages": 178
     },
     {
       "source": "universalworks",
@@ -41260,6 +41269,275 @@
             }
           ],
           "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0510-contours/sources.json",
+      "retrievedAt": "2026-09-18T05:02:42.067548+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "strongsize",
+          "pages": [
+            {
+              "url": "https://strongsize.com/products.json?limit=250&page=1",
+              "products": 88,
+              "retrievedAt": "2026-09-18T05:02:37.225619+00:00",
+              "snapshotSha256": "64f29e7153786d46687ecc0d4d42f0d81329212f6fe275f318e3f3383d8d051c"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "strongsize-8464346284217-image-40835936747705",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT18_SILVER_GRAY_01.jpg?v=1776137968",
+              "sourceUrl": "https://strongsize.com/products/apex-textured-t-shirt",
+              "sha256": "5258eb5460eca6be278c980d78dcda5be65898eb520f143a2fae1a017aab6c83",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "strongsize-8464346284217-image-40835935764665",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/SZT18_BLACK_01.jpg?v=1776139889",
+              "sourceUrl": "https://strongsize.com/products/apex-textured-t-shirt",
+              "sha256": "6f921a5858d2f41225e648a846c775aad93624b9d0f4c47f18493053b0364920",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "strongsize-8112476192953-image-38056373256377",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/290-7-BBBNNCC_01.jpg?v=1749825974",
+              "sourceUrl": "https://strongsize.com/products/everyday-stretch-crewneck-tee-regular-length-7-pack",
+              "sha256": "8a17269f6ed78f15d5d90f5a997f49d80dbf4ba6363268454e71e7c7475f55ed",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "strongsize-8112476192953-image-38056373223609",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/290-7-BBBNNCC_02.jpg?v=1749825974",
+              "sourceUrl": "https://strongsize.com/products/everyday-stretch-crewneck-tee-regular-length-7-pack",
+              "sha256": "5b987b0a32749939dc4821ece3bf586c9c8cb0be4b42d4887720fe2ef4e23648",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "strongsize-8095279808697-image-37814090858681",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/618-3-BNC_01.jpg?v=1747365899",
+              "sourceUrl": "https://strongsize.com/products/everyday-stretch-long-sleeve-tee-3-pack",
+              "sha256": "64c4887e27a128fec8d84592347327cf67448d35c2e3458856d5e7f0d83635b8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "strongsize-8095279808697-image-37814090989753",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/618-3-BNC_02.jpg?v=1747365900",
+              "sourceUrl": "https://strongsize.com/products/everyday-stretch-long-sleeve-tee-3-pack",
+              "sha256": "2c64296218bff1ec227e91a5440fddc3a43d84944f9d6d5b700cb803c0e20df3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "strongsize-8094158815417-image-37818362626233",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/742-3-PLH_01.jpg?v=1747423287",
+              "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie-3-pack",
+              "sha256": "f36093d56ed9a8b32f604f1822fa1614d8c1fc2df010024d4dee64982dff1d8f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "strongsize-8094158815417-image-37818362659001",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/742-3-PLH_02.jpg?v=1747423287",
+              "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie-3-pack",
+              "sha256": "a8a13045d01698737db8a84b0c2fa80ba03ffff6dd15247e0f6d97a1501b7955",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "strongsize-8094155112633-image-37818366460089",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/742-2-PL_01.jpg?v=1747423313",
+              "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie-2-pack",
+              "sha256": "c12b5f41acf7a9b265f08318f698c7cc2bdff020e5f276bb7fdd392950a793f3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "strongsize-8094155112633-image-37818364461241",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/742-2-LH_01.jpg?v=1747423301",
+              "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie-2-pack",
+              "sha256": "93fadb3e1f4562188400ac2a65fe8c0903372d17eedb8a342c91cd543ed5b59f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "strongsize-8094152130745-image-38918990561465",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/Navy_WaffleFlex_Thermal_Hoodie.jpg?v=1759822155",
+              "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie",
+              "sha256": "2f29418cde942790b6b0d57c7be8f032a4f161448ec6ee93c224009f6c6fe3d8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "strongsize-8094152130745-image-37818369671353",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0643/3429/9321/files/Grey_WaffleFlex_Hoodie_Outdoor_View.jpg?v=1759822221",
+              "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie",
+              "sha256": "a8a13045d01698737db8a84b0c2fa80ba03ffff6dd15247e0f6d97a1501b7955",
+              "outcome": "exact-duplicate"
+            }
+          ],
+          "downloadedUnique": 9
+        },
+        {
+          "source": "universalstandard",
+          "pages": [
+            {
+              "url": "https://universalstandard.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T05:02:39.634084+00:00",
+              "snapshotSha256": "fb805b127ef0d3b63fa64336325b656b773d67b336f18411ff486b0b3fc91986"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "universalstandard-7637706637358-image-34050163769390",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_24_021.jpg?v=1787860870",
+              "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-dark-gray-heather",
+              "sha256": "88a2c599d4a7ee618c224609d3177b8b5cbefc375663e9f1ac6d7fd049b799b3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637706637358-image-34050163802158",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_24_027.jpg?v=1787860868",
+              "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-dark-gray-heather",
+              "sha256": "9f1014a8d0a9b334dd855c17569acc247738e074e3f5ce60dda61f66d43157a6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637706506286-image-34050220490798",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262651.jpg?v=1787863208",
+              "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-deep-red",
+              "sha256": "0ecc6197323a783f73e3d7d22c2041f857533a049941fb4a372fbd5fdbc92131",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637706506286-image-34050220589102",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262668.jpg?v=1787863208",
+              "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-deep-red",
+              "sha256": "680a6213b05dddf1d12caa99876739069bc4a67070856f6b316cd852bd381832",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637706375214-image-34050162753582",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_15_040_b276d0e5-6faf-46ac-8228-f06a9b6fbef1.jpg?v=1787860813",
+              "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-supernova",
+              "sha256": "6deba36d8f896efad7b3cee6c7a3240c2629a3b5b3176062ab0e82f06af6379b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637706375214-image-34050162655278",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_15_023.jpg?v=1787860813",
+              "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-supernova",
+              "sha256": "a7a6d879679c22c309632d924c428a38e81aadcf3c3d568c3a26e0c4748a4142",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637706276910-image-34050219147310",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262640.jpg?v=1787863150",
+              "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-black",
+              "sha256": "fdf9d566bcdf550241d43f3944bc1a17f5057dc5e00d6571172c7720814298bc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637706276910-image-34050219180078",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262643.jpg?v=1787863151",
+              "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-black",
+              "sha256": "bc002b8ff6fdbe82139fd43bfa004d2ecf16713e7797861c45de7a25a16e709e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637698707502-image-34049662550062",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_24_019_1b243297-1455-43c0-8cac-8573286eb8be.jpg?v=1787841551",
+              "sourceUrl": "https://universalstandard.com/products/shawl-collar-liquid-jersey-dress-pony",
+              "sha256": "5d84c9ebb2afe4845d4b03f37d8b22631dc644e7215074da2ce27e7f09c1a0da",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637698707502-image-34049662681134",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_24_050.jpg?v=1787841551",
+              "sourceUrl": "https://universalstandard.com/products/shawl-collar-liquid-jersey-dress-pony",
+              "sha256": "7f363dea1f2fb508671fd622060db7764a2486502d36ea2c4bc7288c00d3f706",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637698674734-image-34050144796718",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_03_003_ae7455d9-8a3c-4086-af21-5e1fb91c881b.jpg?v=1787859837",
+              "sourceUrl": "https://universalstandard.com/products/shawl-collar-liquid-jersey-dress-poppy-field-print",
+              "sha256": "6197c78bcff6929ed554909a1fa3e836b72eada3abe435bc86ca003fd15f19d4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "universalstandard-7637698674734-image-34050144862254",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_03_026.jpg?v=1787859837",
+              "sourceUrl": "https://universalstandard.com/products/shawl-collar-liquid-jersey-dress-poppy-field-print",
+              "sha256": "b4c59f58637e37f71a63d8ec4460f50074e567b0b1ec31e2e40f5fcbce280605",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0515-workwear/sources.json",
+      "retrievedAt": "2026-09-18T05:03:11.183261+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 3 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "roark",
+          "pages": [
+            {
+              "url": "https://roark.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T05:03:10.067044+00:00",
+              "snapshotSha256": "f408810d7b4ce2e8a95432889006d86008135f2e5afaee5315cbd9eae596cbbf"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "roark-7567316254791-image-34479932801095",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ325_BLK_001_bf693834-6fad-40ce-8637-a341d1dcaed3.png?v=1788268547",
+              "sourceUrl": "https://roark.com/products/mens-axeman-parka-jacket-black",
+              "sha256": "59bbd42715e35bd61f7bf5d2a94969d9fd5b6301a08e8d98642413781d27963e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567316254791-image-34479932899399",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RJ325_BLK_1870_4c9c3fb7-2417-4d59-9424-03be9da4b207.jpg?v=1788268547",
+              "sourceUrl": "https://roark.com/products/mens-axeman-parka-jacket-black",
+              "sha256": "156d18183815420b1f0ea2bab81a7c13ebee50a1cdac43ff32ad4be0d4eca24c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567319203911-image-34598598344775",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1513_MIL_001.png?v=1789503729",
+              "sourceUrl": "https://roark.com/products/mens-reading-ritual-premium-tees-military",
+              "sha256": "f96e851ac10cdf40454ef2b7093ffe96be74b165530ec25e233eac6af112568a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567319203911-image-34598598475847",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1513_MIL_1360.jpg?v=1789503729",
+              "sourceUrl": "https://roark.com/products/mens-reading-ritual-premium-tees-military",
+              "sha256": "22362867bbb15b1868e72311af7ba2809f6439f15d9e2ac8a5e6ddd1fddf29ea",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567319236679-image-34598484705351",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1515_ONX_002.png?v=1789502938",
+              "sourceUrl": "https://roark.com/products/mens-elevated-research-premium-tee-onyx",
+              "sha256": "fd6e665ec05e5a80dcf1ddebc4abd10697adcee6a9a8f28523255b8914ce0443",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "roark-7567319236679-image-34598484738119",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2304/9839/files/RT1515_ONX_03_0141.jpg?v=1789502938",
+              "sourceUrl": "https://roark.com/products/mens-elevated-research-premium-tee-onyx",
+              "sha256": "c7834a0aeef014a14e57ed0fac3e831b0e2d98c608b057264d3ccafe4ae4d2e5",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 6
         }
       ]
     }

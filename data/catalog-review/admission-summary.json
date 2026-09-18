@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10092,
-  "admittedPhotos": 6849,
-  "totalPhotos": 7234,
+  "reviewedCandidates": 10119,
+  "admittedPhotos": 6855,
+  "totalPhotos": 7240,
   "axisSupport": {
-    "build": 5566,
+    "build": 5571,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6290,
+  "sourcePages": 6296,
   "excludedReasons": {
-    "non-outfit-view": 3185,
+    "non-outfit-view": 3206,
     "existing-source-page": 58
   },
   "excluded": [
@@ -12984,6 +12984,90 @@
     },
     {
       "id": "gitmanvintage-7219209240749-image-35136631308461",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8112476192953-image-38056373256377",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8112476192953-image-38056373223609",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8095279808697-image-37814090858681",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8094158815417-image-37818362626233",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8094155112633-image-37818366460089",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8094155112633-image-37818364461241",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "strongsize-8094152130745-image-38918990561465",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637706637358-image-34050163769390",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637706506286-image-34050220490798",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637706506286-image-34050220589102",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637706375214-image-34050162753582",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637706375214-image-34050162655278",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637706276910-image-34050219147310",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637706276910-image-34050219180078",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637698707502-image-34049662681134",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637698674734-image-34050144796718",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637698674734-image-34050144862254",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "roark-7567316254791-image-34479932801095",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "roark-7567319203911-image-34598598344775",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "roark-7567319236679-image-34598484705351",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "roark-7567319236679-image-34598484738119",
       "reason": "non-outfit-view"
     }
   ]

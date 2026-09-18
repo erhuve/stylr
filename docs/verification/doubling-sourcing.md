@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,234 photos; 2,978 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,240 photos; 2,972 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: Strongsize, Universal Standard and Roark
+
+The 05:00 UTC run directly reviews 27 candidates in `2026-09-18T0510-contours` and `2026-09-18T0515-workwear`: three bound sheets, four enlarged originals and comparison against all 95 prior Strongsize/Universal Standard admissions. Six outfits are admitted: one masculine utility-coat ensemble, two feminine wrap ensembles and three unclear knit/tee ensembles. Nine products/details, eleven repeated poses/colorways and one rear view are excluded. Fifteen candidates target masculine/full-outfit sources. Roark adds an independent admitted publisher. Three first-page listing snapshots preserve all 588 product decisions.
+
+Totals: 7,240 photos, 5,695 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear). Presentation totals: 1,203 masculine, 4,052 feminine, 168 mixed and 1,817 unclear. Five new build observations include three fuller-build views, but there are no new complete references or required-body-filter gains; the broader-build benchmark remains 54. Inventory records 11,753 sampled pages, 43,821 deferred pages, 66 source keys and 77 runs. All 3,744 pending training rows remain byte-identical from original ordinal 1056. Append after `0515-workwear`. Next prioritize independent fitted full-front separates and editorial collared outfits; bundle galleries and wrap colorways have low contour yield. No deployment.
+
+Preservation passes for all 6,849 prior expansion photo/asset/body records and 7,234 presentation rows; all 6,855 expansion asset digests, 27 candidate bindings, three sheets and three listing snapshots pass. Admission replay, complete presentation audit, original-photo identity, typecheck and library audit pass. All 45 sampled body-filter counts remain unchanged. All 131 unit checks pass in one run (176,230 assertions, 371.23 seconds), including sourcing regressions and exhaustive catalog sequencing. All 86 browser checks pass in 3.5 minutes, including loading every catalog image. No checks remain pending or failing. Only exact catalog/body/source-group expectations changed; all assertions and test budgets remain intact. Logs and the unchanged body grid remain under external `expansion-2026-09-18T0510-contours`. Remote main is included and personal-discovery is unchanged at the final pre-push fetch. No deployment.
 
 ## Current continuation: Ace & Jig and Gitman Vintage
 

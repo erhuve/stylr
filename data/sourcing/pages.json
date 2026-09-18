@@ -110927,6 +110927,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://roark.com/products/mens-axeman-parka-jacket-black",
+    "source": "roark",
+    "candidateIds": [
+      "roark-7567316254791-image-34479932801095",
+      "roark-7567316254791-image-34479932899399"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0515-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://roark.com/products/mens-elevated-research-premium-tee-onyx",
+    "source": "roark",
+    "candidateIds": [
+      "roark-7567319236679-image-34598484705351",
+      "roark-7567319236679-image-34598484738119"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0515-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://roark.com/products/mens-reading-ritual-premium-tees-military",
+    "source": "roark",
+    "candidateIds": [
+      "roark-7567319203911-image-34598598344775",
+      "roark-7567319203911-image-34598598475847"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0515-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/26-inseam-jeans-heart-cutout",
     "source": "shinybynature",
     "candidateIds": [
@@ -117810,6 +117852,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://strongsize.com/products/everyday-stretch-crewneck-tee-regular-length-7-pack",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8112476192953-image-38056373223609",
+      "strongsize-8112476192953-image-38056373256377"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://strongsize.com/products/everyday-stretch-long-sleeve-t-shirt-5-pack",
     "source": "strongsize",
     "candidateIds": [
@@ -117818,6 +117874,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0530-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/everyday-stretch-long-sleeve-tee-3-pack",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8095279808697-image-37814090858681",
+      "strongsize-8095279808697-image-37814090989753"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -118002,6 +118072,47 @@
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8094152130745-image-38918990561465"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie-2-pack",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8094155112633-image-37818364461241",
+      "strongsize-8094155112633-image-37818366460089"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://strongsize.com/products/waffleflex-thermal-hoodie-3-pack",
+    "source": "strongsize",
+    "candidateIds": [
+      "strongsize-8094158815417-image-37818362626233",
+      "strongsize-8094158815417-image-37818362659001"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -136006,6 +136117,90 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalstandard.com/products/shawl-collar-liquid-jersey-dress-pony",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637698707502-image-34049662550062",
+      "universalstandard-7637698707502-image-34049662681134"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalstandard.com/products/shawl-collar-liquid-jersey-dress-poppy-field-print",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637698674734-image-34050144796718",
+      "universalstandard-7637698674734-image-34050144862254"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-black",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637706276910-image-34050219147310",
+      "universalstandard-7637706276910-image-34050219180078"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-dark-gray-heather",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637706637358-image-34050163769390",
+      "universalstandard-7637706637358-image-34050163802158"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-deep-red",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637706506286-image-34050220490798",
+      "universalstandard-7637706506286-image-34050220589102"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://universalstandard.com/products/tau-wrap-neck-liquid-jersey-top-supernova",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637706375214-image-34050162655278",
+      "universalstandard-7637706375214-image-34050162753582"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0510-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

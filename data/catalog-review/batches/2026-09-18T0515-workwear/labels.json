@@ -1,0 +1,98 @@
+[
+  {
+    "id": "roark-7567316254791-image-34479932801095",
+    "source": "roark",
+    "sourceUrl": "https://roark.com/products/mens-axeman-parka-jacket-black",
+    "localPath": "images/roark-7567316254791-image-34479932801095.webp",
+    "sha256": "59bbd42715e35bd61f7bf5d2a94969d9fd5b6301a08e8d98642413781d27963e",
+    "ordinal": 0,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Isolated hooded coat; no wearer.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "roark-7567316254791-image-34479932899399",
+    "source": "roark",
+    "sourceUrl": "https://roark.com/products/mens-axeman-parka-jacket-black",
+    "localPath": "images/roark-7567316254791-image-34479932899399.webp",
+    "sha256": "156d18183815420b1f0ea2bab81a7c13ebee50a1cdac43ff32ad4be0d4eca24c",
+    "ordinal": 1,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark toggle-fastened hooded workwear coat with tan trousers. Structured coat and angled cropped view conceal body contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "roark-7567319203911-image-34598598344775",
+    "source": "roark",
+    "sourceUrl": "https://roark.com/products/mens-reading-ritual-premium-tees-military",
+    "localPath": "images/roark-7567319203911-image-34598598344775.webp",
+    "sha256": "f96e851ac10cdf40454ef2b7093ffe96be74b165530ec25e233eac6af112568a",
+    "ordinal": 2,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat long-sleeve tee; no outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "roark-7567319203911-image-34598598475847",
+    "source": "roark",
+    "sourceUrl": "https://roark.com/products/mens-reading-ritual-premium-tees-military",
+    "localPath": "images/roark-7567319203911-image-34598598475847.webp",
+    "sha256": "22362867bbb15b1868e72311af7ba2809f6439f15d9e2ac8a5e6ddd1fddf29ea",
+    "ordinal": 3,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Olive long-sleeve graphic tee with tan trousers; slender visible build. Angled stance and hip crop conceal other axes; neutral basics.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "roark-7567319236679-image-34598484705351",
+    "source": "roark",
+    "sourceUrl": "https://roark.com/products/mens-elevated-research-premium-tee-onyx",
+    "localPath": "images/roark-7567319236679-image-34598484705351.webp",
+    "sha256": "fd6e665ec05e5a80dcf1ddebc4abd10697adcee6a9a8f28523255b8914ce0443",
+    "ordinal": 4,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Flat graphic tee; no outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "roark-7567319236679-image-34598484738119",
+    "source": "roark",
+    "sourceUrl": "https://roark.com/products/mens-elevated-research-premium-tee-onyx",
+    "localPath": "images/roark-7567319236679-image-34598484738119.webp",
+    "sha256": "c7834a0aeef014a14e57ed0fac3e831b0e2d98c608b057264d3ccafe4ae4d2e5",
+    "ordinal": 5,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear tee and trousers view; excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]
