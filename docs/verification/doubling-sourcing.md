@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,244 photos; 2,968 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,250 photos; 2,962 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: Andcollar and Free Label
+
+The 06:00 UTC run directly reviews 24 candidates in `2026-09-18T0610-targeted` and `2026-09-18T0615-contours`: two bound sheets and five enlarged originals. Six outfits are admitted from two new independent publishers: one masculine collared casual outfit, four feminine dress-led outfits and one unclear neutral layered outfit. Eleven repeated poses/colorways, four rear views and three products/details are excluded. Half the review budget targets collared casual outfits. Alder's non-JSON listing failure remains recorded. Two successful first-page listing snapshots retain all 273 product decisions. These bounded searches do not establish source exhaustion.
+
+Totals: 7,250 photos, 5,703 build observations, 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear). Presentation totals: 1,204 masculine, 4,060 feminine, 168 mixed and 1,818 unclear. Four build observations include two fuller-build views, but there is no complete-reference or required-body-filter gain. The broader-build benchmark remains 54. Inventory records 11,777 sampled pages, 44,033 deferred pages, 69 source keys and 82 runs. All 3,744 pending training rows remain byte-identical from original ordinal 1056. Append after `0615-contours`. Seek fitted untied full-front separates and varied collared ensembles; gathered/tied dresses and checked-shirt colorways conceal contours or repeat existing styling. No deployment.
+
+Preservation passes for all 6,859 prior expansion photo/asset/body records and 7,244 presentation rows; all 6,865 expansion asset digests, 24 candidate bindings, two sheets and two listing snapshots pass. Admission replay, complete presentation audit, original-photo identity, typecheck and library audit pass. All 45 sampled required-body-filter counts are unchanged. All 131 unit checks pass (176,440 assertions, 364.73 seconds), including sourcing regressions; all 86 browser checks pass in 3.6 minutes. No checks remain pending or failing. Logs and the unchanged body grid are retained under external `expansion-2026-09-18T0610-targeted`. Only exact catalog/body/source-group expectations changed; all assertions and test budgets remain intact. Remote main is included and personal-discovery is unchanged at the final pre-push fetch. No deployment.
 
 ## Current continuation: Freenote, independent source attempts and Snag
 

@@ -1236,6 +1236,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://andcollar.com/products/acadia",
+    "source": "andcollar",
+    "candidateIds": [
+      "andcollar-7019863834820-image-43169366638788",
+      "andcollar-7019863834820-image-43169366704324"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0610-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andcollar.com/products/clemson",
+    "source": "andcollar",
+    "candidateIds": [
+      "andcollar-4760208638061-image-43169275740356",
+      "andcollar-4760208638061-image-43169275805892"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0610-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andcollar.com/products/helsinki",
+    "source": "andcollar",
+    "candidateIds": [
+      "andcollar-6043757347012-image-43169240940740",
+      "andcollar-6043757347012-image-43169241006276"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0610-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andcollar.com/products/range-shirt-charcoal-w-black-windowpane",
+    "source": "andcollar",
+    "candidateIds": [
+      "andcollar-8258782724292-image-44281156960452",
+      "andcollar-8258782724292-image-44281156993220"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0610-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andcollar.com/products/range-shirt-floral-pattern",
+    "source": "andcollar",
+    "candidateIds": [
+      "andcollar-7912504262852-image-45358110605508",
+      "andcollar-7912504262852-image-48521308209348"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0610-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andcollar.com/products/vancouver",
+    "source": "andcollar",
+    "candidateIds": [
+      "andcollar-7339240161476-image-43169350582468",
+      "andcollar-7339240161476-image-43169350648004"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0610-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/5-khaki-lightweight-signature-chino-short",
     "source": "ashanderie",
     "candidateIds": [
@@ -104149,6 +104233,90 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://freelabel.com/products/black-marina-cardigan",
+    "source": "free-label",
+    "candidateIds": [
+      "free-label-8168597487705-image-36190592467033",
+      "free-label-8168597487705-image-36190592532569"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0615-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://freelabel.com/products/black-marta-dress",
+    "source": "free-label",
+    "candidateIds": [
+      "free-label-4568953323609-image-36900899455065",
+      "free-label-4568953323609-image-36900899586137"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0615-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://freelabel.com/products/black-tyler-dress",
+    "source": "free-label",
+    "candidateIds": [
+      "free-label-7232660275289-image-35293443850329",
+      "free-label-7232660275289-image-35293443948633"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0615-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://freelabel.com/products/cold-brew-tyler-dress",
+    "source": "free-label",
+    "candidateIds": [
+      "free-label-8099945054297-image-35293492019289",
+      "free-label-8099945054297-image-35293501718617"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0615-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://freelabel.com/products/garnet-marta-dress",
+    "source": "free-label",
+    "candidateIds": [
+      "free-label-8187450523737-image-36198303367257",
+      "free-label-8187450523737-image-36198303629401"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0615-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://freelabel.com/products/twilight-marta-dress",
+    "source": "free-label",
+    "candidateIds": [
+      "free-label-8187450228825-image-36198297141337",
+      "free-label-8187450228825-image-36198297403481"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0615-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {

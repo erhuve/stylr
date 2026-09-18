@@ -1,20 +1,20 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7244,
-  "reviewedPhotos": 7244,
+  "catalogPhotos": 7250,
+  "reviewedPhotos": 7250,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1203,
+      "photos": 1204,
       "percent": 16.6,
-      "sourcePages": 1138,
-      "sourceHosts": 45,
+      "sourcePages": 1139,
+      "sourceHosts": 46,
       "completeReferences": 44,
       "byBuild": {
         "1": 3,
-        "2": 140,
+        "2": 141,
         "3": 65,
         "unknown": 368,
         "2.5": 61,
@@ -30,18 +30,18 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4056,
+      "photos": 4060,
       "percent": 56,
-      "sourcePages": 3614,
-      "sourceHosts": 32,
+      "sourcePages": 3618,
+      "sourceHosts": 33,
       "completeReferences": 148,
       "byBuild": {
         "1": 27,
         "2": 390,
-        "3": 249,
-        "unknown": 578,
-        "1.5": 2533,
-        "2.5": 279
+        "3": 250,
+        "unknown": 579,
+        "1.5": 2534,
+        "2.5": 280
       },
       "completeByBuild": {
         "1": 7,
@@ -70,17 +70,17 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1817,
+      "photos": 1818,
       "percent": 25.1,
-      "sourcePages": 1692,
-      "sourceHosts": 57,
+      "sourcePages": 1693,
+      "sourceHosts": 58,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
         "2": 153,
         "3": 215,
         "1.5": 817,
-        "unknown": 515,
+        "unknown": 516,
         "2.5": 110
       },
       "completeByBuild": {
@@ -400,6 +400,63 @@
             "unknown": 1,
             "1.5": 1
           },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "andcollar.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 1,
+          "percent": 100,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
           "completeByBuild": {}
         },
         {
@@ -1540,6 +1597,68 @@
             "1.5": 1,
             "2.5": 1
           }
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "freelabel.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 4,
+          "percent": 80,
+          "sourcePages": 4,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "3": 1,
+            "unknown": 1,
+            "2.5": 1,
+            "1.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 1,
+          "percent": 20,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "unknown": 1
+          },
+          "completeByBuild": {}
         },
         {
           "presentation": "unreviewed",

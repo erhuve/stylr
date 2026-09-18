@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10143,
-  "admittedPhotos": 6859,
-  "totalPhotos": 7244,
+  "reviewedCandidates": 10167,
+  "admittedPhotos": 6865,
+  "totalPhotos": 7250,
   "axisSupport": {
-    "build": 5575,
+    "build": 5579,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6300,
+  "sourcePages": 6306,
   "excludedReasons": {
-    "non-outfit-view": 3226,
+    "non-outfit-view": 3244,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13148,6 +13148,78 @@
     },
     {
       "id": "snag-7637584576554-image-36608261029930",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-4760208638061-image-43169275740356",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-7339240161476-image-43169350648004",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-7339240161476-image-43169350582468",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-7019863834820-image-43169366704324",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-7019863834820-image-43169366638788",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-7912504262852-image-48521308209348",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-7912504262852-image-45358110605508",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-8258782724292-image-44281156960452",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-8258782724292-image-44281156993220",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-6043757347012-image-43169241006276",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andcollar-6043757347012-image-43169240940740",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "free-label-8187450228825-image-36198297403481",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "free-label-4568953323609-image-36900899455065",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "free-label-8187450523737-image-36198303367257",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "free-label-8187450523737-image-36198303629401",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "free-label-8099945054297-image-35293501718617",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "free-label-7232660275289-image-35293443850329",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "free-label-8168597487705-image-36190592532569",
       "reason": "non-outfit-view"
     }
   ]

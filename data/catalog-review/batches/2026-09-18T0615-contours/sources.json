@@ -1,0 +1,105 @@
+{
+  "retrievedAt": "2026-09-18T06:02:53.584624+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "free-label",
+      "pages": [
+        {
+          "url": "https://freelabel.com/products.json?limit=250&page=1",
+          "products": 101,
+          "retrievedAt": "2026-09-18T06:02:51.839817+00:00",
+          "snapshotSha256": "a484d737dd00e76bdc70e4ffffa2016870baf4f6cdee0d04d615e18798e3e481"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "free-label-8187450228825-image-36198297141337",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-360.jpg?v=1777407072",
+          "sourceUrl": "https://freelabel.com/products/twilight-marta-dress",
+          "sha256": "761db59d94f23d1649846ac26e756d147fec8bde5d97a39f1bea5b237f7b5373",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-8187450228825-image-36198297403481",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-377.jpg?v=1777407072",
+          "sourceUrl": "https://freelabel.com/products/twilight-marta-dress",
+          "sha256": "7504beec69e1e36c97e49d2d5a8b8886b476de0dbf35af45f7b5337f5990f9f3",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-4568953323609-image-36900899586137",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-398.jpg?v=1785181752",
+          "sourceUrl": "https://freelabel.com/products/black-marta-dress",
+          "sha256": "866dd2da8d7af64797a6d2f28c4035ecf5580b1b8b6ddd509ce40280576dfd37",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-4568953323609-image-36900899455065",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-407.jpg?v=1785181752",
+          "sourceUrl": "https://freelabel.com/products/black-marta-dress",
+          "sha256": "268b24f603bde187cae18b26af71980c15d7845b6a5b4565367d6d5344aa3e7b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-8187450523737-image-36198303367257",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-379.jpg?v=1777407263",
+          "sourceUrl": "https://freelabel.com/products/garnet-marta-dress",
+          "sha256": "f8e61a46fcfca7fb1260316f77037c6d2bd1b75aa5df05d86dea0f20caa44fb7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-8187450523737-image-36198303629401",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-392.jpg?v=1777407263",
+          "sourceUrl": "https://freelabel.com/products/garnet-marta-dress",
+          "sha256": "fdffa19d265a4d4381fcc7b3bf78812aa4bbd325d21a5c0a2672c28a21c8bcf6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-8099945054297-image-35293492019289",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_4476.jpg?v=1768857835",
+          "sourceUrl": "https://freelabel.com/products/cold-brew-tyler-dress",
+          "sha256": "6167404828e71895bbff43f0ba6a818b3364d8aa8e7b95a88a4459452e9bd951",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-8099945054297-image-35293501718617",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_4511.jpg?v=1768858052",
+          "sourceUrl": "https://freelabel.com/products/cold-brew-tyler-dress",
+          "sha256": "40c61da698c22485d7b38f6d92ea3885ae6c2dbb76dab737a4c4a3df7aa44d0e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-7232660275289-image-35293443948633",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_4713.jpg?v=1768857487",
+          "sourceUrl": "https://freelabel.com/products/black-tyler-dress",
+          "sha256": "f580ddfca3e06a72ef3511f6976023722207fee81f04480ce6d4ea09a3cb496d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-7232660275289-image-35293443850329",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_4589.jpg?v=1768858127",
+          "sourceUrl": "https://freelabel.com/products/black-tyler-dress",
+          "sha256": "3a5f88e1c5ca7b1567529a3f181d187ac78097e9ecb782a894a42068f7dd306b",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-8168597487705-image-36190592532569",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-27.jpg?v=1777324435",
+          "sourceUrl": "https://freelabel.com/products/black-marina-cardigan",
+          "sha256": "ad047e334851bbbb9ae359049eb61b92e84df8ad48c26adcfe7d6daae3ca9011",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "free-label-8168597487705-image-36190592467033",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-22.jpg?v=1777324435",
+          "sourceUrl": "https://freelabel.com/products/black-marina-cardigan",
+          "sha256": "fb91722e9f8bea1940f63e586469d3895d993957838e2ac0e871e6e92da6e282",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

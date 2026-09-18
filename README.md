@@ -8,7 +8,7 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
-Latest September 18 checkpoint: 7,244 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate Freenote/Snag review adds four feminine-styled outfits and four build observations, with no required-body-filter gain. Failed Esby/Sotela searches remain recorded. Presentation totals: 1,203 masculine, 4,056 feminine, 168 mixed and 1,817 unclear. The active doubling handoff records validation status. Not deployed.
+Latest September 18 checkpoint: 7,250 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate Andcollar/Free Label review adds six outfits and four build observations, with no required-body-filter gain. Alder's failed search remains recorded. Presentation totals: 1,204 masculine, 4,060 feminine, 168 mixed and 1,818 unclear. The active doubling handoff records validation status. Not deployed.
 
 Latest September 18 checkpoint: 7,240 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 27-candidate Strongsize/Universal Standard/Roark review adds six outfits and five build observations, with no required-body-filter gain. Presentation totals: 1,203 masculine, 4,052 feminine, 168 mixed and 1,817 unclear. The active doubling handoff supersedes historical counts below and records validation status. Not deployed.
 

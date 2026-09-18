@@ -46,6 +46,15 @@
       "deferredPages": 215
     },
     {
+      "source": "andcollar",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 1,
+      "completeExpansionReferences": 0,
+      "deferredPages": 77
+    },
+    {
       "source": "ashanderie",
       "sampledPages": 78,
       "candidateImages": 168,
@@ -206,6 +215,15 @@
       "admittedExpansionPhotos": 156,
       "completeExpansionReferences": 19,
       "deferredPages": 48
+    },
+    {
+      "source": "free-label",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 5,
+      "completeExpansionReferences": 0,
+      "deferredPages": 34
     },
     {
       "source": "freenote",
@@ -41798,6 +41816,230 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Josephine_-_Broderie_Anglaise_Wrap_Dress_2.jpg?v=1777909758",
               "sourceUrl": "https://snagtights.com/products/broderie-anglaise-wrap-dress-cassis-de-violet",
               "sha256": "6876589f60777065f762646d8c4be4b727cae4911eef01a3fa746f72b80f1e64",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0610-targeted/sources.json",
+      "retrievedAt": "2026-09-18T06:02:34.148291+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "andcollar",
+          "pages": [
+            {
+              "url": "https://andcollar.com/products.json?limit=250&page=1",
+              "products": 172,
+              "retrievedAt": "2026-09-18T06:02:31.786070+00:00",
+              "snapshotSha256": "00b9a9d45fd6fb1655ac166feadb351801b4a039f2a1d143f38bba6facd35c08"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "andcollar-4760208638061-image-43169275740356",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1copy_46746860-dc0f-4b0a-a0df-03daf2d3d82e.png?v=1768538539",
+              "sourceUrl": "https://andcollar.com/products/clemson",
+              "sha256": "1a98d332f2e6e1881a3b58cb96f56f347c2fb663f6748db938b7fe85dee55fc9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-4760208638061-image-43169275805892",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1_d6f44d7c-0758-4edb-9d2f-d0a08add279a.png?v=1741301008",
+              "sourceUrl": "https://andcollar.com/products/clemson",
+              "sha256": "9ca3912d62db48ba8ae877ada8209b08b3cd48699b5b02e56d4d45633790ff2b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-7339240161476-image-43169350648004",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1copy_d345f479-ff99-4c65-ac7b-fc09dd570dd5.png?v=1741302247",
+              "sourceUrl": "https://andcollar.com/products/vancouver",
+              "sha256": "b86f87878ded4204f1d57c9d3aa20f7f71aecf2676b0989de857eff3c715267f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-7339240161476-image-43169350582468",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1copy2_697f7df6-d737-453a-b950-e06e2dafd7cf.png?v=1741302247",
+              "sourceUrl": "https://andcollar.com/products/vancouver",
+              "sha256": "7dea2f8f40c3e84c7cd9c6889b27a84304e4b4ecc5c3d5b2cadfa5e9e44fa5d0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-7019863834820-image-43169366704324",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1copy_b932eb81-4ce1-42fc-9f68-a78a2a37a58b.png?v=1768537772",
+              "sourceUrl": "https://andcollar.com/products/acadia",
+              "sha256": "d2f6a221e2161fa89d6188a9dbdc67485d3a7c9dfd141784fa315c9ca049df07",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-7019863834820-image-43169366638788",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1_23f14f11-73c9-4050-aeae-3cb7459dbb0d.png?v=1741302553",
+              "sourceUrl": "https://andcollar.com/products/acadia",
+              "sha256": "72d21eba654b2758976df6d22a5c8836825cb8fcc9efbfddfe1075f6a869bc61",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-7912504262852-image-48521308209348",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Hawaiian.png?v=1775668953",
+              "sourceUrl": "https://andcollar.com/products/range-shirt-floral-pattern",
+              "sha256": "cd36cbc65e3cd9fd90867c0726eebdf5b87bf06248c5c428ee27dc902798dcd3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-7912504262852-image-45358110605508",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Pattern_Range_LS_floral_pattern_Detail.jpg?v=1775668953",
+              "sourceUrl": "https://andcollar.com/products/range-shirt-floral-pattern",
+              "sha256": "2e73c19c12655a3fbf1f8b28ce05804bf9fae5448fa20a17aece66a443983370",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-8258782724292-image-44281156960452",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1copy10.png?v=1748043338",
+              "sourceUrl": "https://andcollar.com/products/range-shirt-charcoal-w-black-windowpane",
+              "sha256": "25b1553bf5a676070bced3ca1cd66614beb9c6680716ba10875528c60955f3f5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-8258782724292-image-44281156993220",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1copy11.png?v=1748043338",
+              "sourceUrl": "https://andcollar.com/products/range-shirt-charcoal-w-black-windowpane",
+              "sha256": "56f1005079ff38c13660c0fa5f1a3f28f39685d20fac4509c309369142adf1a0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-6043757347012-image-43169241006276",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1copy_7629ce17-9e75-414a-9830-4342dc363b61.png?v=1768538213",
+              "sourceUrl": "https://andcollar.com/products/helsinki",
+              "sha256": "4cb69d3c04353dcc9876a9cca9146ad53682243ec936219c6cea41d539da408d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andcollar-6043757347012-image-43169240940740",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0038/4522/6605/files/Artboard1_7468c1a8-6a63-4d74-b1ff-6d18051ba552.png?v=1741300744",
+              "sourceUrl": "https://andcollar.com/products/helsinki",
+              "sha256": "cdd4ec59d2caf748e581c0abb92412663b0eb2b70e2cff3fa3726c98eb8ae3ae",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "alder",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://alderapparel.com/products.json?limit=250&page=1",
+              "error": "Expecting value: line 1 column 1 (char 0)"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0615-contours/sources.json",
+      "retrievedAt": "2026-09-18T06:02:53.584624+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "free-label",
+          "pages": [
+            {
+              "url": "https://freelabel.com/products.json?limit=250&page=1",
+              "products": 101,
+              "retrievedAt": "2026-09-18T06:02:51.839817+00:00",
+              "snapshotSha256": "a484d737dd00e76bdc70e4ffffa2016870baf4f6cdee0d04d615e18798e3e481"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "free-label-8187450228825-image-36198297141337",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-360.jpg?v=1777407072",
+              "sourceUrl": "https://freelabel.com/products/twilight-marta-dress",
+              "sha256": "761db59d94f23d1649846ac26e756d147fec8bde5d97a39f1bea5b237f7b5373",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-8187450228825-image-36198297403481",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-377.jpg?v=1777407072",
+              "sourceUrl": "https://freelabel.com/products/twilight-marta-dress",
+              "sha256": "7504beec69e1e36c97e49d2d5a8b8886b476de0dbf35af45f7b5337f5990f9f3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-4568953323609-image-36900899586137",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-398.jpg?v=1785181752",
+              "sourceUrl": "https://freelabel.com/products/black-marta-dress",
+              "sha256": "866dd2da8d7af64797a6d2f28c4035ecf5580b1b8b6ddd509ce40280576dfd37",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-4568953323609-image-36900899455065",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-407.jpg?v=1785181752",
+              "sourceUrl": "https://freelabel.com/products/black-marta-dress",
+              "sha256": "268b24f603bde187cae18b26af71980c15d7845b6a5b4565367d6d5344aa3e7b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-8187450523737-image-36198303367257",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-379.jpg?v=1777407263",
+              "sourceUrl": "https://freelabel.com/products/garnet-marta-dress",
+              "sha256": "f8e61a46fcfca7fb1260316f77037c6d2bd1b75aa5df05d86dea0f20caa44fb7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-8187450523737-image-36198303629401",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-392.jpg?v=1777407263",
+              "sourceUrl": "https://freelabel.com/products/garnet-marta-dress",
+              "sha256": "fdffa19d265a4d4381fcc7b3bf78812aa4bbd325d21a5c0a2672c28a21c8bcf6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-8099945054297-image-35293492019289",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_4476.jpg?v=1768857835",
+              "sourceUrl": "https://freelabel.com/products/cold-brew-tyler-dress",
+              "sha256": "6167404828e71895bbff43f0ba6a818b3364d8aa8e7b95a88a4459452e9bd951",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-8099945054297-image-35293501718617",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_4511.jpg?v=1768858052",
+              "sourceUrl": "https://freelabel.com/products/cold-brew-tyler-dress",
+              "sha256": "40c61da698c22485d7b38f6d92ea3885ae6c2dbb76dab737a4c4a3df7aa44d0e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-7232660275289-image-35293443948633",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_4713.jpg?v=1768857487",
+              "sourceUrl": "https://freelabel.com/products/black-tyler-dress",
+              "sha256": "f580ddfca3e06a72ef3511f6976023722207fee81f04480ce6d4ea09a3cb496d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-7232660275289-image-35293443850329",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/250811_-_Free_Label_-__B5_4589.jpg?v=1768858127",
+              "sourceUrl": "https://freelabel.com/products/black-tyler-dress",
+              "sha256": "3a5f88e1c5ca7b1567529a3f181d187ac78097e9ecb782a894a42068f7dd306b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-8168597487705-image-36190592532569",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-27.jpg?v=1777324435",
+              "sourceUrl": "https://freelabel.com/products/black-marina-cardigan",
+              "sha256": "ad047e334851bbbb9ae359049eb61b92e84df8ad48c26adcfe7d6daae3ca9011",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "free-label-8168597487705-image-36190592467033",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0941/5270/files/FreeLabelFall2-22.jpg?v=1777324435",
+              "sourceUrl": "https://freelabel.com/products/black-marina-cardigan",
+              "sha256": "fb91722e9f8bea1940f63e586469d3895d993957838e2ac0e871e6e92da6e282",
               "outcome": "downloaded-unique"
             }
           ],

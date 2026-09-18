@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7244/7244; unreviewed: 0.
+Reviewed: 7250/7250; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1203 | 16.6% | 1138 | 45 | 44 |
-| feminine | 4056 | 56% | 3614 | 32 | 148 |
+| masculine | 1204 | 16.6% | 1139 | 46 | 44 |
+| feminine | 4060 | 56% | 3618 | 33 | 148 |
 | mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1817 | 25.1% | 1692 | 57 | 97 |
+| unclear | 1818 | 25.1% | 1693 | 58 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":140,"3":65,"unknown":368,"2.5":61,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":390,"3":249,"unknown":578,"1.5":2533,"2.5":279} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| masculine | {"1":3,"2":141,"3":65,"unknown":368,"2.5":61,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":390,"3":250,"unknown":579,"1.5":2534,"2.5":280} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":153,"3":215,"1.5":817,"unknown":515,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":153,"3":215,"1.5":817,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -35,6 +35,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | activetruth.com.au | 0 | 0 | 0 | 2 | 0 |
 | alexmill.com | 1 | 0 | 0 | 7 | 0 |
 | americantall.com | 4 | 0 | 0 | 2 | 0 |
+| andcollar.com | 1 | 0 | 0 | 0 | 0 |
 | ashanderie.com | 19 | 0 | 0 | 5 | 0 |
 | barbellapparel.com | 0 | 0 | 0 | 9 | 0 |
 | bearbottomclothing.com | 1 | 0 | 0 | 4 | 0 |
@@ -52,6 +53,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | forestinkclothing.com | 0 | 78 | 0 | 2 | 0 |
 | forthefit.com | 3 | 1 | 0 | 3 | 0 |
 | foxblood.com | 2 | 123 | 0 | 31 | 0 |
+| freelabel.com | 0 | 4 | 0 | 1 | 0 |
 | freshcleantees.com | 1 | 1 | 0 | 9 | 0 |
 | girlfriend.com | 0 | 6 | 0 | 9 | 0 |
 | goodlifeclothing.com | 0 | 0 | 0 | 2 | 0 |
