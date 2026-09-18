@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 11063,
-  "admittedPhotos": 7087,
-  "totalPhotos": 7472,
+  "reviewedCandidates": 11093,
+  "admittedPhotos": 7098,
+  "totalPhotos": 7483,
   "axisSupport": {
-    "build": 5775,
-    "shoulderHip": 325,
-    "waist": 608
+    "build": 5786,
+    "shoulderHip": 326,
+    "waist": 609
   },
-  "completeReferences": 252,
-  "sourcePages": 6524,
+  "completeReferences": 253,
+  "sourcePages": 6534,
   "excludedReasons": {
-    "non-outfit-view": 3918,
+    "non-outfit-view": 3937,
     "existing-source-page": 58
   },
   "excluded": [
@@ -15916,6 +15916,82 @@
     },
     {
       "id": "chicsoul-8871792541878-image-43663033303222",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8991109382360-image-48452746477784",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8991130779864-image-48452704764120",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8991130779864-image-48452704665816",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8991165907160-image-48452733042904",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "shinybynature-8991165907160-image-48452732911832",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15608710201731-image-86485246935427",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-6831842426985-image-30172552626281",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15790619754883-image-86333541187971",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15607158243715-image-84541188309379",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15656353563011-image-86332132557187",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-4288649920617-image-80518528172419",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-4288649920617-image-80518528237955",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637705097262-image-34050154856494",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637704998958-image-34049715994670",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637704900654-image-34050154364974",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637704409134-image-34050153447470",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637704409134-image-34050153381934",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637704343598-image-34049710981166",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "universalstandard-7637704343598-image-34049710948398",
       "reason": "non-outfit-view"
     }
   ]

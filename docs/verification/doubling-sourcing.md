@@ -1,6 +1,18 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,472 photos; 2,740 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: final scheduled sprint checkpoint, verified, not deployed; target unmet. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,483 photos; 2,729 further admissions required. This document is the active handoff; older verification documents describe earlier checkpoints.
+
+## Final scheduled sprint checkpoint
+
+The 21:00 UTC run (`con_03r7xrAiEkum37WL`) directly reviews 30 candidates in combined batch `2026-09-18T2115-final`, preserving original ordinals from external `2110-final` and `2115-final` collections. Three bound sheets, three enlarged originals and comparison against all seven preceding And Sons admissions support eleven outfits: one Shiny by Nature, five And Sons and five Universal Standard. Additions are three masculine-styled, four feminine-styled and four unclear ensembles. Five rear views and fourteen repeated poses/crops/print/color variants are excluded. Four first-page snapshots retain all 673 listing decisions. Kirrin Finch supplies no new candidates in its current listing; this is not source exhaustion.
+
+Totals: 7,483 photos, 7,242 body records, 5,910 build observations and 295 complete references (46 masculine, 150 feminine, two mixed, 97 unclear). Presentation totals are 1,266 masculine, 4,147 feminine, 171 mixed and 1,899 unclear, with no unreviewed admissions. One frontal red-top/gray-trouser reference supports all three axes and improves three of 45 sampled required-body-filter settings. Twelve settings remain empty; the broader-build benchmark stays at 55. The target remains unmet by 2,729 admissions.
+
+Fetched baseline `47440e6` matches origin/personal-discovery and includes fetched default origin/main, confirmed through GitHub. Earlier photo/asset/body/presentation prefixes and all admitted image bytes pass preservation. All 3,744 pending training candidates retain original ordinal/hash bindings beginning at 1056. All 30 candidate/original-ordinal bindings, three sheet hashes and ten original source/review-file bindings validate. All 12,237 previous sampled records remain unchanged; all 50,715 previous deferred records remain queued or are now sampled, with 267 refreshed listing-provenance records. Inventory now contains 12,252 sampled and 50,704 deferred pages.
+
+Admission replay, complete presentation audit, original/all-asset checks, library audit, sourcing/batch checks and typecheck pass. All 131 unit tests pass in one run (181,482 assertions, 374.68 seconds). The isolated build and all 86 browser checks pass (3.1 minutes, tracing disabled). All twelve validation exit markers are zero; logs remain in external `expansion-2026-09-18T2115-final`. No checks remain pending or failing. The final remote fetch finds no concurrent branch update. Exact count expectations are updated without changing assertions, matching behavior or timeouts.
+
+This is the last scheduled run before the September 18 21:23 UTC deadline. Do not extend or recreate the sprint. This run's bounded review and validation are complete; no further collection is planned. Future separately authorized sourcing should prioritize independent fitted untied full-front masculine and fuller-build separates; these cardigan layers, pinafore colorways and printed-tee repeats have low contour yield. Do not reimport either external collection or alter the pending training partition. Deployment remains pending and live production is untouched. Earlier sections are historical.
 
 ## Current continuation: collared and fuller-build gallery review
 

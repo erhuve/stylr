@@ -1,0 +1,280 @@
+{
+  "retrievedAt": "2026-09-18T21:03:11.926611+00:00",
+  "retrievalTimeBasis": "Completion timestamp of last collection; each listing retains its actual retrieval timestamp and original snapshot binding.",
+  "scope": "Four publishers searched: Kirrin Finch, Shiny by Nature, And Sons and Universal Standard; at most three listing pages of 250 products and six unsampled products per publisher, first/third gallery images. Four successful first-page snapshots preserve all 673 listing decisions; Kirrin Finch supplied no new candidates. Labels derive only from direct image inspection.",
+  "sources": [
+    {
+      "source": "kirrinfinch",
+      "pages": [
+        {
+          "url": "https://kirrinfinch.com/products.json?limit=250&page=1",
+          "products": 71,
+          "retrievedAt": "2026-09-18T21:02:34.718768+00:00",
+          "snapshotSha256": "be272ab5a1692cb73d59d82c1bb4371d47be52ee8999492125c8e5afa1c1a63f",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2110-final/raw/kirrinfinch-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "shinybynature",
+      "pages": [
+        {
+          "url": "https://shinybynature.com/products.json?limit=250&page=1",
+          "products": 102,
+          "retrievedAt": "2026-09-18T21:02:35.129914+00:00",
+          "snapshotSha256": "170562c0539d1a0ff42c7fd342bd80c59d8ed6094f7d120b7e579edac8e313b5",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2110-final/raw/shinybynature-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "shinybynature-8991109382360-image-48452746510552",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6917.jpg?v=1758237771",
+          "sourceUrl": "https://shinybynature.com/products/cambridge-dress-burgundy-plaid",
+          "sha256": "b84e3f269584abf2ca41a72ef11002d5523bf8d92cadd01307f37ce4a02a91e0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8991109382360-image-48452746477784",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6918.jpg?v=1758237771",
+          "sourceUrl": "https://shinybynature.com/products/cambridge-dress-burgundy-plaid",
+          "sha256": "53cf1194b5ad39225415915caaa5281e40cd1dcba97a560a56a359b2a138298f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8991130779864-image-48452704764120",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6906.jpg?v=1758237348",
+          "sourceUrl": "https://shinybynature.com/products/cambridge-dress-twilight-plaid",
+          "sha256": "40d6cff4f5c9beabfa82c3c2caf94df816aed999e9e7b80939a6e687242a18c7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8991130779864-image-48452704665816",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6907.jpg?v=1758237348",
+          "sourceUrl": "https://shinybynature.com/products/cambridge-dress-twilight-plaid",
+          "sha256": "3c477dbb439c7a75b93040b99fe7d8d71c835eb358549046d31dd9bdf08e895d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8991165907160-image-48452733042904",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6912.jpg?v=1758237554",
+          "sourceUrl": "https://shinybynature.com/products/cambridge-dress-maple-plaid",
+          "sha256": "9147306506ee63d8189388d6271e4814589f854f4aea27790afc6642bb3c142f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "shinybynature-8991165907160-image-48452732911832",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0596/2439/0832/files/IMG_6913.jpg?v=1758237554",
+          "sourceUrl": "https://shinybynature.com/products/cambridge-dress-maple-plaid",
+          "sha256": "0c9898ba1e51793b3f99198a7389000ede213532d4dcb84d9bc2dc6ab3badbe5",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 6
+    },
+    {
+      "source": "andsons",
+      "pages": [
+        {
+          "url": "https://andsons.co.uk/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T21:03:06.382623+00:00",
+          "snapshotSha256": "e5cd4bd0c217124aad0853c390a9952a685808f74e74fcd84e5fc107d1a134bf",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2115-final/raw/andsons-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "andsons-15608710201731-image-86485246869891",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/1CardiganMcQueenMaxPurpleLSMOBILE.jpg?v=1789549474",
+          "sourceUrl": "https://andsons.co.uk/products/mcqueen-max-knitted-cardigan-maroon",
+          "sha256": "d152e41e68449ca4e7197a38741d5d36859b6b4392f09a9d6fd96984bf473095",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-15608710201731-image-86485246935427",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/3CardiganMcQueenMaxPurpleLSMOBILE.jpg?v=1789549474",
+          "sourceUrl": "https://andsons.co.uk/products/mcqueen-max-knitted-cardigan-maroon",
+          "sha256": "81b07014d976d31168f99b6b095f4a1c014b8788147d69f89ffa20ce743d50f6",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-6831842426985-image-30172552429673",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/products/CardiganVarsityNavyLSMOBILE1.jpg?v=1662731332",
+          "sourceUrl": "https://andsons.co.uk/products/varsity-cardigan-navy",
+          "sha256": "5c6449f9e288216686acc9aa2a3adeb3e9806af63f1a88f6f9e762b2cab8b261",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-6831842426985-image-30172552626281",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/products/CardiganVarsityNavyLSMOBILE3.jpg?v=1662731333",
+          "sourceUrl": "https://andsons.co.uk/products/varsity-cardigan-navy",
+          "sha256": "47ac98a85ec2c2bf647d2f9f80fb95895c00892f2ba93797cc9ea9bef2b3d801",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-15790619754883-image-86333541122435",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/1OutriderWaxedCoatBlackLSMOBILE.jpg?v=1788861922",
+          "sourceUrl": "https://andsons.co.uk/products/outrider-raincoat-black",
+          "sha256": "51225cc31f89381f5c904f6f4ddb5bedd66b61072eafbae793b635c0170db50c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-15790619754883-image-86333541187971",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/3OutriderWaxedCoatBlackLSMOBILE.jpg?v=1788861923",
+          "sourceUrl": "https://andsons.co.uk/products/outrider-raincoat-black",
+          "sha256": "90bf773a5b7172b2c1480a2bc25d32194514fba673c5b35dbfb7dd8cd2e85849",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-15607158243715-image-84541188243843",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/1T-ShirtDogtownRetroStripeRawLSMOBILE.jpg?v=1781178915",
+          "sourceUrl": "https://andsons.co.uk/products/dogtown-t-shirt-retro-stripe",
+          "sha256": "0b8ea67ef50d671ccb060c1094b0da9656f4488af1597e179275143edea9be63",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-15607158243715-image-84541188309379",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/3T-ShirtDogtownRetroStripeRawLSMOBILE.jpg?v=1781178915",
+          "sourceUrl": "https://andsons.co.uk/products/dogtown-t-shirt-retro-stripe",
+          "sha256": "f9e3afac56a4d62fb45ef1211cbeff67ef028628de8e07c3de579f99c8c5e7ce",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-15656353563011-image-86332132491651",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/1JumperLomondKnittedNavyLSMOBILE.jpg?v=1788856745",
+          "sourceUrl": "https://andsons.co.uk/products/lomond-knitted-jumper-navy",
+          "sha256": "58b23b0bfa06e150321cb0bd2728c6641ed447fa897aebbc1922eb99184afab0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-15656353563011-image-86332132557187",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/3JumperLomondKnittedNavyLSMOBILE.jpg?v=1788856746",
+          "sourceUrl": "https://andsons.co.uk/products/lomond-knitted-jumper-navy",
+          "sha256": "654ac88658834863cec440b8c84b587635c028f65c33cd46ec2bf4b8402bbc76",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-4288649920617-image-80518528172419",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/Cardigan_Pioneer_British_Wool_Navy_LS_MOBILE_1.jpg?v=1763733794",
+          "sourceUrl": "https://andsons.co.uk/products/copy-of-sons-pioneer-british-wool-cardigan-navy",
+          "sha256": "a5ab65a9e1db92c68ea805c305e54fe37966a00ae3a9fb23d27bae92d1c1e5a7",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-4288649920617-image-80518528237955",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/Cardigan_Pioneer_British_Wool_Navy_LS_MOBILE_3.jpg?v=1763733794",
+          "sourceUrl": "https://andsons.co.uk/products/copy-of-sons-pioneer-british-wool-cardigan-navy",
+          "sha256": "bdb0594b403895a3fa932c280bb8fd24c58e87cfe26f56cf5d0b98119f38dce1",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "universalstandard",
+      "pages": [
+        {
+          "url": "https://www.universalstandard.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T21:03:09.167114+00:00",
+          "snapshotSha256": "1308ccfc6ed09efa6d039c905ec74f9745c0ccacd26de44676f8cca79137b214",
+          "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/expansion-2026-09-18T2115-final/raw/universalstandard-1.json"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "universalstandard-7637705097262-image-34050154856494",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_13_062_c53a7a85-d50e-441c-98e2-93389fb67c0a.jpg?v=1787860386",
+          "sourceUrl": "https://www.universalstandard.com/products/louise-short-sleeve-liquid-jersey-top-mystic-blossom",
+          "sha256": "974e69652192528f8a9ba72772cacc524d5b1161808c2e04891464d374b4405d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637705097262-image-34050154889262",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_13_063_5612dbb4-52f2-4348-b2be-454be0e82e03.jpg?v=1787860386",
+          "sourceUrl": "https://www.universalstandard.com/products/louise-short-sleeve-liquid-jersey-top-mystic-blossom",
+          "sha256": "580b3dcbe66f8f3778fdcea589d5651de0048fcd79e33ab0a00f83fcdae9ac10",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637704998958-image-34049715994670",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_27_017.jpg?v=1787843177",
+          "sourceUrl": "https://www.universalstandard.com/products/louise-short-sleeve-liquid-jersey-top-dark-gray-heather",
+          "sha256": "bcc11d747f072bc7683aa41be4f193f2e686b064405d4ff3ae9148c56b86aa23",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637704998958-image-34049716027438",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_27_029.jpg?v=1787843177",
+          "sourceUrl": "https://www.universalstandard.com/products/louise-short-sleeve-liquid-jersey-top-dark-gray-heather",
+          "sha256": "47912e74225e26ce5e02f472a07ad5cf39df389131c33dabf44ea9a4ff4f8729",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637704900654-image-34050154364974",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_09_050.jpg?v=1787860345",
+          "sourceUrl": "https://www.universalstandard.com/products/louise-short-sleeve-liquid-jersey-top-deep-red",
+          "sha256": "1b9d3001433c16c5b5ea4f9dccd88eeaf7e69b86641ec5e398f4dea82934a16d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637704900654-image-34054785499182",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/USTO1706-1157-Louise-Stovepipe-Sleeve-Top-Deep-Red_001_013.jpg?v=1788125980",
+          "sourceUrl": "https://www.universalstandard.com/products/louise-short-sleeve-liquid-jersey-top-deep-red",
+          "sha256": "1492e9e19b18b8215a2f02e922035fcc2e54f7f67b77fa27fbe7abcdf8f01710",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637704409134-image-34050153447470",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_20_037.jpg?v=1787860291",
+          "sourceUrl": "https://www.universalstandard.com/products/lily-liquid-jersey-crew-neck-stovepipe-tee-gamay-serpent-print",
+          "sha256": "ee0fad9fc5ce40ec0369eafa6d31fd5721a54061db3392a03bc1e5610d2cad65",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637704409134-image-34050153381934",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_20_022.jpg?v=1787860291",
+          "sourceUrl": "https://www.universalstandard.com/products/lily-liquid-jersey-crew-neck-stovepipe-tee-gamay-serpent-print",
+          "sha256": "de6c64a1738fb8b23e200f081ab4c49c7fda8218094818a49fe73ba798c7da69",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637704343598-image-34049710981166",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_35_010_0791fa34-1c0d-428b-adb8-2bb27830d20b.jpg?v=1787842862",
+          "sourceUrl": "https://www.universalstandard.com/products/lily-liquid-jersey-v-neck-stovepipe-tee-mystic-blossom",
+          "sha256": "eef737b6ff76e9735c07bb0458a5d8dfb07a8af0132137622d248e40eafb5bce",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7637704343598-image-34049710948398",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_35_008_10861260-ce9d-41a6-a35e-1d73e5f81b37.jpg?v=1787842862",
+          "sourceUrl": "https://www.universalstandard.com/products/lily-liquid-jersey-v-neck-stovepipe-tee-mystic-blossom",
+          "sha256": "43a0ea3e6f8528c12c23410dcf91a3745df4b5645ba82ee580dfb4c41add9d6e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647484018734-image-34050233270318",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/UNIVERSALSTANDARD_08.06.262465.jpg?v=1787863421",
+          "sourceUrl": "https://www.universalstandard.com/products/katia-liquid-jersey-collared-top-pony",
+          "sha256": "b2f54da6eac30c0f485274a59df725e613257b2a65aa9ac355abb97606e355be",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "universalstandard-7647484018734-image-34055929692206",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/USTO2257-665-Katia-Polo-Pony_002_023.jpg?v=1788197014",
+          "sourceUrl": "https://www.universalstandard.com/products/katia-liquid-jersey-collared-top-pony",
+          "sha256": "f9c76847202112eeb7c3d60f3bbe899dbb9433fd3aa1ea88de89976cdb710bf3",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

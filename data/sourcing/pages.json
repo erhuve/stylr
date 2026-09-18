@@ -1446,6 +1446,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://andsons.co.uk/products/copy-of-sons-pioneer-british-wool-cardigan-navy",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-4288649920617-image-80518528172419",
+      "andsons-4288649920617-image-80518528237955"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/dogtown-t-shirt-retro-stripe",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15607158243715-image-84541188243843",
+      "andsons-15607158243715-image-84541188309379"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://andsons.co.uk/products/eiger-mountain-shirt-lake-blue",
     "source": "andsons",
     "candidateIds": [
@@ -1474,6 +1502,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://andsons.co.uk/products/lomond-knitted-jumper-navy",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15656353563011-image-86332132491651",
+      "andsons-15656353563011-image-86332132557187"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/mcqueen-max-knitted-cardigan-maroon",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15608710201731-image-86485246869891",
+      "andsons-15608710201731-image-86485246935427"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/outrider-raincoat-black",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15790619754883-image-86333541122435",
+      "andsons-15790619754883-image-86333541187971"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://andsons.co.uk/products/sons-takin-fleece-jacket-natural",
     "source": "andsons",
     "candidateIds": [
@@ -1496,6 +1566,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/varsity-cardigan-navy",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-6831842426985-image-30172552429673",
+      "andsons-6831842426985-image-30172552626281"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -114810,6 +114894,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://shinybynature.com/products/cambridge-dress-burgundy-plaid",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8991109382360-image-48452746477784",
+      "shinybynature-8991109382360-image-48452746510552"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/cambridge-dress-maple-plaid",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8991165907160-image-48452732911832",
+      "shinybynature-8991165907160-image-48452733042904"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://shinybynature.com/products/cambridge-dress-twilight-plaid",
+    "source": "shinybynature",
+    "candidateIds": [
+      "shinybynature-8991130779864-image-48452704665816",
+      "shinybynature-8991130779864-image-48452704764120"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://shinybynature.com/products/celestial-denim-shorts",
     "source": "shinybynature",
     "candidateIds": [
@@ -158634,6 +158760,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://www.universalstandard.com/products/katia-liquid-jersey-collared-top-pony",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7647484018734-image-34050233270318",
+      "universalstandard-7647484018734-image-34055929692206"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://www.universalstandard.com/products/kelsey-denim-jacket-americana-wash-with-red-stitching",
     "source": "universalstandard",
     "candidateIds": [
@@ -158695,6 +158835,76 @@
       "data/catalog-review/intake.json"
     ],
     "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/lily-liquid-jersey-crew-neck-stovepipe-tee-gamay-serpent-print",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637704409134-image-34050153381934",
+      "universalstandard-7637704409134-image-34050153447470"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/lily-liquid-jersey-v-neck-stovepipe-tee-mystic-blossom",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637704343598-image-34049710948398",
+      "universalstandard-7637704343598-image-34049710981166"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/louise-short-sleeve-liquid-jersey-top-dark-gray-heather",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637704998958-image-34049715994670",
+      "universalstandard-7637704998958-image-34049716027438"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/louise-short-sleeve-liquid-jersey-top-deep-red",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637704900654-image-34050154364974",
+      "universalstandard-7637704900654-image-34054785499182"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
+  },
+  {
+    "sourceUrl": "https://www.universalstandard.com/products/louise-short-sleeve-liquid-jersey-top-mystic-blossom",
+    "source": "universalstandard",
+    "candidateIds": [
+      "universalstandard-7637705097262-image-34050154856494",
+      "universalstandard-7637705097262-image-34050154889262"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2115-final/intake.json"
+    ],
+    "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },

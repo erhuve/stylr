@@ -1,24 +1,24 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7472,
-  "reviewedPhotos": 7472,
+  "catalogPhotos": 7483,
+  "reviewedPhotos": 7483,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1263,
+      "photos": 1266,
       "percent": 16.9,
-      "sourcePages": 1198,
+      "sourcePages": 1201,
       "sourceHosts": 70,
       "completeReferences": 46,
       "byBuild": {
         "1": 3,
-        "2": 168,
+        "2": 169,
         "3": 65,
         "unknown": 379,
         "2.5": 62,
-        "1.5": 586
+        "1.5": 588
       },
       "completeByBuild": {
         "1": 1,
@@ -30,22 +30,22 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4143,
+      "photos": 4147,
       "percent": 55.4,
-      "sourcePages": 3699,
+      "sourcePages": 3703,
       "sourceHosts": 50,
-      "completeReferences": 149,
+      "completeReferences": 150,
       "byBuild": {
         "1": 27,
-        "2": 399,
+        "2": 401,
         "3": 262,
         "unknown": 584,
-        "1.5": 2572,
+        "1.5": 2574,
         "2.5": 299
       },
       "completeByBuild": {
         "1": 7,
-        "2": 24,
+        "2": 25,
         "3": 20,
         "1.5": 67,
         "2.5": 31
@@ -70,18 +70,18 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1895,
+      "photos": 1899,
       "percent": 25.4,
-      "sourcePages": 1770,
+      "sourcePages": 1774,
       "sourceHosts": 84,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
         "2": 167,
         "3": 217,
-        "1.5": 859,
+        "1.5": 862,
         "unknown": 526,
-        "2.5": 119
+        "2.5": 120
       },
       "completeByBuild": {
         "1": 2,
@@ -591,14 +591,15 @@
       "categories": [
         {
           "presentation": "masculine",
-          "photos": 6,
-          "percent": 85.7,
-          "sourcePages": 6,
+          "photos": 9,
+          "percent": 75,
+          "sourcePages": 9,
           "sourceHosts": 1,
           "completeReferences": 0,
           "byBuild": {
-            "2": 4,
-            "unknown": 2
+            "2": 5,
+            "unknown": 2,
+            "1.5": 2
           },
           "completeByBuild": {}
         },
@@ -624,13 +625,14 @@
         },
         {
           "presentation": "unclear",
-          "photos": 1,
-          "percent": 14.3,
-          "sourcePages": 1,
+          "photos": 3,
+          "percent": 25,
+          "sourcePages": 3,
           "sourceHosts": 1,
           "completeReferences": 0,
           "byBuild": {
-            "2": 1
+            "2": 1,
+            "1.5": 2
           },
           "completeByBuild": {}
         },
@@ -4588,13 +4590,13 @@
         },
         {
           "presentation": "feminine",
-          "photos": 77,
-          "percent": 70.6,
-          "sourcePages": 52,
+          "photos": 78,
+          "percent": 70.9,
+          "sourcePages": 53,
           "sourceHosts": 1,
           "completeReferences": 14,
           "byBuild": {
-            "2": 2,
+            "2": 3,
             "3": 9,
             "2.5": 66
           },
@@ -4615,7 +4617,7 @@
         {
           "presentation": "unclear",
           "photos": 32,
-          "percent": 29.4,
+          "percent": 29.1,
           "sourcePages": 28,
           "sourceHosts": 1,
           "completeReferences": 13,
@@ -5981,7 +5983,7 @@
         {
           "presentation": "masculine",
           "photos": 3,
-          "percent": 3.5,
+          "percent": 3.3,
           "sourcePages": 3,
           "sourceHosts": 1,
           "completeReferences": 0,
@@ -5993,19 +5995,20 @@
         },
         {
           "presentation": "feminine",
-          "photos": 49,
-          "percent": 57,
-          "sourcePages": 46,
+          "photos": 52,
+          "percent": 57.1,
+          "sourcePages": 49,
           "sourceHosts": 1,
-          "completeReferences": 4,
+          "completeReferences": 5,
           "byBuild": {
-            "2": 3,
+            "2": 4,
             "3": 7,
             "2.5": 12,
-            "1.5": 17,
+            "1.5": 19,
             "unknown": 10
           },
           "completeByBuild": {
+            "2": 1,
             "1.5": 2,
             "2.5": 2
           }
@@ -6022,17 +6025,17 @@
         },
         {
           "presentation": "unclear",
-          "photos": 34,
-          "percent": 39.5,
-          "sourcePages": 32,
+          "photos": 36,
+          "percent": 39.6,
+          "sourcePages": 34,
           "sourceHosts": 1,
           "completeReferences": 3,
           "byBuild": {
             "2": 4,
             "3": 4,
             "unknown": 8,
-            "1.5": 10,
-            "2.5": 8
+            "1.5": 11,
+            "2.5": 9
           },
           "completeByBuild": {
             "2.5": 2,
