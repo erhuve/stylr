@@ -1,0 +1,22 @@
+{
+  "baseline": "de907ac",
+  "unchangedPrefixes": {
+    "scripts/reviewed-photos.json": 7014,
+    "scripts/reviewed-assets.json": 7014,
+    "data/catalog-review/admitted-body.json": 7014,
+    "data/presentation/review.json": 7399
+  },
+  "pendingTrainingUnchanged": 3744,
+  "candidateBindings": 112,
+  "reviewCounts": {
+    "U": 17,
+    "admissions": 24,
+    "complete": 0,
+    "build": 22,
+    "C": 3,
+    "D": 3,
+    "M": 1
+  },
+  "listingDecisions": 1256,
+  "sheetBindings": 10
+}

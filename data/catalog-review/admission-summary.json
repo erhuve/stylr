@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10794,
-  "admittedPhotos": 7014,
-  "totalPhotos": 7399,
+  "reviewedCandidates": 10906,
+  "admittedPhotos": 7038,
+  "totalPhotos": 7423,
   "axisSupport": {
-    "build": 5705,
-    "shoulderHip": 319,
-    "waist": 606
+    "build": 5727,
+    "shoulderHip": 321,
+    "waist": 607
   },
   "completeReferences": 252,
-  "sourcePages": 6451,
+  "sourcePages": 6475,
   "excludedReasons": {
-    "non-outfit-view": 3722,
+    "non-outfit-view": 3810,
     "existing-source-page": 58
   },
   "excluded": [
@@ -15132,6 +15132,358 @@
     },
     {
       "id": "billyreid-8162675523628-image-47656663285804",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-8033556758606-image-56049946984526",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-8033556758606-image-56049946951758",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7686317572174-image-35083669241934",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7686322978894-image-35083757158478",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7686322978894-image-35105371521102",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7686519193678-image-54485632712782",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7686519193678-image-54485632647246",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7821306265678-image-49737908944974",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7827262570574-image-54417746821198",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7827480707150-image-54421635760206",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7827480707150-image-54421635825742",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7827481067598-image-54420675428430",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7871761121358-image-48672148258894",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7585348255822-image-33694574542926",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7585348255822-image-33694575231054",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7585349140558-image-33694575755342",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7585349140558-image-33694575853646",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outdoorvoices-7585349468238-image-33694589747278",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-7169389658298-image-43542243082426",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-7169389658298-image-43542243147962",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-7169371701434-image-43541907996858",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498981044410-image-43322627063994",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498981044410-image-43322627129530",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498980946106-image-43369906667706",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498980946106-image-43370321117370",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498983174330-image-43370786750650",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498983174330-image-43370786783418",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498983272634-image-43370928177338",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498983272634-image-43370928242874",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-7325226827962-image-32922013466810",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498983960762-image-43355105558714",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498983960762-image-43354457276602",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498983829690-image-43283289931962",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498983829690-image-43283289997498",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498982125754-image-43168952615098",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498982125754-image-43168967131322",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498982027450-image-43168803815610",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498982027450-image-43168847167674",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498980782266-image-43161441992890",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "ledbury-8498980782266-image-43161442058426",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-7987486785775-image-47625853436143",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-7134779932829-image-31125762670749",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-6705293852829-image-48530082726127",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-9562192969967-image-49032523383023",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-7134780031133-image-39608143544559",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-7750268649711-image-39715519103215",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-7778521645295-image-48483708666095",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-7778521645295-image-48483708633327",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-7536820879599-image-39719482523887",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-9441860288751-image-43618472591599",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-9441863401711-image-45044261585135",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-9441863401711-image-43620093952239",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-7536820551919-image-39718991200495",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-6954870964381-image-48066755526895",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "goodmanbrand-6954870964381-image-48066755494127",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8795606778038-image-42116378886326",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8795606778038-image-42116378919094",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8753201709238-image-41227825348790",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8753226711222-image-41227868733622",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8330085597366-image-40852413382838",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8330085597366-image-40852413350070",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8225960427702-image-39447102062774",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8334527430838-image-39277803143350",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8334529298614-image-39277836468406",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8334529298614-image-39277854949558",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8225923039414-image-40903464419510",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8225923039414-image-40903464386742",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8299879628982-image-38880697778358",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8299879628982-image-38880698958006",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8299883102390-image-38880675070134",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8299883102390-image-38880675004598",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8151902650550-image-38802828001462",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8151902650550-image-38802827935926",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8151905894582-image-38802803622070",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8151905894582-image-38802803654838",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8152216273078-image-38803099025590",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8152216928438-image-38803024609462",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8152216928438-image-38803024642230",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8152219517110-image-38803001409718",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8152222531766-image-38802784551094",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8152222531766-image-38802784518326",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-6546714722486-image-32451693510838",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-6546737299638-image-32478397595830",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-6546737299638-image-31759986655414",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-4665515671618-image-28280633524406",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-4665515671618-image-28280633426102",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8238884880566-image-37420489277622",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "junoactive-8238884880566-image-37420489375926",
       "reason": "non-outfit-view"
     }
   ]

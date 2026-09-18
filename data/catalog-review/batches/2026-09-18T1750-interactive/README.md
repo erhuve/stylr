@@ -1,0 +1,13 @@
+# Independent collared ensembles and recovered activewear sourcing
+
+September 18, 2026. Direct assistant review of 112 image-bound candidates on ten numbered sheets. Ordinal mappings preserve all constituent manifests and original sheet positions. All 24 admitted photographs are from previously unused source pages; Outdoor Voices, Ledbury, Good Man Brand and JunoActive add admitted publishers.
+
+Admissions: 24 outfits, with 22 approximate build observations and no complete three-axis references. Presentation: four masculine-styled, three feminine-styled and seventeen unclear. Neutral tees and activewear are not labeled masculine based on the wearer or retailer. Repeated poses, prints/colorways, rear views and product details are excluded. Enlarged originals recheck Outdoor Voices ordinal 14 and Good Man Brand ordinals 28, 30 and 34. Loose hems, skirts, seated poses and structured layers leave unsupported axes unknown. Catalog reaches 7,423; complete references remain 294, including 46 masculine-styled. All 45 sampled required-body-filter settings are unchanged, with twelve empty settings and 55 broader-build benchmark matches.
+
+Ten source endpoints were attempted. Gender Free World returned non-JSON; Day/Won and GRRRL returned HTTP 404, Rodd & Gunn HTTP 410, and Lola Getts HTTP 402. Superfit Hero's first listing supplied no unsampled eligible products. These are bounded search outcomes, not proof of source exhaustion.
+
+JunoActive's first pass incorrectly excluded all 354 listing products because its broad category prefix was `Apparel & Accessories`. The collector now removes that generic prefix before applying its existing apparel/accessory filters, matching the older collection helper. A regression fixture verifies actual shirts remain eligible while bags and underwear remain excluded. The initial source snapshots and decisions are preserved; a separately recorded first-page retry selects twenty product pages and produces forty directly reviewed candidates. New labels still come only from the photographs.
+
+Next priority: fitted untied full-front separates across broader builds and independent masculine collared ensembles. JunoActive's initial tunics and tees provide approximate build observations but hide waist and hip contours; later fitted activewear pages deserve a bounded follow-up. Ledbury's first/third images mostly show folded shirts and cuffs. Avoid padding admissions with further graphic tee prints or basic knit colorways.
+
+Preservation and image bindings are recorded in `preservation.json` and `evidence-validation.json`. The 3,744 pending training records retain original ordinals and hashes. See `docs/verification/doubling-sourcing.md` for full validation status. Not deployed.

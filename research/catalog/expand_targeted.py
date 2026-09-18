@@ -53,7 +53,8 @@ def collect(output, products, sources):
                 status['pages'].append({'url': url, 'products': len(payload['products']), 'retrievedAt': datetime.now(timezone.utc).isoformat(), 'snapshotSha256': hashlib.sha256((output / 'raw' / f'{source}-{page}.json').read_bytes()).hexdigest()})
                 for product in payload['products']:
                     address = f'https://{host}/products/{product["handle"]}'
-                    description = product['title'] + ' ' + (product.get('product_type') or '')
+                    category = (product.get('product_type') or '').replace('Apparel & Accessories', 'Apparel')
+                    description = product['title'] + ' ' + category
                     photos = product.get('images', [])
                     if source_key(address) in used:
                         decision = 'previously-sampled'

@@ -352,6 +352,15 @@
       "deferredPages": 141
     },
     {
+      "source": "goodmanbrand",
+      "sampledPages": 12,
+      "candidateImages": 24,
+      "reviewedExpansionCandidates": 24,
+      "admittedExpansionPhotos": 9,
+      "completeExpansionReferences": 0,
+      "deferredPages": 38
+    },
+    {
       "source": "igigi",
       "sampledPages": 6,
       "candidateImages": 12,
@@ -370,6 +379,15 @@
       "deferredPages": 98
     },
     {
+      "source": "junoactive",
+      "sampledPages": 20,
+      "candidateImages": 40,
+      "reviewedExpansionCandidates": 40,
+      "admittedExpansionPhotos": 7,
+      "completeExpansionReferences": 0,
+      "deferredPages": 106
+    },
+    {
       "source": "kirrinfinch",
       "sampledPages": 61,
       "candidateImages": 132,
@@ -386,6 +404,15 @@
       "admittedExpansionPhotos": 5,
       "completeExpansionReferences": 0,
       "deferredPages": 159
+    },
+    {
+      "source": "ledbury",
+      "sampledPages": 12,
+      "candidateImages": 24,
+      "reviewedExpansionCandidates": 24,
+      "admittedExpansionPhotos": 2,
+      "completeExpansionReferences": 0,
+      "deferredPages": 202
     },
     {
       "source": "lucyandyak",
@@ -503,6 +530,15 @@
       "admittedExpansionPhotos": 2,
       "completeExpansionReferences": 0,
       "deferredPages": 175
+    },
+    {
+      "source": "outdoorvoices",
+      "sampledPages": 12,
+      "candidateImages": 24,
+      "reviewedExpansionCandidates": 24,
+      "admittedExpansionPhotos": 6,
+      "completeExpansionReferences": 0,
+      "deferredPages": 182
     },
     {
       "source": "outerknown",
@@ -47931,6 +47967,959 @@
             }
           ],
           "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1750-interactive/sources.json",
+      "retrievedAt": "2026-09-18T17:54:11.883743+00:00",
+      "retrievalTimeBasis": "Completion timestamp of last collection; each listing retains its actual retrieval timestamp and original snapshot binding.",
+      "scope": "Ten sources attempted; bounded at three listing pages per source, twelve new products per source then twenty JunoActive products after correcting generic category exclusion. First/third gallery images. Failed endpoints and initial category-filtered decisions are preserved separately.",
+      "sources": [
+        {
+          "source": "genderfreeworld",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://www.genderfreeworld.com/products.json?limit=250&page=1",
+              "error": "Expecting value: line 1 column 1 (char 0)"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "daywon",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://day-won.com/products.json?limit=250&page=1",
+              "error": "404 Client Error: Not Found for url: https://day-won.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "outdoorvoices",
+          "pages": [
+            {
+              "url": "https://www.outdoorvoices.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T17:50:50.850370+00:00",
+              "snapshotSha256": "1bfd0a725c7eb55dfbdf9c8a3560e5c1421b2a9737e42f3518cb41a29b0ae639",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/interactive-2026-09-18T1750/batch/raw/outdoorvoices-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "outdoorvoices-8033556758606-image-56049946984526",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/TechSweat3.5inShort_Night_000.jpg?v=1789482716",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-techsweat-3-5-short-night",
+              "sha256": "cf6a72a60735ecb7a3724fdd5c2f3dfa075611ec77995327157f8259621ddf76",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-8033556758606-image-56049946951758",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/TechSweat3.5inShort_Night_2732.jpg?v=1789482716",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-techsweat-3-5-short-night",
+              "sha256": "83c3cab96d214c0414bd83a924bace3280325ce31a4c06d745991baf674f8dca",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7686317572174-image-35083669241934",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/desert-shirt-outdoor-voices-light-blue-oversized-fit_4.jpg?v=1776644663",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-desert-shirt-salt",
+              "sha256": "14ac3d7ca63f5e2df619890198799e15e6c0904e82470ad182a2773e99bf97e5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7686317572174-image-35083669209166",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/desert-shirt-outdoor-voices-light-blue-oversized-fit-cloudknit.jpg?v=1776620890",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-desert-shirt-salt",
+              "sha256": "c23dc7f6cdc7c238dfae62cbc1f74e75d0a1ed46c77b3d583a48afb69ccffff5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7686322978894-image-35083757158478",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/desert-pant-outdoor-voices-light-blue-wide-leg-cloudknit_2.jpg?v=1776644639",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-desert-pant-salt",
+              "sha256": "af243fec08754b677023c262ccc8b7916adf1cea44647ca591410a09ae8eff09",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7686322978894-image-35105371521102",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/outdoor-voices-desert-pant-salt-wash-wide-leg-cloudknit.jpg?v=1776644639",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-desert-pant-salt",
+              "sha256": "a2793ef5a34d7f389b52965e22996e8d92738d038e4bd5fe1f93c1e07f263e9b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7686519193678-image-54485632712782",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W702036-JOF-PLD_Ride_Pant_Plaid_Earth_000.jpg?v=1787079687",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-ride-pant-plaid",
+              "sha256": "432d63a779e5c1030b432386d4ed8c6e3972fa1fc3da2a730b1f264967f3ca04",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7686519193678-image-54485632647246",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W702036-JOF-PLD_Ride_Pant_Plaid_Earth_3570.jpg?v=1787079686",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-ride-pant-plaid",
+              "sha256": "265542dacef57d1f97774dc2734793985a6ce3a11cffc4c41dd50a0719519cc1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7821306265678-image-49737908944974",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W700111-DCW-PKO_RecTrekZipPant_PinkDust_000.jpg?v=1778274112",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-rectrek-zip-pant-pink-dust",
+              "sha256": "21c174f15e9285046dc1c64431d4ac3a73bec6dc0095aa374e83b312b9f96d7e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7821306265678-image-54577266950222",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/Original_outdoors2.png?v=1787238365",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-rectrek-zip-pant-pink-dust",
+              "sha256": "1181889c107b928da0a8bdba2aabd6b75cb682be418c91934955fdc2d00d1df7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7827262570574-image-54418154225742",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W302340-YDC-PKO_Club_Polo_Pink_Dust_000.jpg?v=1786975316",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-club-polo-dusty-pink-stripe",
+              "sha256": "96328181416bf84526b6eaadb5ffe8beee80ba2c0e7da6e7efc86a680f26f6ce",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7827262570574-image-54417746821198",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/club-polo-pink-dust-1.jpg?v=1786975122",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-club-polo-dusty-pink-stripe",
+              "sha256": "620367da9f08f597eaeba9845e302af2519db370f8b76f90b13ec9222ab8e1f2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7827480707150-image-54421635760206",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/waffle-baby-tee-outdoor-voices-dusty-pink-1.jpg?v=1786979837",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-waffle-baby-tee-dusty-pink",
+              "sha256": "098f7eabde774b1041821416515fe91d2c62961df10b588fce9082983dd939a1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7827480707150-image-54421635825742",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/waffle-baby-tee-outdoor-voices-dusty-pink-3.jpg?v=1786979908",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-waffle-baby-tee-dusty-pink",
+              "sha256": "12530e693f2a22c045d386e9bb47d62b2714b5d8559cbb9ac837b5e828f0b82f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7827481067598-image-54420675330126",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/waffle-tee-outdoor-voices-white-2.jpg?v=1786978778",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-waffle-baby-tee-white",
+              "sha256": "d94369ea35ec22c2366cfa9e7c8f33f8c14f0ae45c254e76763ee26b5e279e0d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7827481067598-image-54420675428430",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/waffle-tee-outdoor-voices-white-5.jpg?v=1786978847",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-waffle-baby-tee-white",
+              "sha256": "d87107bf787b92cfbb4f7a83ef34915c393b519b4fc1ec60a3cf1da020ab6f9f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7871761121358-image-48672148324430",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W400902-LWV-BOT_EnergyDress_Botanical_2937.jpg?v=1776386297",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-energy-dress-botanical",
+              "sha256": "4fd9ab3d7f8f0b7d1cdb12e3aad4d621a00d1b0a2fec26ad7fe6d1a8f7766e00",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7871761121358-image-48672148258894",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W400902-LWV-BOT_EnergyDress_Botanical_2967.jpg?v=1776386297",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-energy-dress-botanical",
+              "sha256": "e975c119fbc65ee405694926f9be1daee5a873d507589a59fe75b82c194bd8aa",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7585348255822-image-33694574542926",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W701427-WTS-BLB_The_Exercise_3in_Skort_Blueberry_030_crop_5b78d1af-95d2-43f5-a138-7b4d15666fa7.jpg?v=1759272329",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-the-exercise-3in-skort-blueberry",
+              "sha256": "5e10259abe8dbd68989c00f66a8390e29a7c8cb9331fd288620effefc17957c3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7585348255822-image-33694575231054",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W701427-WTS-BLB_The_Exercise_3in_Skort_Blueberry_036_a459c477-c9a3-4100-a4a8-89cb968c0d6d.jpg?v=1742251743",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-the-exercise-3in-skort-blueberry",
+              "sha256": "9cd0638ff8323abdfd2933b8524ea620a15556e21f114b570a931d024e061c89",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7585349140558-image-33694575755342",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W402143-BIT-SEN_The_Volley_Dress_Sea_Green_014_2a69219a-30cc-4178-b208-a0c8c69c807a.jpg?v=1742254668",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-the-volley-dress-sea-green",
+              "sha256": "07846b57f358a865386df30e185d7ec1674f214b5b1b1825922e2ac8cd27bb01",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7585349140558-image-33694575853646",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/W402143-BIT-SEN_The_Volley_Dress_Sea_Green_093_369faa17-8abd-42aa-8eb5-2de62e8bbbf2.jpg?v=1742254668",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-the-volley-dress-sea-green",
+              "sha256": "7f2977e1b1158a763d89e62244d713996096e919d6d8363584d583684d4891d9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7585349468238-image-33694590009422",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/volley_editorial_newcrop_f3eff7a6-8493-4d35-b5ce-733d56c86fb9.jpg?v=1762269648",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-the-volley-dress-tea-tree",
+              "sha256": "a03fca12f4dd2229c0ecb926b6c231a0e1918d7cca1bb9ce88ac585be9bef983",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outdoorvoices-7585349468238-image-33694589747278",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0190/1390/files/7K3A8233_3_c15ba1cb-87b6-461d-b78f-dc5677699cf8.jpg?v=1742251753",
+              "sourceUrl": "https://www.outdoorvoices.com/products/w-the-volley-dress-tea-tree",
+              "sha256": "aa53e69b33049f47d3628a4c567bef13cdcae2e2ef3dc85296b09962452c6a3c",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 24
+        },
+        {
+          "source": "roddandgunn",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://www.roddandgunn.com/products.json?limit=250&page=1",
+              "error": "410 Client Error: Gone for url: https://www.roddandgunn.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "ledbury",
+          "pages": [
+            {
+              "url": "https://www.ledbury.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T17:51:39.098622+00:00",
+              "snapshotSha256": "45bc7ddf2cd6be2ae25cc7545bad6578f19328a3505e5724fa3e899eedcfcdb1",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/interactive-2026-09-18T1750/more/raw/ledbury-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "ledbury-7169389658298-image-43542243082426",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/The-Farwell-Gingham-1W22S2-201--flat_f060495d-cc6a-45c5-9c74-20363c4e0776_1_60.webp?v=1789074295",
+              "sourceUrl": "https://www.ledbury.com/products/the-pumpkin-farwell-gingham-custom-shirt",
+              "sha256": "667b2f0fb8dba46b8126c25095c072b06b687d41b22b3cd52aacc170e93a993d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-7169389658298-image-43542243147962",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/The-Farwell-Gingham-1W22S2-201-5-sleeve_e1e82d12-a565-4612-bfc7-360746944529_1_40.webp?v=1789074295",
+              "sourceUrl": "https://www.ledbury.com/products/the-pumpkin-farwell-gingham-custom-shirt",
+              "sha256": "79cac333ff3139d4398f5cfe974edeb661a4487976c337bd91f96a123e155060",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-7169371701434-image-43541907996858",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/The-Sylvan-Soft-Twill-1W22R4-316--flat_f8447b8b-2f67-458b-9842-b1fe9a6650b5_2_80.webp?v=1789072624",
+              "sourceUrl": "https://www.ledbury.com/products/the-bordeaux-sylvan-soft-twill-custom-shirt",
+              "sha256": "95cc5b1c87c3eeae3c695889de5f17abe4bdcab38d2345922ba099d1aacafc26",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-7169371701434-image-43541908062394",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/The-Sylvan-Soft-Twill-1W22R4-316-3-collar_5b77659b-43da-433d-b212-a783b292bbd9_3_60.webp?v=1789072624",
+              "sourceUrl": "https://www.ledbury.com/products/the-bordeaux-sylvan-soft-twill-custom-shirt",
+              "sha256": "1634cb37867bd8f7fb3ac11e20c42d6748f17d5d39f17e2d89f1f10ce10fe42a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498981044410-image-43322627063994",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W25M4-401-The-Lilac-Fratney-Gingham-Comfort-Stretch1-thumb.webp?v=1788389414",
+              "sourceUrl": "https://www.ledbury.com/products/the-lavender-fratney-gingham-comfort-stretch-custom-shirt",
+              "sha256": "c0d42cdfa9b374c7af7aa4bf4d2ff556f6cd976e9b75ecb3a6fb842e262f1d2c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498981044410-image-43322627129530",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W25M4-401-The-Lilac-Fratney-Gingham-Comfort-Stretch3-sleeve.webp?v=1788389414",
+              "sourceUrl": "https://www.ledbury.com/products/the-lavender-fratney-gingham-comfort-stretch-custom-shirt",
+              "sha256": "4d04abf9d39dea595684869f7acd251a27181a9c47affdf085f4e812df8c1eee",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498980946106-image-43369906667706",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W25M4-500-The-Light-Blue-Fratney-Gingham-Comfort-Stretch1-thumb.webp?v=1788542439",
+              "sourceUrl": "https://www.ledbury.com/products/the-light-blue-fratney-gingham-comfort-stretch-custom-shirt",
+              "sha256": "c348ba4d128a3ad419b25e47a216da304d8f6a00ab0c365b320ed1f32118741b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498980946106-image-43370321117370",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W25M4-500-The-Light-Blue-Fratney-Gingham-Comfort-Stretch3-sleeve_2_59.webp?v=1788543717",
+              "sourceUrl": "https://www.ledbury.com/products/the-light-blue-fratney-gingham-comfort-stretch-custom-shirt",
+              "sha256": "f8dce38dc93874a32765d57137628e2786fd4f8eece32dbecff9463b5e5d8c3e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498983174330-image-43370786750650",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26K1-824-1-The-Chestnut-Keenan-Flannel1-thumb_1_80.webp?v=1788545597",
+              "sourceUrl": "https://www.ledbury.com/products/the-chestnut-keenan-flannel-custom-shirt",
+              "sha256": "f1167743ec60364b73339b336654244d6132f74d0ff62dd076751f418bfff07e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498983174330-image-43370786783418",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26K1-824-1-The-Chestnut-Keenan-Flannel3-sleeve_3_60.webp?v=1788545595",
+              "sourceUrl": "https://www.ledbury.com/products/the-chestnut-keenan-flannel-custom-shirt",
+              "sha256": "75576b20956355ac707d41de4d843f226d1df4d16a366d2dc045e4e2c31c294f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498983272634-image-43370928177338",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26K2-714-The-Hunter-Quinton-Flannel1-thumb_2_75.webp?v=1788546119",
+              "sourceUrl": "https://www.ledbury.com/products/the-hunter-quinton-flannel-custom-shirt",
+              "sha256": "2ded358be70a8f1d9b18dd8dd39b9d65d0709f6e577ad78cdef2df7c61233cd8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498983272634-image-43370928242874",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26K2-714-The-Hunter-Quinton-Flannel3-sleeve_1_55.webp?v=1788546119",
+              "sourceUrl": "https://www.ledbury.com/products/the-hunter-quinton-flannel-custom-shirt",
+              "sha256": "e3ade15a9002598ddffbb347b5586bb078d83007d3a8f600272e2d15d3b34f04",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-7325226827962-image-32922013466810",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/products/The-Singer-Check-1W23E3-699--flat.jpg?v=1750708360",
+              "sourceUrl": "https://www.ledbury.com/products/the-navy-singer-check-custom-shirt",
+              "sha256": "0be2ece3d0a0a4f6f83e5a426cb3419b11be7311ab623e0b15553cf292357817",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-7325226827962-image-38722553381050",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/The-Lovern-Check-1W23K1-600-lifestyle_4_optimized.webp?v=1750708360",
+              "sourceUrl": "https://www.ledbury.com/products/the-navy-singer-check-custom-shirt",
+              "sha256": "74f577b8164a5d57d4ce4d5ff8231d205f7522463fa6f8fae4207a4142029d53",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498983960762-image-43355105558714",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26K5-694-The-Vintage-Navy-Albiate-Carberry-Check1-thumb_2_65.webp?v=1788465367",
+              "sourceUrl": "https://www.ledbury.com/products/the-vintage-navy-carberry-check-custom-shirt",
+              "sha256": "fb163365109e2f8a36885fac9f7007201379b503b86b78ce28cb30ef3b2fa1f6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498983960762-image-43354457276602",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26K5-694-The-Vintage-Navy-Albiate-Carberry-Check3-sleeve_2_45.webp?v=1788462886",
+              "sourceUrl": "https://www.ledbury.com/products/the-vintage-navy-carberry-check-custom-shirt",
+              "sha256": "80367498f6d631511477123d9f3f3d913cd33a3db09ab06eb5726961a5fbbf7b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498983829690-image-43283289931962",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26K5-749-The-Vintage-Green-Albiate-Carberry-Check1-thumb.webp?v=1788213721",
+              "sourceUrl": "https://www.ledbury.com/products/the-vintage-green-carberry-check-custom-shirt",
+              "sha256": "a6c4754ba691961677038fefb617618b34790c229ff967a0a225ac38a3f6bcd3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498983829690-image-43283289997498",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26K5-749-The-Vintage-Green-Albiate-Carberry-Check3-sleeve.webp?v=1788213720",
+              "sourceUrl": "https://www.ledbury.com/products/the-vintage-green-carberry-check-custom-shirt",
+              "sha256": "252eb1d0b8d5317036e23499c6b660fc77c0646df06d340379801acce10a2244",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498982125754-image-43168952615098",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26L3-600-The-Blue-Prosser-Stripe1-thumb.webp?v=1787755739",
+              "sourceUrl": "https://www.ledbury.com/products/the-blue-prosser-stripe-custom-shirt",
+              "sha256": "905d77d911cb6a91e87e48f0eb9dcd8e290b5636a68be663fb286e69a89cf795",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498982125754-image-43168967131322",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26L3-600-The-Blue-Prosser-Stripe3-sleeve.webp?v=1787755832",
+              "sourceUrl": "https://www.ledbury.com/products/the-blue-prosser-stripe-custom-shirt",
+              "sha256": "6884d600404212edd91ffd7b211c8f8bc82be291086d6405ed4cfd8c760dbfd7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498982027450-image-43168803815610",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26J7-500-2-The-Light-Blue-Cambell-Chambray-Utility-Shirt1-thumb_b3d2c24f-6e9e-4021-8005-6c9521c8b7a6.webp?v=1787754780",
+              "sourceUrl": "https://www.ledbury.com/products/the-light-blue-cambell-chambray-utility-custom-shirt",
+              "sha256": "70d857583df33cac7dddd56e6226208b694ecffbcc4dbddbd51182b6111804f9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498982027450-image-43168847167674",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26J7-500-2-The-Light-Blue-Cambell-Chambray-Utility-Shirt3-fabric_e9ac7c89-5c5c-4f2d-a080-280f3fbf7541.webp?v=1787754969",
+              "sourceUrl": "https://www.ledbury.com/products/the-light-blue-cambell-chambray-utility-custom-shirt",
+              "sha256": "2de6536f6de47097b04c52c1c466f8c59521a83ff10682461a916dcdadc7326e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498980782266-image-43161441992890",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26M6-500-1-The-Light-Blue-Albini-Parkland-Knit-Stripe1-thumb.webp?v=1787703205",
+              "sourceUrl": "https://www.ledbury.com/products/the-light-blue-albini-parkland-stripe-custom-shirt",
+              "sha256": "6c429fb3172c23712d585d0fa232fe2e7c1456a7460f3626ab2e37ccac6250f8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "ledbury-8498980782266-image-43161442058426",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1614/0411/files/5W26M6-500-1-The-Light-Blue-Albini-Parkland-Knit-Stripe3-sleeve.webp?v=1787703205",
+              "sourceUrl": "https://www.ledbury.com/products/the-light-blue-albini-parkland-stripe-custom-shirt",
+              "sha256": "a500a2a74d68617a04775bf2f081be58280d66229a7c99ddbe15017da43fe0ed",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 24
+        },
+        {
+          "source": "goodmanbrand",
+          "pages": [
+            {
+              "url": "https://thegoodmanbrand.com/products.json?limit=250&page=1",
+              "products": 75,
+              "retrievedAt": "2026-09-18T17:51:43.204094+00:00",
+              "snapshotSha256": "89c8d84f866c648a94ed66ff3a57c79be2d3796453d43ea5bb954d5ef68dbd2e",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/interactive-2026-09-18T1750/more/raw/goodmanbrand-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "goodmanbrand-7987486785775-image-39665658790127",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G375-1_486_TAPENADE_13048.jpg?v=1719705292",
+              "sourceUrl": "https://thegoodmanbrand.com/products/crew-tee-textured-cotton-jersey",
+              "sha256": "072413c544c02fa48a852dac6616cec5905617a3b8b4eb7ae69c5a144c31d344",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7987486785775-image-47625853436143",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G375-1_100_WHITE_15120.jpg?v=1779222132",
+              "sourceUrl": "https://thegoodmanbrand.com/products/crew-tee-textured-cotton-jersey",
+              "sha256": "01a4678427a0ac72137186df0ab75b81497497324d81b11261a2f489f85e9244",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7134779932829-image-31125762637981",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/products/G427-1_NAVY_002.jpg?v=1715636149",
+              "sourceUrl": "https://thegoodmanbrand.com/products/good-man-brand-pro-zip-hoodie-qlt-jcqrd-g427-1",
+              "sha256": "0f6be3f385084b8f4ca59d1c503d0dcf98a443825f5fb692a194f979accaac88",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7134779932829-image-31125762670749",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/products/G427-1_NAVY_023.jpg?v=1719706567",
+              "sourceUrl": "https://thegoodmanbrand.com/products/good-man-brand-pro-zip-hoodie-qlt-jcqrd-g427-1",
+              "sha256": "949f27e19376824cf32362c1a2ab4439edb753dcf62ba8855f69a34ed27b79a5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-6705293852829-image-48530082758895",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/65_G370-1BLUESPORT_1872.jpg?v=1784826551",
+              "sourceUrl": "https://thegoodmanbrand.com/products/good-man-brand-champions-crew-tee-g370-1",
+              "sha256": "2facfae2112802e20b0f04a6db0b05dc2d912c8a5302e0b692c043321d9304bf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-6705293852829-image-48530082726127",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/65_G370-1BLUESPORT_1878.jpg?v=1784826551",
+              "sourceUrl": "https://thegoodmanbrand.com/products/good-man-brand-champions-crew-tee-g370-1",
+              "sha256": "b39613c1faa6fde2a9e131ea6a70bc7c2d4f4ee8f1df7cb31c0719a493bd30d7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-9562192969967-image-49032523415791",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G382-1_001_BLACK_M_2638.jpg?v=1786556496",
+              "sourceUrl": "https://thegoodmanbrand.com/products/linen-polo-copy",
+              "sha256": "aac51d8b446dd4d04dbc103817c5b8d0bacc9d1ee9e1a4286572540a8fc86459",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-9562192969967-image-49032523383023",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G382-1_001_BLACK_M_2640.jpg?v=1786556496",
+              "sourceUrl": "https://thegoodmanbrand.com/products/linen-polo-copy",
+              "sha256": "e58361870776c8318a543ea0c7ad9de32e3acb86beaa4190f587fdb5464545bd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7134780031133-image-39608143675631",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/products/G684-1_282_WARMSAND_M_1402_624692ee-bedf-4be8-9e2d-ab567c498be6.jpg?v=1762454056",
+              "sourceUrl": "https://thegoodmanbrand.com/products/good-man-brand-cashmere-crew-g684-1",
+              "sha256": "633c072ccc0209cc4efe9843566867e422d344340b3d875bb83ab1cee79ce590",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7134780031133-image-39608143544559",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/products/G684-1_282_WARMSAND_M_1414_2d9ca275-8cde-4ca0-8249-7a7f7e523c9b.jpg?v=1762454197",
+              "sourceUrl": "https://thegoodmanbrand.com/products/good-man-brand-cashmere-crew-g684-1",
+              "sha256": "53483abee017be7ae1bb9568e6ed119a7619c45468fabc794c7e3fa7979dcd85",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7750268649711-image-39715519267055",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G368-2_655_EGRET-ENGINEERED-STRIPE_002-_1.jpg?v=1715635734",
+              "sourceUrl": "https://thegoodmanbrand.com/products/long-sleeve-crewneck-tee-in-striped-cotton-1",
+              "sha256": "4b43fe05a9a45b55f2b6afe41c983e54b248e151caa28ad85cc621c74372df04",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7750268649711-image-39715519103215",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G368-2_026_SILVER-ENGINEERED-STRIPE_009-_1.jpg?v=1719706094",
+              "sourceUrl": "https://thegoodmanbrand.com/products/long-sleeve-crewneck-tee-in-striped-cotton-1",
+              "sha256": "7d30610a641328d8787a9a2509015467194312d506835840739482dd8afff45a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7778521645295-image-48483708666095",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G368-1_312_ARMY_M_2703.jpg?v=1784560601",
+              "sourceUrl": "https://thegoodmanbrand.com/products/long-sleeve-crewneck-tee-in-cotton",
+              "sha256": "237588bb25ffe3326cef38d0b0e3a8d8751d04d671caf20eb68ab7474740bc50",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7778521645295-image-48483708633327",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G368-1_312_ARMY_M_2713.jpg?v=1784560601",
+              "sourceUrl": "https://thegoodmanbrand.com/products/long-sleeve-crewneck-tee-in-cotton",
+              "sha256": "8f15e8571ab7da0c79c4734b58e5bf2b51f13f4c7d80d7bc3c6a28791b56e421",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7536820879599-image-46491563163887",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G494-2_BLACK_038_FRONT_3706a244-5fc3-47bb-975e-95da22c08427.jpg?v=1770684651",
+              "sourceUrl": "https://thegoodmanbrand.com/products/cardigan-in-athletic-french-terry",
+              "sha256": "13e018a7d735a5b16fe8a67a9a99decbb749f4e9df1daa2e29e95a048530f3d6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7536820879599-image-39719482523887",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G494-2_312_ARMY_M_0462_3QTRS_6046ecc6-6fa3-4a5f-b6fc-5c1c0ea13fad.jpg?v=1719705188",
+              "sourceUrl": "https://thegoodmanbrand.com/products/cardigan-in-athletic-french-terry",
+              "sha256": "ee08578cdedbe09e5dcccbd1d7d8fb0670a298459c68665437405fba31e57eae",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-9441860288751-image-43618472591599",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/champion-crew-tee-organic-cotton-jersey-tees-good-man-brand-white-s-4_30710898-2a6c-47ff-bea4-8fd27bb76459.jpg?v=1761347430",
+              "sourceUrl": "https://thegoodmanbrand.com/products/champion-crew-tee-organic-cotton-jersey-1",
+              "sha256": "06cb4917d0cb535b2bcc54c4149364a720fa7dc8b6711ed71c1f9894a9921530",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-9441860288751-image-43618472952047",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/trucker-jacket-responsible-suede-jackets-good-man-brand-frost-grey-s-8_16f6874a-206e-470c-a044-fad1753b7cad.jpg?v=1761347430",
+              "sourceUrl": "https://thegoodmanbrand.com/products/champion-crew-tee-organic-cotton-jersey-1",
+              "sha256": "372987d509d23284347f80f0f451c2d85ea510f201f951eb9dc23f7dd2004677",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-9441863401711-image-45044261585135",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/GMB_July140135.jpg?v=1756960616",
+              "sourceUrl": "https://thegoodmanbrand.com/products/hi-vee-tee-organic-cotton-jersey-copy",
+              "sha256": "b44777cc61189ba017b62ff9ad5e63771c09c895419ac3cb48b9a27ea3e3c207",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-9441863401711-image-43620093952239",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/hi-vee-tee-organic-cotton-jersey-tees-good-man-brand-illusion-blue-s-2_9ab42777-0c9e-43bf-9bf4-41fa437bd8f8.jpg?v=1756960616",
+              "sourceUrl": "https://thegoodmanbrand.com/products/hi-vee-tee-organic-cotton-jersey-copy",
+              "sha256": "7a044c5dd2680897ca4ee6f35ffe2e369ade7caced7e28337c3271d44b3bf070",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7536820551919-image-39718991200495",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G4101-1_BLACK_1592_FRONT_55b47ca4-b5e7-4962-8bd0-1543b9a87902.jpg?v=1715637746",
+              "sourceUrl": "https://thegoodmanbrand.com/products/purpose-crew-sweatshirt-french-terry",
+              "sha256": "2234fe55b2347d144d3379e311a2d853a3337b805c795772a55ad1bd5a920176",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-7536820551919-image-39718991036655",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G4101-1_BLACK_0224_FULLBODY_0563af66-3478-43b3-8480-8db0cf856093.jpg?v=1715636185",
+              "sourceUrl": "https://thegoodmanbrand.com/products/purpose-crew-sweatshirt-french-terry",
+              "sha256": "6a31f98a5b2d55d43fef9636f985731fac7ae3cf22c754499a903446c4b079db",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-6954870964381-image-48066755526895",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G475-2_SILVER_3617.jpg?v=1781799675",
+              "sourceUrl": "https://thegoodmanbrand.com/products/good-man-brand-japan-hoodie-in-cotton-g475-2",
+              "sha256": "928588094ac2d3e32f57b1f3856305af861d61cb49895bf7e7ff9e5803123c6c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "goodmanbrand-6954870964381-image-48066755494127",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0412/0359/7469/files/G475-2_SILVER_3621.jpg?v=1781799674",
+              "sourceUrl": "https://thegoodmanbrand.com/products/good-man-brand-japan-hoodie-in-cotton-g475-2",
+              "sha256": "fd61c78363ab2c828840a871993b1b21cb99f72821f22a375c72d5c32ca2ee15",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 24
+        },
+        {
+          "source": "grrrl",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://www.grrrl.com/products.json?limit=250&page=1",
+              "error": "404 Client Error: Not Found for url: https://www.grrrl.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "superfithero",
+          "pages": [
+            {
+              "url": "https://superfithero.com/products.json?limit=250&page=1",
+              "products": 77,
+              "retrievedAt": "2026-09-18T17:51:48.360847+00:00",
+              "snapshotSha256": "68dbcee48f43b15d869df5c9025059b0e427d2c2f7b8c1d83fc83400dc8f17ff",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/interactive-2026-09-18T1750/more/raw/superfithero-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "lolagetts",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://www.lolagetts.com/products.json?limit=250&page=1",
+              "error": "402 Client Error: Payment Required for url: https://www.lolagetts.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "junoactive",
+          "pages": [
+            {
+              "url": "https://junoactive.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T17:53:11.214772+00:00",
+              "snapshotSha256": "8aa45e4a3bbe0833831a34ff5b475b89ff5a44f030e3975cf763fe1623db6d61",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/interactive-2026-09-18T1750/contours/raw/junoactive-1.json"
+            },
+            {
+              "url": "https://junoactive.com/products.json?limit=250&page=2",
+              "products": 104,
+              "retrievedAt": "2026-09-18T17:53:12.086571+00:00",
+              "snapshotSha256": "579a2baabd50087c6ed8f17320528f0bc952d2b1b5fc71df6d7eb7ff31518d03",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/interactive-2026-09-18T1750/contours/raw/junoactive-2.json"
+            }
+          ],
+          "errors": [],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "junoactive",
+          "pages": [
+            {
+              "url": "https://junoactive.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T17:54:06.172493+00:00",
+              "snapshotSha256": "f29b3a3b9ffdfb0813ce2ac99e600766f4e38c6385b36546fed8ab3816c8c647",
+              "snapshotPath": "/home/workspace/Documents/stylr-catalog-pilot/interactive-2026-09-18T1750/juno/raw/junoactive-1.json"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "junoactive-8795606778038-image-42116378886326",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458024-Designer_Graphic_3_4_Sleeve_V-Neck_Tunic_Hummingbirds-SR-2.jpg?v=1781118466",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-3-4-sleeve-v-neck-tunic-hummingbirds",
+              "sha256": "ec63bafe88b561485cc17cd4ac275d51d86c15e57bf0053533f460a40af8d676",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8795606778038-image-42116378919094",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458024-Designer_Graphic_3_4_Sleeve_V-Neck_Tunic_Hummingbirds-SR_jpg.jpg?v=1781118466",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-3-4-sleeve-v-neck-tunic-hummingbirds",
+              "sha256": "380e51675a12fb673dbceb383bcdcd3592b7ac33bb57cc0a7359e2102cd020d0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8753201709238-image-41227825348790",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458024-graphic-flower-Stretch_Naturals_Lite_3_4_Sleeve_V-Neck_Tunic_Flower-front-SR.jpg?v=1774539100",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-lite-3-4-sleeve-v-neck-tunic-flowers",
+              "sha256": "dc9f977c8710784ba121e69a6ae4a1c1908d500bc77787c11f5463faa176ac33",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8753201709238-image-41227825479862",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458024-graphic-flower-Stretch_Naturals_Lite_3_4_Sleeve_V-Neck_Tunic_Flower-front-fullbody-SR.jpg?v=1774538727",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-lite-3-4-sleeve-v-neck-tunic-flowers",
+              "sha256": "ce154d6598be5acca187728f7bdffd5980fdb341c736e3a9d839a89ff51665ab",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8753226711222-image-41227868733622",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458141-Stretch_Naturals_plus-size_V-Neck_Tee_Be_Real-front-SR.jpg?v=1774539725",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-v-neck-tee-be-real",
+              "sha256": "64cc3e03428451ca61315e175150b35f67a8d104092e315ddb579f3c7cc8950d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8753226711222-image-41227868700854",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458141-Stretch_Naturals_plus-size_V-Neck_Tee_Be_Real-SR.jpg?v=1774541058",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-v-neck-tee-be-real",
+              "sha256": "afaa1efdfdab66152f6978e1d96735a8e70802db713c3ecaa343ba49dd3b6e11",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8330085597366-image-40852413382838",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/427125-VivaFlexPullOnAnklePant-front-SR_f009739d-07c6-4792-afdb-37afc0fa5d89.jpg?v=1771617442",
+              "sourceUrl": "https://junoactive.com/products/vivaflex-pull-on-ankle-pant",
+              "sha256": "54e1e3403dbebf00ea7f4650e46776d5dafa2835fa9162915a4b757e36e48bd9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8330085597366-image-40852413350070",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/427125-VivaFlexPullOnAnklePant-front-full-outfit-SR.jpg?v=1771617166",
+              "sourceUrl": "https://junoactive.com/products/vivaflex-pull-on-ankle-pant",
+              "sha256": "d590cd4c9aa0c3044100e74f67a7955afc1ca2a0a234b80d41741d1bf530c60f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8225960427702-image-39447102095542",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458075-LegacyCottonCasualMockNeckZipJacket-bluesteel-SR-front.jpg?v=1763574610",
+              "sourceUrl": "https://junoactive.com/products/legacy-cotton-casual-mock-neck-zip-jacket",
+              "sha256": "ab37c96cecea50e85a9ab6ba16cb8219b0662e7541b8d49f1ca663b51c4f0209",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8225960427702-image-39447102062774",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458075-LegacyCottonCasualMockNeckZipJacket-bluesteel-SR-back.jpg?v=1763664041",
+              "sourceUrl": "https://junoactive.com/products/legacy-cotton-casual-mock-neck-zip-jacket",
+              "sha256": "ebea2a304065a01b348ff93c04824503e2350cf706502b43fb50e6b7c8474547",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8334527430838-image-39277803176118",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/Plus-Size-Designer_Graphic_Long_Sleeve_V-Neck_Plus_Size_Top_Winter_Hare-458145-SR.jpg?v=1761944639",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-long-sleeve-v-neck-top-winter-hare",
+              "sha256": "f79e9ff1887c8729b3b834ea8cdefd66e187331c43c08efa4fc77a3659feaffb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8334527430838-image-39277803143350",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/Plus-Size-Designer_Graphic_Long_Sleeve_V-Neck_Plus_Size_Top_Winter_Hare-closeup-458145-SR.jpg?v=1762029089",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-long-sleeve-v-neck-top-winter-hare",
+              "sha256": "8fed7c8e289c78cdbe5759ecfdbda8944aaadd81e2e3cf6e9c50d151f023b2ed",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8334529298614-image-39277836468406",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/Plus-Size-StretchNaturalsLongSleeveV-NeckTopScandiSnowflake-JunoActive-SR.jpg?v=1761944823",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-long-sleeve-v-neck-top-scandi-snowflake",
+              "sha256": "7212dfe9c97322952208cc1af6f42f9e1be1869a3219d3200514923679a85e95",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8334529298614-image-39277854949558",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458145-Plus-Size-Stretch_Naturals_Long_Sleeve_V-Neck_Top_Scandi_Snowflake-JunoActive-back-SR.jpg?v=1762029090",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-long-sleeve-v-neck-top-scandi-snowflake",
+              "sha256": "57ccf75f319744dc11fe5e2d24e479388f569b9ed6ea43958598e79e6d0d372a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8225923039414-image-40903464419510",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168307-wideLegTwill-1411-26_copy-SR.jpg?v=1771957800",
+              "sourceUrl": "https://junoactive.com/products/wide-leg-stretch-twill-pant",
+              "sha256": "fce0725beae0ebceb744b7532ebde0a7057b2637daf2974b8733c64ac96c272b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8225923039414-image-40903464386742",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168307-wideLegTwill-1412-27-SR.jpg?v=1771965368",
+              "sourceUrl": "https://junoactive.com/products/wide-leg-stretch-twill-pant",
+              "sha256": "2cdd7f619fbeed47c28b1c8c6a97586da28ae4533b24c5dbef7725392185e234",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8299879628982-image-38880697778358",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458145-DesignerGraphicLongSleeveV-NeckTopAmberFloraFlowerGraphicTee--6-6-edit-wrinkles-SR.jpg?v=1758579353",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-long-sleeve-v-neck-top-amber-flora",
+              "sha256": "89320d3dd76456437e11bf1314627405bbb71df758b5184dea8b404a17ccbe39",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8299879628982-image-38880698958006",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458145-flower-closeup.jpg?v=1758579368",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-long-sleeve-v-neck-top-amber-flora",
+              "sha256": "266dff2a7553ff012a2cb2b88830dd9ba1b71d5570f202a178167436a0004504",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8299883102390-image-38880675070134",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458029-DesignerGraphicLongSleeveScoopNeckTopWoodlandOwl-OwlGraphicTee--48-4-editpantone5557c-SR.jpg?v=1758320481",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-long-sleeve-scoop-neck-top-woodland-owl",
+              "sha256": "3525607ab7c3e6bfcb2edabd28abd019a60d3aa0f6203e7c4b7566ed506167fd",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8299883102390-image-38880675004598",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458029-DesignerGraphicLongSleeveScoopNeckTopWoodlandOwl-owl-image005-closeup.jpg?v=1758320481",
+              "sourceUrl": "https://junoactive.com/products/designer-graphic-long-sleeve-scoop-neck-top-woodland-owl",
+              "sha256": "1fe113ec7ead81ac5a9b4fbcc5b8f7f6f4cce6007827005333afaa37c4a43382",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8151902650550-image-38802828001462",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168123-JunoniaClassic3_4SleeveV-NeckTunicBlack-front.jpg?v=1757507680",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-3-4-sleeve-v-neck-top-black",
+              "sha256": "6a08a60282a828eba577548f6ea5f5b4b9ac28b2e4bc0f1aad44dc9c6b233134",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8151902650550-image-38802827935926",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168123-JunoniaClassic3_4SleeveV-NeckTunicBlack-back-SR.jpg?v=1757507680",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-3-4-sleeve-v-neck-top-black",
+              "sha256": "efbfd1f69fb2c26071dff233ddac65a84cf758d6a27940ae1b4716486bbbb71a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8151905894582-image-38802803622070",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168123-JunoniaClassic3_4SleeveV-NeckTunicModernIkat-front-SR.jpg?v=1757630625",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-3-4-sleeve-v-neck-tunic-modern-ikat",
+              "sha256": "daf8fd6b8b8a38e1cb3448e2deeb2c5cc24feec679edac2870e091ba80511343",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8151905894582-image-38802803654838",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168123-JunoniaClassic3_4SleeveV-NeckTunicModernIkat-side-SR.jpg?v=1757537275",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-3-4-sleeve-v-neck-tunic-modern-ikat",
+              "sha256": "2174db783a8fb3540e42c8bb6f25afcbfde80b023cc5af3c163607e28ed8b86a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8152216273078-image-38803099091126",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168124-PJunoniaClassicSleevelessTopModernIkat-SR.jpg?v=1757514066",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-sleeveless-top-modern-ikat",
+              "sha256": "048730ad33985ddc35613f707c6c2f7b862062df68c6a7209435f3a1c66c2cb8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8152216273078-image-38803099025590",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168124-JunoniaClassicSleevelessTopModernIkat-back-SR.jpg?v=1757514066",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-sleeveless-top-modern-ikat",
+              "sha256": "5c0b8f77e73a2f77672b570222d652c2d100b15fd0d2fff743426d6d227465d9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8152216928438-image-38803024609462",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168124-JunoniaClassicSleevelessTopBlack-arms.jpg?v=1757630642",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-sleeveless-top-black",
+              "sha256": "9b03f6fe62cbb2832eab95439c6837fcbf9ea207a787b88649df4cd6083c5da9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8152216928438-image-38803024642230",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168124-JunoniaClassicSleevelessTopBlack-back.jpg?v=1757630642",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-sleeveless-top-black",
+              "sha256": "2de3072048878bc5fd7e06cf5d5cfca98b54f0c1b9bbf2902f81c67bcee01745",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8152219517110-image-38803011305654",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168120-Junonia_Classic_Cardigan_Modern_Ikat_Print_Black-front-SR.jpg?v=1757512639",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-cardigan-modern-ikat-print-black",
+              "sha256": "794a22cd962deb210dc58019dc9c034ed5a88fd4e1f245852dc59e47477a68b9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8152219517110-image-38803001409718",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168120-JunoniaClassicCardiganModernIkatPrintBlack-sidecloseup-crop-SR.jpg?v=1757512639",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-cardigan-modern-ikat-print-black",
+              "sha256": "7e2e838156df6d96366aaa72b115d2cfbab864f3c5df9173141212e42c7fcdec",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8152222531766-image-38802784551094",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168121-JunoniaClassicPocketedPantBlack-crop-sr.jpg?v=1757506621",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-pocketed-pant-black",
+              "sha256": "374706e4530ef28c75ba71c21f5dcf661d74aa710dcec581a573220958f1b1e4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8152222531766-image-38802784518326",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/168121-JunoniaClassicPocketedPantBlack-back-crop-SR.jpg?v=1757506621",
+              "sourceUrl": "https://junoactive.com/products/uptown-classic-pocketed-pant-black",
+              "sha256": "7badde43883b8911eec314a22d3b118df946b7ed408c40ff04b2fb5cb6c1c627",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-6546714722486-image-32451692691638",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/products/458144-Stretch-Naturals-Short-Sleeve-Dress-FRONT-Black.jpg?v=1727816031",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-short-sleeve-dress-basic-colors",
+              "sha256": "4ad50cca8d5bce5d29e8ee6b18db253e994084293d733b29d712281672cd4f75",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-6546714722486-image-32451693510838",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/products/455144-Stretch-Naturals-Short-Sleeve-Dress-Back-Black.jpg?v=1727816038",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-short-sleeve-dress-basic-colors",
+              "sha256": "93ce5ccb267ac1cae5441cb3668848a6e0a2838916892e018e3c5222a70439b9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-6546737299638-image-32478397595830",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/products/458144-Stretch-Naturals-Short-Sleeve-Dress-FRONT-denimblue.jpg?v=1727816044",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-short-sleeve-dress-classic-colors",
+              "sha256": "7634fc621c3e50b13b7e9f5f2f626d90a7f8101c717d627b43f29065eeca1191",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-6546737299638-image-31759986655414",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/products/458144-Stretch-Naturals-Short-Sleeve-Dress-FRONT-Coraline.jpg?v=1727816055",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-short-sleeve-dress-classic-colors",
+              "sha256": "1f7898c92c7fed8a46be8762a3f034f0b952ca3c9250751c04b82e2bceed6519",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-4665515671618-image-28280633524406",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/products/427114_51410taupe2SRcropped.jpg?v=1749246061",
+              "sourceUrl": "https://junoactive.com/products/dual-layer-walking-short",
+              "sha256": "3aa8bfc1248570fa3625183d7ada9c2ee3232fe144013cb059d765c8b1760e49",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-4665515671618-image-28280633426102",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/products/427114_51410blackfrontSR.jpg?v=1749246061",
+              "sourceUrl": "https://junoactive.com/products/dual-layer-walking-short",
+              "sha256": "aac1ca1da2a4b3ce1018be9896417a2c25ade3a13fbed160cbbe64b069aecc74",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8238884880566-image-37420489277622",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458182-Stretch_Naturals_Full_Fit_Pear_Pant-front-Black-090-SR.jpg?v=1747147420",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-full-fit-pear-pant-average",
+              "sha256": "55011c29781eaa439f871cbb95e8e4a02055451fc9b73bbf966b6101d2fe3b1c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "junoactive-8238884880566-image-37420489375926",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0017/2625/1074/files/458182-Stretch_Naturals_Full_Fit_Pear_Pant-Black-108-close-up-SR.jpg?v=1747168434",
+              "sourceUrl": "https://junoactive.com/products/stretch-naturals-full-fit-pear-pant-average",
+              "sha256": "04d28ae3ebed792298592e808153d736271b2468e40d7880ecfe313d098e5879",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 40
         }
       ]
     }

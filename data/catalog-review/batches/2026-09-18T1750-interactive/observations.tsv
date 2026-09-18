@@ -1,0 +1,113 @@
+ordinal	view	build	shoulderHip	waist	evidence
+0	detail	?	?	?	Shoulderless shorts crop; insufficient outfit context
+1	back	?	?	?	Rear shorts detail
+2	reject	?	?	?	Same blue collared set as more complete view 3
+3	full	1.5	?	?	Pale blue loose collared shirt and wide trousers; drape hides waist and hips
+4	detail	?	?	?	Shoulderless trouser crop
+5	reject	?	?	?	Repeated blue collared set; horse obscures torso
+6	detail	?	?	?	Shoulderless riding-trouser crop
+7	back	?	?	?	Rear riding outfit
+8	detail	?	?	?	Side trouser detail without torso
+9	seated	?	?	?	Pink striped riding ensemble on horse; leaning side pose hides body axes
+10	partial	1.5	?	?	Striped rugby shirt with riding trousers; loose shirt hides waist and hips
+11	reject	?	?	?	Repeated striped rugby outfit with curled seated pose
+12	detail	?	?	?	Unworn tee
+13	reject	?	?	?	Tee and pale trouser variant of 14; high-angle harness-obscured view
+14	partial	1.5	?	1	Fitted pale tee with loose trousers; visible moderate torso taper but pockets and trousers hide hips
+15	detail	?	?	?	Unworn tee detail
+16	partial	2	?	?	Green fitted upper dress with flared hem; skirt construction hides hips and waist assessment
+17	back	?	?	?	Rear green dress
+18	detail	?	?	?	Shoulderless skort closeup
+19	detail	?	?	?	Side skort detail without shoulders
+20	detail	?	?	?	Unworn active dress
+21	detail	?	?	?	Pocket closeup
+22	partial	1.5	?	?	Olive active wrap-skirt dress; rotated torso and moving arms obscure axes
+23	back	?	?	?	Back neckline detail
+24	detail	?	?	?	Folded shirt
+25	detail	?	?	?	Cuff textile closeup
+26	detail	?	?	?	Folded shirt
+27	seated	?	?	?	Checked collared shirt and tan trousers; close seated crop obscures body axes
+28	detail	?	?	?	Folded shirt
+29	detail	?	?	?	Cuff textile closeup
+30	detail	?	?	?	Folded shirt
+31	detail	?	?	?	Cuff textile closeup
+32	detail	?	?	?	Folded shirt
+33	detail	?	?	?	Cuff textile closeup
+34	detail	?	?	?	Folded shirt
+35	detail	?	?	?	Cuff textile closeup
+36	detail	?	?	?	Folded shirt
+37	seated	2	?	?	Pale collared shirt with tie and dark trousers; crossed arms and sitting hide axes
+38	detail	?	?	?	Folded shirt
+39	detail	?	?	?	Cuff textile closeup
+40	detail	?	?	?	Folded shirt
+41	detail	?	?	?	Cuff textile closeup
+42	detail	?	?	?	Folded shirt
+43	detail	?	?	?	Cuff textile closeup
+44	detail	?	?	?	Unworn shirt
+45	detail	?	?	?	Textile closeup
+46	detail	?	?	?	Folded shirt
+47	detail	?	?	?	Cuff textile closeup
+48	partial	1.5	?	?	Ochre tee and matching trousers; slant and loose hem hide axes
+49	detail	?	?	?	Neckline closeup
+50	full	1.5	?	?	Dark zip hoodie and joggers; structured hoodie hides torso contours
+51	back	?	?	?	Rear hoodie outfit
+52	partial	1.5	?	?	Blue tee and pale trousers; leaning pose and straight hem obscure axes
+53	reject	?	?	?	Repeated blue tee ensemble from 28
+54	partial	2	1	?	Dark sweatshirt and trousers; shoulders visibly broader than hips, gathered hem hides waist
+55	reject	?	?	?	Repeated dark sweatshirt outfit from 30
+56	partial	2	?	?	Tan knit and trousers; knit hem and pocket pose hide proportions
+57	reject	?	?	?	Side view of tan knit ensemble from 32
+58	partial	1.5	1	?	Striped long-sleeve top and dark trousers; shoulders wider than hips, loose shirt hides waist
+59	reject	?	?	?	Striped knit colorway and pose variant of 34
+60	reject	?	?	?	Another basic long-sleeve crewneck and dark trouser colorway, represented by 30 and 34
+61	back	?	?	?	Rear long-sleeve top
+62	partial	2	?	?	Dark zip cardigan over pale tee and trousers; boxy layers obscure axes
+63	reject	?	?	?	Zip cardigan colorway variant of 38
+64	detail	?	?	?	Unworn tee
+65	partial	2	?	?	Pale collared jacket over tee with dark trousers and bag; layered torso and stride obscure axes
+66	detail	?	?	?	Unworn tee
+67	detail	?	?	?	Unworn tee back
+68	reject	?	?	?	Cropped duplicate of complete outfit 45
+69	full	1.5	?	?	Dark sweatshirt with pale cargo trousers and boots; loose layers hide axes
+70	reject	?	?	?	Basic hoodie colorway represented by complete hoodie outfit 26
+71	back	?	?	?	Rear pale hoodie
+72	reject	?	?	?	Graphic tunic colorway represented by complete view 3
+73	back	?	?	?	Rear tunic
+74	reject	?	?	?	Pink graphic tunic represented by complete view 3
+75	full	2.5	?	?	Pink long tunic and dark trousers; loose hem hides waist and hips
+76	reject	?	?	?	Cropped view of graphic tee outfit retained at 5
+77	full	2.5	?	?	Dark graphic tee and cropped trousers; loose tee and raised arms hide axes
+78	detail	?	?	?	Shoulderless trouser view
+79	reject	?	?	?	Basic tee and trouser colorway represented by 5
+80	partial	3	?	?	Blue open zip jacket over dark separates; outer layer conceals torso
+81	back	?	?	?	Rear jacket
+82	partial	2.5	?	?	Red graphic long-sleeve tee with dark trousers; loose hem conceals hips and waist
+83	detail	?	?	?	Printed motif closeup
+84	reject	?	?	?	Graphic long-sleeve tee print variant represented by 10
+85	back	?	?	?	Rear long-sleeve tee
+86	detail	?	?	?	Shoulderless trouser view
+87	back	?	?	?	Rear waistband closeup
+88	reject	?	?	?	Graphic long-sleeve tee print variant represented by 10
+89	detail	?	?	?	Printed motif closeup
+90	reject	?	?	?	Graphic long-sleeve tee print variant represented by 10
+91	detail	?	?	?	Printed motif closeup
+92	reject	?	?	?	Plain three-quarter-sleeve tunic variant represented by 3
+93	back	?	?	?	Rear tunic
+94	reject	?	?	?	Printed three-quarter-sleeve tunic variant represented by 3
+95	reject	?	?	?	Side view of printed tunic variant
+96	partial	3	?	?	Sleeveless abstract-pattern tunic and dark trousers; straight draped hem hides waist and hips
+97	back	?	?	?	Rear patterned tank
+98	reject	?	?	?	Plain tank variant represented by 24; hands at waist alter contours
+99	back	?	?	?	Rear plain tank
+100	partial	2.5	?	?	Dark jacket with patterned lapels and cuffs over dark trousers; tailoring hides proportions
+101	reject	?	?	?	Side view of jacket retained at 28
+102	detail	?	?	?	Shoulderless trouser view
+103	back	?	?	?	Rear trousers
+104	partial	2.5	?	?	Dark short-sleeve midi dress; loose straight skirt hides waist and hips
+105	reject	?	?	?	Side pose of dress retained at 32
+106	reject	?	?	?	Blue colorway of dress retained at 32
+107	reject	?	?	?	Pink colorway of dress retained at 32
+108	detail	?	?	?	Shoulderless shorts crop
+109	detail	?	?	?	Shoulderless shorts colorway crop
+110	detail	?	?	?	Shoulderless trouser view
+111	detail	?	?	?	Waistband detail

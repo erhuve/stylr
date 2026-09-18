@@ -24,11 +24,14 @@ class SourceTracking(unittest.TestCase):
             collector.save(data / 'baseline.json', [])
             collector.save(data / 'batches/old/intake.json', [{'sourceUrl': 'https://www.forestinkclothing.com/products/old/', 'sha256': 'prior'}])
             products = [{'id': index, 'handle': handle, 'title': title, 'images': [{'id': index, 'src': f'https://example.com/{index}.jpg'}] if handle != 'empty' else []} for index, (handle, title) in enumerate([('old', 'Old shirt'), ('bag', 'Bag'), ('empty', 'Empty shirt'), ('new', 'New shirt'), ('later', 'Later shirt')])]
+            for product in products:
+                product['product_type'] = 'Apparel & Accessories > Clothing > Shirts & Tops'
+            products.append({'id': 6, 'handle': 'intimate', 'title': 'Support top', 'product_type': 'Apparel & Accessories > Clothing > Underwear', 'images': [{'id': 6, 'src': 'https://example.com/6.jpg'}]})
             output = root / 'new-batch'
             with patch.object(collector, 'REPO', root), patch.object(collector.pilot, 'ROOT', root), patch.object(collector.pilot, 'fetch', return_value=json.dumps({'products': products}).encode()), patch.object(collector.pilot, 'download', side_effect=lambda row: {**row, 'sha256': 'prior'}), patch.object(collector, 'sheets'):
                 collector.collect(output, 1, ['forestink'])
             decisions = {row['title']: row['decision'] for row in json.loads((output / 'searches.json').read_text())}
-            self.assertEqual(decisions, {'Old shirt': 'previously-sampled', 'Bag': 'text-filtered', 'Empty shirt': 'no-images', 'New shirt': 'selected', 'Later shirt': 'eligible-deferred'})
+            self.assertEqual(decisions, {'Old shirt': 'previously-sampled', 'Bag': 'text-filtered', 'Empty shirt': 'no-images', 'New shirt': 'selected', 'Later shirt': 'eligible-deferred', 'Support top': 'text-filtered'})
             status = json.loads((output / 'sources.json').read_text())['sources'][0]
             self.assertEqual(status['images'][0]['outcome'], 'exact-duplicate')
             self.assertEqual(json.loads((output / 'intake.json').read_text()), [])
