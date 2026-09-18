@@ -1,0 +1,18 @@
+{
+  "baseline": "1b4cdb2",
+  "unchangedPrefixes": {
+    "scripts/reviewed-photos.json": 7112,
+    "scripts/reviewed-assets.json": 7112,
+    "data/catalog-review/admitted-body.json": 7112,
+    "data/presentation/review.json": 7497
+  },
+  "pendingTrainingUnchanged": 3744,
+  "candidateBindings": 32,
+  "enlargedOrdinals": [
+    0,
+    5,
+    23,
+    30
+  ],
+  "listingDecisions": 482
+}

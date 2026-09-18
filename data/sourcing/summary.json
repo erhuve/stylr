@@ -469,6 +469,15 @@
       "deferredPages": 202
     },
     {
+      "source": "lestrange",
+      "sampledPages": 8,
+      "candidateImages": 16,
+      "reviewedExpansionCandidates": 16,
+      "admittedExpansionPhotos": 6,
+      "completeExpansionReferences": 0,
+      "deferredPages": 191
+    },
+    {
       "source": "liverpool",
       "sampledPages": 6,
       "candidateImages": 12,
@@ -548,6 +557,15 @@
       "admittedExpansionPhotos": 0,
       "completeExpansionReferences": 0,
       "deferredPages": 151
+    },
+    {
+      "source": "municipal",
+      "sampledPages": 8,
+      "candidateImages": 16,
+      "reviewedExpansionCandidates": 16,
+      "admittedExpansionPhotos": 7,
+      "completeExpansionReferences": 0,
+      "deferredPages": 170
     },
     {
       "source": "muttonhead",
@@ -51054,6 +51072,315 @@
             }
           ],
           "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T2245-interactive/sources.json",
+      "retrievedAt": "2026-09-18T22:28:32.203268+00:00",
+      "scope": "Six source attempts; two successful first-page listings, at most eight previously unsampled product pages per successful source, first and third gallery images. Four failures retained; no source text supplies visual labels.",
+      "sources": [
+        {
+          "source": "roddandgunn",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://roddandgunn.com/products.json?limit=250&page=1",
+              "error": "410 Client Error: Gone for url: https://www.roddandgunn.com/products.json"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "mizzenmain",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://mizzenandmain.com/products.json?limit=250&page=1",
+              "error": "429 Client Error: Too Many Requests for url: https://mizzenandmain.com/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "wray",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://wray.nyc/products.json?limit=250&page=1",
+              "error": "402 Client Error: Payment Required for url: https://wray.nyc/products.json?limit=250&page=1"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
+        },
+        {
+          "source": "lestrange",
+          "pages": [
+            {
+              "url": "https://lestrangelondon.com/products.json?limit=250&page=1",
+              "products": 232,
+              "retrievedAt": "2026-09-18T22:28:25.993286+00:00",
+              "snapshotSha256": "d7c3b2fc13c25f31d5e09fe565ce37f3eeea239e716a1e40949a4ebff2abf8ac"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "lestrange-6649677119572-image-41937838375202",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/LOOK10TheEasyZipSweater_Charcoal_MerinoWool1.jpg?v=1743156605",
+              "sourceUrl": "https://lestrangelondon.com/products/the-easy-zip-sweatshirt-charcoal-merino-wool",
+              "sha256": "8cb3e2cb721b2eb90de93f6dff256a23a0cd57737ee2aa102e894bb4cdb3ee4f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-6649677119572-image-41937838539042",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/LOOK10TheEasyZipSweater_Charcoal_MerinoWool5.jpg?v=1743156605",
+              "sourceUrl": "https://lestrangelondon.com/products/the-easy-zip-sweatshirt-charcoal-merino-wool",
+              "sha256": "6a2cfbc0bda7ce2a6d4b667d0518b0700977a9c239fb93ae285cbb6b3a5425dc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-6659136061524-image-41937838244130",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/LOOK10The24OvershirtDarkKhakiStretchCotton9.jpg?v=1743156598",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-overshirt-dark-khaki-stretch-cotton",
+              "sha256": "c13a8b3960bbae3595946f46c9146f71fbe8a1389f2f4b88d5e468e818f69c3f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-6659136061524-image-41937838571810",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/LOOK10The24OvershirtDarkKhakiStretchCotton16.jpg?v=1743156598",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-overshirt-dark-khaki-stretch-cotton",
+              "sha256": "3c4ecdececc8f0f650b9caca3c9fcfe1730017a61aa1a264f26ea597d8e1432d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15013528174968-image-76365047202168",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/the-24-regular-jeans-mid-blue_1.jpg?v=1789035670",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-jeans-regular-straight-fit-mid-blue",
+              "sha256": "ffaff7d36b0441f524f6945754a092ea3d4e8186d234ec2be0f2982d94f11b9a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15013528174968-image-76365047267704",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/the-24-regular-jeans-mid-blue_3.jpg?v=1789035670",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-jeans-regular-straight-fit-mid-blue",
+              "sha256": "49941eb82a8045fa57195d629a041475cb56547664ba73774408081c94d235bc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15013528273272-image-76365045236088",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/the-24-regular-jeans-light-blue_1_6214a5ff-f6df-464d-9454-f716382e86c7.jpg?v=1789035580",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-jeans-regular-straight-fit-light-blue",
+              "sha256": "3eeddf6ab52dc0262261efbdeb9369f2fe72ac88f9ecab87e43737e803c40400",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15013528273272-image-76365045694840",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/the-24-regular-jeans-light-blue_3_a315173a-c4d1-481c-b32c-7434c0559237.jpg?v=1789035607",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-jeans-regular-straight-fit-light-blue",
+              "sha256": "430749683dda6d5f03155d4e08345f3434980837d3c64b8083b7c1816ba0095f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15013527945592-image-76364904366456",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/the-24-regular-jeans-dark-blue_1.jpg?v=1789032360",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-jeans-regular-straight-fit-dark-blue",
+              "sha256": "ba7bb48679be5655ad18cf5f2c740c03b6237598b172db7388cf5ba3db19a891",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15013527945592-image-76364904431992",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/the-24-regular-jeans-dark-blue_3.jpg?v=1789032360",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-jeans-regular-straight-fit-dark-blue",
+              "sha256": "0b63ddce23b0e9727e6058c728ad41a38c06b9f8ecc0749fdd4c6f8512ce219d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-14899940819320-image-73353988931960",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/KNITTED_T-SHIRT_NAVY_F_MAIN.jpg?v=1743676045",
+              "sourceUrl": "https://lestrangelondon.com/products/the-essential-merino-knit-tee-navy-merino-wool",
+              "sha256": "f675f63bdfef401d411f95cb18dd24d23208c81decbe6fa1596915516942f260",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-14899940819320-image-73353988768120",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/KNITTED_T-SHIRT_NAVY_D.jpg?v=1743676045",
+              "sourceUrl": "https://lestrangelondon.com/products/the-essential-merino-knit-tee-navy-merino-wool",
+              "sha256": "7313f5041e94d89bfb7a093116e3ce8cdb909ffe4ddd0da35d7bbd6684a7284a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15029294924152-image-75994798981496",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/SIDE_681c2f68-70ee-4ced-a826-2370222a63d8.png?v=1781178436",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-coach-jacket-black-tropical-wool",
+              "sha256": "37d9972ac72cc8e0e3ef971ad4ca933dfa7f36bd7c330ebbb4fd8e69ece16f12",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15029294924152-image-75994798915960",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/BACK_bcd0140a-cc25-416c-9c5d-17cde0585c87.png?v=1781178436",
+              "sourceUrl": "https://lestrangelondon.com/products/the-24-coach-jacket-black-tropical-wool",
+              "sha256": "f15ec717befe9eb09d931e260418ba0ddcd81ecbcd04b6659585efe9ef47851f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15052809404792-image-76361187131768",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/ChatGPTImageSep9_2026_09_37_18AM_1.png?v=1788939465",
+              "sourceUrl": "https://lestrangelondon.com/products/denim-preview-fitting",
+              "sha256": "3931d212a61ac32b283fb6c2dc46a0bf8c9866741ecc3cdb242b5e302ee820c5",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "lestrange-15052809404792-image-76361187164536",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0282/6210/5172/files/ChatGPTImageSep9_2026_09_37_19AM_2.png?v=1788939464",
+              "sourceUrl": "https://lestrangelondon.com/products/denim-preview-fitting",
+              "sha256": "f6558ea8dbe3727c2bd5693cb3569972ac3cb2acdd466ba5cfabe356a5228ed8",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 16
+        },
+        {
+          "source": "municipal",
+          "pages": [
+            {
+              "url": "https://municipal.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T22:28:29.603339+00:00",
+              "snapshotSha256": "c311e780346665c9c31a181653d7ce06a3048cb9757e4d97355cd135b7669a7f"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "municipal-8392813576331-image-43268525883531",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_w-beacon-vest_black_MWJKT138_detail-3.jpg?v=1789421031",
+              "sourceUrl": "https://municipal.com/products/womens-beacon-insulated-vest-black",
+              "sha256": "b52c3b310edc022ead77cd1bb751dfa30c8fce17797f02c22fc6f3c046bd31ed",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8392813576331-image-43268525817995",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_w-beacon-vest_black_MWJKT138_detail-1.jpg?v=1789421031",
+              "sourceUrl": "https://municipal.com/products/womens-beacon-insulated-vest-black",
+              "sha256": "2479a798c3f16b5921fca49d879531fcd272f63491b5d3aea2533f666fed72d7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-7831556685963-image-37636965531787",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_sport-utility-ss-t-shirt_caribbean-sea_MMTEE137_front.jpg?v=1749502039",
+              "sourceUrl": "https://municipal.com/products/sport-utility-t-shirt-caribbean-sea",
+              "sha256": "6cf92d973e80cd4634dbabdea5fbf137e5db94d50b4c71cbb0f8ad644d5fbd0e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-7831556685963-image-37636965630091",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_sport-utility-ss-t-shirt_caribbean-sea_MMTEE137_detail.jpg?v=1749502039",
+              "sourceUrl": "https://municipal.com/products/sport-utility-t-shirt-caribbean-sea",
+              "sha256": "ccf601d513737e8a4e5d7cdf1fe190fc5dd9fc307728a26ffd6434d7732af60a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322730852491-image-42980368842891",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_North-End-Insulated-Full-Zip-Hoodie_black_MMHDE114_lifestyle.jpg?v=1787330184",
+              "sourceUrl": "https://municipal.com/products/north-end-insulated-full-zip-hoodie-black",
+              "sha256": "61ec9c863bd439f0e13ada94738f2caecb964ff0c0a8bcb816a68de04d9ddc00",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322730852491-image-42980368810123",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_North-End-Insulated-Full-Zip-Hoodie_black_MMHDE114_front.jpg?v=1787330184",
+              "sourceUrl": "https://municipal.com/products/north-end-insulated-full-zip-hoodie-black",
+              "sha256": "de2529aa19a402fe34e0da8478c98083e493bf4ea622fed7e6fb79d42c047097",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-7992554094731-image-42922944037003",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_summit-polo_cameo_MMSHI072_lifestyle-2.jpg?v=1787008702",
+              "sourceUrl": "https://municipal.com/products/summit-polo-cameo",
+              "sha256": "7a26cbb0300943be1ce83bccbe2bbee39e5998716f2fa3efdcad0ef3d75146ea",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-7992554094731-image-42922944004235",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_summit-polo_cameo_MMSHI072_front.jpg?v=1787008701",
+              "sourceUrl": "https://municipal.com/products/summit-polo-cameo",
+              "sha256": "0f45ff238d51f5c379c7ef06da7466845e524920e3b9d885a962b9547723d15a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322733277323-image-42922977099915",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_sport-utility-ss-t-shirt_harbor-heather_MMTEE137_detail.jpg?v=1787009555",
+              "sourceUrl": "https://municipal.com/products/sport-utility-t-shirt-harbor-heather",
+              "sha256": "28bc9ddf95560ae797e0fa8c2ce75b8e21639395ee48a6beb853ab3fba9a34bf",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322733277323-image-42922977165451",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_sport-utility-ss-t-shirt_harbor-heather_MMTEE137_lifestyle.jpg?v=1787009555",
+              "sourceUrl": "https://municipal.com/products/sport-utility-t-shirt-harbor-heather",
+              "sha256": "0c7eb0c42a241c68c2ea2a6713ab6a4f38ebb9ec856dc4336baa21717bb3d636",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322738356363-image-42734201208971",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_womens-4-am-t-shirt_harbor_MWTPS108_flat-front.jpg?v=1784760533",
+              "sourceUrl": "https://municipal.com/products/womens-4am-t-shirt-harbor",
+              "sha256": "aeb2aa93ba7bc547a82f460e85a7b11034455572c153c56da1559c0d4d841d1d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322738356363-image-42734201176203",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_womens-4-am-t-shirt_harbor_MWTPS108_flat-back.jpg?v=1784760534",
+              "sourceUrl": "https://municipal.com/products/womens-4am-t-shirt-harbor",
+              "sha256": "9d0e52d510e8e9fe5c77de86c052ff55555be9235c5b4b08d723f09126c3ccee",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322738847883-image-42938422034571",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_womens-4-am-ls-t-shirt_harbor_MWTPS109_detail.jpg?v=1787175891",
+              "sourceUrl": "https://municipal.com/products/womens-4am-ls-t-shirt-harbor",
+              "sha256": "4cedf69966958dddd37d1bdcb04260ee8399dd795ad325d16c7a04a82cb03e12",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322738847883-image-42938422132875",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_womens-4-am-ls-t-shirt_harbor_MWTPS109_side.jpg?v=1787175891",
+              "sourceUrl": "https://municipal.com/products/womens-4am-ls-t-shirt-harbor",
+              "sha256": "b3374c27994fc545eacfe71dabf307320c431dd82db0b7cf6f42222d8f9953a7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322741469323-image-43023924494475",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_womens-fairfax-open-hem-pants_black_MWPNT113_front.jpg?v=1787606172",
+              "sourceUrl": "https://municipal.com/products/womens-fairfax-open-hem-pants-black",
+              "sha256": "c63841ef3fa258bf750653891308244d6bfa549a30e03bfd60c128066372632a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "municipal-8322741469323-image-43023924461707",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0380/4705/6011/files/municipal-apparel_womens-fairfax-open-hem-pants_black_MWPNT113_detail.jpg?v=1787606172",
+              "sourceUrl": "https://municipal.com/products/womens-fairfax-open-hem-pants-black",
+              "sha256": "7a45730448b80942209f26ba16002cf713b0c9b61252b3fb079a5c85eaaa5af0",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 16
+        },
+        {
+          "source": "alder",
+          "pages": [],
+          "errors": [
+            {
+              "url": "https://alderapparel.com/products.json?limit=250&page=1",
+              "error": "Expecting value: line 1 column 1 (char 0)"
+            }
+          ],
+          "images": [],
+          "downloadedUnique": 0
         }
       ]
     }

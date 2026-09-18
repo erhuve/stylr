@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7497/7497; unreviewed: 0.
+Reviewed: 7510/7510; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1267 | 16.9% | 1202 | 70 | 47 |
-| feminine | 4156 | 55.4% | 3709 | 50 | 150 |
+| masculine | 1272 | 16.9% | 1207 | 72 | 47 |
+| feminine | 4156 | 55.3% | 3709 | 50 | 150 |
 | mixed-androgynous | 171 | 2.3% | 164 | 13 | 2 |
-| unclear | 1903 | 25.4% | 1778 | 85 | 97 |
+| unclear | 1911 | 25.4% | 1786 | 87 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":169,"3":65,"unknown":379,"2.5":63,"1.5":588} | {"1":1,"2":19,"3":3,"2.5":11,"1.5":13} |
+| masculine | {"1":3,"2":170,"3":65,"unknown":379,"2.5":63,"1.5":592} | {"1":1,"2":19,"3":3,"2.5":11,"1.5":13} |
 | feminine | {"1":27,"2":403,"3":265,"unknown":584,"1.5":2574,"2.5":303} | {"1":7,"2":25,"3":20,"1.5":67,"2.5":31} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":77} | {"1.5":2} |
-| unclear | {"1":7,"2":170,"3":217,"1.5":862,"unknown":526,"2.5":121} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":172,"3":217,"1.5":867,"unknown":527,"2.5":121} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -74,6 +74,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | kirrinfinch.com | 66 | 0 | 0 | 9 | 0 |
 | kiyonna.com | 0 | 5 | 0 | 0 | 0 |
 | ledbury.com | 2 | 0 | 0 | 0 | 0 |
+| lestrangelondon.com | 4 | 0 | 0 | 2 | 0 |
 | liverpoolstyle.com | 0 | 3 | 0 | 0 | 0 |
 | lucyandyak.com | 1 | 12 | 1 | 39 | 0 |
 | marinelayer.com | 0 | 3 | 0 | 1 | 0 |
@@ -82,6 +83,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | midnighthour.com | 23 | 95 | 1 | 25 | 0 |
 | mochipan.com | 8 | 111 | 0 | 14 | 0 |
 | morningwitch.com | 2 | 5 | 0 | 6 | 0 |
+| municipal.com | 1 | 0 | 0 | 6 | 0 |
 | nettlestudios.com | 0 | 4 | 0 | 1 | 0 |
 | nooworks.com | 0 | 3 | 1 | 1 | 0 |
 | onebonebrand.com | 21 | 0 | 0 | 57 | 0 |

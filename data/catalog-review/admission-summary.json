@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 11129,
-  "admittedPhotos": 7112,
-  "totalPhotos": 7497,
+  "reviewedCandidates": 11161,
+  "admittedPhotos": 7125,
+  "totalPhotos": 7510,
   "axisSupport": {
-    "build": 5800,
-    "shoulderHip": 328,
-    "waist": 610
+    "build": 5812,
+    "shoulderHip": 331,
+    "waist": 611
   },
   "completeReferences": 254,
-  "sourcePages": 6544,
+  "sourcePages": 6557,
   "excludedReasons": {
-    "non-outfit-view": 3959,
+    "non-outfit-view": 3978,
     "existing-source-page": 58
   },
   "excluded": [
@@ -16080,6 +16080,82 @@
     },
     {
       "id": "snag-7615402934314-image-34205919117354",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-6649677119572-image-41937838539042",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-6659136061524-image-41937838244130",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-15013528174968-image-76365047202168",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-15013528273272-image-76365045236088",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-15013528273272-image-76365045694840",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-15013527945592-image-76364904366456",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-14899940819320-image-73353988768120",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-15029294924152-image-75994798915960",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-15052809404792-image-76361187131768",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lestrange-15052809404792-image-76361187164536",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "municipal-8392813576331-image-43268525817995",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "municipal-7831556685963-image-37636965630091",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "municipal-8322730852491-image-42980368842891",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "municipal-7992554094731-image-42922944037003",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "municipal-8322733277323-image-42922977099915",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "municipal-8322738356363-image-42734201208971",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "municipal-8322738356363-image-42734201176203",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "municipal-8322738847883-image-42938422034571",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "municipal-8322741469323-image-43023924461707",
       "reason": "non-outfit-view"
     }
   ]
