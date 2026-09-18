@@ -1,0 +1,30 @@
+{
+  "retrievedAt": "2026-09-18T09:32:25.995376+00:00",
+  "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "gfw",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://genderfreeworld.com/products.json?limit=250&page=1",
+          "error": "Expecting value: line 1 column 1 (char 0)"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "kjbrand",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://kjbrand.com/products.json?limit=250&page=1",
+          "error": "HTTPSConnectionPool(host='kjbrand.com', port=443): Max retries exceeded with url: /products.json?limit=250&page=1 (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Direct visual review
+
+September 18, 2026. All 24 candidates were inspected on two hash-bound sheets. Ordinals 0, 16, 21 and 22 were enlarged from their original files. Two comparison sheets cover all 34 prior Lucy and Yak admissions. Five distinct ensembles are retained: four neutral/unclear and one mixed outfit combining a sheer floral ruffled layer with utility dungarees. Scott Fraser Collection contributes one new publisher and a partial neutral crewneck/trouser outfit; its styling is not automatically masculine. Fourteen repeats/rear views and five product/detail images are excluded. Five apparent-build observations add no complete three-axis references. Pose, pleats, loose clothes and cropping keep unsupported axes unknown.
+
+The collector inspected complete first-page snapshots containing 171 Scott Fraser Collection and 250 Lucy and Yak products, recording every listing decision. Both And returned HTTP 404, retained in source history. Twelve candidates targeted masculine styling, with another twelve in the subsequent workwear batch. Titles, source departments, faces and sizes never supplied labels. This bounded search does not establish source exhaustion. Prioritize independent fuller-build fitted untied separates; these first/third galleries mostly contain smaller-build neutral looks and repeat colorways.
+
+Raw snapshots, original images, comparison sheets and validation logs remain in the matching external expansion directory. Training ordinals and image hashes remain untouched. No deployment.

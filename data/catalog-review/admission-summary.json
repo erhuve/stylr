@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10293,
-  "admittedPhotos": 6902,
-  "totalPhotos": 7287,
+  "reviewedCandidates": 10329,
+  "admittedPhotos": 6909,
+  "totalPhotos": 7294,
   "axisSupport": {
-    "build": 5612,
+    "build": 5618,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6341,
+  "sourcePages": 6348,
   "excludedReasons": {
-    "non-outfit-view": 3333,
+    "non-outfit-view": 3362,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13576,6 +13576,122 @@
     },
     {
       "id": "stateandliberty-15859322814545-image-69405267263569",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9425026908414-image-48465180754174",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9425026318590-image-48465180786942",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9425026318590-image-48465180557566",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9425024385278-image-48465180688638",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9425024385278-image-48465180819710",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9425014620414-image-48465120788734",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9425014620414-image-48465121018110",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9397643575550-image-48297320284414",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9397643575550-image-48297320644862",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9394147885310-image-48297335226622",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "scottfraser-9394147885310-image-48297320579326",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704155357558-image-85091841180022",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704160764278-image-85110403137910",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704157716854-image-85110505013622",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704157716854-image-85110505046390",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704157847926-image-85110484074870",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15798223667574-image-84904134705526",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15798223667574-image-84904136343926",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "lucyandyak-15704150278518-image-85150593745270",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-14987928994168-image-75437419659640",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-14997465530744-image-75487733907832",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-15036041199992-image-76376666308984",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-15036041199992-image-76376671977848",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-15036042281336-image-76305912234360",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-15036042281336-image-76278147973496",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-15036041757048-image-76295613317496",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-15036041757048-image-76278143058296",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-14996343226744-image-75537994514808",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "waxlondon-14996343226744-image-75651777757560",
       "reason": "non-outfit-view"
     }
   ]

@@ -1,0 +1,216 @@
+{
+  "retrievedAt": "2026-09-18T09:32:55.203432+00:00",
+  "scope": "3 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "bothand",
+      "pages": [],
+      "errors": [
+        {
+          "url": "https://bothandapparel.com/products.json?limit=250&page=1",
+          "error": "404 Client Error: Not Found for url: http://www.bothandapparel.com/products.json?limit=250&page=1"
+        }
+      ],
+      "images": [],
+      "downloadedUnique": 0
+    },
+    {
+      "source": "scottfraser",
+      "pages": [
+        {
+          "url": "https://scottfrasercollection.com/products.json?limit=250&page=1",
+          "products": 171,
+          "retrievedAt": "2026-09-18T09:32:50.055073+00:00",
+          "snapshotSha256": "63a8963d61028d8be8cd8b51d6e06628d1cf765fc16077f029e0c345cfbd6886"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "scottfraser-9425026908414-image-48465180655870",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Muscle_tee_-_Scott_Fraser_Collection_-_13.jpg?v=1787652801",
+          "sourceUrl": "https://scottfrasercollection.com/products/fitted-sunday-tee-3",
+          "sha256": "bddd97286e56a4ba0a456bda65bb05527686c1f93188313fa9fed5520ab8b592",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9425026908414-image-48465180754174",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Muscle_tee_-_Scott_Fraser_Collection_-_12.jpg?v=1787652801",
+          "sourceUrl": "https://scottfrasercollection.com/products/fitted-sunday-tee-3",
+          "sha256": "20484fdd2df24641f06bb63e392e94f8e5375c131b20d708ea11e513277bd77f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9425026318590-image-48465180786942",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Muscle_tee_-_Scott_Fraser_Collection_-_25.jpg?v=1787652802",
+          "sourceUrl": "https://scottfrasercollection.com/products/fitted-sunday-tee-2",
+          "sha256": "523af8ae2b0221dc6ea144aebd9aceebc0108593556bf6ae3c5dae7a0a8e4f84",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9425026318590-image-48465180557566",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Muscle_tee_-_Scott_Fraser_Collection_-_24.jpg?v=1787652800",
+          "sourceUrl": "https://scottfrasercollection.com/products/fitted-sunday-tee-2",
+          "sha256": "304be73e0398c6e6a6b5c58f05baa6dd9c3ed6662a6db9dc4971980b66e04db5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9425024385278-image-48465180688638",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Muscle_tee_-_Scott_Fraser_Collection_-_9.jpg?v=1787652801",
+          "sourceUrl": "https://scottfrasercollection.com/products/fitted-sunday-tee-1",
+          "sha256": "ab2a9eb1776917112e30173e89e0744caf00484613f87434cf3e8d3410d0732d",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9425024385278-image-48465180819710",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Muscle_tee_-_Scott_Fraser_Collection_-_11.jpg?v=1787652802",
+          "sourceUrl": "https://scottfrasercollection.com/products/fitted-sunday-tee-1",
+          "sha256": "02c18030f0c08643eb605a098b5cbf45c8ac1463bf3a8ee9658288dfb67f7117",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9425014620414-image-48465120788734",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Muscletee-ScottFraserCollection-1.jpg?v=1787651045",
+          "sourceUrl": "https://scottfrasercollection.com/products/fitted-sunday-tee",
+          "sha256": "53e78ced1a69ed436053e64b9061c0d0757f411dbd83d5403b3191250430ad1e",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9425014620414-image-48465121018110",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Muscletee-ScottFraserCollection-20.jpg?v=1787651045",
+          "sourceUrl": "https://scottfrasercollection.com/products/fitted-sunday-tee",
+          "sha256": "a95616fa469aa94714d1f3e6260487d0c121890902095dbef744adeae82ae6c5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9397643575550-image-48297320284414",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Rising_Suns_Sovenir_sweatshirt_-_Scott_Fraser_Collection_-_13.jpg?v=1785444108",
+          "sourceUrl": "https://scottfrasercollection.com/products/souvenir-sweatshirt-1",
+          "sha256": "4a71187f74d852058b077346cb4b55a7e0a67ebca263f3a3571393e36dabc32c",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9397643575550-image-48297320644862",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Rising_Suns_Sovenir_sweatshirt_-_Scott_Fraser_Collection_-_21.jpg?v=1785444110",
+          "sourceUrl": "https://scottfrasercollection.com/products/souvenir-sweatshirt-1",
+          "sha256": "dca8b807bc506e9796babd43fcdbc21da19e62638fac8eb5fb80e1b4e76bb83f",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9394147885310-image-48297335226622",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/RisingSunsSovenirsweatshirt-ScottFraserCollection-7.jpg?v=1785444549",
+          "sourceUrl": "https://scottfrasercollection.com/products/souvenir-sweatshirt",
+          "sha256": "099369088145b5d3831ae2d96a19d6d2952bad1ce11a9850ad6354be16a8c0af",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "scottfraser-9394147885310-image-48297320579326",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0656/1988/6334/files/Rising_Suns_Sovenir_sweatshirt_-_Scott_Fraser_Collection_-_20.jpg?v=1785444110",
+          "sourceUrl": "https://scottfrasercollection.com/products/souvenir-sweatshirt",
+          "sha256": "a1ee92dfa831d72423bfb0480cfd68a914d6f7c27ee071b2688502279f625250",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    },
+    {
+      "source": "lucyandyak",
+      "pages": [
+        {
+          "url": "https://lucyandyak.com/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T09:32:53.750082+00:00",
+          "snapshotSha256": "71a2eda11170749484f875c44d414cec02c2248875b0757904f4ad16546d91a7"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "lucyandyak-15704155357558-image-85091839213942",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/AW26_MIYADA_DUNGAREE_BLACK3.jpg?v=1789379416",
+          "sourceUrl": "https://lucyandyak.com/products/miyada-brushed-cotton-dungarees-in-black",
+          "sha256": "0c2c25182c9f09e2abdfdeb819704989ac8e9d603f14076e82d722e6801123cf",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15704155357558-image-85091841180022",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/AW26_MIYADA_DUNGAREE_BLACK5.jpg?v=1789379425",
+          "sourceUrl": "https://lucyandyak.com/products/miyada-brushed-cotton-dungarees-in-black",
+          "sha256": "8d6aaa1d076e8d99a9e173229fc80afbfe8ace855c8157b9147ec41962916503",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15704160764278-image-85110403039606",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/AW26_MIO_TROP_CHARCOAL2.jpg?v=1789480565",
+          "sourceUrl": "https://lucyandyak.com/products/mio-organic-cotton-t-shirt-in-charcoal",
+          "sha256": "784c8c40e352acc4289c6b65a259f0aa3446335a71d1c4006dbac2a3cc29e140",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15704160764278-image-85110403137910",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/AW26_MIO_TROP_CHARCOAL6.jpg?v=1789480565",
+          "sourceUrl": "https://lucyandyak.com/products/mio-organic-cotton-t-shirt-in-charcoal",
+          "sha256": "32df329b6b8fdaa8acf749b6f95a523edf59ee55af4a6c43fb858298cc05ccc0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15704157716854-image-85110505013622",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/AW26_LINDEN_90_S_BLACKWASH2.jpg?v=1789480912",
+          "sourceUrl": "https://lucyandyak.com/products/linden-90s-straight-leg-jeans-in-blackwash",
+          "sha256": "5db84cd9a6fb7f29b032fb54b043661c2fc9f6e7ff0e57902e798425716c1577",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15704157716854-image-85110505046390",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/AW26_LINDEN_90_S_BLACKWASH3.jpg?v=1789480912",
+          "sourceUrl": "https://lucyandyak.com/products/linden-90s-straight-leg-jeans-in-blackwash",
+          "sha256": "01fccc576c1fe8df3f3b904d7b7eb770891815e3ff1ece1743bcd79a3871ac74",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15704157847926-image-85110484042102",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/AW26_LINDEN_JEAN_MIDWASH4.jpg?v=1789480823",
+          "sourceUrl": "https://lucyandyak.com/products/linden-90s-straight-leg-jeans-in-midwash",
+          "sha256": "c870809c5e743749fcf7e815623561de7e3e785f2271fb21a0481f144a57c223",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15704157847926-image-85110484074870",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/AW26_LINDEN_JEAN_MIDWASH5.jpg?v=1789480823",
+          "sourceUrl": "https://lucyandyak.com/products/linden-90s-straight-leg-jeans-in-midwash",
+          "sha256": "2e06323f4cf4ced9d6ce2660f5ae9b54fb11e71d44a3628993e15d2650f659b0",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15798223667574-image-84904134705526",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/ASHBYJEAN_MIDWASH6.jpg?v=1787746226",
+          "sourceUrl": "https://lucyandyak.com/products/ashby-denim-barrel-leg-jeans-in-mid-wash-new-fit-wash",
+          "sha256": "09081fdf2e64539772d5d9322c60034d9cfbd0ca2e378216494da71cf3205558",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15798223667574-image-84904136343926",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/ASHBYJEAN_MIDWASH4.jpg?v=1787746286",
+          "sourceUrl": "https://lucyandyak.com/products/ashby-denim-barrel-leg-jeans-in-mid-wash-new-fit-wash",
+          "sha256": "84709d05e7f75605c1ccf841545d1d3f74bbadfecda39d952e88fd363753abe5",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15704150278518-image-85150595088758",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/ALEXA_TROUSERS_GRUNGE_DITSY_FLORAL3.jpg?v=1789659352",
+          "sourceUrl": "https://lucyandyak.com/products/alexa-organic-cotton-trousers-in-grunge-ditsy-floral",
+          "sha256": "12a730fe795f9fda0f8738fc0b3da15df2e8a58505fd00539f5a8d2bf660f47a",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "lucyandyak-15704150278518-image-85150593745270",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1979/9235/files/ALEXA_TROUSERS_GRUNGE_DITSY_FLORAL7.jpg?v=1789659343",
+          "sourceUrl": "https://lucyandyak.com/products/alexa-organic-cotton-trousers-in-grunge-ditsy-floral",
+          "sha256": "0a4d31da132512717d718990702c6d22fc53ed99ad763bcbc293b4e9b3ba8f81",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 12
+    }
+  ]
+}

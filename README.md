@@ -8,7 +8,7 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
-Latest September 18 checkpoint: 7,287 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate State and Liberty/Snag review adds eight outfits and seven build observations, with no required-body-filter gain. Presentation totals: 1,211 masculine, 4,079 feminine, 169 mixed and 1,828 unclear. The active doubling handoff records validation status. Not deployed.
+Latest September 18 checkpoint: 7,294 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 36-candidate Scott Fraser Collection/Lucy and Yak/Wax London review adds seven outfits and six build observations, with no required-body-filter gain. Presentation totals: 1,212 masculine, 4,079 feminine, 170 mixed and 1,833 unclear. The active doubling handoff records validation status. Not deployed.
 
 Latest September 18 checkpoint: 7,274 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate Outerknown/Nooworks review adds ten outfits and ten build observations, with no required-body-filter gain. Presentation totals: 1,208 masculine, 4,071 feminine, 169 mixed and 1,826 unclear. The active doubling handoff records validation status. Not deployed.
 
