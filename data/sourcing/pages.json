@@ -5720,6 +5720,48 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://chicsoul.com/products/american-cowgirl-vintage-wash-tee-blush-pink",
+    "source": "chicsoul",
+    "candidateIds": [
+      "chicsoul-8895529255094-image-43662928838838",
+      "chicsoul-8895529255094-image-43662928871606"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://chicsoul.com/products/can-we-coexist-dress-ivory",
+    "source": "chicsoul",
+    "candidateIds": [
+      "chicsoul-8871974109366-image-43662959706294",
+      "chicsoul-8871974109366-image-43662959870134"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://chicsoul.com/products/delicate-days-sweater-taupe",
+    "source": "chicsoul",
+    "candidateIds": [
+      "chicsoul-8893968154806-image-43662992703670",
+      "chicsoul-8893968154806-image-43662992900278"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://chicsoul.com/products/got-to-dance-dress-pink-floral",
     "source": "chicsoul",
     "candidateIds": [
@@ -5762,6 +5804,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://chicsoul.com/products/keep-it-western-t-shirt-dress-charcoal",
+    "source": "chicsoul",
+    "candidateIds": [
+      "chicsoul-8895523455158-image-43663006236854",
+      "chicsoul-8895523455158-image-43663006367926"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://chicsoul.com/products/spilling-secrets-jeans-vintage-wash",
     "source": "chicsoul",
     "candidateIds": [
@@ -5784,6 +5840,34 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-18T2010-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://chicsoul.com/products/vintage-horses-boyfriend-tee-ivory",
+    "source": "chicsoul",
+    "candidateIds": [
+      "chicsoul-8895518867638-image-43663041790134",
+      "chicsoul-8895518867638-image-43663041921206"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://chicsoul.com/products/warm-welcome-sweater-wine",
+    "source": "chicsoul",
+    "candidateIds": [
+      "chicsoul-8871792541878-image-43663033303222",
+      "chicsoul-8871792541878-image-43663033499830"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -120882,6 +120966,90 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stantt.com/products/commuter-stretch-soft-pink-ti002-chino",
+    "source": "stantt",
+    "candidateIds": [
+      "stantt-7545678069818-image-32815426338874",
+      "stantt-7545678069818-image-33324043468858"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stantt.com/products/soft-wash-oxford-white-h615-casual",
+    "source": "stantt",
+    "candidateIds": [
+      "stantt-6668834635834-image-32788682276922",
+      "stantt-6668834635834-image-32788682342458"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stantt.com/products/wool-blend-graphite-stripe-tu103-dresspant",
+    "source": "stantt",
+    "candidateIds": [
+      "stantt-7607088021562-image-34298742636602",
+      "stantt-7607088021562-image-34307165225018"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stantt.com/products/wool-blend-ink-and-smoke-textured-houndstooth-dresspant",
+    "source": "stantt",
+    "candidateIds": [
+      "stantt-7607094771770-image-34307242754106",
+      "stantt-7607094771770-image-34307252453434"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stantt.com/products/wool-blend-midnight-smoke-glen-plaid-tu105-dresspant",
+    "source": "stantt",
+    "candidateIds": [
+      "stantt-7607087956026-image-34307023274042",
+      "stantt-7607087956026-image-34307023339578"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://stantt.com/products/wool-blend-midnight-stripe-tu102-dresspant",
+    "source": "stantt",
+    "candidateIds": [
+      "stantt-7607087988794-image-34307023208506",
+      "stantt-7607087988794-image-34307023306810"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2040-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

@@ -1,16 +1,16 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7465,
-  "reviewedPhotos": 7465,
+  "catalogPhotos": 7472,
+  "reviewedPhotos": 7472,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1262,
+      "photos": 1263,
       "percent": 16.9,
-      "sourcePages": 1197,
-      "sourceHosts": 69,
+      "sourcePages": 1198,
+      "sourceHosts": 70,
       "completeReferences": 46,
       "byBuild": {
         "1": 3,
@@ -18,7 +18,7 @@
         "3": 65,
         "unknown": 379,
         "2.5": 62,
-        "1.5": 585
+        "1.5": 586
       },
       "completeByBuild": {
         "1": 1,
@@ -30,9 +30,9 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4140,
-      "percent": 55.5,
-      "sourcePages": 3696,
+      "photos": 4143,
+      "percent": 55.4,
+      "sourcePages": 3699,
       "sourceHosts": 50,
       "completeReferences": 149,
       "byBuild": {
@@ -41,7 +41,7 @@
         "3": 262,
         "unknown": 584,
         "1.5": 2572,
-        "2.5": 296
+        "2.5": 299
       },
       "completeByBuild": {
         "1": 7,
@@ -70,10 +70,10 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1892,
-      "percent": 25.3,
-      "sourcePages": 1767,
-      "sourceHosts": 83,
+      "photos": 1895,
+      "percent": 25.4,
+      "sourcePages": 1770,
+      "sourceHosts": 84,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
@@ -81,7 +81,7 @@
         "3": 217,
         "1.5": 859,
         "unknown": 526,
-        "2.5": 116
+        "2.5": 119
       },
       "completeByBuild": {
         "1": 2,
@@ -1094,13 +1094,13 @@
         },
         {
           "presentation": "feminine",
-          "photos": 5,
-          "percent": 100,
-          "sourcePages": 5,
+          "photos": 8,
+          "percent": 72.7,
+          "sourcePages": 8,
           "sourceHosts": 1,
           "completeReferences": 0,
           "byBuild": {
-            "2.5": 5
+            "2.5": 8
           },
           "completeByBuild": {}
         },
@@ -1116,12 +1116,14 @@
         },
         {
           "presentation": "unclear",
-          "photos": 0,
-          "percent": 0,
-          "sourcePages": 0,
-          "sourceHosts": 0,
+          "photos": 3,
+          "percent": 27.3,
+          "sourcePages": 3,
+          "sourceHosts": 1,
           "completeReferences": 0,
-          "byBuild": {},
+          "byBuild": {
+            "2.5": 3
+          },
           "completeByBuild": {}
         },
         {
@@ -4945,6 +4947,63 @@
           "byBuild": {
             "1.5": 1
           },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
+      "host": "stantt.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 1,
+          "percent": 100,
+          "sourcePages": 1,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "1.5": 1
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
           "completeByBuild": {}
         },
         {

@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7465/7465; unreviewed: 0.
+Reviewed: 7472/7472; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1262 | 16.9% | 1197 | 69 | 46 |
-| feminine | 4140 | 55.5% | 3696 | 50 | 149 |
+| masculine | 1263 | 16.9% | 1198 | 70 | 46 |
+| feminine | 4143 | 55.4% | 3699 | 50 | 149 |
 | mixed-androgynous | 171 | 2.3% | 164 | 13 | 2 |
-| unclear | 1892 | 25.3% | 1767 | 83 | 97 |
+| unclear | 1895 | 25.4% | 1770 | 84 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":168,"3":65,"unknown":379,"2.5":62,"1.5":585} | {"1":1,"2":19,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":399,"3":262,"unknown":584,"1.5":2572,"2.5":296} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":31} |
+| masculine | {"1":3,"2":168,"3":65,"unknown":379,"2.5":62,"1.5":586} | {"1":1,"2":19,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":399,"3":262,"unknown":584,"1.5":2572,"2.5":299} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":31} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":77} | {"1.5":2} |
-| unclear | {"1":7,"2":167,"3":217,"1.5":859,"unknown":526,"2.5":116} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":167,"3":217,"1.5":859,"unknown":526,"2.5":119} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -46,7 +46,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | billyreid.com | 2 | 0 | 0 | 2 | 0 |
 | bridgeandburn.com | 0 | 0 | 0 | 4 | 0 |
 | bronsonshop.com | 2 | 0 | 0 | 0 | 0 |
-| chicsoul.com | 0 | 5 | 0 | 0 | 0 |
+| chicsoul.com | 0 | 8 | 0 | 3 | 0 |
 | chubbiesshorts.com | 3 | 0 | 0 | 3 | 0 |
 | chubstr.com | 22 | 0 | 0 | 5 | 0 |
 | copperunionapparel.com | 0 | 36 | 0 | 12 | 0 |
@@ -107,6 +107,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | shopmyviolet.com | 0 | 137 | 0 | 7 | 0 |
 | snagtights.com | 2 | 243 | 0 | 82 | 0 |
 | standardandstrange.com | 1 | 0 | 0 | 1 | 0 |
+| stantt.com | 1 | 0 | 0 | 0 | 0 |
 | stateandliberty.com | 26 | 0 | 0 | 2 | 0 |
 | strongsize.com | 4 | 0 | 0 | 11 | 0 |
 | superfithero.com | 0 | 6 | 0 | 32 | 0 |

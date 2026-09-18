@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Latest scheduled checkpoint: 7,472 reviewed photos after 24 direct reviews and seven outfits from Stantt and Chic Soul. Additions are one masculine-styled, three feminine-styled and three unclear. Complete references remain 294 (46 masculine), with 55 broader-build benchmark matches and no required-body-filter gain. Read `docs/verification/doubling-sourcing.md` for current validation and continuation. Not deployed; earlier checkpoints are historical.
+
 Latest scheduled checkpoint: 7,465 reviewed photos after 36 direct reviews and fifteen outfits from Jachs NY, Paul James Knitwear and Chic Soul. Additions are six masculine-styled, five feminine-styled and four unclear. Complete references remain 294 (46 masculine), with 55 broader-build benchmark matches and no required-body-filter gain. Read `docs/verification/doubling-sourcing.md` for current validation and continuation. Not deployed; earlier checkpoints are historical.
 
 Latest scheduled checkpoint: 7,450 reviewed photos after 36 direct reviews and thirteen outfits from Flag & Anthem, Liverpool and Run & Fly. Additions are six masculine-styled, six feminine-styled and one unclear. Complete body references remain 294 (46 masculine-styled), with 55 broader-build benchmark matches and no required-body-filter gain. Read `docs/verification/doubling-sourcing.md` for current validation and continuation. Not deployed; earlier checkpoints are historical.

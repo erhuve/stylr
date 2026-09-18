@@ -1,0 +1,9 @@
+# Direct visual review
+
+September 18, 2026; conversation `con_OjblDKTZwRlRn33o`. All 24 candidates were inspected on two image-bound sheets. Originals 0, 13 and 17 were enlarged; the previous Chic Soul sheet containing all five prior admissions was compared to avoid repeated outfits. Seven outfits qualify: one Stantt collared ensemble and six Chic Soul ensembles. One masculine-styled, three feminine-styled and three unclear observations add seven build labels and no complete reference. Eleven swatch/trouser/detail images and six repeated crops are excluded.
+
+The maintained collector attempted Stantt, Mizzen+Main and Chic Soul, bounded to three 250-product listing pages and six unseen product pages per publisher. Stantt and Chic Soul reached the bound on page one; all 500 listing decisions and two snapshot hashes are preserved. Mizzen+Main returned HTTP 429 and supplied no candidates. No immediate retry was made. Batch naming establishes append order; actual retrieval times remain in source records.
+
+Stantt is a new admitted publisher, but its sampled gallery mostly contains swatches and shoulderless trouser crops. Chic Soul supplied new outfit combinations, but oversized knits, held hems, a knotted tee dress and a flared eyelet dress obscure required contours. Unclear neutral ensembles remain unclear; styling describes clothing rather than gender identity. Product text, names, departments, sizes, filenames and model predictions supply no labels.
+
+Append after this batch. Prefer independent fitted untied full-front collared and fuller-build separates; skip these known first/third gallery outcomes. Mizzen+Main remains an unsuccessful source attempt, not an exhausted publisher. Training ordinals and hashes remain unchanged. The active doubling handoff records validation and totals. No deployment.

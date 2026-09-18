@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 11039,
-  "admittedPhotos": 7080,
-  "totalPhotos": 7465,
+  "reviewedCandidates": 11063,
+  "admittedPhotos": 7087,
+  "totalPhotos": 7472,
   "axisSupport": {
-    "build": 5768,
+    "build": 5775,
     "shoulderHip": 325,
     "waist": 608
   },
   "completeReferences": 252,
-  "sourcePages": 6517,
+  "sourcePages": 6524,
   "excludedReasons": {
-    "non-outfit-view": 3901,
+    "non-outfit-view": 3918,
     "existing-source-page": 58
   },
   "excluded": [
@@ -15848,6 +15848,74 @@
     },
     {
       "id": "chicsoul-8895924961462-image-43666907365558",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-6668834635834-image-32788682276922",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7545678069818-image-33324043468858",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7545678069818-image-32815426338874",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7607094771770-image-34307242754106",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7607094771770-image-34307252453434",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7607088021562-image-34298742636602",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7607088021562-image-34307165225018",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7607087988794-image-34307023208506",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7607087988794-image-34307023306810",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7607087956026-image-34307023274042",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "stantt-7607087956026-image-34307023339578",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8895529255094-image-43662928838838",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8895523455158-image-43663006367926",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8895518867638-image-43663041921206",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8893968154806-image-43662992703670",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8871974109366-image-43662959870134",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "chicsoul-8871792541878-image-43663033303222",
       "reason": "non-outfit-view"
     }
   ]
