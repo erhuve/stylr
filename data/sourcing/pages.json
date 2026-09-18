@@ -1404,6 +1404,104 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://andsons.co.uk/products/artisan-workwear-chore-jacket-indigo-blue",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15595026547075-image-86406739427715",
+      "andsons-15595026547075-image-86406739755395"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1145-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/bedrock-blanket-stripe-shirt-fawn-orange-stripe",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15303459897731-image-80455137591683",
+      "andsons-15303459897731-image-80455137657219"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/century-cricket-jumper-grey-marl",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15224726192515-image-79510482223491",
+      "andsons-15224726192515-image-79510482289027"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/eiger-mountain-shirt-lake-blue",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15072891076995-image-79149901283715",
+      "andsons-15072891076995-image-79149901349251"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/laramie-shirt-indigo",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15863464755587-image-86448331391363",
+      "andsons-15863464755587-image-86448331456899"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/sons-takin-fleece-jacket-natural",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-7168010485865-image-32527818162281",
+      "andsons-7168010485865-image-32527818227817"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://andsons.co.uk/products/torridon-shawl-collar-cardigan-navy",
+    "source": "andsons",
+    "candidateIds": [
+      "andsons-15875065217411-image-86400229278083",
+      "andsons-15875065217411-image-86400229343619"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://ashanderie.com/products/5-khaki-lightweight-signature-chino-short",
     "source": "ashanderie",
     "candidateIds": [
@@ -150205,6 +150303,89 @@
     ],
     "reviewedCandidates": 1,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.marywyattlondon.com/products/excidium-oversized-boxy-tee",
+    "source": "marywyatt",
+    "candidateIds": [
+      "marywyatt-15929472450933-image-84263922729333",
+      "marywyatt-15929472450933-image-84263922762101"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.marywyattlondon.com/products/morella-wide-leg-trouser",
+    "source": "marywyatt",
+    "candidateIds": [
+      "marywyatt-14884887363957-image-84350043128181"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.marywyattlondon.com/products/morella-wide-leg-trouser-1",
+    "source": "marywyatt",
+    "candidateIds": [
+      "marywyatt-15930596426101-image-84350043259253",
+      "marywyatt-15930596426101-image-84398482096501"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.marywyattlondon.com/products/templar-racer-vest",
+    "source": "marywyatt",
+    "candidateIds": [
+      "marywyatt-15907378594165-image-84264443412853",
+      "marywyatt-15907378594165-image-84264480604533"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.marywyattlondon.com/products/vespera-oversized-boxy-tee",
+    "source": "marywyatt",
+    "candidateIds": [
+      "marywyatt-15907377217909-image-84264160166261",
+      "marywyatt-15907377217909-image-84264160199029"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.marywyattlondon.com/products/vigil-oversized-tee",
+    "source": "marywyatt",
+    "candidateIds": [
+      "marywyatt-15914903273845-image-84264061141365",
+      "marywyatt-15914903273845-image-84264061206901"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1140-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

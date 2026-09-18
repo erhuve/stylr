@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10386,
-  "admittedPhotos": 6919,
-  "totalPhotos": 7304,
+  "reviewedCandidates": 10411,
+  "admittedPhotos": 6929,
+  "totalPhotos": 7314,
   "axisSupport": {
-    "build": 5628,
+    "build": 5636,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6358,
+  "sourcePages": 6368,
   "excludedReasons": {
-    "non-outfit-view": 3409,
+    "non-outfit-view": 3424,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13880,6 +13880,66 @@
     },
     {
       "id": "kiyonna-10801449599281-image-59901544694065",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15863464755587-image-86448331456899",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15072891076995-image-79149901349251",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-7168010485865-image-32527818227817",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15224726192515-image-79510482223491",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15303459897731-image-80455137657219",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15875065217411-image-86400229343619",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marywyatt-15930596426101-image-84350043259253",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marywyatt-15930596426101-image-84398482096501",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marywyatt-14884887363957-image-84350043128181",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marywyatt-15929472450933-image-84263922729333",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marywyatt-15914903273845-image-84264061141365",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marywyatt-15914903273845-image-84264061206901",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marywyatt-15907378594165-image-84264443412853",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "marywyatt-15907377217909-image-84264160199029",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "andsons-15595026547075-image-86406739427715",
       "reason": "non-outfit-view"
     }
   ]

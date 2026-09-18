@@ -64,6 +64,15 @@
       "deferredPages": 77
     },
     {
+      "source": "andsons",
+      "sampledPages": 7,
+      "candidateImages": 14,
+      "reviewedExpansionCandidates": 14,
+      "admittedExpansionPhotos": 7,
+      "completeExpansionReferences": 0,
+      "deferredPages": 157
+    },
+    {
       "source": "ashanderie",
       "sampledPages": 78,
       "candidateImages": 168,
@@ -341,6 +350,15 @@
       "admittedExpansionPhotos": 38,
       "completeExpansionReferences": 8,
       "deferredPages": 145
+    },
+    {
+      "source": "marywyatt",
+      "sampledPages": 6,
+      "candidateImages": 11,
+      "reviewedExpansionCandidates": 11,
+      "admittedExpansionPhotos": 3,
+      "completeExpansionReferences": 0,
+      "deferredPages": 88
     },
     {
       "source": "midnighthour",
@@ -44275,6 +44293,247 @@
             }
           ],
           "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1140-independent/sources.json",
+      "retrievedAt": "2026-09-18T11:32:41.888329+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "andsons",
+          "pages": [
+            {
+              "url": "https://andsons.co.uk/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T11:32:37.698365+00:00",
+              "snapshotSha256": "eb9a9e86583d5c133860ce4e490edff53f31c8b95c783af1b61a2bbb6d56bf63"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "andsons-15863464755587-image-86448331391363",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/1ShirtLaramieBlueLSMOBILE_78cb41fd-80cc-4677-a02b-1374891d72b8.jpg?v=1789397472",
+              "sourceUrl": "https://andsons.co.uk/products/laramie-shirt-indigo",
+              "sha256": "9a991d5419a9b5ee0c14a32a5c3979c51c854cc6bfd405d10bab587862433713",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15863464755587-image-86448331456899",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/3ShirtLaramieBlueLSMOBILE_8052217f-4134-41db-83e5-ecf189edcd8f.jpg?v=1789397472",
+              "sourceUrl": "https://andsons.co.uk/products/laramie-shirt-indigo",
+              "sha256": "cba5d7c538c04a6155152f6ca63db00d54647e0cd0e12eef56ad9af3825c6f15",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15072891076995-image-79149901283715",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/ShirtMountainEigerBlueCheckLSMOBILE1_cb231640-4298-4862-813a-1a48d7dcf790.jpg?v=1759501204",
+              "sourceUrl": "https://andsons.co.uk/products/eiger-mountain-shirt-lake-blue",
+              "sha256": "94d559d28f9a60ce9a5e3314054ff8262027c1af13ad1ced08491290f3d15746",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15072891076995-image-79149901349251",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/ShirtMountainEigerBlueCheckLSMOBILE3_b274c180-440b-4a1f-b619-65e9962f3d1c.jpg?v=1759501205",
+              "sourceUrl": "https://andsons.co.uk/products/eiger-mountain-shirt-lake-blue",
+              "sha256": "9e52eb80e6fc4b1a5c41005979d2fdd1442e6b49f39ecb9a1d6c202c60561768",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-7168010485865-image-32527818162281",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/Jacket_Takin_Fleece_LS_MOBILE_1_e7cedee8-fc31-4bd5-8ddd-51e70126b403.jpg?v=1730127652",
+              "sourceUrl": "https://andsons.co.uk/products/sons-takin-fleece-jacket-natural",
+              "sha256": "e5b7a8d24ee5125c76ef0c36e780bb390582a79d8ce25a016c31179a89494d1e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-7168010485865-image-32527818227817",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/Jacket_Takin_Fleece_LS_MOBILE_11.jpg?v=1730127652",
+              "sourceUrl": "https://andsons.co.uk/products/sons-takin-fleece-jacket-natural",
+              "sha256": "4e06676dc980579ab9ab9e03d2df331a09a4c495b6be252781c6b061f9e71bc6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15224726192515-image-79510482289027",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/JumperCenturyCricketGreyMarlLSMOBILE1.jpg?v=1760714293",
+              "sourceUrl": "https://andsons.co.uk/products/century-cricket-jumper-grey-marl",
+              "sha256": "783f62e536da1d68745f6778eaa5fddb280c7a2aad7b9c6575518d85e52b305d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15224726192515-image-79510482223491",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/JumperCenturyCricketGreyMarlLSMOBILE3.jpg?v=1760714293",
+              "sourceUrl": "https://andsons.co.uk/products/century-cricket-jumper-grey-marl",
+              "sha256": "bf1877d5e6c445de491dbf9c6b5e3fab1b8c685fbd60d8e1932d5e45cb664809",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15303459897731-image-80455137591683",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/ShirtBedrockBlanketStripeFawn_OrangeStripeLSMOBILE1.jpg?v=1763474191",
+              "sourceUrl": "https://andsons.co.uk/products/bedrock-blanket-stripe-shirt-fawn-orange-stripe",
+              "sha256": "be2c1c68f570a635e76bba4bfcf3eacc76f6240cce6ffe7b4c203ca63cf98673",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15303459897731-image-80455137657219",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/ShirtBedrockBlanketStripeFawn_OrangeStripeLSMOBILE3.jpg?v=1763474191",
+              "sourceUrl": "https://andsons.co.uk/products/bedrock-blanket-stripe-shirt-fawn-orange-stripe",
+              "sha256": "7cb2baaf799a2f056c6532726cd71f347b1080114ea01a5c3aedc9564a0e95c7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15875065217411-image-86400229278083",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/1CardiganTorridonNavyLSMOBILE.jpg?v=1789126218",
+              "sourceUrl": "https://andsons.co.uk/products/torridon-shawl-collar-cardigan-navy",
+              "sha256": "0a01430be514c880bf957b62bd228904ba79ff42ef05696ab3ec515c745bef7b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15875065217411-image-86400229343619",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/3CardiganTorridonNavyLSMOBILE.jpg?v=1789126218",
+              "sourceUrl": "https://andsons.co.uk/products/torridon-shawl-collar-cardigan-navy",
+              "sha256": "a980beea6e7b023cd7083ce2f952a6c75008000ff8fbde816ab2827640b1ee7d",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "marywyatt",
+          "pages": [
+            {
+              "url": "https://www.marywyattlondon.com/products.json?limit=250&page=1",
+              "products": 127,
+              "retrievedAt": "2026-09-18T11:32:40.083561+00:00",
+              "snapshotSha256": "c2f5565141888c53e6d940916844e69fe82700e9bc3ec566690661af49ab6d7f"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "marywyatt-15930596426101-image-84350043259253",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/MorellaTrousersFront.jpg?v=1785319561",
+              "sourceUrl": "https://www.marywyattlondon.com/products/morella-wide-leg-trouser-1",
+              "sha256": "85e7b4635e86c3b6c9aa55cb9028a1d39a2312d85efefbc0444834111d35e7ea",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-15930596426101-image-84398482096501",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/MorellaTrousersBack_cccf1e87-19d3-4784-97b6-1938aad929fc.jpg?v=1785431309",
+              "sourceUrl": "https://www.marywyattlondon.com/products/morella-wide-leg-trouser-1",
+              "sha256": "0c9527ad17adb6701a1c6f019fbd8df693cb2788a4ed94d5a8df44b8b3fc658a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-14884887363957-image-84350043259253",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/MorellaTrousersFront.jpg?v=1785319561",
+              "sourceUrl": "https://www.marywyattlondon.com/products/morella-wide-leg-trouser",
+              "sha256": "85e7b4635e86c3b6c9aa55cb9028a1d39a2312d85efefbc0444834111d35e7ea",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "marywyatt-14884887363957-image-84350043128181",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/Artboard1_fa602066-b0da-4c58-b92e-c29fd0aea454.jpg?v=1785256108",
+              "sourceUrl": "https://www.marywyattlondon.com/products/morella-wide-leg-trouser",
+              "sha256": "a2e99797658b54b408bed4338b35e80f2a1885b206383b3ab1596006f558f3ab",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-15929472450933-image-84263922762101",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/ExcidiumOversizeTeeTeeDetail2.jpg?v=1785164296",
+              "sourceUrl": "https://www.marywyattlondon.com/products/excidium-oversized-boxy-tee",
+              "sha256": "41ca9e9da1e8c41c482f8f7c5719f2283e2c73939d4739526cd104a8998ad1be",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-15929472450933-image-84263922729333",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/ExcidiumOversizeTeeTeeDetail.jpg?v=1785164305",
+              "sourceUrl": "https://www.marywyattlondon.com/products/excidium-oversized-boxy-tee",
+              "sha256": "28f0e5b23ca36c8a7262d4bd126387e2dff8aaa3c159ffa889dc5a3a35b264d3",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-15914903273845-image-84264061141365",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/VigilTeeDetail.jpg?v=1785164810",
+              "sourceUrl": "https://www.marywyattlondon.com/products/vigil-oversized-tee",
+              "sha256": "d354330b759f028c208789aa1370b171a9d2842552efdf67d4f2c42cd75fe212",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-15914903273845-image-84264061206901",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/VigilTeeDetail3.jpg?v=1785164798",
+              "sourceUrl": "https://www.marywyattlondon.com/products/vigil-oversized-tee",
+              "sha256": "67bcdd50e508adb7be8b213688a8ee18b61905ae93c782a54be5e48cd2729041",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-15907378594165-image-84264480604533",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/Templar_Tee_Detail2.jpg?v=1785164175",
+              "sourceUrl": "https://www.marywyattlondon.com/products/templar-racer-vest",
+              "sha256": "bcf98a5d06f29dd2230050cd4dc13eb60e5d994b5d263238f876307b2d7feed4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-15907378594165-image-84264443412853",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/TemplarTeeDetail.jpg?v=1785164186",
+              "sourceUrl": "https://www.marywyattlondon.com/products/templar-racer-vest",
+              "sha256": "e273a064fbda95c649c971e96013115ff5b20c2089e512cab97d5c1509425464",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-15907377217909-image-84264160166261",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/VesperaTeeDetail2.jpg?v=1785164217",
+              "sourceUrl": "https://www.marywyattlondon.com/products/vespera-oversized-boxy-tee",
+              "sha256": "c8d6f8ca0e20ef6c42087753450a7d4f15013339f45b3c4bc56fad78e87a6442",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "marywyatt-15907377217909-image-84264160199029",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1558/3817/files/VesperaTeeDetail.jpg?v=1785164212",
+              "sourceUrl": "https://www.marywyattlondon.com/products/vespera-oversized-boxy-tee",
+              "sha256": "69a1269f89561a25f5839d36a99f0c53bd16fb3e64e63961d6e834b300b0d8ad",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 11
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1145-workwear/sources.json",
+      "retrievedAt": "2026-09-18T11:33:09.416654+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 1 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "andsons",
+          "pages": [
+            {
+              "url": "https://andsons.co.uk/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T11:33:08.776744+00:00",
+              "snapshotSha256": "eb9a9e86583d5c133860ce4e490edff53f31c8b95c783af1b61a2bbb6d56bf63"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "andsons-15595026547075-image-86406739755395",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/E3A6761-Edit-OG_BG.jpg?v=1789137188",
+              "sourceUrl": "https://andsons.co.uk/products/artisan-workwear-chore-jacket-indigo-blue",
+              "sha256": "c7772b2a20d80d32b89ed8fd20046966c3c81858c6412853d19174d18b389e35",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "andsons-15595026547075-image-86406739427715",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/E3A6729-Edit-OG_BG.jpg?v=1789137188",
+              "sourceUrl": "https://andsons.co.uk/products/artisan-workwear-chore-jacket-indigo-blue",
+              "sha256": "6fd3b2dea46e5f312beb7c8ef484ea794de3d252d50bdbe43076fc540e5d8de5",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 2
         }
       ]
     }

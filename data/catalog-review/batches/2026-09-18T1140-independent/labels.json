@@ -1,0 +1,370 @@
+[
+  {
+    "id": "andsons-15863464755587-image-86448331391363",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/laramie-shirt-indigo",
+    "localPath": "images/andsons-15863464755587-image-86448331391363.webp",
+    "sha256": "9a991d5419a9b5ee0c14a32a5c3979c51c854cc6bfd405d10bab587862433713",
+    "ordinal": 0,
+    "view": "seated",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated denim collared jacket and jeans workwear ensemble; bent torso and jacket obscure proportions.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-15863464755587-image-86448331456899",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/laramie-shirt-indigo",
+    "localPath": "images/andsons-15863464755587-image-86448331456899.webp",
+    "sha256": "cba5d7c538c04a6155152f6ca63db00d54647e0cd0e12eef56ad9af3825c6f15",
+    "ordinal": 1,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear denim jacket view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-15072891076995-image-79149901283715",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/eiger-mountain-shirt-lake-blue",
+    "localPath": "images/andsons-15072891076995-image-79149901283715.webp",
+    "sha256": "94d559d28f9a60ce9a5e3314054ff8262027c1af13ad1ced08491290f3d15746",
+    "ordinal": 2,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue checked overshirt over tee and dark trousers; angled stance and open layers hide waist and hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-15072891076995-image-79149901349251",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/eiger-mountain-shirt-lake-blue",
+    "localPath": "images/andsons-15072891076995-image-79149901349251.webp",
+    "sha256": "9e52eb80e6fc4b1a5c41005979d2fdd1442e6b49f39ecb9a1d6c202c60561768",
+    "ordinal": 3,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated checked overshirt outfit and pose variant of ordinal 2.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-7168010485865-image-32527818162281",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/sons-takin-fleece-jacket-natural",
+    "localPath": "images/andsons-7168010485865-image-32527818162281.webp",
+    "sha256": "e5b7a8d24ee5125c76ef0c36e780bb390582a79d8ce25a016c31179a89494d1e",
+    "ordinal": 4,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cream fleece jacket over grey collared shirt and jeans; bulky layers hide build and contours, confirmed enlarged.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-7168010485865-image-32527818227817",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/sons-takin-fleece-jacket-natural",
+    "localPath": "images/andsons-7168010485865-image-32527818227817.webp",
+    "sha256": "4e06676dc980579ab9ab9e03d2df331a09a4c495b6be252781c6b061f9e71bc6",
+    "ordinal": 5,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated cream fleece jacket variant of ordinal 4, no distinct outfit admission.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-15224726192515-image-79510482289027",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/century-cricket-jumper-grey-marl",
+    "localPath": "images/andsons-15224726192515-image-79510482289027.webp",
+    "sha256": "783f62e536da1d68745f6778eaa5fddb280c7a2aad7b9c6575518d85e52b305d",
+    "ordinal": 6,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cable V-neck sweater over collared shirt with jeans and cap; raised arm and knit layers obscure contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-15224726192515-image-79510482223491",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/century-cricket-jumper-grey-marl",
+    "localPath": "images/andsons-15224726192515-image-79510482223491.webp",
+    "sha256": "bf1877d5e6c445de491dbf9c6b5e3fab1b8c685fbd60d8e1932d5e45cb664809",
+    "ordinal": 7,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated cable sweater outfit on bicycle; pose variant excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-15303459897731-image-80455137591683",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/bedrock-blanket-stripe-shirt-fawn-orange-stripe",
+    "localPath": "images/andsons-15303459897731-image-80455137591683.webp",
+    "sha256": "be2c1c68f570a635e76bba4bfcf3eacc76f6240cce6ffe7b4c203ca63cf98673",
+    "ordinal": 8,
+    "view": "partial",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Striped overshirt and jeans in side stance; angled layered torso does not support body axes.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-15303459897731-image-80455137657219",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/bedrock-blanket-stripe-shirt-fawn-orange-stripe",
+    "localPath": "images/andsons-15303459897731-image-80455137657219.webp",
+    "sha256": "7cb2baaf799a2f056c6532726cd71f347b1080114ea01a5c3aedc9564a0e95c7",
+    "ordinal": 9,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear striped overshirt view excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-15875065217411-image-86400229278083",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/torridon-shawl-collar-cardigan-navy",
+    "localPath": "images/andsons-15875065217411-image-86400229278083.webp",
+    "sha256": "0a01430be514c880bf957b62bd228904ba79ff42ef05696ab3ec515c745bef7b",
+    "ordinal": 10,
+    "view": "partial",
+    "body": {
+      "build": 2.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Dark shawl cardigan over plain tee and grey trousers; neutral ensemble, heavy knit hides waist, confirmed enlarged.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "andsons-15875065217411-image-86400229343619",
+    "source": "andsons",
+    "sourceUrl": "https://andsons.co.uk/products/torridon-shawl-collar-cardigan-navy",
+    "localPath": "images/andsons-15875065217411-image-86400229343619.webp",
+    "sha256": "a980beea6e7b023cd7083ce2f952a6c75008000ff8fbde816ab2827640b1ee7d",
+    "ordinal": 11,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated cardigan outfit in side pose excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15930596426101-image-84350043259253",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/morella-wide-leg-trouser-1",
+    "localPath": "images/marywyatt-15930596426101-image-84350043259253.webp",
+    "sha256": "85e7b4635e86c3b6c9aa55cb9028a1d39a2312d85efefbc0444834111d35e7ea",
+    "ordinal": 12,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Shoulderless trouser crop, not an outfit reference.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15930596426101-image-84398482096501",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/morella-wide-leg-trouser-1",
+    "localPath": "images/marywyatt-15930596426101-image-84398482096501.webp",
+    "sha256": "0c9527ad17adb6701a1c6f019fbd8df693cb2788a4ed94d5a8df44b8b3fc658a",
+    "ordinal": 13,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Side trouser crop lacks upper outfit.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-14884887363957-image-84350043128181",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/morella-wide-leg-trouser",
+    "localPath": "images/marywyatt-14884887363957-image-84350043128181.webp",
+    "sha256": "a2e99797658b54b408bed4338b35e80f2a1885b206383b3ab1596006f558f3ab",
+    "ordinal": 14,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear trouser pocket detail excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15929472450933-image-84263922762101",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/excidium-oversized-boxy-tee",
+    "localPath": "images/marywyatt-15929472450933-image-84263922762101.webp",
+    "sha256": "41ca9e9da1e8c41c482f8f7c5719f2283e2c73939d4739526cd104a8998ad1be",
+    "ordinal": 15,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped graphic tee with fitted black skirt and belt; crop and tee hem hide independent waist and hip contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15929472450933-image-84263922729333",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/excidium-oversized-boxy-tee",
+    "localPath": "images/marywyatt-15929472450933-image-84263922729333.webp",
+    "sha256": "28f0e5b23ca36c8a7262d4bd126387e2dff8aaa3c159ffa889dc5a3a35b264d3",
+    "ordinal": 16,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Graphic tee chest crop excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15914903273845-image-84264061141365",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/vigil-oversized-tee",
+    "localPath": "images/marywyatt-15914903273845-image-84264061141365.webp",
+    "sha256": "d354330b759f028c208789aa1370b171a9d2842552efdf67d4f2c42cd75fe212",
+    "ordinal": 17,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated black graphic tee and skirt styling with print and length variant; excluded to avoid redundant ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15914903273845-image-84264061206901",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/vigil-oversized-tee",
+    "localPath": "images/marywyatt-15914903273845-image-84264061206901.webp",
+    "sha256": "67bcdd50e508adb7be8b213688a8ee18b61905ae93c782a54be5e48cd2729041",
+    "ordinal": 18,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Graphic tee torso detail excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15907378594165-image-84264480604533",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/templar-racer-vest",
+    "localPath": "images/marywyatt-15907378594165-image-84264480604533.webp",
+    "sha256": "bcf98a5d06f29dd2230050cd4dc13eb60e5d994b5d263238f876307b2d7feed4",
+    "ordinal": 19,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Fitted sleeveless top and high gathered tie-waist trousers; feminine ensemble, tied volume obscures hip and waist axes, confirmed enlarged.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15907378594165-image-84264443412853",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/templar-racer-vest",
+    "localPath": "images/marywyatt-15907378594165-image-84264443412853.webp",
+    "sha256": "e273a064fbda95c649c971e96013115ff5b20c2089e512cab97d5c1509425464",
+    "ordinal": 20,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Closer top crop repeats ordinal 19 and lacks lower ensemble.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15907377217909-image-84264160166261",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/vespera-oversized-boxy-tee",
+    "localPath": "images/marywyatt-15907377217909-image-84264160166261.webp",
+    "sha256": "c8d6f8ca0e20ef6c42087753450a7d4f15013339f45b3c4bc56fad78e87a6442",
+    "ordinal": 21,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Graphic tee with short pleated skirt; distinct skirt-led ensemble, flared pleats and tee conceal body contours, confirmed enlarged.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "marywyatt-15907377217909-image-84264160199029",
+    "source": "marywyatt",
+    "sourceUrl": "https://www.marywyattlondon.com/products/vespera-oversized-boxy-tee",
+    "localPath": "images/marywyatt-15907377217909-image-84264160199029.webp",
+    "sha256": "69a1269f89561a25f5839d36a99f0c53bd16fb3e64e63961d6e834b300b0d8ad",
+    "ordinal": 22,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Graphic tee chest detail excluded.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

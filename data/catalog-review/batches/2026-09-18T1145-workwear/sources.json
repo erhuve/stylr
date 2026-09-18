@@ -1,0 +1,35 @@
+{
+  "retrievedAt": "2026-09-18T11:33:09.416654+00:00",
+  "scope": "1 sources, at most three pages of 250 products each and 1 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+  "sources": [
+    {
+      "source": "andsons",
+      "pages": [
+        {
+          "url": "https://andsons.co.uk/products.json?limit=250&page=1",
+          "products": 250,
+          "retrievedAt": "2026-09-18T11:33:08.776744+00:00",
+          "snapshotSha256": "eb9a9e86583d5c133860ce4e490edff53f31c8b95c783af1b61a2bbb6d56bf63"
+        }
+      ],
+      "errors": [],
+      "images": [
+        {
+          "id": "andsons-15595026547075-image-86406739755395",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/E3A6761-Edit-OG_BG.jpg?v=1789137188",
+          "sourceUrl": "https://andsons.co.uk/products/artisan-workwear-chore-jacket-indigo-blue",
+          "sha256": "c7772b2a20d80d32b89ed8fd20046966c3c81858c6412853d19174d18b389e35",
+          "outcome": "downloaded-unique"
+        },
+        {
+          "id": "andsons-15595026547075-image-86406739427715",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1330/2573/files/E3A6729-Edit-OG_BG.jpg?v=1789137188",
+          "sourceUrl": "https://andsons.co.uk/products/artisan-workwear-chore-jacket-indigo-blue",
+          "sha256": "6fd3b2dea46e5f312beb7c8ef484ea794de3d252d50bdbe43076fc540e5d8de5",
+          "outcome": "downloaded-unique"
+        }
+      ],
+      "downloadedUnique": 2
+    }
+  ]
+}
