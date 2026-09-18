@@ -1,8 +1,8 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7327,
-  "reviewedPhotos": 7327,
+  "catalogPhotos": 7330,
+  "reviewedPhotos": 7330,
   "unreviewedPhotos": 0,
   "categories": [
     {
@@ -30,18 +30,18 @@
     },
     {
       "presentation": "feminine",
-      "photos": 4095,
+      "photos": 4098,
       "percent": 55.9,
-      "sourcePages": 3651,
+      "sourcePages": 3654,
       "sourceHosts": 41,
       "completeReferences": 148,
       "byBuild": {
         "1": 27,
         "2": 394,
-        "3": 260,
+        "3": 262,
         "unknown": 582,
         "1.5": 2547,
-        "2.5": 285
+        "2.5": 286
       },
       "completeByBuild": {
         "1": 7,
@@ -1104,14 +1104,14 @@
         },
         {
           "presentation": "feminine",
-          "photos": 33,
-          "percent": 73.3,
-          "sourcePages": 30,
+          "photos": 36,
+          "percent": 75,
+          "sourcePages": 33,
           "sourceHosts": 1,
           "completeReferences": 1,
           "byBuild": {
-            "3": 30,
-            "2.5": 3
+            "3": 32,
+            "2.5": 4
           },
           "completeByBuild": {
             "3": 1
@@ -1130,7 +1130,7 @@
         {
           "presentation": "unclear",
           "photos": 12,
-          "percent": 26.7,
+          "percent": 25,
           "sourcePages": 10,
           "sourceHosts": 1,
           "completeReferences": 0,

@@ -146,12 +146,12 @@
     },
     {
       "source": "copperunion",
-      "sampledPages": 51,
-      "candidateImages": 102,
-      "reviewedExpansionCandidates": 102,
-      "admittedExpansionPhotos": 45,
+      "sampledPages": 57,
+      "candidateImages": 114,
+      "reviewedExpansionCandidates": 114,
+      "admittedExpansionPhotos": 48,
       "completeExpansionReferences": 1,
-      "deferredPages": 61
+      "deferredPages": 55
     },
     {
       "source": "corridor",
@@ -623,12 +623,12 @@
     },
     {
       "source": "taylorstitch",
-      "sampledPages": 6,
-      "candidateImages": 12,
-      "reviewedExpansionCandidates": 12,
+      "sampledPages": 7,
+      "candidateImages": 14,
+      "reviewedExpansionCandidates": 14,
       "admittedExpansionPhotos": 4,
       "completeExpansionReferences": 0,
-      "deferredPages": 175
+      "deferredPages": 174
     },
     {
       "source": "teddyfresh",
@@ -686,12 +686,12 @@
     },
     {
       "source": "trueclassic",
-      "sampledPages": 30,
-      "candidateImages": 51,
-      "reviewedExpansionCandidates": 51,
+      "sampledPages": 36,
+      "candidateImages": 62,
+      "reviewedExpansionCandidates": 62,
       "admittedExpansionPhotos": 12,
       "completeExpansionReferences": 6,
-      "deferredPages": 198
+      "deferredPages": 197
     },
     {
       "source": "twillory",
@@ -45125,6 +45125,247 @@
             }
           ],
           "downloadedUnique": 4
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1340-contours/sources.json",
+      "retrievedAt": "2026-09-18T13:33:02.720338+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "trueclassic",
+          "pages": [
+            {
+              "url": "https://trueclassictees.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T13:32:56.631473+00:00",
+              "snapshotSha256": "0d34bc7fb9da152fd63fa5ffcf0b3e63fcdc3e6c9f66f17eb5fd6f65b338a0e6"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "trueclassic-7134151344200-image-32748483215432",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/tct45403packblackwhitenavy_1.jpg?v=1781179373",
+              "sourceUrl": "https://trueclassictees.com/products/tall-heavyweight-curved-hem-crew-3-pack",
+              "sha256": "ac0289c990b4454c87e025fb217e1d6dae6490d23b90fd8420c1217c77747758",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-7134151344200-image-32745333719112",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/True_Classic_x_ECOM0353_hy8ok3_cth80i.jpg?v=1781049153",
+              "sourceUrl": "https://trueclassictees.com/products/tall-heavyweight-curved-hem-crew-3-pack",
+              "sha256": "86da26ef7cf263003f457e71ad63a446543adc50e29c8362dff7501f35c121fe",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-7134151016520-image-32748462702664",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/tct45403packwhite_b24a9f01-5d0a-4c4d-a8f7-c0593c8ea18d.jpg?v=1781178790",
+              "sourceUrl": "https://trueclassictees.com/products/all-white-tall-heavyweight-curved-hem-crew-3-pack",
+              "sha256": "97495a98cf55b644006a4fc26388d5ff82788871f068684f1aadc8103ecaa959",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-7134151016520-image-32745334079560",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/True_Classic_x_ECOM0638_x4okdd_tybmwk.jpg?v=1781049236",
+              "sourceUrl": "https://trueclassictees.com/products/all-white-tall-heavyweight-curved-hem-crew-3-pack",
+              "sha256": "f0c0e7a900e36ebf84aa43e8ea2565016cae3420fce65e0d6f5cc68d185ba145",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-7134150688840-image-32748451463240",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/tct45403packblack_dce0a4ec-619e-44a2-a5e1-cf7d9e6cad37.jpg?v=1781178515",
+              "sourceUrl": "https://trueclassictees.com/products/all-black-tall-heavyweight-curved-hem-crew-6-pack",
+              "sha256": "2da20ea485a08706e0cfaf7b89c37ad094ef83665232f60240543ff6d07f84ca",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-7134150688840-image-32745333719112",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/True_Classic_x_ECOM0353_hy8ok3_cth80i.jpg?v=1781049153",
+              "sourceUrl": "https://trueclassictees.com/products/all-black-tall-heavyweight-curved-hem-crew-6-pack",
+              "sha256": "86da26ef7cf263003f457e71ad63a446543adc50e29c8362dff7501f35c121fe",
+              "outcome": "exact-duplicate"
+            },
+            {
+              "id": "trueclassic-7132483190856-image-33147090305096",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/tct4000-3-Pack1_92c30772-caa0-40a4-a1ba-3821d7cd1d21.jpg?v=1789411977",
+              "sourceUrl": "https://trueclassictees.com/products/classic-crew-neck-tees-3-pack",
+              "sha256": "d40c5527c1f40f478c1f51340d31a14fec0d77bca02807637e1951f8744abc6a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-7132483190856-image-32928005750856",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4000_Short-Sleeve-Classic-Crew_HEATHER-NAVY_Large_Ecomm_2025_FEB_1_gcozem_ece13094-19e7-49c1-91ff-77337ea5b8cd.jpg?v=1785883798",
+              "sourceUrl": "https://trueclassictees.com/products/classic-crew-neck-tees-3-pack",
+              "sha256": "c8287f4b9aa8ff35f3308e66075f339991b13bf3a461a946c5d4360491bc186d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-6975908872264-image-31530973462600",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4000_Short-Sleeve-Classic-Crew_MARINE_Medium_Ecomm_2025_MAY_2.jpg?v=1768932090",
+              "sourceUrl": "https://trueclassictees.com/products/marine-classic-crew-neck",
+              "sha256": "a7ec532547355f21f9600d4abec53cad3d9dbeaf9b56aaa817f7b3c9a06708d4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-6975908872264-image-31530973397064",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT_4000_Short-Sleeve-Classic-Crew_MARINE_Medium_Ecomm_2025_MAY_5.jpg?v=1750796135",
+              "sourceUrl": "https://trueclassictees.com/products/marine-classic-crew-neck",
+              "sha256": "624494198c795abd6e2eb7c61f1f9b413670894fab32a5b8c5819fcec93dc8d0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-6993212735560-image-31965269229640",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4805_HEATHERGREY_04_mzscca.jpg?v=1758323525",
+              "sourceUrl": "https://trueclassictees.com/products/medium-heather-gray-fleece-french-terry-shorts",
+              "sha256": "76db0303c54de864175b8ceac689cb93b8c7883b411056d8954f759ce5604ffb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "trueclassic-6993212735560-image-31965269327944",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/4805_HEATHERGREY_08_ovvybz.jpg?v=1758523127",
+              "sourceUrl": "https://trueclassictees.com/products/medium-heather-gray-fleece-french-terry-shorts",
+              "sha256": "ab9ff880df008b359d4569e5fb6d4e9fe7c5a674c2a03020519ca32ab729064e",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 11
+        },
+        {
+          "source": "copperunion",
+          "pages": [
+            {
+              "url": "https://copperunionapparel.com/products.json?limit=250&page=1",
+              "products": 190,
+              "retrievedAt": "2026-09-18T13:32:59.764841+00:00",
+              "snapshotSha256": "3054bed34148c7ee01e36e4d406215d0bc82c2def3e081e3f46f8c1b65cf9eba"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "copperunion-8946304712926-image-45203184058590",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2066.heic?v=1755207104",
+              "sourceUrl": "https://copperunionapparel.com/products/black-and-white-palm-shirt-dress",
+              "sha256": "722ca2f82ca1c6217523ee28992a55093e4cc25445e0b22f5f2a1d808f34d676",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8946304712926-image-45203184124126",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2069.heic?v=1755207104",
+              "sourceUrl": "https://copperunionapparel.com/products/black-and-white-palm-shirt-dress",
+              "sha256": "7306aeef478109ed83c39382dfec71de188f0996ec43c66c546986e0ad5a2cd1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8970461479134-image-45203090866398",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2084.heic?v=1755206750",
+              "sourceUrl": "https://copperunionapparel.com/products/block-party-chiffon-crop",
+              "sha256": "bc51c37e2ac14bcc638f9afc65c832db0edadbe5abe5d73e42d4bbb6f1536b2b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8970461479134-image-45203090931934",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_2086.heic?v=1755206750",
+              "sourceUrl": "https://copperunionapparel.com/products/block-party-chiffon-crop",
+              "sha256": "9dfe10a4faefedf556e281ff7a22d47015fb0d485f25772fcbbb749653688cf6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8973775995102-image-45150036787422",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_6752.jpg?v=1761857080",
+              "sourceUrl": "https://copperunionapparel.com/products/solids-cowl-dress",
+              "sha256": "321c012194b7e70ea29ef6c727016d4ea983910dbb0d3a3c64016e641d81035c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8973775995102-image-45150038360286",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_6735.jpg?v=1761857080",
+              "sourceUrl": "https://copperunionapparel.com/products/solids-cowl-dress",
+              "sha256": "6d6eef4adf4c0dca703ec72190d49d5077ac6f1c5c660f7f48015df05972c05d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8931178643678-image-44640017973470",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1970.heic?v=1748554669",
+              "sourceUrl": "https://copperunionapparel.com/products/black-and-white-ty-dress",
+              "sha256": "aaff49ca4570a86dc31cb90bbc1c2a6fce5d4e5cbf181600689675c2f33513e8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8931178643678-image-44640018104542",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1972.heic?v=1748554669",
+              "sourceUrl": "https://copperunionapparel.com/products/black-and-white-ty-dress",
+              "sha256": "414b6a6dab9ae60f70acbe737f12aa5f15200b2f2fd27f3b76ec1a5b0b517629",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8895246139614-image-44440122097886",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1940.heic?v=1746737147",
+              "sourceUrl": "https://copperunionapparel.com/products/blue-dot-waterfall-sundress",
+              "sha256": "acfda870e30240764ff082b2d54a38aa83ea96cca9fba331f9dac2f4acb9f310",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8895246139614-image-44440122261726",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1942.heic?v=1746737147",
+              "sourceUrl": "https://copperunionapparel.com/products/blue-dot-waterfall-sundress",
+              "sha256": "e05ee1760e155af3f3f4545db0267e75478cbd0892ee4c06093411ec0ace7ba1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8871702626526-image-44256493830366",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1853.jpg?v=1744322187",
+              "sourceUrl": "https://copperunionapparel.com/products/floral-racer-back-dress",
+              "sha256": "a0dba3e526be120626aeaa282d8b8bdc6b13c511ba4de6c117a212496e92541a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "copperunion-8871702626526-image-44256493764830",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0550/7458/6846/files/IMG_1812.jpg?v=1744322187",
+              "sourceUrl": "https://copperunionapparel.com/products/floral-racer-back-dress",
+              "sha256": "5c206ed7dc6c63fd1b5cb6885fa0f4ba2657fa4920ecdac06ec2e03b6e13a95a",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1345-workwear/sources.json",
+      "retrievedAt": "2026-09-18T13:33:26.471142+00:00",
+      "scope": "1 sources, at most three pages of 250 products each and 1 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "taylorstitch",
+          "pages": [
+            {
+              "url": "https://taylorstitch.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T13:33:25.871242+00:00",
+              "snapshotSha256": "0528d70a331ec7a9a9b45ef3ea576fec0577623c90fe446f2a910356c9c6219b"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "taylorstitch-7645557030989-image-36970836885581",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_shore-shirt-deepwater-check-portugese-flannel_portrait_001.jpg?v=1789156381",
+              "sourceUrl": "https://taylorstitch.com/products/shore-shirt-in-deepwater-check-portuguese-flannel-2607",
+              "sha256": "0eb5a7c9be100b05eea156d4c1e8f84de0f7d1051cb553a3ec4f47fed7876c25",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taylorstitch-7645557030989-image-36970836951117",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_shore-shirt-deepwater-check-portugese-flannel_portrait_003.jpg?v=1788894352",
+              "sourceUrl": "https://taylorstitch.com/products/shore-shirt-in-deepwater-check-portuguese-flannel-2607",
+              "sha256": "3fd55602eb17c2a61e3c5ad3756f0dcfdb511e9c07db7b1f47fc28a21e327e56",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 2
         }
       ]
     }

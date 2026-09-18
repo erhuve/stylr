@@ -6024,6 +6024,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/black-and-white-palm-shirt-dress",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8946304712926-image-45203184058590",
+      "copperunion-8946304712926-image-45203184124126"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/black-and-white-ty-dress",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8931178643678-image-44640017973470",
+      "copperunion-8931178643678-image-44640018104542"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/black-lucy-midi-dress",
     "source": "copperunion",
     "candidateIds": [
@@ -6038,6 +6066,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://copperunionapparel.com/products/block-party-chiffon-crop",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8970461479134-image-45203090866398",
+      "copperunion-8970461479134-image-45203090931934"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://copperunionapparel.com/products/blue-abstract-dot-katie-dress",
     "source": "copperunion",
     "candidateIds": [
@@ -6049,6 +6091,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/blue-dot-waterfall-sundress",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8895246139614-image-44440122097886",
+      "copperunion-8895246139614-image-44440122261726"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -6203,6 +6259,20 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/floral-racer-back-dress",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8871702626526-image-44256493764830",
+      "copperunion-8871702626526-image-44256493830366"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
@@ -6508,6 +6578,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0500-inclusive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://copperunionapparel.com/products/solids-cowl-dress",
+    "source": "copperunion",
+    "candidateIds": [
+      "copperunion-8973775995102-image-45150036787422",
+      "copperunion-8973775995102-image-45150038360286"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -121041,6 +121125,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://taylorstitch.com/products/shore-shirt-in-deepwater-check-portuguese-flannel-2607",
+    "source": "taylorstitch",
+    "candidateIds": [
+      "taylorstitch-7645557030989-image-36970836885581",
+      "taylorstitch-7645557030989-image-36970836951117"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1345-workwear/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://teddyfresh.com/products/classic-slim-fit-sweatpants",
     "source": "teddyfresh",
     "candidateIds": [
@@ -137761,6 +137859,89 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-16T1825-street/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://trueclassictees.com/products/all-black-tall-heavyweight-curved-hem-crew-6-pack",
+    "source": "trueclassic",
+    "candidateIds": [
+      "trueclassic-7134150688840-image-32748451463240"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 1,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://trueclassictees.com/products/all-white-tall-heavyweight-curved-hem-crew-3-pack",
+    "source": "trueclassic",
+    "candidateIds": [
+      "trueclassic-7134151016520-image-32745334079560",
+      "trueclassic-7134151016520-image-32748462702664"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://trueclassictees.com/products/classic-crew-neck-tees-3-pack",
+    "source": "trueclassic",
+    "candidateIds": [
+      "trueclassic-7132483190856-image-32928005750856",
+      "trueclassic-7132483190856-image-33147090305096"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://trueclassictees.com/products/marine-classic-crew-neck",
+    "source": "trueclassic",
+    "candidateIds": [
+      "trueclassic-6975908872264-image-31530973397064",
+      "trueclassic-6975908872264-image-31530973462600"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://trueclassictees.com/products/medium-heather-gray-fleece-french-terry-shorts",
+    "source": "trueclassic",
+    "candidateIds": [
+      "trueclassic-6993212735560-image-31965269229640",
+      "trueclassic-6993212735560-image-31965269327944"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://trueclassictees.com/products/tall-heavyweight-curved-hem-crew-3-pack",
+    "source": "trueclassic",
+    "candidateIds": [
+      "trueclassic-7134151344200-image-32745333719112",
+      "trueclassic-7134151344200-image-32748483215432"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1340-contours/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,

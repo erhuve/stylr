@@ -1,6 +1,16 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,327 photos; 2,885 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,330 photos; 2,882 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: True Classic, Copper Union and Taylor Stitch
+
+The 13:30 UTC run (con_1UxY7s005jlp5tgh) directly reviews 25 candidates in `2026-09-18T1340-contours` and `2026-09-18T1345-workwear`: three candidate sheets, three enlarged originals and two comparison sheets covering all 57 preceding True Classic/Copper Union admissions. Three distinct feminine dress-led ensembles qualify with three build observations. Twelve repetitive outfits/poses/prints, nine products/details and one rear view are excluded. Thirteen candidate views target casual/workwear coverage, yielding no masculine admission. No new publisher is added.
+
+Totals: 7,330 photos, 7,089 body records, 5,772 build observations and 291 complete references (44 masculine). Presentation totals: 1,223 masculine, 4,098 feminine, 170 mixed and 1,839 unclear. All 45 sampled required-body-filter settings and the 54-match broader-build benchmark remain unchanged. Target remaining: 2,882 admissions. Pending training remains 3,744 unchanged bindings from original collection ordinal 1056.
+
+Three bounded first-page listing snapshots preserve all 690 product decisions and one exact-image duplicate outcome. Inventory: 11,946 sampled pages and 46,906 deferred pages. Thirteen previously deferred pages are now sampled; 416 existing queue records refresh only their evidence timestamp/path or equivalent www-host URL, preserving all historical source logs. Five new deferred pages are added. Append after `2026-09-18T1345-workwear`. Prioritize independent full-front fitted untied separates and collared ensembles; these basic tee multipacks, print variants and folded-shirt galleries show poor contour yield. Batch names provide immutable ordering; recorded timestamps give actual retrieval time.
+
+Baseline `46d6ae4` matches fetched personal-discovery and contains remote main. All 7,327 prior presentation rows and 6,942 prior expansion photo/asset/body records are unchanged. All 6,945 expansion assets, 25 candidate images, three sheets and three listing snapshots retain bound hashes. All 7,330 application assets verify without duplicate hashes. Admission replay, complete presentation audit, library audit, original-photo identity, typecheck, three sourcing tests and two batch tests pass. All 131 unit checks pass in a single run (178,122 assertions, 355.50 seconds), and all 86 browser checks pass in 3.1 minutes with tracing disabled, retaining all assertions and original time limits. Only exact catalog/body/group count expectations changed. No validation remains pending or failing. External checkpoint scripts and logs live under `expansion-2026-09-18T1340-contours`. No deployment.
 
 ## Current continuation: fitted shirts, Snag and workwear
 
