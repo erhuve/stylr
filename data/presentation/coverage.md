@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7295/7295; unreviewed: 0.
+Reviewed: 7304/7304; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1213 | 16.6% | 1148 | 52 | 44 |
-| feminine | 4079 | 55.9% | 3635 | 37 | 148 |
+| masculine | 1214 | 16.6% | 1149 | 53 | 44 |
+| feminine | 4084 | 55.9% | 3640 | 38 | 148 |
 | mixed-androgynous | 170 | 2.3% | 163 | 12 | 2 |
-| unclear | 1833 | 25.1% | 1708 | 65 | 97 |
+| unclear | 1836 | 25.1% | 1711 | 66 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":143,"3":65,"unknown":373,"2.5":61,"1.5":568} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":394,"3":255,"unknown":579,"1.5":2541,"2.5":283} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| masculine | {"1":3,"2":143,"3":65,"unknown":373,"2.5":61,"1.5":569} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":394,"3":259,"unknown":579,"1.5":2541,"2.5":284} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
 | mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":76} | {"1.5":2} |
-| unclear | {"1":7,"2":155,"3":215,"1.5":830,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| unclear | {"1":7,"2":155,"3":215,"1.5":833,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -61,6 +61,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | girlfriend.com | 0 | 6 | 0 | 9 | 0 |
 | goodlifeclothing.com | 0 | 0 | 0 | 2 | 0 |
 | kirrinfinch.com | 66 | 0 | 0 | 9 | 0 |
+| kiyonna.com | 0 | 5 | 0 | 0 | 0 |
 | lucyandyak.com | 1 | 7 | 1 | 29 | 0 |
 | midnighthour.com | 23 | 95 | 1 | 25 | 0 |
 | mochipan.com | 8 | 111 | 0 | 14 | 0 |
@@ -69,6 +70,7 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | nooworks.com | 0 | 3 | 1 | 1 | 0 |
 | onebonebrand.com | 21 | 0 | 0 | 57 | 0 |
 | outerknown.com | 1 | 1 | 0 | 3 | 0 |
+| percivalclo.com | 1 | 0 | 0 | 3 | 0 |
 | perryellis.com | 8 | 0 | 0 | 0 | 0 |
 | pettilia.com | 0 | 4 | 0 | 1 | 0 |
 | pexels.com | 9 | 16 | 1 | 14 | 0 |

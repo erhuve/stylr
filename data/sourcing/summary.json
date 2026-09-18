@@ -325,6 +325,15 @@
       "deferredPages": 0
     },
     {
+      "source": "kiyonna",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 5,
+      "completeExpansionReferences": 0,
+      "deferredPages": 159
+    },
+    {
       "source": "lucyandyak",
       "sampledPages": 30,
       "candidateImages": 60,
@@ -413,6 +422,15 @@
       "admittedExpansionPhotos": 5,
       "completeExpansionReferences": 0,
       "deferredPages": 206
+    },
+    {
+      "source": "percival",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 4,
+      "completeExpansionReferences": 0,
+      "deferredPages": 183
     },
     {
       "source": "perryellis",
@@ -44048,6 +44066,211 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/1541/8917/files/6eff33ac-9e1b-4905-95a1-148b0c8ecd08_1.png?v=1780671540",
               "sourceUrl": "https://igigi.com/products/celestine-dress",
               "sha256": "33eb47df08cf1c1aea07c9a38424143721297cfe6f699eca2fd982b68801424d",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T1110-independent/sources.json",
+      "retrievedAt": "2026-09-18T11:02:34.431521+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "percival",
+          "pages": [
+            {
+              "url": "https://percivalclo.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T11:02:29.390890+00:00",
+              "snapshotSha256": "21153878a8ba1e27f7f17c2bfc8c045c07abb004ea700987578602b9f8bca725"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "percival-16063786582396-image-85047921246588",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR13_6f05e522-8378-478d-ab3f-7cb52de1c6b6.jpg?v=1789127535",
+              "sourceUrl": "https://percivalclo.com/products/editor-striped-rugby-polo-shirt-guinness-percival-forest",
+              "sha256": "e20168c1a90dcedf9c284741dd77943e2c7f0fd442581f0424d58d870083f839",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16063786582396-image-85000433860988",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/RugbyPoloShirt_Forest_Guinness_PERCIVAL_MENSWEAR-2.jpg?v=1788869286",
+              "sourceUrl": "https://percivalclo.com/products/editor-striped-rugby-polo-shirt-guinness-percival-forest",
+              "sha256": "841e633e123ea0aba193af3336144b95f38fc10c84effb8895ec0c299fd2c769",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16063786385788-image-85049344196988",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR67_c3d419c1-b97e-4843-b105-82e4e54bc856.jpg?v=1789125740",
+              "sourceUrl": "https://percivalclo.com/products/jacquard-merino-wool-jumper-guinness-x-percival-forest",
+              "sha256": "afd313eafd690240ce126f634c8ee40d767d865202ecf1f01e60db7b9c3fcf84",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16063786385788-image-84999841546620",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/GuinnessJumper_Forest_PERCIVAL_MENSWEAR7.jpg?v=1788866181",
+              "sourceUrl": "https://percivalclo.com/products/jacquard-merino-wool-jumper-guinness-x-percival-forest",
+              "sha256": "678d1eff2eadf957002e172d5dfc6b2c16872f7259b4e4d7d8d6e80115f38819",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16063786123644-image-85150687560060",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR1_1_12276913-812f-48ba-8bcd-37e5e39a777b.jpg?v=1789662936",
+              "sourceUrl": "https://percivalclo.com/products/curtis-funnel-neck-sweatshirt-guinness-x-percival-navy",
+              "sha256": "2b7285245c19cedcd9c83cb1b7a2c91c3da8a969a8f6bf0332e64196bc2a1582",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16063786123644-image-85000210973052",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/CurtisZip_Guinness_PERCIVAL_MENSWEAR1.jpg?v=1788866636",
+              "sourceUrl": "https://percivalclo.com/products/curtis-funnel-neck-sweatshirt-guinness-x-percival-navy",
+              "sha256": "6a561c367303bf7aca9a5514e88f3e90f75e4d8ca1cf1cf667911e7cd2465375",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16032045728124-image-85000339521916",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Guinness_Henley_PERCIVAL_MENSWEAR-1.jpg?v=1788868269",
+              "sourceUrl": "https://percivalclo.com/products/henley-waffle-long-sleeve-t-shirt-guinness-x-percival-cream",
+              "sha256": "db2b04000af83e159949d4be1d53b40f1ba323bb6f2a2750b589f77b71e634c6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16032045728124-image-85000339554684",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/Guinness_Henley_PERCIVAL_MENSWEAR-2.jpg?v=1788868269",
+              "sourceUrl": "https://percivalclo.com/products/henley-waffle-long-sleeve-t-shirt-guinness-x-percival-cream",
+              "sha256": "ba3e4964d03b3d7dfe592a60cda8e3c245fd561ca01fcddcec44abca05c383f6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16032045564284-image-85000347222396",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/WashedTshirt_Navy_Guinness_PERCIVAL_MENSWEAR9.jpg?v=1788868379",
+              "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-navy",
+              "sha256": "a8bf3a2092ab9feae22c0ed8e867c2bc4be10f238a05e74133a2ee8d4bda07ac",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16032045564284-image-85000347156860",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/WashedTshirt_Navy_Guinness_PERCIVAL_MENSWEAR5.jpg?v=1788868379",
+              "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-navy",
+              "sha256": "72fe012e643572a971a0dc39741778a38c26c6f792781bc0876157b19ea5d2ef",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16032045433212-image-85000356594044",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/WashedTshirt_Forest_Guinness_PERCIVAL_MENSWEAR-1.jpg?v=1788868470",
+              "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-forest",
+              "sha256": "29bedcf4eac3654c4c639e32d296f739451b0096df598f16117a4df030c21cb4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "percival-16032045433212-image-85000356757884",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1479/8488/files/WashedTshirt_Forest_Guinness_PERCIVAL_MENSWEAR-6.jpg?v=1788868468",
+              "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-forest",
+              "sha256": "803041de6b71310b23e39747e5eed891df9fc1ae4c1e4ed98c5aa52ca62b4feb",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "kiyonna",
+          "pages": [
+            {
+              "url": "https://kiyonna.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T11:02:32.838641+00:00",
+              "snapshotSha256": "90ac3849376bc3e908e475fa8d51c3aa8771f2b2c001d9627a70fd0faf2fc643"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "kiyonna-9930135765297-image-58445245350193",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/1-28102205-LVF.webp?v=1781147426",
+              "sourceUrl": "https://kiyonna.com/products/abby-twist-top-sale",
+              "sha256": "a74cf6c7c061f867db4725ff875b70b6eb76852b5ed1484707de28a81b273d43",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-9930135765297-image-58445245284657",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/3-28102205-LVF.webp?v=1781147426",
+              "sourceUrl": "https://kiyonna.com/products/abby-twist-top-sale",
+              "sha256": "fbf13447f8eeefe3d3b13c200c64781d19a2f721f3e6fbd2da54fdcda6f4ffdc",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-10241921384753-image-58381184532785",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/1-18222602-TFP-PDP.webp?v=1780761115",
+              "sourceUrl": "https://kiyonna.com/products/gemini-wrap-dress-sale",
+              "sha256": "a168c363818ae5eb9ad92faff6dc017e3c238227134cf16e75d9e7f2bf03a28e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-10241921384753-image-58381184401713",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/3-18222602-TFP-PDP.webp?v=1780761115",
+              "sourceUrl": "https://kiyonna.com/products/gemini-wrap-dress-sale",
+              "sha256": "e69cb5cfc0211c871ea30276192573a4fc566189026cbde2e68b46a36334614a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-10683346682161-image-58274445558065",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/1-12262501-TRP.webp?v=1780089685",
+              "sourceUrl": "https://kiyonna.com/products/nora-kaftan-midi-dress",
+              "sha256": "96c20e698d4d74ef3d3546d28b24019cfeb2772a0132ea504295babbd74199e6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-10683346682161-image-58274445623601",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/3-12262501-TRP.webp?v=1780089685",
+              "sourceUrl": "https://kiyonna.com/products/nora-kaftan-midi-dress",
+              "sha256": "8094fb8fba799ffec16e8127ede6ab7e84a9eebe03ba8476e401feef6741ea9e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-10830795243825-image-58526736056625",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/1-32262901-BST.webp?v=1781559167",
+              "sourceUrl": "https://kiyonna.com/products/eva-palazzo-pants-sale",
+              "sha256": "2f3999ef9721857a043d1f23ab98fa78642d86816b7cb0b7936872f2ffd30b6c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-10830795243825-image-58526736482609",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/3-32262901-BST.webp?v=1781559167",
+              "sourceUrl": "https://kiyonna.com/products/eva-palazzo-pants-sale",
+              "sha256": "8353e13d9a8dc9e5ee5b17eaa69fc111103579ebe688f205558715c66b307a4a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-8334553776433-image-58808956420401",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/1-23152201-GBF.webp?v=1783028443",
+              "sourceUrl": "https://kiyonna.com/products/femme-fatale-faux-wrap-top-sale",
+              "sha256": "8b46735caee2d3fa754fccc2726db96126cb2d0e317ff345b61190cb7e7c0441",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-8334553776433-image-58808956387633",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/3-23152201-GBF.webp?v=1783028443",
+              "sourceUrl": "https://kiyonna.com/products/femme-fatale-faux-wrap-top-sale",
+              "sha256": "62eb3c0f76e5547f1599b1b01d51ba91768fea0d6bf0aa853d1bfde858d49120",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-10801449599281-image-59901544694065",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/1-23260703-TBA.webp?v=1788491758",
+              "sourceUrl": "https://kiyonna.com/products/priscilla-peplum-top",
+              "sha256": "9310f44fe3ba790fa0791951a62a7637a5263ab8717a7b709b7cc814b928a367",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "kiyonna-10801449599281-image-59901544759601",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0679/5463/9153/files/3-23260703-TBA.webp?v=1788491758",
+              "sourceUrl": "https://kiyonna.com/products/priscilla-peplum-top",
+              "sha256": "0c5b2b6a391c4ec1986a42e769701143b604c0fc157460af845941f764279abb",
               "outcome": "downloaded-unique"
             }
           ],

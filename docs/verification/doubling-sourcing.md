@@ -1,6 +1,14 @@
 # Doubling the reviewed library
 
-Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current checkpoint: 7,295 photos; 2,917 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+Date: 2026-09-18. Status: in progress, not deployed. Baseline: `872e892`, 5,106 photos. Requested target: 10,212 admitted photos, not downloaded candidates. Current reviewed checkpoint: 7,304 photos; 2,908 further admissions required. This document is the active continuation handoff; older verification documents describe earlier checkpoints.
+
+## Current continuation: Percival and Kiyonna
+
+The 11:00 UTC run directly reviews 24 candidates in `2026-09-18T1110-independent` using two bound sheets and four enlarged originals. Nine outfits qualify from two new publishers: one masculine collared casual ensemble, five feminine ensembles and three unclear neutral ensembles. Three detail crops, one rear crop, one group scene and ten repeated poses/colorways are excluded. Twelve candidates target each source; both first-page snapshots preserve all 500 listing decisions. These bounded galleries do not establish source exhaustion.
+
+Totals: 7,304 photos, 5,752 build observations and 291 complete references (44 masculine, 148 feminine, two mixed, 97 unclear). Presentation totals: 1,214 masculine, 4,084 feminine, 170 mixed and 1,836 unclear. All 45 sampled required-body-filter settings are unchanged; the broader-build benchmark remains 54. Pending training remains 3,744 byte-identical rows from original ordinal 1056. Inventory records 11,889 sampled pages, 46,215 deferred pages, 83 source keys and 99 runs. Append after `1110-independent`; prioritize independent fuller-build fitted untied separates and full front collared ensembles rather than more wrap-dress prints and branded tee colorways. Deployment remains pending.
+
+Admission replay, complete presentation audit, typecheck, original-photo identity and library audit pass. Preservation validates all 6,910 prior expansion photo/asset/body records, 7,295 presentation rows, all 6,919 expansion asset hashes, 24 candidate bindings, two sheets and two listing snapshots. All 45,873 prior deferred source records are unchanged; 342 new deferred pages are added. All 131 unit tests pass (177,576 assertions, 509.39 seconds), including sourcing regressions; all 86 browser checks pass (5.1 minutes). No checks remain pending or failing. Only exact catalog/body/source-group test counts changed; assertions and budgets remain intact. Logs and the checkpoint script are under external `expansion-2026-09-18T1110-independent`. Baseline d5c2226 includes the latest fetched remote main and personal-discovery. Conversation owner: con_Ad3mKAAd8FtTqMxj. No deployment.
 
 ## Current continuation: independent sources and digital-image exclusion
 

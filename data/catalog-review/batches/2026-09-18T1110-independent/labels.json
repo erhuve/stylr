@@ -1,0 +1,386 @@
+[
+  {
+    "id": "percival-16063786582396-image-85047921246588",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/editor-striped-rugby-polo-shirt-guinness-percival-forest",
+    "localPath": "images/percival-16063786582396-image-85047921246588.webp",
+    "sha256": "e20168c1a90dcedf9c284741dd77943e2c7f0fd442581f0424d58d870083f839",
+    "ordinal": 0,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Multi-person pub scene; excluded rather than assigning a single outfit observation.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16063786582396-image-85000433860988",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/editor-striped-rugby-polo-shirt-guinness-percival-forest",
+    "localPath": "images/percival-16063786582396-image-85000433860988.webp",
+    "sha256": "841e633e123ea0aba193af3336144b95f38fc10c84effb8895ec0c299fd2c769",
+    "ordinal": 1,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Polo chest and collar detail only.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16063786385788-image-85049344196988",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/jacquard-merino-wool-jumper-guinness-x-percival-forest",
+    "localPath": "images/percival-16063786385788-image-85049344196988.webp",
+    "sha256": "afd313eafd690240ce126f634c8ee40d767d865202ecf1f01e60db7b9c3fcf84",
+    "ordinal": 2,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Seated version of the same sweater and shirt outfit retained in the clearer standing view at 3.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16063786385788-image-84999841546620",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/jacquard-merino-wool-jumper-guinness-x-percival-forest",
+    "localPath": "images/percival-16063786385788-image-84999841546620.webp",
+    "sha256": "678d1eff2eadf957002e172d5dfc6b2c16872f7259b4e4d7d8d6e80115f38819",
+    "ordinal": 3,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Standing collared shirt under green sweater, pale jeans and dark loafers; slight visible build. Loose layered hem and hands in pockets obscure waist and hip boundaries.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16063786123644-image-85150687560060",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/curtis-funnel-neck-sweatshirt-guinness-x-percival-navy",
+    "localPath": "images/percival-16063786123644-image-85150687560060.webp",
+    "sha256": "2b7285245c19cedcd9c83cb1b7a2c91c3da8a969a8f6bf0332e64196bc2a1582",
+    "ordinal": 4,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped variation of the navy zip jacket retained in the fuller outfit at 5.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16063786123644-image-85000210973052",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/curtis-funnel-neck-sweatshirt-guinness-x-percival-navy",
+    "localPath": "images/percival-16063786123644-image-85000210973052.webp",
+    "sha256": "6a561c367303bf7aca9a5514e88f3e90f75e4d8ca1cf1cf667911e7cd2465375",
+    "ordinal": 5,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy zip jacket, green trousers and loafers; slight visible build. Jacket volume and pocketed hand obscure waist and hip contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16032045728124-image-85000339521916",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/henley-waffle-long-sleeve-t-shirt-guinness-x-percival-cream",
+    "localPath": "images/percival-16032045728124-image-85000339521916.webp",
+    "sha256": "db2b04000af83e159949d4be1d53b40f1ba323bb6f2a2750b589f77b71e634c6",
+    "ordinal": 6,
+    "view": "partial",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White henley and brown patch-pocket trousers; slight visible build. Boxy hem and arms behind torso obscure waist and hip comparison.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16032045728124-image-85000339554684",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/henley-waffle-long-sleeve-t-shirt-guinness-x-percival-cream",
+    "localPath": "images/percival-16032045728124-image-85000339554684.webp",
+    "sha256": "ba3e4964d03b3d7dfe592a60cda8e3c245fd561ca01fcddcec44abca05c383f6",
+    "ordinal": 7,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Henley collar and chest detail only.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16032045564284-image-85000347222396",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-navy",
+    "localPath": "images/percival-16032045564284-image-85000347222396.webp",
+    "sha256": "a8bf3a2092ab9feae22c0ed8e867c2bc4be10f238a05e74133a2ee8d4bda07ac",
+    "ordinal": 8,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped tucked variation of navy tee outfit; retain clearer full standing view at 9.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16032045564284-image-85000347156860",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-navy",
+    "localPath": "images/percival-16032045564284-image-85000347156860.webp",
+    "sha256": "72fe012e643572a971a0dc39741778a38c26c6f792781bc0876157b19ea5d2ef",
+    "ordinal": 9,
+    "view": "full",
+    "body": {
+      "build": 1.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Navy tee with green trousers and brown shoes; slight visible build. Enlarged original confirms loose straight tee conceals waist and upper hips.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16032045433212-image-85000356594044",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-forest",
+    "localPath": "images/percival-16032045433212-image-85000356594044.webp",
+    "sha256": "29bedcf4eac3654c4c639e32d296f739451b0096df598f16117a4df030c21cb4",
+    "ordinal": 10,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated contrast-stitch tee colorway and cropped pose; no distinct outfit admission beyond 9.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "percival-16032045433212-image-85000356757884",
+    "source": "percival",
+    "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-forest",
+    "localPath": "images/percival-16032045433212-image-85000356757884.webp",
+    "sha256": "803041de6b71310b23e39747e5eed891df9fc1ae4c1e4ed98c5aa52ca62b4feb",
+    "ordinal": 11,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated contrast-stitch tee and trouser colorway; excluded rather than padding near-identical styling.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-9930135765297-image-58445245350193",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/abby-twist-top-sale",
+    "localPath": "images/kiyonna-9930135765297-image-58445245350193.webp",
+    "sha256": "a74cf6c7c061f867db4725ff875b70b6eb76852b5ed1484707de28a81b273d43",
+    "ordinal": 12,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Floral knotted blouse and dark jeans; fuller visible build. Flutter sleeves and gathered knot obscure shoulder boundary and anatomical waist.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-9930135765297-image-58445245284657",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/abby-twist-top-sale",
+    "localPath": "images/kiyonna-9930135765297-image-58445245284657.webp",
+    "sha256": "fbf13447f8eeefe3d3b13c200c64781d19a2f721f3e6fbd2da54fdcda6f4ffdc",
+    "ordinal": 13,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated pose of the blouse and jeans retained at 12.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-10241921384753-image-58381184532785",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/gemini-wrap-dress-sale",
+    "localPath": "images/kiyonna-10241921384753-image-58381184532785.webp",
+    "sha256": "a168c363818ae5eb9ad92faff6dc017e3c238227134cf16e75d9e7f2bf03a28e",
+    "ordinal": 14,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Blue floral wrap dress and heeled sandals; fuller visible build. Raised arm, angled stance and wrap construction prevent reliable shoulder/hip and waist observations.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-10241921384753-image-58381184401713",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/gemini-wrap-dress-sale",
+    "localPath": "images/kiyonna-10241921384753-image-58381184401713.webp",
+    "sha256": "e69cb5cfc0211c871ea30276192573a4fc566189026cbde2e68b46a36334614a",
+    "ordinal": 15,
+    "view": "detail",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Cropped dress advertisement with text; retain full outfit at 14.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-10683346682161-image-58274445558065",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/nora-kaftan-midi-dress",
+    "localPath": "images/kiyonna-10683346682161-image-58274445558065.webp",
+    "sha256": "96c20e698d4d74ef3d3546d28b24019cfeb2772a0132ea504295babbd74199e6",
+    "ordinal": 16,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated floral wrap-dress styling and angled pose, differing mainly in print from 14.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-10683346682161-image-58274445623601",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/nora-kaftan-midi-dress",
+    "localPath": "images/kiyonna-10683346682161-image-58274445623601.webp",
+    "sha256": "8094fb8fba799ffec16e8127ede6ab7e84a9eebe03ba8476e401feef6741ea9e",
+    "ordinal": 17,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Another print variant of the same wrap-dress styling; no distinct outfit admission beyond 14.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-10830795243825-image-58526736056625",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/eva-palazzo-pants-sale",
+    "localPath": "images/kiyonna-10830795243825-image-58526736056625.webp",
+    "sha256": "2f3999ef9721857a043d1f23ab98fa78642d86816b7cb0b7936872f2ffd30b6c",
+    "ordinal": 18,
+    "view": "full",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "White tank, striped wide-leg trousers and wedge sandals; fuller visible build. Enlarged original shows angled torso, hands in pockets and gathered waistband hiding hip and waist contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-10830795243825-image-58526736482609",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/eva-palazzo-pants-sale",
+    "localPath": "images/kiyonna-10830795243825-image-58526736482609.webp",
+    "sha256": "8353e13d9a8dc9e5ee5b17eaa69fc111103579ebe688f205558715c66b307a4a",
+    "ordinal": 19,
+    "view": "back",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Rear trouser crop, not front outfit evidence.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-8334553776433-image-58808956420401",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/femme-fatale-faux-wrap-top-sale",
+    "localPath": "images/kiyonna-8334553776433-image-58808956420401.webp",
+    "sha256": "8b46735caee2d3fa754fccc2726db96126cb2d0e317ff345b61190cb7e7c0441",
+    "ordinal": 20,
+    "view": "partial",
+    "body": {
+      "build": 3.0,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Green floral wrap top with dark jeans; fuller visible build. Enlarged original shows angled stance and diagonal gathered fabric; anatomical waist and shoulder/hip balance remain uncertain.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-8334553776433-image-58808956387633",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/femme-fatale-faux-wrap-top-sale",
+    "localPath": "images/kiyonna-8334553776433-image-58808956387633.webp",
+    "sha256": "62eb3c0f76e5547f1599b1b01d51ba91768fea0d6bf0aa853d1bfde858d49120",
+    "ordinal": 21,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Repeated pose of the green wrap blouse retained at 20.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-10801449599281-image-59901544694065",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/priscilla-peplum-top",
+    "localPath": "images/kiyonna-10801449599281-image-59901544694065.webp",
+    "sha256": "9310f44fe3ba790fa0791951a62a7637a5263ab8717a7b709b7cc814b928a367",
+    "ordinal": 22,
+    "view": "reject",
+    "body": {
+      "build": null,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Raised-arm variation of peplum blouse retained at 23.",
+    "reviewer": "primary-assistant-direct-visual"
+  },
+  {
+    "id": "kiyonna-10801449599281-image-59901544759601",
+    "source": "kiyonna",
+    "sourceUrl": "https://kiyonna.com/products/priscilla-peplum-top",
+    "localPath": "images/kiyonna-10801449599281-image-59901544759601.webp",
+    "sha256": "0c5b2b6a391c4ec1986a42e769701143b604c0fc157460af845941f764279abb",
+    "ordinal": 23,
+    "view": "partial",
+    "body": {
+      "build": 2.5,
+      "shoulderHip": null,
+      "waist": null
+    },
+    "evidence": "Floral peplum blouse and jeans; moderately fuller visible build. Enlarged original confirms flared hem, voluminous sleeves and angled pose conceal individual contours.",
+    "reviewer": "primary-assistant-direct-visual"
+  }
+]

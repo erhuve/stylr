@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10362,
-  "admittedPhotos": 6910,
-  "totalPhotos": 7295,
+  "reviewedCandidates": 10386,
+  "admittedPhotos": 6919,
+  "totalPhotos": 7304,
   "axisSupport": {
-    "build": 5619,
+    "build": 5628,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6349,
+  "sourcePages": 6358,
   "excludedReasons": {
-    "non-outfit-view": 3394,
+    "non-outfit-view": 3409,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13820,6 +13820,66 @@
     },
     {
       "id": "igigi-9300147405033-image-49373762617577",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "percival-16063786582396-image-85047921246588",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "percival-16063786582396-image-85000433860988",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "percival-16063786385788-image-85049344196988",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "percival-16063786123644-image-85150687560060",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "percival-16032045728124-image-85000339554684",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "percival-16032045564284-image-85000347222396",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "percival-16032045433212-image-85000356594044",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "percival-16032045433212-image-85000356757884",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kiyonna-9930135765297-image-58445245284657",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kiyonna-10241921384753-image-58381184401713",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kiyonna-10683346682161-image-58274445558065",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kiyonna-10683346682161-image-58274445623601",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kiyonna-10830795243825-image-58526736482609",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kiyonna-8334553776433-image-58808956387633",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "kiyonna-10801449599281-image-59901544694065",
       "reason": "non-outfit-view"
     }
   ]

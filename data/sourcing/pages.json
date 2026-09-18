@@ -107078,6 +107078,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://kiyonna.com/products/abby-twist-top-sale",
+    "source": "kiyonna",
+    "candidateIds": [
+      "kiyonna-9930135765297-image-58445245284657",
+      "kiyonna-9930135765297-image-58445245350193"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://kiyonna.com/products/eva-palazzo-pants-sale",
+    "source": "kiyonna",
+    "candidateIds": [
+      "kiyonna-10830795243825-image-58526736056625",
+      "kiyonna-10830795243825-image-58526736482609"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://kiyonna.com/products/femme-fatale-faux-wrap-top-sale",
+    "source": "kiyonna",
+    "candidateIds": [
+      "kiyonna-8334553776433-image-58808956387633",
+      "kiyonna-8334553776433-image-58808956420401"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://kiyonna.com/products/gemini-wrap-dress-sale",
+    "source": "kiyonna",
+    "candidateIds": [
+      "kiyonna-10241921384753-image-58381184401713",
+      "kiyonna-10241921384753-image-58381184532785"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://kiyonna.com/products/nora-kaftan-midi-dress",
+    "source": "kiyonna",
+    "candidateIds": [
+      "kiyonna-10683346682161-image-58274445558065",
+      "kiyonna-10683346682161-image-58274445623601"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://kiyonna.com/products/priscilla-peplum-top",
+    "source": "kiyonna",
+    "candidateIds": [
+      "kiyonna-10801449599281-image-59901544694065",
+      "kiyonna-10801449599281-image-59901544759601"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://lucyandyak.com/products/alexa-organic-cotton-trousers-in-grunge-ditsy-floral",
     "source": "lucyandyak",
     "candidateIds": [
@@ -110415,6 +110499,90 @@
     ],
     "reviewedCandidates": 4,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://percivalclo.com/products/curtis-funnel-neck-sweatshirt-guinness-x-percival-navy",
+    "source": "percival",
+    "candidateIds": [
+      "percival-16063786123644-image-85000210973052",
+      "percival-16063786123644-image-85150687560060"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://percivalclo.com/products/editor-striped-rugby-polo-shirt-guinness-percival-forest",
+    "source": "percival",
+    "candidateIds": [
+      "percival-16063786582396-image-85000433860988",
+      "percival-16063786582396-image-85047921246588"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://percivalclo.com/products/henley-waffle-long-sleeve-t-shirt-guinness-x-percival-cream",
+    "source": "percival",
+    "candidateIds": [
+      "percival-16032045728124-image-85000339521916",
+      "percival-16032045728124-image-85000339554684"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://percivalclo.com/products/jacquard-merino-wool-jumper-guinness-x-percival-forest",
+    "source": "percival",
+    "candidateIds": [
+      "percival-16063786385788-image-84999841546620",
+      "percival-16063786385788-image-85049344196988"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-forest",
+    "source": "percival",
+    "candidateIds": [
+      "percival-16032045433212-image-85000356594044",
+      "percival-16032045433212-image-85000356757884"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://percivalclo.com/products/vintage-wash-oversized-t-shirt-guinness-x-percival-navy",
+    "source": "percival",
+    "candidateIds": [
+      "percival-16032045564284-image-85000347156860",
+      "percival-16032045564284-image-85000347222396"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T1110-independent/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {
