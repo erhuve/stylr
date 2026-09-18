@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Latest interactive continuation: 7,497 reviewed photos after 36 direct reviews and fourteen admissions from OXCloth, Tapered Menswear and Snag. Complete references reach 296 (47 masculine); one new reference improves three sampled body-filter settings. The broader-build benchmark remains 55. The 10,212 target is unmet by 2,715 admissions. Read `docs/verification/doubling-sourcing.md` for current validation. Not deployed; the completed scheduled sprint was not extended. Earlier checkpoints are historical.
+
 Final scheduled sprint checkpoint: 7,483 reviewed photos after 30 direct reviews and eleven admissions. Complete references reach 295 (46 masculine); one new reference improves three sampled body-filter settings. The broader-build benchmark remains 55. The 10,212 target is unmet by 2,729 admissions. Read `docs/verification/doubling-sourcing.md` for validation and the final handoff; the finite sprint ends September 18 at 21:23 UTC without extension. Not deployed. Earlier checkpoints are historical.
 
 Latest scheduled checkpoint: 7,472 reviewed photos after 24 direct reviews and seven outfits from Stantt and Chic Soul. Additions are one masculine-styled, three feminine-styled and three unclear. Complete references remain 294 (46 masculine), with 55 broader-build benchmark matches and no required-body-filter gain. Read `docs/verification/doubling-sourcing.md` for current validation and continuation. Not deployed; earlier checkpoints are historical.

@@ -118621,6 +118621,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/dress-mini-bell-sleeve-sangria",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7615402934314-image-34205919117354",
+      "snag-7615402934314-image-34205919150122"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/dress-mini-tiered-beachbum",
     "source": "snag",
     "candidateIds": [
@@ -119426,6 +119440,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0310-breadth/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/midaxi-tee-poplin-dress-oatmeal",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7630361460778-image-34352355573802",
+      "snag-7630361460778-image-34352356294698"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
@@ -120327,6 +120355,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-barbara",
+    "source": "snag",
+    "candidateIds": [
+      "snag-6936756650026-image-34312294531114",
+      "snag-6936756650026-image-34312294826026"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-blue-curacao",
     "source": "snag",
     "candidateIds": [
@@ -120424,6 +120466,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-matcha",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7626451583018-image-34312293810218",
+      "snag-7626451583018-image-34312294039594"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-menthe-glacier",
+    "source": "snag",
+    "candidateIds": [
+      "snag-6666568892458-image-34312295448618",
+      "snag-6666568892458-image-34312295514154"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-mimosa",
     "source": "snag",
     "candidateIds": [
@@ -120446,6 +120516,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0030-postdeploy/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-petrol-blue",
+    "source": "snag",
+    "candidateIds": [
+      "snag-7626451550250-image-34312294432810",
+      "snag-7626451550250-image-34312294498346"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
@@ -123319,6 +123403,20 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://taperedmenswear.com/products/black-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441184162170-image-14268109488212",
+      "taperedmenswear-15441184162170-image-22632457568441"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://taperedmenswear.com/products/blue-short-sleeve-tapered-fit-bodybuilder-shirt",
     "source": "taperedmenswear",
     "candidateIds": [
@@ -123345,6 +123443,34 @@
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/grandad-collar-black-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441168892282-image-14268135440468",
+      "taperedmenswear-15441168892282-image-22632517206201"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/grandad-collar-white-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441171415418-image-81390329725306",
+      "taperedmenswear-15441171415418-image-81390329758074"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 1
   },
   {
     "sourceUrl": "https://taperedmenswear.com/products/light-blue-tapered-fit-bodybuilder-shirt",
@@ -123403,6 +123529,34 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://taperedmenswear.com/products/navy-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441182687610-image-29309777707193",
+      "taperedmenswear-15441182687610-image-29309777772729"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/olive-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441181835642-image-14443728535636",
+      "taperedmenswear-15441181835642-image-22632612626617"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://taperedmenswear.com/products/pink-tapered-fit-bodybuilder-shirt",
     "source": "taperedmenswear",
     "candidateIds": [
@@ -123425,6 +123579,20 @@
     ],
     "manifests": [
       "data/catalog-review/batches/2026-09-17T0410-new-sources/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://taperedmenswear.com/products/white-tapered-fit-bodybuilder-shirt",
+    "source": "taperedmenswear",
+    "candidateIds": [
+      "taperedmenswear-15441177969018-image-14268196487252",
+      "taperedmenswear-15441177969018-image-14268196520020"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 0,
@@ -156761,6 +156929,90 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.oxcloth.com/products/blackout-hoodie-gold-edition",
+    "source": "oxcloth",
+    "candidateIds": [
+      "oxcloth-8354772943009-image-42578645581985",
+      "oxcloth-8354772943009-image-42578645909665"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.oxcloth.com/products/blackout-hoodie-tonal-edition",
+    "source": "oxcloth",
+    "candidateIds": [
+      "oxcloth-8354171355297-image-42572716081313",
+      "oxcloth-8354171355297-image-42572716114081"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.oxcloth.com/products/blackout-joggers-tonal-edition",
+    "source": "oxcloth",
+    "candidateIds": [
+      "oxcloth-8354154447009-image-42572469403809",
+      "oxcloth-8354154447009-image-42572469567649"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.oxcloth.com/products/blackout-raglan-tee-tonal-edition",
+    "source": "oxcloth",
+    "candidateIds": [
+      "oxcloth-8354082717857-image-42571854282913",
+      "oxcloth-8354082717857-image-42571854577825"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.oxcloth.com/products/blackout-sweatshirt-gold-edition",
+    "source": "oxcloth",
+    "candidateIds": [
+      "oxcloth-8354120597665-image-42572249137313",
+      "oxcloth-8354120597665-image-42572249202849"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.oxcloth.com/products/blackout-v-neck-tee-tonal-edition",
+    "source": "oxcloth",
+    "candidateIds": [
+      "oxcloth-8355064709281-image-42579770966177",
+      "oxcloth-8355064709281-image-42579771064481"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T2210-interactive/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
     "completeExpansionReferences": 0
   },
   {

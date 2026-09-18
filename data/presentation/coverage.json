@@ -1,47 +1,47 @@
 {
   "rubricVersion": 1,
   "scope": "Current repository catalog; not a claim about live deployment or distinct people.",
-  "catalogPhotos": 7483,
-  "reviewedPhotos": 7483,
+  "catalogPhotos": 7497,
+  "reviewedPhotos": 7497,
   "unreviewedPhotos": 0,
   "categories": [
     {
       "presentation": "masculine",
-      "photos": 1266,
+      "photos": 1267,
       "percent": 16.9,
-      "sourcePages": 1201,
+      "sourcePages": 1202,
       "sourceHosts": 70,
-      "completeReferences": 46,
+      "completeReferences": 47,
       "byBuild": {
         "1": 3,
         "2": 169,
         "3": 65,
         "unknown": 379,
-        "2.5": 62,
+        "2.5": 63,
         "1.5": 588
       },
       "completeByBuild": {
         "1": 1,
         "2": 19,
         "3": 3,
-        "2.5": 10,
+        "2.5": 11,
         "1.5": 13
       }
     },
     {
       "presentation": "feminine",
-      "photos": 4147,
+      "photos": 4156,
       "percent": 55.4,
-      "sourcePages": 3703,
+      "sourcePages": 3709,
       "sourceHosts": 50,
       "completeReferences": 150,
       "byBuild": {
         "1": 27,
-        "2": 401,
-        "3": 262,
+        "2": 403,
+        "3": 265,
         "unknown": 584,
         "1.5": 2574,
-        "2.5": 299
+        "2.5": 303
       },
       "completeByBuild": {
         "1": 7,
@@ -70,18 +70,18 @@
     },
     {
       "presentation": "unclear",
-      "photos": 1899,
+      "photos": 1903,
       "percent": 25.4,
-      "sourcePages": 1774,
-      "sourceHosts": 84,
+      "sourcePages": 1778,
+      "sourceHosts": 85,
       "completeReferences": 97,
       "byBuild": {
         "1": 7,
-        "2": 167,
+        "2": 170,
         "3": 217,
         "1.5": 862,
         "unknown": 526,
-        "2.5": 120
+        "2.5": 121
       },
       "completeByBuild": {
         "1": 2,
@@ -3771,6 +3771,63 @@
       ]
     },
     {
+      "host": "oxcloth.com",
+      "categories": [
+        {
+          "presentation": "masculine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "feminine",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "mixed-androgynous",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unclear",
+          "photos": 3,
+          "percent": 100,
+          "sourcePages": 3,
+          "sourceHosts": 1,
+          "completeReferences": 0,
+          "byBuild": {
+            "2": 3
+          },
+          "completeByBuild": {}
+        },
+        {
+          "presentation": "unreviewed",
+          "photos": 0,
+          "percent": 0,
+          "sourcePages": 0,
+          "sourceHosts": 0,
+          "completeReferences": 0,
+          "byBuild": {},
+          "completeByBuild": {}
+        }
+      ]
+    },
+    {
       "host": "pauljamesknitwear.com",
       "categories": [
         {
@@ -4846,15 +4903,15 @@
         },
         {
           "presentation": "feminine",
-          "photos": 243,
-          "percent": 74.3,
-          "sourcePages": 170,
+          "photos": 252,
+          "percent": 74.8,
+          "sourcePages": 176,
           "sourceHosts": 1,
           "completeReferences": 17,
           "byBuild": {
-            "2": 47,
-            "3": 61,
-            "2.5": 103,
+            "2": 49,
+            "3": 64,
+            "2.5": 107,
             "1.5": 28,
             "unknown": 4
           },
@@ -4876,16 +4933,16 @@
         },
         {
           "presentation": "unclear",
-          "photos": 82,
-          "percent": 25.1,
-          "sourcePages": 67,
+          "photos": 83,
+          "percent": 24.6,
+          "sourcePages": 68,
           "sourceHosts": 1,
           "completeReferences": 2,
           "byBuild": {
             "2": 15,
             "3": 28,
             "1.5": 12,
-            "2.5": 23,
+            "2.5": 24,
             "unknown": 4
           },
           "completeByBuild": {
@@ -5214,16 +5271,16 @@
       "categories": [
         {
           "presentation": "masculine",
-          "photos": 3,
+          "photos": 4,
           "percent": 100,
-          "sourcePages": 3,
+          "sourcePages": 4,
           "sourceHosts": 1,
-          "completeReferences": 1,
+          "completeReferences": 2,
           "byBuild": {
-            "2.5": 3
+            "2.5": 4
           },
           "completeByBuild": {
-            "2.5": 1
+            "2.5": 2
           }
         },
         {

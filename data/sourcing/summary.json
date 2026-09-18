@@ -622,6 +622,15 @@
       "deferredPages": 206
     },
     {
+      "source": "oxcloth",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 3,
+      "completeExpansionReferences": 0,
+      "deferredPages": 106
+    },
+    {
       "source": "pauljames",
       "sampledPages": 6,
       "candidateImages": 12,
@@ -776,12 +785,12 @@
     },
     {
       "source": "snag",
-      "sampledPages": 242,
-      "candidateImages": 480,
-      "reviewedExpansionCandidates": 457,
-      "admittedExpansionPhotos": 327,
+      "sampledPages": 248,
+      "candidateImages": 492,
+      "reviewedExpansionCandidates": 469,
+      "admittedExpansionPhotos": 337,
       "completeExpansionReferences": 19,
-      "deferredPages": 79
+      "deferredPages": 73
     },
     {
       "source": "standardandstrange",
@@ -830,12 +839,12 @@
     },
     {
       "source": "taperedmenswear",
-      "sampledPages": 8,
-      "candidateImages": 16,
-      "reviewedExpansionCandidates": 16,
-      "admittedExpansionPhotos": 3,
-      "completeExpansionReferences": 1,
-      "deferredPages": 56
+      "sampledPages": 14,
+      "candidateImages": 28,
+      "reviewedExpansionCandidates": 28,
+      "admittedExpansionPhotos": 4,
+      "completeExpansionReferences": 2,
+      "deferredPages": 50
     },
     {
       "source": "taylorstitch",
@@ -50725,6 +50734,322 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/0838/4441/files/USTO2257-665-Katia-Polo-Pony_002_023.jpg?v=1788197014",
               "sourceUrl": "https://www.universalstandard.com/products/katia-liquid-jersey-collared-top-pony",
               "sha256": "f9c76847202112eeb7c3d60f3bbe899dbb9433fd3aa1ea88de89976cdb710bf3",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T2210-interactive/sources.json",
+      "retrievedAt": "2026-09-18T22:08:06.859134+00:00",
+      "scope": "3 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "oxcloth",
+          "pages": [
+            {
+              "url": "https://www.oxcloth.com/products.json?limit=250&page=1",
+              "products": 119,
+              "retrievedAt": "2026-09-18T22:07:57.319730+00:00",
+              "snapshotSha256": "bf428c8434e9901d5c5fde2d4b9f2d8aeafc3b7ac2077af40a3bdb9cb3b02f35"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "oxcloth-8354154447009-image-42572469403809",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251119225104-1f0c59a3-a38e-697e-b807-0616d9e0823b.png?v=1763592791",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-joggers-tonal-edition",
+              "sha256": "e33e291710337fa58dac1e8998a128ce01a59227dc8bbd78cfb88dd9cad304f7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8354154447009-image-42572469567649",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251119225103-1f0c59a3-a236-6d7e-a95a-2ad592ab8b9b.png?v=1763658430",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-joggers-tonal-edition",
+              "sha256": "cd548a82be0162cc5d26d1740fccff3ac7703d082a03d9bf3afadca017adffe4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8354120597665-image-42572249137313",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251119220330-1f0c5939-528d-6cc4-a976-a6db620ad5c7.png?v=1763590043",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-sweatshirt-gold-edition",
+              "sha256": "cd05f3477d6fb8454838065024f17bf2a3f2ccd15851e1fbac40dd6b43ad411c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8354120597665-image-42572249202849",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251119220323-1f0c5939-16f6-6fb2-8ccf-7e570357430d.png?v=1763590043",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-sweatshirt-gold-edition",
+              "sha256": "edb47b4aa5156f61ada2808e10b38c22a45d1347ccdcfb00e783d7678fcc844c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8354082717857-image-42571854282913",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251119203149-1f0c586c-6a28-664a-9378-0623e399cdbe.png?v=1763584964",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-raglan-tee-tonal-edition",
+              "sha256": "65eba101a848d854555b117194a085f2af85184d1d48263f1d61fe0bb8c38b1c",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8354082717857-image-42571854577825",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251119203810-1f0c587a-9be4-6fae-9a9c-0623e399cdbe.png?v=1763584965",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-raglan-tee-tonal-edition",
+              "sha256": "df88cea6c0a5eaa9a1272b9d2706b2f45c27057e29f1ba142371983122762eca",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8355064709281-image-42579770966177",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251120192654-1f0c646d-f0a8-6f78-aa55-664b8ec7a786.png?v=1763668507",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-v-neck-tee-tonal-edition",
+              "sha256": "1b1a435bc4f152f393cfa57c0fafa93899f733c9647d1e1005e68894ec4a3f98",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8355064709281-image-42579771064481",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251120192653-1f0c646d-ef7d-6aea-b67d-c21eb0114bd8.png?v=1763668508",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-v-neck-tee-tonal-edition",
+              "sha256": "75993d36b5d8d97325d8bd3ec2cb9151cb1e9315d4ce2f547a3d0865ee7b7a8a",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8354772943009-image-42578645581985",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251120162416-1f0c62d5-b9d7-6754-8aa4-a262b63cd279.png?v=1763655947",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-hoodie-gold-edition",
+              "sha256": "120c2473e9b30caf261d38aa93db40bb9e7a59813742e66c7ede21b02c2f604f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8354772943009-image-42578645909665",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251120162416-1f0c62d5-beeb-6448-af6a-56e56f4c1292.png?v=1763656516",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-hoodie-gold-edition",
+              "sha256": "085096f9b1a9ff5681782af09a7ce07fe09679bc590af60e02737416efcb9435",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8354171355297-image-42572716081313",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251120000153-1f0c5a41-f517-6d42-85ee-0623e399cdbe.png?v=1763596972",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-hoodie-tonal-edition",
+              "sha256": "0ccaa05554facc98588db88acd64bdd84e833a31c2fe211266b0f7a596936e3b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "oxcloth-8354171355297-image-42572716114081",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1120/8074/files/20251120000153-1f0c5a41-f019-6098-9677-22a1214d2021.png?v=1763656471",
+              "sourceUrl": "https://www.oxcloth.com/products/blackout-hoodie-tonal-edition",
+              "sha256": "16b675b9c4732b1e826fca21c8765458d62df4cbadd62d42f4803c477a2c003b",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "taperedmenswear",
+          "pages": [
+            {
+              "url": "https://taperedmenswear.com/products.json?limit=250&page=1",
+              "products": 71,
+              "retrievedAt": "2026-09-18T22:08:00.090450+00:00",
+              "snapshotSha256": "176d895e2ee6bbae16789d2e7aafdf53692bb9666b091768331adef98c99d313"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "taperedmenswear-15441171415418-image-81390329758074",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/files/Casual_Long_Sleeve_Shirt_Grandad_Collar_White_Front.jpg?v=1761308943",
+              "sourceUrl": "https://taperedmenswear.com/products/grandad-collar-white-tapered-fit-bodybuilder-shirt",
+              "sha256": "fcff2382438204d13cc9f2a4814282da61ec57d326ea71f7a8f4a9106b5a0683",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441171415418-image-81390329725306",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/files/Casual_Long_Sleeve_Shirt_Grandad_Collar_White_Back.jpg?v=1761308943",
+              "sourceUrl": "https://taperedmenswear.com/products/grandad-collar-white-tapered-fit-bodybuilder-shirt",
+              "sha256": "79cb6ed8b76372f58e88aee78bd872ff9a6e1387df3a37c797c2c873c3f0f6af",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441168892282-image-14268135440468",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/Casual_Long_Sleeve_Shirt_Grandad_Collar_Black_Front.jpg?v=1698920313",
+              "sourceUrl": "https://taperedmenswear.com/products/grandad-collar-black-tapered-fit-bodybuilder-shirt",
+              "sha256": "75bf784c888aa3d48d7c442fe514b7d48b480c1f63448c5739907313fc9448d8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441168892282-image-22632517206201",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/ModelHeight_5_11_180cmModelWeight_102kg_225bsModelis44_chestandwearingXXL_3.jpg?v=1698920313",
+              "sourceUrl": "https://taperedmenswear.com/products/grandad-collar-black-tapered-fit-bodybuilder-shirt",
+              "sha256": "3c960d3f88b2952e3299655ebd926d26fe87796954cae93f436d3196ff914db2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441184162170-image-14268109488212",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/Casual_Long_Sleeve_Shirt_Black_Front.jpg?v=1698919030",
+              "sourceUrl": "https://taperedmenswear.com/products/black-tapered-fit-bodybuilder-shirt",
+              "sha256": "13173ffce99bd743200af92a4681624fdd3f50cd8a03929a6faae89fc8ccd6c7",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441184162170-image-22632457568441",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/ModelHeight_5_11_180cmModelWeight_102kg_225bsModelis44_chestandwearingXXL.jpg?v=1698919030",
+              "sourceUrl": "https://taperedmenswear.com/products/black-tapered-fit-bodybuilder-shirt",
+              "sha256": "597b68441c1f91ce9d16290a49fb5671c58e82a3846d1657070ffe2a9c952fcb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441182687610-image-29309777772729",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/Navymusclefitshirt.jpg?v=1761309192",
+              "sourceUrl": "https://taperedmenswear.com/products/navy-tapered-fit-bodybuilder-shirt",
+              "sha256": "b298a25df5cae3115db2b897f70abd0c3d9e642d2b66ac471126a1d3055cacc6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441182687610-image-29309777707193",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/Navytaperedfitshirt.jpg?v=1761309192",
+              "sourceUrl": "https://taperedmenswear.com/products/navy-tapered-fit-bodybuilder-shirt",
+              "sha256": "cae2039d6b66d0c191792385a0db5b13f2c6b9cee34658cafa9013f65261229b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441181835642-image-14443728535636",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/Casual_Long_Sleeve_Shirt_Olive_Front_700xfinal.jpg?v=1698927625",
+              "sourceUrl": "https://taperedmenswear.com/products/olive-tapered-fit-bodybuilder-shirt",
+              "sha256": "8dca08d720c74f72d276926fe9059b661a6f1b52d7fca8dab6aaec18fecff2d9",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441181835642-image-22632612626617",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/ModelHeight_5_11_180cmModelWeight_102kg_225bsModelis44_chestandwearingXXL_9.jpg?v=1698927625",
+              "sourceUrl": "https://taperedmenswear.com/products/olive-tapered-fit-bodybuilder-shirt",
+              "sha256": "19c3d645880793bd9e9749735ab9994a83d34efdff396687293ba45f9a6cdfc6",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441177969018-image-14268196520020",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/Formal_Shirt_Without_Tie_White_Front.jpg?v=1761309071",
+              "sourceUrl": "https://taperedmenswear.com/products/white-tapered-fit-bodybuilder-shirt",
+              "sha256": "32ab906defa1907b7389ac29240d7e78f4220eb3f0fbdaf19b927d2bb61b5257",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "taperedmenswear-15441177969018-image-14268196487252",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0281/0049/3396/products/Formal_Shirt_Without_Tie_White_Back.jpg?v=1761309071",
+              "sourceUrl": "https://taperedmenswear.com/products/white-tapered-fit-bodybuilder-shirt",
+              "sha256": "077e6eb36c71947d10d472a097e9208ea557261d281fbbcceec17471d5e0a2d1",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "snag",
+          "pages": [
+            {
+              "url": "https://snagtights.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T22:08:03.084859+00:00",
+              "snapshotSha256": "d9460ccb285f4c60315b7f3ed45f05aba932e8b23c0edd5502e793031a82b176"
+            },
+            {
+              "url": "https://snagtights.com/products.json?limit=250&page=2",
+              "products": 250,
+              "retrievedAt": "2026-09-18T22:08:03.822944+00:00",
+              "snapshotSha256": "1480848403f7a27eb5037a3e7b779b0c64467f8daf0545cdc7aa89e461ad6739"
+            },
+            {
+              "url": "https://snagtights.com/products.json?limit=250&page=3",
+              "products": 250,
+              "retrievedAt": "2026-09-18T22:08:04.889381+00:00",
+              "snapshotSha256": "c98a18499422e76bb1ccf103be7363e46908bda2c4e2788542d1b48c37e27a79"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "snag-7630361460778-image-34352356294698",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Fadela-Size-H-Midaxi-Poplin-Dress-Oatmeal-_1.jpg?v=1750952633",
+              "sourceUrl": "https://snagtights.com/products/midaxi-tee-poplin-dress-oatmeal",
+              "sha256": "c38b83a84baa777b5d1c89d345aab46e487257a5bcef26a70c6a828c3a27b54d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7630361460778-image-34352355573802",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Danielle-Size-G-Midaxi-Tee-Poplin-Dress-Oatmeal-4.jpg?v=1750952632",
+              "sourceUrl": "https://snagtights.com/products/midaxi-tee-poplin-dress-oatmeal",
+              "sha256": "fcdf1632cbfb3fe1c5661d9792b0ec83d0df6514c854365ff94154ed371d8d51",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7626451583018-image-34312294039594",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Jackie-SizeG-ChubRubShorts-Matcha_4.jpg?v=1750345191",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-matcha",
+              "sha256": "ebf964d56728d6a4caadf85743176b2b78b5de6722b15a540b6498d98804ea05",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7626451583018-image-34312293810218",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Kayt-SizeF-ChubRubShorts-Matcha_3.jpg?v=1750345191",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-matcha",
+              "sha256": "7635cac08d9ea562b17d55e085502ca5bfe65a175752550e9ff285d5885b8dc4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7626451550250-image-34312294432810",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Josephine-SizeG-ChubRubShorts-PetrolBlue_2.jpg?v=1750345192",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-petrol-blue",
+              "sha256": "ca50d11214064f60bd096289dfd5345e6ac659b47a5722d51213c4d98cfa04f1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7626451550250-image-34312294498346",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Ivy-SizeE-PetrolBlue-ChubRubShorts_4.jpg?v=1750345192",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-petrol-blue",
+              "sha256": "dc4ab0a363476a78eaf6fb83bd3e904355c9939386de1f2bb7e3ac717ccf4e6b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-6936756650026-image-34312294826026",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/stay-cool-chub-rub-shorts-barbara-snag-9.jpg?v=1750345192",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-barbara",
+              "sha256": "ec9b0c09ca64ae3c804618a265de1b2e2f64b1b5c800d70ec6dcfc5525cbcba1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-6936756650026-image-34312294531114",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Alana-SizeG-ChubRubShorts-Barbara_3.jpg?v=1750345192",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-barbara",
+              "sha256": "5c7ba14c85c5d4062be8b253e6c3c89abd9fa80e7e766dc2a4f577334640dd77",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-6666568892458-image-34312295514154",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/stay-cool-chub-rub-shorts-menthe-glacier-snag-1.jpg?v=1750345193",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-menthe-glacier",
+              "sha256": "fc31c6f18811214d6e84656313d566a56001cafaf34eb67eb1135a6209ed024d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-6666568892458-image-34312295448618",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Suzie-SizeE-ChubRubShorts-MentheGlacier_1.jpg?v=1750345193",
+              "sourceUrl": "https://snagtights.com/products/stay-cool-chub-rub-shorts-menthe-glacier",
+              "sha256": "5f50f1fe531f55a21a8eefc26d7831554e84136e65a5bd78db5536e9858f3bb1",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7615402934314-image-34205919117354",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Vildana-Size-D-Mini-Bell-Sleeve-Dress-Sangria-3.jpg?v=1748511386",
+              "sourceUrl": "https://snagtights.com/products/dress-mini-bell-sleeve-sangria",
+              "sha256": "f642013a60d28748f18fb07d2808df4845c7effb5e9682e454528a29b3c5b24b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "snag-7615402934314-image-34205919150122",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2784/3408/files/Vildana-Size-D-Mini-Bell-Sleeve-Dress-Sangria-1.jpg?v=1748511386",
+              "sourceUrl": "https://snagtights.com/products/dress-mini-bell-sleeve-sangria",
+              "sha256": "2d2c1c600073765314a05e890d75dd03e31ed117f601fec74fc446d87e702a54",
               "outcome": "downloaded-unique"
             }
           ],

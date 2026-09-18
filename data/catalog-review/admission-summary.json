@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 11093,
-  "admittedPhotos": 7098,
-  "totalPhotos": 7483,
+  "reviewedCandidates": 11129,
+  "admittedPhotos": 7112,
+  "totalPhotos": 7497,
   "axisSupport": {
-    "build": 5786,
-    "shoulderHip": 326,
-    "waist": 609
+    "build": 5800,
+    "shoulderHip": 328,
+    "waist": 610
   },
-  "completeReferences": 253,
-  "sourcePages": 6534,
+  "completeReferences": 254,
+  "sourcePages": 6544,
   "excludedReasons": {
-    "non-outfit-view": 3937,
+    "non-outfit-view": 3959,
     "existing-source-page": 58
   },
   "excluded": [
@@ -15992,6 +15992,94 @@
     },
     {
       "id": "universalstandard-7637704343598-image-34049710948398",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "oxcloth-8354154447009-image-42572469403809",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "oxcloth-8354120597665-image-42572249137313",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "oxcloth-8354120597665-image-42572249202849",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "oxcloth-8354082717857-image-42571854577825",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "oxcloth-8355064709281-image-42579770966177",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "oxcloth-8355064709281-image-42579771064481",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "oxcloth-8354772943009-image-42578645581985",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "oxcloth-8354772943009-image-42578645909665",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "oxcloth-8354171355297-image-42572716114081",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441171415418-image-81390329725306",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441168892282-image-14268135440468",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441168892282-image-22632517206201",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441184162170-image-14268109488212",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441184162170-image-22632457568441",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441182687610-image-29309777772729",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441182687610-image-29309777707193",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441181835642-image-14443728535636",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441181835642-image-22632612626617",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441177969018-image-14268196520020",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "taperedmenswear-15441177969018-image-14268196487252",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7630361460778-image-34352355573802",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "snag-7615402934314-image-34205919117354",
       "reason": "non-outfit-view"
     }
   ]

@@ -66,7 +66,7 @@ test('all color catalog assets load from same origin and retain original aspect 
     return results;
   }, PHOTOS);
   expect(result).toHaveLength(PHOTOS.length);
-  const reviewedLowChroma = new Set(['punkrave-10637255213403-image-74479643525467', 'punkrave-10715135639899-image-75345792794971', 'foxblood-8576948338880-image-53838823653568']);
+  const reviewedLowChroma = new Set(['punkrave-10637255213403-image-74479643525467', 'punkrave-10715135639899-image-75345792794971', 'foxblood-8576948338880-image-53838823653568', 'oxcloth-8354154447009-image-42572469567649']);
   expect(result.filter(p => !p.ok || p.chroma < (reviewedLowChroma.has(p.id) ? 0.5 : 1))).toEqual([]);
   await page.getByRole('button', { name: 'Browse the photo collection' }).click();
   await expect(page.locator('.photo-tile')).toHaveCount(PHOTOS.length);

@@ -1,0 +1,26 @@
+{
+  "baseline": "509b8ae",
+  "unchangedPrefixes": {
+    "scripts/reviewed-photos.json": 7098,
+    "scripts/reviewed-assets.json": 7098,
+    "data/catalog-review/admitted-body.json": 7098,
+    "data/presentation/review.json": 7483
+  },
+  "pendingTrainingUnchanged": 3744,
+  "candidateBindings": 36,
+  "reviewCounts": {
+    "reject": 15,
+    "full": 8,
+    "back": 4,
+    "partial": 2,
+    "detail": 3,
+    "seated": 4
+  },
+  "presentationCounts": {
+    "U": 4,
+    "C": 1,
+    "D": 9
+  },
+  "listingDecisions": 940,
+  "sheetBindings": 3
+}
