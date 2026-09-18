@@ -2,16 +2,16 @@
 
 Current repository catalog; not a claim about live deployment or distinct people.
 
-Reviewed: 7264/7264; unreviewed: 0.
+Reviewed: 7274/7274; unreviewed: 0.
 
 Direct AI visual screening, rubric v1; subjective clothing presentation, not sex/gender identity, measured anatomy or human-verified ground truth. Neutral styling remains unclear. See README.md for evidence codes and limitations.
 
 | Presentation | Photos | Share | Source pages | Source hosts | Complete body references |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| masculine | 1207 | 16.6% | 1142 | 48 | 44 |
-| feminine | 4067 | 56% | 3625 | 34 | 148 |
-| mixed-androgynous | 168 | 2.3% | 161 | 10 | 2 |
-| unclear | 1822 | 25.1% | 1697 | 60 | 97 |
+| masculine | 1208 | 16.6% | 1143 | 49 | 44 |
+| feminine | 4071 | 56% | 3629 | 36 | 148 |
+| mixed-androgynous | 169 | 2.3% | 162 | 11 | 2 |
+| unclear | 1826 | 25.1% | 1701 | 62 | 97 |
 | unreviewed | 0 | 0% | 0 | 0 | 0 |
 
 ## Presentation by reviewed build
@@ -20,10 +20,10 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 
 | Presentation | All photos by build | Complete references by build |
 | --- | --- | --- |
-| masculine | {"1":3,"2":143,"3":65,"unknown":369,"2.5":61,"1.5":566} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
-| feminine | {"1":27,"2":392,"3":252,"unknown":579,"1.5":2536,"2.5":281} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
-| mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":74} | {"1.5":2} |
-| unclear | {"1":7,"2":154,"3":215,"1.5":820,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
+| masculine | {"1":3,"2":143,"3":65,"unknown":369,"2.5":61,"1.5":567} | {"1":1,"2":17,"3":3,"2.5":10,"1.5":13} |
+| feminine | {"1":27,"2":394,"3":252,"unknown":579,"1.5":2538,"2.5":281} | {"1":7,"2":24,"3":20,"1.5":67,"2.5":30} |
+| mixed-androgynous | {"1":1,"2":9,"unknown":84,"1.5":75} | {"1.5":2} |
+| unclear | {"1":7,"2":154,"3":215,"1.5":824,"unknown":516,"2.5":110} | {"1":2,"2":11,"3":39,"1.5":33,"2.5":12} |
 | unreviewed | {} | {} |
 
 ## Source coverage
@@ -64,7 +64,9 @@ Exact existing build scores are retained; unknown is explicit. No body labels we
 | mochipan.com | 8 | 111 | 0 | 14 | 0 |
 | morningwitch.com | 2 | 5 | 0 | 6 | 0 |
 | nettlestudios.com | 0 | 4 | 0 | 1 | 0 |
+| nooworks.com | 0 | 3 | 1 | 1 | 0 |
 | onebonebrand.com | 21 | 0 | 0 | 57 | 0 |
+| outerknown.com | 1 | 1 | 0 | 3 | 0 |
 | perryellis.com | 8 | 0 | 0 | 0 | 0 |
 | pettilia.com | 0 | 4 | 0 | 1 | 0 |
 | pexels.com | 9 | 16 | 1 | 14 | 0 |

@@ -8,6 +8,8 @@ Read `docs/plans/personal-discovery.md` for the active scope and `docs/verificat
 
 ## Trying it
 
+Latest September 18 checkpoint: 7,274 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate Outerknown/Nooworks review adds ten outfits and ten build observations, with no required-body-filter gain. Presentation totals: 1,208 masculine, 4,071 feminine, 169 mixed and 1,826 unclear. The active doubling handoff records validation status. Not deployed.
+
 Latest September 18 checkpoint: 7,264 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 24-candidate UNTUCKit/wool& review adds eight outfits and eight build observations, with no required-body-filter gain. Presentation totals: 1,207 masculine, 4,067 feminine, 168 mixed and 1,822 unclear. The active doubling handoff records validation status. Not deployed.
 
 Latest September 18 checkpoint: 7,240 reviewed photos, 291 complete body references (44 masculine-styled) and 54 broader-build benchmark matches. The 27-candidate Strongsize/Universal Standard/Roark review adds six outfits and five build observations, with no required-body-filter gain. Presentation totals: 1,203 masculine, 4,052 feminine, 168 mixed and 1,817 unclear. The active doubling handoff supersedes historical counts below and records validation status. Not deployed.

@@ -1,0 +1,7 @@
+# Outerknown and Nooworks direct review
+
+2026-09-18: directly inspected all 24 candidates on two hash-bound sheets, then enlarged originals 4, 8, 16, 19 and 22. Ten outfit views retained; four details/products, three rear views, two scenery images and five repeated poses/variants excluded. All body axes unsupported by visible contours remain unknown. No model predictions, sizes or departments supplied labels.
+
+The two new publishers each received a six-product first/third-gallery search. All 500 listing decisions and both listing snapshot hashes are preserved. Outerknown was explored for collared casual/workwear but its general listing also returned neutral and feminine outfits; only one admission has masculine styling evidence. Nooworks adds dress/separates breadth, not complete contour references. Admission presentation: one masculine, four feminine, one mixed and four unclear. Ten apparent-build observations; no complete reference or required-body-filter gain.
+
+Next prioritize full-front fitted collared ensembles and independent fuller-build untied separates. General listings, side poses and gathered dresses have low complete-reference yield. Deferred product URLs remain in the refreshed next-source queue; these bounded searches do not establish source exhaustion. Training backlog retains all 3,744 original pending bindings. Validation is recorded in the active doubling handoff. No deployment.

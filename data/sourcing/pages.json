@@ -108406,6 +108406,90 @@
     "completeExpansionReferences": 0
   },
   {
+    "sourceUrl": "https://nooworks.com/products/daphne-sondler-cat",
+    "source": "nooworks",
+    "candidateIds": [
+      "nooworks-9271822483587-image-48428724977795",
+      "nooworks-9271822483587-image-48428725076099"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nooworks.com/products/daphne-spots",
+    "source": "nooworks",
+    "candidateIds": [
+      "nooworks-9271812161667-image-48306070847619",
+      "nooworks-9271812161667-image-48306070880387"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nooworks.com/products/dolly-dress-spots",
+    "source": "nooworks",
+    "candidateIds": [
+      "nooworks-9245293674627-image-48177457070211",
+      "nooworks-9245293674627-image-48213376008323"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nooworks.com/products/linen-olivia-top-poison-ivy",
+    "source": "nooworks",
+    "candidateIds": [
+      "nooworks-9261143031939-image-48428773900419",
+      "nooworks-9261143031939-image-48428773933187"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nooworks.com/products/skater-pant-sondler-cat",
+    "source": "nooworks",
+    "candidateIds": [
+      "nooworks-8620684411011-image-45920103825539",
+      "nooworks-8620684411011-image-45920104022147"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://nooworks.com/products/twill-coveralls-spots",
+    "source": "nooworks",
+    "candidateIds": [
+      "nooworks-9251416047747-image-48271254454403",
+      "nooworks-9251416047747-image-48271254519939"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
     "sourceUrl": "https://onebonebrand.com/products/airflow-yacht-shirt-black",
     "source": "onebone",
     "candidateIds": [
@@ -151299,6 +151383,90 @@
     ],
     "reviewedCandidates": 2,
     "admittedExpansionPhotos": 2,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.outerknown.com/products/ambassador-slim-fit-zip-selved-zncpv_j_y_-resale",
+    "source": "outerknown",
+    "candidateIds": [
+      "outerknown-10597591580856-image-60434835243192",
+      "outerknown-10597591580856-image-60434835308728"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 0,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.outerknown.com/products/ok-active-78-leggings-64r-z5h6kn-resale",
+    "source": "outerknown",
+    "candidateIds": [
+      "outerknown-10594522005688-image-60406059729080",
+      "outerknown-10594522005688-image-60406059794616"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.outerknown.com/products/rewind-shorts-n-fkx8xa1i-resale",
+    "source": "outerknown",
+    "candidateIds": [
+      "outerknown-10597590630584-image-60434793726136",
+      "outerknown-10597590630584-image-60434793791672"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.outerknown.com/products/the-dunes-straight-selvedge-jean-pnkizwus5o-resale",
+    "source": "outerknown",
+    "candidateIds": [
+      "outerknown-10594522202296-image-60406071820472",
+      "outerknown-10594522202296-image-60406071886008"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.outerknown.com/products/womens-blanket-shirt-fd5kk-dnph-resale",
+    "source": "outerknown",
+    "candidateIds": [
+      "outerknown-10594522235064-image-60406072246456",
+      "outerknown-10594522235064-image-60406072311992"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
+    "completeExpansionReferences": 0
+  },
+  {
+    "sourceUrl": "https://www.outerknown.com/products/womens-hightide-hoodie-lteisqgqk5-resale",
+    "source": "outerknown",
+    "candidateIds": [
+      "outerknown-10597592400056-image-60434881347768",
+      "outerknown-10597592400056-image-60434881413304"
+    ],
+    "manifests": [
+      "data/catalog-review/batches/2026-09-18T0810-targeted/intake.json"
+    ],
+    "reviewedCandidates": 2,
+    "admittedExpansionPhotos": 1,
     "completeExpansionReferences": 0
   },
   {

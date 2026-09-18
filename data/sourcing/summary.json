@@ -352,6 +352,15 @@
       "deferredPages": 67
     },
     {
+      "source": "nooworks",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 5,
+      "completeExpansionReferences": 0,
+      "deferredPages": 61
+    },
+    {
       "source": "onebone",
       "sampledPages": 105,
       "candidateImages": 265,
@@ -359,6 +368,15 @@
       "admittedExpansionPhotos": 78,
       "completeExpansionReferences": 0,
       "deferredPages": 82
+    },
+    {
+      "source": "outerknown",
+      "sampledPages": 6,
+      "candidateImages": 12,
+      "reviewedExpansionCandidates": 12,
+      "admittedExpansionPhotos": 5,
+      "completeExpansionReferences": 0,
+      "deferredPages": 206
     },
     {
       "source": "perryellis",
@@ -42546,6 +42564,211 @@
               "imageUrl": "https://cdn.shopify.com/s/files/1/0031/4939/8086/files/20260807_wooland_01001_HelenaMidiSkirt_Cassis-LR.jpg?v=1789169395",
               "sourceUrl": "https://wooland.com/products/helena-midi-skirt-cassis",
               "sha256": "ea0eebd39ab56053d707d8ac695ee17a5a8ea240ee0cd472d7c6a68fa9db0d9c",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        }
+      ]
+    },
+    {
+      "manifest": "data/catalog-review/batches/2026-09-18T0810-targeted/sources.json",
+      "retrievedAt": "2026-09-18T08:02:47.841426+00:00",
+      "scope": "2 sources, at most three pages of 250 products each and 6 previously unseen product pages per source; first and third gallery photos. Source descriptions do not become body labels.",
+      "sources": [
+        {
+          "source": "outerknown",
+          "pages": [
+            {
+              "url": "https://www.outerknown.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T08:02:42.760952+00:00",
+              "snapshotSha256": "217e2cb29d4d7b94afa05fb9b3501b45b1907e7119f6f8b3877301db20efe598"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "outerknown-10597592400056-image-60434881347768",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/2260006_Women_s_Hightide_Hoodie_ULG_1_96cb123f-69a6-497a-a2a0-2f93e922fedf.jpg?v=1789694407",
+              "sourceUrl": "https://www.outerknown.com/products/womens-hightide-hoodie-lteisqgqk5-resale",
+              "sha256": "cbd9f67428d185216c9d1d86f1648083aaa049476155796b807cde1690573907",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10597592400056-image-60434881413304",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/1310095W_BBQ_Shirt_WLF_3_ae05897a-886f-4c7d-8699-c163b4c9f0f2.jpg?v=1789694406",
+              "sourceUrl": "https://www.outerknown.com/products/womens-hightide-hoodie-lteisqgqk5-resale",
+              "sha256": "9b6e3bf28918072fb280ae46f1f342523720ef381b52ca4a551cbbc279395e8e",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10597591580856-image-60434835243192",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/1630004_outerknown_AmbassadorSlimFit_VIS_1_f05630cd-0033-494f-bf7b-82fb7084142b.jpg?v=1789694289",
+              "sourceUrl": "https://www.outerknown.com/products/ambassador-slim-fit-zip-selved-zncpv_j_y_-resale",
+              "sha256": "3f7e86f292e3538f93be23f0056cad26709386fb1697d50df428e1bec7ec1d80",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10597591580856-image-60434835308728",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/1630004_outerknown_AmbassadorSlimFit_VIS_4_43186056-8862-45b4-b888-d9f9ea74fa0d.jpg?v=1789694289",
+              "sourceUrl": "https://www.outerknown.com/products/ambassador-slim-fit-zip-selved-zncpv_j_y_-resale",
+              "sha256": "2c6af9d29f6ba854b304bf7e64b0eadf1bcca8719c00e08843765a678f1f6354",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10597590630584-image-60434793726136",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/SU23_Lifestyle_Chroma_Offshore_Rewind_Look_24_11637_beb9cde5-8ac4-411b-8976-200be3517f00.jpg?v=1789694168",
+              "sourceUrl": "https://www.outerknown.com/products/rewind-shorts-n-fkx8xa1i-resale",
+              "sha256": "7704e8ee9657f74a43d3bee43da1a5d7054ed9ef26d0fd607affffe14dcec6fb",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10597590630584-image-60434793791672",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/6K0A3706_6b2005e0-6bfd-4b31-b7b0-aa68edf17e65.jpg?v=1789694168",
+              "sourceUrl": "https://www.outerknown.com/products/rewind-shorts-n-fkx8xa1i-resale",
+              "sha256": "265d15ce612773bbe310815090c3ab3fc2cd6db672a21e9e0320e3213896255b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10594522235064-image-60406072246456",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/2310030_Women_s_Blanket_Shirt_MAB_3_c69e3d25-7ca3-4330-b9ef-e85da9528a0d.jpg?v=1789609569",
+              "sourceUrl": "https://www.outerknown.com/products/womens-blanket-shirt-fd5kk-dnph-resale",
+              "sha256": "be12588d68da5efa1d2646b03dd2de5a8e681e2fd9c7a7411234badfa65b6516",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10594522235064-image-60406072311992",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/2310030_Women_s_Blanket_Shirt_MAB_4_a7c13064-9214-4d40-a13b-aea6b44f86ed.jpg?v=1789609569",
+              "sourceUrl": "https://www.outerknown.com/products/womens-blanket-shirt-fd5kk-dnph-resale",
+              "sha256": "45b75dff669e4b48eeb6b13ab2034d78d5be4bd204afeb3ac4265a74d6f3033d",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10594522202296-image-60406071820472",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/1630040_The_Dunes_Straight_Selvedge_RNS_8870_88dc1f37-e8af-4796-ab6e-dab9eaf59a99.jpg?v=1789609566",
+              "sourceUrl": "https://www.outerknown.com/products/the-dunes-straight-selvedge-jean-pnkizwus5o-resale",
+              "sha256": "3cee0962616da197b32bd9315de999b23b76c3030ee7140b295e0bbc2f9dd2c8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10594522202296-image-60406071886008",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/1630040_The_Dunes_Straight_Selvedge_RNS_8975_da59d8bb-4a3a-4156-80db-fc8ce0d2fec9.jpg?v=1789609566",
+              "sourceUrl": "https://www.outerknown.com/products/the-dunes-straight-selvedge-jean-pnkizwus5o-resale",
+              "sha256": "ebee6a08d8c5702ba9041e287a8f2e52b55af0dd72b0ba8ec8fbaa6cf39c2239",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10594522005688-image-60406059729080",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/2691004_OK_Active_78_Leggings_PCH_2_2149512a-4ac6-4c19-84bc-fa2a6008c8a9.jpg?v=1789609446",
+              "sourceUrl": "https://www.outerknown.com/products/ok-active-78-leggings-64r-z5h6kn-resale",
+              "sha256": "8bd01dd3c77257a6a19468dfff8390ac7755ae9f252788e843afce61a222c4d0",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "outerknown-10594522005688-image-60406059794616",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/2445/4975/files/2691004_OK_Active_78_Leggings_PCH_6_4a545bb5-f6ea-4c9c-b019-d0892795708a.jpg?v=1789609446",
+              "sourceUrl": "https://www.outerknown.com/products/ok-active-78-leggings-64r-z5h6kn-resale",
+              "sha256": "57d09b1ff03ff7865d3e219ea2cc184d6737486c837f8b9404aa353b9768c33b",
+              "outcome": "downloaded-unique"
+            }
+          ],
+          "downloadedUnique": 12
+        },
+        {
+          "source": "nooworks",
+          "pages": [
+            {
+              "url": "https://nooworks.com/products.json?limit=250&page=1",
+              "products": 250,
+              "retrievedAt": "2026-09-18T08:02:44.794461+00:00",
+              "snapshotSha256": "09ff79ad33a62ff4b038fc82b30177c4224b2135233186a4629fb8692c11af71"
+            }
+          ],
+          "errors": [],
+          "images": [
+            {
+              "id": "nooworks-9271812161667-image-48306070880387",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/69E2B97B-E25F-4354-8506-0D412FA97D8E.jpg?v=1789071574",
+              "sourceUrl": "https://nooworks.com/products/daphne-spots",
+              "sha256": "6f746a4958b40caa287a0d01388432da9074c196cb5ef092143ca45f2f3410c8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-9271812161667-image-48306070847619",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/EC99AD16-A6A5-4C4E-A540-D42FB4E8C3FA.jpg?v=1789071574",
+              "sourceUrl": "https://nooworks.com/products/daphne-spots",
+              "sha256": "b0e92359e7d252c79ca6fef50f5f664946b74c3f3e45cd695038a2c0329436ff",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-9271822483587-image-48428724977795",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/260917_NooWorks_Reedit_16.jpg?v=1789682371",
+              "sourceUrl": "https://nooworks.com/products/daphne-sondler-cat",
+              "sha256": "d9c9d45e5b99d607edd6dbdb70367e6970277e5b6713daadb2154645cf0dd130",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-9271822483587-image-48428725076099",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/260917_NooWorks_Reedit_17.jpg?v=1789682372",
+              "sourceUrl": "https://nooworks.com/products/daphne-sondler-cat",
+              "sha256": "383f9671b193f467c6559c2c7a1897579c1721903e8b9a9744cbaebde5eab6b4",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-9251416047747-image-48271254454403",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/IMG_1931.heic?v=1788894570",
+              "sourceUrl": "https://nooworks.com/products/twill-coveralls-spots",
+              "sha256": "6cb1e6f78c60d6a9053013bec812749f7341ea7393bbb0edf01755fce2858eb2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-9251416047747-image-48271254519939",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/IMG_1934.heic?v=1788894568",
+              "sourceUrl": "https://nooworks.com/products/twill-coveralls-spots",
+              "sha256": "a5bdc5a97871b1b429f1b1fa59cd8352f63c54a65d21aef30a0e36342bad2cc2",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-8620684411011-image-45920104022147",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/IMG_0723_acf81e4a-d8f8-4066-bb36-6c7a694839f4.jpg?v=1773944058",
+              "sourceUrl": "https://nooworks.com/products/skater-pant-sondler-cat",
+              "sha256": "8fb394d957057c547a6003d7b65a28b72f47835ce0cd02c519e98304f4357143",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-8620684411011-image-45920103825539",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/IMG_0732_cfb417c5-2c12-429d-bd58-23658ea7db49.jpg?v=1771014504",
+              "sourceUrl": "https://nooworks.com/products/skater-pant-sondler-cat",
+              "sha256": "945fbc5040fe111af3fec705b29b3fd25321053b260232ba5a1c92d3dcf67059",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-9261143031939-image-48428773900419",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/260917_NooWorks_Reedit_29.jpg?v=1789684458",
+              "sourceUrl": "https://nooworks.com/products/linen-olivia-top-poison-ivy",
+              "sha256": "7ca482eb2c8a937208de4c8a3b5d57659b426f3c2d9bedccd93ff094de6206b8",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-9261143031939-image-48428773933187",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/260917_NooWorks_Reedit_31.jpg?v=1789684459",
+              "sourceUrl": "https://nooworks.com/products/linen-olivia-top-poison-ivy",
+              "sha256": "28622f5a698d687e29bde1e78f0057ea039efe142e6677638cef6ed50361014b",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-9245293674627-image-48213376008323",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/IMG_1214_bd66e90b-26a7-4ab2-8ec2-6bdaac56abfb.jpg?v=1788465494",
+              "sourceUrl": "https://nooworks.com/products/dolly-dress-spots",
+              "sha256": "ab2ca6cbe9cd3a4c67000f6454902f50016023fe90a1c9b6fa35b0b75db5dd7f",
+              "outcome": "downloaded-unique"
+            },
+            {
+              "id": "nooworks-9245293674627-image-48177457070211",
+              "imageUrl": "https://cdn.shopify.com/s/files/1/0163/5048/files/260819_NooWorks_Studio_Maya37.jpg?v=1788210316",
+              "sourceUrl": "https://nooworks.com/products/dolly-dress-spots",
+              "sha256": "2d3a8604ce838a050ef2ee0e56f740fb95c78f38d9a72a11effb08aeba0ebc23",
               "outcome": "downloaded-unique"
             }
           ],

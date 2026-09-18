@@ -1,16 +1,16 @@
 {
-  "reviewedCandidates": 10219,
-  "admittedPhotos": 6879,
-  "totalPhotos": 7264,
+  "reviewedCandidates": 10243,
+  "admittedPhotos": 6889,
+  "totalPhotos": 7274,
   "axisSupport": {
-    "build": 5592,
+    "build": 5602,
     "shoulderHip": 311,
     "waist": 603
   },
   "completeReferences": 249,
-  "sourcePages": 6320,
+  "sourcePages": 6330,
   "excludedReasons": {
-    "non-outfit-view": 3282,
+    "non-outfit-view": 3296,
     "existing-source-page": 58
   },
   "excluded": [
@@ -13372,6 +13372,62 @@
     },
     {
       "id": "wooland-8310673768518-image-39882840178758",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outerknown-10597592400056-image-60434881413304",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outerknown-10597591580856-image-60434835243192",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outerknown-10597591580856-image-60434835308728",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outerknown-10597590630584-image-60434793791672",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outerknown-10594522235064-image-60406072311992",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outerknown-10594522202296-image-60406071886008",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "outerknown-10594522005688-image-60406059794616",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "nooworks-9271812161667-image-48306070847619",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "nooworks-9271822483587-image-48428724977795",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "nooworks-9271822483587-image-48428725076099",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "nooworks-9251416047747-image-48271254519939",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "nooworks-8620684411011-image-45920104022147",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "nooworks-9261143031939-image-48428773933187",
+      "reason": "non-outfit-view"
+    },
+    {
+      "id": "nooworks-9245293674627-image-48177457070211",
       "reason": "non-outfit-view"
     }
   ]
