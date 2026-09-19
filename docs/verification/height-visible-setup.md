@@ -1,0 +1,11 @@
+# Height and visible setup
+
+September 19, 2026. Release validation in progress in `Code/stylr-catalog-deploy`, branch `height-visible-setup`, based on `519e99b` with the current remote default branch included. The existing public site remains on the prior release until this report records successful publication.
+
+Height is optional in cm or feet/inches, saved with existing browser-local v2 data, and gently influences ordering. Unknown heights remain eligible, all three reviewed body axes keep their fixed tolerances, and dirty pinned drafts remain intact. Clothing range, optional sex and exclusions are expanded on initial setup. The 7,744-photo catalog and all existing body/presentation annotations remain unchanged.
+
+The height provenance layer has one verified exact-image caption (172.72 cm) from a bounded five-page retrieval. This does not provide broad height coverage or independently measured heights. Retained evidence, unknown outcomes and future sourcing requirements are in `data/model-heights/`.
+
+Verification: typecheck, all 177 unit tests (188,570 assertions), 7,744 image hashes, original-photo identity, deterministic admission, library audit and complete presentation audit pass. All 89 browser checks pass across the full run and focused reruns: the initial run passed 86; two new tests used an exact text-label selector that included option text, and one older test retained a renamed height label. The corrected tests pass using the accessible combobox role and current input label. The full unit suite includes the catalog-wide sequencing check and 46 height evidence/session tests.
+
+New browser tests cover visible settings, height/unit persistence, invalid values, unchanged match counts, source links and draft preservation. Existing checks verify all 7,744 photographs load, desktop/mobile accessibility, 320×640 through 1440×900 discovery geometry, touch/mouse swipes, storage failures/conflicts and the illustrated study. Desktop and mobile setup screenshots were visually inspected; settings are expanded and the discovery action remains reachable without opening a disclosure. Photo-containing screenshots remain local ignored artifacts.

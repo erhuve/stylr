@@ -2,16 +2,17 @@ import type { Photo, PhotoSession } from '../lib/photo-types';
 import { bodyDistance, bodySelection } from '../lib/body-reference';
 import BodySilhouette from './BodySilhouette';
 import '../body-controls.css';
+import { heightSimilarity, getReportedHeight } from '../lib/height-reference';
 
-type Props = { body: PhotoSession['body']; photos: Photo[]; disabled: boolean; onChange: (body: NonNullable<PhotoSession['body']>) => void };
-export default function BodyControls({ body, photos, disabled, onChange }: Props) {
+type Props = { body: PhotoSession['body']; heightCm?: number | null; photos: Photo[]; disabled: boolean; onChange: (body: NonNullable<PhotoSession['body']>) => void };
+export default function BodyControls({ body, heightCm, photos, disabled, onChange }: Props) {
   const selection = bodySelection(body);
   const controls = [
     { axis: 'build' as const, title: 'Overall build', min: 1, max: 3, left: 'Slender', right: 'Fuller / broader' },
     { axis: 'shoulderHip' as const, title: 'Shoulders & hips', min: -1, max: 1, left: 'Hips wider', right: 'Shoulders wider' },
     { axis: 'waist' as const, title: 'Waist shape', min: 0, max: 2, left: 'Straighter sides', right: 'More defined waist' },
   ];
-  const previews = [...photos].sort((first, second) => bodyDistance(first.id, selection) - bodyDistance(second.id, selection)).slice(0, 3);
+  const previews = [...photos].sort((first, second) => bodyDistance(first.id, selection) - bodyDistance(second.id, selection) - .12 * (heightSimilarity(first.id, heightCm) - heightSimilarity(second.id, heightCm))).slice(0, 3);
   return <section className="body-controls" aria-label="Body reference preferences">
     <h2>Start with your proportions.</h2>
     <p>Adjust the figure to the build you want to see.</p>
@@ -26,7 +27,7 @@ export default function BodyControls({ body, photos, disabled, onChange }: Props
       </fieldset>
     </div>
     <div className="body-results"><strong>Nearby real outfits</strong><span role="status">{photos.length ? `${photos.length} ${photos.length === 1 ? 'match' : 'matches'}` : 'No reviewed matches — adjust your proportions'}</span></div>
-    <div className="body-previews" aria-label="Matching body references">{previews.map(photo => <img key={photo.id} src={photo.src} alt={photo.description} />)}</div>
+    <div className="body-previews" aria-label="Matching body references">{previews.map(photo => <img key={photo.id} src={photo.src} alt={photo.description} title={getReportedHeight(photo.id) ? `Source-reported height: ${getReportedHeight(photo.id)!.heightCm} cm` : 'Height not reported'} />)}</div>
     <details><summary>How matching works</summary><small>The figure changes continuously. Photos update when nearby reviewed references change; our limited library cannot supply a different photo at every position. All three traits must be reviewed and nearby. This is a visual guide, not a measurement or fit prediction.</small></details>
   </section>;
 }

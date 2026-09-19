@@ -2,6 +2,7 @@ import { z } from 'zod';
 import { matchesBody } from './body-reference';
 import { DIMENSION_KEYS, DIMENSION_PAIR_MASKS, nearIdenticalPhotos, normalizeDimensionPhrase, photoDimensionSignals, sharedDimensionGroups, type PhotoDimensionSignals } from './photo-dimensions';
 import type { Feature, FeatureEvidence, Photo, PhotoFeedback, PhotoReaction, PhotoSession } from './photo-types';
+import { heightSimilarity, MIN_HEIGHT_CM, MAX_HEIGHT_CM } from './height-reference';
 
 export const PHOTO_KEY = 'stylr:photos:v2';
 export const MAX_PHOTO_VOTES = 10_000;
@@ -19,6 +20,8 @@ const schema = z.object({
   collection: z.enum(['all', 'women', 'men']), frame: z.enum(['all', 'smaller', 'mid', 'fuller']),
   votes: z.array(feedback.extend({ reaction: z.enum(['wear', 'admire', 'pass', 'unsure']) }).refine(disjoint)).max(MAX_PHOTO_VOTES).refine(v => unique(v.map(x => x.photoId))),
   draft: feedback.refine(disjoint).optional(), exclusions: z.array(z.enum(['no-skirts', 'no-shorts', 'no-heels', 'no-boots'])).max(4).refine(unique),
+  heightCm: z.number().finite().min(MIN_HEIGHT_CM).max(MAX_HEIGHT_CM).nullable().optional(),
+  heightUnit: z.enum(['cm', 'ft-in']).optional(),
 }).strict();
 export function freshPhotoSession(): PhotoSession { return { version: 2, step: 'setup', sex: 'unspecified', collection: 'all', frame: 'all', votes: [], exclusions: [] }; }
 export function parsePhotoSession(raw: string | null, photos: Photo[]): { session: PhotoSession; status: 'empty' | 'valid' | 'invalid' } {
@@ -264,7 +267,7 @@ function createSequence(session: PhotoSession, photos: Photo[], indexed: Indexed
     const association = signalRange(item.features, featureScores) * 0.2 + signalRange(item.dimensions.groups.flat(), dimensionScores) * 0.3 + combination.affinity * 0.5;
     const affinity = broad ? 0 : bounded(association * (related ? 110 : hasDimensions ? 0 : 4), related ? 65 : 3);
     const detail = bounded(signalRange(item.features, explicit), 90) * (broad ? 0.2 : 0.45);
-    return variety + fresh + coverageBalance + affinity + detail - repetition + (session.frame === p.frame ? 18 : 0) + (p.view === 'full' ? 8 : 0);
+    return variety + fresh + coverageBalance + affinity + detail - repetition + (session.frame === p.frame ? 18 : 0) + (p.view === 'full' ? 8 : 0) + heightSimilarity(p.id, session.heightCm) * 12;
   }
 
   return {
@@ -294,7 +297,7 @@ export function photoQueue(session: PhotoSession, photos: Photo[], limit = 3): P
     if (pinned && eligiblePhotos(session, [pinned]).length) return [pinned];
   }
   const index = indexPhotos(photos);
-  const key = JSON.stringify([size, session.body, session.collection, session.frame, session.exclusions, session.draft?.photoId, session.votes.map(vote => [vote.photoId, vote.reaction, vote.more, vote.less])]);
+  const key = JSON.stringify([size, session.body, session.heightCm, session.collection, session.frame, session.exclusions, session.draft?.photoId, session.votes.map(vote => [vote.photoId, vote.reaction, vote.more, vote.less])]);
   if (lastQueue?.index === index && lastQueue.key === key) return lastQueue.photos.slice();
   const sequence = createSequence(session, photos, index), queue: Photo[] = [];
   for (let i = 0; i < size; i++) {

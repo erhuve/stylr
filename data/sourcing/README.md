@@ -1,5 +1,9 @@
 # Continuing photo sourcing
 
+## Source-reported model height
+
+Capture optional height provenance separately in `data/model-heights/`, never in visual body labels. Preserve bounded candidate scope, failures/unknowns, original units/value and normalized cm, exact source quote/URL/retrieval time, retained snapshot digest, admitted photo ID/image hash and explicit exact-image identification. A singular image-specific source caption can qualify; product-wide multi-model heights, petite/tall labels and likeness transfer cannot. Source-reported is not independently measured. Unknowns remain eligible, and height supplies only a gentle preference. Read `data/model-heights/README.md`; audit with `bun scripts/audit-model-heights.ts` before promoting records. The initial bounded pass verifies one photo and leaves the other seven fetched-page photo candidates unknown.
+
 This is the durable search ledger for Stylr. Start with `coverage.md` for source yields, `pages.json` for all provably sampled URLs and their intake manifests, and `next-pages.json` for observed, text-eligible pages not yet sampled. Regenerate all three with `python research/catalog/source_inventory.py` after admission. The JSON is authoritative; the Markdown is a readable summary.
 
 New batch `searches.json` files record every product inspected in a fetched listing, including previously sampled, text-filtered, no-images, selected and eligible-deferred decisions. `sources.json` records listing URLs, retrieval timestamps, raw snapshot hashes, errors, selected image URLs and download/deduplication outcomes. `intake.json` binds downloaded candidates to exact image bytes. `observations.tsv` and `labels.json` record actual visual review; the deterministic admission report records inclusion/exclusion. A selected URL is not a reviewed image, and a reviewed image is not necessarily admitted.

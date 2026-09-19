@@ -1,5 +1,9 @@
 # Stylr photo and label pipeline
 
+## Source-reported model height
+
+`data/model-heights/` is a separate reviewed provenance layer. The bounded seed has one exact-image source-reported height, not an independently measured height. See its README and search ledger for scope and unknowns. `src/lib/height-reference.ts` supplies a gentle similarity preference, never an eligibility filter; unknown heights remain eligible. Future batches must retain source snapshots/digests, exact admitted image IDs/hashes, image-specific identification evidence, original units/value, normalization, quote, URL and retrieval time. Never infer height visually, from petite/tall ranges, generic multi-model descriptions or resemblance. Run `bun scripts/audit-model-heights.ts` and `bun test tests/height-reference.test.ts` before consuming new records. This changes no body labels or photo admission decisions.
+
 2026-09-16. The deployment dataset and research code are maintained with the app. See `research/README.md` for portable paths, environment separation and reproduction. Original image corpora remain outside Git.
 
 ## From sources to the application

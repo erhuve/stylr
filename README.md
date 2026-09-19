@@ -1,5 +1,7 @@
 # Stylr — personal discovery
 
+September 19 setup update: height (cm or feet/inches), clothing range, optional sex and exclusions are visible from the start. Height gently prioritizes similar source-reported references without excluding unknown heights or widening body filters. The current 7,744-photo catalog contains only one exact-image height record; this is a provenance-backed seed, not broad height coverage. Existing v2 sessions, notes and reactions remain compatible. The active public URL is https://stylr-personal-hatsunemiku.zocomputer.io/; older private URLs and checkpoint counts below are historical. Release verification is recorded in `docs/verification/height-visible-setup.md`.
+
 A personal-style discovery experiment: real outfit photos, one at a time, with quick swiping and no required questionnaire.
 
 **Active workspace:** `Sites/stylr-personal`, branch `personal-discovery`, https://github.com/erhuve/stylr. Privately published at https://stylr-personal-hatsunemiku.zo.computer/; owner sign-in is required. The production service is independent of the development preview. `Sites/stylr` is the separate working directory for the previous public release; do not use it for this iteration or run test builds there.

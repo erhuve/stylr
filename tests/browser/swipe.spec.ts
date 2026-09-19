@@ -49,8 +49,8 @@ for (const [width, height] of [[320, 640], [390, 844], [768, 1024], [1440, 900]]
     const startBox = await startButton.boundingBox();
     expect(startBox!.y).toBeGreaterThanOrEqual(0);
     expect(startBox!.y + startBox!.height).toBeLessThanOrEqual(height);
-    await expect(page.locator('.photo-settings')).not.toHaveAttribute('open');
-    await expect(page.getByLabel('Sex', { exact: false })).not.toBeVisible();
+    await expect(page.locator('.photo-settings > summary')).toHaveCount(0);
+    await expect(page.getByLabel('Sex', { exact: false })).toBeVisible();
     await startButton.click();
     await expect(wear(page)).toBeEnabled();
     await page.evaluate(() => document.fonts.ready);
@@ -75,12 +75,11 @@ for (const [width, height] of [[320, 640], [390, 844], [768, 1024], [1440, 900]]
   });
 }
 
-test('optional settings retain profile semantics, legacy storage and immediately available Continue', async ({ page }) => {
+test('visible settings retain optional profile semantics, legacy storage and immediately available Continue', async ({ page }) => {
   const legacy = JSON.stringify(freshSession());
   await page.addInitScript(({ key, value }) => localStorage.setItem(key, value), { key: STORAGE_KEY, value: legacy });
   await page.setViewportSize({ width: 320, height: 640 });
   await page.goto('/');
-  await page.locator('.photo-settings > summary').click();
   await page.getByLabel('Sex', { exact: false }).selectOption('female');
   await page.getByRole('slider', { name: 'Overall build' }).fill('1.5');
   await page.getByRole('slider', { name: 'Shoulders & hips' }).fill('1');
@@ -96,9 +95,8 @@ test('optional settings retain profile semantics, legacy storage and immediately
   await page.getByRole('button', { name: 'Settings', exact: true }).click();
   const bounds = await page.getByRole('button', { name: 'Continue my photo study', exact: true }).boundingBox();
   expect(bounds!.y + bounds!.height).toBeLessThanOrEqual(640);
-  await expect(page.locator('.photo-settings')).not.toHaveAttribute('open');
+  await expect(page.getByLabel('Centimeters', { exact: true })).toBeVisible();
   await page.reload();
-  await page.locator('.photo-settings > summary').click();
   await expect(page.getByLabel('Sex', { exact: false })).toHaveValue('female');
   await expect(page.getByRole('slider', { name: 'Overall build' })).toHaveValue('1.5');
   expect(await page.evaluate(key => localStorage.getItem(key), STORAGE_KEY)).toBe(legacy);
@@ -367,7 +365,6 @@ test('settings filter changes still confirm before replacing a nonempty pinned d
   await page.locator('.photo-details > summary').click();
   await page.getByLabel('What catches your eye?').fill('Unfinished sleeve note');
   await page.getByRole('button', { name: 'Settings', exact: true }).click();
-  await page.locator('.photo-settings > summary').click();
   const range = PHOTOS.find(photo => photo.id === first)?.collection === 'men' ? 'Women’s looks' : 'Men’s looks';
   await page.getByRole('button', { name: range, exact: true }).click();
   await expect(page.getByRole('dialog')).toContainText('Change your selection and replace this draft?');

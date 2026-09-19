@@ -1,0 +1,590 @@
+{
+  "schemaVersion": 1,
+  "scope": "Bounded seed only: eight saved listing JSON files (first 250 products each), five already-admitted product pages via read_webpage. Prioritize complete three-axis references. No new photos, reverse-identification, likeness transfer or further source crawling.",
+  "savedSnapshots": [
+    {
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/raw/alt-disturbia.json",
+      "sha256": "10e27482fc0514c94b45dd4c5ad0d8322c58240cee3cb60b2018163e0b05ba04",
+      "productsInspected": 250,
+      "completeBodyCandidates": [
+        {
+          "photoId": "disturbia-15974534250869-view-1",
+          "sourceUrl": "https://www.disturbia.co.uk/products/xana-textured-tie-front-long-cardigan-purple",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "disturbia-15965514695029-view-0",
+          "sourceUrl": "https://www.disturbia.co.uk/products/rasque-buckle-fixed-wrap-wide-leg-jumpsuit",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "disturbia-15951915188597-view-1",
+          "sourceUrl": "https://www.disturbia.co.uk/products/reign-brushed-denim-flare-jean",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        }
+      ]
+    },
+    {
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/raw/alt-lucyandyak.json",
+      "sha256": "783748348443fe6e3e464784e8caaba6245ae742f97f8d15daf16922054e957d",
+      "productsInspected": 250,
+      "completeBodyCandidates": [
+        {
+          "photoId": "lucyandyak-15777605648758-view-0",
+          "sourceUrl": "https://www.lucyandyak.com/products/rumi-brushed-cotton-trouser-in-plum-perfect",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "lucyandyak-15704160993654-view-0",
+          "sourceUrl": "https://www.lucyandyak.com/products/grayson-long-sleeve-cotton-top-in-blue-opal",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "lucyandyak-15704157880694-view-0",
+          "sourceUrl": "https://www.lucyandyak.com/products/tate-organic-cotton-wide-leg-trousers-in-pinstripe",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "lucyandyak-15704152473974-view-0",
+          "sourceUrl": "https://www.lucyandyak.com/products/finnegan-organic-cotton-full-length-jumpsuit-in-animal",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "lucyandyak-15704152342902-view-0",
+          "sourceUrl": "https://www.lucyandyak.com/products/ragan-organic-cotton-cord-jumpsuit-in-raspberry",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "lucyandyak-15704152342902-view-1",
+          "sourceUrl": "https://www.lucyandyak.com/products/ragan-organic-cotton-cord-jumpsuit-in-raspberry",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "lucyandyak-15704151916918-view-0",
+          "sourceUrl": "https://www.lucyandyak.com/products/ashby-organic-cotton-barrel-trouser-in-folk-floral-stripe",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "lucyandyak-15505015112054-view-0",
+          "sourceUrl": "https://www.lucyandyak.com/products/sol-organic-denim-short-in-vintage-wash",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        }
+      ]
+    },
+    {
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/raw/alt-midnighthour.json",
+      "sha256": "d2dd091d20b26867c6be8d3aa9fffadd3d4a07d55eabc9e881c19fe4d6637ab9",
+      "productsInspected": 250,
+      "completeBodyCandidates": [
+        {
+          "photoId": "midnighthour-9126326304945-view-0",
+          "sourceUrl": "https://www.midnighthour.com/products/bat-xmas-cardigan-mens",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-9131711168689-view-1",
+          "sourceUrl": "https://www.midnighthour.com/products/snake-romance-legging-plus",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-7350125527217-view-1",
+          "sourceUrl": "https://www.midnighthour.com/products/dagger-joggers-mens",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-8375313072305-image-41185305821361",
+          "sourceUrl": "https://www.midnighthour.com/products/oxblood-plaid-trouser",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-8375313072305-image-42139257372849",
+          "sourceUrl": "https://www.midnighthour.com/products/oxblood-plaid-trouser",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-9119696093361-image-43770811449521",
+          "sourceUrl": "https://www.midnighthour.com/products/cathedral-leggings-plus",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-8097750581425-view-1",
+          "sourceUrl": "https://www.midnighthour.com/products/punks-not-dead-cardigan-mens",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-8022780543153-image-36400321003697",
+          "sourceUrl": "https://www.midnighthour.com/products/punks-not-dead-cardigan",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-9070403485873-image-43085844381873",
+          "sourceUrl": "https://www.midnighthour.com/products/fern-burnout-crop-t-shirt-plus",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-9070403485873-image-43085844414641",
+          "sourceUrl": "https://www.midnighthour.com/products/fern-burnout-crop-t-shirt-plus",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-7671148773553-image-43438578729137",
+          "sourceUrl": "https://www.midnighthour.com/products/murder-of-crows-cardigan-plus",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-7671148773553-view-1",
+          "sourceUrl": "https://www.midnighthour.com/products/murder-of-crows-cardigan-plus",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "midnighthour-9035538727089-image-43060346781873",
+          "sourceUrl": "https://www.midnighthour.com/products/mesh-sweetheart-top-plus",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        }
+      ]
+    },
+    {
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/raw/alt-mochipan.json",
+      "sha256": "9bf1625cdb38d8b69fcc52bd1045fa7512729238e688069e24b182e172b522d8",
+      "productsInspected": 250,
+      "completeBodyCandidates": [
+        {
+          "photoId": "mochipan-9016954519807-image-44916051017983",
+          "sourceUrl": "https://mochipan.com/products/garden-overalls",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "mochipan-9016954519807-view-0",
+          "sourceUrl": "https://mochipan.com/products/garden-overalls",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        }
+      ]
+    },
+    {
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/raw/alt-myviolet.json",
+      "sha256": "f491a08c2d4ace21e4472102d203da25d231ef785023801de4e2ed675bae8673",
+      "productsInspected": 190,
+      "completeBodyCandidates": [
+        {
+          "photoId": "myviolet-9663492784375-image-60979270582519",
+          "sourceUrl": "https://shopmyviolet.com/products/dreamy-star-plaid-pants-lavender",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "myviolet-9663492620535-image-60884538360055",
+          "sourceUrl": "https://shopmyviolet.com/products/dreamy-star-plaid-pants-pink",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        }
+      ]
+    },
+    {
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/raw/bigbudpress.json",
+      "sha256": "217471e4104d33ae30f946572ac0d308008c0a28c25e37192cf79f6b4ebda656",
+      "productsInspected": 250,
+      "completeBodyCandidates": [
+        {
+          "photoId": "bigbudpress-11052110643393-image-50917265735873",
+          "sourceUrl": "https://bigbudpress.com/products/porthole-tank-vintage-tee-white",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-11047996752065",
+          "sourceUrl": "https://bigbudpress.com/products/black-stripe-work-pants-construction-orange",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-7631072493761-image-50869273264321",
+          "sourceUrl": "https://bigbudpress.com/products/black-stripe-work-pants-white",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-11041133658305",
+          "sourceUrl": "https://bigbudpress.com/products/short-sleeve-jumpsuit-fruit-fantasy",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-11041130217665-image-50832119791809",
+          "sourceUrl": "https://bigbudpress.com/products/racerback-tank-fruit-fantasy",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-11041119830209",
+          "sourceUrl": "https://bigbudpress.com/products/work-pants-veggie-village",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-11041116553409-image-50833812455617",
+          "sourceUrl": "https://bigbudpress.com/products/veggie-village-cropped-baby-tee",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-11041107935425-image-50833707532481",
+          "sourceUrl": "https://bigbudpress.com/products/produce-raglan-tee-garlic",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-11031145316545-image-50748102213825",
+          "sourceUrl": "https://bigbudpress.com/products/railroad-denim-work-pants-burnt-terracotta",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-11031542235329-image-50745065799873",
+          "sourceUrl": "https://bigbudpress.com/products/vintage-ringer-tee-sunshine-yellow",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10949794758849",
+          "sourceUrl": "https://bigbudpress.com/products/paintstamped-work-pants-big-bug",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-11014078464193-image-50610250449089",
+          "sourceUrl": "https://bigbudpress.com/products/classic-polo-dishwater-white",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10992582099137-image-50462065230017",
+          "sourceUrl": "https://bigbudpress.com/products/pleated-pull-on-pants-basic-black",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10992582099137-image-50462065459393",
+          "sourceUrl": "https://bigbudpress.com/products/pleated-pull-on-pants-basic-black",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10993157734593-image-50462070735041",
+          "sourceUrl": "https://bigbudpress.com/products/pleated-pull-on-pants-lagoon-1",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10992561127617-image-50462078435521",
+          "sourceUrl": "https://bigbudpress.com/products/tube-top-espresso-brown",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10934760571073-image-50036465762497",
+          "sourceUrl": "https://bigbudpress.com/products/magic-waters-drop-pocket-pants-dark-lavender",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-7701951152321-image-49822342840513",
+          "sourceUrl": "https://bigbudpress.com/products/carpenter-jeans-light-wash",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10849423851713",
+          "sourceUrl": "https://bigbudpress.com/products/petite-short-sleeve-jumpsuit-washed-grey",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10835426640065-image-48850468962497",
+          "sourceUrl": "https://bigbudpress.com/products/drop-pocket-cargo-pants-evergreen",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10835426640065-image-48850469355713",
+          "sourceUrl": "https://bigbudpress.com/products/drop-pocket-cargo-pants-evergreen",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-7292492841153",
+          "sourceUrl": "https://bigbudpress.com/products/short-sleeve-jumpsuit-burnt-terracotta",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "bigbudpress-10588849864897-image-49823243075777",
+          "sourceUrl": "https://bigbudpress.com/products/short-sleeve-jumpsuit-gross-green",
+          "imageIdFound": true,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        }
+      ]
+    },
+    {
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/raw/kirrinfinch.json",
+      "sha256": "fdcb7ea0aff26ebd4406c947b800a24f90fe96f886dd3da63436c66103a9b4d8",
+      "productsInspected": 75,
+      "completeBodyCandidates": [
+        {
+          "photoId": "kirrinfinch-7618588377159",
+          "sourceUrl": "https://kirrinfinch.com/products/short-sleeve-polo",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "kirrinfinch-7618585690183",
+          "sourceUrl": "https://kirrinfinch.com/products/addams-easy-care-stretch-dress-shirt",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        },
+        {
+          "photoId": "kirrinfinch-7148610814023",
+          "sourceUrl": "https://kirrinfinch.com/products/suspenders",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        }
+      ]
+    },
+    {
+      "path": "/home/workspace/Documents/stylr-catalog-pilot/raw/universalstandard.json",
+      "sha256": "4cb4367709c8a681e39abbbc8612f64cb3070649143107558f31dbc55ce1ae95",
+      "productsInspected": 250,
+      "completeBodyCandidates": [
+        {
+          "photoId": "universalstandard-7647627935790",
+          "sourceUrl": "https://www.universalstandard.com/products/the-refined-lou-high-rise-barrel-leg-jeans-anzio-blue",
+          "imageIdFound": false,
+          "imageAlt": null,
+          "outcome": "unknown",
+          "reason": "Saved listing alone does not establish an exact-image model-height caption; not promoted."
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "sourceUrl": "https://ashanderie.com/products/blue-twill-dress-shirt",
+      "retrievedAt": "2026-09-19T04:04:56Z",
+      "retrievalMethod": "read_webpage (non-browser)",
+      "snapshot": "snapshots/ashanderie-com-blue-twill-dress-shirt.html.gz",
+      "snapshotSha256": "3331a427e36e09c94ded0e42081b3dee6c6995a08da6da83993ae7e36f590f49",
+      "candidatePhotoIds": [
+        "ashanderie-9931920081194-image-50448391471402"
+      ],
+      "completeBodyPhotoIds": [
+        "ashanderie-9931920081194-image-50448391471402"
+      ],
+      "outcome": "verified-exact-gallery-caption",
+      "reason": "Same gallery slide contains exact versioned admitted image URL and one named-model height caption; no transfer to other images."
+    },
+    {
+      "sourceUrl": "https://snagtights.com/products/cotton-strappy-bodysuit-black",
+      "retrievedAt": "2026-09-19T04:03:35Z",
+      "retrievalMethod": "read_webpage (non-browser)",
+      "snapshot": "snapshots/snagtights-com-cotton-strappy-bodysuit-black.html.gz",
+      "snapshotSha256": "c8e5c81efadbdd0b5a7ecf01b76701746c9130aef72baaa0e37dfa9652391a7a",
+      "candidatePhotoIds": [
+        "snag-7399277592618-image-33811062489130"
+      ],
+      "completeBodyPhotoIds": [
+        "snag-7399277592618-image-33811062489130"
+      ],
+      "outcome": "unknown",
+      "reason": "No unambiguous height caption bound to an admitted gallery image found; product-wide or generic multi-model claims are insufficient."
+    },
+    {
+      "sourceUrl": "https://snagtights.com/products/pencil-skirt-figgy-pudding",
+      "retrievedAt": "2026-09-19T04:03:35Z",
+      "retrievalMethod": "read_webpage (non-browser)",
+      "snapshot": "snapshots/snagtights-com-pencil-skirt-figgy-pudding.html.gz",
+      "snapshotSha256": "57f7425ddb1434b44d1b97598170f0ebe676fd2b2871625da33e69d79fd9e2b1",
+      "candidatePhotoIds": [
+        "snag-6776525652010-image-30569614573610",
+        "snag-6776525652010-image-30569614868522"
+      ],
+      "completeBodyPhotoIds": [
+        "snag-6776525652010-image-30569614573610"
+      ],
+      "outcome": "unknown",
+      "reason": "No unambiguous height caption bound to an admitted gallery image found; product-wide or generic multi-model claims are insufficient."
+    },
+    {
+      "sourceUrl": "https://snagtights.com/products/squat-proof-leggings-navy",
+      "retrievedAt": "2026-09-19T04:03:04Z",
+      "retrievalMethod": "read_webpage (non-browser)",
+      "snapshot": "snapshots/snagtights-com-squat-proof-leggings-navy.html.gz",
+      "snapshotSha256": "b43a27899f9fd1e0b2c24fd20e4db16d0e8c17b8215b41ba67a5897a4a1c77b3",
+      "candidatePhotoIds": [
+        "snag-8016274817066-image-37561293307946",
+        "snag-8016274817066-image-37561293373482"
+      ],
+      "completeBodyPhotoIds": [
+        "snag-8016274817066-image-37561293373482"
+      ],
+      "outcome": "unknown",
+      "reason": "No unambiguous height caption bound to an admitted gallery image found; product-wide or generic multi-model claims are insufficient."
+    },
+    {
+      "sourceUrl": "https://superfithero.com/products/supersoft-pocket-leggings-heather-black",
+      "retrievedAt": "2026-09-19T04:04:56Z",
+      "retrievalMethod": "read_webpage (non-browser)",
+      "snapshot": "snapshots/superfithero-com-supersoft-pocket-leggings-heather-black.html.gz",
+      "snapshotSha256": "13dc7520a3bd899761ca139e906d1a720287dceeb1dcde33f947ebd73e8f966d",
+      "candidatePhotoIds": [
+        "superfithero-8725491908820-image-42625061617876",
+        "superfithero-8725491908820-image-42625061650644"
+      ],
+      "completeBodyPhotoIds": [
+        "superfithero-8725491908820-image-42625061617876",
+        "superfithero-8725491908820-image-42625061650644"
+      ],
+      "outcome": "unknown",
+      "reason": "No unambiguous height caption bound to an admitted gallery image found; product-wide or generic multi-model claims are insufficient."
+    }
+  ],
+  "retrievalFailures": [],
+  "limitations": [
+    "read_webpage HTML is a retained extraction snapshot, not a raw HTTP archival response.",
+    "A successful fetch does not verify a model height; four pages remain unknown.",
+    "Only one exact image caption admitted; other images on its page remain unknown.",
+    "No independent measurement or accuracy verification of the source claim."
+  ]
+}

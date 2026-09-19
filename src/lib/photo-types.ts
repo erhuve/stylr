@@ -13,6 +13,8 @@ export type PhotoReaction = 'wear' | 'admire' | 'pass' | 'unsure';
 export type PhotoFeedback = { photoId: string; note: string; more: Feature[]; less: Feature[] };
 export type PhotoVote = PhotoFeedback & { reaction: PhotoReaction };
 export type PhotoSession = {
+  heightCm?: number | null;
+  heightUnit?: 'cm' | 'ft-in';
   body?: { build: number | null; shoulderHip: number | null; waist: number | null; mode?: 'nearby' };
   version: 2; step: 'setup' | 'discover' | 'portrait'; sex: 'unspecified' | 'female' | 'male' | 'intersex';
   collection: 'all' | Collection; frame: 'all' | Frame; votes: PhotoVote[]; draft?: PhotoFeedback;

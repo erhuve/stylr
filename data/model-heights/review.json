@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "meaning": "Source-reported, not independently measured. Unknown photos remain eligible.",
+  "records": [
+    {
+      "photoId": "ashanderie-9931920081194-image-50448391471402",
+      "imageSha256": "82edd4c62e1825b9e28d18a2ee1aff0abd846282c2d5000979f21b3f3dff3f4e",
+      "heightCm": 172.72,
+      "sourceUrl": "https://ashanderie.com/products/blue-twill-dress-shirt",
+      "quote": "Drew - 5'8\" 15.5\" Standard",
+      "retrievedAt": "2026-09-19T04:04:56Z",
+      "status": "source-verified",
+      "original": {
+        "unit": "ft-in",
+        "value": "5'8\""
+      },
+      "snapshot": {
+        "path": "snapshots/ashanderie-com-blue-twill-dress-shirt.html.gz",
+        "sha256": "3331a427e36e09c94ded0e42081b3dee6c6995a08da6da83993ae7e36f590f49"
+      },
+      "evidence": {
+        "kind": "gallery-image-caption",
+        "galleryIndex": 0,
+        "imageUrl": "https://ashanderie.com/cdn/shop/files/dress-shirts-blue-twill-dress-shirt-1202619827.jpg?v=1762209045&width=1800",
+        "explanation": "Both mobile and desktop product-main-slide[data-index=\"0\"] contain this exact versioned image and model-info--custom caption. Shopify CDN filename and v=1762209045 match the admitted asset. The 15.5-inch Standard value is shirt sizing, not height. No height assigned to the other slides."
+      }
+    }
+  ]
+}

@@ -4,7 +4,6 @@ import { PHOTO_KEY } from '../../src/lib/photo-session';
 
 test('setup mosaic respects clothing range and exclusions', async ({ page }) => {
   await page.goto('/');
-  await page.locator('.photo-settings > summary').click();
   await page.getByRole('button', { name: 'Men’s looks', exact: true }).click();
   const allowed = PHOTOS.filter(p => p.collection === 'men').map(p => p.src);
   const sources = await page.locator('.photo-mosaic img').evaluateAll(nodes => nodes.map(n => n.getAttribute('src')));
@@ -34,7 +33,6 @@ test('skip explains that explicit negative detail feedback is retained', async (
 
 test('explicit reset recovers after another tab has already cleared storage', async ({ page }) => {
   await page.goto('/');
-  await page.locator('.photo-settings > summary').click();
   await page.getByLabel('Sex').selectOption('female');
   await expect(page.locator('.site-footer')).not.toContainText('Saving…');
   await page.evaluate(key => {

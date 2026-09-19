@@ -1,5 +1,9 @@
 # Stylr — personal discovery expansion
 
+## Height and visible setup, September 19, 2026
+
+The approved update exposes all former optional setup settings immediately, including clothing range, optional self-reported sex and garment exclusions. Height is optional, accepts cm or feet/inches, persists locally and adds a bounded similarity preference to previews and discovery. It does not alter eligibility, required body axes, empty-result behavior or pinned drafts. Only exact-image source-reported height evidence is eligible; the seed has one record and unknown heights remain included. Existing saved reactions, notes, illustrated behavior, accessibility and above-fold discovery controls remain protected. Verify in the isolated checkout, then republish the existing public `Sites/stylr-personal` site. See `docs/verification/height-visible-setup.md` for the release state. This supersedes hidden-setup and private-publication guidance below.
+
 ## Body-reference controls, 2026-09-14
 
 Latest UX revision supersedes optional axis checkboxes and discrete sliders: three required continuous values, clear spectrum endpoints, one responsive silhouette, and distance-sorted real-photo previews. New `nearby` matching excludes unknowns and uses fixed proximity limits (build 0.5, shoulder/hip and waist 0.75). All three values apply on Start, with confirmation before replacing a dirty draft. Legacy exact optional filters still load unchanged. A smooth figure is not evidence of continuous measurement precision; photo changes are limited by reviewed coverage. Fem/masc presentation is deferred pending a rubric and annotations.
